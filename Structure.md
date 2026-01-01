@@ -13,6 +13,11 @@ Nos critères sur les sources
 - Les sites officiels chinois sur le projet La ceinture et la route 
 - Les coloqs, conférences représentatifs du projet
 - Les sites officiels des pays colaboratifs du projet
+Apres avoir collecté les données et vérifieé leurs accessebilités, on a choisi 15 pays au total.
+
+### Colleter
+- Web crawling: récupérer les urls 
+- Web scrabing: récupérer les contenus d'urls collectés.
 
 ### Vérification des données
 Enlèvement des données non liées au projet La ceinture et la route
