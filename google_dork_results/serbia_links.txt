@@ -1,0 +1,63 @@
+================================================================================
+塞尔维亚 - 一带一路相关链接 (Google搜索结果)
+目标网站: https://www.predsednik.rs/en/
+搜索查询: Belt and Road site:www.predsednik.rs/en
+爬取时间: 2026-01-01 23:01:49
+================================================================================
+
+1. Summit of China and 17 countries of Central and Eastern ...
+   URL: https://www.predsednik.rs/en/press-center/news/summit-of-china-and-17-countries-of-central-and-eastern-europe
+   类型: HTML
+
+2. President Vučić attends the arrival of the first cargo train ...
+   URL: https://www.predsednik.rs/en/press-center/news/president-vucic-attends-the-arrival-of-the-first-cargo-train-from-china-to-serbia
+   类型: HTML
+
+3. Letter of congratulations to the President of the People's ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/letter-of-congratulations-to-the-president-of-the-peoples-republic-of-china-28320
+   类型: HTML
+
+4. President Vučić visits works on construction of a part ...
+   URL: https://www.predsednik.rs/en/press-center/news/president-vucic-visits-works-on-construction-of-a-part-of-the-belgrade-budapest-high-speed-railway
+   类型: HTML
+
+5. President tours works on Zemun-station, Beška viaduct
+   URL: https://www.predsednik.rs/en/press-center/news/president-tours-works-on-zemun-station-beska-viaduct
+   类型: HTML
+
+6. Meeting with the member of the Politburo of the Communist ...
+   URL: https://www.predsednik.rs/en/press-center/news/meeting-with-the-member-of-the-politburo-of-the-communist-party-of-china-and-secretary-of-the-ccp-central-secretariat
+   类型: HTML
+
+7. Section Surčin - Obrenovac ceremonially opened
+   URL: https://www.predsednik.rs/en/press-center/news/section-surcin-obrenovac-ceremonially-opened
+   类型: HTML
+
+8. President Vucic meets the Vice-President of the Chinese ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/president-vucic-meets-the-vice-president-of-the-chinese-peoples-political-consultative-conference-li-bin
+   类型: HTML
+
+9. Telephone conversation with the President of the People's ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/telephone-conversation-with-the-president-of-the-peoples-republic-of-china-30104
+   类型: HTML
+
+10. Meeting with the Minister of National Defence ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-minister-of-national-defence-of-the-peoples-republic-of-china
+   类型: HTML
+
+11. Meeting with the Ambassador of the People's Republic ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-ambassador-of-the-peoples-republic-of-china-29563
+   类型: HTML
+
+12. Meeting with the Ambassador of the Russian Federation
+   URL: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-ambassador-of-the-russian-federation-28587
+   类型: HTML
+
+13. President Vučić meets the Minister of Science and ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/president-vucic-meets-the-minister-of-science-and-technology-of-the-peoples-republic-of-china
+   类型: HTML
+
+14. Letter of Congratulations to the President of the People's ...
+   URL: https://www.predsednik.rs/en/press-center/press-releases/letter-of-congratulations-to-the-president-of-the-peoples-republic-of-china
+   类型: HTML
+

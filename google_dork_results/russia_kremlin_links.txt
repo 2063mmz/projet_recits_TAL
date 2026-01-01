@@ -1,0 +1,403 @@
+================================================================================
+俄罗斯 - 一带一路相关链接 (Google搜索结果)
+目标网站: http://en.kremlin.ru
+搜索查询: Belt and Road site:en.kremlin.ru
+爬取时间: 2026-01-01 22:49:07
+================================================================================
+
+1. Belt and Road international forum
+   URL: http://en.kremlin.ru/events/president/news/54491
+   类型: HTML
+
+2. Belt and Road Forum for International Cooperation
+   URL: http://en.kremlin.ru/events/president/news/72528
+   类型: HTML
+
+3. Belt and Road Forum for International Cooperation
+   URL: http://www.en.kremlin.ru/events/president/news/60378
+   类型: HTML
+
+4. Belt and Road Forum for International Cooperation
+   URL: http://www.en.kremlin.ru/events/president/transcripts/72528/photos
+   类型: HTML
+
+5. Visit to China. Belt and Road Forum for International ...
+   URL: http://en.kremlin.ru/events/president/trips/72535/photos/73243
+   类型: HTML
+
+6. Visit to China. Belt and Road Forum for International ...
+   URL: http://en.kremlin.ru/events/president/trips/72535
+   类型: HTML
+
+7. Belt and Road Forum for International Cooperation
+   URL: http://www.en.kremlin.ru/events/president/news/60378/photos
+   类型: HTML
+
+8. Roundtable discussion at Belt and Road Forum for ...
+   URL: http://en.kremlin.ru/events/president/news/60393
+   类型: HTML
+
+9. Official welcoming ceremony for participants of the Third ...
+   URL: http://en.kremlin.ru/events/president/news/72518
+   类型: HTML
+
+10. Belt and Road international forum
+   URL: http://en.kremlin.ru/events/president/news/54491/videos
+   类型: HTML
+
+11. Belt and Road Forum for International Cooperation
+   URL: http://en.kremlin.ru/events/president/news/72528/photos/73261
+   类型: HTML
+
+12. Joint Communique of the Leaders Roundtable of the Belt ...
+   URL: http://en.kremlin.ru/supplement/5188
+   类型: HTML
+
+13. Belt and Road Forum for International Cooperation
+   URL: http://www.en.kremlin.ru/events/president/transcripts/speeches/60378/photos
+   类型: HTML
+
+14. Visit to China
+   URL: http://en.kremlin.ru/events/president/trips/54504
+   类型: HTML
+
+15. On October 17–18, Vladimir Putin will visit the People's ...
+   URL: http://en.kremlin.ru/events/president/news/72511
+   类型: HTML
+
+16. Russian-Chinese talks
+   URL: http://en.kremlin.ru/events/president/news/72529
+   类型: HTML
+
+17. Working visit to China
+   URL: http://www.en.kremlin.ru/events/president/trips/60403/photos
+   类型: HTML
+
+18. Roundtable meeting of leaders at Belt and Road ...
+   URL: http://en.kremlin.ru/events/president/news/54496
+   类型: HTML
+
+19. Speech at the SCO meeting in expanded format
+   URL: http://en.kremlin.ru/events/president/transcripts/54739
+   类型: HTML
+
+20. Interview to China Media Group
+   URL: http://en.kremlin.ru/events/president/news/72508
+   类型: HTML
+
+21. Press statements following Russian-Chinese talks
+   URL: http://en.kremlin.ru/events/president/transcripts/52273
+   类型: HTML
+
+22. Vladimir Putin arrived in China
+   URL: http://en.kremlin.ru/events/president/news/60373
+   类型: HTML
+
+23. Meeting with Myanmar's State Counsellor Aung San Suu Kyi
+   URL: http://www.en.kremlin.ru/events/president/transcripts/60390
+   类型: HTML
+
+24. Official welcoming ceremony for participants of the Third Belt and ...
+   URL: http://www.en.kremlin.ru/catalog/countries/CN/events/72518
+   类型: HTML
+
+25. News conference following working visit to China
+   URL: http://en.kremlin.ru/events/president/news/60396
+   类型: HTML
+
+26. Beginning of the conversation with President of China Xi ...
+   URL: http://en.kremlin.ru/events/president/transcripts/74046
+   类型: HTML
+
+27. News conference following the visit to China
+   URL: http://en.kremlin.ru/events/president/news/72532
+   类型: HTML
+
+28. Interview to Chinese newspaper People's Daily
+   URL: http://en.kremlin.ru/events/president/news/60344
+   类型: HTML
+
+29. Videos ∙ Videos and Photos
+   URL: http://en.kremlin.ru/multimedia/video/section/trips/by-date/09.10.2025
+   类型: HTML
+
+30. Russian-Chinese talks
+   URL: http://en.kremlin.ru/events/president/news/60381
+   类型: HTML
+
+31. Meeting with President of China Xi Jinping
+   URL: http://en.kremlin.ru/events/president/news/54492
+   类型: HTML
+
+32. Meeting with Prime Minister of Greece Alexis Tsipras
+   URL: http://en.kremlin.ru/events/president/news/54494/photos
+   类型: HTML
+
+33. Meeting with Myanmar's State Counsellor Aung San Suu Kyi
+   URL: http://www.en.kremlin.ru/events/president/transcripts/60390/photos
+   类型: HTML
+
+34. Replies to journalists' questions • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/54499
+   类型: HTML
+
+35. Meeting with President of the Czech Republic Milos Zeman
+   URL: http://en.kremlin.ru/events/president/news/54493/print
+   类型: HTML
+
+36. Videos ∙ Videos and Photos
+   URL: http://en.kremlin.ru/multimedia/video/section/trips/by-date/05.09.2025
+   类型: HTML
+
+37. Transcripts ∙ President ∙ Events ∙ President of Russia
+   URL: http://en.kremlin.ru/events/president/transcripts/page/50
+   类型: HTML
+
+38. Press statements following Russian-Chinese talks
+   URL: http://en.kremlin.ru/events/president/news/60672
+   类型: HTML
+
+39. News ∙ President ∙ Events ∙ President of Russia
+   URL: http://www.en.kremlin.ru/events/president/news/page/123
+   类型: HTML
+
+40. Previous videos
+   URL: http://www.en.kremlin.ru/multimedia/video/section/conferences/page/3
+   类型: HTML
+
+41. Transcripts ∙ President ∙ Events ∙ President of Russia
+   URL: http://en.kremlin.ru/events/president/transcripts/page/195
+   类型: HTML
+
+42. Videos ∙ Videos and Photos
+   URL: http://en.kremlin.ru/multimedia/video/section/speeches/page/15
+   类型: HTML
+
+43. Instructions on implementing Central Ring Road project in ...
+   URL: http://en.kremlin.ru/acts/assignments/orders/copy/58829
+   类型: HTML
+
+44. Meeting with President of Vietnam Vo Van Thuong
+   URL: http://en.kremlin.ru/events/president/news/72515
+   类型: HTML
+
+45. Meeting with Head of Tatarstan Rustam Minnikhanov
+   URL: http://en.kremlin.ru/events/president/news/76389
+   类型: HTML
+
+46. Conversation with Member of the Political Bureau ...
+   URL: http://en.kremlin.ru/events/president/news/72306
+   类型: HTML
+
+47. Press statements by President of Russia and ...
+   URL: http://en.kremlin.ru/events/president/transcripts/78559/videos
+   类型: HTML
+
+48. Telephone conversation with Prime Minister of Israel ...
+   URL: http://en.kremlin.ru/events/president/news/72514
+   类型: HTML
+
+49. Speech by President of Russia at the expanded-format ...
+   URL: http://en.kremlin.ru/events/president/transcripts/73128
+   类型: HTML
+
+50. Restricted-format meeting of the BRICS Summit
+   URL: http://en.kremlin.ru/events/president/transcripts/75374/videos
+   类型: HTML
+
+51. Tianjin Declaration of the Council of Heads of State ...
+   URL: http://en.kremlin.ru/supplement/6376/print
+   类型: HTML
+
+52. Trips ∙ President ∙ Events ∙ President of Russia
+   URL: http://en.kremlin.ru/events/president/trips/page/4
+   类型: HTML
+
+53. Beginning of Russian-Belarusian talks in an expanded format
+   URL: http://en.kremlin.ru/events/president/transcripts/74107/videos
+   类型: HTML
+
+54. Answers to media questions • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/78571/videos
+   类型: HTML
+
+55. Plenary meeting of the Interrelation of Times and Civilisations
+   URL: http://en.kremlin.ru/events/president/news/75303/videos
+   类型: HTML
+
+56. Meeting with Acting Prime Minister of Pakistan Anwar-ul- ...
+   URL: http://en.kremlin.ru/events/president/news/72523
+   类型: HTML
+
+57. Meeting with Prime Minister of Thailand Srettha Thavisin
+   URL: http://en.kremlin.ru/events/president/news/72517
+   类型: HTML
+
+58. Meeting with President of Egypt Abdel Fattah el-Sisi
+   URL: http://en.kremlin.ru/events/president/transcripts/60386/photos
+   类型: HTML
+
+59. Informal meeting of BRICS leaders
+   URL: http://en.kremlin.ru/events/president/news/52819
+   类型: HTML
+
+60. Vladimir Putin answered media questions
+   URL: http://en.kremlin.ru/events/president/news/78186/videos
+   类型: HTML
+
+61. Meeting with President of Mongolia Ukhnaagiin Khurelsukh
+   URL: http://en.kremlin.ru/events/president/news/74456
+   类型: HTML
+
+62. Fourth Railway Congress • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/72996/videos
+   类型: HTML
+
+63. Meeting with participants in the World Youth Festival
+   URL: http://www.en.kremlin.ru/events/president/transcripts/73616/videos
+   类型: HTML
+
+64. Answers to media questions
+   URL: http://en.kremlin.ru/events/president/news/72502
+   类型: HTML
+
+65. Greetings to 11th Russia – Country of Sports International ...
+   URL: http://en.kremlin.ru/events/president/news/72541
+   类型: HTML
+
+66. The fourth Eurasian Women's Forum • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/75124/videos
+   类型: HTML
+
+67. Greetings on the opening of the 3rd International Altaistic ...
+   URL: http://en.kremlin.ru/events/president/news/72542
+   类型: HTML
+
+68. Meeting with President of Palestine Mahmoud Abbas
+   URL: http://www.en.kremlin.ru/events/president/news/54483
+   类型: HTML
+
+69. Russian-Chinese talks
+   URL: http://www.en.kremlin.ru/events/president/transcripts/72529/photos
+   类型: HTML
+
+70. Video address on the occasion of the 80th anniversary ...
+   URL: http://en.kremlin.ru/events/president/news/72497
+   类型: HTML
+
+71. Russia Calling! Investment Forum • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/75751/videos
+   类型: HTML
+
+72. Laying a wreath at a memorial in Bishkek
+   URL: http://en.kremlin.ru/events/president/news/72484
+   类型: HTML
+
+73. Meeting with President of Laos Thongloun Sisoulith
+   URL: http://en.kremlin.ru/events/president/news/72522
+   类型: HTML
+
+74. Meeting of Anti-Corruption Council Presidium
+   URL: http://en.kremlin.ru/events/administration/72521
+   类型: HTML
+
+75. Meeting of the CIS Heads of State Council
+   URL: http://en.kremlin.ru/events/president/news/72499/photos
+   类型: HTML
+
+76. Meeting with Defence Ministry senior officials and ...
+   URL: http://en.kremlin.ru/events/president/news/54503
+   类型: HTML
+
+77. Beginning of the Supreme Eurasian Economic Council ...
+   URL: http://en.kremlin.ru/events/president/transcripts/73992
+   类型: HTML
+
+78. Talks with President of Equatorial Guinea Teodoro Obiang ...
+   URL: http://en.kremlin.ru/events/president/news/72659/photos/73425
+   类型: HTML
+
+79. Meeting with President of China Xi Jinping
+   URL: http://en.kremlin.ru/catalog/keywords/82/events/copy/56046
+   类型: HTML
+
+80. Previous
+   URL: http://en.kremlin.ru/events/president/news/page/391
+   类型: HTML
+
+81. Greetings on the opening of the History for the Future. ...
+   URL: http://en.kremlin.ru/events/president/news/72495
+   类型: HTML
+
+82. Instructions following meeting with veterans, residents ...
+   URL: http://en.kremlin.ru/acts/assignments/orders/copy/70887
+   类型: HTML
+
+83. Plenary session of the 9th Eastern Economic Forum
+   URL: http://en.kremlin.ru/events/president/news/75029/videos
+   类型: HTML
+
+84. Meeting with Chinese Foreign Minister Wang Yi
+   URL: http://www.en.kremlin.ru/events/president/transcripts/54576/photos
+   类型: HTML
+
+85. Meeting with Acting Prime Minister of Pakistan Anwar-ul- ...
+   URL: http://en.kremlin.ru/events/president/news/72523/photos
+   类型: HTML
+
+86. Opening new road facililies in the regions
+   URL: http://en.kremlin.ru/events/president/news/72509
+   类型: HTML
+
+87. Events ∙ President of Russia
+   URL: http://www.en.kremlin.ru/catalog/persons/351/events/by-date/15.06.2025
+   类型: HTML
+
+88. Telephone conversation with President of South Korea ...
+   URL: http://en.kremlin.ru/events/president/news/54488
+   类型: HTML
+
+89. Conference on artificial intelligence • President of Russia
+   URL: http://en.kremlin.ru/events/president/news/62003/videos
+   类型: HTML
+
+90. Beginning of Russian-Chinese talks in restricted format
+   URL: http://en.kremlin.ru/events/president/transcripts/60670
+   类型: HTML
+
+91. Plenary session of the Eurasian Economic Forum
+   URL: http://en.kremlin.ru/events/president/news/71198
+   类型: HTML
+
+92. Meeting with Chinese President Xi Jinping and ...
+   URL: http://en.kremlin.ru/events/president/news/52211
+   类型: HTML
+
+93. Talks with President of China Xi Jinping
+   URL: http://en.kremlin.ru/events/president/news/67364
+   类型: HTML
+
+94. Meeting with President of Tajikistan Emomali Rahmon
+   URL: http://en.kremlin.ru/events/president/news/72498
+   类型: HTML
+
+95. Vladimir Putin will visit China on September 2–3
+   URL: http://www.en.kremlin.ru/catalog/keywords/82/events/copy/50183
+   类型: HTML
+
+96. Visit to the headquarters of the Southern Military District
+   URL: http://en.kremlin.ru/events/president/news/72562/photos
+   类型: HTML
+
+97. Interview to TASS and Xinhua news agencies
+   URL: http://en.kremlin.ru/events/president/news/50207
+   类型: HTML
+
+98. Meeting with President of Cyprus Nicos Anastasiades
+   URL: http://en.kremlin.ru/events/president/news/60389/photos
+   类型: HTML
+
+99. Meeting with permanent members of the Security Council
+   URL: http://en.kremlin.ru/events/president/news/60423
+   类型: HTML
+

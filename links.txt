@@ -1,204 +1,38 @@
 ================================================================================
-一带一路舆情分析项目 - 数据源链接汇总
-时间范围：2013年至今
-目标：中国及合作国领导人关于一带一路的发言稿
+一带一路多国网站爬取 - 目标网站列表
+每个网站最多爬取50条链接（HTML和PDF）
 ================================================================================
 
-【中国官方网站 - 中文】
+# 格式：URL | 国家/地区 | 搜索关键词 | 文件名前缀
+
+# 中国官方网站
+https://www.yidaiyilu.gov.cn | 中国 | 一带一路 | china_yidaiyilu
+https://www.fmprc.gov.cn | 中国 | 一带一路 | china_fmprc
+http://www.focac.org/chn/ | 中国-中非论坛 | 一带一路 | china_focac
+
+# 俄罗斯
+http://en.kremlin.ru | 俄罗斯 | Belt and Road | russia_kremlin
+http://government.ru/en/ | 俄罗斯 | Belt and Road | russia_government
+
+# 中亚
+https://www.akorda.kz/en | 哈萨克斯坦 | Belt and Road | kazakhstan
+
+# 东南亚
+https://www.presidenri.go.id | 印度尼西亚 | Belt and Road | indonesia_president
+https://kemlu.go.id/ | 印度尼西亚 | Belt and Road | indonesia_mofa
+
+# 非洲国家
+https://www.president.go.ke/ | 肯尼亚 | Belt and Road | kenya
+http://www.dirco.gov.za/ | 南非 | Belt and Road | south_africa
+https://presidency.eg | 埃及 | Belt and Road | egypt
+https://gov.ng | 尼日利亚 | Belt and Road | nigeria
+https://foreign.go.tz | 坦桑尼亚 | Belt and Road | tanzania
+https://gov.ma | 摩洛哥 | Belt and Road | morocco
+https://mofa.go.ug | 乌干达 | Belt and Road | uganda
+https://gov.et | 埃塞俄比亚 | Belt and Road | ethiopia
+
+# 其他合作国
+https://president.mn/en/ | 蒙古 | Belt and Road | mongolia
+https://www.predsednik.rs/en/ | 塞尔维亚 | Belt and Road | serbia
+https://president.uz/en/ | 乌兹别克斯坦 | Belt and Road | uzbekistan
 
-## 1. 外交部网站
-# 一带一路专题 - 重要文件栏目
-https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zywj_692152/
-
-# 一带一路专题 - 重要讲话栏目
-https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zyjh_692150/
-
-# 一带一路专题 - 相关新闻栏目
-https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/xgxw_692146/
-
-# 第三届BRF主席声明（2023年10月18日）
-https://www.mfa.gov.cn/web/ziliao_674904/1179_674909/202310/t20231018_11163400.shtml
-
-
-## 2. 中国政府网
-# 第三届BRF多国领导人发言集锦
-https://www.gov.cn/yaowen/liebiao/202310/content_6910482.htm
-
-
-# 第二届BRF圆桌峰会联合公报（2019年）
-https://www.yidaiyilu.gov.cn/p/87622.html
-
-# 项目列表（包含"联合"关键词的项目）
-https://www.yidaiyilu.gov.cn/list/w/sdbwj?page=1
-
-
-# 一带一路专题
-http://politics.people.com.cn/GB/8198/427594/index.html
-
-================================================================================
-
-【多边组织 - 中文/英文，包含多国发言】★★★★
-
-
-# 诺罗夫秘书长在第二届BRF分论坛发言（2019年4月25日）
-https://chn.sectsco.org/20190425/532719.html
-
-## 7. 中非合作论坛（FOCAC）
-# 中文官网
-http://www.focac.org/chn/
-
-# 头条新闻
-http://www.focac.org/chn/ttxx/
-
-# 会议文件
-http://www.focac.org/chn/wjjh/
-
-# 中非关系 - 重要讲话
-http://www.focac.org/chn/zfgx/zzjw/
-
-## 8. 联合国
-# 秘书长发言
-https://www.un.org/sg/en/content/sg/speeches
-
-# 联合国大会
-https://www.un.org/en/ga/
-
-================================================================================
-
-【合作国家官方网站 - 具体发言稿链接（英文/原文）】★★★★
-
-## 9. 俄罗斯 🇷🇺
-# 普京总统在第三届BRF的讲话（2023年10月）✅具体文章
-http://en.kremlin.ru/events/president/news/72221
-
-# 克里姆林宫新闻栏目（英文）
-http://en.kremlin.ru/events/president/news
-
-# 俄罗斯政府官网（英文）
-http://government.ru/en/
-
-## 10. 哈萨克斯坦 🇰🇿
-# 托卡耶夫总统在第三届BRF的讲话 ✅具体文章
-https://www.akorda.kz/en/speeches/external_political_affairs/participation_in_international_summits_and_forums/address_by_president_kassym-jomart_tokayev_at_the_third_belt_and_road_forum_for_international_cooperation
-
-# 总统府官网（英文）
-https://www.akorda.kz/en
-
-# 新闻栏目
-https://www.akorda.kz/en/events/
-
-## 11. 印度尼西亚 🇮🇩
-# 佐科威总统在第三届BRF的讲话（印尼语）✅具体文章
-https://www.presidenri.go.id/siaran-pers/pidato-presiden-joko-widodo-pada-pembukaan-belt-and-road-forum-for-international-cooperation-di-beijing-republik-rakyat-tiongkok-18-oktober-2023/
-
-# 总统府官网
-https://www.presidenri.go.id/
-
-# 总统府官网（英文）
-https://www.presidenri.go.id/en/
-
-# 外交部
-https://kemlu.go.id/
-
-## 12. 肯尼亚 🇰🇪
-# 鲁托总统在第三届BRF的讲话 ✅具体文章
-https://www.president.go.ke/2023/10/18/president-ruto-calls-for-stronger-africa-china-partnership/
-
-# 总统府官网
-https://www.president.go.ke/
-
-## 13. 蒙古国 🇲🇳
-# 呼日勒苏赫总统在第三届BRF的讲话 ✅具体文章
-https://president.mn/en/2023/10/18/president-of-mongolia-ukhnaagiin-khurelsukh-delivered-remarks-at-the-third-belt-and-road-forum-for-international-cooperation/
-
-# 总统府官网（英文）
-https://president.mn/en/
-
-## 14. 塞尔维亚 🇷🇸
-# 武契奇总统在第三届BRF的讲话 ✅具体文章
-https://www.predsednik.rs/en/press-center/news/president-vucic-at-the-third-belt-and-road-forum-for-international-cooperation
-
-# 总统府官网（英文）
-https://www.predsednik.rs/en/
-
-## 15. 乌兹别克斯坦 🇺🇿
-# 米尔济约耶夫总统在第三届BRF的讲话 ✅具体文章
-https://president.uz/en/lists/view/6530
-
-# 总统府官网（英文）
-https://president.uz/en/
-
-## 16. 越南 🇻🇳
-# 武文赏主席在第三届BRF的讲话 ✅具体文章
-https://en.baochinhphu.vn/president-vo-van-thuong-attends-third-belt-and-road-forum-in-beijing-1112301010900599.htm
-
-# 政府门户网站（英文）
-https://en.baochinhphu.vn/
-
-## 17. 柬埔寨 🇰🇭
-# 洪玛奈首相在第三届BRF的讲话 ✅具体文章
-https://pressocm.gov.kh/en/archives/82204
-
-# 首相府新闻办（英文）
-https://pressocm.gov.kh/en/
-
-## 18. 埃及 🇪🇬
-# 马德布利总理在第三届BRF的讲话 ✅具体文章
-https://www.cabinet.gov.eg/English/MediaCenter/News/Pages/PM-Participates-in-Third-Belt-and-Road-Forum-in-Beijing.aspx
-
-# 埃及内阁官网（英文）
-https://www.cabinet.gov.eg/English/
-
-# 总统府官网
-https://www.presidency.eg/
-
-# 外交部
-https://www.mfa.gov.eg/
-
-================================================================================
-
-【D类：合作国家官方网站 - 首页（需进一步搜索）】★★★
-
-## 19. 巴基斯坦 🇵🇰
-# 总理办公室
-https://pmo.gov.pk/
-
-# 外交部
-http://mofa.gov.pk/
-
-# 搜索关键词：CPEC, Belt and Road, China Pakistan Economic Corridor
-
-## 20. 新加坡 🇸🇬
-# 总理公署
-https://www.pmo.gov.sg/
-
-# 外交部
-https://www.mfa.gov.sg/
-
-# 搜索关键词：Belt and Road, China, Lee Hsien Loong
-
-## 21. 马来西亚 🇲🇾
-# 总理府
-https://www.pmo.gov.my/
-
-# 外交部
-https://www.kln.gov.my/
-
-## 22. 南非 🇿🇦
-# 总统府
-https://www.thepresidency.gov.za/
-
-# 国际关系部
-http://www.dirco.gov.za/
-
-## 23. 泰国 🇹🇭
-# 总理府
-https://www.thaigov.go.th/
-
-## 24. 老挝 🇱🇦
-# 政府门户
-http://www.laogov.gov.la/
-
-## 25. 缅甸 🇲🇲
-# 政府官网
-https://www.moi.gov.mm/

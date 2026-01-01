@@ -1,0 +1,231 @@
+================================================================================
+俄罗斯 - 一带一路相关链接 (Google搜索结果)
+目标网站: http://government.ru/en/
+搜索查询: Belt and Road site:government.ru/en
+爬取时间: 2026-01-01 22:50:03
+================================================================================
+
+1. News - The Russian Government
+   URL: http://government.ru/en/news/56961/
+   类型: HTML
+
+2. News - The Russian Government
+   URL: http://government.ru/en/news/55948/
+   类型: HTML
+
+3. All materials - The Russian Government
+   URL: http://government.ru/en/all/34306/
+   类型: HTML
+
+4. News - The Russian Government
+   URL: http://government.ru/en/news/50673/
+   类型: HTML
+
+5. News - The Russian Government
+   URL: http://government.ru/en/news/53003/
+   类型: HTML
+
+6. Alexei Overchuk sums up the Russian delegation's first day ...
+   URL: http://government.ru/en/news/50130/
+   类型: HTML
+
+7. News - The Russian Government
+   URL: http://government.ru/en/news/51819/
+   类型: HTML
+
+8. News - The Russian Government
+   URL: http://government.ru/en/news/48311/
+   类型: HTML
+
+9. All materials - The Russian Government
+   URL: http://government.ru/en/all/29986/
+   类型: HTML
+
+10. News - The Russian Government
+   URL: http://government.ru/en/news/55969/
+   类型: HTML
+
+11. Alexei Overchuk's address to the summit of APEC economies
+   URL: http://special.government.ru/en/news/56714/
+   类型: HTML
+
+12. All materials - The Russian Government
+   URL: http://government.ru/en/all/19375/
+   类型: HTML
+
+13. All materials - The Russian Government
+   URL: http://government.ru/en/all/34600/
+   类型: HTML
+
+14. Alexei Overchuk's working visit to China
+   URL: http://government.ru/en/news/54631/
+   类型: HTML
+
+15. News - The Russian Government
+   URL: http://government.ru/en/news/29986/
+   类型: HTML
+
+16. News - The Russian Government
+   URL: http://government.ru/en/news/51728/
+   类型: HTML
+
+17. News - The Russian Government
+   URL: http://government.ru/en/news/46572/
+   类型: HTML
+
+18. News - The Russian Government
+   URL: http://government.ru/en/news/40937/
+   类型: HTML
+
+19. Mikhail Mishustin's meeting with President of China Xi ...
+   URL: http://government.ru/en/news/48037/
+   类型: HTML
+
+20. 24th regular meeting of Russian and Chinese heads ...
+   URL: http://government.ru/en/all/37872/
+   类型: HTML
+
+21. Dmitry Medvedev's interview with Renmin Ribao
+   URL: http://government.ru/en/news/21017/
+   类型: HTML
+
+22. Expanded meeting of Eurasian Intergovernmental Council
+   URL: http://special.government.ru/en/news/46350/
+   类型: HTML
+
+23. 26th regular meeting of Russian and Chinese heads ...
+   URL: http://government.ru/en/news/43949/
+   类型: HTML
+
+24. Expanded meeting of Eurasian Intergovernmental Council
+   URL: http://government.ru/en/news/45776/
+   类型: HTML
+
+25. News - The Russian Government
+   URL: http://government.ru/en/news/41002/
+   类型: HTML
+
+26. News - The Russian Government
+   URL: http://government.ru/en/news/49881/
+   类型: HTML
+
+27. News - The Russian Government
+   URL: http://government.ru/en/news/51713/
+   类型: HTML
+
+28. Meeting of the SCO Council of Heads of Government
+   URL: http://government.ru/en/news/30366/
+   类型: HTML
+
+29. News - The Russian Government
+   URL: http://government.ru/en/news/18664/
+   类型: HTML
+
+30. News - The Russian Government
+   URL: http://government.ru/en/news/28283/
+   类型: HTML
+
+31. Meeting of the Eurasian Intergovernmental Council
+   URL: http://government.ru/en/news/41468/
+   类型: HTML
+
+32. News - The Russian Government
+   URL: http://government.ru/en/news/896/
+   类型: HTML
+
+33. Mikhail Mishustin attends the Digital Future of the Global ...
+   URL: http://government.ru/en/news/41467/
+   类型: HTML
+
+34. Meeting of the SCO Heads of Government Council
+   URL: http://government.ru/en/news/40979/
+   类型: HTML
+
+35. News - The Russian Government
+   URL: http://government.ru/en/news/43045/
+   类型: HTML
+
+36. Meeting of the Eurasian Intergovernmental Council
+   URL: http://government.ru/en/news/33404/
+   类型: HTML
+
+37. 28th regular meeting of Russian and Chinese heads ...
+   URL: http://government.ru/en/news/50455/
+   类型: HTML
+
+38. News - The Russian Government
+   URL: http://government.ru/en/news/25196/
+   类型: HTML
+
+39. News - The Russian Government
+   URL: http://government.ru/en/news/7256/
+   类型: HTML
+
+40. Eurasian Intergovernmental Council meeting
+   URL: http://government.ru/en/news/38886/
+   类型: HTML
+
+41. Dmitry Medvedev's interview with China Central Television
+   URL: http://government.ru/en/news/25191/
+   类型: HTML
+
+42. News - The Russian Government
+   URL: http://government.ru/en/news/49879/
+   类型: HTML
+
+43. APEC CEO Summit
+   URL: http://government.ru/en/all/34733/
+   类型: HTML
+
+44. Meeting on the Moscow transport hub
+   URL: http://government.ru/en/news/5764/
+   类型: HTML
+
+45. Meeting of the Eurasian Intergovernmental Council
+   URL: http://government.ru/en/news/22590/
+   类型: HTML
+
+46. Extended meeting of the Eurasian Intergovernmental Council
+   URL: http://government.ru/en/news/42102/
+   类型: HTML
+
+47. Meeting on the development of Moscow's transport hub
+   URL: http://government.ru/en/news/42/
+   类型: HTML
+
+48. Munich Security Conference
+   URL: http://government.ru/en/news/21784/
+   类型: HTML
+
+49. Meeting of the SCO Heads of Government Council
+   URL: http://government.ru/en/news/43901/
+   类型: HTML
+
+50. Dmitry Medvedev's interview with Slovenian radio and ...
+   URL: http://government.ru/en/news/19011/
+   类型: HTML
+
+51. Mikhail Mishustin visited Tsinghua University in Beijing
+   URL: http://government.ru/en/news/48559/
+   类型: HTML
+
+52. Dmitry Medvedev's online news conference in Beijing
+   URL: http://government.ru/en/news/29971/
+   类型: HTML
+
+53. 11th ASEM Summit
+   URL: http://government.ru/en/news/23837/
+   类型: HTML
+
+54. Dmitry Medvedev's Interview With Vladimir Pozner of First ...
+   URL: http://government.ru/en/news/4462/
+   类型: HTML
+
+55. Meeting with road safety experts
+   URL: http://government.ru/en/news/1048/
+   类型: HTML
+
+56. Meeting of the SCO Heads of Government Council
+   URL: http://government.ru/en/news/49883/
+   类型: HTML
+
