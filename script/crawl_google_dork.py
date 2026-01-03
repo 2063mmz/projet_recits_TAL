@@ -8,6 +8,7 @@ import time
 import os
 import re
 from urllib.parse import quote
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 
 def read_target_websites(file_path='links.txt'):
     """读取目标网站列表"""
@@ -40,7 +41,8 @@ def build_google_query(keyword, site_url):
     clean_url = site_url.replace('https://', '').replace('http://', '').rstrip('/')
     
     # 构建查询
-    query = f"{keyword} site:{clean_url}"
+    # Exclude PDFs and PHP pages from results
+    query = f"{keyword} site:{clean_url} -filetype:pdf -inurl:.php"
     return query
 
 def extract_results_from_page(page):
@@ -116,6 +118,9 @@ def extract_results_from_page(page):
             # 判断文件类型
             file_type = 'HTML'
             url_lower = url.lower()
+            # 跳过PHP页面或PDF文件（额外保险，查询中已排除）
+            if '.php' in url_lower or url_lower.endswith('.pdf'):
+                continue
             if url_lower.endswith('.pdf') or '[PDF]' in title:
                 file_type = 'PDF'
             elif url_lower.endswith(('.doc', '.docx')):
@@ -133,6 +138,81 @@ def extract_results_from_page(page):
             continue
     
     return results
+
+
+def try_handle_captcha(page, timeout=5000):
+    """尝试自动点击简单的人机验证（复选框/按钮）。
+    这是一个best-effort实现：
+    - 尝试点击包含"I'm not a robot"或其中文翻译的按钮
+    - 尝试进入reCAPTCHA iframe并点击复选框
+    - 如果自动尝试失败，函数会短暂等待以允许人工干预
+    """
+    try:
+        # 1) 直接查找常见的文本按钮
+        btn_texts = ["I'm not a robot", "I\'m not a robot", '我不是机器人', '我不是人类', '我不是机器人']
+        for t in btn_texts:
+            try:
+                btn = page.locator(f'button:has-text("{t}")')
+                if btn.count() > 0 and btn.is_visible(timeout=1000):
+                    try:
+                        btn.first.click(timeout=2000)
+                        print('   🔘 自动点击文本按钮:', t)
+                        time.sleep(2)
+                        return True
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
+        # 2) 尝试定位reCAPTCHA iframe并点击复选框
+        # 尝试一些常见的iframe标识
+        iframe_selectors = ["iframe[src*='recaptcha']", "iframe[title*='recaptcha']", "iframe[title*='reCAPTCHA']"]
+        for sel in iframe_selectors:
+            try:
+                frame_count = page.locator(sel).count()
+                if frame_count > 0:
+                    # 使用frame_locator进入iframe并点击常见的复选框元素
+                    try:
+                        frame_locator = page.frame_locator(sel)
+                        # 常见的reCAPTCHA复选框id
+                        checkbox_selectors = ["#recaptcha-anchor", ".recaptcha-checkbox-border", "div.recaptcha-checkbox-checkmark"]
+                        for cb in checkbox_selectors:
+                            try:
+                                el = frame_locator.locator(cb)
+                                if el.count() > 0:
+                                    el.first.click(timeout=2000)
+                                    print('   🔘 自动点击reCAPTCHA复选框')
+                                    time.sleep(2)
+                                    return True
+                            except Exception:
+                                continue
+                    except Exception:
+                        continue
+            except Exception:
+                continue
+
+        # 3) 其他常见的可点击元素，如span/div文本
+        other_selectors = ["text=I'm not a robot", 'text=我不是机器人']
+        for sel in other_selectors:
+            try:
+                el = page.locator(sel)
+                if el.count() > 0 and el.is_visible(timeout=1000):
+                    el.first.click()
+                    print('   🔘 自动点击其他元素:', sel)
+                    time.sleep(2)
+                    return True
+            except Exception:
+                continue
+
+        # 如果到这里仍然没有成功，等待短时间以便人工干预（页面是非headless时更有用）
+        print('   ⏳ 检测到可能需要人机验证，等待手动完成（短暂）...')
+        time.sleep(15)
+        return False
+    except PlaywrightTimeoutError:
+        return False
+    except Exception as e:
+        print('   ⚠️ 尝试处理人机验证时出错:', e)
+        return False
 
 def google_search_with_pagination(page, query, max_pages=10, is_first_search=False):
     """在Google上搜索并自动翻页提取结果"""
@@ -160,13 +240,19 @@ def google_search_with_pagination(page, query, max_pages=10, is_first_search=Fal
                 time.sleep(2)
         except:
             pass
-        
-        # 只在第一次搜索时等待更长时间，让用户有时间完成人机验证
-        if is_first_search:
-            print(f"   ⏳ 等待15秒（请在此期间完成人机验证）...")
-            time.sleep(15)
+
+        # 尝试自动处理简单的人机验证（checkbox或文本按钮），若失败则等待人工干预
+        handled = try_handle_captcha(page, timeout=5000)
+        if handled:
+            # 如果自动处理成功，短等一下
+            time.sleep(2)
         else:
-            time.sleep(3)
+            # 只在第一次搜索时等待更长时间，让用户有时间完成人机验证
+            if is_first_search:
+                print(f"   ⏳ 等待15秒（请在此期间完成人机验证）...")
+                time.sleep(15)
+            else:
+                time.sleep(3)
         
         # 开始翻页
         current_page = 1
@@ -257,15 +343,34 @@ def crawl_with_google_dork(page, website_info, output_dir='google_dork_results',
     
     # 构建Google查询
     query = build_google_query(keyword, url)
-    
+
+    # 确保输出目录存在
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # 输出文件路径
+    output_file = os.path.join(output_dir, f"{file_prefix}_links.txt")
+
+    # 如果已有爬取结果文件且包含链接，则读取并跳过重新爬取
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            existing_count = content.count('URL:')
+            if existing_count > 0:
+                print(f"   ℹ️ 已存在结果文件 {output_file}，包含 {existing_count} 个链接，跳过重新爬取。")
+                return existing_count
+        except Exception:
+            # 若读取失败，则继续爬取
+            pass
+
     # 执行搜索（带翻页）
     results = google_search_with_pagination(page, query, max_pages, is_first_search)
-    
+
     print(f"\n   ✅ 总计找到 {len(results)} 个结果")
-    
+
     # 保存结果
     if results:
-        output_file = os.path.join(output_dir, f"{file_prefix}_links.txt")
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(f"{'='*80}\n")
             f.write(f"{country} - 一带一路相关链接 (Google搜索结果)\n")
@@ -273,7 +378,7 @@ def crawl_with_google_dork(page, website_info, output_dir='google_dork_results',
             f.write(f"搜索查询: {query}\n")
             f.write(f"爬取时间: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"{'='*80}\n\n")
-            
+
             for i, link in enumerate(results, 1):
                 f.write(f"{i}. {link['title']}\n")
                 f.write(f"   URL: {link['url']}\n")
@@ -284,9 +389,9 @@ def crawl_with_google_dork(page, website_info, output_dir='google_dork_results',
                 if link['description']:
                     f.write(f"   描述: {link['description']}\n")
                 f.write(f"\n")
-        
+
         print(f"   💾 已保存到: {output_file}")
-    
+
     return len(results)
 
 def generate_summary(output_dir='google_dork_results'):
@@ -363,7 +468,7 @@ def main():
     
     # 读取目标网站
     print("\n📖 读取目标网站列表...")
-    websites = read_target_websites('links.txt')[13:]
+    websites = read_target_websites('links.txt')
     print(f"✅ 找到 {len(websites)} 个目标网站\n")
     
     # 开始爬取
@@ -387,7 +492,7 @@ def main():
                 
                 # 每个搜索之间需要延迟，避免被Google限制
                 if i < len(websites):
-                    delay = 10  # Google搜索需要更长的延迟
+                    delay = 5  # Google搜索需要更长的延迟
                     print(f"\n   ⏳ 等待 {delay} 秒后搜索下一个网站...")
                     time.sleep(delay)
             

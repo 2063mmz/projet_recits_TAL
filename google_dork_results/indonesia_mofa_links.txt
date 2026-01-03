@@ -1,263 +1,43 @@
 ================================================================================
 印度尼西亚 - 一带一路相关链接 (Google搜索结果)
 目标网站: https://kemlu.go.id/
-搜索查询: Belt and Road site:kemlu.go.id
-爬取时间: 2026-01-01 22:52:55
+搜索查询: Belt and Road site:kemlu.go.id -filetype:pdf -inurl:.php
+爬取时间: 2026-01-03 23:43:36
 ================================================================================
 
 1. Joint Statement Between the People's Republic of China ...
    URL: https://kemlu.go.id/daftar-joint-statement/joint-statement-between-the-peoples-republic-of-china-and-the-republic-of-indonesia-on-advancing-the-comprehensive-strategic-partnership-and--the-china-indonesia-community-with-a-shared-future?type=publication
    类型: HTML
 
-2. Belt and road : A Chinese world order | Kementerian Luar ...
-   URL: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5583&keywords=
-   类型: HTML
-
-3. The belt and road initiative | Kementerian Luar Negeri
-   URL: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5658&keywords=
-   类型: HTML
-
-4. China's Belt and Road Initiatives and its neighboring diplomacy
-   URL: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=3671&keywords=
-   类型: HTML
-
-5. Chinese infrastructure in South Asia: A realist and liberal ...
-   URL: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=4775&keywords=
-   类型: HTML
-
-6. 13_A New Outlook_ Strengthening Cooperation between ...
-   URL: https://kemlu.go.id/files/repositori/56594/13_A%20New%20Outlook_%20Strengthening%20Cooperation%20between%20Canada,%20Indonesia%20and%20ASEAN%20in%20the%20Indo-Pacific.pdf
-   类型: PDF
-
-7. Articles universitaires correspondant aux termesBelt and Road site:kemlu.go.id
-   URL: https://scholar.google.fr/scholar?q=Belt+and+Road+site:kemlu.go.id&hl=fr&as_sdt=0&as_vis=1&oi=scholart
-   类型: HTML
-
-8. View of Comparative Foreign Policies of Indonesia and the ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/111/43
-   类型: HTML
-
-9. Comparative Foreign Policies Of Indonesia And The ...
-   URL: https://jurnal.kemlu.go.id/jurnal-hublu/article/download/111/43
-   类型: HTML
-
-10. Indonesia's untapped opportunities in the Dominican Republic
-   URL: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=2551&keywords=
-   类型: HTML
-
-11. Chapter 1 . Papua in the Last Two Years We Need To Talk ...
-   URL: https://kemlu.go.id/files/repositori/72974/ENG.pdf
-   类型: PDF
-
-12. Perpustakaan Diplomasi | Kementerian Luar Negeri
-   URL: https://perpustakaan.kemlu.go.id/index.php?subject=%22Marine+resources+and+state%22&search=Search&page=251
-   类型: HTML
-
-13. Japan and Indonesia as Middle Powers in Indo-Pacific
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/download/12/13/213
-   类型: HTML
-
-14. Perpustakaan Diplomasi | Kementerian Luar Negeri
-   URL: https://perpustakaan.kemlu.go.id/index.php?author=%22Auqaf+and+Haj+Goverment+of+Pakistan+Islamabad%22&search=Search&page=601
-   类型: HTML
-
-15. jurnal hubungan luar negeri
-   URL: https://kemlu.go.id/files/repositori/56596/172775752766fb7cd7ac654_Jurnal_Hublu_Vol_6_No_2_July_Desember.pdf
-   类型: PDF
-
-16. partisipasi aktif indonesia pada belt and road summit ke-10 ...
+2. partisipasi aktif indonesia pada belt and road summit ke-10 ...
    URL: https://kemlu.go.id/hongkong/berita/partisipasi-aktif-indonesia-pada-belt-and-road-summit-ke-10-kolaborasi-untuk-perubahan-membentuk-masa-depan-bersama?type=publication
    类型: HTML
 
-17. JURNAL HUBUNGAN LUAR NEGERI - Kemlu
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/issue/download/5/5
-   类型: HTML
-
-18. “analisis kebijakan minilateralisme amerika serikat di ...
-   URL: https://kemlu.go.id/files/repositori/56628/1736741488678492709cab7_2023.pdf
-   类型: PDF
-
-19. Hongkong
-   URL: https://kemlu.go.id/hongkong/kebijakan/hongkong
-   类型: HTML
-
-20. indonesia business forum 2025 hong kong
-   URL: https://kemlu.go.id/hongkong/berita/indonesia-business-forum-2025-hong-kong-creating-strategic-path-to-mutual-economicprosperity?type=publication
-   类型: HTML
-
-21. POLICY BRIEF
-   URL: https://kemlu.go.id/files/repositori/56625/174416239467f5ce5a7b1a3_13164_SJ_04_2025_72.pdf
-   类型: PDF
-
-22. Making Indonesian Diplomats 4.0
-   URL: https://kemlu.go.id/files/repositori/56577/wo%20Juli%2021.pdf
-   类型: PDF
-
-23. Data Economic Intelligence KBRI Beijing 2023
-   URL: https://kemlu.go.id/files/repositori/82793/175828839468cd5a0aa3411_DEI_2023_ao_28_Maret_2024___KBRI_Beijing.pdf
-   类型: PDF
-
-24. Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan ...
-   URL: https://jurnal.kemlu.go.id/jurnal-hublu/article/view/99
-   类型: HTML
-
-25. BERITA | SETNAS ASEAN
-   URL: https://setnasasean.kemlu.go.id/news/ktt-asean-gcc-tiongkok
-   类型: HTML
-
-26. iii
-   URL: https://kemlu.go.id/files/repositori/56594/21_Buku%20Kajian%20Mandiri%20-%20KPBPB.pdf
-   类型: PDF
-
-27. Jurnal HUBUNGAN LUAR NEGERI
-   URL: https://kemlu.go.id/files/repositori/56596/174183557867d24d3aef449_JurnalHublu_JulDes2024.pdf
-   类型: PDF
-
-28. BEIJING, CHINA
-   URL: https://kemlu.go.id/files/repositori/74978/1718060856666787388175a_L1NoYXJlZCUyMERvY3VtZW50cy9SSUNIMzIwMjAucGRm.pdf
-   类型: PDF
-
-29. Kunjungan ke Qingpu District Cross-border E-Commerce ...
-   URL: https://www.kemlu.go.id/shanghai/berita/kunjungan-ke-qingpu-district-cross-border-e-commerce--industrial-belt-service-center?type=publication
-   类型: HTML
-
-30. laporankinerja tahun 2 0 1 9
-   URL: https://kemlu.go.id/files/repositori/65523/Laporan%20Kinerja%20Kementerian%20Luar%20Negeri%20Tahun%202019%20(Buku%20II)%20Compressed.pdf
-   类型: PDF
-
-31. BEIJING, CHINA
-   URL: https://kemlu.go.id/files/repositori/74978/1718060931666787831558d_L1NpdGVBc3NldHMvTGlzdHMvRXRjJTIwTWVudS9OZXdGb3JtL1JJQ0gyMjAyMC5wZGY_.pdf
-   类型: PDF
-
-32. Kerja Sama Bilateral
+3. Kerja Sama Bilateral
    URL: https://kemlu.go.id/kebijakan/kerja-sama-bilateral
    类型: HTML
 
-33. INDONESIA - AFRICA FORUM (IAF) GEBRAKAN SUKSES ...
-   URL: https://kemlu.go.id/files/repositori/56577/AKSES%2035%20Mei%202019.pdf
-   类型: PDF
-
-34. RICH
-   URL: https://kemlu.go.id/files/repositori/74978/17292272376711e9e501681_RICH_II__2019__compressed.pdf
-   类型: PDF
-
-35. Global South Corridor sebagai Instrumen Diplomasi Indonesia ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/82
+4. KTT ASEAN-GCC-Tiongkok
+   URL: https://setnasasean.kemlu.go.id/news/ktt-asean-gcc-tiongkok
    类型: HTML
 
-36. Global South Corridor sebagai Instrumen Diplomasi ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/download/82/34/480
+5. indonesia business forum 2025 hong kong
+   URL: https://kemlu.go.id/hongkong/berita/indonesia-business-forum-2025-hong-kong-creating-strategic-path-to-mutual-economicprosperity?type=publication
    类型: HTML
 
-37. RICH
-   URL: https://kemlu.go.id/files/repositori/74978/175568064868a58f88af4b9_RICH_1__2025_.pdf
-   类型: PDF
-
-38. RENCANA STRATEGIS 2020-2024
-   URL: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Astimpas%202020%20-%202024.pdf
-   类型: PDF
-
-39. Dok. google
-   URL: https://kemlu.go.id/files/repositori/56577/AKSES%2033%20Agustus%202015.pdf
-   类型: PDF
-
-40. Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/download/99/40
+6. Hongkong
+   URL: https://www.kemlu.go.id/hongkong/kebijakan/hongkong
    类型: HTML
 
-41. Ratusan penonton padati Hong Kong Cultural Centre ...
+7. Pakistan - Islamabad
+   URL: https://kemlu.go.id/islamabad/kebijakan/hubungan-bilateral/pakistan?type=publication
+   类型: HTML
+
+8. Ratusan penonton padati Hong Kong Cultural Centre ...
    URL: https://kemlu.go.id/hongkong/berita/reog-ponorogo-pukau-penonton-dalam-asian-ethnic-cultural-perfomances-2025?type=publication
    类型: HTML
 
-42. Identitas Non-Blok dalam Strategi Hedging Indonesia di ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/download/155/47/727
-   类型: HTML
-
-43. Treaties Deposited in Treaty Room Volume IV - 2023
-   URL: https://kemlu.go.id/files/repositori/56599/Treaty%20Journal%20Vol.%20IV%20-%202023.pdf
-   类型: PDF
-
-44. Asia-EU Connectivity: Potensi Ekonomi Digital
-   URL: https://kemlu.go.id/files/repositori/56594/12_Asia-EU%20Connectivity_%20Potensi%20Ekonomi%20Digital.pdf
-   类型: PDF
-
-45. 174054206667be907240129_L...
-   URL: https://kemlu.go.id/files/repositori/65414/174054206667be907240129_LKj_2024_Dit_Amerika_I_Redacted.pdf
-   类型: PDF
-
-46. RENCANA STRATEGIS DIREKTORAT ASIA SELATAN ...
-   URL: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Aselteng%20TA%202020-2024.pdf
-   类型: PDF
-
-47. RENCANA STRATEGIS
-   URL: https://kemlu.go.id/files/repositori/79819/172918097667113530bfc2f_renstra_20_24.pdf
-   类型: PDF
-
-48. BEIJING, CHINA
-   URL: https://kemlu.go.id/files/repositori/74978/1718060998666787c6c670b_L1NoYXJlZCUyMERvY3VtZW50cy9SSUNIMTIwMjAucGRm.pdf
-   类型: PDF
-
-49. DIRECTORY 2021
-   URL: https://kemlu.go.id/files-service/storage/repositori/74511/ICBCDirectory2021red.pdf
-   类型: PDF
-
-50. Buku Lensa Satu Tahun Indonesia di DK PBB 2019
-   URL: https://kemlu.go.id/files/repositori/56580/Buku%20Lensa%20Satu%20Tahun%20Indonesia%20di%20DK%20PBB%202019%20-%20FINAL.pdf
-   类型: PDF
-
-51. Making Indonesian Diplomats 4.0
-   URL: https://kemlu.go.id/files-service/storage/repositori/56577/whats%20on%20edisi%20februari%202022_rev%205.pdf
-   类型: PDF
-
-52. JURNAL
-   URL: https://kemlu.go.id/files/repositori/56596/172775798166fb7e9db439f_Jurnal_Hublu_Vol_6_No_1_Januari___Juni_2021__1_.pdf
-   类型: PDF
-
-53. KONSULAT JENDERAL REPUBLIK INDONESIA SHANGHAI
-   URL: https://kemlu.go.id/files/repositori/80020/1729842623671b4dbfb9b24_LKj_2022___KJRI_Shanghai.pdf
-   类型: PDF
-
-54. LAPORAN KINERJA
-   URL: https://kemlu.go.id/files/repositori/79971/17297396446719bb7ccc895_Laporan_Kinerja_2022.pdf
-   类型: PDF
-
-55. perpindahan ibu kota negara di mata diaspora jepang
-   URL: https://kemlu.go.id/files/repositori/72937/PERPINDAHAN%20IBU%20KOTA%20NEGARA_EB.pdf
-   类型: PDF
-
-56. perjanjian kinerja kementerian luar negeri tahun 2021
-   URL: https://kemlu.go.id/files-service/storage/repositori/65523/Buku%20II%20LKj%202021%20Kementerian%20Luar%20Negeri.pdf
-   类型: PDF
-
-57. Pacific Exposition 2019: Berawal dari Persahabatan dan ...
-   URL: https://kemlu.go.id/files/repositori/56577/AKSES%2036%20November%202019.pdf
-   类型: PDF
-
-58. ISLAM, INDONESIA & TIONGKOK
-   URL: https://kemlu.go.id/files/repositori/56629/172796990966feba7572237_L3NpdGVzL3B1c2F0L0RvY3VtZW50cy9LYWppYW4lMjBCUFBLL1AzSzIlMjBBU1BBU0FGLzE4X0thamlhbiUyMEtlbWl0cmFhbl8yMDIwJTIwXy1fSXNsYW1fSW5kb25lc2lhXyUyNl9UaW9uZ2tva19GSU4ucGRm.pdf
-   类型: PDF
-
-59. Jurnal HUBUNGAN LUAR NEGERI
-   URL: https://kemlu.go.id/files/repositori/56596/174036623367bbe19993872_V8No2_JulDes2023.pdf
-   类型: PDF
-
-60. Strategi bagi Keketuaan Indonesia di ASEAN dalam ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/download/5/6/73
-   类型: HTML
-
-61. citilink inflight magazine
-   URL: https://kemlu.go.id/files/repositori/74509/172767967966fa4cbf99f2c_L1NoYXJlZCUyMERvY3VtZW50cy9MSU5LRVJTJTIwU0VQVEVNQkVSJTIwMjAxOS5wZGY_.pdf
-   类型: PDF
-
-62. Issue - JURNAL HUBUNGAN LUAR NEGERI
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/58
-   类型: HTML
-
-63. Jurnal HUBUNGAN LUAR NEGERI
-   URL: https://kemlu.go.id/files/repositori/56596/174036615467bbe14aac526_V8No1_JanJun2023.pdf
-   类型: PDF
-
-64. Identitas Non-Blok dalam Strategi Hedging Indonesia di ...
-   URL: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/155
+9. Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan ...
+   URL: https://jurnal.kemlu.go.id/jurnal-hublu/article/view/99
    类型: HTML
 

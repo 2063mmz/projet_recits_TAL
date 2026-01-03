@@ -1,8 +1,8 @@
 ================================================================================
 印度尼西亚 - 一带一路相关链接 (Google搜索结果)
 目标网站: https://www.presidenri.go.id
-搜索查询: Belt and Road site:www.presidenri.go.id
-爬取时间: 2026-01-01 22:51:49
+搜索查询: Belt and Road site:www.presidenri.go.id -filetype:pdf -inurl:.php
+爬取时间: 2026-01-03 23:43:10
 ================================================================================
 
 1. Joint Press Statement on the Bilateral Meeting between ...
@@ -25,16 +25,16 @@
    URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-ibu-iriana-mulai-rangkaian-lawatan-ke-beijing-dan-riyadh/
    类型: HTML
 
-6. Presiden Jokowi Lakukan Pertemuan Bilateral dengan ...
+6. Presiden Jokowi dan Ketua Zhao Leji Apresiasi ...
+   URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-ketua-zhao-leji-apresiasi-peningkatan-kerja-sama-indonesia-rrt/
+   类型: HTML
+
+7. Presiden Jokowi Lakukan Pertemuan Bilateral dengan ...
    URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-lakukan-pertemuan-bilateral-dengan-presiden-xi-jinping/
    类型: HTML
 
-7. Presiden Jokowi dan Presiden Xi Bahas Penguatan Kerja ...
-   URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-presiden-xi-bahas-penguatan-kerja-sama-ekonomi-hingga-isu-kawasan-dan-dunia/
-   类型: HTML
-
-8. Perkuat Sinergi dan Kerja Sama BRI untuk Pembangunan ...
-   URL: https://www.presidenri.go.id/foto/presiden-jokowi-perkuat-sinergi-dan-kerja-sama-bri-untuk-pembangunan-infrastruktur/
+8. Keterangan Pers Presiden Republik Indonesia Sebelum ...
+   URL: https://www.presidenri.go.id/transkrip/keterangan-pers-presiden-republik-indonesia-sebelum-keberangkatan-ke-republik-rakyat-tiongkok-rrt-dan-kerajaan-arab-saudi/
    类型: HTML
 
 9. High-Level Forum & Thematic Forum: Connectivity in an ...
@@ -45,36 +45,36 @@
    URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-presiden-xi-jinping-saksikan-penandatanganan-sejumlah-nota-kesepahaman/
    类型: HTML
 
-11. Presiden Jokowi dan Ketua Zhao Leji Apresiasi ...
-   URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-ketua-zhao-leji-apresiasi-peningkatan-kerja-sama-indonesia-rrt/
-   类型: HTML
-
-12. Keterangan Pers Presiden Republik Indonesia Sebelum ...
-   URL: https://www.presidenri.go.id/transkrip/keterangan-pers-presiden-republik-indonesia-sebelum-keberangkatan-ke-republik-rakyat-tiongkok-rrt-dan-kerajaan-arab-saudi/
-   类型: HTML
-
-13. Bicara di KTT ke-22 ASEAN-RRT, Presiden Jokowi Puji ...
+11. Bicara di KTT ke-22 ASEAN-RRT, Presiden Jokowi Puji ...
    URL: https://www.presidenri.go.id/siaran-pers/bicara-di-ktt-ke-22-asean-rrt-presiden-jokowi-puji-perdamaian-dan-stabilitas-di-kawasan/
    类型: HTML
 
-14. Ibu Iriana Hadiri Program Pendamping KTT ke-3 BRF di ...
+12. Ibu Iriana Hadiri Program Pendamping KTT ke-3 BRF di ...
    URL: https://www.presidenri.go.id/berita-lainnya/ibu-iriana-hadiri-program-pendamping-ktt-ke-3-brf-di-beijing/
    类型: HTML
 
-15. Hari Kedua di RRT, Presiden Jokowi akan Lakukan ...
+13. Hari Kedua di RRT, Presiden Jokowi akan Lakukan ...
    URL: https://www.presidenri.go.id/siaran-pers/hari-kedua-di-rrt-presiden-jokowi-akan-lakukan-sejumlah-pertemuan-bilateral/
    类型: HTML
 
-16. Ibu Iriana Hadiri Program Pendamping KTT ke-3 BRF di ...
-   URL: https://www.presidenri.go.id/foto/ibu-iriana-hadiri-program-pendamping-ktt-ke-3-brf-di-beijing/
+14. Perkuat Sinergi dan Kerja Sama BRI untuk Pembangunan ...
+   URL: https://www.presidenri.go.id/foto/presiden-jokowi-perkuat-sinergi-dan-kerja-sama-bri-untuk-pembangunan-infrastruktur/
+   类型: HTML
+
+15. Presiden Jokowi dan Presiden Xi Bahas Penguatan Kerja ...
+   URL: https://www.presidenri.go.id/siaran-pers/presiden-jokowi-dan-presiden-xi-bahas-penguatan-kerja-sama-ekonomi-hingga-isu-kawasan-dan-dunia/
+   类型: HTML
+
+16. [FOTO] Presiden Jokowi Paparkan Empat Hal Penting ...
+   URL: https://www.presidenri.go.id/foto/presiden-jokowi-paparkan-empat-hal-penting-dalam-pembangunan-konektivitas/
    类型: HTML
 
 17. Hari Ketiga di Beijing, Presiden dan Ibu Iriana Lanjutkan ...
    URL: https://www.presidenri.go.id/siaran-pers/hari-ketiga-di-beijing-presiden-dan-ibu-iriana-lanjutkan-rangkaian-kegiatan-ktt-ke-3-brf/
    类型: HTML
 
-18. [FOTO] Presiden Jokowi Paparkan Empat Hal Penting ...
-   URL: https://www.presidenri.go.id/foto/presiden-jokowi-paparkan-empat-hal-penting-dalam-pembangunan-konektivitas/
+18. Ibu Iriana Hadiri Program Pendamping KTT ke-3 BRF di ...
+   URL: https://www.presidenri.go.id/foto/ibu-iriana-hadiri-program-pendamping-ktt-ke-3-brf-di-beijing/
    类型: HTML
 
 19. [FOTO] Presiden Jokowi dan Ibu Iriana Mulai Rangkaian ...

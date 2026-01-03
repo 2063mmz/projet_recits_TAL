@@ -6,9 +6,9 @@
 # 格式：URL | 国家/地区 | 搜索关键词 | 文件名前缀
 
 # 中国官方网站
-https://www.yidaiyilu.gov.cn | 中国 | 一带一路 | china_yidaiyilu
-https://www.fmprc.gov.cn | 中国 | 一带一路 | china_fmprc
-http://www.focac.org/chn/ | 中国-中非论坛 | 一带一路 | china_focac
+https://eng.yidaiyilu.gov.cn/ | 中国 | Belt and Road | china_yidaiyilu
+https://www.fmprc.gov.cn/eng/ | 中国 | Belt and Road | china_fmprc
+http://www.focac.org/eng/ | 中国-中非论坛 | Belt and Road | china_focac
 
 # 俄罗斯
 http://en.kremlin.ru | 俄罗斯 | Belt and Road | russia_kremlin
@@ -22,13 +22,8 @@ https://www.presidenri.go.id | 印度尼西亚 | Belt and Road | indonesia_presi
 https://kemlu.go.id/ | 印度尼西亚 | Belt and Road | indonesia_mofa
 
 # 非洲国家
-https://www.president.go.ke/ | 肯尼亚 | Belt and Road | kenya
-http://www.dirco.gov.za/ | 南非 | Belt and Road | south_africa
 https://presidency.eg | 埃及 | Belt and Road | egypt
 https://gov.ng | 尼日利亚 | Belt and Road | nigeria
-https://foreign.go.tz | 坦桑尼亚 | Belt and Road | tanzania
-https://gov.ma | 摩洛哥 | Belt and Road | morocco
-https://mofa.go.ug | 乌干达 | Belt and Road | uganda
 https://gov.et | 埃塞俄比亚 | Belt and Road | ethiopia
 
 # 其他合作国

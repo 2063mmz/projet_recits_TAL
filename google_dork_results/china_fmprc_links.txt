@@ -1,399 +1,403 @@
 ================================================================================
 中国 - 一带一路相关链接 (Google搜索结果)
-目标网站: https://www.fmprc.gov.cn
-搜索查询: 一带一路 site:www.fmprc.gov.cn
-爬取时间: 2026-01-01 22:46:32
+目标网站: https://www.fmprc.gov.cn/eng/
+搜索查询: Belt and Road site:www.fmprc.gov.cn/eng -filetype:pdf -inurl:.php
+爬取时间: 2026-01-03 23:17:36
 ================================================================================
 
-1. 共建“一带一路”：构建人类命运共同体的重大实践
-   URL: https://www.fmprc.gov.cn/zyxw/202310/t20231010_11158751.shtml
+1. Wang Yi: China is Willing to Align the Belt and Road ...
+   URL: https://www.fmprc.gov.cn/eng./xw/zyxw/202405/t20240530_11332366.html
    类型: HTML
 
-2. “一带一路”：中国倡议，世界受益
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677776/1206x2_677796/201605/t20160509_8022452.shtml
+2. Wang Yi on High-Quality Belt and Road Cooperation
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332827.html
    类型: HTML
 
-3. “一带一路”国际合作高峰论坛
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/
+3. Wang Yi Talks about the Important Outcomes of the Third ...
+   URL: https://www.fmprc.gov.cn/eng./wjbzhd/202310/t20231020_11165149.html
    类型: HTML
 
-4. 王毅：“一带一路”成为当今世界范围最广、规模最大的国际 ...
-   URL: https://www.fmprc.gov.cn/web/wjbzhd/202106/t20210624_9137532.shtml
+4. Wang Yi: Belt and Road Cooperation is Taken to a New ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202403/t20240318_11262120.html
    类型: HTML
 
-5. 共建“一带一路”：理念、实践与中国的贡献
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zywj_692152/202001/t20200117_10410166.shtml
+5. Secretariat of Belt and Road Forum for International ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/ggjjs_665228/xwlb_665230/202405/t20240513_11303682.html
    类型: HTML
 
-6. 第三届“一带一路”国际合作高峰论坛主席声明
-   URL: https://www.fmprc.gov.cn/zyxw/202310/t20231018_11163400.shtml
+6. Xi Jinping Attends the Opening Ceremony of the Third Belt ...
+   URL: https://www.fmprc.gov.cn/eng./xw/zyxw/202405/t20240530_11332363.html
    类型: HTML
 
-7. 一带一路倡议：平等和包容性发展
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678356/1206x2_678376/201706/t20170612_9322295.shtml
+7. Jointly Building the Belt And Road_Ministry of Foreign ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202405/t20240530_11360631.html
    类型: HTML
 
-8. 王毅：共建“一带一路”迈入高质量发展新阶段
-   URL: https://www.fmprc.gov.cn/web/wjbz_673089/xghd_673097/202401/t20240109_11220460.shtml
+8. Chair's Statement of the Third Belt and Road Forum ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367501.html
    类型: HTML
 
-9. 解码中国式现代化：共建“一带一路”
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/ywzt_675099/2022/xxgcddesdjs/ddzggcd_132671/202212/t20221210_10988688.shtml
+9. Wang Yi: Jointly Building the "Belt and Road" Is ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/ldmzs_664952/xwlb_664954/202406/t20240606_11403052.html
    类型: HTML
 
-10. 第三届“一带一路”国际合作高峰论坛务实合作项目清单
-   URL: https://www.fmprc.gov.cn/zyxw/202310/t20231018_11163412.shtml
+10. List of Multilateral Cooperation Deliverables of the Third ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367500.html
    类型: HTML
 
-11. 习近平在第三届“一带一路”国际合作高峰论坛开幕式上的主旨 ...
-   URL: https://www.fmprc.gov.cn/web//zyxw/202310/t20231018_11162839.shtml
+11. Chinese Ambassador to Iran Cong Peiwu Pens an Article ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202412/t20241205_11538868.html
    类型: HTML
 
-12. “一带一路”倡议，开放共赢之路
-   URL: https://www.fmprc.gov.cn/web/dszlsjt_673036/202101/t20210115_5376243.shtml
+12. The Joint Construction of the Belt and Road Initiative Will ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3265_665445/3301_664560/3303_664564/202406/t20240611_11421666.html
    类型: HTML
 
-13. 重要新闻_中华人民共和国外交部
-   URL: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/index_3.shtml
+13. Building an Open, Inclusive and Interconnected World For ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332357.html
    类型: HTML
 
-14. “一带一路”国际合作高峰论坛咨询委员会举行2025年会议
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/xgxw_674251/202505/t20250515_11623604.shtml
+14. Working Together to Deliver a Brighter Future For Belt and ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341284.html
    类型: HTML
 
-15. 在历史演进重大关头开拓中国特色大国外交新境界
-   URL: https://www.fmprc.gov.cn/wjbzhd/202512/t20251230_11790367.shtml
+15. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng/xw/wjbxw/202509/t20250923_11713881.html
    类型: HTML
 
-16. “一带一路”日新月异中希合作只争朝夕
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/oz_678770/1206_679834/1206x2_679854/201904/t20190422_6503494.shtml
+16. Full text of President Xi's speech at opening of Belt and ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341175.html
    类型: HTML
 
-17. 王毅：面对全球发展困局，中国是主引擎
-   URL: https://www.fmprc.gov.cn/wjbzhd/202512/t20251230_11790340.shtml
+17. List of Practical Cooperation Deliverables of the Third Belt ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367502.html
    类型: HTML
 
-18. 王毅：“一带一路”建设是大家共同的事业
-   URL: https://www.fmprc.gov.cn/wjbz_673089/zyhd_673091/201704/t20170418_7577366.shtml
+18. Ding Xuexiang Attends the Opening Ceremony of ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202506/t20250618_11652225.html
    类型: HTML
 
-19. 第二届“一带一路”国际合作高峰论坛成果清单
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/1179_674909/201904/t20190427_7947889.shtml
+19. Wang Yi: China Welcomes African Countries to Join the " ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2913_665441/3029_664074/3031_664078/202406/t20240611_11417118.html
    类型: HTML
 
-20. 携手推进“一带一路”建设
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zyjh_692150/201705/t20170514_10410175.shtml
+20. Yang Jiechi on the Belt and Road Initiative ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341281.html
    类型: HTML
 
-21. 高质量共建“一带一路”，共促全球可持续发展
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gjhdqzz_681964/lhg_681966/zyjh_681976/201905/t20190527_9381626.shtml
+21. Xi Jinping Sends Congratulatory Letter to the First Belt and ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332454.html
    类型: HTML
 
-22. 王毅：“一带一路”建设取得一系列重要早期收获
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/201605/t20160521_7951744.shtml
+22. Advancing Global Sustainable Development Through High ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/ggjjs_665228/xwlb_665230/202406/t20240606_11404873.html
    类型: HTML
 
-23. 习近平在第二届“一带一路”国际合作高峰论坛开幕式上的主旨 ...
-   URL: https://www.fmprc.gov.cn/web/tpxw/201904/t20190426_268096.shtml
+23. China, Philippines agree to upgrade ties, jointly build Belt ...
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/2018zt/xjpcxytjhzz/202406/t20240606_11380427.html
    类型: HTML
 
-24. 共建“一带一路”倡议：进展、贡献与展望
-   URL: https://www.fmprc.gov.cn/web//wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zywj_692152/202001/t20200117_10410169.shtml
+24. Promoting High-Quality Development of Belt and Road ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341289.html
    类型: HTML
 
-25. 驻芬兰大使陈立在芬兰媒体发表署名文章《一带一路
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679210/1206x2_679230/201705/t20170516_9340190.shtml
+25. Xi Jinping to Attend the Third Belt and Road Forum ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2022_144280/dsjydylgjhzgflt/202310/t20231011_11159109.html
    类型: HTML
 
-26. 共建“一带一路”，实现合作共赢、共同发展
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678284/1206x2_678304/201811/t20181127_9320101.shtml
+26. Joint Communique of the Leaders' Roundtable of the 2nd ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11327887.html
    类型: HTML
 
-27. “一带一路”推动实现亚欧联通百年梦
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/oz_678770/1206_679426/1206x2_679446/201906/t20190614_9344183.shtml
+27. Join Hands Across the Ocean in a New Era_Ministry ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341209.html
    类型: HTML
 
-28. 习近平在“一带一路”国际合作高峰论坛圆桌峰会上的开幕辞 ...
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zyjh_692150/201705/t20170515_10410177.shtml
+28. Remarks by H.E. Wang Yi at the Press Conference of ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202405/t20240527_11312287.html
    类型: HTML
 
-29. 共建“一带一路”，再创丝路辉煌
-   URL: https://www.fmprc.gov.cn/wjbz_673089/zyjh_673099/201608/t20160803_7588795.shtml
+29. Wang Yi: "Belt and Road" Construction Has Achieved ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/3180_664322/3182_664326/202406/t20240607_11410088.html
    类型: HTML
 
-30. “一带一路”国际合作高峰论坛成果清单（全文）
-   URL: https://www.fmprc.gov.cn/ziliao_674904/1179_674909/201705/t20170516_7947760.shtml
+30. Wang Yi: The Belt and Road Initiative Is Not a "Marshall ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2742_663488/2744_663492/202406/t20240607_11411085.html
    类型: HTML
 
-31. 共建一带一路，共享繁荣机遇
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678820/1206x2_678840/201504/t20150413_9329803.shtml
+31. The First Session of the Belt and Road Legal Cooperation ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2913_665441/3029_664074/3031_664078/202406/t20240611_11417132.html
    类型: HTML
 
-32. 驻加尔各答总领事王雪峰在印主流媒体发表署名文章介绍 ...
-   URL: https://www.fmprc.gov.cn/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/201505/t20150513_9279488.shtml
+32. Xi Jinping Meets with Amir Sheikh Tamim bin Hamad Al ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/bj2022/yswj/202406/t20240605_11377370.html
    类型: HTML
 
-33. “一带一路”纲领文件出台为中哈合作带来新机遇
-   URL: https://www.fmprc.gov.cn/web//dszlsjt_673036/ds_673038/201504/t20150415_7449329.shtml
+33. Let Us Strengthen Confidence and Solidarity and Jointly ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341545.html
    类型: HTML
 
-34. 让人文交流成为中埃共建“一带一路”的心灵桥梁
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/xgxw_677348/201603/t20160325_8013851.shtml
+34. Remarks by H.E. Xi Jinping President of the People's ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341286.html
    类型: HTML
 
-35. 携手共建“一带一路”
-   URL: https://www.fmprc.gov.cn/web/wjbz_673089/zyjh_673099/201904/t20190419_7478577.shtml
+35. Foreign Ministry Spokesperson's Remarks on China-Italy ...
+   URL: https://www.fmprc.gov.cn/eng./xw/fyrbt/fyrbt/202405/t20240530_11349783.html
    类型: HTML
 
-36. 王毅：共建“一带一路”将成为中欧战略合作新的增长点
-   URL: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/201808/t20180827_7952074.shtml
+36. Executive Vice Minister of Foreign Affairs Ma Zhaoxu's ...
+   URL: https://www.fmprc.gov.cn/eng./xw/wjbxw/202405/t20240530_11343694.html
    类型: HTML
 
-37. “一带一路”国际合作高级别视频会议联合声明
-   URL: https://www.fmprc.gov.cn/web//wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zywj_692152/202006/t20200619_10410172.shtml
+37. "President Project No.1" in Belt and Road Cooperation
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/zggcddwjw100ggs/xsd/202406/t20240606_11377991.html
    类型: HTML
 
-38. 习近平向“一带一路”亚太区域国际合作高级别会议发表书面致辞
-   URL: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/202106/t20210623_9136882.shtml
+38. Wang Yi: This Forum is Another Important Milestone ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202311/t20231110_11178413.html
    类型: HTML
 
-39. “一带一路”国际合作高峰论坛圆桌峰会联合公报（全文）
-   URL: https://www.fmprc.gov.cn/web/zyxw/201705/t20170515_341288.shtml
+39. Wang Yi: Deepen the Integration of the Belt and Road ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2762_663528/2764_663532/202406/t20240607_11412412.html
    类型: HTML
 
-40. “中贝发展论坛”热议“一带一路”
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677414/1206x2_677434/201907/t20190716_8016039.shtml
+40. Building the Maritime Silk Road of the 21st Century with ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11322706.html
    类型: HTML
 
-41. 驻英国大使刘晓明在中欧国际工商学院第三届欧洲论坛上的 ...
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/201707/t20170707_9279713.shtml
+41. Wang Yi: The Joint Building of the Belt and Road Between ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/xybfs_663590/dqzzywt_663826/202406/t20240606_11384726.html
    类型: HTML
 
-42. 王毅主持“一带一路”亚太区域国际合作高级别视频会议
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/202106/t20210624_9137538.shtml
+42. Xi Jinping Delivers Written Address to Asia and Pacific ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2020zt/kjgzbdfyyq/202406/t20240606_11380034.html
    类型: HTML
 
-43. 一带一路”建设将为中国和沿线国家共同发展带来巨大机遇
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679906/xgxw_679912/201510/t20151022_9353400.shtml
+43. Xi Jinping Attends the Third Belt and Road Forum ...
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/2022_144280/dsjydylgjhzgflt/
    类型: HTML
 
-44. “一带一路”倡议必将推动中土关系深入发展
-   URL: https://www.fmprc.gov.cn/dszlsjt_673036/201704/t20170426_5341176.shtml
+44. Wang Yi: The "Belt and Road" is Emphasis and Highlight ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2762_663528/2764_663532/202406/t20240607_11412350.html
    类型: HTML
 
-45. 国家主席习近平发表二〇二五年新年贺词
-   URL: https://www.fmprc.gov.cn/web//wjdt_674879/gjldrhd_674881/202412/t20241231_11524929.shtml
+45. Toast by H.E. Xi Jinping President of the People's Republic ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341771.html
    类型: HTML
 
-46. 加强国际合作共建“一带一路” 实现共赢发展
-   URL: https://www.fmprc.gov.cn/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zyjh_692150/202001/t20200117_10410173.shtml
+46. Xi Jinping Highlights Positive Results of "Belt and Road" ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2016zt/xjpdsrwyblwzbkstjxgsfwbcxshzzcygyslshdschy/202406/t20240606_11380848.html
    类型: HTML
 
-47. 杨洁篪谈共建“一带一路”和第二届“一带一路”<br>国际合作高峰 ...
-   URL: https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ydylfh_692140/zyjh_692150/201903/t20190330_10410181.shtml
+47. Xi Jinping Attends the Opening Ceremony of the Second ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11327871.html
    类型: HTML
 
-48. 中尼两国政府签署“一带一路”合作协议
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/yz_676205/1206_676812/1206x2_676832/201705/t20170513_9301161.shtml
+48. Joint Communique of the Leaders Roundtable of the Belt ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367347.html
    类型: HTML
 
-49. 驻摩尔多瓦大使董志华到任拜会摩副总理兼经济发展与 ...
-   URL: https://www.fmprc.gov.cn/webzwbd_673032/wshd_673034/202512/t20251224_11784448.shtml
+49. Carry Forward Silk Road Spirit and Write a New Chapter ...
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/2017zt/xjpdhjxgsfwbcxshzzcygyslshdsqchyhastnzxsbhkms/202406/t20240606_11380666.html
    类型: HTML
 
-50. “一带一路”巴黎论坛第二届会议在联合国教科文组织总部成功 ...
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/201901/t20190111_5825097.shtml
+50. Joint Statement of the High-level Video Conference on Belt ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367418.html
    类型: HTML
 
-51. 加强国际合作实现共赢发展——“一带一路”图片展在联合国 ...
-   URL: https://www.fmprc.gov.cn/gjhdq_676201/gjhdqzz_681964/lhg_681966/zwbd_681986/201705/t20170509_9382446.shtml
+51. Head of Chinese Mission to the African Union Ambassador ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202405/t20240530_11365842.html
    类型: HTML
 
-52. 携手共建“一带一路”，促进中也共赢发展
-   URL: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/201705/t20170516_9279631.shtml
+52. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202406/t20240612_11427942.html
    类型: HTML
 
-53. 驻哈萨克斯坦大使韩春霖在哈媒体发表署名文章《构建周边 ...
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202601/t20260101_11796784.shtml
+53. Statement of the Co-Chairs of the Forum on the Belt and ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/tyfls_665260/tfsxw_665262/202406/t20240606_11405475.html
    类型: HTML
 
-54. 驻法兰克福总领事梁建全就“一带一路”倡议接受德国《 ...
-   URL: https://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_679086/1206x2_679106/201506/t20150608_9335351.shtml
+54. Initiative for Belt and Road Partnership on COVID-19 ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202405/t20240531_11367438.html
    类型: HTML
 
-55. 中匈“一带一路”工作组首次会议在北京举行
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/oz_678770/1206_679858/xgxw_679864/201611/t20161130_9351844.shtml
+55. Remarks by State Councilor Wang Yi ​At the Meeting of ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202405/t20240530_11341597.html
    类型: HTML
 
-56. 驻比利时大使曲星在“一带一路”中比合作论坛上的致辞
-   URL: https://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_678940/1206x2_678960/201610/t20161021_9332046.shtml
+56. Singapore Will Fully Support and Participate in the "Belt ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2777_663548/2779_663552/202406/t20240607_11413412.html
    类型: HTML
 
-57. 驻科威特使馆举办中科关系暨共建“一带一路”研讨会
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676620/1206x2_676640/201603/t20160320_7983745.shtml
+57. Assistant Foreign Minister Kong Xuanyou Meets with "Belt and ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2676_663356/2678_663360/202406/t20240607_11406402.html
    类型: HTML
 
-58. 驻爱沙尼亚大使曲喆大使在塔林理工大学“一带一路”专题学术 ...
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678820/1206x2_678840/201604/t20160419_9329831.shtml
+58. Staying True to SCO Founding Mission And Ushering in a ...
+   URL: https://www.fmprc.gov.cn/eng./xw/zyxw/202509/t20250901_11699345.html
    类型: HTML
 
-59. 驻塞尔维亚大使李明在塞媒体发表署名文章《破解“债务陷阱” ...
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202512/t20251225_11786679.shtml
+59. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng./wjbzhd/index_108.html
    类型: HTML
 
-60. 驻土耳其大使姜学斌在土媒体《晨报》发表署名文章《新岁启新程
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202601/t20260101_11796785.shtml
+60. Wang Yi Meets with Secretary General of the Gulf ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202512/t20251215_11772926.html
    类型: HTML
 
-61. 驻格鲁吉亚大使周谦在格媒体发表署名文章《美国对中国台湾 ...
-   URL: https://www.fmprc.gov.cn/web/zwbd_673032/wjzs/202512/t20251231_11793336.shtml
+61. Foreign Ministry Spokesperson Mao Ning's Regular Press ...
+   URL: https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202511/t20251117_11754686.html
    类型: HTML
 
-62. 驻哥打基纳巴卢总领事朱兴龙拜会沙巴州副首席部长兼工业 ...
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202512/t20251231_11793680.shtml
+62. Zhao Leji Pays an Official Goodwill Visit to ...
+   URL: https://www.fmprc.gov.cn/eng./xw/zyxw/202507/t20250730_11679748.html
    类型: HTML
 
-63. 驻尼加拉瓜大使瞿瑜辉在尼官媒《19数字报》发表署名文章《 ...
-   URL: https://www.fmprc.gov.cn/web/zwbd_673032/wjzs/202512/t20251228_11788738.shtml
+63. Speech by Chinese Consul General in Munich Qiu Xuejun ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202512/t20251217_11775038.html
    类型: HTML
 
-64. 驻古巴大使华昕在向旅古华侨协助古巴独立纪功碑敬献花圈 ...
-   URL: https://www.fmprc.gov.cn/web/zwbd_673032/wjzs/202512/t20251231_11794588.shtml
+64. Article by Chinese Ambassador to Nigeria Yu Dunhai “ ...
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/dstzgzz/dszs/202512/t20251222_11780508.html
    类型: HTML
 
-65. 驻伊尔库茨克总领事刘渝接受伊尔库茨克《州报》书面采访
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202512/t20251230_11790406.shtml
+65. Li Qiang Attends and Addresses the Opening Ceremony of ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202506/t20250627_11660565.html
    类型: HTML
 
-66. 驻马来西亚大使欧阳玉靖在马媒体发表题为《友谊长青讴歌 ...
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202601/t20260101_11796780.shtml
+66. Speeches_Ministry of Foreign Affairs of the People's ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/wjbz/jh/index_13.html
    类型: HTML
 
-67. 习近平在乌兹别克斯坦最高会议立法院发表演讲时强调“一带 ...
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/yz_676205/1206_677052/xgxw_677058/201606/t20160622_9305224.shtml
+67. President Xi Jinping Meets with Turkmen President Serdar ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202509/t20250902_11700777.html
    类型: HTML
 
-68. 驻阿塞拜疆大使鲁梅在阿媒体发表署名文章《跨越山海传承 ...
-   URL: https://www.fmprc.gov.cn/zwbd_673032/wjzs/202512/t20251231_11794585.shtml
+68. Putting the Asia Pacific at the Forefront of the Joint ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202510/t20251031_11744945.html
    类型: HTML
 
-69. 心相近，路相通——驻冈比亚使馆中冈减贫沙龙侧记
-   URL: https://www.fmprc.gov.cn/web/zwbd_673032/ywfc_673029/202512/t20251225_11786650.shtml
+69. Chinese Ambassador to Lebanon Chen Chuandong Briefs ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202511/t20251112_11751406.html
    类型: HTML
 
-70. 一带一路”倡议为乌干达带来真实可触的合作成果
-   URL: https://www.fmprc.gov.cn/gjhdq_676201/gj_676203/fz_677316/1206_678622/1206x2_678642/201904/t20190426_9326971.shtml
+70. Chargé d'Affaires ad interim of the Chinese Embassy in ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202509/t20250917_11709830.html
    类型: HTML
 
-71. “一带一路”：开放中国的发展邀约
-   URL: https://www.fmprc.gov.cn/gjhdq_676201/gj_676203/yz_676205/1206_677148/1206x2_677168/201812/t20181225_9306606.shtml
+71. Chinese Ambassador to the Federated States of ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202503/t20250331_11584989.html
    类型: HTML
 
-72. 外交部副部长张业遂在《求是》杂志撰文谈“一带一路”
-   URL: https://www.fmprc.gov.cn/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/wjbxw_675053/201505/t20150520_7952225.shtml
+72. Wang Yi Meets with Peruvian Foreign Minister Elmer ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/ldmzs_664952/xwlb_664954/202505/t20250513_11621812.html
    类型: HTML
 
-73. 关于加强“一带一路”国际智库合作倡议
-   URL: https://www.fmprc.gov.cn/zyxw/202310/P020231019680056423868.pdf
-   类型: PDF
-
-74. 驻安哥拉大使龚韬在安《经济价值报》发表署名文章《中国 ...
-   URL: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/202201/t20220116_10562273.shtml
+73. Strengthening China-Africa Innovation Cooperation and ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zwbd/202510/t20251010_11725176.html
    类型: HTML
 
-75. 外交部与联合国亚太经社会签署“一带一路”合作文件
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zyxw_675051/201904/t20190426_7952136.shtml
+74. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3265_665445/3326_664640/
    类型: HTML
 
-76. 王毅：“一带一路”合作为全球经济寒冬注入暖流
-   URL: https://www.fmprc.gov.cn/wjbzhd/202101/t20210102_361934.shtml
+75. Wang Yi Meets with Advisor to Nicaraguan President ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202505/t20250513_11622004.html
    类型: HTML
 
-77. 丁薛祥会见来华出席第二届“一带一路”科技交流大会的外方 ...
-   URL: https://www.fmprc.gov.cn/zyxw/202506/t20250610_11645177.shtml
+76. Xi Jinping Meets with Mongolian Prime Minister ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/bj2022/yswj/202406/t20240605_11377379.html
    类型: HTML
-
-78. “一带一路”绿色发展北京倡议
-   URL: https://www.fmprc.gov.cn/ziliao_674904/1179_674909/202310/P020231019680042380846.pdf
-   类型: PDF
 
-79. 驻匈牙利大使龚韬在高质量共建“一带一路” 研讨会上的主旨 ...
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679858/1206x2_679878/202310/t20231003_11154609.shtml
+77. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng/wjb/zygy/hd/index_89.html
    类型: HTML
 
-80. 驻土耳其大使姜学斌发表署名文章《“一带一路”倡议拓宽合作 ...
-   URL: https://www.fmprc.gov.cn/web//gjhdq_676201/gj_676203/yz_676205/1206_676956/1206x2_676976/202508/t20250815_11690596.shtml
+78. Li Qiang Holds Talks with Prime Minister of Antigua and ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332712.html
    类型: HTML
 
-81. “一带一路”企业家大会北京宣言
-   URL: https://www.fmprc.gov.cn/ziliao_674904/1179_674909/202310/P020231019680063018502.pdf
-   类型: PDF
+79. A Decade of Transformation_Ministry of Foreign Affairs ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/xsd/202406/t20240606_11377984.html
+   类型: HTML
 
-82. “一带一路”国际合作高峰论坛秘书处成立
-   URL: https://www.fmprc.gov.cn/web//wjb_673085/zzjg_673183/gjjjs_674249/xgxw_674251/202405/t20240513_11303484.shtml
+80. Holding High the Banner of Building a Community with a ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202501/t20250127_11546599.html
    类型: HTML
 
-83. “一带一路”数字经济国际合作北京倡议
-   URL: https://www.fmprc.gov.cn/ziliao_674904/1179_674909/202310/P020231019680044766978.pdf
-   类型: PDF
+81. Albania_Ministry of Foreign Affairs of the People's Republic ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3265_665445/3125_664410/
+   类型: HTML
 
-84. 驻马赛总领事董广利就“一带一路”倡议提出十周年接受《 ...
-   URL: https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679134/1206x2_679154/202309/t20230914_11142817.shtml
+82. President Xi Jinping Meets with Maldivian ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2737_663478/2739_663482/202509/t20250901_11699304.html
    类型: HTML
 
-85. “一带一路”高质量发展新型全球化不可阻挡
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/202201/t20220116_10561076.shtml
+83. The People's Republic of China and Montenegro ...
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3265_665445/Montenegro_664680/
    类型: HTML
 
-86. 习近平向首届“一带一路”科技交流大会致贺信
-   URL: https://www.fmprc.gov.cn/web/zyxw/202311/t20231106_11174335.shtml
+84. Wang Yi: Set New Goals and Clarify New Priorities ...
+   URL: https://www.fmprc.gov.cn/eng/wjb/wjbz/hd/202207/t20220713_10719190.html
    类型: HTML
 
-87. 王毅：欢迎刚果（金）成为非洲第45个“一带一路”合作伙伴
-   URL: https://www.fmprc.gov.cn/wjbzhd/202101/t20210107_361952.shtml
+85. Xi Jinping Attends the 14th G20 Summit and Delivers an ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2019zt/xjpcxesgjtfh/202406/t20240606_11379957.html
    类型: HTML
 
-88. 古特雷斯：“一带一路”有助于推动全球化平衡、包容、和谐发展
-   URL: https://www.fmprc.gov.cn/wjbz_673089/tp/201705/t20170513_7589954.shtml
+86. ​Han Zheng Attends the Opening Ceremony of the Fourth ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202506/t20250604_11640658.html
    类型: HTML
 
-89. 王毅谈第三届“一带一路”国际合作高峰论坛重要成果
-   URL: https://www.fmprc.gov.cn/wjbzhd/202310/t20231019_11163476.shtml
+87. ​Joint Statement Between the People's Republic of China ...
+   URL: https://www.fmprc.gov.cn/eng/zy/gb/202504/t20250424_11603292.html
    类型: HTML
 
-90. 王毅谈共建“一带一路”进入高质量发展新阶段
-   URL: https://www.fmprc.gov.cn/wjbzhd/202310/t20231019_11163472.shtml
+88. Ministry of Foreign Affairs People's Republic of China
+   URL: https://www.fmprc.gov.cn/eng./wjbzhd/index_127.html
    类型: HTML
 
-91. 驻西班牙大使姚敬在“一带一路”研究中心发表演讲
-   URL: https://www.fmprc.gov.cn/wjdt_674879/zwbd_674895/202504/t20250407_11589226.shtml
+89. Xi Jinping Holds Talks with Prime Minister Viktor Orbán of ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2024zt/xjpdfsxjxgsfw/202405/t20240512_11303442.html
    类型: HTML
 
-92. 中国与多米尼克“一带一路”合作的生动实践
-   URL: https://www.fmprc.gov.cn/wjdt_674879/zwbd_674895/202503/t20250304_11567921.shtml
+90. General Secretary and President Xi Jinping Meets with ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202509/t20250904_11702293.html
    类型: HTML
 
-93. 秦刚：“一带一路”倡议十年，铺就共同发展的康庄大道
-   URL: https://www.fmprc.gov.cn/wjbz_673089/xghd_673097/202303/t20230307_11036924.shtml
+91. China and Slovenia
+   URL: https://www.fmprc.gov.cn/eng/gjhdq_665435/3265_665445/3230_664762/
    类型: HTML
 
-94. 王毅出席“一带一路”国际合作高峰论坛咨询委员会会议
-   URL: https://www.fmprc.gov.cn/wjbzhd/202112/t20211217_10471282.shtml
+92. Xi Jinping Meets with Prime Minister of Solomon Islands ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202407/t20240719_11456604.html
    类型: HTML
 
-95. 习近平出席第三届“一带一路”国际合作高峰论坛开幕式并发表 ...
-   URL: https://www.fmprc.gov.cn/web/zyxw/202310/t20231018_11163171.shtml
+93. The Global Governance Initiative Comes at the Right Time ...
+   URL: https://www.fmprc.gov.cn/eng/wjbzhd/202509/t20250904_11702287.html
    类型: HTML
 
-96. 驻俄罗斯大使张汉晖在《劳动报》发表署名文章《高质量共建“ ...
-   URL: https://www.fmprc.gov.cn/wjdt_674879/zwbd_674895/202506/t20250611_11645612.shtml
+94. President Xi Jinping Holds Talks with Brazilian ...
+   URL: https://www.fmprc.gov.cn/eng/zy/jj/2024zt/xjpcxapec2g20/202412/t20241218_11496109.html
    类型: HTML
 
-97. P020210829015909211354.doc
-   URL: https://www.fmprc.gov.cn/web//ziliao_674904/zt_674979/dnzt_674981/qtzt/ydyl_675049/zwbd_675055/201906/P020210829015909211354.doc
+95. China's Policy Paper on Latin America and the Caribbean
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202512/P020251210526428372718.docx
    类型: DOC
 
-98. 王毅出席“一带一路”国际合作高峰论坛咨询委员会会议
-   URL: https://www.fmprc.gov.cn/web/wjbzhd/202012/t20201219_361889.shtml
+96. Li Qiang Meets with Russian Prime Minister Mikhail Mishustin
+   URL: https://www.fmprc.gov.cn/eng./xw/zyxw/202405/t20240530_11332416.html
+   类型: HTML
+
+97. Foreign Ministry Holds Briefing for Chinese and ...
+   URL: https://www.fmprc.gov.cn/eng./zy/jj/2015zt/lzlcxzdogjldrhw/202406/t20240606_11381241.html
+   类型: HTML
+
+98. Han Zheng Visits Malaysia_Ministry of Foreign Affairs ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332479.html
+   类型: HTML
+
+99. Working Together for a Brighter Future of China-Tajikistan ...
+   URL: https://www.fmprc.gov.cn/eng/xw/zyjh/202407/t20240705_11448655.html
    类型: HTML
 

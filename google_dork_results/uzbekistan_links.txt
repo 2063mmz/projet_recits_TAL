@@ -1,267 +1,259 @@
 ================================================================================
 乌兹别克斯坦 - 一带一路相关链接 (Google搜索结果)
 目标网站: https://president.uz/en/
-搜索查询: Belt and Road site:president.uz/en
-爬取时间: 2026-01-01 23:02:39
+搜索查询: Belt and Road site:president.uz/en -filetype:pdf -inurl:.php
+爬取时间: 2026-01-03 23:40:19
 ================================================================================
 
-1. Belt and Road forum starts in Beijing
-   URL: https://president.uz/en/lists/view/2528
+1. President of Uzbekistan puts forward initiatives for ...
+   URL: https://president.uz/en/lists/view/8232
    类型: HTML
 
-2. President of Uzbekistan puts forward initiatives for ...
-   URL: https://president.uz/en/lists/view/8232
+2. Belt and Road forum starts in Beijing
+   URL: https://president.uz/en/lists/view/2528
    类型: HTML
 
 3. Belt and Road Forum kicks off in Beijing
    URL: https://president.uz/en/lists/view/498
    类型: HTML
 
-4. President of China Congratulates the ...
-   URL: https://www.president.uz/en/lists/view/4733
-   类型: HTML
-
-5. President of Uzbekistan identifies priorities of deepening ...
+4. President of Uzbekistan identifies priorities of deepening ...
    URL: https://president.uz/en/lists/view/8448
    类型: HTML
 
-6. A solid package of documents adopted with China
+5. A solid package of documents adopted with China
    URL: https://president.uz/en/lists/view/8453
    类型: HTML
 
-7. Uzbek and Chinese Leaders Discuss Further Expanding ...
-   URL: https://president.uz/en/lists/view/6990
+6. President of China Congratulates the ...
+   URL: https://www.president.uz/en/lists/view/4733
    类型: HTML
 
-8. President of Uzbekistan Calls for International Unity in ' ...
-   URL: https://president.uz/en/lists/view/6778
-   类型: HTML
-
-9. Address by President Shavkat Mirziyoyev to the ...
-   URL: https://president.uz/en/lists/view/7791
-   类型: HTML
-
-10. A Solemn Meeting of “One Belt, One Road” Forum ...
-   URL: https://president.uz/en/lists/view/6771
-   类型: HTML
-
-11. Uzbek and Chinese Leaders Discuss Further ...
-   URL: https://president.uz/en/lists/view/6770
-   类型: HTML
-
-12. Address by H.E. Mr. Shavkat Mirziyoyev, President of the ...
+7. Address by H.E. Mr. Shavkat Mirziyoyev, President of the ...
    URL: https://president.uz/en/lists/view/6777
    类型: HTML
 
-13. The President of Uzbekistan to visit China
-   URL: https://president.uz/en/lists/view/2518
+8. Address by President Shavkat Mirziyoyev to the ...
+   URL: https://president.uz/en/lists/view/7791
    类型: HTML
 
-14. Uzbek President to Pay a Working Visit to China
+9. President of Uzbekistan Calls for International Unity in ' ...
+   URL: https://president.uz/en/lists/view/6778
+   类型: HTML
+
+10. Uzbek and Chinese Leaders Discuss Further ...
+   URL: https://president.uz/en/lists/view/6770
+   类型: HTML
+
+11. Uzbek President to Pay a Working Visit to China
    URL: https://president.uz/en/lists/view/6760
    类型: HTML
 
-15. Shavkat Mirziyoyev completes visit to China and departs ...
+12. Shavkat Mirziyoyev completes visit to China and departs ...
    URL: https://president.uz/en/lists/view/2534
    类型: HTML
 
-16. China” Summit
+13. China” Summit
    URL: https://president.uz/en/lists/view/8231
    类型: HTML
 
-17. Central and South Asia: Regional Connectivity. Challenges ...
-   URL: https://president.uz/en/lists/view/4484
+14. Uzbek and Chinese Leaders Discuss Further Expanding ...
+   URL: https://president.uz/en/lists/view/6990
    类型: HTML
 
-18. Shavkat Mirziyoyev: Our peoples must in reality feel ...
+15. Shavkat Mirziyoyev: Our peoples must in reality feel ...
    URL: https://president.uz/en/lists/view/2533
    类型: HTML
 
-19. Uzbekistan's leader meets with Chinese delegation
-   URL: https://president.uz/en/lists/view/3417
-   类型: HTML
-
-20. Uzbek President Meets with Chairwoman of Silk Road Fund
-   URL: https://president.uz/en/lists/view/6995
-   类型: HTML
-
-21. Shavkat Mirziyoyev arrives in Beijing
-   URL: https://president.uz/en/lists/view/2522
-   类型: HTML
-
-22. Shavkat Mirziyoyev takes part in opening ceremony of the ...
-   URL: https://president.uz/en/lists/view/3931
-   类型: HTML
-
-23. Uzbekistan – Turkey: a new stage of cooperation
-   URL: https://president.uz/en/lists/view/1175
-   类型: HTML
-
-24. President of Uzbekistan Completes Visit to China
+16. President of Uzbekistan Completes Visit to China
    URL: https://president.uz/en/lists/view/6780
    类型: HTML
 
-25. President leaves for China
-   URL: https://president.uz/en/2521
+17. The President of Uzbekistan to visit China
+   URL: https://president.uz/en/lists/view/2518
    类型: HTML
 
-26. Address by the President of the Republic of Uzbekistan ...
+18. Address by the President of the Republic of Uzbekistan ...
    URL: https://president.uz/en/lists/view/6354
    类型: HTML
 
-27. President of Uzbekistan Meets with Chairman of Chinese ...
+19. President of Uzbekistan Meets with Chairman of Chinese ...
    URL: https://president.uz/en/lists/view/6779
    类型: HTML
 
-28. Uzbekistan's President meets with Xi Jinping
+20. A Solemn Meeting of “One Belt, One Road” Forum ...
+   URL: https://president.uz/en/lists/view/6771
+   类型: HTML
+
+21. Uzbekistan's President meets with Xi Jinping
    URL: https://president.uz/en/lists/view/2523
    类型: HTML
 
-29. Speech by President Shavkat Mirziyoyev to the opening ...
-   URL: https://president.uz/en/lists/view/3932
+22. Address by the President of the Republic of Uzbekistan ...
+   URL: https://president.uz/en/lists/view/8449
    类型: HTML
 
-30. Address by the President of the Republic of Uzbekistan ...
+23. Address by the President of the Republic of Uzbekistan ...
    URL: https://www.president.uz/en/lists/view/4940
    类型: HTML
 
-31. Practical proposals for development of trade relations in ...
-   URL: https://president.uz/en/lists/view/1775
-   类型: HTML
-
-32. President of Uzbekistan received the Minister of National ...
-   URL: https://president.uz/en/lists/view/821
-   类型: HTML
-
-33. On upcoming state visit of the President of Uzbekistan to ...
-   URL: https://president.uz/en/lists/view/482
-   类型: HTML
-
-34. President of Uzbekistan Shavkat Mirziyoyev met with ...
+24. President of Uzbekistan Shavkat Mirziyoyev met with ...
    URL: https://president.uz/en/lists/view/499
    类型: HTML
 
-35. Sincere Congratulations to the President and the People ...
-   URL: https://www.president.uz/en/lists/view/5068
+25. Uzbek President Meets with Chairwoman of Silk Road Fund
+   URL: https://president.uz/en/lists/view/6995
    类型: HTML
 
-36. President of Uzbekistan Arrives in Beijing
-   URL: https://president.uz/en/lists/view/6768
+26. Central and South Asia: Regional Connectivity. Challenges ...
+   URL: https://president.uz/en/lists/view/4484
    类型: HTML
 
-37. President Shavkat Mirziyoyev met with Chinese ...
+27. Shavkat Mirziyoyev arrives in Beijing
+   URL: https://president.uz/en/lists/view/2522
+   类型: HTML
+
+28. Uzbekistan's leader meets with Chinese delegation
+   URL: https://president.uz/en/lists/view/3417
+   类型: HTML
+
+29. Shavkat Mirziyoyev takes part in opening ceremony of the ...
+   URL: https://president.uz/en/lists/view/3931
+   类型: HTML
+
+30. President leaves for China
+   URL: https://president.uz/en/2521
+   类型: HTML
+
+31. President Shavkat Mirziyoyev met with Chinese ...
    URL: https://president.uz/en/lists/view/2529
    类型: HTML
 
-38. Sincere congratulations from foreign leaders
+32. On upcoming state visit of the President of Uzbekistan to ...
+   URL: https://president.uz/en/lists/view/482
+   类型: HTML
+
+33. Practical proposals for development of trade relations in ...
+   URL: https://president.uz/en/lists/view/1775
+   类型: HTML
+
+34. CHINA
+   URL: https://president.uz/en/lists/categories/56?menu_id=12&page=3&per-page=15
+   类型: HTML
+
+35. President visits Huawei Innovation Center
+   URL: https://president.uz/en/lists/view/2524
+   类型: HTML
+
+36. Sincere congratulations from foreign leaders
    URL: https://president.uz/en/lists/view/2763
    类型: HTML
 
-39. CHINA
-   URL: https://president.uz/en/lists/categories/56?menu_id=12&page=2&per-page=15
+37. President of Uzbekistan Arrives in Beijing
+   URL: https://president.uz/en/lists/view/6768
    类型: HTML
 
-40. Leaders of Uzbekistan and China Hold A Telephone ...
+38. Sincere Congratulations to the President and the People ...
+   URL: https://www.president.uz/en/lists/view/5068
+   类型: HTML
+
+39. Leaders of Uzbekistan and China Hold A Telephone ...
    URL: https://president.uz/en/lists/view/4315
    类型: HTML
 
-41. President visits Huawei Innovation Center
-   URL: https://president.uz/en/lists/view/2524
+40. Priority tasks for the comprehensive development of ...
+   URL: https://president.uz/en/lists/view/8788
+   类型: HTML
+
+41. President of Uzbekistan received Deputy Prime Minister ...
+   URL: https://president.uz/en/lists/view/543
    类型: HTML
 
 42. Holiday greetings from abroad
    URL: https://president.uz/en/lists/view/2830
    类型: HTML
 
-43. Shavkat Mirziyoyev arrives in Beijing
-   URL: https://president.uz/en/lists/view/486
+43. President of the Republic of Uzbekistan
+   URL: https://president.uz/en/site/multi-video?menu_id=14&page=2&per-page=15
    类型: HTML
 
 44. Visits abroad
-   URL: https://president.uz/en/lists/category/8?menu_id=12%7Ctitle%3D%D0%97%D0%B0%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5&page=51&per-page=15
-   类型: HTML
-
-45. Visits abroad
    URL: https://president.uz/en/lists/category/8?menu_id=12&page=28&per-page=15
    类型: HTML
 
-46. President of Uzbekistan received Deputy Prime Minister ...
-   URL: https://president.uz/en/lists/view/543
+45. Visits abroad
+   URL: https://president.uz/en/lists/category/8?menu_id=12%7Ctitle%3D%D0%97%D0%B0%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5&page=51&per-page=15
    类型: HTML
 
-47. Speeches
-   URL: https://president.uz/en/lists/category/5?menu_id=12&page=3&per-page=15
-   类型: HTML
-
-48. 92
+46. 92
    URL: https://president.uz/en/search/index?SearchForm%5Btext%5D=9&page=92
    类型: HTML
 
-49. 74
+47. Shavkat Mirziyoyev arrives in Beijing
+   URL: https://president.uz/en/lists/view/486
+   类型: HTML
+
+48. 74
    URL: https://president.uz/en/search/index?SearchForm%5Btext%5D=6&page=74
    类型: HTML
 
-50. President of the Republic of Uzbekistan
-   URL: https://president.uz/en/site/multi-video?menu_id=14&page=4&per-page=15
-   类型: HTML
-
-51. Every household and enterprise need to contribute ...
+49. Every household and enterprise need to contribute ...
    URL: https://president.uz/en/lists/view/7726
    类型: HTML
 
-52. President of the Republic of Uzbekistan
+50. President of the Republic of Uzbekistan
+   URL: https://president.uz/en/site/multi-media?page=44&per-page=15
+   类型: HTML
+
+51. President of the Republic of Uzbekistan
    URL: https://president.uz/en/lists/news?page=323&per-page=15
    类型: HTML
 
-53. 123
+52. 123
    URL: https://president.uz/en/search/index?SearchForm%5Btext%5D=1&page=123
+   类型: HTML
+
+53. 152
+   URL: https://president.uz/en/search/index?SearchForm%5Btext%5D=1&page=152
    类型: HTML
 
 54. President of the Republic of Uzbekistan
    URL: https://president.uz/en/lists/news?menu_id=12%5C&page=257&per-page=15
    类型: HTML
 
-55. 152
-   URL: https://president.uz/en/search/index?SearchForm%5Btext%5D=1&page=152
-   类型: HTML
-
-56. President of the Republic of Uzbekistan
+55. President of the Republic of Uzbekistan
    URL: https://president.uz/en/site/multi-media?menu_id=14&page=23&per-page=15
    类型: HTML
 
-57. President of the Republic of Uzbekistan
-   URL: https://president.uz/en/site/multi-media?page=44&per-page=15
-   类型: HTML
-
-58. Priority tasks for the comprehensive development of ...
-   URL: https://president.uz/en/lists/view/8788
-   类型: HTML
-
-59. President of the Republic of Uzbekistan
-   URL: https://president.uz/en/site/multi-media?menu_id=14&p_tab=4&page=42&per-page=15
-   类型: HTML
-
-60. Address by the President of the Republic of Uzbekistan ...
-   URL: https://president.uz/en/lists/view/8449
-   类型: HTML
-
-61. President of the Republic of Uzbekistan
+56. President of the Republic of Uzbekistan
    URL: https://president.uz/en/site/multi-media?menu_id=14&%3Bp_tab=5&page=41&per-page=15
    类型: HTML
 
-62. Priority Tasks in Construction, Transport and Ecology ...
+57. President of Uzbekistan received the Minister of National ...
+   URL: https://president.uz/en/lists/view/821
+   类型: HTML
+
+58. Priority Tasks in Construction, Transport and Ecology ...
    URL: https://president.uz/en/lists/view/7002
+   类型: HTML
+
+59. Speeches
+   URL: https://president.uz/en/lists/category/5?page=3&per-page=15
+   类型: HTML
+
+60. Uzbekistan's President Advocates Further Development ...
+   URL: https://president.uz/en/lists/view/6458
+   类型: HTML
+
+61. Uzbekistan – Turkey: a new stage of cooperation
+   URL: https://president.uz/en/lists/view/1175
+   类型: HTML
+
+62. Address by the President of the Republic of Uzbekistan ...
+   URL: https://president.uz/en/lists/view/6457
    类型: HTML
 
 63. Draft Master Plan of Tashkent City 2045 Considered
    URL: https://www.president.uz/en/lists/view/5621
-   类型: HTML
-
-64. Uzbekistan's President Advocates Further Development ...
-   URL: https://president.uz/en/lists/view/6458
-   类型: HTML
-
-65. Address by the President of the Republic of Uzbekistan ...
-   URL: https://president.uz/en/lists/view/6457
    类型: HTML
 
