@@ -1,0 +1,288 @@
+seed_url: https://finance.gov.ng/category/catchup/page/21/
+final_url: https://finance.gov.ng/category/catchup/page/21/
+title: CatchUp – Page 21 – Federal Ministry of Finance
+date: 2024-09-10T09:02:44+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+September 10, 2024
+fmf
+with
+No Comment
+CatchUp
+In a significant stride towards making home ownership a reality for millions of Nigerians, the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun has today in his office in Abuja, convened a high-level meeting to discuss the launch of the Ministry of Finance Incorporated Real Estate Investment Fund (MREIF). This innovative initiative aims to provide low-cost mortgage financing options for eligible Nigerians, marking a major milestone in the One Million Homes Presidential Initiative.
+In his opening remarks, the Honourable Minister emphasized the potential of the fund to provide cost-effective mortgage options for a large segment of pension account holders. He underscored the significance of the meeting as an opportunity for open dialogue, enabling key stakeholders to exchange ideas and contribute to the initiative’s success.
+Dr. Armstrong UME Takang, CEO of the Ministry of Finance Incorporated (MOFI), further elaborated on the initiative, noting that the MREIF is designed to be market-driven while adhering to all regulatory standards.
+The meeting brought together prominent leaders from the pension and financial sectors, including:
+1.Dr. Oluwatoyin Maiden, Accountant General of the Federation
+2.Wale Odutola, ARM Pensions
+3.Funmi Ekundayo, CEO, STC Trustees
+4.Sani Yakubu, Co-Coordinator, MREIF
+5.Temitayo Ajayi, Vetiva Advisory
+6.Saadu Jijji, MD, PAL Pensions
+7.Tony Odutola, DCIO, FCMB Pensions LTD
+8.Nuhu Modibbo, Executive Director, Access Pensions
+9.Victor Bisong, MD/CEO, Trustfund
+10.Emmanuel Thomas, Executive Director, NUPEMCO
+11.Oluwakemi Ugwu, MD/CEO, NUPEMCO and
+12.Christopher Bajowa, MD/CEO, Access Pensions
+As the Mortgage Finance Fund takes shape, the Honourable Minister’s leadership and commitment to ensuring the realization of the Presidential initiatives on
+affordable housing for eligible Nigerians
+have set the stage for a transformative impact on Nigeria’s housing market especially with the alignment of key stakeholders and a clear vision in place, the MREIF is poised to unlock unprecedented opportunities for Nigerians to own their homes.
+Thus, as the initiative moves forward, the Ministry of Finance remains dedicated to ensuring its success, paving the way for a brighter future for generations to come.
+Signed
+Mohammed Manga, FCAI
+Director, Information and Public Relations
+September 10, 2024
+September 9, 2024
+fmf
+with
+No Comment
+CatchUp
+The Federal Government has officially debunked reports suggesting that the President Bola Ahmed Tinubu-led Administration plans to raise Nigeria’s Value-Added Tax (VAT) from 7.5% to 10%.
+In a statement issued earlier this morning, the Honourable Minister of Finance and Coordinating Minister of the Economy Mr Wale Edun clarified that there is no such proposal under consideration, emphasising President Tinubu’s commitment to fiscal stability.
+HM Edun highlighted that the current VAT rate remains unchanged, and that the Federal Government is focused on strengthening the economy through sustainable policies aimed at reducing inflationary pressures without burdening citizens. He also stressed that recent fiscal measures, such as suspensions on import duties for key goods, are part of President Tinubu’s efforts to alleviate economic hardship.
+The Federal Ministry of Finance remains committed to transparent communication on all tax and economic policy matters, ensuring that citizens are well-informed and not misled by unfounded reports.
+The Minister assured the public that any future tax reforms would be announced through official government channels to avoid misinformation.
+Signed
+Mohammed Manga FCIA
+Director, Information and Public Relations
+September 9, 2024
+September 9, 2024
+fmf
+with
+No Comment
+CatchUp
+*1. FOOD INFLATION SEEN REVERSING ON FUEL PRICE HIKE
+Business Day, Page 1-31*
+In July 2024, food inflation declined to 39.53 percent from 40.87 percent in June. It was a relief for many families who were spending most of their incomes on food. However, the excitement may be temporary given the recent increase in petrol price, according to data analysed by BusinessDay. Data shows that each time the price of premium motor spirit (PMS) or petrol increases, food inflation moves in the same direction.
+Food inflation rose from 24.8 percent in May to 25.25 percent in June 2023 when petrol price increased from N200 to N525 per litre after President Tinubu ended the country’s gasoline subsidies on May 29. When the pump petrol price further increased to an average of N617 per litre in July 2023, food inflation rose to 29.3 percent in August 2023 from 26.9 percent in July 2023.
+*2. HOW NIGERIA CAN BOOST REVENUES WITHOUT RAISING TAXES
+Business Day, Page 1*
+Nigeria has one or two lessons to draw from the United Arab Emirates (UAE) on how a nation raises its revenue base without necessarily increasing taxes. The United Arab Emirates (UAE) is one of the lowest tax nations in the world. It does not impose income tax on citizens, but they only need to pay 5 percent value added tax (VAT) for goods purchased or services rendered, according to the UAE government official website.
+The UAE’s corporate tax is nine percent, which it only started implementing in June 2023. This is against 32 percent corporate tax in Portugal, 30 percent in Germany, and 30 percent for Nigeria (large companies), Statista said. Yet, the UAE’s revenue stood at 463.9 billion dirhams ($126.3 billion) in 2021, up 26 percent from 2020, WAM. Its revenue in the fourth quarter of 2023 was $42.45 billion, an 8 percent increase from the further quarter of 2022.
+*3. INVESTORS TAKE FGN $500M BOND TO OVERSUBSCRIPTION
+The Nation, Page 1-2*
+Nigeria’s first domestic foreign currency-denominated bond recorded significant oversubscription, underlining investors’ confidence in the country’s economic outlook. It was learnt at the weekend that the medium-term $500 million bond witnessed overwhelming subscriptions from local and foreign investors.
+It closed as a landmark transaction that ushered in a new window of foreign exchange (forex) to governments and companies. The Debt Management Office (DMO), which oversees the government’s debt issuances and management, is expected to make final allotment results this week.
+*4. NIGERIAN, CHINESE FIRMS SIGN $1B IRON ORE-TO-STEEL PROJECT PACT
+The Nation, Page 1*
+Efforts by the Federal Government to make local value addition the model of development in the solid minerals sector are yielding the desired results. This followed the signing of a $1 billion Memorandum of Understanding (MoU) by two firms on the establishment of an iron ore-to-steel project in Kogi State.
+A statement by Kehinde Bamigbetan, the Special Adviser to Solid Minerals Development Minister, Oladele Alake, said the minister was excited by the development.
+According to the statement, Dr. Alake hailed the feat in China during one of the sidelines activities of the just concluded visit of President Bola Ahmed Tinubu to Beijing.
+*5. N342B RECOVERED FROM NIRSAL MFB DEBTORS
+The Nation, Page 4*
+The paper reported that the more than 65 per cent of the N528.1 billion given out as loans to Nigerians by NIRSAL Microfinance Bank (NMFB) has been recovered. The bank has recovered over N342.6 billion of the facility from debtors, who benefitted from the loans disbursed on behalf of the Federal Government.
+It also ruled out any arbitrariness in the increment of interest rates on the loans from five to nine per cent, describing it as s response to changes in the Central Bank of Nigeria’s (CBN) benchmark rate. The government introduced the loans in 2020 under the COVID-19 pandemic economic recovery scheme.
+*6. CRYPTO: SEC SHARPENS FOCUS ON ILLEGAL FUNDS, INFRACTIONS
+The Nation, Page 15*
+Nigeria’s apex capital market regulator, Securities and Exchange Commission (SEC) has said that it would commence stringent reviews of activities in the digital assets segment of the capital market to protect investors and forestall the use of the segment for illegal inflows. Director General, Securities and Exchange Commission (SEC), Dr. Emomotimi Agama, said the Commission is committed to protecting investors including those in the crypto space and therefore enjoined participants in the market to play by the rules.
+He warned that the regulator would deploy the full weight of the law against individuals and entities that engage in activities that are contrary to laid down regulations in the capital market. “We are certainly going to commence enforcement actions on anyone who wants to operate in this market and does not have the intention of being regulated. This also applies to those in the crypto space.
+*7. FOREX INFLOWS RISE TO $2.34B ON NON-BANK SURGE
+The Nation, Page 15*
+Total inflows into the Nigerian Autonomous Foreign Exchange Market (NAFEM) rose by 21.4 per cent to $2.34 billion amid increased inflows from individuals and non-bank institutions. The latest report on NAFEM obtained yesterday showed that inflows saw appreciable increases across all segments, with the exception from the inflows from the Central Bank of Nigeria (CBN), which declined during the period.
+The data, obtained from the FMDQ Securities Exchange, indicated that total inflows rose from $1.92 billion in July 2024 to $2.34 billion in August 2024. The increase was driven broadly by stronger inflows from both domestic and foreign sources. Inflows from domestic sources grew by 15.5 per cent from $1.68 billion in July 2024 to $1.94 billion in August. Also, inflows from foreign sources jumped by 62.1 per cent to $394.50 million as against $243.30 million in previous month.
+*8. CBN’S AFRIGO JOINS FORCES WITH SECUREID ON CARD ADOPTION, FINANCIAL INCLUSION
+The Nation, Page 17*
+The National Domestic Card Scheme of the Central Bank of Nigeria (CBN), known as AfriGo, has joined forces with smart card manufacturing company, SecureID, on card adoption and financial inclusion.
+Managing Director, AfriGOPay Financial Services Limited (AFSL), Ebehijie Momoh, spoke when she led the management team on a tour of SecureID’s plant in Lagos. AfriGo is a subsidiary of the Nigeria Inter-Bank Settlement System Plc (NIBSS) owned by all licensed banks and the CBN.
+Momoh said: “The cards that our clients issue come from companies like SecureID. “There is a huge opportunity to ensure that the AfriGo card is in every Nigerian’s hand.
+*9. NIGERIA, CHINA SEAL $3.3BN BRASS INDUSTRIAL PARK DEAL
+Vanguard, Page 22*
+Nigeria, China have signed a $3.3 billion deal to develop the Brass Industrial Park and Methanol Complex, in Bayelsa State. The Director of Information and Public Relations of the Federal Ministry of Finance, Mr. Mohammed Manga, in a statement last night, disclosed that the deal was signed on the sidelines of Africa-China Conference in Beijing. He said the “transformative project” was expected to significantly boost Nigeria’s industrial output and generate vital employment opportunities.”
+The director described the deal as a reaffirmation of the two nations’ “commitment to deepening economic cooperation, strengthening bilateral ties and fostering sustainable development.” “The inaugural China-Nigeria Economic Cooperation and Trade Conference, held alongside the 2024 Forum on China-Africa Cooperation (FOCAC), has set the stage for unprecedented collaboration and growth between the two countries,” he added. The Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun, was said to have underscored the significance of South-South cooperation, highlighting its pivotal role in Nigeria’s sustainable development goals.
+*10. N50 TRANSFER LEVY MAY GROUND FINTECH, ECONOMISTS WARN
+The Punch, Page 27*
+The Federal Government’s recent move to deduct a N50 Electronic Money Transfer Levy from customers’ transactions has sparked criticism from economists, who warn that the move may discourage digital transactions and harm the economy. The levy, which is set to take effect soon, will apply to every inflow of N10,000 and above received by customers of fintech companies, including OPay and Moniepoint.
+According to Former Chief Economist at Zenith Bank, Marcel Okeke, that the move was ill-timed and could have far-reaching negative consequences for the economy, particularly in the fintech sector, which has been growing rapidly in recent years. Okeke argued that the government’s desire to boost revenue through this measure may have unintended consequences, potentially harming the economy and stifling innovation in the fintech sector.
+*11. EQUITY MARKET LOSES N83BN IN ONE WEEK
+The Punch, Page 30*
+The Nigerian Exchange lost N83bn last week as both the All-Share Index and market capitalisation depreciated by 0.15 per cent due to sell-offs in big stocks. The ASI closed the week at 96,433.53 points, while the market capitalisation settled at N55.39tn. Despite a downward trend, the NGX Oil and Gas Index bucked the market’s performance with a 1.52 per cent gain. During the week, investors traded 2.14 billion shares worth N51.22bn in 55,603 deals, decreasing from the previous week’s 2.82 billion shares valued at N53.048bn traded in 50,488 deals.So This Happened (246) Reviews Sirika’s Arrest Over Alleged N8bn Air Fraud, Food Prices Rise, Others
+The financial services industry led activity, accounting for 1.23 billion shares valued at N19.98bn, representing 57.40 per cent of total equity turnover volume and 39 per cent of value. Following closely was the oil and gas industry, which traded 262.484 million shares worth N18bn in 14,275 deals.
+*12. VAT INCREASE’LL DEEPEN ECONOMIC WOES, ATIKU WARNS FG
+Daily Sun, Page 6*
+Former vice president and 2023 presidential candidate of the peoples Democratic Party (PDP), Atiku Abubakar, has warned that the plan by the Federal Government to increase the Value Added Tax (VAT) from 7.5 per cent to 10 percent would worsen the cost of living in the country. Atiku, in a statement, yesterday, alleged that President Bola Tinubu and his wife have resorted to overburdening impoverished citizens while ignoring their own extravagant excesses.
+According to him, the endless rise in taxes and interest rates under the present administration is weakening businesses across the country, leading to job losses and increasing the sufferings of the people. He said: “President Bola Tinubu, alongside his coterie of advisers, has resolved to raise the VAT rate from 7.5 percent to 10 percent, even as the NNPCL has announced a soaring PMS price increase at the pump. This move unveils a new era of regressive and punitive policies, and its impact is destined to deepen the domestic cost-of-living crisis and exacerbate Nigeria’s already fragile economic growth.
+*13. FG IMPOSES ELECTRONIC LEVY ON OPAY, MONIEPOINT USERS, OTHERS
+Daily Trust, Page 23*
+The paper reported that the Customers of financial technology (fintech) companies including Opay, Moniepoint and Kuda are grumbling over the implementation of the Electronic Money Transfer Levy (EMTL) on their transactions.
+The implementation which takes effect today (Monday) imposes N50 on transfer from N10,000 on fintech account holders as obtained with Deposit Money Banks (DMBs). EMTL, introduced under the Finance Act 2020, places a singular and one-off levy of ₦50 on the recipient of any electronic receipt or transfer of ₦10,000 or above.
+DMB account holders have been paying this transfer levy on transfer receipts above N10,000; forcing some of them to register with any of the fintechs with the hope of bypassing the charges.
+However, it appears there is no escape route as the federal government has widened its dragnet in its bid to rake in more revenue.
+*14. BANKS COLLUDING WITH STATES TO BYPASS FISCAL LAW — FRC
+Daily Trust, Page 23*
+The Fiscal Responsibility Commission (FRC) has decried the rampant collusion between banks and state governments in violating the provisions of the Fiscal Responsibility Act. Speaking at the National Summit of Fiscal Responsibility in Abuja, the Chairman of FRC, Barrister Victor Muruako, noted that banks had been aiding state governments in circumventing the law, particularly with respect to borrowing.
+Muruako cited Section 44.1 of the Fiscal Responsibility Act which mandates that any government or its agencies intending to borrow funds must present a detailed cost-benefit analysis of the proposed borrowing. He said, “We are witnessing a troubling decline in accountability. In one instance, a state government’s secretary simply signed a declaration claiming compliance with the Act, which then allowed the government to proceed with borrowing.
+*15. EQUITY MARKET OPENS WEEK WITH N84BN LOSS
+Daily Trust, Page 23*
+The Nigerian equity market closed the first trading week of September on a negative note with a 0.15% decline, falling from 96,580 points to 96,433 points. Market capitalisation lost N84 billion week-on-week (W-o-W) to close at N55.394 trillion.
+The index dropped by 0.15%, falling from its opening value of 96,580 points to close at 96,433 points, marking the beginning of September on a bearish note. Across the sectoral spectrum, performance was in the mixed bag. The NGX Oil & Gas index recorded a weekly gain of 1.48 per cent, while NGX Banking index lost 0.23 per cent W-o-W.
+*16. UTM FLNG GETS FG’S NOD TO CONSTRUCT 1ST FLOATING LNG PLANT
+Daily Trust, Page 24*
+The federal government has officially granted UTM FLNG Limited “License to Construct (LTC)” Nigeria’s first Floating Liquefied Natural Gas (FLNG) facility, expected to be Africa’s largest crude oil producer, in the global gas market. The issuance of the LTC to UTM FLNG by the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) last Friday came as a major fulfilment of the assurance by President Bola Tinubu in July, 2023, to give all necessary support to the Nigerian company to ensure the actualisation of the landmark gas project.
+Tinubu had during an audience with the management of the company and its foreign partners at the State House, Abuja, pledged to remove all impediments to the timely completion of the facility. Meanwhile, the UTM FLNG plant, with a capacity of 2.8 million tonnes per annum (MTPA), will produce Liquefied Natural Gas (LNG), Liquefied Petroleum Gas (LPG) and condensate from re-injected gas at the OML 104 Yoho Field.
+*17. SEC WARNS AGAINST CAPITAL MARKET INFRACTIONS
+Daily Trust, Page 24, Leadership, Page 23*
+The Papers reported that the Securities and Exchange Commission has said that it will deploy the full weight of the law against individuals and entities that engage in activities that are contrary to laid down regulations in the capital market. The Director General of the SEC, Dr. Emomotimi Agama in an interview, said the Commission is committed to protecting investors including those in the crypto space and therefore enjoined participants in the market to play by the rules.
+“We are certainly going to commence enforcement actions on anyone who wants to operate in this market and does not have the intention of being regulated. This also applies to those in the crypto space. We are sending this signal to all those that want to play by the books that they are welcome to our space. But for those that do not want to play by the books, of course we definitely will not allow them operate within our space,” Agama said. The DG disclosed that the Commission decided to take the recent step of issuing Approval-in-Principle to two crypto exchanges because it observed that Nigerian youths were becoming increasingly interested in the digital space and so it was important to provide regulation, clarity and indeed the protection of investors which is its primary responsibility.
+*18. INVESTORS’ RETURN DEPRECIATE BY N1.12TN IN TWO MONTHS
+This Day, Page 26*
+The Paper reported Nigerian equities market depreciated by N1.12 trillion between July and August 2024, as investors’ profit-taking persisted in some blue-chip companies listed on the Nigerian Exchange Limited (NGX). The downward trend in the two months under review is coming on the backdrop of a hike in the Monetary Policy Rate, leading investors to divest into lucrative high yield Treasury Bills (T-Bills).
+An investigation by paper revealed that the market capitalisation in July 2024 dropped by N1.09 trillion or -1.92 per cent to close at N55.514 trillion from N56.602 trillion it opened for trading, while in August 2024, it dropped further by N36.04 billion or 0.06 per cent to close at N55.478 trillion from N55.514 trillion.
+According to capital market analysts, investors in the local market sustained profit-take based on the sentiment, stressing that Nigeria’s capital market is still one of the best performing Exchanges in Africa and World at large.
+*19. NAIRA DEVALUATION, SUBSIDY REMOVAL CRIPPLE MANUFACTURERS
+Leadership, Page 1-7*
+The recent removal of fuel subsidy and the devaluation of the Naira have severely impacted manufacturers in Nigeria, leading to a significant decline in tax revenues as well as operational challenges. Since the removal of fuel subsidies on May 29, 2023, fuel prices have surged by approximately 193 per cent, causing a ripple effects across various sectors.
+Manufacturers are particularly affected as the rising costs of fuel and raw materials have led to increased production expenses. Reports indicate that tax revenue from manufacturers plummeted by over 70 per cent in the first quarter of 2024, highlighting the financial strain on the industry.
+*Felicia Odanwu
+Principal Information/PRO
+For: Director Information/PR
+9th September, 2024.*
+September 6, 2024
+fmf
+with
+No Comment
+CatchUp
+In a landmark event chaired by the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr Wale Edun that heralds a new era of economic cooperation, Nigeria and China have reaffirmed their commitment to deepening economic cooperation, strengthening bilateral ties and fostering sustainable development.
+The inaugural China-Nigeria Economic Cooperation and Trade Conference, held alongside the 2024 Forum on China-Africa Cooperation (FOCAC), has set the stage for unprecedented collaboration and growth between the two countries
+In his keynote address, the Honourable Minister underscored the significance of South-South cooperation, highlighting its pivotal role in Nigeria’s sustainable development goals. As chair of the event, he also guided discussions that focused on critical areas of collaboration between the two nations.
+HM Edun emphasized President Bola Ahmed Tinubu’s dedication to fostering a business-friendly environment that attracts increased investment, particularly in key sectors such as infrastructure, energy, and industry. One of the conference’s standout outcomes was the signing of a $3.3 billion agreement to develop the Brass Industrial Park and Methanol Complex, a transformative project expected to significantly boost Nigeria’s industrial output and generate vital employment opportunities.
+Infrastructure development—a cornerstone of the China-Nigeria partnership—was a major focus of the discussions. Both nations reiterated their commitment to joint infrastructure projects, including roads, bridges, and energy systems, aimed at accelerating industrialization and driving long-term economic growth in Nigeria.
+Financial and security cooperation also took center stage, with both countries agreeing to enhance intelligence sharing to combat money laundering and financial crimes. This marked a critical step toward ensuring a secure and transparent financial environment, laying the groundwork for continued economic collaboration.
+As chair of the event, the Honourable Minister also highlighted President Tinubu’s bold economic reforms, designed to steer the country toward a sustainable growth path. He stressed the importance of leveraging both domestic resources and international partnerships, such as those with China, to ensure that these collaborations deliver tangible benefits to the Nigerian people.
+Key infrastructure and security initiatives are seen as pivotal to achieving Nigeria’s economic objectives under the Renewed Hope Agenda, while also advancing China’s Belt and Road Initiative.
+As the curtains close on this groundbreaking conference, Nigeria and China emerge as beacons of hope for a brighter economic future, especially as the conference concluded with a strong mutual commitment to ongoing engagement, open dialogue, and reinforced cooperation. With the signing of the $3.3 billion Brass Industrial Park and Methanol Complex agreement, the stage is set for transformative growth, job creation, and sustainable development.
+This historic partnership will undoubtedly propel Nigeria’s economic agenda forward while reinforcing China’s Belt and Road Initiative. As both nations embark on this extraordinary journey together, the world watches with bated breath, eager to witness the remarkable achievements that will unfold from this unbreakable bond.
+Signed
+Mohammed Manga, FCAI
+Director, Information and Public Relations
+September 6, 2024
+August 29, 2024
+fmf
+with
+No Comment
+CatchUp
+The Federal Government has inaugurated the new Board of Directors for the Nigeria Sovereign Investment Authority (NSIA), tasked with the critical mandate of steering the nation’s economic growth and stability.
+The Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun, while inaugurating the Board today in his office in Abuja, charged them to leverage their expertise and wealth of experience to bear in driving the NSIA’s mission of creating a sustainable future for generations to come.
+The newly appointed Board of Directors for the NSIA comprises distinguished professionals from various sectors, carefully selected through deliberations and recommendations made by the Executive Nominations Committee. The final approval was given by the President, His Excellency Bola Ahmed Tinubu, GCFR, following endorsement by the Vice President, His Excellency, Senator Kashim Shettima, GCON, who serves as the Chairman of the National Economic Council (NEC).
+The new Board
+Members include:
+• Mr. Segun Ogunsanya – Chairman
+• Mr. Aminu Umar-Sadiq – Managing Director/Chief Executive Officer
+• Prof. Fabian Ajogwu
+• Mr. Abdullahi Mahmud Gaya
+• Mr. Ahmed Goniri
+• Ms. Ada Osakwe
+• Dr. Suleyman Ndanusa
+• Ms. Ijeoma Taylaur
+• Mr. Kola Owodunni
+In his inaugural remarks, Mr. Segun Ogunsanya, the newly appointed Chairman of the Board, affirmed his commitment to fostering a prosperous future for the next generation in line with the Renewed Hope Agenda of the President Bola Ahmed Tinubu-led Administration.
+Our mandate is clear—we are here to enhance the wealth of our nation and ensure that future generations do not face the specter of poverty he stated.
+Mr. Ogunsanya also highlighted the Board’s ambition to significantly grow the fund under its management.
+Reflecting on the NSIA’s 11-year journey since inception, the Honourable Minister praised the Institution’s outstanding progress in achieving its mandate. He described the NSIA as an essential Institution for our nation’s economic stability and growth.
+As the NSIA new Board of Directors sets out to write the next chapter in the NSIA’s story, they are reminded that the nation’s economic future rests on their shoulders. With their combined expertise and the Minister’s charge, they are poised to make a significant impact on Nigeria’s economic landscape.
+Thus, the nation looks forward to the Board’s innovative strategies and bold initiatives that will propel the NSIA to new heights and create a brighter future for all Nigerians.
+Signed
+Mohammed Manga, FCAI
+Director, Information and Public Relations
+August 29, 2024
+August 28, 2024
+fmf
+with
+No Comment
+CatchUp
+The Federal Government has taken a significant step towards enhancing the effectiveness of its whistleblowing policy by developing a draft bill to provide legal backing and protection for whistleblowers. This move aims to address the challenges hindering the policy’s implementation and encourage more individuals to report corruption and misconduct in the conduct of government businesses.
+Speaking at a one-day sensitization workshop on the implementation of the whistleblowing policy in Nigeria, the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun emphasized the government’s commitment to transparency, accountability, and integrity in governance.
+He noted that the policy has already shown promise, with significant recoveries made since its inception in 2016.
+HM Edun informed that the draft bill being prepared, which is expected to be presented to the National Assembly, seeks to provide a robust legal framework for the protection of whistleblowers and ensure that reports are handled with confidentiality and prompt action.
+He said that the President Bola Ahmed Tinubu-led Administration is committed to ensuring that the policy is pursued with strict compliance with the rule of law to achieve transparency and accountability in governance.
+The whistleblowing policy, according to him, has recovered funds totalling N83,019,178,375.86; $609,083,391.91;
+5,494,743.71 Euros between 2017 and 2023.
+However, the government acknowledges that more needs to be done to encourage Nigerians to own the fight against corruption and report financial misappropriation, Edun said
+Earlier in his welcome remarks, the Permanent Secretary Special Duties, Federal Ministry of Finance Mr Okokon Ekanem Udo stated that the Whistleblowing policy, since its inception in December 2016, has proven to be one of the veritable tools in uncovering corrupt practices within the public and private sectors. It is aimed at empowering citizens to report to the relevant authorities about identified misappropriation of public funds and other fraudulent activities, thereby contributing immensely towards institutionalisation of transparency and accountability in governance.
+However, like other policies of government, Udo said, the implementation of the policy has encountered some challenges. At the initial stage, there was wide-spread enthusiasm on the part of Nigerians about the introduction of the policy. The momentum and popularity that heralded its introduction need to be reinforced and sustained he said.
+He informed that the sensitization workshop is designed not only to deepen our understanding of Whistleblowing policy in Nigeria but also to foster cooperation among the key stakeholders, which include the implementing team, the Civil Society Organisations, as well as members of the media.
+In her closing remarks, the Permanent Secretary Federal Ministry of Finance, Mrs Lydia Shehu Jafiya, said that it is imperative to focus on strengthening the protection of whistleblowers and safeguard their identities. This, she said, will encourage more individuals to come forward and contribute to the fight against corruption and misconduct.
+The Permanent Secretary, who was represented by the Ministry’s Director of Human Resources Mr Olusola Dada
+also observed the need for improving Reporting Mechanism so as to make reporting channels more accessible, user-friendly, and effective. It is essential that these mechanisms not only facilitate the reporting of concerns but also ensure that those concerns are addressed promptly and transparently., she said
+Mrs Jafiya emphasized that the journey towards an effective Whistleblowing regime is a collaborative effort. Each of us has a role to play in nurturing an environment where integrity and accountability thrive. Let us take the knowledge and enthusiasm generated today and translate it into concrete actions that drive positive change, Jafiya stressed
+With the re-invigoration of the Whistleblowing
+policy, the government aims to ensure transparency and accountability in the management of public finances and preserve the country’s assets.
+The draft bill is a significant step towards achieving this goal and demonstrates the government’s commitment to fighting corruption and promoting good governance.
+The one day sensitization workshop is themed: Issues, Challenges and Way Forward
+Signed
+Mohammed Manga FCIA
+Director, Information and Public Relations
+August 28, 2024
+August 26, 2024
+fmf
+with
+No Comment
+CatchUp
+In a significant step towards addressing Nigeria’s economic challenges, the Federal Government has unveiled plans aimed at revitalizing key sectors of the economy
+The Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun disclosed this today in his office in Abuja when he led the first inaugural meeting of the Accelerated Stabilization and Advancement Plan (ASAP) Implementation Committee, marking a significant milestone in Nigeria’s renewed commitment to addressing critical economic challenges and fostering sustainable development across key sectors.
+This landmark initiative HM Edun said, is a key component of President Bola Ahmed Tinubu’s reform agenda, which aims to drive sustainable development across eight priority sectors of the economy, including Agriculture, Energy, and Health
+In his opening remarks, the Minister highlighted the collaborative nature of the project, informing the committee that they would work closely with technical experts from various government agencies to establish clear milestones and ensure the effective execution of the Plan.
+Edun reiterated the government’s dedication to addressing key issues such as agricultural productivity and announced a coordinated dry season farming initiative, with the Federal Ministry of Finance, the Central Bank of Nigeria, the Federal Ministry of Agriculture and Food Security (FMAFS), as well as the African Development Bank (AfDB) collaborating to ensure the timely delivery of fertilizers and other critical inputs to farmers.
+The meeting brought together key government officials, including; the Honourable Minister of Agriculture & Food Security, Senator Abubakar Kyari; the Honourable Minister of Budget and Economic Planning, Senator Abubakar Atiku Bagudu; the Coordinating Minister of Health and Social Welfare, Muhammad Ali Pate; the Honourable Minister of Power, Chief Adebayo Adelabu; the Honourable Minister of State for Petroleum Resources (Gas), Ekperikpe Ekpo; and the Director General of the Budget Office of the Federation, Tanimu Yakubu, among others.
+As the ASAP Implementation Committee moves forward, it will focus on driving progress in each of the identified priority areas, ensuring that the Plan’s objectives are met with precision and accountability.
+With the ASAP Implementation Committee underway, Nigeria is poised to witness a transformative era of economic growth and development. Under the Chairmanship of HM Edun, the committee will work tirelessly to ensure the effective execution of the Plan, addressing critical issues and fostering collaboration among government agencies and stakeholders.
+As the committee drives progress in each priority area, Nigeria can expect a brighter economic future, marked by precision, accountability, and sustainable development.
+Signed
+Mohammed Manga FCIA
+Director, Information and Public Relations
+August 26, 2024
+August 22, 2024
+fmf
+with
+No Comment
+CatchUp
+In a bid to address the pressing issue of out-of-school children in Nigeria, the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun today addressed the House of Representatives Committee on Alternate Education, outlining government’s financial strategies and programs
+aimed at tackling the challenge
+Joined by the Honourable Minister of Budget and Economic Planning, Senator Abubakar Atiku Bagudu, HM Edun, reaffirmed Federal Government’s Commitment to Strengthening Education through a range of initiatives with a view to ensuring that every child is provided with access to quality education.
+In his address, the Minister highlighted key progress in enhancing school security, including the establishment of the Secretariat for Financing Safe Schools in January 2022. This initiative, which originated from a 2021 high-level forum, is focused on implementing a national plan to strengthen school security from 2023 to 2026. The Scheme integrates security measures with community-based efforts to ensure the safety of students.
+HM Edun also announced the upcoming relaunch of the Home-Grown School Feeding Program, a critical initiative designed to increase school attendance by providing meals to students. He explained that feeding children at school would not only improve their health and well-being but also incentivize them to remain in school, thereby reducing the number of out-of-school children.
+Addressing broader economic concerns, the Minister spotlighted the federal government’s strategies under President Bola Ahmed Tinubu’s Administration, especially in the educational sector. He expressed optimism that these initiatives would positively impact the national budget by providing sufficient resources to support and sustain the educational programs.
+With the federal government’s renewed commitment to education, Nigeria is poised to witness a significant reduction in the number of out-of-school children. The Honourable Minister’s presentation highlighted the administration’s dedication to tackling this critical issue through innovative initiatives like the Secretariat for Financing Safe Schools and the Home-Grown School Feeding Program.
+As the government continues to prioritize education, Nigeria’s future generations can expect improved access to quality learning, setting the stage for a brighter, and more prosperous tomorrow.
+Signed
+Mohammed Manga, FCAI
+Director, Information and Public Relations
+August 22, 2024
+August 22, 2024
+fmf
+with
+No Comment
+CatchUp
+In a meeting that spotlighted Nigeria’s progress in rural electrification, the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun has applauded the Rural Electrification Agency (REA) for its impactful initiatives across the country.
+The Agency’s Managing Director, Abba Abubakar Aliyu, while briefing HM Edun at the Federal Ministry of Finance Headquarters, Abuja on the agency’s progress in advancing Nigeria’s electrification projects, presented a comprehensive overview of REA’s successful projects, showcasing the transformative power of electrification in communities across Nigeria.
+The meeting, further provided the opportunity for the Managing Director to present photographic evidence of power plants established at key institutions across the country, including the Universities of Abuja, Maiduguri, Michael Okpara University of Agriculture, Umudike, Federal University Gashua, Yobe, The Federal University of Agriculture, Abeokuta, and the Nigerian Defence Academy Kaduna, among others.
+The Honourable Minister commended the REA for its remarkable efforts and highlighted the importance of raising public awareness about the agency’s work as well as its positive impact on communities
+With the Rural Electrification Agency’s remarkable achievements, Nigeria is poised to witness a significant leap in economic growth and development. HM Edun’s recognition of REA’s efforts underscores the importance of electrification in empowering communities and driving progress.
+As REA continues to illuminate Nigeria’s future, the country can expect improved livelihoods, increased economic opportunities, and a brighter tomorrow
+Signed
+Mohammed Manga, FCAI
+Director, Information and Public Relations
+August 22, 2024
+August 21, 2024
+fmf
+with
+No Comment
+CatchUp
+In a landmark move to boost Nigeria’s trade and economic growth, the Honourable Minister of Finance and Coordinating Minister of the Economy, Mr. Wale Edun has today launched the National Single Window (NSW) Project Kickoff Workshop in Abuja.
+This transformative initiative aims to streamline trade processes, reduce bottlenecks, and increase transparency, positioning Nigeria for unprecedented economic growth.
+In his opening address at the event, the Honourable Minister underscored the transformative potential of the NSW in enhancing Nigeria’s trade facilitation and driving economic growth.
+He informed that the initiative is a key pillar in the federal government’s strategy to improve trade and customs processes, reduce bottlenecks, and increase transparency within the nation’s trade environment.
+To ensure the effective implementation and financial management of the project, HM Edun informed further that the Federal Inland Revenue Service (FIRS), led by its Executive Chairman, Dr. Zacch Adedeji, and the Nigerian Sovereign Investment Authority (NSIA) have been designated as the project’s implementing agencies.
+The project Secretariat he added, will be housed within the FIRS, providing a central hub for coordination and oversight.
+Other key stakeholders from various government agencies, including the Nigerian Ports Authority (NPA), the Nigerian Customs Service (NCS), the Nigerian Civil Aviation Authority (NCAA), and the National Agency for Food and Drug Administration and Control (NAFDAC), are actively participating in the workshop.
+Their collaboration is crucial to ensuring the successful implementation of the NSW, which is a critical component of President Bola Ahmed Tinubu’s broader economic reforms.
+The three-day workshop will conclude on Thursday with a detailed action plan, outlining the next steps for the project and the timelines for its full implementation.
+With the launch of the National Single Window, Nigeria is poised to witness a significant leap in trade facilitation and economic growth. The collaboration among key stakeholders and the designation of implementing agencies underscore the federal government’s commitment to this critical component of President Tinubu’s economic reforms.
+As the project moves forward, Nigeria can expect improved trade processes, increased transparency, and a more business-friendly environment, paving the way for a brighter economic future for betterment of the Economy
+Signed
+Mohammed Manga
+Director, Information and Public Relations
+August 21, 2024

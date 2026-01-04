@@ -1,0 +1,105 @@
+seed_url: http://government.ru/en/news/1048/
+final_url: http://government.ru/en/news/57387/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Government meeting
+24 December 2025
+15:35
+Government House, Moscow
+The agenda includes expanding the list of essential medications, support for civilian shipbuilding, additional measures to combat cyber fraud, and increasing salaries for public sector workers.
+Mikhail Mishustin’s opening remarks:
+Government meeting
+24 December 2025
+Government meeting
+24 December 2025
+Предыдущая новость
+Следующая новость
+Government meeting
+Good afternoon, colleagues.
+Before we get to our agenda today, I would like to inform you about an important decision.
+It concerns the affordability of medicines on the List
+of Vital and Essential Medicines.
+We regularly update this list. At the beginning of this year, we added 18 medicines to it. Today, we will expand it by another
+eight medicines for anaemia, neutropenia, recurrent pericarditis, tuberculosis,
+and various malignant tumours.
+Altogether, the list includes over 800 medicines, and most of them are domestically produced medicines, which is extremely important.
+In the next five years, the share of domestically
+produced vital and essential medicines must be increased to 90 percent. This is
+the goal of the relevant national project and the Strategy for Healthcare
+Development until 2030, which has recently been approved by a presidential
+executive order.
+We must continue to do everything in our power so that
+our citizens, especially those with life-threatening diagnoses and diseases, have
+access to vital medicines.
+I will now speak about support for several industries,
+including for shipbuilding and shipyards.
+The President always highlights this issue. As per his
+instructions, we are implementing a programme of low-interest leasing of civilian vessels, which provides for building bulk carriers, container ships
+and large cruise and pleasure boats and catamarans, including electric,
+hydrofoil and other innovative models.
+We will allocate 5 billion roubles this year for extending this programme. Overall, 10 billion roubles have been allocated for building over 70 passenger vessels in the past two years, which will be put
+into operation on low-interest conditions under lease programmes.
+This will ensure guaranteed contracts which our
+shipyards will use to modernise their production facilities and apply advanced
+competencies. We will be able to modernise Russia’s passenger and cargo fleets,
+which will make river and sea travel, including tourism, more comfortable. This
+will also strengthen the regions’ connectivity and help create the foundation
+for their economic growth.
+We have one more issue on the agenda of the Government
+meeting today – on assistance to civilian shipbuilding. Acting at the initiative of the head of our state, we will discuss the allocation of 1.36
+billion roubles for this purpose.
+These funds will be used to compensate part of the cost of building four fishing vessels at shipyards in the Far Eastern Federal
+District. These vessels have been built and will be used to catch crabs under
+the investment quota mechanism.
+It is not the first year that we will provide this
+support. It helps simultaneously fulfil several important tasks, primarily,
+modernise our fishing fleet, increase processing and enhance production
+efficiency.
+Of course, this will
+also allow us to develop national shipbuilding, which is necessary for ensuring
+our technological sovereignty and creating supply-side economics.
+And now, let us review new measures aimed at strengthening the protection of our people and businesses from digital crimes.
+The President noted during his Results of the Year
+programme that much remained to be done here.
+Last week, we held a strategic session where we
+discussed, in great detail, an additional package of initiatives that will help
+prevent cyber fraud. Today, we will discuss a federal bill listing multiple
+systemic measures and decisions, and we will submit it to the State Duma for consideration. The bill regulates the procedure for urgent communication
+between mobile phone operators, banks and state agencies using the Anti-Fraud
+platform. It expands mechanisms for responding to suspicious telephone calls.
+Authorisation procedures are also improving on the Government Services website. Extrajudicial blocking of so-called phishing
+websites aiming to deceive users and to steal their personal data will be introduced.
+This also concerns online resources spreading malware.
+Numerous other preventive measures are
+stipulated.
+Colleagues, it is necessary to continue creating
+effective methods and tools, including organisational, regulatory and technical, for combating fraud.
+It is very
+important that decent people be shielded from scammers.
+Support for public sector employees is another
+important issue. During his Results of the Year programme, the President noted
+the need to completely fulfil all obligations before the people.
+The Government conducts this systemic work; we
+allocated 14 billion roubles to the regions throughout 2025 for raising the salaries of public sector employees.
+Today, we will discuss the allocation of over 9.5
+billion roubles for financing socially significant expenditures, primarily
+paying certain categories of employees of federal state agencies. They include
+school and vocational teachers, university professors, doctors, cultural
+specialists and academics. All of them educate our children and help them
+acquire knowledge and master modern professions and skills. They preserve
+people’s health, the most precious asset, they conduct research, make
+discoveries, generate innovative solutions and products for developing the country’s industrial enterprises and strengthening its technological
+sovereignty.
+We will continue to adopt decisions to improve
+people’s well-being and support their incomes. This is the direct duty of the state.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/57387/
+Highlight selection

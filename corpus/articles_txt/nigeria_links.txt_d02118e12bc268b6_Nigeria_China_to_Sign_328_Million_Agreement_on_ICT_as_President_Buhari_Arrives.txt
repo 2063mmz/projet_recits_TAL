@@ -1,0 +1,22 @@
+seed_url: https://statehouse.gov.ng/nigeria-china-to-sign-328-million-agreement-on-ict-as-president-buhari-arrives-beijing/
+final_url: https://statehouse.gov.ng/nigeria-china-to-sign-328-million-agreement-on-ict-as-president-buhari-arrives-beijing/
+title: Nigeria, China to Sign $328 Million Agreement on ICT as President Buhari Arrives Beijing
+date: September 1, 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President Muhammadu Buhari arrived Beijing Saturday to attend the Beijing Summit of the Forum on China-Africa Cooperation (FOCAC) holding September 3 – 4, 2018.
+During the 6-day official visit of the Nigerian President, he is expected to join his Chinese counterpart, Xi Jinping to witness the signing of an agreement on the National Information and Communication Technology Infrastructure Backbone Phase 11 (NICTIB 11) between Galaxy Backbone Limited and Huawei Technologies Limited (HUAWEI) at the cost of US $328 million facility provided by the Chinese EXIM Bank.
+The bank facility is for the development of NICTIB 11 project which is consistent with the current administration’s commitment to incorporating the development of ICT into national strategic planning under the National Economic Recovery and Growth Plan (ERGP).
+President Buhari and his Chinese host will also witness the signing of the MOU on One Belt One Road Initiative (OBOR). It may be recalled that in 2013, the Chinese leader proposed the initiative of building the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, with a view to integrating the development strategies of partnering countries.
+During the High-Level Dialogue between Chinese and African Leaders and Business representatives on the margins of FOCAC, the Nigerian delegation is also expected to sign no fewer than 25 MOUs, including those proposed by the Nigerian Investment Promotion Commission (NIPC), Nigerian National Petroleum Corporation (NNPC), and Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA).
+Earlier, the President on arrival at Capital International Airport, Beijing at about 9:04 am (Nigerian time), was received by top Chinese government officials including the Chinese Ambassador to Nigeria, Dr Zhou Pingjian.
+Nigeria’s Ambassador to China, Baba Ahmed Jidda and his wife Zahra; the Deputy Chief of Mission, Ambassador Bakori Aliyu Usman; Consular-General of Nigeria, Guangzhou, Shairudeen Oloko; Consular-General of Nigeria, Shanghai, Anderson Madubuike; and Defence Attaché, Brig-Gen. Temitope Ademola were also among those who received the President.
+President Buhari will tomorrow meet Nigerians living in China before the kick-off of FOCAC on Monday when he will join President Jinping and other African leaders for roundtable sessions which will essentially discuss the report of FOCAC since the 2015 Johannesburg Summit, including the implementation of the ‘‘ten cooperation plans’’ adopted at the last meeting.
+The Summit is also expected to adopt the Beijing Declaration and the Action Plan for the development of China-Africa cooperation and fashion out new opportunities to grow Nigeria-China comprehensive strategic partnership from 2019 to 2021.
+Garba Shehu
+Senior Special Assistant to the President
+(Media & Publicity)
+September 1, 2018

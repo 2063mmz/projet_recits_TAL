@@ -1,0 +1,202 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?subject=%22Marine+resources+and+state%22&search=Search&page=251
+final_url: https://perpustakaan.kemlu.go.id/index.php?subject=%22Marine+resources+and+state%22&search=Search&page=251
+title: Perpustakaan Diplomasi | Kementerian Luar Negeri
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ditapis dengan
+Ditemukan
+9439
+dari pencarian Anda melalui kata kunci:
+subject="Marine resources and ...
+Sort by
+Paling relevan
+Baru Ditambahkan
+Perubahan Terakhir
+Sering Dipinjam
+Tahun Terbit [terbaru]
+Tahun Terbit [terlama]
+Urutkan dari Atas
+Urutkan dari Bawah
+Hal. Awal
+Sebelumnya
+251
+252
+253
+254
+255
+Berikutnya
+Hal. Akhir
+Indonesia matters: Asia's emerging democratic power
+Amitav Acharya
+Examines Indonesia’s growing role as an influential democratic power in Asia and the world. It analyzes post-1998 political developments, democratic transformation, and the country’s contributions to international relations, particularly in Southeast Asia. The author discusses how national identity, foreign policy, and domestic dynamics shape Indonesia’s strategic position as the world’…
+Edisi
+ISBN/ISSN
+978-981-46-1985-1
+Deskripsi Fisik
+xii, 136 pages : illustrations ; 21 cm
+Judul Seri
+No. Panggil
+327.598 ACH i
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Limabelas tahun Digul: Kamp konsentrasi di Nieuw Guinea tempat persemaian kem…
+I. F. M Chalid Salim
+Hazil Tanzil
+Buku Limabelas Tahun Digul adalah kisah penting mengenai pengalaman para tahanan politik Indonesia yang dibuang oleh pemerintah kolonial Belanda ke kamp konsentrasi Boven Digul di Nieuw Guinea. Ditulis oleh I. F. M. Chalid Salim dan diterjemahkan oleh Drs. Hazil Tanzil serta J. Taufik Salim, buku ini menggambarkan kehidupan keras para pejuang kemerdekaan yang ditahan tanpa pengadilan. Melalui k…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+536 halaman : ilustrasi ; 21 cm
+Judul Seri
+No. Panggil
+959.803 SAL l
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Rekaman sejarah 1981: Data, fakta, dokumen
+Soebagijo I. N
+Buku Kenangan Harapan 1981: Data, Fakta, Dokumen merupakan kumpulan dokumentasi mengenai berbagai peristiwa penting di Indonesia sepanjang tahun 1981. Isi buku memuat foto-foto, laporan singkat, kronik, serta data faktual yang dihimpun dari berbagai sumber seperti Kantor Berita Nasional Antara dan Majalah Tempo. Buku ini disusun sebagai arsip visual dan tekstual untuk memberikan gambaran umum m…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+vi, 217 halaman : ilustrasi ; 21 cm
+Judul Seri
+No. Panggil
+959.8 SOE r
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Indonesia menatap masa depan
+Roeslan Abdulgani
+Kumpulan pemikiran Dr. H. Roeslan Abdulgani mengenai arah perjalanan bangsa Indonesia di masa mendatang. Penulis membahas persoalan politik, sejarah, pembangunan nasional, serta berbagai tantangan yang dihadapi Indonesia dalam konteks global maupun domestik. Dengan pengalaman panjang sebagai diplomat dan tokoh nasional, Abdulgani menyajikan analisis kritis dan reflektif yang relevan bagi wacana…
+Edisi
+ISBN/ISSN
+979-8054-00-8
+Deskripsi Fisik
+xvii, 434 halaman ; 21 cm
+Judul Seri
+No. Panggil
+959.8 ABD i
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Indonesia menatap masa depan
+Roeslan Abdulgani
+Kumpulan karangan berjudul "Indonesia Merangkai Masa Depan" menggambarkan berbagai perspektif dan ide tentang arah yang dapat diambil oleh Indonesia dalam menghadapi tantangan dan peluang di masa depan. Karangan-karangan ini mencakup berbagai aspek kehidupan nasional, termasuk politik, ekonomi, sosial, budaya, teknologi, dan lingkungan. Dalam keseluruhan kumpulan karangan ini, tergambar optimis…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+xvii, 416 halaman.; 22 cm.
+Judul Seri
+No. Panggil
+959.8 ABD i
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+A History of modern Indonesia
+M.C.Ricklefs
+Contents
+List of Maps
+Preface
+A Note on Ortbograpby
+Abbreviations
+The Emergence of the Modern Era
+1 The Coming of Islam
+2 General Aspects of Pre-Colonial States and Major Empires, с. 1300-1500
+3 The Arrival of the Europeans in Indonesia, c. 1509-1620
+4 The Rise of New States, c. 1500-1650
+5 Literary, Religious and Cultural Legacies
+Struggles for Hegemony, c. 1630-1800
+6 Eastern I…
+Edisi
+cet.1
+ISBN/ISSN
+0-333-24380-3
+Deskripsi Fisik
+335 pages; 24 cm
+Judul Seri
+No. Panggil
+959.8 RIC a
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Badan-badan perjuangan
+Pramono
+M. Hadiyanto
+Ariwiadi
+Buku Badan-Badan Perjuangan disusun oleh tim Pusat Sejarah ABRI (Pusjarah ABRI) sebagai dokumentasi resmi mengenai berbagai organisasi perjuangan yang muncul pada masa revolusi kemerdekaan Indonesia. Buku ini memaparkan latar belakang pendirian, struktur, aktivitas, dan peran badan-badan tersebut dalam mempertahankan kemerdekaan pada periode 1945–1949. Melalui penelusuran arsip, kesaksian pel…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+126 halaman : ilustrasi ; 21 cm
+Judul Seri
+No. Panggil
+959.803 PRA b
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Api revolusi di Surabaja
+Roeslan Abdulgani
+Berisi uraian historis mengenai peristiwa-peristiwa penting di Surabaya pada masa awal kemerdekaan, khususnya menjelang dan sesudah meletusnya Pertempuran 10 November 1945. Penulis—yang merupakan salah satu pelaku sejarah—menyajikan kesaksian dan analisis mengenai dinamika politik, perlawanan rakyat, serta semangat revolusioner yang membentuk jalannya perjuangan di Surabaya. Diterbitkan ole…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+88 halaman : ilustrasi ; 21 cm
+Judul Seri
+No. Panggil
+959.805 ABD a
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Piagam Jakarta 22 Juni 1945: Dan sejarah konsensus nasional antara nasionalis…
+H. Endang Saifuddin Anshari
+Membahas secara mendalam proses lahirnya Piagam Jakarta dan dinamika perdebatan antara kelompok nasionalis Islami dan nasionalis sekular dalam merumuskan dasar negara Indonesia. Melalui kajian historis dan politik, buku ini menelusuri perkembangan konsensus nasional sejak 1945 hingga 1959 serta menjelaskan berbagai kompromi dan pertimbangan ideologis yang melandasi pembentukan Pancasila. Diterb…
+Edisi
+ISBN/ISSN
+Deskripsi Fisik
+xxvi, 230 halaman : ilustrasi ; 20,5 cm
+Judul Seri
+No. Panggil
+320.9598 ANS p
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Sejarah nasional Indonesia I
+Marwati Djoened Poesponegoro
+Nugroho Notosusanto
+Sejarah Nasional Indonesia I membahas perkembangan awal kepulauan Nusantara, dimulai dari masa prasejarah hingga terbentuknya komunitas dan kebudayaan awal Indonesia. Buku ini menguraikan proses migrasi manusia, perkembangan teknologi dan kebudayaan, sistem sosial masyarakat awal, serta pengaruh lingkungan terhadap kehidupan manusia purba di wilayah Indonesia. Disusun oleh Marwati Djoened Poesp…
+Edisi
+ISBN/ISSN
+979–407–407–1
+Deskripsi Fisik
+xxix, 495 halaman : ilustrasi ; 23 cm
+Judul Seri
+No. Panggil
+959.8 POE s
+Ketersediaan
+Tambahkan ke dalam keranjang
+Unduh MARC
+Sitasi
+Hal. Awal
+Sebelumnya
+251
+252
+253
+254
+255
+Berikutnya
+Hal. Akhir

@@ -1,0 +1,386 @@
+seed_url: http://government.ru/en/news/19011/
+final_url: http://government.ru/en/news/19011/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev’s interview with Slovenian radio and television company RTV Slovenija
+24 July 2015
+09:00
+Ahead of his visit to Slovenia, Dmitry Medvedev was interviewed by Vlasta Jeseničnik, Moscow correspondent of Slovenian radio and television company RTV Slovenija.
+Transcript:
+Dmitry Medvedev’s interview with Slovenian radio and television company RTV Slovenija
+Vlasta Jeseničnik:
+Good evening Mr
+Prime Minister.
+Dmitry Medvedev:
+Good evening.
+Vlasta Jeseničnik:
+You visited
+Slovenia in 2009, when you attended a football qualification match between
+Slovenia and Russia, so we could say you know Slovenia a little. How would you
+describe Russian-Slovenian relations?
+Dmitry Medvedev:
+You began with a
+sad event, which happened in your home country, as far as I
+know. It’s true that I visited Slovenia in 2009, where our national team met
+your team and, I’m sorry to say, not only lost but also failed to qualify for
+the next stage of the championships. But I’ve been to Slovenia on nicer
+occasions, for holidays – this was long ago – and also as part of a delegation.
+As for our relations, I believe they’re
+very good and meet the interests of our nations. These relations have a long
+history, more than a century-long history which helps us deal with various
+problems. Therefore, although Russia-EU relations are not at their best now,
+Russia’s relations with Slovenia are quite good, which is why I decided to make
+an official visit to your country.
+I hope we’ll be able to discuss all aspects of
+Russian-Slovenian relations, from the economy to everything else, including our
+shared history of the 19th and 20th centuries, during my talks with the
+president, the prime minister and the parliament speaker of Slovenia.
+Vlasta Jeseničnik:
+You mentioned Russian-Slovenian
+relations, including economic ties. Bilateral trade
+exceeded $2 billion in 2013. This is a positive figure and trend that continued
+last year. But this year our trade has slumped. How will our bilateral economic
+relations develop in the future? In which industries is the development of
+investment cooperation possible?
+Dmitry Medvedev:
+There are two reasons behind the
+decline of Russian-Slovenian and Russian-EU trade. One
+of the reasons is the current economic situation, because trade comprises
+export and import commodities. Raw materials, or more precisely oil and gas,
+are one of the most important Russian exports. The prices of energy resources
+have dropped, which is not good for the supplier, but is good for the consumer,
+This needs to be considered. But this is the nature of trade: what goes down
+yesterday can go up tomorrow. Regrettably, there is also a second reason: the
+sanctions [against Russia] of course, and our restrictions in response. I don’t
+see this decline as normal, because it’s rooted in politics.
+I won’t talk about the history of this, which
+everybody seems to remember. I’ll only say that this is bad for Russia and
+Slovenia. In the first five months of this year, our trade plunged by nearly 40
+percent. As you said, in its peak year, 2013, it reached $2 billion. It is a
+good figure and good money. We travelled a long road towards that goal, but
+unfortunately, our trade has declined due to political decisions. But we didn’t
+start this, and I’m sure that it won’t be us that’ll end this. Anyway, the political restrictions will pass,
+while trade and good relations between countries and nations, as well as mutual
+sympathy between individuals, will live on and take the upper hand.
+As for investment,
+overall we’re optimistic about the future despite the hard times we’re
+currently going through. Total cumulative investment exceeds 500 million Euros,
+with Russian investment in Slovenia a little lower, but close to Slovenian
+investment in Russia.
+In what areas
+could cooperation be further promoted? It’s obvious that Slovenia has a number
+of areas of interest to Russia which we regard as priorities in terms of
+investment cooperation. These include the manufacturing and energy sectors,
+including electric power, the hotel business and tourism. Slovenian investment
+is also focused on the consumer market. A number of Slovenian companies have
+opened offices in Russia and set up plants that make popular products,
+including home appliances and pharmaceuticals. I think we need to build on
+existing achievements, overcome the temporary issues and expand cooperation.
+Vlasta Jeseničnik
+: You
+said the sanctions were the main reason behind the decline in Russia-Slovenia
+trade. The European Union recently extended the sanctions for six months, and
+Russia followed suit with a one-year extension. Why did Russia renew its
+sanctions for a year? In your opinion, how long will this standoff between the
+West and Russia last?
+Dmitry Medvedev:
+I don’t know how long this standoff will last,
+because, as I’ve already mentioned, we’re not the ones who started it. We’ve
+said many times that sanctions are futile, because this path leads nowhere and
+doesn’t change anything except a deterioration in relations and the need to
+conduct lengthy laborious talks afterwards.
+Let me give you another example which has nothing to do with neither
+Russia, nor Europe. This is just a telling example. Or maybe let’s even make it
+two examples. In the course of the 20
+century, sanctions were
+introduced against the USSR ten times. There may be different perspectives on
+the Soviet Union, since it was quite controversial. Anyway, there wasn’t a
+single time when the Soviet Union gave in on anything. Talks between Iran and
+the six world powers plus the EU have been completed recently, and I take this
+opportunity to congratulate everyone on their success. What does this mean? Why
+did we have to lose so much time? This goes to say that sanctions lead nowhere.
+When I was preparing for this interview, I was surprised to learn that a
+Slovenian leader had said that the sanctions were effective and were producing
+the expected results, since trade with Russia dropped by 40 percent. There
+might be different perspectives on Russia and our relations, but when trade is
+down by 40 percent, this also means bad news for Slovenian producers and
+businesses. What is there to celebrate? I think that this logic is absurd. It
+is true that we all have commitments of various kinds. We understand that
+Slovenia is part of the EU, a NATO member, and that you have certain
+commitments. But I don’t think it’s appropriate to celebrate when our economies
+are decelerating and trade is on the decline.
+When will it end? Let’s wait and see. I’m an optimist by nature, and I
+believe that this will come to an end sooner or later.
+You mentioned our retaliatory measures. Why were they introduced for a year?
+This has nothing to do with inflicting pain on Europeans. The reasons behind
+this are strictly pragmatic. As a matter of fact, our retaliatory measures are
+related to food products. As you probably know, we are currently proactive in
+promoting import substitution in the food industry and developing domestic food
+production. Russia is a huge country; it has a huge agricultural sector, so we
+can surely provide for our needs in terms of food supply. Agriculture operates
+in one-year cycles, which enables producers to make plans for a longer term.
+This is the only reason behind this decision… It is not our intention to show
+how hard boiled we are by renewing retaliatory measures for a longer term. This
+is not the case. However, we are committed to protecting national interests and
+domestic producers.
+Vlasta Jeseničnik
+: For now,
+relations between the West and Russia are difficult. Is it possible, under the
+circumstances, to return to the idea of a single economic space from Lisbon to
+Vladivostok, which Russia has promoted?
+Dmitry Medvedev
+: Of
+course it’s possible. Even though the current situation isn’t simple, I’ll just
+talk about Russian-European cooperation: the EU is, in spite of everything, our
+biggest partner. The European Union, not the East Asian countries, and not the
+Pacific countries! To be sure, trade has declined, but it’s still worth several
+hundred billion euros – I don’t know this year’s balance yet – and it remains
+at a high level. This means we need each other. Europe needs the Russian
+market, Russia needs cooperation with Europe, and this is why the common
+economic space idea is here to stay. Economically, it’s a completely reasonable
+approach. More than that, a new idea has been advanced – President Putin
+mentioned it recently, by the way – the idea to establish relations between the
+major integration unions in the Euro-Asian space. I’m referring to the European
+Union, the Eurasian Economic Union, the Shanghai Cooperation Organisation, and
+the Silk Road economic belt (a Chinese project). To me, bringing these projects
+together benefits everyone.
+Vlasta Jeseničnik
+: It’s
+interesting that you just mentioned China’s Silk Road and the Eurasian Economic
+Union. This Chinese Silk Road concept is rather new, but generally the future
+of the Eurasian Economic Union is what has been discussed a lot. Do you think
+these two concepts and two projects are compatible, or will they compete?
+Dmitry Medvedev’s interview with Slovenian radio and television company RTV Slovenija
+Dmitry Medvedev
+: You
+just said the right thing: they are compatible and they will compete. This is
+very good. They’re compatible because the world is big and Russia is a huge
+country. And naturally we want to continue cooperating with the EU, as I said.
+We’re also promoting cooperation with the Asia Pacific Region. The
+amount of cooperation there is considerable too, and we really have new ideas.
+But I think we have an opportunity to come to terms both on bilateral and
+trilateral  projects. We’ve worked with
+European companies that supply products and have production organisations in
+Russia. We also supply products and have established some production in the EU.
+But we have the Russian Far East. It’s huge. There is also Siberia that has an
+immense amount of wealth. We can supply a lot of energy from there and have
+signed an agreement to this effect with the People’s Republic of China. In
+general, the road from China to Europe cannot bypass Russia. I think that these
+advantages should be used by both the European Union and the PRC, and
+incidentally, by our other partners there (like India, Japan, Korea, and many
+other countries), and finally, by Russia itself, which has vast transit
+potential, among other things.
+Vlasta Jeseničnik
+: As we
+talk, we are shifting slowly towards the East. In principle, the Western
+sanctions are one of the reasons why Russia has turned towards the East,
+particularly China. But it is also trying to strengthen its ties with the other
+BRICS countries. As of now, Russia’s is a very slowly growing BRICS economy,
+while China is the strongest BRICS economy.
+As a well-known saying goes, “he who pays the piper, calls the tune.”
+Aren’t you worried that Russia will become dependent on China?
+Dmitry Medvedev
+: There
+is no such threat, of course. We maintain equitable and friendly relations with
+China. Moreover, let me be frank, our relations are now at the highest point in
+the entire centuries-old history of Russian-Chinese cooperation. This level of
+relations was achieved neither before the [October 1917] revolution, nor in the
+Soviet period. This is the current level of our relations. We need each other.
+We need a strong and reliable partner like China that has a huge market and
+immense financial capabilities. China needs the Russian Federation’s market. In
+addition, we have quite similar positions on many international issues.
+We’ve created major cooperation formats,
+such as the Shanghai Cooperation Organisation, and BRICS that you mentioned.
+People often ask me: have you left Europe for Asia and the Pacific region? No,
+we’ve always been there. The thing is that now is the time to take this
+cooperation to the next level. There are two reasons for this. First, it has
+never been fully developed, including our cooperation with China, even though
+our current trade with it is just shy of $100 billion, which is nevertheless
+much lower than with the European Union. Second, let’s face it, access to some
+European markets if off-limits to us. Naturally, we opted for an alternative. This
+is understandable.
+With regard to the growth of our economy,
+indeed, we are not at our best now. The Chinese economy is growing much faster,
+although there still is the issue of the base effect. This is my first point.
+My second point is
+that our economy has, until recently, at least until the sanctions, been
+growing at about the same rate as the EU economy, that is, not too fast. This
+year, the situation is more complicated, and most likely there will be a certain
+slump. However, these factors can be dealt with. I think that the economy will
+return to the path of growth in late 2015 - early 2016. It won’t be anything
+spectacular, but it will still go up, which will allow us to address some economic
+issues.
+Vlasta Jeseničnik
+What
+kind of a partner is China? Are they a demanding partner?
+Dmitry Medvedev:
+China is our
+neighbour. As I mentioned earlier, we have been cooperating with China and
+living side by side with them for the many centuries now. We work together on
+many projects. China goes its own way. At this particular point, we have
+similar positions on international issues. We are equal partners and we do not
+interfere in each other’s domestic affairs. China is a comfortable partner to
+work with. By the way, we had multiple government contacts this year. The
+President of the People's Republic of China joined us in Moscow for our
+celebration of Victory Day (by the way, I’d like to thank the Slovenian
+delegation for coming too, despite the political complexities that were
+involved in this process). This year, the Russian President will take part in
+the celebrations in China. I have a meeting with my Chinese colleague, Premier
+Li Keqiang, scheduled for late 2015. We have full and intensive cooperation with
+China.
+Vlasta Jeseničnik
+Let's move on to
+Ukraine, which, with its 18 month-old crisis, is one of Europe’s most burning
+issues. What are your expectations? Do you see any real chances of resolving
+this situation any time soon?
+Dmitry Medvedev:
+Yes, I do. First,
+the Ukrainian crisis was engineered. It’s not that it originated in someone’s
+head, or is due to some force majeure circumstances. No, it was actually
+staged, and the former and current leaders of Ukraine are responsible for it. The
+former failed to restore law and order, while the latter allowed a civil war to
+break out. The Ukrainian people must hold them accountable for that.
+Second, the
+Ukrainian crisis can be resolved only in Ukraine by the Ukrainians. Neither the
+Russian Federation, nor the European Union, nor the United States, but only by
+the Ukrainians must do it. They need to sit down and agree on things. The
+authorities should show flexibility within the framework of the Minsk Agreements
+and take the decisions that they must take, including the ones relating to the
+autonomous republics in southeastern Ukraine. Of course, the self-defence units
+and political forces in southeastern Ukraine should show a willingness to
+compromise and reach an agreement with the Ukrainian authorities. Only then
+will peace come to the Ukrainian land. Perhaps, this is the most important
+thing to do, because if it doesn’t happen, we will witness a very sad process.
+It is already sad, but it could take on very dramatic proportions.
+History
+is a tough and a fairly quick thing. Let me talk about events that are closer
+to you. Let’s ask young Russians who remembers a country such as Yugoslavia. I
+think most young people will struggle to remember that Yugoslavia was ever on
+the map of Europe. At the same time, everyone knows, travels, loves, and has
+friends in the countries that used to be part of the former Yugoslavia. It was
+a difficult, painful and, unfortunately, not a peaceful process. I’m referring
+to Yugoslavia, because when we are told that we must respect international
+obligations, we fully agree with that. Clearly, it is imperative to adhere to
+international obligations and generally accepted international rules, but this
+approach should be applied to all countries and all situations. I bring up
+Yugoslavia only because I hope that someday we won’t have to remember that
+there used to be a state called Ukraine, as with Yugoslavia. The existence of
+Ukraine depends on the wisdom, patience, tact, and a willingness to achieve
+compromise and negotiation between all the decision-makers in Ukraine. I’m
+talking about the authorities in Kiev and the political forces in southeastern
+Ukraine.
+Vlasta Jeseničnik
+Can Russia help with
+this? Or Washington?
+Dmitry
+Medvedev:
+course it can, and we are doing our best to help them get there. Anyone who
+wants them to agree can help. So does Russia, although we do not consider
+ourselves responsible for this conflict. Indeed, Ukraine is close to us, and
+the people who live there are very close to us. They are, in fact, our relatives.
+The European Union can help as well, by the way, and it is helping. I believe
+that several countries currently play an important role. The United States can
+also help promote this process, because the US is a major powerful state that
+plays a key role in NATO, has a controlling stake in the global economy and so
+on.
+Again,
+let’s face it, Ukraine’s leaders are actively consulting with Washington. In
+this regard, we believe that our contact with the US is useful. But we
+shouldn’t impose anything on Ukraine. The problem of Ukraine is that, at some
+point, some states decided that they could run things there and show how events
+can unfold. We all know
+how it ended.
+Vlasta Jeseničnik
+Let's go back to
+Russia-Slovenia relations.
+Dmitry Medvedev:
+Yes, it's a more
+pleasant issue to discuss.
+Vlasta Jeseničnik:
+As you know, Slovenia had planned to
+join the South Stream project. But Russia cancelled the project
+earlier this year and has taken up Turkish Stream. As far as I know, Moscow and
+Ankara have not yet signed an intergovernmental agreement to this effect. At
+the same time, Europe has been trying to ease its energy dependence on Russia.
+What can you say about Turkish Stream’s fate?
+Dmitry Medvedev:
+Let’s start with
+South Stream. It has fallen victim to Brussels bureaucracy, and that’s
+it. Yes, that’s how it happened, I’m sorry to say. We were ready to implement
+it, we made the necessary plans, invested substantial funds and were ready to
+start building the underwater section, but officials in Brussels said they couldn’t
+coordinate the matter, were proceeding too slowly – dragging it out, as we say.
+Bulgaria also failed to make a decision, and so the project was put to rest.
+This is the first thing.
+Second, about Turkish Stream: yes, it is an
+alternative to South Stream, and we’re optimistic about this project. Some of
+the documents have been signed, but not an intergovernmental agreement. The
+main reason is that there is no government in Turkey now. Our partners and
+colleagues in Turkey need to form a new government, which is a far from simple
+undertaking, as practice shows. We continue to negotiate with them. I hope that
+when they resolve their political problems and complete the political process,
+we’ll coordinate all the outstanding issues with them. By the way, Slovenia
+could play a major role in this project, because we are willing to supply gas
+to Turkey, where a series of large gas storage facilities could be built on the
+border with Greece and from there gas could be distributed throughout Europe.
+Several countries have shown interest in this project, including Hungary and
+Serbia. So I would recommend your leaders take a close look at this project.
+And lastly, if there is a gap, something will fill it.
+Turkish Stream is taking South Stream’s place. It’s not proceeding as fast as
+we’d like, but it’s not stalled either. And then we thought of building a
+second Nord Stream line, which delivers Russian gas to Germany across the
+Baltic Sea. You probably heard that we have signed a memorandum between our
+companies to increase the gas volume via Nord Stream. So Europe’s energy
+security will be guaranteed.
+As for decreasing energy dependence on Russia, they
+can do it of course, but at what price? They should take into account the interests
+of European consumers. They can import liquefied gas, for example from the
+United States, but it would cost a lot. Or they can import gas through some
+other channels. This is an issue of money and commercial value. We believe that
+all of our projects have a future. I hope we’ll continue to supply gas to
+European consumers.
+And lastly, this is not a one-way street. They often
+claim that poor old Europe depends on Russia too much. Let’s be clear: Russia
+also depends on Europe to the same extent. If we supply gas and invest billions
+of dollars in our deposits and pipelines, we are depending on Europe to buy our
+gas, just as Europe depends on gas from Russia. These are mutual investments.
+Vlasta Jeseničnik:
+This is a very
+interesting idea. But do you agree that Europe keeps
+looking for an alternative to Russian gas? For example, it is considering
+importing gas from Azerbaijan. This is especially important for south-eastern
+Europe. How important is the European gas market to Russia?
+Dmitry Medvedev:
+It is very important to us. As I
+said, the European market is of crucial importance to us. We’ve
+been selling gas to Europe for decades; we have never failed to meet our
+obligations, and we’d like to continue to supply gas to Europe in large volumes.
+But this doesn’t mean we won’t supply gas to other locations. This is not
+shifting our emphasis or changing the cooperation vector; this is adding one
+more vector of cooperation. Our gas distribution to China will not detract from
+our cooperation with Europe.
+Vlasta Jeseničnik:
+Mr Medvedev, as
+prime minister you and your team deal with the most important development
+issues. What is your vision of Russia five years from now?
+Dmitry Medvedev:
+I’d like Russia to be a more
+prosperous and economically successful country, so that our
+people can live better, afford more, have better vacations, but also work
+better. In a word, I’d like Russia to be a modern and developed country with a
+friendly attitude to all other countries, including Slovenia, which is our
+partner.
+Vlasta Jeseničnik:
+Medvedev, thank you for this interview. I hope you’ll return to Moscow with a
+good impression.
+Dmitry Medvedev:
+hope so too. Thank you.
+Government of the Russian Federation
+http://government.ru/en/news/19011/
+Highlight selection

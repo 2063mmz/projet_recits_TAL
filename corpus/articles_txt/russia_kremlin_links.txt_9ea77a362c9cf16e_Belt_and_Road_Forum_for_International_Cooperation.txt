@@ -1,0 +1,39 @@
+seed_url: http://en.kremlin.ru/events/president/news/72528/photos/73261
+final_url: http://en.kremlin.ru/events/president/news/72528/photos/73261
+title: Belt and Road Forum for International Cooperation
+date: 2023-10-18
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Photos
+Belt and Road Forum for International Cooperation
+The President spoke at the opening of the Third Belt and Road Forum for International Cooperation.
+October 18, 2023
+06:35
+Beijing
+9 photos
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+October 18, 2023, 06:35
+Direct link:
+en.kremlin.ru/d/72528
+Text
+Photo
+11m
+Video
+Direct link
+http://en.kremlin.ru/events/president/news/72528
+Telegram
+Copy link
+Send by email
+Last updated at
+October 20, 2023, 22:28

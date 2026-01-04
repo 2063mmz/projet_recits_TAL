@@ -1,0 +1,83 @@
+seed_url: https://www.ifa.gov.et/2026/01/01/ethiopias-diplomatic-transition-during-antonio-guterress-un-tenure-2017-2025-from-security-posture-to-regional-convening/
+final_url: https://www.ifa.gov.et/2026/01/01/ethiopias-diplomatic-transition-during-antonio-guterress-un-tenure-2017-2025-from-security-posture-to-regional-convening/
+title: Ethiopia’s Diplomatic Transition during António Guterres’s UN Tenure (2017–2025): From Security Posture to Regional Convening
+date: Jan 1, 2026
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Introduction
+Since 2018, Ethiopia’s diplomacy has shifted from an inward, regime-security logic to an outward strategy emphasising regional cooperation, economic interdependence and human security. This transition occurred alongside reforms advanced by UN Secretary-General António Guterres—particularly preventive diplomacy, development system reform, and modernisation linked to
+Our Common Agenda
+(United Nations, 2021). Ethiopia drew on this multilateral moment to reposition itself as a key convener in the Horn of Africa, while also using peacekeeping and climate diplomacy to sustain international standing (Kefale, 2022; United Nations Peacekeeping, 2025).
+Major milestones include the 2018 Ethiopia–Eritrea peace initiative and Ethiopia’s expanding engagement in South–South and multipolar groupings, culminating in BRICS accession in 2024 (Fisher and Gebrewold, 2019; BRICS Secretariat, 2024). However, these gains remain vulnerable to renewed regional tensions and domestic political pressure. This brief recommends measures to consolidate Ethiopia’s regional integration agenda, protect peace dividends, and deepen cooperation with UN reform instruments—especially the Resident Coordinator system and anticipatory governance initiatives (United Nations, 2019; UNDESA, 2023).
+2. Background and Problem Statement
+Before 2018, Ethiopia’s foreign policy largely followed an “outside-in” model: external engagement was shaped mainly by internal security priorities, ethnic fragmentation concerns, and regime stabilisation needs (Clapham, 2018; Tadesse, 2020). This posture constrained Ethiopia’s ability to invest consistently in regional institution-building and often narrowed international engagement to counter-insurgency, border deterrence, and security bargaining.
+In parallel, multilateral systems faced persistent limits—fragmented development assistance, storage tower of humanitarian response, and slow conflict-prevention action. Guterres’s agenda sought a more integrated UN presence at country level, linking prevention, development and peace in operational practice (United Nations, 2017; United Nations, 2019). Ethiopia’s policy challenge became how to convert UN reform priorities into deliverable national and regional outcomes while managing continuing pressures in the Horn of Africa.
+3. Analysis and Key Findings
+3.1 Regional Integration and the “Horn First” Shift
+During the Prosperity Party period, Ethiopia advanced a “Horn First” orientation connecting domestic prosperity to the stability of neighbouring states—closer to regionalist liberalism than classical realism (Medhane, 2019). The 2018 rapprochement with Eritrea ended a prolonged “no-war, no-peace” impasse and signalled willingness to incur political costs to pursue reconciliation (Fisher and Gebrewold, 2019). UN emphasis on preventive diplomacy reinforced this direction (United Nations, 2017). Even amid later strains, Ethiopia’s preference for restraint and dialogue reflects a move toward de-escalatory diplomatic tools rather than coercive escalation.
+3.2 Alignment with UN Institutional Reform
+Ethiopia benefited from UN development reform, particularly the strengthened Resident Coordinator system, which improved coherence across agencies and linked UN support more directly to national priorities (United Nations, 2019). System-wide evaluations report strong host-government perceptions of improved coordination following reform, indicating concrete value for states managing intersecting development and humanitarian pressures (UNDESA, 2023). Ethiopia’s UN Sustainable Development Cooperation Framework (2020–2025) aligned UN programming with the Homegrown Economic Reform agenda and the Ten-Year Development Plan, prioritizing inclusion, resilience and sustainability (UN Ethiopia, 2020).
+3.3 Peacekeeping as Diplomatic Capital
+Ethiopia remained a leading troop contributor and gained influence through UN deployments, including UNISFA and UNMISS (United Nations Peacekeeping, 2025). The Action for Peacekeeping (A4P) initiative raised expectations for performance and accountability, and UN structural adjustments linking political and operational functions strengthened the relationship between field deployments and political strategy (United Nations Peacekeeping, 2018). Ethiopia used peacekeeping as a durable source of credibility even during periods when domestic politics affected its wider soft power.
+3.4 Climate Leadership as a Credibility Multiplier
+Ethiopia’s Green Legacy Initiative (2019) positioned the country as a prominent African advocate for nature-based solutions and broadly aligned with Guterres’s emphasis on climate as a central global governance issue (United Nations, 2022). Hosting Africa Climate Summit II in 2025 and advancing the Addis Ababa climate declaration strengthened Ethiopia’s role as a platform for continental climate diplomacy (AUC, 2025). Climate initiatives also supported domestic goals, including jobs, land restoration, and adaptation planning. Ethiopia’s Green Legacy Initiative (2019) positioned the country as a prominent African advocate for nature-based solutions and broadly aligned with Guterres’s emphasis on climate as a central global governance issue (United Nations, 2022). Hosting Africa Climate Summit II in 2025 and advancing the Addis Ababa climate declaration strengthened Ethiopia’s role as a platform for continental climate diplomacy (AUC, 2025). This climate leadership was further reflected in Ethiopia’s participation at the 2025 G20 Summit in Johannesburg, where it reinforced Africa’s collective climate priorities within global economic and governance forums. Climate initiatives also supported domestic goals, including jobs, land restoration, and adaptation planning.
+4. Conclusion and recommendations
+Ethiopia’s external strategy in the Horn of Africa is most credible when it links regional stability to tangible economic gains, stronger multilateral delivery, and measurable resilience outcomes. A practical way to close the gap between ambition and results is to consolidate “Horn First” through institutionalized interdependence. By scaling cross-border infrastructure, energy connectivity, and trade corridors with Sudan, Djibouti, Kenya, and other neighbors, Ethiopia can help build a predictable “community of gains” in which shared revenues, logistics efficiencies, and power pooling raise the cost of conflict and lower incentives for disruption. In this framing, diplomacy becomes a tool for de-risking investment and normalizing cooperation through projects that make everyday welfare depend on stable relations.
+At the same time, Ethiopia can convert multilateral engagement into stronger domestic delivery by using UN reform instruments as coordination levers. The Resident Coordinator system and the UN Cooperation Framework offer channels to align development partners around national priorities, reduce duplication, and strengthen planning for drought and food security via anticipatory action, data, and forecasting tools (United Nations, 2019; UNDESA, 2023). If Ethiopia pairs this coordination role with clear targets—such as early response triggers, pre-positioned supplies, and resilience investments in hotspot areas—UN processes can become visible to citizens as well as donors, strengthening legitimacy and results.
+Ethiopia’s long-standing peacekeeping role remains an important asset, but it gains more strategic value when paired with expanded prevention diplomacy. Maintaining troop contributions can continue to signal responsibility and provide leverage in multilateral forums; however, a parallel investment in political mediation capacity, early-warning cooperation, and stabilization diplomacy would show that Ethiopia is contributing to conflict prevention, not only crisis response. The aim is to connect security commitments to prevention outcomes that can be tracked: fewer border incidents, stronger dispute-resolution channels, and faster diplomatic de-escalation when shocks occur.
+Finally, Ethiopia can strengthen its international standing by converting climate diplomacy into finance and resilience delivery. The Green Legacy Initiative and climate summit outcomes can be connected to bankable pipelines for adaptation and green growth—especially land restoration, biodiversity protection, water security, and resilient infrastructure. By improving project preparation, strengthening monitoring, and positioning programs for climate funds and blended finance, Ethiopia can shift from narrative leadership to resource mobilization that households and regions can experience through reduced climate vulnerability and more stable livelihoods.
+Taken together, these four options form a coherent agenda: Ethiopia can anchor “Horn First” in interdependence, improve development results through UN coordination tools, couple peacekeeping with visible prevention diplomacy, and translate climate leadership into financed resilience (United Nations, 2019; UNDESA, 2023). This integrated approach also aligns with Ethiopia’s wider diplomatic posture as reflected in its policy architecture at the 2025 G20 Summit—signaling a move from primarily inward development planning to more proactive global engagement. Grounded in technological modernization and a commitment to green growth, Ethiopia’s diplomacy presents a template for how African economies can pursue influence in global governance while protecting national priorities. By advancing Just Energy Transition, Digital Sovereignty and global institutional reform, Ethiopia positions itself as an active contributor to the rebalancing of economic power and agenda-setting, rather than a peripheral participant.
+References
+Abbink, J. (2020) ‘Ethiopia and the Horn of Africa: Statehood in transition’,
+African Affairs
+, 119(475), pp. 489–506.
+African Union Commission (AUC) (2025)
+Addis Ababa Declaration on Climate Change and Call to Action
+. Addis Ababa: AUC Press.
+BRICS Secretariat (2024)
+BRICS expansion and global multipolarity report
+. BRICS Policy Paper.
+Clapham, C. (2018) ‘The Ethiopian state at the crossroads’,
+Journal of Modern African Studies
+, 56(2), pp. 157–176.
+Fisher, J. and Gebrewold, B. (2019) ‘The Eritrea–Ethiopia peace and the power of narrative’,
+Journal of Modern African Studies
+, 57(3), pp. 401–423.
+Kefale, A. (2022)
+Reframing Ethiopian diplomacy in an era of global transformation
+. Addis Ababa: Addis Ababa University Press.
+United Nations (2017)
+Report of the Secretary-General on preventive diplomacy and sustaining peace
+. New York: United Nations.
+United Nations (2019)
+Reinvigorating the Resident Coordinator system: Report of the Secretary-General on development system reform
+. New York: United Nations.
+United Nations (2021)
+Our Common Agenda
+. New York: United Nations Publications.
+United Nations (2022)
+[Title needed: climate report/speech/document cited]
+. New York: United Nations.
+United Nations Department of Economic and Social Affairs (UNDESA) (2023)
+Resident Coordinator System Annual Performance Review
+. New York: UNDESA.
+United Nations Peacekeeping (2018).
+Action for Peacekeeping (A4P) declaration
+. New York: United Nations.
+United Nations Peacekeeping (2025).
+Troop and police contributors by country—Monthly summary, October 2025
+. New York: United Nations.
+UN Ethiopia (2020).
+United Nations Sustainable Development Cooperation Framework (2020–2025)
+. Addis Ababa: UN Country Team Ethiopia.
+Yitina Gebre (Ph.D.),
+Senior Researcher at
+the Multilateral Affairs Department, Institute of Foreign Affairs
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.

@@ -1,0 +1,18 @@
+seed_url: https://www.ifa.gov.et/2025/10/19/ethiopias-prosperity-tied-to-red-sea-and-nile-basin/
+final_url: https://www.ifa.gov.et/2025/10/19/ethiopias-prosperity-tied-to-red-sea-and-nile-basin/
+title: Ethiopia’s Prosperity Tied to Red Sea and Nile Basin
+date: Oct 19, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia’s existence and comprehensive prosperity are inseparable from the development of the Red Sea and the Abay (Nile) basin, the Executive Director of the Institute of Foreign Affairs (IFA), H.E. Jafar Bedru, has said.
+Speaking at a high-level discussion held in Semera City, the capital of the Afar Regional State, on October 18, 2025, Jafar made the remarks during a conference organized by the Institute of Foreign Affairs (@ifa_ethiopia) in collaboration with the FDRE Defence War College and Semera University under the theme “The Nexus of the Abay (Nile) and the Red Sea and the Role of the Afar Region.”
+H.E. Jafar emphasized that Ethiopia, “being the energy hub of East Africa and the land of civilized people and patriots,” has a deep connection with the Abay Valley and the Red Sea and “is the core of the Horn of Africa.” He noted that Ethiopia’s geopolitical vision “is aligned with these two water bodies,” adding, “As we move closer to the Red Sea, our strength and vision expand.”
+He recalled that “for the past three decades, conducting research and policy discussions on the geopolitical issues of the Red Sea or a sea outlet was unthinkable.” He added that the national reform “has ended the era where discussing the sea outlet was considered taboo,” thereby responding to what he described as “Ethiopia’s period of resentment.”
+Explaining the conference’s theme Jafar said it was organized “to make the two water bodies a daily agenda to ensure Ethiopia’s comprehensive benefit.” He underlined that the sea outlet issue “goes beyond the sea; it is a matter of reconciling with one’s history, geography, truth, and psychology,” stressing that the demand for a sea outlet “is not a luxury but a matter of reconciling with oneself, achieving and seeking selfhood, and concluding reconciliation with one’s history and identity.”
+Dr. Mohammed Usman, President of Semera University, stated that the platform plays “a vital role in facilitating intellectual discussion to safeguard Ethiopia’s national interest,” noting that the country’s aspiration to gain a Red Sea outlet “is directly linked to history, geography, and regional security.”
+Commodore Tegegn Leta, Deputy Commander of the Ethiopian Navy for Combat Support Service, also affirmed that “Ethiopia’s comprehensive national benefit is strongly tied to the Abay and the Red Sea.” He said the Ethiopian Navy, “which was disbanded many years ago, is being reorganized,” and is now “developing a reliable and strong force in terms of human resources, structure, and technology.”
+The discussion was attended byH.e. Dr. Fethi Mahdi, Deputy Chairperson of the House of Peoples’ Representatives Standing Committee on Foreign Relations and Peace Affairs, along with senior government officials, defense force officers, and invited guests.
+@ENA

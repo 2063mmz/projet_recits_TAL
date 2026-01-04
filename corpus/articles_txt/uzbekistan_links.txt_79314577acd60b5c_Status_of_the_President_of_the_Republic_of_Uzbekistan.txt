@@ -1,0 +1,89 @@
+seed_url: https://president.uz/en/site/multi-video?menu_id=14&page=4&per-page=15
+final_url: https://president.uz/en/pages/view/status?menu_id=10
+title: Status of the President of the Republic of Uzbekistan
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Status
+Biography
+Honors
+Status of the President of the Republic of Uzbekistan
+Status of the President of the Republic of Uzbekistan is determined by chapter XIX of the Constitution of the Republic of Uzbekistan.
+The President of the Republic of Uzbekistan is the head of the state and ensures agreed functioning and interaction of the state authorities.
+A citizen of the Republic of Uzbekistan not younger than thirty five years, being in full command of the state language and permanently residing on the territory of Uzbekistan for at least 10 years, immediately preceding the elections, may be elected the President of the Republic of Uzbekistan. One and the same person may not be the President of the Republic of Uzbekistan for more than two consecutive terms.
+The President of the Republic of Uzbekistan shall be elected by citizens of the Republic of Uzbekistan on the basis of the universal, equal and direct suffrage by secret ballot for the term of seven years. The procedure for electing the President shall be defined by law of the Republic of Uzbekistan.
+The President, during his term of office, may not hold any other paid post, serve as deputy of representative body, engage in commercial activity.
+The President of the Republic of Uzbekistan shall enjoy personal immunity and protection under law.
+The President of the Republic of Uzbekistan shall:
+1) guarantee observance of rights and freedoms of citizens, the Constitution and laws of the Republic of Uzbekistan, sovereignty, security and territorial integrity of the Republic of Uzbekistan, implementation of decisions regarding its national-state structure;
+2) represent the Republic of Uzbekistan within the country and in international relations;
+3) conduct negotiations and sign treaties and agreements of the Republic of Uzbekistan, ensure the observance of the negotiated by the Republic treaties, agreements and the assumed by it obligations;
+4) receive letters of credence and recall from diplomatic and other representatives accredited to him;
+5) present to the Senate of the Oliy Majlis of the Republic of Uzbekistan nominees for appointment heads of diplomatic and other representative offices of the Republic of Uzbekistan to foreign states and with international organizations;
+6) have the right to address the people and the Oliy Majlis of the Republic of Uzbekistan on major matters of realizing home and foreign policies of the country;
+7) form and abolish ministries and other republican bodies of executive authority with subsequent submission of decrees on these matters for approval by the Senate of the Oliy Majlis of the Republic of Uzbekistan;
+8) represent to the Senate of the Oliy Majlis of the Republic of Uzbekistan a nominee for the election on the post of the Chairperson of the Senate;
+9) appoint, with the approval of the Legislative Chamber of the Oliy Majlis, the Prime Minister of the Republic of Uzbekistan and the members of the Cabinet of Ministers of the Republic of Uzbekistan and dismisses them from their posts;
+10) appoint and dismiss heads of committees, agencies and other republican state bodies in accordance with the legislation;
+11) appoint and dismiss the Prosecutor General of the Republic of Uzbekistan and the Chairperson of the Chamber of Accounts of the Republic of Uzbekistan with the approval of the Senate of the Oliy Majlis of the Republic of Uzbekistan;
+12) appoint, after consultation with the Senate of the Oliy Majlis of the Republic of Uzbekistan, the Chairperson of the State Security Service of the Republic of Uzbekistan, and dismisses him from his post;
+13) present candidates to the Senate of the Oliy Majlis of the Republic of Uzbekistan for the Constitutional Court of the Republic of Uzbekistan, the Supreme Court of the Republic of Uzbekistan, the Supreme Judicial Council of the Republic of Uzbekistan, as well as for the posts of Chairperson of the Board of the Central Bank of the Republic of Uzbekistan, head of the republican body to counteract corruption and head of the republican anti-monopoly body;
+14) appoint and dismiss, upon the submission of the Supreme Judicial Council of the Republic of Uzbekistan, Chairpersons and deputy Chairpersons of courts in regions and the city of Tashkent, the Chairperson of the Military Court of the Republic of Uzbekistan; approve members of the Supreme Judicial Council of the Republic of Uzbekistan;
+15) appoint and relieve, upon the submission of the Prime Minister of the Republic of Uzbekistan, khokims of districts and cities of their posts in accordance with law. The President of the Republic of Uzbekistan shall have the right to relieve, by his decision, khokims of districts and cities of their posts, should they violate the Constitution, laws or perform acts discrediting the honour and dignity of a khokim;
+16) suspend, cancel acts of republican executive bodies and khokims; have the right to chair the meetings of the Cabinet of Ministers of the Republic of Uzbekistan;
+17) sign and promulgate laws of the Republic of Uzbekistan; shall have the right to return a law, with his objections, to the Oliy Majlis of the Republic of Uzbekistan for the second discussion and vote;
+18) announce condition of war in cas e of attack on the Republic of Uzbekistan or in case of necessity of the implementation of contractual obligations on mutual defense from aggression, general or partial mobilization and within seventy two hours submit the adopted decision for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan;
+19) in exceptional cases (real outside threat, mass disturbances, major catastrophes, natural calamities, epidemics) in the interests of ensuring citizens’ security introduce the state of emergency on the entire territory or in the particular localities of the Republic of Uzbekistan and within seventy two hours submit the adopted decision for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan. Conditions and the procedure for introducing the state of emergency shall be set by law;
+20) serve as the Supreme Commander-in-Chief of the Armed Forces of the Republic of Uzbekistan, appoint and relieve the supreme command of the Armed Forces of the post and confer the highest military ranks;
+21) award orders, medals and certificates of honour of the Republic of Uzbekistan, confer qualification and honorary titles of the Republic of Uzbekistan;
+22) rule on matters of citizenship of the Republic of Uzbekistan and granting political asylum;
+23) put to the Senate of the Oliy Majlis of the Republic of Uzbekistan submission on adoption of acts of amnesty and effectuate pardoning of persons condemned by courts of the Republic of Uzbekistan;
+24) form and head the Security Council at the President of the Republic of Uzbekistan, forms the Presidential Administration, as well as consultative, advisory and other bodies at the President of the Republic of Uzbekistan in order to ensure the implementation of its competence;
+25) exercise other powers stipulated by the present Constitution and laws.
+The President of the Republic of Uzbekistan shall not have the right to transfer exercising of his powers to state bodies or officials.
+The President of the Republic of Uzbekistan shall issue decrees, resolutions and ordinances binding on the entire territory of the Republic on the basis of and for enforcement of the Constitution and laws of the Republic of Uzbekistan.
+The Legislative Chamber, the Senate of the Oliy Majlis of the Republic of Uzbekistan may be dissolved, by the decision of the President of the Republic of Uzbekistan adopted as agreed with the Constitutional Court of the Republic of Uzbekistan, in case of insuperable disagreements within the Legislative Chamber or the Senate putting under threat their normal functioning or numerous adoption by them decisions contradicting the Constitution of the Republic of Uzbekistan, as well as insuperable disagreements between the Legislative Chamber and the Senate putting under threat the normal functioning of the Oliy Majlis of the Republic of Uzbekistan.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

@@ -1,0 +1,1066 @@
+seed_url: https://kemlu.go.id/files/repositori/56625/174416239467f5ce5a7b1a3_13164_SJ_04_2025_72.pdf
+final_url: https://kemlu.go.id/files/repositori/56625/174416239467f5ce5a7b1a3_13164_SJ_04_2025_72.pdf
+title: 174416239467f5ce5a7b1a3_13164_SJ_04_2025_72.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+VOL. 10 NO. 1 | JANUARI - MARET 2025
+POLICY BRIEF
+ DEWAN REDAKSI
+ SEKRETARIAT
+1.  HANIF FARHAN M
+2. NURUL UTAMI
+3. MARYAM
+4. NURMASELLA P
+ PENGARAH
+ KEPALA BSKLN
+ PENANGGUNG JAWAB
+ SEKRETARIS BSKLN
+ PEMIMPIN REDAKTUR
+ NADIA
+ REDAKTUR
+ 1. AHMAD MARUFI
+ 2. RHEINHARDT K
+ 3. EDI SUHARTO
+ 4. JEPRI EDI
+ EDITOR
+ 1. KARIN ARAMITHA
+ 2. CUT NURY H. SABRY
+ 3. NALDO HELMYS
+ 4. ALI SYARI’ATI
+ 5. WAHYU KUMORO
+GEDUNG ROESLAN ABDUL GHANI, LANTAI 2
+JL. TAMAN PEJAMBON NO. 6 JAKARTA PUSAT, 10110
+TELP : (021) 3441508
+B A D A N  S T R A T E G I  K E B I J A K A N  L U A R  N E G E R I
+K E M E N T E R I A N  L U A R  N E G E R I  R E P U B L I K  I N D O N E S I A
+POTENSI OUTBOND INVESTMENT INDONESIA DI ASIA SELATAN
+POTENSI KERJA SAMA TRILATERAL EU-INDONESIA-JEPANG
+DALAM SKEMA EU GLOBAL GATEWAY
+
+POTENSI OUTBOUND INVESTMENT INDONESIA DI ASIA SELATAN
+POLICY BRIEF
+V O L U M E  1 0  N O . 1  | J A N U A R I - M A R E T  2 0 2 5
+P A G E  1
+
+I. Pendahuluan
+
+Secara umum, situasi perekonomian ka-
+wasan Asia Selatan dinilai sebagai kawasan
+dengan pertumbuhan ekonomi tercepat
+dibandingkan kawasan -kawasan lainnya di
+Asia, khususnya pasca COVID di tahun 2020.
+Berdasarkan data EIU (Gambar 1), tercatat
+bahwa pertumbuhan ekonomi kawasan Asia
+Selatan di tahun 2021 mencapai 9%,
+melampaui kawasan Asia Timur (6,4%), Ose-
+ania (5,4%), dan Asia Tenggara (3,6 %), dan
+tren tersebut berlanjut hingga 2023.
+
+Data tersebut juga menunjukkan bahwa,
+meski pertumbuhan relatif menurun sejak ta-
+hun 2023, tren tingginya pertumbuhan
+ekonomi di kawasan Asia Selatan diprediksi-
+kan akan berlanjut hingga tahun 2025. Per-
+tumbuhan ekonomi di kawasan Asia Selatan
+diproyeksikan mencapai 6,1% --mengungguli
+pertumbuhan ekonomi di kawasan Asia
+lainnya, dimana pertumbuhan ekonomi di Asia
+Tenggara hanya diperkirakan mencapai 4,7%
+di tahun 2025, sementara Asia Timur dan
+Oseania masing -masing diperkirakan tumbuh
+sebesar 3.6% dan 2,1%.
+Gambar 1: Grafik Pertumbuhan Ekonomi Kawasan
+Asia 2015 – 2025, Sumber: EIU
+Ringkasan Eksekutif
+
+Meskipun pertumbuhan ekonomi Asia Selatan menempati posisi tertinggi di antar a kawasan lainnya
+di Asia, arus masuk FDI ke Asia Selatan mengalami penurunan terbesar, yakni sebesar -37%,
+ketimbang kawasan -kawasan lainnya di Asia akibat ketidakpastian geopolitik dan ekonomi globa l.
+Namun, data yang diperoleh dari seluruh Perwakilan RI di kawasan Asia Selatan di tahun 202 4
+mencatat adanya badan usaha Indonesia telah melakukan investasi di sejumlah negara di  Asia Se-
+latan seperti India, Bangladesh, dan Pakistan di tengah tren penurunan arus masuk FDI di kawasan
+tersebut.
+
+Karenanya, Indonesia harus memanfaatkan peluang kekosongan investasi di kawasan Asi a Selatan
+untuk meningkatkan kehadiran investasinya di kawasan tersebut. Untuk mencapai hal terseb ut, Pol-
+icy Brief ini merekomendasikan perwakilan RI di Luar Negeri untuk meningkatkan hubungan k omu-
+nikasi dengan Badan Investasi di wilayah akreditasi setempat dan penyelenggaraan f orum bisnis
+guna memetakan sektor investasi yang dapat dimasuki oleh investor dari Indonesia secara akurat.
+
+Kata Kunci: Investasi, Asia Selatan, Ekonomi, Pertumbuhan
+
+P A G E  2
+Berdasarkan analisis terpisah oleh World
+Bank, tingginya pertumbuhan ekonomi di ka-
+wasan Asia Selatan tersebut didorong oleh
+tingginya permintaan domestik di India dan
+pemulihan ekonomi pasca pandemi yang
+relatif cepat di sebagian besar negara kawa-
+san Asia Selatan lainnya (World Bank Group,
+2024b).
+Namun, meskipun pertumbuhan ekonomi
+kawasan Asia Selatan relatif tinggi, data
+UNCTAD menunjukkan bahwa arus masuk
+FDI global di tahun 2023 mengalami
+penurunan sebesar -2%, dimana kawasan
+Asia secara keseluruhan mengalami
+penurunan sebesar -8% (Gambar 2).
+Gambar 2: Tren Penurunan Arus Masuk FDI Global
+Berdasarkan Kawasan, Sumber: UNCTAD
+
+II. Situasi Umum Investasi di Kawasan
+Asia Selatan
+
+Sejalan dengan tren global, UNCTAD
+mencatat bahwa tren arus masuk FDI di
+kawasan Asia tahun 2023 mengalami
+penurunan dengan persentase terbesar, yakni
+sebesar -8%, dibandingkan kawasan -kawasan
+lainnya di seluruh dunia seperti Afrika ( -3%),
+Amlatkar ( -1%), dan Amerika Utara ( -5%).
+Lebih lanjut, data UNCTAD juga menemukan
+bahwa di kawasan Asia dengan ekonomi
+berkembang, Asia Selatan merupakan
+kawasan dengan penurunan persentase arus
+investasi terbesar di Asia yakni sebesar -37%
+(Gambar 3) dibandingkan kawasan -kawasan
+dengan ekonomi  berkembang lainnya di Asia
+(Asia Timur dan Asia Barat -9%, Asia Tengah
+-27%). Sebagai catatan positif bagi Indonesia,
+Asia Tenggara merupakan satu -satunya
+wilayah di kawasan Asia dengan persentasi
+arus masuk FDI positif, yakni sebesar 1%.
+Gambar 3: Tren Penurunan Arus Masuk FDI di Kawa-
+san Asia, Sumber: UNCTAD
+
+UNCTAD menilai bahwa penurunan
+persentase arus masuk FDI di Asia tahun
+2023 disebabkan oleh sejumlah faktor, antara
+lain lesunya investasi dan ketidakpastian
+ekonomi (UNCTAD, 2024a), serta ketegangan
+geopolitik (UNCTAD, 2024c). Di kawasan Asia
+Selatan sendiri, penurunan disebabkan oleh
+amblasnya arus masuk FDI ke India sebesar
+43%, dari USD 49 miliar di tahun 2022
+menjadi USD 28 miliar di tahun 2023, di
+tengah arus investasi masuk ke negara -
+negara Asia Selatan lainnya (UNCTAD,
+2024b). Bagaimana turunnya arus masuk FDI
+ke India berpengaruh besar pada penurunan
+
+arus masuk FDI Asia Selatan berkaitan erat
+pada posisi India sebagai negara tujuan arus
+masuk FDI terbesar di kawasan Asia Selatan,
+dengan persentase di atas 80% dari seluruh
+FDI yang masuk ke kawasan Asia Selatan
+(Gambar 4), sehingga penurunan FDI di India
+berpengaruh besar pada turunnya FDI masuk
+ke Asia Selatan secara keseluruhan.
+Meskipun, World Bank menilai bahwa
+tingginya pertumbuhan ekonomi di kawasan
+Asia Selatan dapat didorong lebih lanjut
+apabila kawasan tersebut dapat
+memanfaatkan sejumlah potensi yang belum
+dimanfaatkan ( untapped potential ), yakni
+meningkatkan partisipasi perempuan dalam
+pasar tenaga kerja dan membuka lebih jauh
+akses perdagangan dan investasi global
+(World Bank Group, 2024a).
+Gambar 4: Perbandingan Arus Masuk FDI Asia Selatan
+Tahun 2022 dan 2023, Sumber: UNCTAD
+
+III. Peluang Investasi Outbound Indonesia
+di Kawasan Asia Selatan
+
+Mempertimbangkan penilaian World Bank
+yang menganggap investasi sebagai salah
+satu untapped potential untuk mendorong
+pertumbuhan ekonomi Asia Selatan, Indonesia
+perlu memanfaatkan peluang untuk
+meningkatkan investasi di kawasan tersebut
+yakni dalam bentuk pelaksanaan outbound
+investment. Hal ini mempertimbangkan bahwa
+investasi Indonesia di kawasan Asia Selatan
+berpotensi memberikan manfaat ekonomi
+tidak hanya bagi negara -negara di kawasan
+tersebut, tetapi tentunya juga bagi Indonesia.
+Outbound investment mengacu pada salah
+satu konsep yang diusung oleh Pemerintah RI
+(Pemri) periode 2019 -2024 untuk mendorong
+kerja sama ekonomi dengan negara/wilayah
+akreditasi mitra dalam konteks pemulihan
+ekonomi pascapandemi  (Setiawan, 2021).
+Lebih lanjut, outbound investment  diartikan
+sebagai upaya penanaman investasi
+Indonesia di luar negeri. Untuk konteks pasca
+pandemi, outbound investment  merupakan
+salah satu upaya untuk mendorong
+pertumbuhan ekonomi Indonesia.
+Sejumlah peluang sektor investasi atau
+outbound investment yang dapat didorong
+oleh Indonesia di kawasan Asia Selatan
+antara lain sebagai berikut:
+
+a. Infrastruktur
+Indonesia telah banyak berinvestasi di
+bidang infrastruktur untuk mendukung
+pertumbuhan ekonominya, seperti proyek
+seperti jalan tol Trans -Sumatera dan
+pembangunan ibu kota baru, Nusantara.
+Pengalaman ini dapat dimanfaatkan di
+Asia Selatan, dimana banyak negara di
+kawasan tersebut memiliki kebutuhan
+tinggi di bidang infrastruktur akibat
+urbanisasi dan pertumbuhan populasi
+(Weerawardane & Meegoda, 2024).
+
+b. Energi baru terbarukan
+International Energy Agency (IEA) menilai
+Indonesia memiliki potensi yang sangat
+tinggi untuk mengembangkan sumber
+energi terbarukan, mempertimbangkan
+posisi Indonesia yang dianggap memiliki
+sumber daya alam (SDA) yang melimpah
+seperti panas bumi, air, dan tenaga surya
+(IEA, 2022). Dengan komitmen Indonesia
+untuk meningkatkan kapasitas energi
+terbarukan, khususnya pembangkit listrik
+P A G E  3
+Negara
+FDI Inflow
+2022
+(dalam
+juta USD)
+FDI Inflow
+2023
+(dalam
+juta USD)
+Perubah
+an Y-o-Y
+2022-
+2023
+Afghanistan - - -
+Bangladesh 3.480 3.004
+-13,68
+Bhutan 15 18 20,00
+India 49.380 28.163 -42,97
+Iran 1.500 1.422 -5,20
+Maldives 732 762 4,10
+Nepal 65 74 13,85
+Pakistan 1.462 1.818 24,35
+Sri Lanka 884 712 -19,46
+Total 57.518 35.974 -37,46
+
+tenaga panas bumi dan air  (IEA, 2022),
+terdapat potensi kolaborasi dengan
+negara-negara Asia Selatan yang ingin
+meningkatkan ketahanan dan kebutuhan
+energi mereka. Indonesia bertujuan untuk
+mencapai 23% energinya dari sumber
+terbarukan pada tahun 2025 (IEA, 2022).
+Hal ini selaras dengan tujuan negara -
+negara Asia Selatan untuk mengurangi
+ketergantungan pada bahan bakar fosil
+dan memerangi perubahan iklim, sehingga
+menjadikannya sektor investasi yang
+dapat diupayakan (Chen, 2021).
+
+c. Agrikultur dan Food Processing
+Indonesia merupakan salah satu produsen
+produk agrikultur terbesar dunia dan
+memasok sejumlah komoditas utama
+seperti minyak sawit, karet alami, biji
+kakao, biji kopi, beras, dan rempah ke
+dunia (Siahaan, 2025). Di sisi lain,
+Indonesia merupakan salah satu pemain
+industri pengolahan sektor makanan dan
+minuman besar di dunia, dengan mencatat
+nilai ekspor sebesar USD 1,2 miliar dan
+berkontribusi pada pangsa pasar global
+sebesar 3,92% di tahun 2023. Karenanya,
+Indonesia dapat berinvestasi di sektor
+agrikultur dan makanan food processing
+melalui sharing knowledge  dan teknologi,
+khususnya oleh sejumlah industri
+produsen di bidang makanan dan
+minuman lokal yang ternama (Yuningsih,
+2024).
+
+IV. Data Outbound Investment Indonesia di
+Kawasan Asia Selatan
+
+Berdasarkan data yang diperoleh dari
+Perwakilan RI di luar negeri, jumlah
+perusahaan Indonesia yang telah berencana
+melakukan investasi outbound investment  di
+Asia Selatan mencapai 19 perusahaan. Lebih
+lanjut, data dari Perwakilan RI di kawsan Asia
+Selatan menunjukan adanya minat yang relatif
+tinggi bagi pelaku bisnis Indonesia untuk
+berinvestasi di sejumlah negara di kawasan
+Asia Selatan. Terdapat empat negara di
+kawasan Asia yang menjadi tujuan rencana
+outbound investment Indonesia, yakni:
+a. India dengan nilai rencana investasi IDR
+380,4 miliar dan fokus investasi terbesar
+berfokus di sektor makanan dan vaksin
+hewan. Sebagai informasi, terdapat
+investasi Indonesia di India di sektor IT,
+meski nilainya tidak begitu besar (IDR
+9.36 miliar)
+b. Pakistan dengan nilai rencana investasi
+sebesar IDR 917,85 miliar dan fokus
+investasi di sektor food processing
+c. Bangladesh dengan nilai rencana
+investasi senilai IDR 20 triliun dan
+berfokus di bidang energi.
+d. Sri Lanka . belum tercatat adanya nilai
+rencana investasi, namun investasi
+direncanakan bergerak di bidang
+infrastruktur.
+
+Dari rencana tersebut, data Perwakilan RI
+di Luar Negeri mengungkapkan bahwa dari
+rencana investasi tersebut, terdapat sejumlah
+investasi yang telah terealisasi di sejumlah
+negara di Asia Selatan, antara lain sebagai
+berikut:
+a. India dengan nilai realisasi investasi
+senilai IDR 3,1 triliun, melampaui nilai
+rencana investasi sebesar IDR 380,4
+miliar. Mayoritas investasi tersebut
+bergerak di sektor ride-hailing, dan diikuti
+sektor makanan dan minuman.
+b. Pakistan dengan nilai realisasi investasi
+IDR 773,05 miliar dan dengan sebagian
+besar fokus investasi di sektor makanan
+dan minuman serta agrikultur
+
+V. Kesimpulan dan Rekomendasi
+
+Sebagaimana disampaikan oleh analisis
+World Bank, Asia Selatan merupakan
+kawasan potensial bagi badan usaha
+P A G E  4
+
+Indonesia untuk meningkatkan penetrasi
+investasinya dalam rangka mendorong
+pertumbuhan ekonomi di Asia Selatan. Lebih
+lanjut, dengan memanfaatkan momentum
+pertumbuhan ekonomi di kawasan Asia
+Selatan, meningkatkan investasi di kawasan
+tersebut tentunya dapat membawa dampak
+ekonomi bagi Indonesia dalam jangka
+panjang.
+Sesuai dengan data outbound investment
+dari Perwakilan RI di luar negeri, dapat
+disimpulkan bahwa perusahaan di Indonesia
+telah berhasil melakukan realisasi investasi di
+sejumlah negara di Asia Selatan, yakni di India
+dan Pakistan, pada sektor yang dibutuhkan
+oleh masing-masing negara tersebut.
+Namun kedepannya, Indonesia dinilai
+dapat mendorong outbound investment
+tersebut lebih lanjut di kawasan Asia Selatan.
+Hal ini mempertimbangkan sejumlah peluang
+outbound investment yang Indonesia miliki
+sebagaimana dijelaskan di atas, sesuai
+dengan kebutuhan investasi oleh masing -
+masing negara di Asia Selatan seperti sektor
+agrikultur dan food processing  dan
+infrastruktur di Sri Lanka  (High Commission of
+the Sri Lanka in the UK, 2022) dan
+Bangladesh (Recom, 2024), serta sektor
+energi terbarukan di India (Vakkaleri, 2022).
+Berdasarkan gambaran situasi di atas,
+sejumlah rekomendasi yang dapat diusulkan
+untuk mendorong investasi di kawasan
+tersebut antara lain:
+
+a. Penguatan market intelligence  di
+sejumlah wilayah akreditasi guna
+memetakan sektor investasi potensial
+yang dapat dijajaki.
+Berdasarkan informasi UNCTAD,
+dapat disimpulkan bahwa salah satu faktor
+kunci turunnya arus masuk FDI di Asia
+Selatan sebesar 37% dipengaruhi oleh
+turunnya arus masuk FDI ke India sebesar
+43%. Karenanya, Indonesia perlu
+memanfaatkan peluang kekosongan
+investasi tersebut dan masuk sebagai
+salah satu investor di India di sejumlah
+sektor investasi utama di India.
+Karenanya, Perwakilan RI di Luar
+Negeri disarankan untuk meningkatkan
+penjajakan dengan Badan Investasi di
+wilayah akreditasi setempat yang memiliki
+potensi besar, seperti India, untuk
+berdiskusi dan memperoleh info terkait
+sektor investasi potensial yang dapat
+dimasuki oleh investasi dari Indonesia.
+b. Intensifikasi business matching di wilayah
+Asia Selatan
+Melihat jumlah investasi Indonesia di
+wilayah Asia Selatan yang relatif tinggi,
+dapat diketahui bahwa Indonesia memiliki
+sejumlah badan usaha yang sesuai
+dengan kebutuhan investasi di kawasan
+tersebut. Oleh karena itu, Kemlu dapat
+menyelenggarakan forum bisnis yang
+serupa dengan INALAC di kawasan Asia
+Selatan. Hal ini bertujuan untuk
+memetakan kebutuhan investasi di
+wilayah tersebut dengan lebih akurat agar
+sesuai dengan kebutuhan investasi di
+kawasan Asia Selatan.
+
+Daftar Pustaka
+
+Chen, G. (2021, November 1). Energy
+transition in South Asia is critical to
+reaching global net -zero. World Bank
+Blog. https://blogs.worldbank.org/en/
+endpovertyinsouthasia/energy-transition-
+south-asia-critical-reaching-global-net-zero
+
+High Commission of the Sri Lanka in the UK.
+(2022). Investment Opportunities available
+in Sri Lanka . High Commission of the
+Democratic Socialist Republic of Sri Lanka
+in the United Kingdom. https://
+srilankahc.uk/investment-opportunities-
+available-in-sri-lanka/
+
+IEA. (2022). Enhancing Indonesia ’s Power:
+System Executive summary . Internal
+Energy Agency (IEA). https://www.iea.org/
+reports/enhancing-indonesias-power-
+system/executive-summary
+
+P A G E  5
+
+Recom. (2024). Top 10 Foreign Investment
+Opportunities in Bangladesh 2025 .
+Recom. https://recombd.com/top -10-
+foreign-investment-opportunities-in-
+bangladesh/
+
+Setiawan, J. R. (2021, November 3).
+”Outbound Investment ”, Bidak Catur
+Krusial untuk Genjot Ekspor. Kompas.
+https://www.kompas.id/baca/
+opini/2021/11/03/outbound-investment-
+bidak-catur-krusial-untuk-genjot-ekspor
+
+Siahaan, M. (2025, March 10). Agriculture in
+Indonesia—Statistics & facts . Statista.
+https://www.statista.com/topics/7732/
+agriculture-industry-in-indonesia/
+#topicOverview
+
+UNCTAD. (2024a, January 22). Foreign direct
+investment in developing economies fell
+9% in 2023 . UNCTAD. https://unctad.org/
+news/foreign-direct-investment-developing
+-economies-fell-9-2023
+
+UNCTAD. (2024b, June 20). Developing Asia:
+Large jump in greenfield investment in
+2023. UNCTAD. https://unctad.org/news/
+developing-asia-large-jump-greenfield-
+investment-2023
+
+UNCTAD. (2024c, June 20). Global foreign
+investment weak in 2023, funding for
+sustainable development sectors drops
+over 10% . UNCTAD. https://unctad.org/
+news/global-foreign-investment-weak-
+2023-funding-sustainable-development-
+sectors-drops-over-10
+
+Vakkaleri, S. (2022). India’s Path to Net Zero .
+Flow. https://flow.db.com/more/esg/india -s
+-path-to-net-zero#:~:text=At%20the%
+20Glasgow%20COP26%20climate,net%
+20zero%2C%E2%80%9D%20he%20said
+
+Weerawardane, B., & Meegoda, M. (2024).
+Can Foreign Lenders Curb South Asia ’s
+Infrastructure Corruption? The Diplomat .
+https://thediplomat.com/2024/10/can-
+foreign-lenders-curb-south-asias-
+infrastructure-corruption/#:~:text=With%
+20rapid%20urbanization%20and%
+20growing,about%20financing%20but%
+20about%20governance
+
+World Bank Group. (2024a). South Asia
+Development Update. World Bank. https://
+openknowledge.worldbank.org/server/api/
+core/bitstreams/6a04abae-03fa-4335-b12e
+-804528a3a048/content
+
+World Bank Group. (2024b, October 10).
+South Asia . World Bank. https://
+www.worldbank.org/en/region/sar/
+overview
+
+Yuningsih, N. (2024). Report Name: Food
+Processing Ingredients Annual . United
+States Department of Agriculture (USDA).
+https://apps.fas.usda.gov/newgainapi/api/
+Report/DownloadReportByFileName?
+fileName=Food%20Processing%
+20Ingredients%
+20Annual_Jakarta_Indonesia_ID2024-
+0012.pdf
+P A G E  6
+
+POTENSI KERJA SAMA TRILATERAL UNI EROPA -INDONESIA-JEPANG
+DALAM SKEMA EU GLOBAL GATEWAY
+POLICY BRIEF
+V O L U M E  1 0  N O . 1  | J A N U A R I - M A R E T  2 0 2 5
+P A G E  7
+
+
+Ringkasan Eksekutif
+
+Dalam dunia yang semakin terfragmentasi akibat ketegangan geopolitik dan geoekonomi , Indonesia
+perlu memanfaatkan setiap peluang untuk mencapai visi Indonesia Emas 2045. Salah satu peluang
+tersebut adalah inisiatif EU Global Gateway . Namun, agar inisiatif ini dapat memberikan manfaat
+maksimal bagi Indonesia, diperlukan peran Indonesia yang lebih aktif dalam mengarahkan
+pelaksanaannya.
+
+Di saat yang sama, Jepang, sebagai mitra ekonomi tradisional Indonesia dan UE, memiliki peran
+penting sebagai intermediary dalam mewujudkan inisiatif ini. Keahlian dan kredibilitas  Jepang
+dalam pengembangan infrastruktur, pemahamannya yang mendalam terhadap regulasi di
+Indonesia, serta komitmennya terhadap transformasi hijau dan digital, dapat menjadi  faktor kunci
+dalam memastikan bahwa Global Gateway menghasilkan dampak nyata. Kerangka kerja trilateral
+yang melibatkan UE, Indonesia, dan Jepang dapat membantu mengatasi tantangan i mplementasi
+serta menciptakan pendekatan yang lebih efektif dan sinergis dalam investasi berkel anjutan dan
+peningkatan konektivitas.
+EU Global Gateway  di Indonesia: Perkembangan
+dan Tantangan
+Inisiatif Global Gateway , yang pertama kali
+diluncurkan pada Desember 2021, merupakan
+program strategis UE untuk memperkuat posisinya
+sebagai kekuatan geopolitik sekaligus mengatasi
+kesenjangan investasi infrastruktur global. Hingga
+tahun 2027, inisiatif ini menargetkan mobilisasi
+investasi hingga €300 miliar di seluruh dunia,
+dengan fokus pada sektor -sektor utama seperti
+konektivitas digital, energi terbarukan, transportasi,
+pendidikan, dan infrastruktur kesehatan.
+Posisi strategis Indonesia di Indo -Pasifik
+serta potensi ekonominya menjadikan Indonesia
+sebagai salah satu negara penerima beneficial
+dalam skema Global Gateway . Namun,
+pelaksanaan inisiatif ini masih menghadapi berbagai
+tantangan.
+Berbeda dengan Belt and Road
+Initiative (BRI) Tiongkok, yang telah
+menyelesaikan proyek infrastruktur
+berskala besar di Indonesia, Global
+Gateway masih belum menunjukkan
+pencapaian signifikan yang dapat
+memperkuat kredibilitasnya. Kompleksitas
+birokrasi, ketatnya kriteria ESG
+(Environmental, Social, and Governance),
+serta minimnya kehadiran langsung di
+lapangan menghambat implementasi
+proyek-proyek yang didukung UE,
+menimbulkan keraguan terhadap
+efektivitas inisiatif ini.
+Walaupun tidak menafikan adanya
+tantangan internal seperti hambatan
+birokrasi di Indonesia, salah satu concern
+utama terkait proyek Global Gateway
+adalah banyaknya proyek yang masih
+berada dalam tahap perencanaan  atau
+terbatas pada skala kecil , bukan proyek
+industri atau infrastruktur berskala besar.
+
+P A G E  8
+Meskipun program -program seperti
+bantuan teknis, dukungan regulasi, dan
+pelatihan berkontribusi pada kerja sama
+jangka panjang serta penguatan institusi,
+dampaknya terhadap perekonomian belum
+terlihat secara langsung.  Masih minimnya
+investasi infrastruktur berskala besar
+menimbulkan pertanyaan mengenai
+kemampuan inisiatif ini dalam menghadirkan
+tangible and transformative outcomes  yang
+sejalan dengan ambisi pembangunan
+Indonesia.
+
+
+Tabel 1. Implementasi Proyek EU Global Gateway di
+Indonesia (s.d. Februari 2025)
+
+No. Proyek  Deskripsi  Status
+1 Indonesia JETP  Perluasan EBT dan
+pengurangan bertahap
+pembangkit listrik
+tenaga batu bara, baik
+yang terhubung maupun
+tidak terhubung ke
+jaringan listrik.
+Tahap awal/
+perencanaan:
+Peluncuran ”Attraction
+Plan for EU
+Investment in
+Indonesia” dan
+pembentukan EU
+Desk di BKPM
+(April 2024)
+2 Indonesia Energy
+Transition Facility
+(IETF)
+Dukungan strategis
+untuk mempercepat
+agenda transisi energi
+Indonesia melalui
+reformasi kebijakan dan
+kerangka kerja ESG.
+Berkontribusi penuh
+terhadap JETP.
+• MoU dengan PT
+SMI (2024)
+mencakup
+pinjaman
+kerangka kerja
+hingga €500 juta
+untuk investasi di
+proyek energi
+terbarukan dan
+berfokus pada
+iklim.
+3 Support for
+Infrastructure
+Investment (SEI)
+Dukungan bagi
+pemerintah daerah
+dalam mengakses
+pembiayaan untuk
+infrastruktur lingkungan,
+produktif, dan sosial.
+Berkontribusi secara
+signifikan terhadap
+JETP .
+• Hibah tambahan
+sebesar €14,7
+miliar dengan
+peluncuran
+Indonesia Energy
+Transition Facility
+(IETF) melalui
+Agence
+Française de
+Développement
+(AFD), Februari
+2025.
+4 SDG Indonesia
+One
+Pembiayaan
+proyek
+infrastruktur yang
+memiliki manfaat
+iklim dan
+mendukung SDG
+melalui platform
+SDG One,
+dengan fokus
+pada peningkatan
+kelayakan
+investasi proyek
+energi terbarukan
+berskala kecil.
+Berkontribusi
+secara signifikan
+terhadap JETP.
+Catatan: Proyek EU Global
+Gateway di Indonesia
+sebagian besar masih
+dalam fase awal atau
+proyek pembangunan
+kapasitas skala kecil, bukan
+proyek industri besar.
+5 Indonesia
+Policy Dialogue
+Fund (IPDF)
+Mobilisasi
+pinjaman oleh
+Lembaga
+Keuangan
+Pembangunan
+Internasional di
+sektor-sektor
+utama seperti
+energi bersih dan
+pengelolaan
+sampah laut.
+Berkontribusi
+secara parsial
+terhadap JETP.
+
+6 Regional
+Railway
+Surabaya
+Peningkatan jalur
+ganda dan
+elektrifikasi kereta
+komuter.
+Belum terealisasi
+7 Smart City
+Connectivity in
+Nusantara
+Pengembangan
+layanan generasi
+terbaru dengan
+infrastruktur
+digital canggih,
+solusi kota pintar,
+dan tata kelola
+data yang kuat
+untuk
+meningkatkan
+efisiensi serta
+keberlanjutan
+layanan
+perkotaan.
+Belum terealisasi
+7 Sustainable
+Ocean
+Management
+Peningkatan
+infrastruktur
+pelabuhan
+perikanan untuk
+pengelolaan
+sumber daya laut
+yang lebih baik,
+disertai dengan
+investasi dalam
+penelitian
+oseanografi.
+Belum terealisasi
+8 Strengthen
+University
+Teaching
+Hospitals
+Pembangunan dan
+peningkatan Rumah
+Sakit Pendidikan
+Universitas,
+termasuk pendirian
+pusat simulasi
+dengan peralatan
+medis modern
+untuk keperluan
+pelatihan, jaringan
+telemedis, serta
+sistem informasi
+kesehatan.
+Belum terealisasi
+
+P A G E  9
+Strategic Communication :
+Menetapkan dan Mengkomunikasikan
+Ekspektasi
+
+Global Gateway  memang
+menawarkan peluang sekaligus
+tantangan. Namun, salah satu
+hambatan lainnya adalah kemampuan
+negara penerima seperti Indonesia
+dalam mengidentifikasi dan
+mengartikulasikan kebutuhan. Sering
+kali tidak tersedia pipeline yang jelas
+atau kurang aktif dalam mengeksplorasi
+opsi yang diperlukan agar inisiatif ini
+dapat memberikan manfaat optimal bagi
+Indonesia.
+Dalam diskusi -diskusi dengan
+mitra Eropa, pertanyaan “apa yang
+dibutuhkan Indonesia? ” sering kali
+muncul. Hal ini menegaskan pentingnya
+menetapkan ekspektasi yang jelas dan
+menyampaikannya secara efektif. Oleh
+karena itu, Indonesia perlu mengambil
+sikap proaktif  dalam membentuk
+keterlibatannya dengan Global
+Gateway, dengan menetapkan dan
+mengkomunikasikan ekspektasi yang
+jelas kepada mitra, seperti:
+a. Pengaturan finansial untuk transisi energi:
+Indonesia mengharapkan lebih banyak
+hibah dan pembiayaan konsesional, bukan
+pinjaman komersial, terutama untuk
+proyek transisi energi dalam skema JETP .
+Concern utamanya adalah bahwa model
+pembiayaan Global Gateway —yang
+sangat bergantung pada pinjaman dan
+mobilisasi sektor swasta—dapat
+meningkatkan beban utang negara.
+b. Komitmen yang lebih kuat terhadap
+konektivitas UE -ASEAN: Indonesia
+melihat Global Gateway  sebagai
+katalisator bagi peningkatan kerja sama
+UE-ASEAN dalam infrastruktur,
+perdagangan, dan transformasi digital.
+Agar efektif, inisiatif ini harus melengkapi
+kerangka kerja regional yang sudah ada,
+seperti:
+• ASEAN Master Plan on Connectivity 2025
+(MPAC 2025);
+• ASEAN Smart Cities Network;
+• Proyek infrastruktur Trans -Sumatra &
+Trans-Kalimantan.
+
+c. Porsi energi baru dan terbarukan (EBT)
+dalam bauran energi nasional telah
+mencapai 14, 68%, meningkat sedikit dari
+13,9% pada tahun 2023. Namun, angka ini
+masih jauh dari target Kebijakan Energi
+Nasional (KEN) sebesar 23% pada tahun
+2025, menegaskan perlunya investasi
+yang lebih besar dan dukungan struktural
+yang lebih kuat. Indonesia membutuhkan
+industri pendukung energi hijau untuk
+mempercepat transisi energi
+berkelanjutan. Global Gateway  dapat
+berperan penting dalam menjembatani
+kesenjangan ini dengan memfasilitasi
+investasi yang tepat sasaran serta
+mendorong inovasi, seperti:
+• Meningkatkan FDI terutama dalam industri
+pendukung EBT misalnya manufaktur
+lokal panel surya dan turbin angin guna
+mengurangi ketergantungan pada impor.
+
+• Mengembangkan jaringan listrik pintar
+(smart grids ) dan sistem penyimpanan
+energi untuk meningkatkan integrasi
+energi terbarukan serta menjaga stabilitas
+jaringan listrik.
+
+• Memperkuat ekosistem baterai kendaraan
+listrik (EV) dengan tidak hanya berfokus
+pada ekstraksi bahan mentah, tetapi juga
+mendukung pemrosesan nikel, produksi
+baterai, dan manufaktur kendaraan listrik,
+guna menciptakan rantai pasok yang lebih
+terintegrasi dan bernilai tambah.
+
+• Meningkatkan penelitian dan
+pengembangan tenaga kerja melalui
+program R&D kolaboratif dan pelatihan,
+untuk menciptakan green jobs  serta
+meningkatkan keahlian teknologi.
+
+• Memperkuat kemitraan kelembagaan
+antara UE dan Indonesia melalui kerja
+sama yang lebih erat antara universitas
+dan pusat penelitian dalam teknologi iklim
+serta solusi keberlanjutan.
+
+P A G E  1 0
+• Memperkuat kemitraan kelembagaan
+antara UE dan Indonesia melalui kerja
+sama yang lebih erat antara universitas
+dan pusat penelitian dalam teknologi iklim
+serta solusi keberlanjutan.
+Mengintegrasikan “Jepang” dalam
+Kerangka EU Global Gateway
+
+Jepang telah lama menjadi mitra ekonomi dan
+strategis yang terpercaya bagi Indonesia dan
+UE. Pengalamannya yang luas dalam
+pembiayaan infrastruktur, navigasi regulasi,
+serta pengembangan perkotaan berbasis
+teknologi menjadikannya perantara ideal untuk
+mempercepat pelaksanaan Global Gateway di
+Indonesia. Mengintegrasikan Jepang dalam
+kerangka kerja ini dapat menjadi jembatan
+bagi upaya UE dalam mengimplementasikan
+investasi Global Gateway  secara lebih efektif
+maupun mendorong kolaborasi teknologi
+dengan Jepang.
+Salah satu kekuatan utama Jepang
+adalah kemampuannya mengombinasikan
+kehati-hatian finansial dengan komitmen
+pembangunan jangka panjang, sehingga
+dapat menjadi penyeimbang bagi regulasi
+ketat UE. Dengan memasukkan Jepang ke
+dalam kerangka Global Gateway , inisiatif ini
+dapat memperoleh manfaat berupa:
+a. Eksekusi proyek yang lebih cepat ,
+dengan memanfaatkan pengalaman
+Jepang di lapangan serta model kemitraan
+publik-swasta ( public-private partnership /
+PPP).
+b. Keahlian dalam navigasi regulasi ,
+membantu UE menghadapi kompleksitas
+birokrasi di Indonesia.
+Keterlibatan Jepang dalam kerangka
+kerja trilateral bukanlah hal baru. Beberapa
+contohnya antara lain
+EU-Japan Connectivity
+Partnership (2019)  yang berfokus pada
+penguatan konektivitas transportasi dan digital
+di negara ketiga, serta
+Japan-U.S.-Australia
+Trilateral Partnership for Indo -Pacific
+Infrastructure. Selain itu, UE dan Jepang telah
+berhasil membiayai bersama proyek
+infrastruktur di Afrika dan Asia Selatan.
+Pendekatan trilateral serupa dapat
+memperkuat kerja sama Global Gateway ,
+dengan Jepang sebagai perantara yang
+kredibel untuk mempercepat implementasi
+proyek. Investasi Jepang dalam infrastruktur,
+kota pintar, dan teknologi digital—seperti
+kontribusinya pada proyek Mass Rapid Transit
+(MRT) di Indonesia—dapat melengkapi proyek
+-proyek UE, menciptakan sinergi yang
+meningkatkan konektivitas dan ketahanan
+ekonomi.
+The EU -Japan Green Alliance , EU-
+Japan Green Alliance , yang diluncurkan pada
+tahun 2021, juga membuka peluang untuk
+menyelaraskan tujuan transisi hijau Indonesia,
+keahlian teknologi Jepang, dan mekanisme
+pendanaan keberlanjutan UE. Melalui
+kemitraan ini, Indonesia dapat memperoleh
+manfaat dalam bidang seperti energi hidrogen
+dan jaringan listrik pintar ( smart grids) ataupun
+proyek EBT yang dibiayai bersama.
+Selain itu, Jepang juga memiliki banyak
+pengalaman dalam aspek people-to-people
+exchange. Hingga saat ini, Japan International
+Cooperation Agency (JICA) telah menjalankan
+berbagai program, seperti JENESYS, yang
+berfokus pada pemahaman budaya,
+pengembangan kapasitas, dan kemitraan
+jangka panjang. Pengalaman Jepang di
+bidang ini dapat memberikan wawasan
+berharga bagi UE tentang cara efektif
+berinteraksi dan menjalin hubungan yang lebih
+erat dengan masyarakat Indonesia.
+
+ Perdana Menteri Jepang Fumio Kishida memberikan
+pidato utama pada Pertemuan Dewan Menteri Organisasi
+untuk Kerja Sama dan Pembangunan Ekonomi di Paris
+pada Mei 2024
+
+P A G E  1 2
+
+Kesimpulan dan Rekomendasi Kebijakan
+
+Kemitraan trilateral ini diharapkan dapat
+membantu mengatasi tantangan implementasi
+Global Gateway . Namun, seperti halnya
+kemitraan multilateral lainnya,
+keberhasilannya bergantung pada koordinasi
+yang erat serta penyelarasan prioritas, sumber
+daya, dan strategi di antara para pihak yang
+terlibat.
+Untuk mewujudkan potensi kemitraan
+trilateral UE -Indonesia-Jepang, beberapa hal
+yang dapat dipertimbangkan antara lain:
+a. Membentuk dialog trilateral yang
+terstruktur guna menyelaraskan prioritas
+investasi dan kerangka kebijakan.
+ Gagasan ini dapat diangkat dalam
+berbagai diskusi dengan UE, misalnya
+dalam Komite Bersama Indonesia -Uni
+Eropa ke-8 yang dijadwalkan berlangsung
+pada 13 Maret 2025 di Jakarta.
+
+b. Menyelaraskan proses regulasi  untuk
+mengurangi hambatan birokrasi dan
+mendorong partisipasi sektor swasta.
+
+c. Mengusulkan mekanisme pembiayaan
+campuran ( blended financing ), termasuk
+dana pengembangan bersama antara UE
+dan Jepang.
+
+d. Memperkuat kolaborasi antara industri
+dan akademisi, guna mendorong transfer
+pengetahuan dalam energi terbarukan dan
+inovasi digital.
+
+e. Meluncurkan pilot projects  yang dapat
+menjadi tolok ukur bagi kerja sama
+trilateral di masa depan, khususnya dalam
+bidang energi hijau, ekonomi digital, dan
+infrastruktur perkotaan.
+
+Daftar Pustaka
+
+Department of Foreign Affairs and Trade of
+Australia. (2018). Australia, US, and
+Japan Announce Trilateral Partnership
+for Infrastructure Investment in the
+Indo-Pacific. Tersedia dalam:
+https://
+www.dfat.gov.au/news/news/Pages/
+australia-us-and-japan-announce-
+trilateral-partnership-for-infrastructure-
+investment-in-the-indo-pacific
+
+Direktorat Jenderal Energi Baru, Terbarukan,
+dan Konservasi Energi. (2024).
+Laporan Kinerja 2024 . Tersedia da-
+lam:
+https://www.esdm.go.id/assets/
+media/content/content-laporan-kinerja-
+ditjen-ebtke-tahun-2024.pdf
+
+European Commission. (2021). The EU and
+Japan Commit to a New Green Alli-
+ance to Work Towards Climate Neu-
+trality. Tersedia dalam:
+https://
+climate.ec.europa.eu/news-your-voice/
+news/eu-and-japan-commit-new-green
+-alliance-work-towards-climate-
+neutrality-2021-05-27_en
+
+European External Action Service. (2023). EU-
+Japan Strategic Partnership. Tersedia
+dalam:
+https://www.eeas.europa.eu/
+sites/default/files/documents/2023/EU-
+Japan-2023-07.pdf
+
+___________________________. (2024). EU-
+Indonesia Cooperation 2024 -2025.
+Tersedia dalam:
+https://
+www.eeas.europa.eu/sites/default/
+files/documents/2024/EU-Indonesia%
+20Cooperation%202024-2025%
+20LR.pdf
+
+Japan International Cooperation Agency. (n/a).
+Public-Private Partnerships . Tersedia
+dalam:
+https://www.jica.go.jp/english/
+activities/schemes/priv_partner/
+index.html
+
+Kuesioner Kemanfaatan Policy Brief Badan Strategi Kebijakan Luar Negeri
+
+
+
+
+Survei Kualitas Pelayanan Badan Strategi Kebijakan Luar Negeri

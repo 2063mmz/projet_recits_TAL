@@ -1,0 +1,141 @@
+seed_url: http://www.en.kremlin.ru/events/president/news/60378
+final_url: http://www.en.kremlin.ru/events/president/news/60378
+title: Belt and Road Forum for International Cooperation
+date: 2019-04-26
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Belt and Road Forum for International Cooperation
+Vladimir
+Putin attended the second
+Belt and Road
+Forum for International Cooperation
+April 26, 2019
+06:30
+Beijing
+Vladimir Putin spoke at the opening
+ceremony of the forum business program.
+The
+Belt and Road
+Forum takes place in Beijing on April 25–27.
+* * *
+President of Russia Vladimir Putin:
+President Xi Jinping, Ladies and gentlemen,
+First of all, I would like to thank
+my good friend President of China Xi Jinping for inviting me to attend the second
+Belt and Road
+Forum for International
+Cooperation.
+I would
+like to express my appreciation for the opportunity to be here in such a large
+representative group and to meet with each other, to discuss current issues of global
+development and principles of cooperation.
+I have listened with great interest – as I am sure many other people in this hall have – about the principles and goals of China’s development, that is, how the People’s Republic of China, the world’s largest economy today in terms of purchasing power parity, is planning to develop and build relationships with its partners.
+This is of fundamental importance both
+for Russia and, I am sure, for many of our colleagues who have gathered here in Beijing today.
+It is obvious that the implementation of this ambitious project,
+Belt
+and Road
+, promoted by our Chinese colleagues, is aimed at strengthening the constructive cooperation of the Eurasian states.
+Its truly unifying goal is to ensure
+harmonious and sustainable economic development and economic growth throughout
+the Eurasian space.
+Russia has emphasised on numerous
+occasions that PRC President’s
+Belt and Road
+initiative rimes with Russia’s idea to establish a Greater Eurasian Partnership,
+a project designed to ‘integrate integration frameworks’, and therefore to promote a closer alignment of various bilateral and multilateral integration
+processes that are currently underway in Eurasia.
+Russia is ready to undertake efforts
+for creating a transparent and enabling environment in order to promote
+cooperation across Eurasia.
+It is important that we come up with
+effective ways of responding to the risks of a fragmented global political,
+economic and technological landscape and growing protectionism, with
+illegitimate unilateral restrictions imposed bypassing the UN Security Council
+or, even worse, trade wars as its most dangerous expressions.
+It is our firm belief that only by working together can we counter urgent challenges such as decelerating economic
+growth, the deepening prosperity gap among nations as well as technological
+backwardness.
+Let me repeat what I have said on numerous occasions: these negative trends feed terrorism, extremism and illegal
+migration flows, causing old regional conflicts to resurface and new ones to emerge.
+I strongly believe that Eurasia can
+become a role model in devising a meaningful and positive agenda for overcoming
+these and other urgent international problems.
+Peoples of various cultures,
+religions and traditions have inhabited the vast Eurasian space for millennia.
+Of course, there were wars and conflicts throughout the continent’s history, but sooner or later they
+subsided, while common sense and the natural aspiration of the people to peace
+and communication always triumphed at the end of the day.
+Russia is interested in the closest
+cooperation with all Eurasian partners on the basis of unshakable principles of respect for the sovereignty, rights and legitimate interests of each state. It
+is on these principles that we are building the Eurasian Economic Union, with
+our partners – Armenia, Belarus, Kazakhstan, and Kyrgyzstan.
+Soon, on May 29, the EAEU will have
+been in existence for five years. Over this period, a common market has been
+created, and conditions are being created to ensure the free movement of goods,
+services, capital and labour. Common markets have been formed, as well as a common digital space.
+In his remarks just now, President Xi
+Jinping spoke about linking his initiatives with similar ones and with other associations
+that are forming in our vast space. This absolutely fits into our plans.
+The EAEU states are actively working
+to strengthen industrial and technological cooperation, to build efficient
+transport and logistics chains.
+And we, too, together with our
+Chinese friends, with all our partners, will talk more during our meetings
+today and tomorrow, we will continue coordinating this work, work of a global
+nature.
+We also continue pursuing the policy
+of harmonising our monetary and fiscal policies.
+At the same time, the Eurasian
+Economic Union strives for the widest possible cooperation with all interested
+countries and associations.
+I am primarily referring to the People’s Republic of China, the country we consider to be our key supporter, our
+natural partner in the integrated development of the continent.
+The five EAEU member states have unanimously
+supported the idea of pairing the EAEU development and the Chinese Silk Road
+Economic Belt project. The agreements reached in this regard are being
+successfully implemented. In the coming months, the Agreement on Trade and Economic Cooperation between the EAEU and China will enter into force.
+The Eurasian Union is committed to liberalising economic ties with its other partners as well, and has already
+signed a free trade agreement with Vietnam and a provisional agreement with
+Iran paving the way to the creation of a free trade area. The preparation of similar instruments with Singapore and Serbia is nearing completion, and talks
+are underway with Israel, Egypt and India.
+We cooperate actively with the Shanghai Cooperation Organisation and the Association of Southeast Asian
+Nations.
+We undoubtedly stand for expanding
+business ties with the European Union, our long-standing and traditional
+partner, in a constructive and equitable manner. Even if there are currently
+some differences between us, they cannot and should not cast a shadow on our shared
+responsibility for the future of Europe and all of Eurasia.
+Let me emphasise that the Great
+Eurasian Partnership and
+Belt and Road
+concepts are both rooted in the principles and values that everyone
+understands: the natural aspiration of nations to live in peace and harmony,
+benefit from free access to the latest scientific achievements and innovative
+development, while preserving their culture and unique spiritual identity. In other words, we are united by our strategic, long-term interests.
+I strongly believe that the comprehensive
+approach that underpins both concepts will help us further enhance economic
+cooperation within the continent, develop shared transport and energy
+infrastructure and promote digital technology. This way, integration will serve
+the interests of our peoples and all Eurasian nations to the fullest extent.
+Once again, I would like to thank
+our partners, our Chinese friends for this initiative. Thank you for your
+attention.
+Thank you very much.
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 26, 2019, 06:30
+Direct link:
+en.kremlin.ru/d/60378
+Text version

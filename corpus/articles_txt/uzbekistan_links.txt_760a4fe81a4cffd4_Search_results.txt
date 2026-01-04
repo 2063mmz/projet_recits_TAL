@@ -1,0 +1,94 @@
+seed_url: https://president.uz/en/search/index?SearchForm%5Btext%5D=9&page=92
+final_url: https://president.uz/en/search/index?SearchForm%5Btext%5D=9&page=92
+title: Search results
+date: 17 August 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Search results
+By keyword
+"9"
+found 2042 entities
+Presidents of Uzbekistan and Tajikistan held negotiations in a narrow format
+17 August 2018
+Landscaping and cleanliness is an important factor of public health
+9 August 2018
+To the participants of the international conference «Topical issues of studying and promoting Uzbek classical and modern literature abroad»
+7 August 2018
+President of Uzbekistan received the President of the European Bank for Reconstruction and Development
+1 August 2018
+The task is set to raise the system of general secondary education to a new level
+17 July 2018
+President of Uzbekistan receives World Bank Vice President
+13 July 2018
+Nuclear power engineering will develop for peaceful purposes
+10 July 2018
+Shavkat Mirziyoyev congratulates people of Kazakhstan on Astana’s 20th anniversary
+6 July 2018
+President gives instructions on development of Olmazor district
+29 June 2018
+President becomes familiar with toys production
+29 June 2018
+Shavkat Mirziyoyev: creative spirit in a landscaped makhalla
+29 June 2018
+On telephone conversation of the President of Uzbekistan with the President of Turkmenistan
+29 June 2018
+Tasks for implementation of “Obod qishloq” and “Obod makhalla” programs are identified
+27 June 2018
+Analysis of activities on attraction of foreign investments and implementation of investment projects
+21 June 2018
+On telephone conversation of Presidents of Uzbekistan and Turkey
+16 June 2018
+Shavkat Mirziyoyev talked with farmers
+12 June 2018
+Shavkat Mirziyoyev: scientific approach is needed to get more income
+12 June 2018
+President of Uzbekistan met with the Head of China
+9 June 2018
+Shavkat Mirziyoyev met with Vladimir Putin
+9 June 2018
+President Shavkat Mirziyoyev received the First Deputy Secretary-General of the United Nations
+9 June 2018
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

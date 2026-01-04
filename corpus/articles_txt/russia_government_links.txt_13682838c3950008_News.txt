@@ -1,0 +1,88 @@
+seed_url: http://government.ru/en/news/50455/
+final_url: http://government.ru/en/news/50455/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+28th regular meeting of Russian and Chinese heads of government
+19 December 2023
+14:00
+The meeting was held as part of Mikhail Mishustin’s working visit to China.
+The 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+The 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+The 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Mikhail Mishustin and Premier of the State Council of the People's Republic of China Li Qiang during the signing of documents following the 28th regular meeting of the heads of government of Russia and China
+19 December 2023
+Предыдущая новость
+Следующая новость
+The 28th regular meeting of the heads of government of Russia and China
+Mikhail Mishustin’s remarks:
+Mr Li
+Qiang,
+I am very
+happy to visit Beijing
+again and to be part of the 28
+regular meeting of the Russian and Chinese heads of government with you.
+After the break in personal contact, due to the difficult epidemiologic situation, we
+have resumed the in-person meetings under our unique intergovernmental
+mechanism. Thus, it will be possible to discuss the current issues on the bilateral agenda in detail and with confidence.
+As President of Russia Vladimir Putin and President of China Xi Jinping said,
+Russian-Chinese relations are at a high point in their history. Further developing our relations
+is in the interest of both countries.
+We have a special model for intergovernmental cooperation based on a mutually respectful,
+equal, and confident dialogue.
+Visit
+Mikhail Mishustin meets with Premier of the State Council of the People's Republic of China Li Qiang
+Cooperation
+in these significant areas is carried out under the strategic guidance of our
+countries’ leaders. This year, they met twice. In March, Mr Xi Jinping visited Russia.
+In October, President Vladimir Putin took part in the Belt and Road
+International Forum as the main guest.
+In today’s
+geopolitical conditions, Russia
+and China’s
+relations have successfully passed the test of strength. They show a high
+degree of stability.
+Since the beginning of this year, mutual trade has grown by almost one third, with most –
+over 90 percent – of transactions made in national currencies, which demonstrates
+the almost complete de-dollarisation of economic ties.
+completed the goal set by the leaders of our states to increase bilateral trade
+ahead of schedule.
+We are
+confidently expanding the horizons of investment cooperation. Over the past ten
+years, the Russian Direct Investment Fund has made a significant contribution
+to this. Over 40 joint initiatives have been implemented with our Chinese
+partners. We are also launching new projects in the automotive industry, and in the mining and petrochemical sectors.
+Today,
+additional opportunities are opening up for this cooperation. And we welcome
+the activity of Chinese businesses in the Russian market.
+We also
+welcome the decision of the State Council of the People’s Republic of China
+to facilitate imports from the Russian agricultural sector to the Chinese
+market. We are ready to increase the volumes in this area. In addition, the volume of Russian energy exports to China is steadily increasing.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/50455/
+Highlight selection

@@ -1,0 +1,38 @@
+seed_url: https://president.mn/en/2023/10/19/statement-at-the-third-belt-and-road-forum-for-international-cooperation/
+final_url: https://president.mn/en/2023/10/19/statement-at-the-third-belt-and-road-forum-for-international-cooperation/
+title: STATEMENT AT THE THIRD BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+date: 2023-10-19T10:35:50+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2023/10/19 6:35:50
+STATEMENT AT THE THIRD BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+STATEMENT BY H.E. MR. UKHNAA KHURELSUKH AT THE DISCUSSION ON ‘CO-BUILDING A GREEN SILK ROAD TO PROMOTE HARMONIOUS COEXISTENCE BETWEEN HUMANITY AND NATURE’ AT THE THIRD BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+Dear President Xi Jinping,
+Heads of Delegations,
+Ladies and Gentlemen,
+A decade has elapsed since President Xi Jinping launched the Belt and Road Initiative.
+We are pleased to observe that the Belt and Road Initiative has evolved into a pivotal regional platform for development. It is rooted in the principles of sharing development potential, mutual learning, and equitable cooperation, guided by the ethos of “extensive consultations, collaborative endeavors, and shared benefits.”
+The Belt and Road Initiative plays a crucial role in bolstering global economic growth and promoting enhanced international economic collaboration. Its most significant impact is felt in the post-pandemic economic recovery and in the development and progress of participating countries.
+The Initiative’s commitment to fostering sustainable development, preserving natural resources, and introducing eco-friendly, healthy and clean practices aligns seamlessly with the United Nations’ Sustainable Development Goals for 2030.
+The “Beijing Initiative for Green Development of the Belt and Road” launched during this conference is instrumental in enhancing the cooperation between countries to achieve sustainable development goals, mitigate the adverse effects of climate change, combat desertification, and promote green infrastructure, investment and financing.
+I wish to underscore the significance of the Belt and Road Initiative and notably the Mongolia-China-Russia Economic Corridor for Mongolia, a country which has two eternal neighbors, the People’s Republic of China and the Russian Federation. These initiatives serve as crucial avenues for expanding access to broader markets by establishing robust infrastructure linkages with our two neighbors and other regional partners.
+The Mongolia-China-Russia Economic Corridor is among the six corridors currently under development as part of the Belt and Road Initiative.
+Mongolia remains committed to advancing the sustainable development goals while implementing projects and programs within the scope of the Economic Corridor. To this end, we are dedicated to diversifying our economy and introducing cutting-edge, high-productivity technologies aimed at reducing waste and environmental pollution. This approach will foster a harmonious environment conducive to human well-being while preserving and safeguarding the delicate ecological balance and ensuring the long-term sustainability of natural resources
+Green development constitutes the cornerstone of humanity’s sustainable progress.
+Hence, Mongolia’s long-term development policy pivots on green development as its foundation and starting point. This policy aims to foster economic, infrastructural, and regional growth in harmony with the country’s unique natural resource assets and geographical location.
+Within its Green Development Policy, Mongolia has committed to the prudent, efficient, and judicious utilization of natural resources. This entails aligning policies and planning with green development principles, advancing clean and cutting-edge technologies, actively involving the populace, fostering eco-friendly behaviors and mindsets, and ensuring transparency, responsibility, and rigorous oversight.
+In this context, Mongolia has launched three national movements: “Billion Trees”, “Food Supply and Security”, and “Healthy Mongolians”. These endeavors are directed towards attaining sustainable development goals and their widespread implementation across the nation.
+Ladies and Gentlemen,
+Mongolia has also become a member of the International Green Development Coalition established under the Belt and Road initiative.
+Preparations are well underway for Mongolia to host the 17th Session of the Conference of Parties to the UN Convention to Combat Desertification in 2026.
+We are confident that this conference will serve as a pivotal platform for countries to share their own and regional best practices in combating land degradation and desertification and discuss strategies to address the triple environmental crisis, strengthen sustainable forest management, and formulate future policies, objectives, and actions.
+Mongolia has launched its “One Billion Trees” national movement to mitigate the adverse effects of climate change and combat desertification and has pledged to plant and nurture billions of trees by 2030.
+Its successful implementation will lead to increased forest cover, enhanced greenhouse gas absorption, reduced dust storms, and desertification, as well as improved agricultural production, food security, and increased employment opportunities. It will play a significant role in addressing numerous social and economic challenges and contribute significantly to preserving the balance of the region’s ecosystem.
+During our official talks with President Xi Jinping, we had agreed to establish the Mongolia-China Anti-Desertification Center.
+In addition, Mongolia possesses an extensive renewable energy potential of 2,600 gigawatts. We are prioritizing the development of clean and sustainable energy sources as a basis of our commitment to advancing green development.
+In this regard, our objective is to improve the business environment conducive to green development and foster active engagement with both investors and the international community.
+Mongolia is dedicated to the harmonious integration of economic and social progress with the preservation of our environment and ecology. We are committed to actively advocating for environmentally friendly standards and the adoption of best practices, while also intensifying our partnerships within the clean and emerging energy sectors. Our shared vision is to forge the Green Silk Road that promotes the harmonic coexistence of humanity and nature. We eagerly await the opportunity to collaborate with you on these endeavors.
+Thank you for your kind attention.

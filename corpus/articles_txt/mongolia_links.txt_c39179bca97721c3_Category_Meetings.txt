@@ -1,0 +1,27 @@
+seed_url: https://president.mn/en/category/meetings/page/31/
+final_url: https://president.mn/en/category/meetings/page/31/
+title: Category : Meetings
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/05/17 7:09:18
+MEETING WITH THE HU BAND
+Today, President of Mongolia Khaltmaagiin Battulga received the members and producer B.Dashdondog of the Hu Band, a rock group from Mongolia
+2019/05/07 9:24:31
+MEETING WITH REPRESENTATIVES OF EIGER BIOPHARMACEUTICALS, INC.
+Today, President of Mongolia Khaltmaagiin Battulga met representatives of U.S. based Eiger BioPharmaceuticals, Inc., including David A. Cory, President and
+2019/05/05 4:37:37
+MEETING WITH FEMALE MEMBERS OF THE PARLIAMENT
+On May 3, President of Mongolia Khaltmaagiin Battulga met female members of the Parliament, the 13 of whom make the
+2019/05/03 1:31:31
+MEETING WITH MICHEL FORST, UN SPECIAL RAPPORTEUR ON THE SITUATION OF HUMAN RIGHTS DEFENDERS
+President of Mongolia Khaltmaagiin Battulga received Michel Forst, the United Nations Special Rapporteur on the situation of human rights defenders,
+2019/05/01 11:09:42
+MEETING WITH LEADERS OF THE AGENCIES IN CHARGE OF NATIONAL SECURITY
+On April 30, President of Mongolia and Head of the National Security Council Khaltmaagiin Battulga met the leaders of special-function
+2019/04/29 11:58:54
+MEETING WITH WANG DONGFENG, COMMUNIST PARTY SECRETARY OF HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for

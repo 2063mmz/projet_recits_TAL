@@ -1,0 +1,42 @@
+seed_url: http://www.mcinet.gov.ma/fr/content/lancement-de-la-2%C3%A8me-phase-du-projet-dicastal-morocco-africa-0
+final_url: https://www.mcinet.gov.ma/fr/content/lancement-de-la-2%C3%A8me-phase-du-projet-dicastal-morocco-africa-0
+title: Lancement de la 2ème phase du projet Dicastal Morocco Africa | Ministère de l’Industrie et du Commerce
+date: 2025-12-24T12:00:00Z
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Lancement de la 2ème phase du projet Dicastal Morocco Africa
+Le projet DICASTAL MOROCCO AFRICA fait partie à la fois de l’initiative « One Road, One Belt » lancée par la Chine et du Plan d’Accélération Industrielle du secteur de l’automobile au Maroc.
+Le Groupe CITIC DICASTAL a choisi de faire bâtir sa première unité industrielle de production de jantes en Aluminium au Maroc au sein de la zone franche de Kénitra, une usine à la pointe de la technologie qui a été inaugurée en Juin 2019 et qui à présent, tourne à pleine capacité pour livrer ses clients au Maroc, aux USA et en Europe.
+Cinq mois après le démarrage réussi de cette première phase du projet, le géant Chinois CITIC DICASTAL anticipe et se lance dans la réalisation de la deuxième phase sur plus de 30.000 m² avec pour objectif la construction de cette usine en moins de 8 mois. Une structure qui sera dotée d’une technologie encore plus avancée, surtout au niveau de la section peinture, ce qui permettra de proposer des produits premium ainsi qu’une gamme de jantes plus grandes. À terme, le projet global devrait permettre la création d’environ 1200 emplois à l’horizon 2020, pour un investissement global de 350 millions d’euros.
+Aujourd’hui, Lundi 25 Novembre 2019, on assiste à la cérémonie du premier coup de pelle de la deuxième phase du projet Dicastal Morocco Africa. Cet événement d’une grande envergure sera présidé par M. Moulay Hafid Elalamy Ministre de l’Industrie, du Commerce et de l’Économie Verte et Numérique, Son Excellence M.LI Li, Ambassadeur de la République Populaire de Chine au Maroc, M. Huang Zhiqiang, Vice-Président de CITIC Group, M.Mei Xinglong, Vice-Président de Citic Dicastal et M.Badr Lahmoudi, Directeur Général de Dicastal Morocco Africa.
+A cette occasion, M. le Ministre a souligné que ce projet découle du partenariat stratégique signé par les deux Chefs d'Etat et positionne le Maroc dans une industrie de haute technologie. Nous nous réjouissons du lancement aujourd'hui d'une deuxième phase très prometteuse d'un projet né d'une rencontre d'affaires avec le leadership de Dicastal et contractualisé dans des temps records.
+« Le Maroc a su gagner la confiance du Groupe et a démontré le potentiel du pays grâce à sa plateforme riche en compétences qualifiées et compétitives. Actuellement, le groupe vise à consolider ses acquis et à mettre en place une stratégie de développement humain, en collaboration étroite avec les équipes en Chine, afin d’accompagner les talents et les compétences Marocaines. A cet effet, la phase de recrutement ne tardera pas à se mettre en place pour préparer les nouveaux recrus à nos métiers technologiques au sein de la première usine ainsi qu’en Chine »
+a déclaré M. Badr Lahmoudi, Directeur Général de Dicastal Morocco Africa.
+Quelques dates clés :
+- 11 Décembre 2017 : Signature du contrat cadre – écosystème PSA
+- 26 Juillet 2018 : Signature de la Convention d’investissement.
+- 24 Septembre 2018 : Démarrage des travaux de construction.
+- 25 Mai 2019 : Production de la première jante qualifiée.
+- 20 Juin 2019 : Présentation des premiers produits « made in Morocco » lors de l’inauguration de l’écosystème de PSA devant Sa Majesté le Roi Mohammed VI, que Dieu L’assiste.
+- 26 Juin 2019 : Inauguration du 1er site Maroc.
+- 25 Novembre 2019 : Démarrage des travaux de construction de la 2ème phase du projet.
+Partager cet article
+Lire Aussi
+24 Décembre 2025
+Pose de la première pierre du projet de la société EUWEN TEXTILES, filiale du groupe chinois SUNRISE, au sein de la zone industrielle de Bensouda à Fès
+Monsieur Ryad MEZZOUR, Ministre de l’Industrie et du Commerce accompagné de Monsieur Karim ZID...
+IMM: Somasteel procède à l’inauguration de l’extension de son unité industrielle
+La société Somasteel, spécialisée dans le laminage à chaud des aciers bas carbone pour la prod...
+Marrakech accueille une retraite ministérielle africaine pour consolider la position africaine à l’OMC
+La retraite ministérielle, tenue, le 11 décembre 2025, à Marrakech, en marge de la deuxième éd...
+Vidéos
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+Signature d’une convention de partenariat et lancement du programme ALTEN BRIDGE
+Inauguration à Kénitra d’une 3ème unité industrielle du groupe chinois Citic Dicastal
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.

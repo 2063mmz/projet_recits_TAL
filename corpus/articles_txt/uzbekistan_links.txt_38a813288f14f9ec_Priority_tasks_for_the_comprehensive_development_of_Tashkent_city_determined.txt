@@ -1,0 +1,94 @@
+seed_url: https://president.uz/en/lists/view/8788
+final_url: https://president.uz/en/lists/view/8788
+title: Priority tasks for the comprehensive development of Tashkent city determined
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Priority tasks for the comprehensive development of Tashkent city determined
+16.12.2025
+On December 16, under the chairmanship of President Shavkat Mirziyoyev, a meeting was held dedicated to the comprehensive socio-economic development of Tashkent, improving the urban environment, and creating decent living conditions for the population.
+First, the results of work carried out in the capital were reviewed. It was noted that Tashkent has undergone significant changes in recent years.
+Over the past nine years, more than $20 billion in foreign direct investment has been attracted to the city’s economy, and around 5,000 large projects have been implemented. Foreign direct investment per capita increased from $71 in 2017 to $2,200.
+Extensive constructive work, the introduction of new trade, service, and entertainment facilities have given impetus to the development of the “night economy”. The number of 24-hour trade and service facilities has exceeded 3,000.
+Tashkent has received 1,000 modern electric buses and buses, and 168 new routes have been opened. Additionally, 33 kilometers of metro lines and 21 new stations have been constructed. For nearly 1 million residents of the Yashnabad, Mirabad, Sergeli, Yangihayot, and Yunusabad districts, metro services have become significantly more accessible.
+Overall, the capital’s economy has grown 2,5 times over the past nine years, and this year it is expected to reach $27 billion. Per capita income has increased from $4,400 to $8,600.
+As a result, the poverty rate is expected to decrease from 7.3% at the beginning of the year to 1%, and unemployment from 4.5% to 3.5%. Thus, in Tashkent, poverty and unemployment levels will reach a natural baseline.
+The city’s permanent population increases by an average of 100 thousand people annually and, according to forecasts, will exceed 3,5 million by 2030. At the same time, it is planned to raise the gross regional product (GRP) to $52 billion and nearly double per capita income.
+It was emphasized that achieving these goals requires active and systematic work by the city’s mayor, his deputies, and the heads of the 12 districts, as well as a reconsideration of approaches to housing, transport, energy, education, healthcare, and service infrastructure development in Tashkent according to modern global megacity standards.
+In this regard, it was approved to engage experienced specialists from major megacities as advisors to the mayor. It was noted that, relying on their extensive experience, Tashkent should be gradually transformed into a center of finance, advanced technologies, culture, and tourism.
+The Head of State also pointed out that many issues remain unresolved and proposed a number of new initiatives.
+First and foremost, city leaders need to change their approach to addressing environmental issues, creating high-income jobs, and ensuring effective management—issues that are particularly important to the population. 2026 will be declared “The Year of Accelerated Development and Income Growth” for Tashkent. A large-scale program will be launched to implement this initiative
+, - stated the President.
+The capital's districts will develop in three main directions. The goal is to attract $9 billion in 2026 and $20 billion in foreign direct investment over two years.
+In particular, high-tech industry and logistics will be the growth points in the Sergeli, Yangikhayot, and Bektemir districts. For example, next year, a modern agricultural logistics and warehouse complex worth $70 million and covering an area of 120 thousand square meters will be put into operation in the Sergeli district.
+In the Yangi Avlod industrial zone in the Yangikhayot district, projects worth $2 billion are being implemented in the fields of electrical engineering, textiles, automotive, and food industries. The zone will be expanded by 640 hectares in the Yangikhatay and Bektemir districts, which will allow for the launch of new environmentally friendly and high-tech projects with a total value of $3 billion.
+In the Uchtepa, Chilanzar, Yakkasaray, Shaykhantakhur, and Almazar districts, the priority areas for investment will be services, the creative economy, design, and tourism.
+In the Mirzo-Ulugbek, Yunusabad, Mirabad, and Yashnabad districts, projects worth $1 billion will be implemented in the fields of artificial intelligence, startups, fintech, finance, medicine, and education.
+This year, 26 streets in the capital have been converted to operate 24/7. With 1,200 trade and service facilities located on these streets, 5,000 residents earned income. Next year, the goal is to create 18 more such streets.
+Currently, the capital requires the construction of 75 schools and the same number of kindergartens, as well as 23 sports facilities.
+It has been determined that district mayors will annually build one facility of each type—a school, a kindergarten, and a sports facility—using independently attracted funds. Additionally, 15 schools and kindergartens, as well as 11 sports facilities, will be constructed each year under the investment program.
+From this year, in each district of Tashkent, a program to improve the quality of education has been launched based on one school. Within this program, 1,5 thousand students in grades 7–11 have been selected and are being trained in IT, medicine, business, and engineering. Depending on student performance, teachers receive a monthly salary of up to 20 million soms.
+The goal is to expand this experience, increasing the number of such schools to 24 next year and 33 by 2027.
+As in the world’s largest megacities, the capital will establish a unified transport management center. It will analyze traffic and pedestrian flows on every street and intersection using artificial intelligence, helping to prevent congestion and road accidents.
+Next year, two city entry checkpoints will be relocated outside the capital, and three more will be reconstructed. Parking will be provided for at least 3,5 thousand trucks and 5,5 thousand passenger cars, along with camping facilities for residents.
+Most importantly, these points will be integrated with the public transport network, allowing visitors to leave their cars outside the city and move around Tashkent quickly and safely.
+Next year, the Tashkent city khokimiyat has been tasked with implementing 100 “smart” intersections with a unified traffic light management center, constructing 30,000 parking spaces together with entrepreneurs, reconstructing 300 bus stops, laying 40 km of pedestrian paths and 20 km of bike lanes, repairing 100 km of roads, and building an overpass and a tunnel in Yunusabad and Yashnabad districts. Additionally, the city plans to purchase 200 electric buses.
+The importance of environmental issues in the capital continues to grow, as in the world’s largest cities.
+Projects are to be prepared and construction started for artificial lakes and ponds in four city zones. By June 1, each district will have three shaded 5-kilometer walking streets. A separate program will launch the creation of one park for every ten mahallas.
+In 2026, 18.5 kilometers of canal banks will be strengthened, with the simultaneous creation of green zones and walking spaces.
+Additionally, by reinforcing a 16-kilometer section of the Chirchik river passing through the Bektemir, Sergeli, and Yangihayot districts, 800 hectares of land will be developed. This area will include a 200-hectare green belt, 250 hectares of internal roads, walking areas, pedestrian paths, and bike lanes.
+A master plan for the city’s drainage system has been developed, with construction starting next year. The program includes building 150 km of closed drainage networks, repairing 197 km of canals and collectors, and creating 63 km of new channels to form a cooler urban microclimate.
+Seventeen rainwater collection facilities will be built, which are planned to be used for watering trees and green areas.
+All municipal services and emergency agencies in the capital will switch to round-the-clock operation to prevent emergencies, respond to them promptly, and strengthen measures to ensure public safety.
+The capital is the political, administrative, economic, and cultural center of the state. Approaches to its management, development, and protection must be special
+, - emphasized the President.
+In this regard, it was proposed to grant the Tashkent City Kengash the authority to allocate 20 percent of the excess revenue returned to the local budget for distribution among the districts, as well as to allow the city and district hokims, in agreement with the local councils, to place free funds on deposit.
+The need to adopt a law “On the Status of the Capital of the Republic of Uzbekistan,” defining the legal, economic, and organizational foundations of the city of Tashkent's activities, was noted.
+It was emphasized that the capital should become a leader in improving the efficiency of the “mahalla seven.” Starting in 2026, a new system will be introduced in Tashkent, whereby the “mahalla seven” will be completely subordinated to the city hokimiyat.
+The Seven should not be concerned with reports, but with making people's lives easier
+, - said the President of our country.
+During the meeting, reports from the khokims of the capital and districts were heard, and a dialogue with entrepreneurs took place.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

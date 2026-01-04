@@ -1,0 +1,11 @@
+seed_url: https://www.ifa.gov.et/2024/05/13/mou-has-been-signed-between-ifa-and-the-higher-institute-of-international-relations-raul-roa-garcia-of-the-republic-of-cuba/
+final_url: https://www.ifa.gov.et/2024/05/13/mou-has-been-signed-between-ifa-and-the-higher-institute-of-international-relations-raul-roa-garcia-of-the-republic-of-cuba/
+title: MoU has been signed between #IFA and the #Higher Institute of International Relations “Raúl Roa García” of the Republic of Cuba
+date: May 13, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+MoU has been signed between #IFA and the #Higher Institute of International Relations “Raúl Roa García” of the Republic of Cuba
+An official Memorandum of Understanding (MoU) has been formally signed between the Institute of Foreign Affairs #(IFA) of the Federal Democratic Republic of #Ethiopia and the Higher Institute of International Relations #”Raúl Roa García” of the Republic of Cuba. H.E. Mr. Jafar Bedru, Executive Director of The Institute Of Foreign Affairs (IFA), and H.E. Mr. Jorge Fernando Lefebre Nicolás, Ambassador of the Republic of #Cuba, signed the agreement. This MoU will provide a solid foundation for fostering mutual cooperation and collaboration, further strengthening the already esteemed relationship between these two prestigious institutions. It is worth emphasizing the substantial importance of this agreement, which will be implemented with the utmost professionalism, establishing legal rights and obligations for both participating nations.

@@ -1,0 +1,80 @@
+seed_url: http://government.ru/en/news/48311/
+final_url: http://government.ru/en/news/48311/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk chairs a Council of the Eurasian Economic Commission meeting
+21 April 2023
+17:45
+The meeting participants reviewed a range of issues to improve stability of the union’s economy.
+On 20-21 April, Moscow hosted a meeting of the Council of the Eurasian
+Economic Commission (EEC Council) chaired by Deputy Prime Minister Alexei
+Overchuk.
+The meeting participants discussed a range of items on the EEC Council’s agenda
+to promote the legal framework and further stabilise the union’s economy. They focused,
+in particular, on removing internal market barriers in the EAEU member states,
+approaches to organising centralised trade in electricity in the common energy
+market, the results of the work of the natural monopolies within the EAEU and
+cooperation on the climate agenda.
+The progress in the implementation of the Strategic Guidelines for Promoting
+Eurasian Economic Integration to 2025 was reviewed. The final report will be submitted
+to the heads of the EAEU member states at the Supreme Eurasian Economic Council
+meeting.
+The commission’s report on implementing approaches to promoting trade and
+economic cooperation with the main EAEU partners in the medium term, based on
+2022 performance, was approved.
+The EEC Council members approved
+the Supreme Eurasian Economic Council’s draft resolution which provides for
+financial assistance in the form of subsidising interest rates on credit and
+loans issued by financial institutions for implementing joint cooperation
+projects. The draft resolution provides for setting aside, for these purposes,
+funds from the union’s budget in the amount of 10 percent of the total revenue going
+into the EAEU member states’ budgets from the special anti-dumping and compensatory
+duties.
+A draft resolution adopted by the Supreme Eurasian Economic Council on
+amending regulations governing EEC work was approved. It gives the EEC Council
+the authority to approve the rules for issuing licenses and permits for exporting
+and/or importing the goods included on the single list of goods subject to
+non-tariff regulations applied to trade with third countries.
+The 2022 draft report “On maintaining and expanding transport
+infrastructure in the EAEU member states in the East-West and North-South
+directions, including as part of aligning them with China’s Belt and Road Initiative,
+was supported. The report will be presented at a meeting of the Eurasian
+Intergovernmental Council.
+The participants were updated on the results of the first phase of the effort
+to create electronic document flow at port checkpoints in the EAEU member
+states. A 2023-2025 draft action plan to promote digital document flow at port checkpoints
+was approved.
+The 2022 EEC’s annual report on
+the status of competition in cross-border markets and measures to curb
+violations of the general regulations of competition in these markets was approved.
+The EEC’s annual report on monitoring the assessment of the regulatory impact
+of the EEC’s draft decisions in 2022 was approved.
+The rules for determining the country of origin of certain types of goods for
+the purposes of state (municipal) procurement were amended.
+The EEC Council decided to extend the deadline for implementing a pilot programme
+to implement a traceability mechanism for goods imported into the EAEU customs
+territory. A draft agreement on a harmonised system for determining the country
+of origin of goods exported from the EAEU customs territory was approved as
+well. The document is being prepared for signing.
+Digitalising rail freight transportation in the interest of promoting trade
+and economic cooperation between the EAEU and its member states, on the one
+hand, and the People’s Republic of China, on the other, was considered. The
+relevant document has been approved.
+An instruction was adopted that defines approaches to fine-tuning draft
+amendments to the Customs Union’s technical regulations On Food Safety in terms
+of establishing the maximum allowable levels of residual amounts of veterinary
+medicinal products in foods of animal origin.
+The EEC Council meeting participants approved the agendas for the upcoming
+meetings of the Supreme Eurasian Economic Council and the Eurasian
+Intergovernmental Council.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/48311/
+Highlight selection

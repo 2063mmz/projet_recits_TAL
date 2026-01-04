@@ -1,0 +1,23 @@
+seed_url: https://www.ifa.gov.et/2025/10/20/romania-promotes-african-led-solutions-strategic-cooperation-for-development/
+final_url: https://www.ifa.gov.et/2025/10/20/romania-promotes-african-led-solutions-strategic-cooperation-for-development/
+title: Romania Promotes African-Led Solutions, Strategic Cooperation for Development
+date: Oct 20, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+H.E. Julia Pataki, Romania’s Ambassador to Ethiopia, called for a renewed focus on continental cooperation, underscoring the vital importance of building strong African partnerships to foster knowledge-sharing and collaboratively overcome regional hurdles.
+These remarks followed the launch of the 17th International Training on Post-Conflict Stabilization and Reconstruction, organized by the Institute of Foreign Affairs (IFA), Romania’s Ministry of Foreign Affairs, and the Romanian Agency for International Development (RoAid) at the IFA’s Addis Ababa center, running from October 20 to 24.
+The Ambassador emphasized that mutual learning and collaboration are key to finding African solutions to African issues and expressed appreciation to all stakeholders who make such engagement possible.
+In her keynote speech, Daniela Dobre, Director General of Romania’s Agency for International Development, stressed that sustainable development depends on inclusive institutions and coordinated global cooperation.
+She highlighted that Romania’s engagement in Africa, through the Romania-Africa Strategy (2023), is rooted in solidarity, shared values, and partnership, with Ethiopia as a top priority country for development assistance.
+H.E. Daniela noted that programs like these go beyond learning—they provide a platform for networking, knowledge sharing, and collaboration, strengthening long-term connections that support African-led solutions and inclusive growth.
+The program brought together participants from across Africa to exchange experiences and best practices in resilience building and combating disinformation in post-conflict settings.
+This approach reflects the growing recognition that sustainable development and regional stability are best achieved through inclusive, locally led initiatives and strategic cooperation.
+It also contributes to Ethiopia’s broader diplomatic vision of promoting African-led solutions and strengthening continental mechanisms for conflict prevention and reconstruction.
+@Ethiopia
+#Romania
+#Partnerships
+#Africa
+#IFA

@@ -1,0 +1,53 @@
+seed_url: http://government.ru/en/news/51713/
+final_url: http://government.ru/en/news/51713/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk takes part in the Eurasian Economic Commission Council meeting
+29 May 2024
+22:45
+The meeting’s agenda included items dealing with developing the EAEU’s legal framework, improving regulations for specific domains as part of integration processes and other matters within the council’s purview.
+Alexei Overchuk takes part in the Eurasian Economic Commission Council meeting
+Deputy Prime Minister Alexei
+Overchuk took part in the Eurasian Economic Commission Council meeting. Deputy
+Prime Minister of the Republic of Armenia Mher Grigoryan chaired the event and congratulated its participants on EAEU Day. Observed on 29 May, it marked the 10th
+anniversary of signing the Treaty on the Eurasian Economic Union.
+The meeting’s agenda included
+items dealing with developing the EAEU’s legal framework, improving regulations
+for specific domains as part of integration processes and other matters within
+the council’s purview.
+In particular, the Eurasian
+Economic Commission Council decided to approve a single indicative excise duty
+on cigarettes in 2029 while also setting deviation limits for the actual excise
+duties in EAEU member states compared to the indicative rate.
+The participants also approved
+amendments for the Rules of Registration and Expert Reviews of Medical Products
+with the view to streamlining and improving administrative procedures while requiring
+less paperwork from applicants seeking to register changes in their products.
+This procedure aims to improve the availability of medical products to consumers within the EAEU market.
+The agenda also included a commission report on developing a single risk management framework for customs
+clearance operations. This effort provided for outlining further steps to identify the so-called tax-intensive goods. Competent bodies will have to set
+minimal risk indicators for these goods in order to control their value for customs purposes. The commission will submit a decision on this matter to the Eurasian Intergovernmental Council.
+The participants also exchanged
+views on regulating the climate agenda within the EAEU and agreed to deal with
+this matter at the level of prime ministers. The commission spoke out in favour
+of aligning climate regulations in order to avoid any additional barriers
+within the union’s common market.
+The commission approved its
+annual report on the state of competition in cross-border markets and the measures it took to cut short violations of the common rules governing
+competition in 2023.
+The participants also approved
+the commission’s 2023 report titled “Creating and developing East-West and North-South transport infrastructure in EAEU member states, including by coordinating efforts with China’s Belt and Road Initiative.”
+During the meeting, the participants
+agreed on the draft agenda for the next meeting of the Eurasian
+Intergovernmental Council.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/51713/
+Highlight selection

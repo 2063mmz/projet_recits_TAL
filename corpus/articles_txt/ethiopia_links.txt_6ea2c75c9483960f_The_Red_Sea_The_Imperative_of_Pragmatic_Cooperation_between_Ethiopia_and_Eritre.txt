@@ -1,0 +1,14 @@
+seed_url: https://www.ifa.gov.et/2025/11/02/the-red-sea-the-imperative-of-pragmatic-cooperation-between-ethiopia-and-eritrea/
+final_url: https://www.ifa.gov.et/2025/11/02/the-red-sea-the-imperative-of-pragmatic-cooperation-between-ethiopia-and-eritrea/
+title: The Red Sea: The Imperative of Pragmatic Cooperation between Ethiopia and Eritrea
+date: Nov 2, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The article, written by General Bacha Debele, Ambassador of Ethiopia to Kenya published in The Horn Review under the title “The Red Sea: The Imperative of Pragmatic Cooperation between Ethiopia and Eritrea,” contends that the Red Sea is not merely a geographic entity but a vital lifeline for global commerce and regional stability.
+For Ethiopia, maritime access is described as “an existential imperative,” not a nostalgic ambition but a necessity for national survival and regional influence. The author argues that Ethiopia’s engagement with the Red Sea must be guided by pragmatic and mutually beneficial cooperation, particularly with Eritrea.
+The article further argues that Eritrea, under President Isaias Afwerki, has descended into “self-imposed stagnation.” It states that the promise of liberation has been replaced by autocracy, institutional decay, and economic paralysis. Power, it contends, has been personalized to the extent that patriotism is equated with loyalty to one man rather than to the nation, betraying the ideals of Eritrea’s independence struggle.
+General Bacha also maintains that Ethiopia’s loss of its ports remains a legitimate historical and legal concern. Quoting Prime Minister Abiy Ahmed’s 2025 parliamentary address, he notes that Ethiopia’s call for clarity on Red Sea access is “not a threat, but a call for historical truth.” The article accuses Eritrea of undermining regional stability by arming insurgents and engaging in illicit activities—actions that weaken its own sovereignty and isolate it internationally.
+https://hornreview.org/2025/10/31/the-red-sea-the-imperative-of-pragmatic-cooperation-between-ethiopia-and-eritrea/

@@ -1,0 +1,19 @@
+seed_url: https://www.foreign.go.tz/index.php/resources/view/katibu-mkuu-wa-mambo-ya-nje-ziarani-china-kushiriki-mkutano-wa-focac
+final_url: https://www.foreign.go.tz/resources/view/katibu-mkuu-wa-mambo-ya-nje-ziarani-china-kushiriki-mkutano-wa-focac
+title: Katibu Mkuu wa Mambo ya Nje ziarani China kushiriki Mkutano wa FOCAC
+date: 24 Nov 2017
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+News and Events
+Katibu Mkuu wa Mambo ya Nje ziarani China kushiriki Mkutano wa FOCAC
+24 Nov 2017
+News and Events
+952
+Katibu Mkuu wa Mambo ya Nje ziarani China kushiriki Mkutano wa FOCAC
+Prof. Mkenda akizungumza na Kiongozi wa Benki ya AIIB iliyoanzishwa kwa lengo  la kutoa mikopo kwa miradi ya miundombinu kwa nchi wanachama wa Belt and Road. Benki hiyo imeikaribisha Tanzania kujiunga nayo ili iweze kufaidika na fursa za mikopo nafuu. Vilevile, Prof. Mkendaamekutana na uongozi wa Kampuni ya Hainan Group inayomiliki mashirika mbalimbali ya ndege na Hoteli zaidi ya 1000 ulimwenguni. Katika mazungumzo hayo Prof. Mkenda amewashawishi wawekeze kwenye ujenzi wa Hoteli katika maeneo ya Utalii Zanzibar na Tanzania Bara.
+Prof. Mkenda akizungumza na Waandishi wa Habari mara baada ya kufungua Mkutano wa Kuvutia Wawekezaji uliofanyika kwenye Ubalozi wa Tanzania nchini China.
+Katibu Mkuu wa Wizara ya Mambo ya Nje na Ushirikiano wa Afrika Mashariki, Prof. Adolf Mkenda akiwa katika picha ya pamoja na Naibu Waziri wa Mambo ya Nje wa China, Mhe. CHEN Xiaodong mara baada ya kukamilisha mazungumzo ya ushirikiano kati ya Tanzania na China.
+Ujumbe ukifuatilia mazungumzo kati ya Prof. Mkenda na Kiongozi wa Benki ya AIIB (hawapo pichani).  Kutoka kushoto ni Prof. Elisante Ole Gabriel, Katibu Mkuu wa Wizara ya Viwanda, Biashara na Uwekezaji, Dkt. Lu Yongqing, aliyekuwa Balozi wa China nchini Tanzania na Mhe. Mbelwa Kairuki, Balozi wa Tanzania nchini China.

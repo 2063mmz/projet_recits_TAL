@@ -1,0 +1,86 @@
+seed_url: https://president.uz/en/lists/view/2830
+final_url: https://president.uz/en/lists/view/2830
+title: Holiday greetings from abroad
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Holiday greetings from abroad
+29.08.2019
+President of the Republic of Uzbekistan Shavkat Mirziyoyev has been receiving festive congratulations from the heads of foreign states on the 28th anniversary of our national independence. The holiday greetings contain expression of best wishes for success to the leader of our country, peace and harmony, prosperity and well-being to the people of Uzbekistan.
+His Excellency
+Mr. Shavkat Mirziyoyev,
+President of the Republic of Uzbekistan
+Your Excellency Mr. President!
+On the occasion of the 28th anniversary of state independence of the Republic of Uzbekistan allow me, on behalf of the Government and people of China and on my own behalf, to convey sincere congratulations and best wishes to You and the friendly people of Uzbekistan.
+I attach great significance to the development of Sino-Uzbek relations, and highly appreciate the fruitful working relations and robust personal ties that have developed with You.
+Let me express readiness to work with You to strengthen political mutual trust and enhance interaction on the joint construction of One Belt, One Road in order to secure continuous and progressive development of Sino-Uzbek cooperation of comprehensive strategic partnership for the benefit of our two countries and peoples.
+I wish the friendly Uzbekistan might and prosperity, and happiness and well-being to its people.
+Respectfully,
+Xi Jinping,
+President of the People’s Republic of China
+His Excellency
+Mr. Shavkat Mirziyoyev,
+President of the Republic of Uzbekistan
+Dear Shavkat Miromonovich!
+Please accept my most sincere congratulations on the occasion of the national holiday – the Independence Day of the Republic of Uzbekistan.
+Your country has made rather significant achievements in economic and social development. Uzbekistan rightfully enjoys high standing on the world stage and plays a constructive role in regional and international affairs.
+It is worth noting with satisfaction that the relations between our two states, built on the long-time tradition of friendship and mutual respect, are dynamically advancing across areas. I am convinced that we will continue to effectively bolster the strategic partnership and alliance for the benefit of our two peoples and in the interests of ensuring stability and security in the Central Asian region.
+I sincerely wish You, dear Shavkat Miromonovich, a sound health and every success, and prosperity and well-being to all Your fellow citizens.
+Respectfully,
+Vladimir Putin,
+President of the Russian Federation
+His Excellency
+Mr. Shavkat Mirziyoyev,
+President of the Republic of Uzbekistan
+Dear Mr. President:
+On behalf of the American people, I congratulate You and the people of Uzbekistan on Your country’s 28th year of independence on September 1.
+Recalling Your visit to the White House, I greatly value the relationship between our two countries, which has continued to grow stronger over the past year. I commend You on Your continued commitment to Uzbekistan’s future by building stronger, more transparent and accountable institutions that serve the people of Uzbekistan. We are proud to be a partner in Your successes.
+I wish You and the people of Uzbekistan a peaceful and productive year to come and look forward to our continued close cooperation in the years ahead.
+Sincerely,
+Donald J. Trump
+President of the United States of America
+Greeting letters continue to come.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

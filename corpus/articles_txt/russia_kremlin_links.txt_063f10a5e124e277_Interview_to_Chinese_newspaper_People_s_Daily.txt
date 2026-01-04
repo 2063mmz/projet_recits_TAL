@@ -1,0 +1,182 @@
+seed_url: http://en.kremlin.ru/events/president/news/60344
+final_url: http://en.kremlin.ru/events/president/news/60344
+title: Interview to Chinese newspaper People’s Daily
+date: 2019-04-25
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Interview to Chinese newspaper People’s Daily
+Ahead of his working visit to China,
+Vladimir Putin gave an interview to the Chinese newspaper People’s Daily
+(Renmin Ribao)
+April 25, 2019
+01:00
+Question
+: In 2017 you attended the Belt and Road international forum. Could you
+share with us your impressions? What successes were achieved in the past two
+years in your opinion? And what are the areas we still have to work on? What
+topics are you interested in at the second forum?
+President of Russia Vladimir Putin:
+In historical terms, the two years
+that have passed since the first Belt
+and Road international forum in Beijing are a short span of time.
+However, it is already clear that President Xi Jinping’s initiative is really
+opening up extensive opportunities for equitable partnership. Our Chinese
+friends take a creative approach to promoting international economic
+cooperation, and seek to contribute to consolidating interconnected
+relationships and ensuring sustainable development in the whole of Eurasia.
+Such a desire can only be welcomed.
+Naturally, it is
+important for China to successfully promote this large-scale project. And all
+Eurasian states should stand to gain from participation in it. It should help
+them build up their economic potential, make them more competitive and increase
+their living standards. To achieve this it is necessary to take into account
+the interests of all partners and to promote the harmonisation of national
+programmes and development plans. It is necessary not only to trade but also to promote mutual investment and carry out joint infrastructure, transport,
+logistics and environmental projects; to encourage industrial and technological
+cooperation, scientific and academic exchanges, and step up people-to-people
+contacts.
+Russia also has its own vision for the future of regional integration. Together with other member states of the Eurasian Economic Union (EAEU) we are consistently searching for the optimal
+model of cooperation. I am referring to the plans to form the Greater Eurasian
+Partnership or, in other words, a broad network of regional integration
+associations developing in a coordinated way, based on the principles of equality, openness, mutual respect and consideration of each other’s interests.
+It is hard to overstate China’s role in this as Russia’s strategic partner.
+After all, the formation of Greater Eurasia essentially amounts to coupling the EAEU and the Belt and Road concept.
+Question
+: You suggested coupling the EAEU with the Belt
+and Road initiative. Are you satisfied with the progress toward linking these
+two projects? What are your expectations in this regard?
+Vladimir Putin
+: Indeed, in May 2015, President Xi Jinping and I agreed to link the construction of the Eurasian Economic Union and the Silk
+Road Economic Belt. This truly historic initiative was supported by the leaders
+of all the EAEU member states.
+On May 17, 2018, the Agreement on Trade and Economic Cooperation between the EAEU and China was
+signed as a follow-up to this initiative. We expect this document to enter into
+force within the next few months, and the parties will immediately begin to implement it.
+Practical cooperation
+between the Eurasian Economic Commission and the Government of the People's
+Republic of China will need to be put on solid footing and made systematic. Our
+top priority will be to set up a Joint Commission tasked with reviewing
+specific initiatives to couple the EAEU with China’s Belt and Road initiative.
+We believe that projects in transport, energy, environment, trade, finance and the digital economy will enjoy priority.
+I am confident that
+following the upcoming 2
+Belt and Road Forum for International
+Cooperation in Beijing, in which I plan to take part, the integration processes
+promoted by our countries in the Eurasian space will receive another powerful
+boost.
+Question
+: You have met with President Xi Jinping many
+times and, as leaders, have mapped out important plans to develop Russian-Chinese relations. What is the role of meetings
+between the leaders in promoting bilateral relations?
+Vladimir Putin
+: You correctly noted that I regularly meet
+with President Xi Jinping. I value the relations of friendship and mutual
+respect that have developed between us, which make it possible to build on bilateral cooperation in all areas from politics and trade to military-technical and humanitarian areas.
+Of course, that kind
+of trust-based dialogue helps more effectively coordinate the positions of Russia and China on key issues of the international and regional agenda and jointly develop responses to the most pressing challenges of our time.
+As I noted earlier, our next meeting
+will take place in Beijing quite soon. We will talk not only during the Belt
+and Road Forum, which I already mentioned, but will also hold talks as part of the bilateral meeting of the leaders of Russia and China. And we look forward
+to President Xi Jinping’s visit to Russia this year.
+Question
+: This year we mark the 70
+anniversary of diplomatic relations between China and Russia. What do you think
+about the level of our relations and the potential for their further
+development?
+Vladimir Putin
+: It would be no exaggeration to say that our
+countries have approached this anniversary with relations the best they have
+been in their entire history. This is the result of meticulous and successful
+work over the past thirty years. Russia and China have fully normalised
+bilateral ties and raised them to the level of strategic partnership. They have
+resolved all sensitive issues, including the border one.
+The further deepening
+of cooperation between the two states promises to be sustainable and long-term,
+because it is not opportunistic. This is entirely in the interests of our
+peoples and the tasks of maintaining international and regional security and stability.
+The political
+dialogue between Russia and China is based on mutual trust and respect, and the fact that we always take each other’s approaches and positions into
+consideration. We have developed contacts at all levels – from the very top to the expert level. Our parliaments, public organisations and, of course,
+business communities are actively engaged in our common efforts.
+Our military and military-technical cooperation points to the high level of trust. Russia and China hold regular joint exercises and share our accumulated experience in military
+development. Our cooperation on security and combatting terrorism and organised
+crime is making rapid headway.
+We have managed to substantially increase our mutual trade. In 2018 it exceeded a record $100
+billion. We are making consistent progress in investment, financial, energy and high-tech cooperation.
+Importantly, ties
+between the regions of Russia and China are expanding. The current cross years
+of interregional cooperation will give an additional boost to these efforts.
+We are paying significant
+attention to expanding people-to-people exchanges. Many projects have been
+carried out under the cross years. And, of course, “people’s diplomacy,” direct
+contacts between our citizens, young people, play a big role in strengthening
+the foundation of bilateral relations.
+I am convinced that the potential of the Russia-China partnership is truly inexhaustible. Naturally, the forthcoming
+celebration of the 70
+anniversary of diplomatic relations will
+further reveal this potential and deepen our friendly, mutually beneficial
+dialogue in all areas.
+Question
+: China and Russia are two major modern powers.
+In what way, do you think, can Beijing and Moscow do more to exert a positive
+influence in order to overcome acute international challenges and maintain an equitable and fair world order?
+Vladimir Putin
+: Russia-China foreign policy interaction is an important stabilising factor in international affairs, all the more so as our
+countries have overlapping or very close positions on the key issues of our time.
+Unfortunately, some
+Western countries are claiming sole global leadership. They carelessly trample
+on the norms and principles of international law, resort to blackmail,
+sanctions and pressure, and try to force their values ​​and dubious ideals on entire countries and populations.
+We are categorically
+opposed to such approaches. In order to improve the international situation and to form a more equitable and democratic global architecture, we will continue
+to closely coordinate Russia and China’s steps on important global and regional
+issues, and productively cooperate at leading multilateral venues such as the UN, G20, SCO, BRICS and APEC. At the same time, we remain open to cooperation
+and joint work with like-minded people, including everyone who is interested in promoting state-to-state communication on the unshakable foundation of the UN
+Charter and international law.
+Question
+: The greatest number of tourists come to Russia from China. In addition to Moscow and St Petersburg, what other interesting
+destinations would you recommend that Chinese tourists see?
+Vladimir Putin
+: Indeed, Chinese tourists are clearly in the lead among foreign tourists coming to Russia. Over the past five years, their
+number has almost doubled, increasing by 93 percent. Last year alone, about
+1,700,000 Chinese tourists visited our country. It is our sincere pleasure to have them as guests.
+Moscow and St
+Petersburg remain Chinese tourists’ favourite destinations. However, they want
+to see other Russian regions as well, including the famous Golden Ring in central Russia, the Urals and Siberia, the Russian Far East and the Caucasus.
+For example, more and more guests from China are going to Sochi, which,
+following the successful 2014 Winter Olympics, now boasts high-quality resort
+and sports infrastructure.
+Russia is home to 29
+sites included on UNESCO’s World Heritage Site list. This number puts Russia in the top 10 countries in the world. These sites include the cultural and historical ensembles of Novgorod, Sergiyev Posad, Kazan, Yaroslavl, Derbent,
+the white stone temples of Vladimir and Suzdal, Sviyazhsk, Kizhi Pogost, the Solovki historical and cultural complex and other works by our architects.
+Nature has generously
+endowed Russia with gems such as the world’s deepest and cleanest lake, Baikal,
+the volcanoes and geysers of Kamchatka, the Golden Mountains of Altai, the forests of the Komi Republic, the Curonian Spit, Central Sikhote-Alin, the nature of Wrangel Island, the Lena River Pillars and the Putorana Plateau.
+Visiting memorable
+sites connected with the history of the revolutionary movement and the lives of Soviet party and state leaders is another area of interest for Chinese
+tourists.
+A region unlike any
+other, Crimea deserves special mention. In recent years, the tourism industry
+has been rapidly expanding on the peninsula. Extensive infrastructure is being
+created and new modern hotels and resorts are being built. All this, combined
+with the unfailing cordiality and hospitality of the locals, creates excellent
+opportunities for exciting and rewarding trips.
+I will say it again for emphasis: we
+have plenty of places to see and enjoy, and I want to say once again to all our
+guests from the friendly nation of China – welcome to Russia!
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 25, 2019, 01:00
+Direct link:
+en.kremlin.ru/d/60344
+Text version

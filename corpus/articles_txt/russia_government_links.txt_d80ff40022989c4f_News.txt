@@ -1,0 +1,99 @@
+seed_url: http://government.ru/en/news/49879/
+final_url: http://government.ru/en/news/49879/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang
+25 October 2023
+16:50
+Bishkek, Kyrgyz Republic
+The meeting took place on the sidelines of the heads of government summit of the Shanghai Cooperation Organisation.
+Excerpts from
+the transcript:
+Mikhail Mishustin and Premier of the State Council of China Li Qiang
+25 October 2023
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang
+25 October 2023
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin and Premier of the State Council of China Li Qiang
+Li Qiang
+(via
+interpreter):
+Mr Prime Minister, allow me
+to speak first. I am delighted to see you again. We had very friendly and in-depth talks in Beijing
+last May, and for me, our meeting in Bishkek today brings back very warm
+feelings. Thanks to the strategic leadership of President Xi Jinping and President Putin, our countries have maintained a high level of mutual political
+trust. Bilateral relations are steadily expanding, and our practical
+cooperation is also making active progress across the board.
+Visit
+Meeting of the CIS Council of Heads of Government
+Meeting of the Eurasian Intergovernmental Council
+Meeting of the SCO Heads of Government Council
+Mikhail Mishustin’s meeting with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+Mikhail Mishustin’s meeting with First Vice President of the Islamic Republic of Iran Mohammad Mokhber
+Briefing by Alexei Overchuk following the meetings of the Eurasian Intergovernmental Council, the CIS Council of Heads of Government and the SCO Council of Heads of Government
+Cooperation between China
+and Russia
+is not directed against any third parties, nor is it subject to outside
+influence or dictates. It is focused on ensuring the well-being of our peoples,
+promoting development around the world and defending international fairness.
+Last week, our leaders had very fruitful talks in Beijing. They charted
+some new goals for the further advancement of Chinese-Russian ties. And we are
+ready, together with our Russian colleagues, to continue our efforts to deepen
+cooperation across the board and strengthen bilateral relations and our
+strategic partnership, on the basis of the important agreements reached between
+our leaders.
+I am prepared to discuss all issues of shared interest
+with you.
+Mikhail
+Mishustin:
+Thank you. Greetings, Mr Li Qiang, colleagues. I am sincerely glad to see you
+again.
+I have fond memories of my visit to friendly China in May,
+too. I would certainly like to use this opportunity to ask you to extend the most heartfelt greetings and best wishes to Mr Xi Jinping on behalf of President of Russia Vladimir Putin and myself.
+You mentioned the Russian President’s visit to China on 17–18
+October, where he took part in the third Belt and Road International Forum. I would like to sincerely congratulate our Chinese friends on that successful
+event.
+The initiative the President of China proposed for broader cooperation between the states on the historical Silk Road is highly relevant in the current political situation. We are
+working together to align it with the Eurasian Economic Union project and potentially to establish the Greater Eurasian Partnership in the future.
+Russian-Chinese ties, our comprehensive partnership
+and strategic cooperation have reached an unprecedented level and continue to strengthen. Our cooperation relies on traditions of neighbourliness as well as the principles of equality and mutual respect.
+Mr Li Qiang, we have implemented the decisions taken
+by President of Russia Vladimir Putin and President of China Xi Jinping, which
+included defining the parameters for Russian-Chinese cooperation until 2030.
+Russia and China
+provide mutual support in protecting each other’s fundamental interests. We
+closely coordinate our steps at multilateral platforms such as the SCO and BRICS, and we are jointly building a multipolar architecture of international
+relations.
+As our Chinese friends say, cooperation between Russia and China “is cutting through the waves, riding a tailwind.”
+Despite the difficult external situation, our trade
+and economic cooperation is growing. More than 90 percent of cross-border
+transactions are carried out in national currencies – in roubles and yuan.
+Last year, our mutual trade reached a record level. In January-September, it added another 27 percent compared to the same period in 2022, reaching 16 trillion Russian roubles, or 1.2 trillion Chinese yuan.
+We are enhancing our partnership in the energy sector.
+Russia is boosting its oil,
+natural gas, coal, and electricity exports to China. We are also stepping up
+industrial cooperation and developing new joint projects. There are ample
+opportunities for collaboration in the end-to-end technologies segment as well.
+Russia and China
+are accelerating the development of transport and logistics routes and border
+infrastructure. Russia
+is increasing agricultural exports; in January-August, they almost doubled to 500 billion roubles, or more than 35 billion yuan.
+And of course, cultural and humanitarian ties remain a very important component of our cooperation. The governments are jointly
+preparing for the Cross Years of Culture of Russia and China scheduled
+for 2024–2025.
+We will also be delighted to see Chinese participants
+at the first international phygital tournament, Games of the Future in Kazan in 2024.
+Esteemed Mr Li Qiang, we have a broad and substantive
+agenda. Let us get started.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/49879/
+Highlight selection

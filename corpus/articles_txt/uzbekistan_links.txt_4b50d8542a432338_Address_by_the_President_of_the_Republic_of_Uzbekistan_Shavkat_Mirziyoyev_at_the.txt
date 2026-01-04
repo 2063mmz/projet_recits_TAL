@@ -1,0 +1,181 @@
+seed_url: https://president.uz/en/lists/view/4484
+final_url: https://president.uz/en/lists/view/4484
+title: Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the International Conference «Central and South Asia: Regional Connectivity. Challenges and Opportunities»
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the International Conference «Central and South Asia: Regional Connectivity. Challenges and Opportunities»
+16.07.2021
+Distinguished Heads of Delegations!
+Ladies and Gentlemen!
+Dear guests!
+It is my great pleasure to welcome all participants and guests to the International Conference «Central and South Asia: Regional Connectivity. Challenges and Opportunities».
+I would like to express my special gratitude to the UN Secretary General, Mr. Antonio Guterres, for supporting our forum.
+It is a pleasure to see my brothers, the President of the Islamic Republic of Afghanistan Mr. Ashraf Ghani and The Prime Minister of the Islamic Republic of Pakistan Mr. Imran Khan in this hall.
+I would like to take this opportunity to thank the Ministers of Foreign Affairs and high-ranking representatives of major partner countries, influential international and regional organizations, and the leaders of the world’s leading financial institutions, who are directly participating in today’s conference.
+Despite the challenging pandemic conditions, your participation in our Forum clearly confirms your great attention to develop the bilateral and regional cooperation.
+Sunny Uzbekistan and generous Uzbek people welcome you!
+Dear participants!
+Located at the crossroads of the Great Silk Road, Central and South Asia for centuries have fostered an active dialogue between civilizations.
+Thanks to the close cooperation between the two regions, the following have spread:
+- new knowledge and philosophical ideas;
+- advances in medicine and astronomy, geography and mathematics, geodesy and architecture, the arts of diplomacy and public administration;
+- high cultural and spiritual values.
+The peoples of our regions have coexisted within the framework of common state formations, as well as a common political, economic and humanitarian space.
+Here appeared Harappan civilization, the Greco-Bactrian and Kushan kingdoms, the Turkic Khaganate, Khorasan and Maverannakhr, the Gaznevid, Timurid and Baburid empires and others, who left a deep mark in history.
+Central and South Asia have always been closely linked by reliable trade arteries and served as a bridge for the centuries of the Middle East, Europe and China.
+It is also mentioned in the works of the ancient Greek historian Strabo, who wrote that by the Oxus River (now Amudarya) «the goods were delivered through the Caspian and Black Seas to Europe».
+Yet back in the third and second millennia BC, a network of trade routes connecting us passed through the Khiber and Bolan passes.
+In Central and South Asia, the mutual influence of religions such as Islam, Buddhism, Hinduism, and various folk traditions has contributed to the aggregation of great ethno-cultural communities and formed diverse and rich culture of the East.
+The close contacts between our peoples paved way to a vibrant intellectual and spiritual progress.
+As a result, the world has gained such outstanding scholars and thinkers as Charaka and Sushtra, Brahmagupta and Al-Khorezmi, Al-Fergani and Farabi, Beruni, Avicena and many others.
+They have predetermined the development of scientific and philosophical thought for several centuries to come.
+The works of such classics of our national literatures as, first of all, Khosrow Dehlavi, Alisher Navoi, Abdurakhman Jami, Muhammad Haydar, Mahtumkuli, Mirzo Golib, Abay, Rabindranat Tagore, Sadriddin Ayni and Chingiz Aitmatov are well-known all over the world.
+They have made an enormous contribution to the development of scientific and philosophical thought for several centuries to come.
+The works of such great scientists as Abu Raihan Beruni and Zahiriddin Muhammad Babur are considered to be true encyclopedias on the history, science and culture of Central and South Asia regions.
+It is widely known that the characterization given to Babur by the first Prime Minister of India Jawaharlal Nehru is that «he was a charming person, a typical King of the Renaissance».
+In particular, Babur wrote in his fundamental work «Baburname» that there was a regular caravan route in the sixteenth century between India and Central Asia through the territory of Afghanistan, on which thousands of camels transported various goods every year.
+According to his orders, alongside the trade routes the caravanserais were improved and wells were constructed.
+Babur’s grandson, the Great Akbar, by continuing his   also left a bright imprint in India’s history as a tolerant and visionary ruler.
+It should be noted that the trade relations of Central and South Asian were undertaken at that time with Iran, Arabia, the Ottoman State, China, Russia and other countries.
+According to historical data, in 1695 the ruler of India Avrangseb, issued the permission for trade to the Russian merchant Semyon Maly.
+It is remarkable that such permission was written in old Uzbek.
+Unfortunately, in the nineteenth century, due to historical circumstances, the bonds between the two neighboring regions were disrupted.
+Between Central and South Asia, various obstacles emerged, borders have been closed, tensions became more acute which have frequently led to conflicts.
+The era of cooperation and understanding has given way to a period of confrontation and mistrust.
+We have been still feeling its negative consequences – there are no effective transboundary routes. The trade-economic ties are poorly developed and the potential of the cultural- humanitarian relations has not been put into effect in full.
+Dear ladies and gentlemen!
+Today, the world has entered an era of global geopolitical transformations, associated with both challenges and new opportunities.
+Under these conditions, the revival of mutual ties between Central and South Asia with a population of about two billion is becoming a demanded and objective process.
+I believe that it is high time- proceeding from an enormous historical, scientific and spiritual-cultural heritage of our peoples, the complementarity of economies and intellectual capacity to consolidate our joint efforts, which will undoubtedly have a powerful synergy effect.
+We realize that connectivity, cooperation, dialogue and, above all, trust are a  driving force to ensure stability, sustainable development, improvement of the living standards and well-being of the peoples of our regions.
+Such approach is an imperative of our time!
+All this creates the necessary prerequisites for the formation, on the one hand, of a space for interregional cooperation and partnership, free from conflict and social and, on the other hand, a vast market for goods and services, investment and innovation.
+Taking the initiative to organize this conference, we have pursued the following ideas.
+First, strengthening peace and friendship, trust and good-neighborliness, enhancing the mutually beneficial cooperation between our countries, building an open and constructive policy meet the common interests of all Central and South Asian states.
+Second, we stand for the creation of sustainable trade, economic and transport communication links, which should become the main driver for the further development of our countries and of the entire region in the long term.
+The pandemic has shown that the new challenges humanity is facing cannot be overcome without united and coordinated effort.
+We have an objective need to strengthen our cooperation through the digitalization of economies, the development of electronic commerce and introducing innovation.
+Third, one of the key links of the practical connectivity of Central and South Asia is the Islamic Republic of Afghanistan.
+We are convinced that our inter-regional partnership will become an important factor in establishing peace and stability, reviving the economy in this country.
+Today, Afghanistan is at a turning point in its recent history.
+We are convinced that the wise Afghan people will show readiness towards compromises for the good of reaching a national accord.
+It is of a fundamental importance that the international community fully supports the political settlement of the conflict for the long-awaited peace on Afghan soil.
+This will open up new prospects for the integration of Afghanistan into region-wide processes.
+Fourth, the stability and security serve as a main condition for the  sustainable development of our regions and strengthening partnership.
+Our security is indivisible and it can only be ensured by a way of constructive dialogue and concerted efforts.
+Dear participants of the forum!
+I am confident that the active and constructive dialogue between Central and South Asia will open up the new opportunities for fuller accomplishment of their trade-economic, cultural and civilizational potential.
+In this regard, I would like to bring up the following proposals:
+First. Our priority task is to create conductive conditions for the development of trade and economic ties, and the growth of mutual investments.
+The development and implementation of the effective measures for free movement of goods and services, investment and the development of advanced transport communications and energy infrastructure system would be a practical contribution to addressing these issues.
+Just as our common ancestors did by convening the Majlis and Kurultais, Loya Jirga, Wasi mushavarat and sabha, we propose to hold  an annual interregional forum for discussion pressing issues of expanding the economic agenda of cooperation, deepening partnership and investment cooperation of our countries.
+The recommendations and proposals emanating from such a dialogue could be translated into concrete programs and projects aimed at job creation, capacity- building and ensuring sustainable growth of our economies.
+Besides, we are initiating a joint expert study to conclude a multilateral Agreement on Economic Cooperation among the countries of our regions.
+Second. The development of modern, efficient and secure transport and logistics infrastructure in Central and South Asia.
+A key element of the entire architecture of connectivity of our regions  should become the Termez- Mazar-i-Sharif-Kabul-Peshawar railroad. Its construction project has already gained a broad support, including on the part of the leading international financial institutions.
+The construction of this railroad  will make it possible to fully realize the transit potential of the two regions, form the shortest route, significantly reduce the time and cost of transporting goods between South Asia and Europe through Central Asia and the countries of the Commonwealth of Independent States.
+This railway will also connect with the prospective highway «China - Kyrgyzstan - Uzbekistan», which allows to create another branch connecting China and the countries of the Middle East through Central Asia under the «One Belt, One Road» initiative.
+As a whole, the launch of this cross-border railroad will provide for a powerful platform to achieve the inclusive economic development of the countries of  Central and South Asia.
+It will become a modern version of the ancient northern trade route known as the Uttara Patha, connecting the Indo-Ganges Plain with the southern territories of the Eurasian continent through the historical cities of Taksila, Gandhara and Termez.
+An example of successful implementation of such trans-regional infrastructure is the international transport corridor «North - South», which has already been linking India with the countries of Central Asia.
+Besides, the construction project of the Trans- Afghan railway corridor in the future may connect our countries with China and other leading states of the Asia-Pacific Ocean.
+It fully corresponds to the goals of the «One Belt, One Road» initiative.
+Third. Introducing the digital platforms must become a locomotive of the economic cooperation of the countries of Central and South Asia.
+It is necessary to develop the concrete measures to implement the digital connectivity in the area of trade, transit and border-crossing, as well as to adopt the Joint Action Strategy.
+It is important to involve leading experts from our countries, as well as specialized agencies of the United Nations in this work.
+Fourth. Jointly seeking the ways of ensuring food security in our vast region.
+Lately we have been observing a rapid rise of prices for basic foodstuffs have risen, as well as acute shortages faced by populations in some parts of the world.
+We propose to hold a meeting of Ministers of Agriculture of our countries under the auspices of the Food and Agriculture Organization of the United Nations (FAO) to develop the program to overcome these challenges.
+This document should envisage the joint development and research, the introduction of advanced technologies and the implementation of cooperative production projects.
+Fifth. The consolidation of the efforts in terms of countering common challenges and threats to stability and security.
+Together we can more effectively counteract terrorism, extremism, drug trafficking, and transnational crime activities, including in the cyber-space.
+As a first step, we propose to develop the Joint Anti-Drug Action Plan with the participation of the UN Office on Drugs and Crime.
+Another important area where the coordinated efforts are needed is the fight against the threat of terrorism.
+We are ready to organize a special meeting of experts on these issues, with the participation of representatives of the two regions.
+This meeting could take place on the sidelines of the international conference due next November in Tashkent to mark the tenth anniversary of the Joint Plan of Action for the implementation of the United Nations Global Counter-Terrorism Strategy in Central Asia.
+Sixth. The issues of ecology and stimulation of the «green» development require the closest attention.
+All of the countries of Central and South Asia are experiencing rapid industrial and demographic growth against the background of the global climate change.
+In these conditions, the issues of water shortage, pollution of the atmosphere and environment, soil degradation and desertification are the common problems.
+A sad consequence of the extremely negative impact of environmental challenges is the drying up of the Aral Sea, which is acquiring an  increasingly planetary nature.
+We need to take all possible measures to mitigate its consequences, as well as to prevent similar catastrophes in the future, drawing on the experience of our ancestors who sought to live in harmony with nature.
+Seventh. We stand for a  fuller development of the unique tourism potential of Central and South Asia.
+In this context, we need recognizable tourist brands reflecting historical, cultural, spiritual and civilizational proximity of regions, the new affordable tourism products and routes, especially given the growing interest in pilgrimage tourism, active introduction of the concept «Tourism in new conditions» with mutual recognition of vaccination certificates.
+We propose to create a program for Central and South Asia in the framework of the World Tourism Organization to promote the historical and cultural heritage of our peoples.
+Eighth. The expansion of scientific, cultural and humanitarian exchanges is one of the important condition for strengthening the friendship and trust.
+In this context, we propose to conduct an international forum entitled «The Historical Heritage of Central and South Asia» in Termez-Uzbekistan under the auspices of UNESCO.
+It is of a priority significance the implementation of the joint programs in the sphere of education and science, culture and sports through active engagement of youth, who make up the majority of population in our countries.
+All of us well realize that the youth is our precious wealth.
+The fate and future of our countries and peoples depends on, namely, how the younger generation grows, what education they get and how they will be brought up, and what environment and «social lifts» we will create for them.
+In order to effectively cooperate on youth issues, I propose to create a permanent Youth Council of Central and South Asian countries.
+Ninth. The high achievements of science, technology and innovation are an important factor in the accelerated development of our countries.
+It is necessary to promote a collaborative research and innovation, the research and training fellowships and the exchange programs.
+In this context, we propose to implement a facilitated visa regime for scientists and researchers, as well as create an online platform for cooperation of the universities and science-research centers of Central and South Asia.
+Tenth. At present, it is more important than ever that we develop sound solutions based on a systematic study and analysis of the development trends and connectivity of our regions.
+The International Institute of Central Asia was opened on the eve of our Forum.
+We propose to create a permanent Expert Pool of prominent scientists and researchers from our countries on the basis of this analytical center to promote the regional cooperation.
+Besides, on the outcomes of today’s conference, I propose to develop and submit to the UN General Assembly a draft of the special resolution on strengthening connectivity between Central and South Asia, and in general, throughout the  Eurasian territory, as an important factor of stable and sustainable development.
+The common approaches, fundamental principles, and directions for our dialogue should be enshrined in this document.
+It is also expedient to reflect in the draft resolution our readiness to hold regular high-level forums on the regional connectivity of the countries of South and Central Asia.
+Dear participants of the conference!
+Speaking about the role of our country in these processes, I would like to underscore the following.
+Our Forum is taking place at an important historical time in the formation and development of a New Uzbekistan.
+We have consistently implementing the systemic democratic reforms in all areas of public life.
+They are comprehensive and irreversible. This is  the fundamental choice of our people.
+The main achievement of Uzbekistan’s foreign policy became the crucial changes in the development of good-neighborly relations in Central Asia with Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan.
+Together we have succeeded in creating a completely new atmosphere of trust and mutual support in our region.
+We have created an effective platform for a regular dialogue and joint identification of «new points» and drivers of growth.
+We plan to hold the Consultative Meetings of the Heads of State of Central Asia.
+I underscore: Uzbekistan is a reliable, stable and predictable partner aimed at developing the constructive and mutually beneficial cooperation.
+Dear ladies and gentlemen!
+Dear guests!
+The historical, cultural and civilizational commonality of Central and South Asia, which coincide with the interests of our countries and peoples, is a solid foundation on which we can build a prosperous common future.
+It is time to realize that without strengthened cooperation, effective regional cooperation we will not be able to overcome the challenges that our countries are facing today.
+We need to shape a clear vision of the prospects for shared sustainable development and prosperity.
+Together, we must transform Central and South Asia, and our entire Eurasian continent, into a stable, economically developed and prosperous space.
+I wish all the participants a productive meeting!
+Thank you for your attention!
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

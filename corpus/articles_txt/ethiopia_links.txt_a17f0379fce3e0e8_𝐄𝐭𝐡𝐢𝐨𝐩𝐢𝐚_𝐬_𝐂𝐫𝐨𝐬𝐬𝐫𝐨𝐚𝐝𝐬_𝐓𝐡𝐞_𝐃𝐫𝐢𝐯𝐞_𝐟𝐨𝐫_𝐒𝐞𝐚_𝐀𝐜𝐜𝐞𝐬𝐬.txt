@@ -1,0 +1,12 @@
+seed_url: https://www.ifa.gov.et/2025/11/19/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%AB/
+final_url: https://www.ifa.gov.et/2025/11/19/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%AB/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚’𝐬 𝐂𝐫𝐨𝐬𝐬𝐫𝐨𝐚𝐝𝐬: 𝐓𝐡𝐞 𝐃𝐫𝐢𝐯𝐞 𝐟𝐨𝐫 𝐒𝐞𝐚 𝐀𝐜𝐜𝐞𝐬𝐬
+date: Nov 19, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia—once a Red Sea power and now the world’s largest landlocked nation—bears crushing transit costs and security risks as over 85% of its trade funnels through Djibouti. This historic setback and economic strain have reignited a fierce national drive for sea access, intensified by Prime Minister Abiy Ahmed’s recent declaration, which stirred deep national pride while provoking swift regional pushback.
+By Amare K. Aweke, PhD, Lead Researcher at @ifa_ethiopia.
+Ethiopia’s Quest for Sea Access: Navigating Peaceful Diplomatic Strategies

@@ -1,0 +1,41 @@
+seed_url: http://en.kremlin.ru/multimedia/video/section/trips/by-date/09.10.2025
+final_url: http://en.kremlin.ru/multimedia/video/section/trips/by-date/09.10.2025
+title: Videos and Photos – Videos
+date: 2025-11-27
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Videos and Photos – Videos
+Answers to media questions
+November 27, 2025
+Bishkek
+Video, 1 hr
+Press statements by President of Russia and President of Kyrgyzstan
+November 26, 2025
+Video, 21 mins
+Vladimir Putin answered media questions
+October 10, 2025
+Video, 37 mins
+Plenary session of the 10th Eastern Economic Forum
+September 5, 2025
+Russky Island, Primorye Territory
+Video, 3 hrs
+Plenary session of the 10th Eastern Economic Forum
+Media statements by the Presidents of Russia and Belarus
+December 6, 2024
+Video, 11 mins
+Meeting of the Supreme State Council of the Union State
+December 6, 2024
+Video, 24 mins
+Gala reception in honour of the BRICS Summit
+October 23, 2024
+Video, 4 mins
+Expanded meeting of the BRICS Summit
+October 23, 2024
+Video, 2 hrs
+Restricted-format meeting of the BRICS Summit
+October 23, 2024
+Video, 5 mins
+Previous videos

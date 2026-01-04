@@ -1,0 +1,19 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/meeting-with-the-member-of-the-politburo-of-the-communist-party-of-china-and-secretary-of-the-ccp-central-secretariat
+final_url: https://www.predsednik.rs/en/press-center/news/meeting-with-the-member-of-the-politburo-of-the-communist-party-of-china-and-secretary-of-the-ccp-central-secretariat
+title: Meeting with the member of the Politburo of the Communist Party of China and Secretary of the CCP Central Secretariat
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+14.10.2019. - 15:33
+Meeting with the member of the Politburo of the Communist Party of China and Secretary of the CCP Central Secretariat
+President of the Republic of Serbia Aleksandar Vučić talked today with the member of the Politburo of the Communist Party of China and Secretary of the CCP Central Secretariat Yang Xiaodu where he said that Serbia and China are connected through a steel friendship and that Serbian people will never forget what the President of China and President of the Communist Party of China Xi Jinping did for Serbia.
+"Welcome to Belgrade and Serbia! I am happy and proud to have the opportunity today to host you here and talk to you", said president Vučić at the beginning of the meeting. He congratulated again to Yang and all the members of the CP of China the 70th anniversary of the existence of the modern Republic of China and for all the exceptional results achieved during that period.
+President Vučić emphasised that we in Serbia are genuinely happy for each success they accomplish.
+Photo: Presidency/Dimitrije Goll
+"We are thankful to President Xi Jinping for bringing to our country one of the most important investments and for encouraging the Chinese investors to come to Serbia and because through the project "One Belt, One Road" he contributed to the happiness of other people and in this case - to the happiness of the Serbian people and the citizens of Serbia. We, contrary to the others, will never forget what he did for our country and he will have our everlasting gratitude", said President Vučić and added: "You are welcome and do convey my most sincere considerations to President Xi, our great friend".
+The member of the Politburo of the Communist Party of China and Secretary of the CCP Central Secretariat Yang Xiaodu thanked President Vučić for finding the time to receive his delegation. Yang conveyed to Vučić the greetings from the President of China Xi Jinping.
+Photo: Presidency/Dimitrije Goll
+"Together with President Xi you have designed the general plan of the strategic partnership between Serbia and China and the implementation of your agreement is undergoing", said Yang and added that the goal of the visit of the CCP of China is also the realisation of the agreements achieved by the presidents of the two countries.

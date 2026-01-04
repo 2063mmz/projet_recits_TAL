@@ -1,0 +1,209 @@
+seed_url: http://government.ru/en/news/41467/
+final_url: http://government.ru/en/news/41467/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin attends the Digital Future of the Global Economy international forum
+5 February 2021
+09:00
+The Prime Minister made a speech at the plenary session of the forum titled: “Digital reset: leap forward to a new reality.”
+Visiting an exhibition of digital projects
+5 February 2021
+Mikhail Mishustin and Askar Mamin at the Digital Future of the Global Economy international forum
+5 February 2021
+The Digital Future of the Global Economy international forum
+5 February 2021
+The Digital Future of the Global Economy international forum
+5 February 2021
+Mikhail Mishustin speaks at the Digital Future of the Global Economy international forum
+5 February 2021
+Mikhail Mishustin speaks at the Digital Future of the Global Economy international forum
+5 February 2021
+Предыдущая новость
+Следующая новость
+Visiting an exhibition of digital projects
+Before the plenary session, Mikhail
+Mishustin and the heads of the delegations taking part in the forum watched a
+presentation and visited an exhibition of digital projects.
+Mikhail Mishustin’s
+remarks at the plenary session of the forum:
+Mikhail
+Mishustin’s remarks at the plenary session of the Digital Future of the Global
+Economy forum
+Heads
+of state and government, colleagues, forum participants,
+Mikhail Mishustin attended the Digital Almaty Forum 2020
+would like to thank Mr Mamin for the brilliant organisation of this forum, as
+always. Taking place at a crucial time, this forum focuses on the key
+challenges of digitalisation. It is such a wonderful tradition, to hold this
+forum at the onset of the year in Almaty and to openly share opinions on how we
+can harness digitalisation to the betterment of our countries and the
+integration processes in the Eurasian Union.
+Only a
+year ago now, we spoke at great length about consolidating the efforts of the Union
+members and yet, we did not have the slightest idea of what was just around the
+corner. Nobody could ever have predicted how fast our world would change.
+Visit
+Mikhail Mishustin’s meeting with Prime Minister of Uzbekistan Abdulla Aripov
+Mikhail Mishustin meets with Prime Minister of Kazakhstan Askar Mamin
+Meeting of the Eurasian Intergovernmental Council
+would like to show you a short video. Please.
+(Video
+plays)
+Governments
+of the five (and other countries as well) had  difficult decisions to make on shutting down borders,
+companies, social and education facilities, on introducing lockdowns,
+restricting people’s movement and contacts.
+did everything we possibly could to prevent the spread of the virus and to protect
+our citizens’ lives. It was very important to continue providing people with
+public services without exposing them to the infection.
+Digital
+solutions became the bridge connecting society together during self-isolation.
+It was a new challenge for the country and we were ready for it.
+At a
+meeting of the Supreme Eurasian Economic Council in December 2020, President Vladimir
+Putin said: “All of us saw for ourselves that it is highly important
+to use advanced information technology, given the current situation.
+They largely made it possible for government agencies and virtually
+all industries, education and healthcare to operate normally.”
+Thanks
+to the level of digital development achieved by government agencies of the
+Russian Federation before the pandemic, we were able to promptly develop and also
+launch platforms that were widely sought-after during that time.
+These new online services, which were created in an everyday
+life and business environment, made it possible to provide digital services
+regardless of whether the user was at home or abroad.
+We now have an entire set of modern digital services
+that address the challenges posed by the pandemic.
+Colleagues, we are united by the desire to form common
+markets for goods, services, capital and labour within the Union. Of course,
+our common goal includes modernisation, cooperation and better competitiveness
+of our respective national economies.
+We fully support
+President of Kazakhstan Kassym-Jomart Tokayev’s position whereby comprehensive
+digitalisation must become the driving force behind growth in the EAEU
+countries. So, we must come up with an answer to the question of what this will
+be based on. This is what Mr Golovchenko and speakers before him talked about in
+detail.
+The pandemic accelerated digital transformation and
+exacerbated related strategic challenges and threats. Countries that do not
+have proprietary digital platforms run the risk of falling into information,
+political and economic dependence on other countries’ digital solutions.
+I absolutely agree with the
+idea that the Eurasian Council should provide our countries with this
+opportunity and help us benefit from a large-scale economy, while developing
+our common digital platform and, of course, preserving national sovereignty.
+Last year, the five countries
+made known their desire for greater cohesion, which was facilitated by taking effective
+joint measures to counter the spread of the coronavirus, as well as adopting
+common strategic guidelines for the Eurasian Economic Union to 2025.
+The strategy’s successful implementation and deeper
+integration will, of course, be directly related to promoting our joint digital
+agenda and introducing electronic services into our lives. This includes
+creating a single labour market, increasing exports and expanding production
+chains. It is necessary to create proper conditions for fair and transparent
+trade, to remove infrastructure restrictions and to tap into the transit
+potential, to conduct a dialogue with the EU, and to continue to harmonise
+Eurasian integration with China’s Belt and Road Initiative. This can only be implemented
+on the basis of a common digital platform.
+Frankly, what we see in real life is our partners’ wary
+approach to digitalisation within the five countries’ space. Unfortunately, we can
+see the attempts to put off the deployment of joint digital platforms and to keep
+national rules and systems in place. This becomes obvious if you just take a look
+at the Eurasian Economic Commission’s discussions on introducing medication
+registration systems, digital vehicle passports, which we also discussed, and product
+traceability and labeling systems. Colleagues, the lack, rather than
+availability, of common digital platforms and systems are jeopardising our
+respective economies.
+If we do not create them in order to ensure
+transparency of common goods markets, it will, in fact, mean restoring customs regulations
+on our borders. This is what we were trying to check at the door when we created
+the Union. If we delay digitalisation and unification, including customs
+administration and other types of control on our outer borders for everyone in
+the same manner, we will have to reinstate control measures on our internal
+borders.
+Our joint digital platform must focus on improving our
+life and business environment. This is the only way for the public to see that
+integration really does work.
+The digital platform will help lift barriers that are hindering
+the formation of a single market for goods, services, capital and labour within
+the Union.
+This is something that definitely
+needs to be created with regard to the national interests and in synergy with
+our information systems. This is the only way we can effectively develop our
+economies together.
+Colleagues, to build a
+digital platform and to benefit from the advantages of big data economies, we
+need to deal with a whole lot of tasks. First of all, these are legal matters:
+the legally valid electronic document management in the Union, including the exchange
+of personal data and its protection. It is necessary to create and also to introduce
+integrated digital systems of identification of citizens and businesses (we saw
+amazing Kazakhstan-made solutions today at the exhibition), and finally deal
+with the issue of acceptance of electronic signatures. I think that the
+Eurasian Economic Commission could put a bit more effort into these things.
+Our country is facing major
+objectives, and the Russian Federation also supports the initiatives of the
+Eurasian Development Bank to create mobile apps that will get rid of various
+barriers that are preventing our people from crossing the state borders of our Union,
+searching for jobs and getting settled in the Union countries amid the pandemic.
+The developed solutions
+carefully tackle the issues of the trans-border transfer of personal data and
+compliance with the requirements of national legislation. Participating
+countries always have a choice whether to join such platforms. This is a
+careful approach, the aim of which is to strengthen the trust between our
+countries, which will allow for the creation of more daring digital solutions during
+the times ahead.
+I would like to present you
+the mobile apps that were created at the initiative of Russia and with support
+of the fund (we talked about this today): these are Traveling without COVID-19,
+and Work in the EAEU. I am quite sure that they will both be popular with the users,
+and also help improve the ties between our countries.
+The first app, Traveling without
+COVID-19, has been available to all citizens of Russia, Armenia and Belarus, as
+well as for Union citizens who have crossed into Russia through Armenia and
+Belarus since 1 February.  One just needs
+to download the application, pick an available laboratory for a PCR test, get
+tested and, upon receiving a negative result via the app, fly to Russia. We
+hope that Kazakhstan and Kyrgyzstan will also join the initiative in the
+nearest future, and the citizens of our respected partner countries will be
+able to come to Russia without too much hassle. Please, the short video.
+(Video)
+I would like to thank our colleagues here, Nikolai Podguzov and Tigran
+Sargsyan, for working so speedily and energetically.
+The second app, which we have discussed in detail during our meetings,
+is Work in the EAEU. It helps a person searching for a job in a member country.
+This is an integrated service that can be used to find vacancies and get all
+the necessary paperwork done, including receiving a medical insurance. It can
+also help with finding accommodation.
+We expect that the integrated mobile app will comprise the national
+systems of the digital migration services of our countries. We have already started
+to work on it to ensure hassle-free entry into the country. And, I believe that
+it will be a cool, seamless service for all jobseekers wishing to work in our
+countries. Almost all issues related to jobs and accommodation in Russia, in
+particular, can be dealt with before a person actually  moves and without the use of often
+unscrupulous agents.
+We plan to finish the development of this service at the onset of the
+next year and we really do hope that other Union states will join it. Then we
+will create an integrated labour market of our Union, as it is stated in our
+main documents.
+Please, the next video.
+(Video)
+Friends and colleagues,
+The world has entered the digital era, the fourth industrial revolution.
+Digital platforms are currently the locomotive of the economic growth of the
+countries that actively use them. The top twenty companies in terms of shared
+capital are digital giants that collect data (all of the speakers already mentioned
+this today) and create digital platforms. I am confident that the creation of the
+Union digital platform will provide us with opportunities to increase the
+efficiency of our work and GDP, as well as to create a solid base for the Union.
+Thank you.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/41467/
+Highlight selection

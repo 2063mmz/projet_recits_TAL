@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2024/07/05/a-delegation-led-by-the-ifa-executive-director-h-e-mr-jafar-bedru-participated-in-a-high-level-international-conference-titled-building-global-development-transition-partnership-in-africa/
+final_url: https://www.ifa.gov.et/2024/07/05/a-delegation-led-by-the-ifa-executive-director-h-e-mr-jafar-bedru-participated-in-a-high-level-international-conference-titled-building-global-development-transition-partnership-in-africa/
+title: A delegation led by the IFA Executive Director H.E. Mr. Jafar Bedru participated in a high-level international conference titled “Building Global Development Transition Partnership in Africa:
+date: Jul 5, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+A delegation led by the IFA Executive Director H.E. Mr. Jafar Bedru participated in a high-level international conference titled “Building Global Development Transition Partnership in Africa: The Roles of MDBs and China” hosted by the Shanghai Institute for International Studies (SIIS) in collaboration with China Society for African Studies, in Shanghai, China from 27-28 June 2024.
+In his Key Note address. H.E. Mr, Jafar Bedru stressed the urgent need for further China-Africa Cooperation. He underlined that Ethiopia has been benefiting from China-Africa relations, especially in green transitions with the subsequent construction of Industrial parks to realize such. H.E. Mr. Jafar also mentioned the bilateral relations between Ethiopia and China that progressed over the years and currently reached an all-weather strategic partnership. He also, stressed that Ethiopia is the Chinese gateway to Africa.
+The high-level international conference had four major themesaligned with strengthening the China-Africa Cooperation. The conference highlighted the various roles China has been playing in Africa’s development and vice versa. Also, the future of China-African relations that need to be strengthened were issues highlighted in the conference.
+The Conference was attended by government representatives, executives, researchers, and policymakers invited from around Africa and China. Other Ethiopian think tanks such as the Ethiopian Policy Studies Institute (PSI) and the Addis Ababa University Institute for Development Research (IDR) were also among the attendants.

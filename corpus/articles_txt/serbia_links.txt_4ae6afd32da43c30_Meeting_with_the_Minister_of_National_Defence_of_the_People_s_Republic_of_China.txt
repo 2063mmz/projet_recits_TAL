@@ -1,0 +1,23 @@
+seed_url: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-minister-of-national-defence-of-the-peoples-republic-of-china
+final_url: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-minister-of-national-defence-of-the-peoples-republic-of-china
+title: Meeting with the Minister of National Defence of the People's Republic of China
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Press Releases
+26.03.2021. - 12:21
+Meeting with the Minister of National Defence of the People's Republic of China
+President of the Republic of Serbia Aleksandar Vučić met today with the Minister of National Defence of the People's Republic of China, General Wei Fenghe, to discuss further intensification of dialogue and cooperation between the two countries in numerous areas, as well as readiness to further strengthen Serbia's comprehensive strategic partnership with China.
+President Vučić wished a warm welcome to Minister Fenghe and emphasised that this meeting will result in even more fruitful cooperation between our two countries.
+"We are convinced that this visit is another confirmation of the steel friendship and comprehensive strategic partnership between Serbia and China, as well as a sign of its deepening in all areas," said President Vučić, adding that Serbia and its competent authorities are ready to work with the People's Republic of China and the Ministry of National Defence of PR China on the further development of the overall relations between the two countries, especially in the field of military-economic, military-medical and military-educational cooperation.
+The interlocutors agreed that the traditional friendship of our countries, as well as the continuous deepening of friendly relations, gained special momentum during the historic visit of the President of the People's Republic of China to our country in 2016, which raised it to a comprehensive strategic partnership.
+President Vučić once again expressed his gratitude for China's help to Serbia during the Covid-19 pandemic, especially emphasising that despite the pandemic, the continuity of dialogue and further intensification of cooperation between Serbia and China has been preserved.
+The two interlocutors stated that one of the important features of our strong bilateral relations is Serbia's participation in the cooperation mechanism between China and the countries of Central and Eastern Europe (17 + 1), as well as the "Belt and Road" initiative, to which the Republic of Serbia attaches great importance and support.
+The President of Serbia once again emphasised the unwavering position of our country when it comes to supporting the "One China" policy and added that he highly appreciates the consistent position of China regarding respect for the territorial integrity and sovereignty of Serbia.
+President Vučić pointed out that he was satisfied with the dynamic development of military cooperation and expressed Serbia's interest in its further intensification. The President particularly emphasised that Serbia is looking forward to the re-visit of President Xi Jinping to Serbia when the conditions for that are met, following the normalisation of the epidemiological situation.
+VIDEO MATERIAL CAN BE DOWNLOADED FROM THE FTP SERVER OF THE MINISTRY OF DEFENCE.
+Belgrade,
+26th March 2021

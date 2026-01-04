@@ -1,0 +1,31 @@
+seed_url: https://statehouse.gov.ng/vp-shettima-us-envoy-meet-over-food-security/
+final_url: https://statehouse.gov.ng/vp-shettima-us-envoy-meet-over-food-security/
+title: VP Shettima, US Envoy Meet Over Food Security
+date: November 1, 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+**Mechanization, quality seeds, fertilization, others top agenda*
+The Vice President, Kashim Shettima, has sought the assistance of the United States government for the agenda on food security of the President Bola Ahmed Tinubu administration.
+He made the request when he met with Mr Cary Fowler, U.S Special Envoy for Global Food Security, as part of his schedules in the United States of America.
+Specifically, VP Shettima identified key areas where Nigeria would require urgent support, saying “we seek the support of the United States Government, be it technical or otherwise, towards addressing challenges in our agricultural sector.”
+The Vice President continued: “Mechanization is absolutely essential, good quality seeds, fertilization, improved agricultural practices, smart agriculture, these are the solutions we seek because the whole mantra is on increase in yield, it is about improving productivity. It goes beyond the acreage that is used for production.
+“So, I am here surrounded by other stakeholders who have all the figures, facts and knowledge to make this partnership easy and smooth sailing,” the VP stated.
+He further reassured the US Special Envoy for Global Food Security of the readiness of the Tinubu administration to collaborate with relevant stakeholders to improve agricultural productivity, not only in the country, but across Africa.
+According to him, Nigeria will sustain existing relationships with partners in the agricultural sector, even as he noted that the country will nurture the alliance.
+“We will nurture it because more than ever before, we are facing food security challenges. We have to think outside the box, we have to look for ingenious solutions that can help us to overcome the challenges. I believe with your support (the political will is there now more than ever before), together, we can save humanity and serve the human race,” he noted.
+In his response, Mr Fowler disclosed that the US government, in partnership with other stakeholders, has launched an agricultural initiative, assuring that Africa would be prioritised.
+He said, “What we are trying to do here in the US, which we coined the ‘Vision for Adapted Crops and Soil’, is a partnership between the US, the AU and the FAO.
+“In summary, what we are trying to do working with African countries is to help them, right from the national level down to the farmers, to manage the soil more properly and to ensure sustainability and productivity (that is on the soil side).
+“On the crop side, we are extremely concerned about climate change and its effect on Africa. So, this programme that we have with the AU and FAO is focused on Africa,” the special Envoy underlined.
+He disclosed that the programme “will look at indigenous African crops that have long suffered from massive underinvestment.
+“We have established a multi-donor trust fund at the IFAD to provide long term funding for the programme and the USAID is also involved. The US government has allocated 100 million dollars to the programme,” he added.
+He however emphasized that stakeholders “need to work in a collaborative way with countries like Nigeria.
+“We need your partnership, we need your political support to push this. We have to make these efforts more permanent; we have to institutionalize the efforts and have a strong African voice on this. We want this programme to be African led,” he further noted.
+Vice President Kashim Shettima who attended the Belt and Road Initiative in China before proceeding to the United States is expected back in Nigeria at the weekend.
+*Stanley Nkwocha*
+*Senior Special Assistant to The President on Media & Communications*
+*(Office of the Vice President)*
+*1st November, 2023*

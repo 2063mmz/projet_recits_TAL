@@ -1,0 +1,37 @@
+seed_url: http://www.mcinet.gov.ma/fr/content/6%C3%A8me-session-de-la-commission-mixte-de-coop%C3%A9ration-commerciale-%C3%A9conomique-et-technique-0
+final_url: https://www.mcinet.gov.ma/fr/content/6%C3%A8me-session-de-la-commission-mixte-de-coop%C3%A9ration-commerciale-%C3%A9conomique-et-technique-0
+title: 6ème session de la Commission mixte de coopération commerciale, économique et technique maroco-chinoise | Ministère de l’Industrie et du Commerce
+date: 2025-12-24T12:00:00Z
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+6ème session de la Commission mixte de coopération commerciale, économique et technique maroco-chinoise
+La Chine compte encourager les opérateurs chinois à investir au Maroc dans l’automobile, le textile, l’agro-industrie, l’aéronautique et les énergies renouvelables.
+Objectif : stimuler l’industrialisation, la croissance économique et la création d’emplois.
+La 6ème session de la Commission mixte de coopération commerciale, économique et technique maroco-chinoise s’est tenue jeudi 8 février 2018, à Rabat, sous la coprésidence de MM. Moulay Hafid Elalamy, Ministre de l’Industrie, de l’Investissement, du Commerce et de l’Economie Numérique et QIAN Keming, Vice-Ministre du Commerce de la République Populaire de Chine.
+Cette 6ème session qui coïncide avec la célébration du 60ème anniversaire de l’établissement des relations diplomatiques maroco-chinoises, a été l’occasion d’examiner les voies et moyens de renforcer la coopération entre le Maroc et la Chine et de la porter au niveau des aspirations des deux pays et des potentialités offertes de part et d’autre.
+A cette occasion, M. Elalamy s’est félicité
+« des développements importants de la relation maroco-chinoise, après la visite de  SM le Roi Mohammed VI, en Chine en mai 2016, au cours de laquelle un partenariat stratégique global et multidimensionnel a été scellé, marquant un tournant historique en matière de renforcement de la coopération bilatérale»
+La signature, en novembre 2017, du Mémorandum d’Entente officialisant l’adhésion de Rabat à l'initiative chinoise « One Belt One Road » est appelée à consolider davantage cette dynamique de coopération en ouvrant de nouveaux horizons au partenariat économique maroco-chinois.
+Une dynamique fortement confortée par l’intérêt croissant manifesté par les opérateurs chinois pour le Royaume où ils entreprennent des projets structurants dans les domaines des infrastructures, de l’énergie ou encore de l’industrie, à l’exemple du projet “Cité Mohammed VI Tanger-Tech” ou encore du projet du leader mondial de la mobilité électrique, le chinois BYD, qui entreprend l’intégration, pour la première fois, en Afrique, de la filière du transport électrique.
+Avec cette nouvelle étape qu’entame le partenariat maroco-chinois, la dynamique des relations économiques et d’investissement s’intensifie : la Chine est le 3ème partenaire commercial du Maroc avec un volume global d’échanges de 39,5 milliards DH  en 2016, soit une évolution annuelle moyenne de +18,2% entre 2001 et 2016 ; les flux d’IDE chinois au Maroc ont atteint 362,5 millions dhs en 2016 et se chiffrent sur les six premiers mois de 2017 à 582,4 millions DH, soit près du double du flux réalisé en 2016.
+En vue d’impulser davantage cet élan de dynamisme que connait la relation maroco-chinoise et de traduire dans les faits les objectifs du partenariat stratégique bilatéral scellé entre les deux pays, les deux parties s’accordent sur la nécessité de mettre à profit les opportunités nombreuses de mise en synergie qui se présentent de part et d’autre et d’exploiter pleinement le potentiel important que recèle les deux économies. La partie chinoise entend encourager, à ce titre, ses entreprises industrielles à investir au Maroc dans les secteurs de l’automobile, du textile et vêtement, de l’électroménager, de l’aviation, de l’agro-industrie, des mines et des énergies renouvelables pour accroître la valeur ajoutée de ces secteurs et stimuler l’industrialisation et la croissance économique au Maroc. Les institutions financières chinoises seront appelées à accompagner ces investissements.
+Partager cet article
+Lire Aussi
+24 Décembre 2025
+Pose de la première pierre du projet de la société EUWEN TEXTILES, filiale du groupe chinois SUNRISE, au sein de la zone industrielle de Bensouda à Fès
+Monsieur Ryad MEZZOUR, Ministre de l’Industrie et du Commerce accompagné de Monsieur Karim ZID...
+IMM: Somasteel procède à l’inauguration de l’extension de son unité industrielle
+La société Somasteel, spécialisée dans le laminage à chaud des aciers bas carbone pour la prod...
+Marrakech accueille une retraite ministérielle africaine pour consolider la position africaine à l’OMC
+La retraite ministérielle, tenue, le 11 décembre 2025, à Marrakech, en marge de la deuxième éd...
+Vidéos
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+Signature d’une convention de partenariat et lancement du programme ALTEN BRIDGE
+Inauguration à Kénitra d’une 3ème unité industrielle du groupe chinois Citic Dicastal
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.

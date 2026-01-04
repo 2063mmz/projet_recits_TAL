@@ -1,0 +1,37 @@
+seed_url: http://en.kremlin.ru/events/president/news/72518
+final_url: http://en.kremlin.ru/events/president/news/72518
+title: Official welcoming ceremony for participants of the Third Belt and Road Forum
+date: 2023-10-17
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Official welcoming ceremony for participants of the Third Belt and Road Forum
+October 17, 2023
+14:05
+Beijing
+Vladimir Putin took part in the official welcoming
+ceremony held by President of the People’s Republic of China Xi Jinping and his
+spouse Peng Liyuan for the heads of delegations taking part in the Third Belt
+and Road Forum for International Cooperation.
+The ceremony and posing for photographs, followed by a gala reception, took
+place in the Great Hall of the People in Beijing.
+* * *
+The President of Russia arrived in China at the invitation of President Xi Jinping. He held several bilateral meetings on the sidelines of the international forum.
+See also
+All news about the visit to China
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in section:
+Publication date:
+October 17, 2023, 14:05
+Direct link:
+en.kremlin.ru/d/72518
+Text version

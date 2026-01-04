@@ -1,0 +1,30 @@
+seed_url: https://president.mn/en/category/featured/page/22/
+final_url: https://president.mn/en/category/featured/page/22/
+title: Category : Featured
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/29 8:51:50
+PRESIDENT BATTULGA VISITS CAOFEIDIAN PORT IN HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for
+2019/04/29 11:58:54
+MEETING WITH WANG DONGFENG, COMMUNIST PARTY SECRETARY OF HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for
+2019/04/27 10:52:57
+SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE LEADERS’ ROUNDTABLE OF THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+Your Excellency President Xi Jinping,
+Esteemed Heads of Delegations,
+Ladies and gentlemen,
+I would like to express my gratitude to President Xi Jinping
+2019/04/27 3:49:23
+HEADS OF DELEGATION WELCOMED TO THE BELT AND ROAD FORUM
+The Second Belt and Road Forum for International Cooperation, which commenced yesterday in Beijing, the People’s Republic of China, is
+2019/04/26 11:01:27
+DOCUMENTS SIGNED DURING THE STATE VISIT OF PRESIDENT BATTULGA TO CHINA
+Following the official talks of President of Mongolia Khaltmaagiin Battulga and President of the People’s Republic of China Xi Jinping
+2019/04/25 11:55:40
+THE OFFICIAL TALKS BETWEEN THE HEADS OF STATE OF MONGOLIA AND CHINA
+President of Mongolia Khaltmaagiin Battulga held official talks with President of the People’s Republic of China Xi Jinping today in

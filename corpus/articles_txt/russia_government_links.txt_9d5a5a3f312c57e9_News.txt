@@ -1,0 +1,196 @@
+seed_url: http://government.ru/en/news/41468/
+final_url: http://government.ru/en/news/41468/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the Eurasian Intergovernmental Council
+5 February 2021
+12:00
+Almaty, Republic of Kazakhstan
+Mikhail Mishustin’s remarks at the meeting
+Signing of documents
+The Eurasian Intergovernmental Council session group photo of participants
+5 February 2021
+With Kyrgyz Republic Prime Minister Ulukbek Maripov
+5 February 2021
+Restricted-attendance meeting of the Eurasian Intergovernmental Council
+5 February 2021
+Meeting of the Eurasian Intergovernmental Council
+5 February 2021
+Meeting of the Eurasian Intergovernmental Council
+5 February 2021
+Meeting of the Eurasian Intergovernmental Council
+5 February 2021
+Предыдущая новость
+Следующая новость
+The Eurasian Intergovernmental Council session group photo of participants
+Delegation heads at the
+Eurasian Intergovernmental Council meeting:
+Prime Minister of the Republic of Armenia Nikol
+Pashinyan;
+Prime Minister of the Republic of Belarus Roman
+Golovchenko;
+Prime Minister of the Republic of Kazakhstan Askar
+Mamin;
+Prime Minister of the Kyrgyz Republic Ulukbek Maripov;
+Prime Minister of the Russian Federation Mikhail
+Mishustin;
+Visit
+Mikhail Mishustin attends the Digital Future of the Global Economy international forum
+Mikhail Mishustin’s meeting with Prime Minister of Uzbekistan Abdulla Aripov
+Mikhail Mishustin meets with Prime Minister of Kazakhstan Askar Mamin
+Chairman of the Board of the Eurasian Economic
+Commission Mikhail Myasnikovich;
+Eurasian Economic Union observer states:
+Prime Minister of the Republic of Cuba Manuel Marrero
+Cruz
+(recorded video of speech)
+Ambassador Extraordinary and Plenipotentiary of the
+Republic of Cuba to the Russian Federation Julio Garmendia Pena
+Acting Prime Minister of the Republic of Moldova Aureliu
+Ciocoi
+(via videoconference)
+Prime Minister of the Republic of Uzbekistan Abdulla
+Aripov
+Mikhail Mishustin’s remarks:
+Mr Mamin, colleagues, I am
+pleased to welcome you to this year’s first Eurasian Intergovernmental Council meeting.
+I would like to join in the words of gratitude to Mr Mamin and our Kazakh
+colleagues for the excellent organisation of the Council meeting and the very
+high standard of the hosting of the International Digital Forum, which was held
+for the fourth time and was an excellent platform for discussing the future of
+our association’s digital development.
+On a separate note, I
+would like to congratulate Prime Minister of Kyrgyzstan Ulukbek Maripov on the
+occasion of his appointment to this position and to wish him good luck in his
+work. This is his first time here. I would also like to greet the heads of
+government of the observer states, in particular, Prime Minister of Uzbekistan
+Abdulla Aripov and the representatives of Cuba
+and Moldova.
+The year 2020 was not
+easy for the EAEU countries. Thanks to our coordinated actions, we managed to
+prevent the unfolding of the worst scenario in our respective economies. Combatting
+the coronavirus remains an important area of ​​our
+cooperation. Clearly, creating the proper
+environment for vaccination throughout the Union
+will be the decisive
+factor here. Two vaccines have been officially registered in Russia. The
+third one is in the process of being registered. Following the President’s
+instruction, free mass vaccination has begun. We are ready to provide our partners
+with the support they may need and to share our experience. We are interacting with
+each one of you in this area.
+It is important to take
+other measures to stop the infection from spreading and to create a proper
+environment for safe passenger traffic within the union. The Travelling without
+COVID-19 project has been launched in pilot mode to this end, which we have
+already mentioned. From February 1, Eurasian Union citizens will be able to use
+a special application to present negative coronavirus test results when
+crossing the border.
+So far, only Armenia, Belarus
+and Russia
+have taken part in the project, but we look forward to expanding this practice.
+I am sure that this app will help people return more easily and quickly to their
+everyday activities. They will be able to go to work in another country and to
+travel.
+Colleagues, the
+coronavirus and its aftereffects, such as increased market volatility and slower
+economic growth, are not the only challenges that confront our association. Clearly,
+the spread of this dangerous disease has undermined economic activity in most countries
+and aggravated existing problems. No one in any country was immune to this
+misfortune, and neither was the economy. But instead of reconsidering their
+positions and establishing cooperation to combat the pandemic fallout,
+unfortunately, some states have been taking advantage of the current situation
+which could lead to unpredictable, even dangerous consequences.
+Economic sanctions and
+protectionism are getting tougher year in, year out, and trade wars are escalating.
+Given these circumstances, promoting industrial cooperation and taking state
+import substitution programmes to the supranational level should be our priorities.
+This is what President Vladimir Putin suggested doing in his December remarks.
+We hope that we will be able to start acting upon the agreements in this area soon
+and focus specifically on common projects for the production of high-tech
+products.
+In the late 2020, the
+heads of state approved the EAEU Development Strategy for the next five years,
+and drafted a substantial plan for implementing this document, which, of
+course, must be agreed upon and adopted. It should include specific steps and
+clear deadlines, and focus on creating conditions for the advanced development
+of economies, ensuring comfortable living and working conditions in our
+countries, and creating a favourable business environment.
+We will act in a
+comprehensive manner across all areas.
+In healthcare, we must improve
+our support for joint initiatives and research projects building on our
+experience of fighting the coronavirus and implementing innovative solutions
+that primarily relate to preventing, diagnosing and treating infectious
+diseases.
+In education, plans are
+in place to create a single information portal. Today, we saw excellent products
+made by our partners in Kazakhstan.
+It is important to ensure recognition of professional qualifications in the
+most popular specialties, as well as academic degrees and titles, throughout
+the EAEU.
+The dissemination of smart
+energy-efficient technology and the introduction of the green-economy principles
+are also our priorities which will make it possible to promote scientific and
+technical breakthroughs and to form a territory of innovation in our Union.
+believe that the EAEU countries should also step up interaction in the sphere
+of digitalising their respective national economies. We covered this
+extensively at the forum today and, in particular, noted the initiatives advanced
+by the EDB Digital Initiative Fund which, I hope, will work hard to this end.
+is also necessary to step up work on converging tax legislation which is important
+if we want goods, services, capital and labour to move freely.
+The tax
+authorities have accomplished much over the past few years to remove the
+barriers. We will continue to pursue our policy to broaden the integration
+in this field. A corresponding roadmap has been developed. We are expecting our
+partners to comment on it shortly, so that work can get going on this.
+The Eurasian
+Economic Union is always open to dialogue. Russia supports the involvement of individuals,
+public organisations and the business community, as well as interaction with
+third countries, international associations and organisations, and stronger cooperation
+with the Commonwealth of Independent States. Work is already in progress to
+link the EAEU with the Chinese Belt and Road project. This is an important
+stage in building a larger Eurasian partnership, a landscape for joint
+development.
+The EAEU strategy
+provides the basis for a fundamentally new level of international self-presentation
+of our integration association, and we should certainly take advantage of this
+opportunity.
+The expansion of
+the geography of cooperation always helps to boost trade, strengthen
+interaction in various fields, simplify administrative procedures, and most
+important of all, this will help to strengthen the EAEU's foothold on the
+international arena.
+Thank you.
+Documents signed following Eurasian
+Intergovernmental Council meeting:
+Instruction with regard to the mechanism for the application of retaliatory
+measures with regard to third party on the customs territory of the EAEU
+pursuant to Article 40 of the Treaty on the Eurasian Economic Union of 29 May,
+2014.
+Instruction with regard to updating the lists of countries-beneficiaries of the
+common system of tariff preferences of the EAEU.
+Decision with regard to the Concept for the development of electronic document
+management at sea checkpoints of the EAEU member states.
+Decision with regard to the approval of the Procedure for coordination and
+analytical support of livestock selection and breeding carried out in the EAEU
+member states.
+Directive
+on the macroeconomic situation in the EAEU member states and proposals for
+ensuring their sustainable economic development.
+Directive
+presenting to the Supreme Eurasian Economic Council a candidate to the Eurasian
+Economic Commission Board.
+Directive
+regarding the time and venue of the next Eurasian Intergovernmental Council
+meeting.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/41468/
+Highlight selection

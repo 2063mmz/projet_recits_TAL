@@ -1,0 +1,113 @@
+seed_url: http://government.ru/en/news/55948/
+final_url: http://government.ru/en/news/55948/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk shares his comments on the outcomes of the Eurasian Intergovernmental Council meeting
+15 August 2025
+15:35
+Cholpon-Ata, Kyrgyzstan
+Excerpts from the transcript:
+Question
+: What did Mr Mishustin mean when he talked in his remarks about the need
+to tighten controls regarding the price of EAEU imports?
+Alexei Overchuk
+: This matter has been on the agenda of several
+Eurasian Intergovernmental Council meetings recently, including the Council of the Eurasian Economic Commission. It boils down to streamlining customs
+procedures. As you know, EAEU countries form a single customs contour, which
+means that the union has a common customs border. This is why we have been
+working on harmonising our requirements for estimating product prices during customs
+clearance, as well as making our customs authorities and the union’s commission
+more effective when exchanging the relevant information.
+Yesterday,
+during the restricted-format meeting, we heard a performance report by the EEC minister
+in charge of customs cooperation.
+Question
+: There were also talks with Iran’s First Vice President Mohammad Reza
+Aref today. What topics were on the agenda of this meeting?
+Alexei Overchuk
+: There is a series of topics we always discuss at such meetings.
+As you
+know, our Free Trade Agreement with the Islamic Republic of Iran has come into
+effect. This is a landmark document since it de facto enables us to have zero
+tariffs on more than 90 percent of our trade inventory. Therefore, there is a mutual interest on behalf of the Eurasian Economic Union and the Islamic
+Republic of Iran to make this agreement effective. For this reason, the discussion focused on fine-tuning our implementation efforts. Of course, this
+will require some time, even though we are already witnessing positive momentum
+in terms of our trade with Iran.
+Transport
+and logistics were the second major item on our agenda of this meeting. We
+looked into the details of building the railway linking Rasht and Astara and efforts to buy the required land plots. In fact, construction has already
+started. Feasibility studies are underway on land plots acquired by the Iranian
+Government. This is work in progress.
+We also
+exchanged views on the geopolitical situation in the South Caucasus.
+Question
+: How will this so-called Trump Route affect efforts to develop the North-South corridor? What is Russia’s position in this regard?
+Alexei Overchuk
+: Let me start with the way we approach this matter.
+Armenia is our strategic ally, so if Armenia believes that this is something
+that works for them, we can get behind Armenia on this matter. If they believe
+that signing a declaration to this effect in Washington gives them additional
+security guarantees, this is also a good thing because we support peace process
+in the South Caucasus. This fully meets our interests. Of course, there could
+be certain caveats regarding these agreements, and we will have to clarify them
+together with Armenia and Azerbaijan.
+I will be
+travelling to Yerevan next week. In fact, this visit was scheduled before it
+all happened, during the meeting in Altai. The matter in question is that there
+is now a regulation in the Republic of Armenia – a resolution of the Armenian
+Government – which, as far as we can see, runs counter to the Eurasian Economic
+Union’s norms. Mher Grigoryan and I agreed to have a meeting with experts to discuss our concerns in every detail. This way, we will focus on this issue.
+Later,
+there was a meeting in Washington, followed by the signing of a declaration.
+Therefore, a meeting is likely with Nikol Pashinyan, where we will discuss
+certain finer points related primarily to unblocking the communications in the South Caucasus.
+As you may know, there is a Trilateral Working Group composed of deputy prime ministers
+of Azerbaijan, Armenia and the Russian Federation. This group works to implement
+unblocking-related Point 9 of the trilateral declaration approved by the leaders
+of the Russian Federation, Azerbaijan and Armenia. It was discussing in detail the finer points of this process. So, it is important for us to know how far the parties
+have advanced in solving the problems that were discussed by the Trilateral
+Working Group.
+A number of aspects are material to the Russian Federation’s interests in the South Caucasus, primarily from the point
+of view of developing rail communications.
+As you may know, Russian Railways has been
+granted a concession to operate Armenia’s system of railways. Therefore, it will
+be important for us to learn if solutions have been found as regards the aspects that all those involved in the unblocking are aware of. If these solutions
+have been found, then, of course, the restoration of railways… I am referring not
+only to the Meghri stretch but also to the so-called northern stretch, Tavush-Gazakh.
+The reference is also to unblocking the Guymri-Kars road that affords an outlet
+to Türkiye. If all these problems are solved, we will pass over to feasibility studies
+and calculations. It will be necessary to analyse the economic aspect of these
+projects and launch the unblocking proper. But again, this will require
+trilateral efforts within the framework of the cooperation arrangement that we
+have maintained with Armenia and Azerbaijan.
+I have a meeting planned with the Azerbaijani
+side late next week. I think we will also consider these matters. So, progress is
+in evidence.
+Question:
+Are you planning trilateral meetings?
+Alexei
+Overchuk:
+We will discuss this. If we are talking
+about restoring railways and improving transport connectivity in the region,
+the best option is to talk in the trilateral format.
+Question:
+China and Russia have signed an agreement on aligning the Belt and Road
+Initiative and the EAEU. What is your estimate of this agreement’s results?
+Alexei
+Overchuk:
+This work is being done by the Eurasian
+Economic Commission (EEC). EEC Minister Andrei Slepnyov is the person directly
+in charge of this job. You better ask him. I know that they are working and maintain contacts. Of course, they are focusing on digitalisation and interaction
+between railways in the People’s Republic of China, the Russian Federation, and Kazakhstan, among other things. I mean, this is a comprehensive work that is
+being conducted.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/55948/
+Highlight selection

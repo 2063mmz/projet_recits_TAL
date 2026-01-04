@@ -1,0 +1,11 @@
+seed_url: https://www.ifa.gov.et/2025/10/15/ethiopia-cyprus-strengthen-bilateral-ties/
+final_url: https://www.ifa.gov.et/2025/10/15/ethiopia-cyprus-strengthen-bilateral-ties/
+title: Ethiopia, Cyprus Strengthen Bilateral Ties
+date: Oct 15, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia, Cyprus Strengthen Bilateral Ties
+Following a field visit to the Central Ethiopia Region, H.E. Prime Minister Abiy Ahmed received H.E. Ioannis Kombos, Minister of Foreign Affairs of the Republic of Cyprus, and his delegation in Addis Ababa this afternoon. The two sides discussed deepening diplomatic ties and enhancing cooperation in key areas, including trade and investment.

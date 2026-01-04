@@ -1,0 +1,220 @@
+seed_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/82
+final_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/82
+title: Global South Corridor sebagai Instrumen Diplomasi Indonesia dalam Implementasi Kerja Sama Konektivitas Maritim
+date: Issue Published :
+                                          December 5, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Issue
+Vol. 9 No. 2 (2024): Jurnal Hubungan Luar Negeri
+Issue Published
+December 5, 2024
+Date Log
+Submitted
+October 28, 2024
+Accepted
+December 5, 2024
+Published
+December 5, 2024
+Global South Corridor sebagai Instrumen Diplomasi Indonesia dalam Implementasi Kerja Sama Konektivitas Maritim
+https://doi.org/10.70836/jh.v9i2.82
+Salsabilah Attamimi
+a:1:{s:5:"en_US";s:33:"Global-Local Strategic Initiative";}, Indonesia
+Corresponding Author(s) : Salsabilah Attamimi
+salsattamimi@gmail.com
+JURNAL HUBUNGAN LUAR NEGERI
+Vol. 9 No. 2 (2024): Jurnal Hubungan Luar Negeri
+Article Published :
+December 5, 2024
+Share on Facebook
+Share on Twitter
+Pinterest
+Email
+Telegram
+Abstract
+Cite
+References
+Authors
+Details
+Abstract
+Potensi maritim Indonesia yang luas merupakan esensi penting menuju visi poros maritim dunia. Dengan memanfaatkan posisi geografis yang strategis, Indonesia berpeluang menginisiasi jaringan maritim yang lebih inklusif dan berkelanjutan. Penelitian ini bertujuan untuk melihat peluang proyeksi inisiasi penamaan koridor maritim baru sebagai sebuah instrumen diplomasi Indonesia sebagai manifestasi
+Global South Bridge Builder
+yang dapat menjadi katalisator dalam pertumbuhan ekonomi kawasan, mempererat solidaritas, memperkuat kerja sama kawasan, serta memperluas pengaruh Indonesia di kancah internasional. Guna mencapai tujuan penelitian, tulisan ini membahas mengenai potensi maritim, visi kelautan serta mekanisme kerja sama yang dapat ditempuh Indonesia dalam mewujudkan
+Global South Corridor.
+Penelitian ini menggunakan metode kualitatif berbasis studi kepustakaan. Dengan demikian, diharapkan
+Global South Corridor
+dapat menjadi potensi rekomendasi kebijakan yang komprehensif dalam implementasi konektivitas maritim sebagai instrumen diplomasi maritim Indonesia.
+Keywords
+Kerja sama Konektivitas
+Global South
+Keamanan Maritim
+Poros Maritim Dunia
+Diplomasi Maritim
+Full Article
+Generated from XML file
+Global South Corridor sebagai Instrumen Diplomasi Indonesia dalam Implementasi Kerja Sama Konektivitas Maritim. (2024).
+JURNAL HUBUNGAN LUAR NEGERI
+(2), 182Ã¢â‚¬â€œ209.
+https://doi.org/10.70836/jh.v9i2.82
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+References
+Adam, L. (2015, Maret). Kebijakan Konektivitas Maritim di Indonesia. Politica, 6(1).
+Ascencios, M. (Ed.). (2018). Forging a Path Beyond Borders: The Global South. UN.
+Ascensao, F., Clevenger, A. P., Fahrig, L., Jaeger, J. A. G., Laurance, W. F., & Pereira, H. M. (2018, July). Environmental Challenges for the Belt and Road Initiative. Nature Sustainability.
+Badan Pengembangan Infrastruktur Wilayah Kementerian PUPR. (2017). bank data BPIW. bpiw.pu.go.id. Retrieved Oktober 25, 2024, from
+https://bpiw.pu.go.id/bankdata/dictionary/words?q=Koridor+maritim&id=1055
+Cullinane, K., & Talley, W. K. (Eds.). (2006). Port Economics. Elsevier Science.
+Dados, N., & Connell, R. (2012, February). The Global South. SAGE Journals, 11(1).
+https://doi.org/10.1177/1536504212436479
+Directorate-General for ECHO. (2024, March 8). Joint Statement endorsing the activation of a maritime corridor to deliver humanitarian assistance to Gaza. European Civil Protection and Humanitarian Aid Operations. Retrieved October 25, 2024, from
+https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-statement-endorsing-activation-maritime-corridor-deliver-humanitarian-assistance-gaza-2024-03-08_en
+EBRD. (2020). Belt and Road Initiative (BRI). European Bank for Reconstruction and Development (EBRD). Retrieved October 25, 2024, from
+https://www.ebrd.com/what-we-do/belt-and-road/overview.html
+Feingold, S., & Willige, A. (2024, February 15). These are the world's most vital waterways for global trade. The World Economic Forum. Retrieved October 25, 2024, from
+https://www.weforum.org/agenda/2024/02/worlds-busiest-ocean-shipping-routes-trade/
+Feldt, L., Roell, D. P., & Thiele, R. D. (2013, April). Maritime Security - Perspectives for a Comprehensive Approach. ISPSW Strategy Series: Focus on Defense and International Security, (22).
+Hall, K. R. (2019). Maritime Trade and State Development in Early Southeast Asia. Humanities Open Books program, a joint initiative of the National Endowment for the Humanities and the Andrew W. Mellon Foundation.
+Handoko, W. (2020). Tol laut: konektivitas visi poros maritim Indonesia. Direktorat Jenderal Perhubungan Laut, Kementerian Perhubungan RI bekerjasama dengan Penerbit Buku Kompas.
+Kementerian ESDM RI - Media Center - Arsip Berita - Sea Bed Mining Potensi Yang Belum Termanfaatkan. (2016). Kementerian ESDM. Retrieved September 25, 2024, from
+https://www.esdm.go.id/id/media-center/news-archives/sea-bed-mining-potensi-yang-belum-termanfaatkan
+Kementerian Koordinator Bidang kemaritiman Republik Indonesia. (2017). Kebijakan Kelautan Indonesia. Kementerian Koordinator Bidang kemaritiman Republik Indonesia.
+Kementerian Koordinator Kemaritiman dan Investasi, Pusat Hidrografi dan Oseanografi, TNI Angkatan Laut (Pushidrosal), & Badan Informasi Geospasial. (2018). Data Kelautan. Sidako KKHL. Retrieved September 10, 2024, from
+https://sidakokkhl.kkp.go.id/sidako/data-kelautan
+Kementerian Luar Negeri RI. (2024, September 2). Presiden RI Ajak Negara Global South Perkuat Solidaritas Hadapi Tantangan Global. Kemlu.go.id. Retrieved September 13, 2024, from
+https://kemlu.go.id/portal/i/read/6197/berita/presiden-ri-ajak-negara-global-south-perkuat-solidaritas-hadapi-tantangan-global
+Kementerian Sekretariat Negara Republik Indonesia. (2023, September 4). Melaui AOIP Indonesia Kukuhkan Peran ASEAN untuk Stabilitas, Perdamaian, dan Kemamuran Kawasan | Sekretariat Negara. Kementerian Sekretariat Negara. Retrieved October 25, 2024, from
+https://setneg.go.id/baca/index/melaui_aoip_indonesia_kukuhkan_peran_asean_untuk_stabilitas_perdamaian_dan_kemamuran_kawasan
+Kemlu RI. (2024, September 29). Menlu Retno Marsudi Serukan "Kepemimpinan Tanpa Hegemoni" di Sidang Majelis Umum PBB ke-79. Kemlu.go.id. Retrieved September 29, 2024, from
+https://kemlu.go.id/portal/id/read/6309/berita/menlu-retno-marsudi-serukan-kepemimpinan-tanpa-hegemoni-di-sidang-majelis-umum-pbb-ke-79
+Klein, N., Mossop, J., & Rothwell, D. R. (Eds.). (2011). Maritime Security: International Law and Policy Perspectives from Australia and New Zealand. Routledge.
+Klingebiel, S. (2023). Geopolitics, the Global South and Development Policy. IDOS Policy Brief - German Institute of Development and Sustainability, 14.
+Kominfo. (2023, May 23). Esensi ASEAN Outlook on the Indo-Pacific (AOIP). ASEAN Indonesia 2023. Retrieved October 25, 2024, from
+https://asean2023.id/id/news/indonesia-underscores-asean-outlook-on-indo-pacific-aoip-importance
+Lee, N. (2021). The Brandt Line after forty years: The more NorthÃ¢â‚¬â€œSouth relations change, the more they stay the same? RIS - Review of International Studies, 47(1). doi:10.1017/S026021052000039X Downloaded from
+https://doi.org/10.1017/S026021052000039X
+Le MiÃƒÂ¨re, C. (2014). Maritime Diplomacy in the 21st Century: Drivers and Challenges. Routledge.
+Main Maritime Shipping Routes and Chokepoints. (n.d.). Port Economics, Management and Policy. Retrieved September 19, 2024, from
+https://porteconomicsmanagement.org/pemp/contents/part1/interoceanic-passages/main-maritime-shipping-routes/
+Mignolo, W. (2011). The Darker Side of Western Modernity: Global Futures, Decolonial Options. Duke University Press.
+Ministry of External Affairs of India. (2024, August 14). The 3rd Voice of Global South Summit 2024. Ministry of External Affairs. Retrieved October, 2024, from
+https://www.mea.gov.in/press-releases.htm?dtl/38161/The_3rd_Voice_of_Global_South_Summit_2024
+Ministry of Foreign Affairs of Mexico. (2024, June 7). Mexico presents the Interoceanic Corridor of the Isthmus of Tehuantepec project in the U.S. Gobierno de MÃƒÂ©xico. Retrieved October 25, 2024, from
+https://www.gob.mx/sre/prensa/mexico-presents-the-interoceanic-corridor-of-the-isthmus-of-tehuantepec-project-in-the-u-s?idiom=en
+Mountfort, P., Geczy, A., & Peirson-Smith, A. (2019). Planet Cosplay: Costume Play, Identity and Global Fandom (P. Mountfort, A. Geczy, & A. Peirson-Smith, Eds.). Intellect.
+Notteboom, T., Pallis, A. A., & Rodrigue, J.-P. (2021). Port Economics, Management and Policy. Routledge.
+Patrick, S. (2023, August 15). The Term Ã¢â‚¬Å“Global SouthÃ¢â‚¬Â Is Surging. It Should Be Retired. Carnegie Endowment for International Peace. Retrieved September 13, 2024, from
+https://carnegieendowment.org/posts/2023/08/the-term-global-south-is-surging-it-should-be-retired?lang=en
+Patrick, S. (2024, October 9). BRICS Expansion, the G20, and the Future of World Order. Carnegie Endowment for International Peace. Retrieved October, 2024, from
+https://carnegieendowment.org/research/2024/10/brics-summit-emerging-middle-powers-g7-g20?lang=en
+Peraturan Presiden Nomor 16 Tahun 2017. (2017). Kebijakan Kelautan Indonesia. Kementerian Koordinator Bidang Kemaritiman Republik Indonesia.
+Pusat Data, Statistik dan Informasi Kementerian Kelautan dan Perikanan. (2024, Januari). Produk Domestik Bruto (PDB) Sektor Kelautan Perikanan. Kelautan dan Perikanan dalam Angka Tahun 2024, 11.
+Rahmawati, N., Sudarti, & Yushardi. (2022, Desember). Potensi Sumber Energi Air Laut di Indonesia sebagai Alternatif Energi Listrik. OPTIKA: Jurnal Pendidikan Fisika, 6(2), 219.
+Sanam, Azpah, I. A., Suhaedi, M., Guna, R. A., & Supriyatna, D. (2022, November). Potensi Energi Laut di Indonesia sebagai Sumber Listrik Baru Terbarukan. INOVTEK POLBENG, 12(2), 172.
+Setyawan, N. (2019). Geomaritime Indonesia: kajian histori, sumberdaya dan teknologi menuju Indonesia sebagai poros maritim dunia. Badan Informasi Geospasial.
+Trace, K., Frielink, B., & Hew, D. (2009, August). Maritime Connectivity in Archipelagic Southeast Asia: An Overview. Asian Development Bank Southeast Asia Working Paper Series, 1.
+United Nations Conference on Trade and Development. (2018). Forging a Path Beyond Borders: The Global South. United Nations.
+Widjajanto, A. (2022, Mei 19). Orasi Ilmiah HUT ke-57 LEMHANNAS RI. Transformasi LEMHANAS RI: Ketahanan Nasional Era Geopolitik 5.0.
+Read More
+References
+Adam, L. (2015, Maret). Kebijakan Konektivitas Maritim di Indonesia. Politica, 6(1).
+Ascencios, M. (Ed.). (2018). Forging a Path Beyond Borders: The Global South. UN.
+Ascensao, F., Clevenger, A. P., Fahrig, L., Jaeger, J. A. G., Laurance, W. F., & Pereira, H. M. (2018, July). Environmental Challenges for the Belt and Road Initiative. Nature Sustainability.
+Badan Pengembangan Infrastruktur Wilayah Kementerian PUPR. (2017). bank data BPIW. bpiw.pu.go.id. Retrieved Oktober 25, 2024, from
+https://bpiw.pu.go.id/bankdata/dictionary/words?q=Koridor+maritim&id=1055
+Cullinane, K., & Talley, W. K. (Eds.). (2006). Port Economics. Elsevier Science.
+Dados, N., & Connell, R. (2012, February). The Global South. SAGE Journals, 11(1).
+https://doi.org/10.1177/1536504212436479
+Directorate-General for ECHO. (2024, March 8). Joint Statement endorsing the activation of a maritime corridor to deliver humanitarian assistance to Gaza. European Civil Protection and Humanitarian Aid Operations. Retrieved October 25, 2024, from
+https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-statement-endorsing-activation-maritime-corridor-deliver-humanitarian-assistance-gaza-2024-03-08_en
+EBRD. (2020). Belt and Road Initiative (BRI). European Bank for Reconstruction and Development (EBRD). Retrieved October 25, 2024, from
+https://www.ebrd.com/what-we-do/belt-and-road/overview.html
+Feingold, S., & Willige, A. (2024, February 15). These are the world's most vital waterways for global trade. The World Economic Forum. Retrieved October 25, 2024, from
+https://www.weforum.org/agenda/2024/02/worlds-busiest-ocean-shipping-routes-trade/
+Feldt, L., Roell, D. P., & Thiele, R. D. (2013, April). Maritime Security - Perspectives for a Comprehensive Approach. ISPSW Strategy Series: Focus on Defense and International Security, (22).
+Hall, K. R. (2019). Maritime Trade and State Development in Early Southeast Asia. Humanities Open Books program, a joint initiative of the National Endowment for the Humanities and the Andrew W. Mellon Foundation.
+Handoko, W. (2020). Tol laut: konektivitas visi poros maritim Indonesia. Direktorat Jenderal Perhubungan Laut, Kementerian Perhubungan RI bekerjasama dengan Penerbit Buku Kompas.
+Kementerian ESDM RI - Media Center - Arsip Berita - Sea Bed Mining Potensi Yang Belum Termanfaatkan. (2016). Kementerian ESDM. Retrieved September 25, 2024, from
+https://www.esdm.go.id/id/media-center/news-archives/sea-bed-mining-potensi-yang-belum-termanfaatkan
+Kementerian Koordinator Bidang kemaritiman Republik Indonesia. (2017). Kebijakan Kelautan Indonesia. Kementerian Koordinator Bidang kemaritiman Republik Indonesia.
+Kementerian Koordinator Kemaritiman dan Investasi, Pusat Hidrografi dan Oseanografi, TNI Angkatan Laut (Pushidrosal), & Badan Informasi Geospasial. (2018). Data Kelautan. Sidako KKHL. Retrieved September 10, 2024, from
+https://sidakokkhl.kkp.go.id/sidako/data-kelautan
+Kementerian Luar Negeri RI. (2024, September 2). Presiden RI Ajak Negara Global South Perkuat Solidaritas Hadapi Tantangan Global. Kemlu.go.id. Retrieved September 13, 2024, from
+https://kemlu.go.id/portal/i/read/6197/berita/presiden-ri-ajak-negara-global-south-perkuat-solidaritas-hadapi-tantangan-global
+Kementerian Sekretariat Negara Republik Indonesia. (2023, September 4). Melaui AOIP Indonesia Kukuhkan Peran ASEAN untuk Stabilitas, Perdamaian, dan Kemamuran Kawasan | Sekretariat Negara. Kementerian Sekretariat Negara. Retrieved October 25, 2024, from
+https://setneg.go.id/baca/index/melaui_aoip_indonesia_kukuhkan_peran_asean_untuk_stabilitas_perdamaian_dan_kemamuran_kawasan
+Kemlu RI. (2024, September 29). Menlu Retno Marsudi Serukan "Kepemimpinan Tanpa Hegemoni" di Sidang Majelis Umum PBB ke-79. Kemlu.go.id. Retrieved September 29, 2024, from
+https://kemlu.go.id/portal/id/read/6309/berita/menlu-retno-marsudi-serukan-kepemimpinan-tanpa-hegemoni-di-sidang-majelis-umum-pbb-ke-79
+Klein, N., Mossop, J., & Rothwell, D. R. (Eds.). (2011). Maritime Security: International Law and Policy Perspectives from Australia and New Zealand. Routledge.
+Klingebiel, S. (2023). Geopolitics, the Global South and Development Policy. IDOS Policy Brief - German Institute of Development and Sustainability, 14.
+Kominfo. (2023, May 23). Esensi ASEAN Outlook on the Indo-Pacific (AOIP). ASEAN Indonesia 2023. Retrieved October 25, 2024, from
+https://asean2023.id/id/news/indonesia-underscores-asean-outlook-on-indo-pacific-aoip-importance
+Lee, N. (2021). The Brandt Line after forty years: The more NorthÃ¢â‚¬â€œSouth relations change, the more they stay the same? RIS - Review of International Studies, 47(1). doi:10.1017/S026021052000039X Downloaded from
+https://doi.org/10.1017/S026021052000039X
+Le MiÃƒÂ¨re, C. (2014). Maritime Diplomacy in the 21st Century: Drivers and Challenges. Routledge.
+Main Maritime Shipping Routes and Chokepoints. (n.d.). Port Economics, Management and Policy. Retrieved September 19, 2024, from
+https://porteconomicsmanagement.org/pemp/contents/part1/interoceanic-passages/main-maritime-shipping-routes/
+Mignolo, W. (2011). The Darker Side of Western Modernity: Global Futures, Decolonial Options. Duke University Press.
+Ministry of External Affairs of India. (2024, August 14). The 3rd Voice of Global South Summit 2024. Ministry of External Affairs. Retrieved October, 2024, from
+https://www.mea.gov.in/press-releases.htm?dtl/38161/The_3rd_Voice_of_Global_South_Summit_2024
+Ministry of Foreign Affairs of Mexico. (2024, June 7). Mexico presents the Interoceanic Corridor of the Isthmus of Tehuantepec project in the U.S. Gobierno de MÃƒÂ©xico. Retrieved October 25, 2024, from
+https://www.gob.mx/sre/prensa/mexico-presents-the-interoceanic-corridor-of-the-isthmus-of-tehuantepec-project-in-the-u-s?idiom=en
+Mountfort, P., Geczy, A., & Peirson-Smith, A. (2019). Planet Cosplay: Costume Play, Identity and Global Fandom (P. Mountfort, A. Geczy, & A. Peirson-Smith, Eds.). Intellect.
+Notteboom, T., Pallis, A. A., & Rodrigue, J.-P. (2021). Port Economics, Management and Policy. Routledge.
+Patrick, S. (2023, August 15). The Term Ã¢â‚¬Å“Global SouthÃ¢â‚¬Â Is Surging. It Should Be Retired. Carnegie Endowment for International Peace. Retrieved September 13, 2024, from
+https://carnegieendowment.org/posts/2023/08/the-term-global-south-is-surging-it-should-be-retired?lang=en
+Patrick, S. (2024, October 9). BRICS Expansion, the G20, and the Future of World Order. Carnegie Endowment for International Peace. Retrieved October, 2024, from
+https://carnegieendowment.org/research/2024/10/brics-summit-emerging-middle-powers-g7-g20?lang=en
+Peraturan Presiden Nomor 16 Tahun 2017. (2017). Kebijakan Kelautan Indonesia. Kementerian Koordinator Bidang Kemaritiman Republik Indonesia.
+Pusat Data, Statistik dan Informasi Kementerian Kelautan dan Perikanan. (2024, Januari). Produk Domestik Bruto (PDB) Sektor Kelautan Perikanan. Kelautan dan Perikanan dalam Angka Tahun 2024, 11.
+Rahmawati, N., Sudarti, & Yushardi. (2022, Desember). Potensi Sumber Energi Air Laut di Indonesia sebagai Alternatif Energi Listrik. OPTIKA: Jurnal Pendidikan Fisika, 6(2), 219.
+Sanam, Azpah, I. A., Suhaedi, M., Guna, R. A., & Supriyatna, D. (2022, November). Potensi Energi Laut di Indonesia sebagai Sumber Listrik Baru Terbarukan. INOVTEK POLBENG, 12(2), 172.
+Setyawan, N. (2019). Geomaritime Indonesia: kajian histori, sumberdaya dan teknologi menuju Indonesia sebagai poros maritim dunia. Badan Informasi Geospasial.
+Trace, K., Frielink, B., & Hew, D. (2009, August). Maritime Connectivity in Archipelagic Southeast Asia: An Overview. Asian Development Bank Southeast Asia Working Paper Series, 1.
+United Nations Conference on Trade and Development. (2018). Forging a Path Beyond Borders: The Global South. United Nations.
+Widjajanto, A. (2022, Mei 19). Orasi Ilmiah HUT ke-57 LEMHANNAS RI. Transformasi LEMHANAS RI: Ketahanan Nasional Era Geopolitik 5.0.
+Author biographies is not available.
+How to Cite
+Global South Corridor sebagai Instrumen Diplomasi Indonesia dalam Implementasi Kerja Sama Konektivitas Maritim. (2024).
+JURNAL HUBUNGAN LUAR NEGERI
+(2), 182Ã¢â‚¬â€œ209.
+https://doi.org/10.70836/jh.v9i2.82
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+PDF
+Statistic
+Read
+Counter :
+974
+Download :
+872
+Table Of Contents

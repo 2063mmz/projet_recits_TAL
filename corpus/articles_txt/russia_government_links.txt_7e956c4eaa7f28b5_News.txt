@@ -1,0 +1,316 @@
+seed_url: http://government.ru/en/all/34600/
+final_url: http://government.ru/en/news/21123/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+The 20th regular meeting between the heads of the Russian and Chinese governments
+17 December 2015
+12:10
+Beijing, People’s Republic of China
+Russian Prime Minister Dmitry Medvedev met with Premier of the State Council of the People’s Republic of China Li Keqiang as part of the 20th regular meeting of the Russian and Chinese heads of government. The sides signed a series of documents and made statements for the press.
+Dmitry Medvedev’s conversation with Li Keqiang, Premier of the State Council of the People's Republic of China
+Dmitry Medvedev’s speech
+The signing of joint documents
+Dmitry Medvedev’s statement for the press
+Dmitry Medvedev’s conversation with Li Keqiang, Premier of the State Council of the People's Republic of China
+17 December 2015
+Dmitry Medvedev’s conversation with Li Keqiang, Premier of the State Council of the People's Republic of China
+17 December 2015
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev’s conversation with Li Keqiang, Premier of the State Council of the People's Republic of China
+Dmitry Medvedev and Li Keqiang, Premier of the State
+Council of the People's Republic of China, met prior to the 20
+regular meeting of the heads of the Russian and Chinese governments.
+***
+From Dmitry Medvedev’s
+speech:
+Dmitry Medvedev and Li Keqiang, Premier of the State Council of the People's Republic of China, during a welcome ceremony for the Russian Prime Minister
+17 December 2015
+Dmitry Medvedev and Li Keqiang, Premier of the State Council of the People's Republic of China, during a welcome ceremony for the Russian Prime Minister
+17 December 2015
+The 20th regular meeting between the heads of the Russian and Chinese governments
+17 December 2015
+The 20th regular meeting between the heads of the Russian and Chinese governments
+17 December 2015
+The 20th regular meeting between the heads of the Russian and Chinese governments
+17 December 2015
+The signing of joint documents
+17 December 2015
+The signing of joint documents
+17 December 2015
+The signing of joint documents
+17 December 2015
+Press statements by Li Keqiang and Dmitry Medvedev
+17 December 2015
+Press statements by Li Keqiang and Dmitry Medvedev
+17 December 2015
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev and Li Keqiang, Premier of the State Council of the People's Republic of China, during a welcome ceremony for the Russian Prime Minister
+Today we are holding the 20th anniversary meeting
+between the governments of Russia and China. This unique, effective mechanism
+of regular annual sessions is almost 20 years old. Each of these meetings results
+in the signing of documents. Our last meeting in Moscow was quite successful:
+we signed about 40 agreements. Likewise, today, we will plan to conclude this
+meeting with the signing of many new joint documents.
+I totally support what Mr Li Keqiang said about the
+need to react to the current economic environment and to the weakness and
+volatility of markets. We need to find new solutions and directions for
+cooperation, including in dealing with a number of challenges that our
+countries and economies are facing.
+Visit
+Dmitry Medvedev’s visit to the People’s Republic of China
+We have an ambitious goal, which we have set and are striving
+to achieve: to increase trade volume between our two countries to $200 billion
+by 2020.
+It is vital that we continue along the path of
+collaboration that we have designated for ourselves. We have a working
+mechanism for preparing for meetings of the heads of government. This particular
+meeting was prepared by the deputy prime ministers, representatives of the Premier
+of the State Council, and ministers.
+***
+The signing of joint documents
+Following the
+20th regular meeting between the heads of the Russian and Chinese governments,
+the parties signed the following documents:
+A Joint
+Communique on the results of the 20th regular meeting between the heads of the
+Russian and Chinese governments;
+Minutes of the
+2nd meeting of the Russian-Chinese Commission on Investment Cooperation;
+Minutes of the
+12th meeting of the Russian-Chinese Intergovernmental Commission on Energy
+Cooperation;
+Minutes of the
+16th meeting of the Russian-Chinese Commission on Cultural Cooperation;
+Minutes of the
+19th meeting of the Russian-Chinese Commission on Preparing Regular Meetings
+between Heads of Government;
+Protocol to the
+Agreement between the Government of the Russian Federation and the Government
+of the People’s Republic of China on the Establishment and Organisation of a
+Mechanism for Regular Meetings between the Heads of the Governments of Russia
+and China of 27 June 1997;
+Protocol to the
+Agreement between the Governments of the Russian Federation and the People’s
+Republic of China on Cooperation in the Implementation of the Yamal LNG
+Project;
+Agreement
+between the Ministry of Transport of the Russian Federation and the Ministry of
+Transport of the People’s Republic of China on Temporary Transportation of
+Cargo by Automobile Transport between the Territories of the Russian Federation
+and the People’s Republic of China via the Republic of Kazakhstan;
+Protocol between
+Russia’s Federal Service for Veterinary and Phytosanitary Supervision and China’s
+General
+Administration of Quality Supervision, Inspection and Quarantine on the
+Phytosanitary Requirements for Wheat Exported from the Russian Federation to
+the People’s Republic of China;
+Protocol between Russia’s
+Federal Service for Veterinary and Phytosanitary Supervision and China’s
+General Administration of Quality Supervision, Inspection and Quarantine on the
+Phytosanitary Requirements for Corn, Rice, Soy and Rapeseed Exported from the
+Russian Federation to the People’s Republic of China;
+Memorandum of Understanding
+between Russia’s Ministry of Economic Development and Ministry of Industry and
+Trade and the People’s Republic of China’s Ministry of Commerce and the
+People’s Government of the Heilongjiang Province on the Preparations and
+Holding of the Russian-Chinese EXPO;
+Memorandum of Understanding
+between the Russian Federation’s Ministry of Economic Development and the
+People’s Republic of China’s Ministry of Commerce on Stimulating Bilateral
+Trade;
+Memorandum of Understanding
+and Cooperation between the Russian Federation’s Ministry of Finance and the
+People’s Republic of China’s Ministry of Finance;
+Protocol between the Russian
+Federation’s Ministry of Education and Science, the People’s Republic of
+China’s Ministry of Science and Technology, the People’s Republic of China’s
+Academy of Sciences and the Joint Institute for Nuclear Research (JINR) on the
+Prospects of Cooperation on the Complex of Superconducting Rings in Colliding
+Heavy Ion Beams;
+Memorandum of Understanding
+between the Russian Federation’s Ministry of Culture and the People’s Republic
+of China’s Ministry of Education on Cultural Cooperation in Education and
+Science;
+Memorandum of Understanding
+between The Russian Federation’s Ministry for the Development of the Far East
+and the People’s Republic of China’s State Committee for the Development and
+Reform to Strengthen Russian-Chinese Regional, Industrial and Investment
+Cooperation in the Far East;
+Memorandum between the Russian
+Federation’s Federal Customs Service and the People’s Republic of China’s Main
+Customs Directorate on Cooperation in Personnel Training;
+Memorandum of Understanding
+between the Russian Federation’s Federal Service for Supervision of Healthcare
+and the People’s Republic of China’s Food and Drug Administration;
+Joint Statement on Cooperation
+in Using Navigation Technologies, GLONASS and BeiDou Satellite Systems for
+Peaceful Purposes;
+Cooperation Agreement between
+Russia’s Roscosmos State Space Corporation and the China National Space
+Administration in the Area of Electronic Components for Space Equipment;
+Action Plan for the
+Russian-Chinese Committee for Friendship, Peace and Development for 2016;
+Memorandum on Strategic Partnership
+between Russia’s Federal Agency for the Commonwealth of Independent States, Compatriots
+Living Abroad, and International Cultural Cooperation and Chinese People's
+Association for Friendship with Foreign Countries;
+Memorandum of Understanding
+between Russia’s Federal Agency for Tourism and Union Pay International
+(People’s Republic of China);
+Agreement on Project Planning
+and Construction between Gazprom and China National Petroleum Corporation;
+Memorandum of Understanding
+between Gazprom Neft and China National Petroleum Corporation;
+Cooperation Agreement between
+Radio Sibir Holding and China Radio International;
+Agreement on Strategic
+Cooperation between Rusnano and the China Aerospace Science & Industry
+Corporation;
+Purchase agreement for 9.9
+percent of shares of Yamal LNG between NOVATEK and China’s Silk Road Fund;
+Commercial agreement between
+Russia’s Vnesheconombank and the China Development Bank for up to 10 billion for up to 5
+years;
+Cooperation Agreement between
+the Russian Direct Investment Fund, Vnesheconombank and the Chinese Eurasian
+Fund of Economic Cooperation on Investment in Priority Economic Sectors of
+Russia and China;
+Cooperation Agreement between
+Russia’s Rostech State Corporation and the China North Industries Corporation
+NORINCO;
+Agreement on Strategic
+Cooperation between Russia’s Rostech State Corporation and the China South
+Industries Group Corporation (CSGC);
+Cooperation Agreement between
+Russia’s Vi Holding investment and industrial group and China’s aluminum
+producing company Zhongfu Industrial in Relation to the Measures to Complete
+the Joint Russian-Chinese Investment Project of Construction and  Launch of High-Tech Rolling Production in the
+Innovative Territorial Cluster of Gongyi, Henan Province;
+Agreement on Strategic
+Cooperation in the Development of an I-Teco Center of Cloud Computing and Data
+Processing between I-Teco, Chinese Eurasian Fund of Economic Cooperation and Huawei;
+Memorandum of Understanding
+between Russia’s Rosneft and the China Petrochemical Corporation (Sinopec
+Group) on Cooperation in Petrochemical and Gas Projects in Eastern Siberia.
+***
+Dmitry Medvedev’s statement
+for the press
+Press statements by Li Keqiang and Dmitry Medvedev
+Dear colleague, Premier of the State Council of the
+People’s Republic of China Li Keqiang! Dear media representatives! Let me sum
+up the results of our work. We have just held a session of our 20
+regular meeting of the Russian and Chinese heads of government. The results
+indicate that our bilateral relations have reached a special level, developing into
+a strategic partnership of cooperation, which has permeated the work of our
+governments over this past year.
+Our
+governments have been meeting for 20 years to outline plans for the future and
+draft working documents.
+But, frankly speaking, only in recent years have these
+meetings started to bear visible results for our economies and, consequently,
+for the people living in China and Russia. I remember very well this time — in
+fact it was quite recently some 10, maybe 12 years ago — when our trade volume
+was significantly less than it is now.
+Investment cooperation was also rather underdeveloped,
+despite the fact that our political relations were quite good and we
+coordinated many foreign policy issues. Only in recent years have we managed to make a qualitative leap forward. Our
+governments are engaged in a very intensive dialogue, all colleagues
+communicate regularly, as we just discussed with Mr Li Keqiang, including
+constant contact at the level of deputy prime ministers, the Government, the
+State Council, and ministers.
+This explains the fact that we have witnessed the
+signing of 33 documents. Last year in Moscow, we also signed about 40
+documents. As was rightly said here, it is not only the results of existing
+cooperation, but also plans for the future, the potential of our relations, and
+the opportunities that we can turn into a reality.
+My colleague is absolutely right saying that the state
+of the global economy and the situation in world markets, at least for our countries,
+is not the most favourable right now. This is also true with regard to our
+economies. It is therefore even more important to find areas of cooperation,
+create new investment projects, and increase trade. While it is growing in
+terms of volume and everything works quite well, it has been falling in value
+terms, meaning that we need to find new niches and in some areas just increase
+volumes. This is also possible.
+In fact, today for the first time, perhaps, we have
+taken a step in a very important direction to develop cooperation in
+agriculture. China is the most populous country on the planet and Russia is the
+world’s largest country with 10 percent of the world reserves of arable land.
+If we combine this potential, we will achieve a completely new situation. We
+have agreed to do this and signed a number of agreements to build our relations
+in this area.
+are talking about Russian oil supplies to China, which have increased in
+volume, as we noted, and the project related to gas issues. We are building our
+pipeline to China along the eastern route, talks and discussions are underway
+regarding the western route, so all of these areas remain. There are some new
+projects related to new forms of energy and the development of new markets,
+including the Yamal LNG project, which has already been mentioned today.
+There
+are quite a few major breakthrough ideas, which can also be converted into
+achievements and agreements. We communicate and have made good progress on
+cooperation in the nuclear field. Here, too, there are different areas that we
+discussed today. We have agreed with my colleague that future agreements should
+be formed taking into account mutual interests, based on so-called
+comprehensive package approaches to tackling issues.
+fully support this approach. Our companies, present here today, are continuing
+their contacts. It is very important that there are such forms of communication
+as the Expo. Next
+year,
+the Expo
+will be
+held in
+Russia.
+And it is definitely crucial that contacts between
+business communities, between business environments should not be confined to
+the framework of big business, it is important to develop contacts between
+medium and small businesses.
+Our chambers of commerce and business communities
+should work to this end to make those contacts as diverse as possible.
+We have been stepping up our relations in the
+humanitarian area. Starting in 2006, we have made unrivalled steps in this
+direction. Practically each year has been marked by a most significant topic.
+These are cross years of Russia in China and China in Russia, the years
+dedicated to the Russian and Chinese languages, the years of youth exchanges.
+The next year will be dedicated to mass media. Let’s put it frankly, the
+Russian Federation does not have cultural relations that far advanced with any
+other country but the People’s Republic of China.
+I have conversed with bachelor and PhD students who
+study Russian. I can’t deny the conversations gave me a lot of pleasure. They
+are deeply committed people who have a fundamental knowledge of Russian
+literature. I have experienced a lot of positive emotions, at least for myself,
+and I hope they have as well.
+I and my Chinese counterpart Li Keqiang chaired a
+meeting of the head of governments of the Shanghai Cooperation Organisation. I
+would also like to express my gratitude for the brilliant preparation of the
+event. We have confirmed the proximity of our views regarding the prospects of
+global and regional economic development. The plans that were outlined are also
+wide range. We shall move in that direction, but we will do this taking into
+account the underlying realities, including such a comprehensive basic idea as
+the creation of a free trade zone within the SCO. All of this is aimed at
+making the functioning of our economies, and consequently, the life of our
+peoples, more stable and predictable.
+I enjoyed
+participating in the 2
+World Internet Conference in Wuzhen. The
+conference is unrivalled in itself, as it helps to raise international
+information security. I hope the outcome of the conference will be taken into
+account not just by Russia and China but also other nations and public
+structures that ensure the operation of this social system, which is important
+for society.
+I would like to sincerely thank our Chinese friends
+and personally Li Keqiang, Premier of the State Council of the People's
+Republic of China, for the hospitality and the opportunity to see Zhengzhou,
+Hanzhou and Wuzhen, cities rich in history and modern achievements. It was very
+interesting, thank you very much for that. In turn, I invite Mr Li Keqiang to
+visit the Russian Federation for the next meeting of our countries’ governments
+in 2016. Thank you.
+Government of the Russian Federation
+http://government.ru/en/news/21123/
+Highlight selection

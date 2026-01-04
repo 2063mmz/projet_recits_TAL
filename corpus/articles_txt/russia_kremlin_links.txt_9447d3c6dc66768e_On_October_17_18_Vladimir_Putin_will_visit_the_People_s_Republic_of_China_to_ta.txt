@@ -1,0 +1,35 @@
+seed_url: http://en.kremlin.ru/events/president/news/72511
+final_url: http://en.kremlin.ru/events/president/news/72511
+title: On October 17–18, Vladimir Putin will visit the People's Republic of China to take part in the events of the third Belt and Road Forum for International Cooperation
+date: 2023-10-16
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+On October 17–18, Vladimir Putin will visit the People's Republic of China to take part in the events of the third Belt and Road Forum for International Cooperation
+Announcement, October 17 − 18, 2023
+The agenda of Vladimir Putin’s visit
+to Beijing includes talks with President of the People's Republic of China
+Xi Jinping
+Xi Jinping
+President of People's Republic of China
+The two leaders will discuss issues of further developing the Russian-Chinese
+comprehensive partnership and strategic interaction, as well as current
+regional and international issues.
+A number of bilateral meetings with the leaders of states participating in the forum have also been scheduled.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in sections:
+Announcements
+Publication date:
+October 16, 2023, 17:00
+Direct link:
+en.kremlin.ru/d/72511
+Text version

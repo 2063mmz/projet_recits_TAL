@@ -1,0 +1,99 @@
+seed_url: https://president.uz/en/lists/view/3932
+final_url: https://president.uz/en/lists/view/3932
+title: Speech by President Shavkat Mirziyoyev to the opening ceremony of the third China International Import Expo 2020
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Speech by President Shavkat Mirziyoyev to the opening ceremony of the third China International Import Expo 2020
+04.11.2020
+Distinguished Heads of State and Government!
+Esteemed heads of delegations and exposition participants!
+First and foremost, allow me to express gratitude to His Excellency President of the People’s Republic of China Mr. Xi Jinping for the invitation to take part in the opening ceremony of the third China International Import Expo.
+I greet all the participants of the event, who have gathered to demonstrate the economic achievements of their countries, the latest developments and products.
+Good to know that representatives of 180 nations and international organizations are taking part in Expo 2020.
+This is a clear indication of the growing dynamics of relations between the PRC and foreign partners.
+Unfortunately, the coronavirus pandemic has had a negative impact on the international economy. The volume of world trade has decreased, and global production chains and trade links have been partially disrupted.
+The global socio-economic crisis caused by the pandemic has highlighted the urgent need for closer international coordination and interaction at the bilateral and regional levels.
+Holding such a large-scale event as this Expo is suggestive of China’s success in restoring the national economy as well as the exceptional demand for broader international trade and economic cooperation.
+Such platforms can prove an important factor in the development of international economic dialogue and the soonest resolution of the global socio-economic problems caused by the pandemic.
+I will take this opportunity to express my heartfelt gratitude to the leadership of the People’s Republic of China for the significant assistance and support provided to Uzbekistan in combating the coronavirus infection.
+Dear exhibitors!
+Uzbekistan sees great prospects in extensive economic partnership with China building on the mutual complementary nature of our economies.
+Our country took an active part in the first two Expos in Shanghai, which gave a significant impetus to bilateral trade and investment cooperation.
+This time around, the pandemic notwithstanding, Uzbek companies are energetic again at the Expo.
+Dear friends!
+Uzbekistan highly appreciates the new strategic course of the President of the PRC, aimed at ensuring stability in commerce, eliminating trade barriers, as well as stimulating global economic growth by bolstering the interconnectedness of the economies of diverse nations.
+I would like to dwell on the most critical aspects of trade and economic cooperation.
+First. Liberalization of the national economy, including the foreign trade regime, has been a consistent priority in Uzbekistan.
+The objectives of joining the World Trade Organization and delivering an even more favorable investment climate are being addressed.
+We are actively working to harmonize our regulatory framework with international standards. We are improving and significantly simplifying the mechanisms of customs and tariffs, fiscal regulation and export-import procedures, continuing to create green corridors.
+We propose to agree on the range of products in demand in the markets of the two countries and to stimulate investments in projects designed to organize their production.
+Second. Consolidation of transport cooperation is a key priority.
+Uzbekistan pays much attention to the accelerated development of transport and transit potential, to the formation of an effective system of land communications in the region.
+We have actively supported the One Belt One Road initiative, which offers wide-ranging prospects for strengthening regional and interregional connectivity.
+Today, Central Asia, as in the days of the Great Silk Road, can once again become a hub of trade, economic and transport-transit corridors between Europe and Asia.
+We welcome the launch of a new multimodal transport corridor China-Kyrgyzstan-Uzbekistan, and are in favor of speeding up the development of project for the construction of a railway along this route.
+We also propose to join efforts in shaping an integrated network of land ports, logistics and wholesale distribution centers within the framework of the Belt and Road initiative.
+Initiatives to create new transport corridors linking the railroad systems of Central and South Asia are of great importance.
+This would seal the overland transport system of the Eurasian continent.
+At the 75th session of the United Nations General Assembly, Uzbekistan came up with a proposal to establish a Regional Center for Transport and Communication Connectivity under the auspices of the UN.
+We look forward to receiving energetic support for this initiative by partners and international organizations.
+Third. Uzbekistan is currently boosting its industrial development. We are pursuing a policy of reducing raw material exports, diversifying and increasing the production of goods with high added value.
+In this context, we stand for the dynamic advancement of industrial cooperation, organization of new joint ventures, primarily for the deep processing of mineral resources and the production of goods with high added value for export markets.
+To this end, we propose to adopt a joint program of industrial cooperation and encourage business representatives of the two nations to implement specific projects through various instruments of joint investment funds, investment guarantees and insurance.
+Fourth. Given the pandemic, stepping up the processes of digitalization of the economy has acquired particular urgency.
+We propose to work out joint measures for the even wider introduction of information technologies in international trade, customs clearance, transport and education.
+Growth in trade volumes through the use of electronic trading platforms is rather essential.
+Uzbekistan is ready to cooperate in the implementation of promising schemes in e-commerce.
+Fifth. The COVID-19 pandemic remains a key issue on the global agenda. This crisis is likely to be protracted.
+It is clear that in the face of declining production, mounting demand for medical supplies, financial instability and disruption to global supply chains, no country can overcome the negative effects of the pandemic by its own.
+The situation requires solidarity, coordinated and, crucially, effective action in addressing this vital issue.
+In this respect, we also propose to build up interaction in healthcare, exchange experience in countering the pandemic and epidemiological threats of trans-boundary nature.
+Ladies and gentlemen,
+We are convinced that Expo 2020 will afford an additional impetus to the process of restoring world trade and expanding international economic cooperation.
+I wish all the participants every success in their endeavors.
+Thank you for attention.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

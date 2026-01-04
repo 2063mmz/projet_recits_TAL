@@ -1,0 +1,15 @@
+seed_url: https://president.mn/en/2019/04/24/president-departs-for-china-to-pay-a-state-visit-and-attend-the-belt-and-road-forum/
+final_url: https://president.mn/en/2019/04/24/president-departs-for-china-to-pay-a-state-visit-and-attend-the-belt-and-road-forum/
+title: PRESIDENT DEPARTS FOR CHINA TO PAY A STATE VISIT AND ATTEND THE BELT AND ROAD FORUM
+date: 2019-04-24T02:25:54+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/24 10:25:54
+PRESIDENT DEPARTS FOR CHINA TO PAY A STATE VISIT AND ATTEND THE BELT AND ROAD FORUM
+President of Mongolia Khaltmaagiin Battulga departed Mongolia today to pay a state visit to the People’s Republic of China, by the invitation of President Xi Jinping, and attend the Second Belt and Road Forum for International Cooperation  between April 24-28.
+During his first state visit, which takes place on April 24-25, President Battulga will hold official talks with Chinese counterpart, President Xi Jinping.
+The President also plans to attend the Leaders’ Roundtable Meeting of the Second Belt and Road Forum for International Cooperation and deliver a speech.
+On the visit, President Battulga is accompanied by official delegates, including D.Tsogtbaatar, Minister of Foreign Affairs, D.Gankhuyag, Ambassador Extraordinary and Plenipotentiary of Mongolia to the People’s Republic of China, Ya.Sanjmyatav, Deputy Chairman of Parliament and Head of the Mongolian-Chinese Group in Parliament, U.Enkhtuvshin, Deputy Prime Minister, Ch.Ulaan, Minister of Food, Agriculture, and Light Industries, B.Enkh-Amgalan, Minister of Road and Transport Development, Z.Enkhbold, Chief of Staff to the President of Mongolia, and A.Gansukh, Secretary of the National Security Council, as well as members of the media.

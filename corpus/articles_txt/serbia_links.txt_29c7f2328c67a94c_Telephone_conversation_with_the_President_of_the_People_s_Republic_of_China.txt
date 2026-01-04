@@ -1,0 +1,27 @@
+seed_url: https://www.predsednik.rs/en/press-center/press-releases/telephone-conversation-with-the-president-of-the-peoples-republic-of-china-30104
+final_url: https://www.predsednik.rs/en/press-center/press-releases/telephone-conversation-with-the-president-of-the-peoples-republic-of-china-30104
+title: Telephone conversation with the President of the People's Republic of China
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Press Releases
+24.06.2021. - 14:07
+Telephone conversation with the President of the People's Republic of China
+President of the Republic of Serbia Aleksandar Vučić spoke today by telephone with the President of the People's Republic of China, Xi Jinping, and pointed out that Serbia is proud of the extraordinary relations and strong cooperation it has with China, which are at the highest level in history. The President at the same time expressed the readiness for further strengthening of cooperation in all areas.
+President Vučić stated: "The comprehensive strategic partnership between the two countries and the steel friendship between the two nations strengthened during the pandemic period, which was a kind of test for friendly relations between the countries, but Serbia and China passed it with the highest grades," thanking President Xi for the statesmanlike solidarity and fraternal care, which was reflected through assistance in medical equipment and regular delivery of vaccines, at a time when many countries were facing difficulties in procuring them. He especially emphasised that we are extremely proud of the agreement with China and the UAE for the construction of a factory for the production of vaccines of the Chinese company "Sinopharm" in Serbia.
+In a telephone conversation, President Vučić maintained the importance of Chinese investments, as well as the railways and roads on which we work together in Serbia, for the progress of the Serbian economy, which is among the first countries in Europe in terms of economic growth, thanking President Xi for his engagement and assistance in the implementation of these investments and infrastructure projects.
+On this occasion, President Vučić congratulated President Xi on the 100th anniversary of the establishment of the Communist Party of China, expressing great respect for the successes achieved by the Communist Party in building a strong, peaceful China, as one of the countries with the highest influence globally and the second economic power of the world. He also expressed confidence that, under the leadership of President Xi, the Communist Party will continue to lead China into new successes.
+President Vučić expressed Serbia's firm commitment to further strengthening cooperation within the China-CEEC mechanism and for wider participation in the "Belt and Road" initiative, emphasising that this provides a perspective for strengthening cooperation at the regional and global levels.
+On this occasion, President Vučić proposed to President Xiu to open a direct flight between Belgrade and Beijing or Belgrade and Shanghai, believing that regular air traffic would bring our nations even closer and open up new opportunities for economic and any other cooperation.
+President Vučić said he was honoured to talk to President Xi today and reiterated his invitation to visit Serbia.
+President Xi expressed satisfaction that he was talking to, as he said, "an old and sincere friend", such as President Vučić.
+On this occasion, President Xi also expressed China's support for Serbia's territorial integrity and sovereignty and stressed the need for closer coordination in multilateral forums, advocating opposition to unilateralism and hegemony.
+President Xi pointed out the importance of infrastructure development, artificial intelligence and digitalisation, as the basis for future progress.
+Responding to President Vučić's proposal to establish a direct flight between Serbia and China, President Xi said that it would be of great importance for the two countries and expressed personal support for the implementation of that proposal.
+He also pointed out that he has wonderful memories of his visit to Serbia in 2016 and that he will visit it again as soon as the COVID-19 pandemic passes, noting that he has not visited any country since the pandemic broke out. President Xi suggested that the Ministries of Foreign Affairs of Serbia and China start working on determining the possible date of his visit.
+In today's telephone conversation, President Vučić and President Xi agreed to remain in close working contact.
+Belgrade,
+24th June 2021

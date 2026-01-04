@@ -1,0 +1,75 @@
+seed_url: https://ncsp.gov.ng/whoweare/
+final_url: https://ncsp.gov.ng/whoweare/
+title: Who We Are – NCSP
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+About US
+ABOUT NCSP
+The Nigeria-China Strategic Partnership (NCSP) was initiated to strengthen diplomatic and economic ties between Nigeria and China, ensuring the efficient execution of joint initiatives and investments that benefit both nations.
+Established under the leadership of President Bola Ahmed Tinubu following agreements reached with President Xi Jinping at FOCAC 2024, NCSP serves as a bridge between both nations, facilitating high-impact partnerships that align with Nigeria’s development priorities and the Renewed Hope Agenda along with China’s Belt and Road Initiative.
+By prioritizing industrialization, economic diversification, and sustainable trade practices, NCSP is set to redefine Nigeria-China relations from transactional and project contract engagements to long-term development-driven collaborations.
+Through its mandate, NCSP promotes technology transfer, infrastructure development, and sectoral growth in the following sectors:
+Infrastructure Development
+Construction and modernisation of roads, railways, bridges, and airports.
+Power sector investments, including renewable energy projects.
+Smart city projects and urban development plans.
+Science & Technology
+Collaboration on artificial intelligence, digital transformation, and research innovation.
+Knowledge sharing and capacity building in technology-driven industries.
+Strengthening Nigeria’s digital economy through smart investments.
+Agriculture
+Development of cassava, rice, and other agro-processing initiatives.
+Technology-driven irrigation and mechanization for enhanced food security.
+Livestock development
+Access to funding and markets for Nigerian farmers.
+Health
+Construction and upgrading of hospitals and research centres.
+Partnerships for local pharmaceutical production.
+Exchange programs for Nigerian and Chinese medical professionals.
+Manufacturing & Industrialization
+Boosting local production of automobiles, renewable energy products, textiles, and consumer goods, amongst others.
+Encouraging joint ventures and foreign direct investment (FDI) in Nigeria’s manufacturing sector.
+Mining & Natural Resources
+Mechanized extraction and processing of solid minerals.
+Facilitating China-backed investments in mining technology and exploration.
+AREAS OF FOCUS
+NCSP focuses on several strategic sectors that are essential for Nigeria’s growth and long-term economic sustainability:
+Infrastructure
+Expanding transportation networks, power grids, and urban development projects leveraging Chinese technical expertise and financing.
+Science and Technology
+Advancing Nigeria’s digital economy through artificial intelligence, smart infrastructure, and industrial automation.
+Agriculture
+Strengthening agro-processing, mechanization, and supply chain integration to boost Nigeria’s food security and export potential.
+Health
+Improving medical infrastructure, pharmaceutical manufacturing, and telemedicine partnerships between Nigeria and China.
+Manufacturing
+Driving industrial manufacturing through technology partnerships, factory setups, and value-chain expansion.
+Mining – Facilitating Chinese investments in Nigeria’s solid minerals sector while ensuring sustainable and environmentally responsible extraction practices.
+Mining
+Facilitating Chinese investments in Nigeria’s solid minerals sector while ensuring sustainable and environmentally responsible extraction practices.
+OTHER AREAS
+Beyond the primary areas, NCSP also supports:
+Financial Services
+– Promoting innovative financing models that support SMEs, infrastructure development, and trade financing.
+Consumer and Retail
+– Enhancing trade in consumer goods, retail expansion, and logistics integration for Nigerian and Chinese markets.
+Energy and Natural Resources
+– Partnering on oil, gas, and renewable energy projects to drive Nigeria’s energy security.
+Government and Public Sector
+– Strengthening institutional cooperation for regulatory harmonization, policy formulation, and governance improvement.
+Strategic Goals
+Key objectives focused on fostering sustainable investments, industrial growth, economic diversification, and mutually beneficial partnerships between Nigeria and China.
+Strengthen Bilateral Relations
+Champion Tech Transfer
+Promote Sustainable Trade
+Ease of Doing Business
+Project Management
+Financial Planning
+NCSP BEGINNINGS
+President Bola Tinubu (GCFR) Appointed
+Mr Joseph Tegbe as Director-General and Global LiASON FOR THE nIGERIA-CHINA strategic partnership
+following agreements reached with chinese president Xi Jinping During The forum on China-Africa Cooperation (FOCAC) in September 2024.

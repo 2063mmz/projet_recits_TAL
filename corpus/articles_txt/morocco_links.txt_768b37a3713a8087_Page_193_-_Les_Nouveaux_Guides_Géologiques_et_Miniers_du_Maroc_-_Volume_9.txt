@@ -1,0 +1,46 @@
+seed_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page193.html
+final_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page193.html
+title: Page 193 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+date: 
+via: requests
+http_status: 200
+content_type: text/html
+note: ok
+
+Page 193 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+P. 193
+Volume 9 - F:Mise en page 1  7/11/12  15:44  Page 193
+5- Les mines de la Meseta méridionale et du
+Haut Atlas occidental
+The Mines in the Southern Meseta and
+Western High Atlas
+En dehors de l’importante mine de phosphate de Benguerir (à laquelle Youssoufia se rattache),
+les mines présentées dans cette section sont toutes liées à l’évolution hercynienne de la chaîne
+mésétienne (figs. 5.01, 5.02). Par rapport aux régions anti-atlasiques (sections 1 à 3), la différence
+est forte. Elle est liée à l’importance de la subsidence au Carbonifère inférieur et au magmatisme
+tholéïtique qui l’a accompagnée, ainsi qu’à l’intensité du plissement synmétamorphique durant
+le Carbonifère supérieur et au magmatisme felsique (granites, rhyolites) consécutif. Parmi ces
+mines « hercyniennes » (tabl. 1), les mines de Draa Sfar et Hajjar sont des gisements
+VMS/SEDEX de classe mondiale.
+Besides of the important Benguerir phosphates mine (with which the Youssoufia mine is con-
+nected), all the mines presented hereafter are related to the Hercynian evolution of the Meseta
+Belt (figs 5.01, 5.02). These mines contrast with those of the Anti-Atlas Domain (sections 1-
+3). Their new characters root in the major Early Carboniferous subsidence associated with
+tholeiitic magmatism, and in the strong, synmetamorphic folding of Late Carboniferous age
+with the subsequent felsic magmatism (granites, rhyolites). Amidst these “Hercynian mines”,
+the Draa Sfar and Hajjar ones are world class VMS/SEDEX mines.
+FIG. 5.01 : Localisation des mines de la Meseta méridionale et du Haut Atlas occidental décrites dans cette section, reportées sur la
+Carte routière et administrative du Maroc, échelle 1/1 500000, Division de la Cartographie, Rabat.
+FIG. 5.01 : Location of the Southern Meseta and Western High Atlas mines described here, plotted on the Road and Administrative
+map of Morocco, scale 1/1500 000, Division de la Cartographie, Rabat.
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198

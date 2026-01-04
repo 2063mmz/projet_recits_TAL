@@ -1,0 +1,28 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/president-tours-works-on-zemun-station-beska-viaduct
+final_url: https://www.predsednik.rs/en/press-center/news/president-tours-works-on-zemun-station-beska-viaduct
+title: President tours works on Zemun-station, Beška viaduct
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+25.03.2021. - 16:30
+President tours works on Zemun-station, Beška viaduct
+President of the Republic of Serbia Aleksandar Vučić toured today the works on the railway station Zemun - section of the high-speed railway Belgrade-Stara Pazova, and the final works on the construction of the viaduct and laying the tracks over the viaduct in Beška, on the section of the high-speed railway Stara Pazova-Novi Sad.
+Photo: Presidency of Serbia / Dimitrije Goll
+President Vučić started the control of works on the future railway route for trains with speeds of up to 200 km per hour, on the section Belgrade Centre-Stara Pazova, where he got a promise from Chinese companies engaged on this section of the line that it will be completed by the end of September and that it will be commissioned by the end of the year. It was also announced that works on the last section of the high-speed railway from Novi Sad to the border with Hungary will commence on 1st September this year.
+"This is another face of Serbia. Citizens have started riding the rail again. We will have a state-of-the-art railway, the most technologically advanced in this part of Europe. In less than a year, people will be able to ride from Belgrade to Novi Sad," said President Vučić.
+Photo: Presidency of Serbia / Dimitrije Goll
+The President thanked China and noted that the high-speed railway project from Belgrade to Budapest was agreed upon between Serbia, China and Hungary within the framework of China's global initiative "Belt and Road".
+The Ambassador of the People's Republic of China, Chen Bo, also attended the tour of the works on this railway section.
+Photo: Presidency of Serbia / Dimitrije Goll
+President Vučić also visited the final works on the construction of the viaduct in Beška and the laying of the tracks on the viaduct within the construction of the high-speed railway from Stara Pazova to Novi Sad.
+During the tour of the construction site, the President was interested in when the Russian company that executes the works on that section, will start building the most modern Dispatch Centre for the management of Serbian railways. The director of "RŽD International" in Serbia announced that the contract for the first project stage will be concluded in June and that the physical works will start in September, while the entire project of the Dispatch Center, which has several phases, will be completed by the end of 2023.
+Photo: Presidency of Serbia / Dimitrije Goll
+President Vučić pointed out that the new Dispatch Centre will be of crucial importance for the development of Serbian railways since it will achieve complete control over railway traffic.
+"We will have greater savings and security, we will know which railways and trains are occupied, we will have full control," President Vučić emphasised.
+The Ambassador of the Russian Federation, Botsan-Kharchenko, also attended the tour of the final works on the viaduct construction.
+Photo: Presidency of Serbia / Dimitrije Goll
+The works on the high-speed railway are currently being executed on the sections from Belgrade to Stara Pazova in the length of 34.5 kilometres where the Chinese companies "CCCC" and "CRI" are engaged and on the route Stara Pazova-Novi Sad in the length of 40.4 kilometres which is being built by the Russian "RŽD International".
+The total value of the construction of the Belgrade-Budapest railway through Serbia is about two billion dollars, and the railway through Serbia will be about 184 kilometres long.

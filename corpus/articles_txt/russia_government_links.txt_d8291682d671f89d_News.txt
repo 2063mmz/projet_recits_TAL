@@ -1,0 +1,326 @@
+seed_url: http://government.ru/en/news/21017/
+final_url: http://government.ru/en/news/21017/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev’s interview with Renmin Ribao
+13 December 2015
+19:00
+Ahead of his visit to China, Dmitry Medvedev gave an interview to the Chinese daily.
+Question:
+Russia
+and China are good neighbours, reliable partners and friends. The leaders of
+the two countries frequently meet each other and are consistent in their
+efforts to strengthen bilateral relations as a comprehensive strategic
+partnership, which has already become a model for peaceful coexistence and
+mutually beneficial partnership. Mr Prime Minister, could you share your
+perspective on the relations between Russia and China?
+Dmitry Medvedev:
+Russia
+and China have taken their trust-based partnership and strategic cooperation to
+an all-time high. These relations are in line with Russia’s national interests
+and have become a model of genuine good neighbourliness and mutual respect.
+These relations facilitate all-round modernisation of both countries, who are
+living to the rhythm of a new age. The proactive dialogue and cooperation
+between Russia and China encompass absolutely all areas.
+Visit
+Dmitry Medvedev meets with chairman of the Standing Committee of the National People's Congress Zhang Dejiang
+Meeting with heads of Russian and Chinese IT companies
+Dmitry Medvedev attends the opening ceremony of the 2nd World Internet Conference
+Meeting between the SCO heads of government and President Xi Jinping of China
+Dmitry Medvedev meets with President Xi Jinping of China
+Meeting of the SCO Council of Heads of Government and observer states’ heads of delegation
+Dmitry Medvedev holds talks with Abdullah Abdullah, Chief Executive of the Islamic Republic of Afghanistan
+Over the centuries, the peoples of our countries have learned to
+understand each other, to work together and be friends. Accordingly, we can be
+regarded as long-time friends. Today, the multidimensional ties between Russia
+and China are at their peak. This is mutually beneficial cooperation, in the
+true sense of the term, where there are no superiors or underlings, those who
+lead or those who follow.
+We intend to
+strengthen our strategic partnership across the board. Not only does this make
+political or economic sense, but also most importantly the people of the two
+countries are interested in developing these ties. You are probably aware of
+the fact that more and more people in Russia are learning Chinese. Russian
+courses are also spreading across China, which means that people want to learn
+more about today’s Russia.
+Since 2010, China
+has firmly established itself as Russia’s biggest trade partner. Strategic
+energy projects are being implemented, and we are developing our cooperation in
+hi-tech areas such as space, aircraft manufacturing, nuclear power and
+military-technical cooperation. We are attaching special attention to investment
+and financial aspects of our everyday ties. We are also committed to
+facilitating contacts between non-governmental institutions and
+people-to-people ties.
+There is a saying
+in Russia that a close neighbour is better than a distant relative. It fully
+applies to the relations between Russia and China. The long border dividing our
+countries has long become an area of durable peace, friendship and
+multidimensional cooperation.
+I think that in recent years we have been
+able to devise a clear framework for coordinating our joint efforts and
+long-term development plans. The regular contact between the leaders of our two
+countries, dating back to 1996, is a perfect example. During my visit to China,
+Mr Li Keqiang and I will hold the 20
+anniversary meeting. We have
+agreed in principle to link integration processes within the Eurasian Economic
+Union with the Silk Road Economic Belt initiative. This will provide additional
+opportunities for creating a single economic space.
+Let me emphasise that Russia and China maintain
+their global strategic cooperation in international affairs, and their
+relations are an increasingly important factor in international relations.
+Russia and China are efficiently working together in a number of multilateral platforms,
+first and foremost in the UN, the Group of 20, BRICS and SCO. We approach the
+most urgent issues of today’s world in a balanced and pragmatic manner, and
+respect the right of every people to self-determination. We are staunch
+opponents of pressure against sovereign countries, including through unilateral
+sanctions, the use of force or double standards.
+I believe that the world would have been a
+much better place if more countries interacted with each other as Russia and
+China do. As an ancient Chinese saying goes, the greatest victory is the battle
+not fought.
+Question:
+Russian and Chinese economies
+are characterised by a high degree of mutual complementarity, which is one of
+the drivers of steady development of bilateral relations in the spirit of
+mutually beneficial partnership. What new points of growth, in your view, will
+appear in future in Russian-Chinese trade and economic cooperation?
+Dmitry Medvedev:
+Our Chinese
+partners and we are unanimous in assuming that a high level of trust and mutual
+understanding in the political sphere should help cooperation in trade,
+economic, humanitarian and other spheres.
+Our contacts have
+been stepped up at all levels recently. A mostramified and multi-level bilateral cooperation mechanism has been
+created with China. We don’t have a mechanism of this kind with any other
+country. Apart from a Russian-Chinese commission preparing regular meetings of
+heads of government, the recent years have seen the creation of
+intergovernmental Russian-Chinese commissions on energy, humanitarian and
+investment cooperation at the level of deputy prime ministers.
+Since 2010, China
+has been the leader in mutual trade with Russia. Both countries are facing a
+large-scale task of increasing bilateral trade to $200 billion by 2020. And we
+are firmly resolved to fulfil this task.
+The world economic
+situation is complicated and this affects all countries without exception. A
+tendency has emerged earlier this year towards a decline in the general volume
+of trade between Russia and China. This has happened mostly because of a drop
+in oil prices. The pattern of trade has changed as well, with Russian exports
+increasingly dominated by agricultural produce and high value-added products.
+Specifically, during the first ten months of 2015, Russian exports to China
+were characterised by an increased share of food and agricultural products,
+metals and metallic manufactures, chemicals and even textiles.
+This phenomenon
+facilitates Russian economic diversification. Companies are encouraged to be
+more actively open to the world economy, find their production niches, and
+promote high value-added products to potential markets.
+Our common goal is
+to remove barriers in mutual trade and investment. We hope to launch major
+projects within a few years, which will add tens of billions of dollars to our
+trade and will make it possible to regain a steady positive trajectory.
+Bilateral
+investment cooperation, one capable of giving an impetus to trade, is gaining
+momentum. An effective basic infrastructure has been created for its successful
+development. I mean 58 major joint investment projects that were approved in St
+Petersburg on June 18 of this year at the second meeting of the
+Intergovernmental Russian-Chinese Commission for Investment Cooperation.
+Our interaction in
+the context of the Eurasian Economic Union is being stepped up.  Since 2012, an early warning mechanism for
+sensitive goods in mutual trade has been in operation. An Agreement on an
+Exchange of Information concerning  Goods
+and Motor Vehicles Crossing the Customs Border of the EAEU and the PRC is being
+coordinated. This agreement will help to minimise the use of “gray” schemes in
+trade.
+A decision has been
+adopted on launching talks with regard to preparing an agreement on EAEU-PRC
+trade and economic cooperation. This agreement is expected to ensure favourable
+conditions for promoting practical cooperation and attracting long-term
+investment, to create mechanisms for simplifying and encouraging trade and to
+approximate our practices in the sphere of standards, technical regulations,
+and customs administration rules.
+Question
+Russia and China have ample experience in interstate
+thematic years. What do you think of the outgoing Youth Friendly Exchanges
+Years? What do you expect of the approaching Cross Years of Mass Media?
+Dmitry Medvedev:
+Personal contacts
+in the modern world are becoming an ever-stronger factor in international
+relations and a tool for confidence-building and mutual understanding. “Nothing
+helps and inspires people better than friendship,” Chinese modern classic Ba
+Jin said.
+The latest
+ambitious interstate thematic events are an impetus to strengthening the
+Russia-China cultural dialogue.
+We began with an
+exchange of national Years to be followed by Language and Tourism Years. They
+were all great successes. They helped our nations to learn more about each
+other, and provided a wealth of information about each other’s history, culture
+and contemporary life. What matters most, they allowed us to start  building friendships.
+Another essential
+bilateral action, one that focuses on young people, is coming to an end. The
+Youth Friendly Exchanges Years have become a sort of relay race by the elder
+and younger generations as we Russians seek to know China better.
+It is hard to
+enumerate all the 600 plus related events – summer schools and camps, young
+researchers’ and businesspeople’s meetings, Russian and Chinese language
+contests, forums, conferences, concerts, film weeks, art shows, athletic
+contests, and student exchanges. The concert by a combined Russian-Chinese
+youth symphony orchestra conducted by Russia’s celebrated Valery Gergiev was a
+landmark.
+The Youth Friendly Exchanges Years
+involved all fields of Russia-China cooperation – politics, the economy,
+culture, sport, tourism, research, education and, last but not least, IT.
+project for annual youth delegation exchanges, for 100 delegates a year, was launched
+in 2014. Our joint efforts have increased youth contacts on a massive scale and
+provided a footing for regular contact.
+Joint
+WWII Victory celebrations were of tremendous importance, and
+prompted a new look at current global problems from the point of a generation
+that will soon bear the brunt of decision-making.
+The
+closing gala of the Youth Friendly Exchanges Years has been timed to coincide
+with the 20
+Russia-China prime-ministerial meeting and to the
+opening of the Cross Years of Mass Media – another breakthrough joint
+project.
+We are finishing
+work on a detailed plan for the Media Years’ 100 plus events. There are feature
+and documentary films to make, TV series to show, books to translate and
+publish, and book exhibits to arrange. Partnership in high-tech media also has
+breathtaking prospects. While on a visit in China, I will attend the World
+Internet Conference in Wucheng.
+I am sure our
+projects will not be limited to the Media Years, with so many fields to launch
+effective dialogue in. We will work together to open up new spheres of
+cooperation.
+Question:
+The Ufa Declaration, which the
+SCO leaders adopted in July of this year, says that the participating countries
+support China’s Silk Road Economic Belt initiative. How is Russia cooperating
+with China and other member countries within the SCO framework to implement
+this initiative? What role can Russia play in this?
+Dmitry Medvedev:
+China is not only a
+friend but also one of the key economic partners of Russia. This is why we have
+been actively implementing the initiative to integrate the Eurasian Economic
+Union with China’s Silk Road Economic Belt. We have set out several priority
+spheres for our cooperation, such as the encouragement of mutual investments,
+the joint implementation of large projects, and the creation of industry parks
+and cross-border economic cooperation zones.
+We have not been
+trying to promote integration in one sphere by neglecting it in other areas. Of
+course, our priority is the Eurasian Economic Union. But we have also started
+interacting with China within the framework of the Silk Road Economic Belt
+(SREB). At the same time, we haven’t abandoned the idea of a common economic
+space from Lisbon to Vladivostok. We believe that all of these projects can
+develop harmoniously.
+The delegations of
+the Russian and Chinese foreign ministries for the first time discussed the
+practical coordinated implementation of the EAEU and SREB projects during a
+meeting that was held in August of this year. A modern transit system and
+infrastructure is one of the main elements of this coordination. We must
+prioritise the routes that will enhance the safety of our transport corridors,
+including the Trans-Siberian Railway and the Vladivostok Free Port Zone, which
+is an area in Russia’s Far East that will comprise the region’s key ports.
+Another priority is the EAEU territory and the development of transport
+corridors from China to the EU via Kazakhstan, Russia and Belarus.
+In terms of doing
+business, the conjugation of the EAEU and SREB projects should simplify trade
+and improve the protection of mutual investments by the EAEU countries and
+China. In other words, we must simplify the transfer of goods across the
+border, remove regulatory barriers and promote cooperation in high-tech
+industries, such as information technology, healthcare and education,
+electronic commerce and energy efficiency.
+The creation of a
+co-development area in Eurasia will provide an example of responsible and practical
+partnership in the sphere of integration and help us boost cooperation, not
+only in energy supply, but also in the high-tech spheres of the transport,
+production, construction, communications and agriculture industries.
+Question
+: The SCO
+gives high priority to Internet security cooperation. At the beginning of this
+year, SCO member states submitted to the UN a draft International Code of Conduct
+for Information Security. What,
+in your opinion, is the key to international cooperation in the sphere of
+Internet security?
+Dmitry Medvedev:
+The
+importance of ensuring information security today is difficult to overestimate.
+Modern information and communication technology is being increasingly used in
+military and political confrontations. In addition, terrorists and criminals
+have adopted Internet technology. Many countries are constantly encountering
+these problems.
+These threats cannot be
+ignored. Obviously, before it is too late, it is crucial to prevent the
+criminalisation of the Internet and guarantee human rights in the digital
+sphere. It is extremely difficult to do this without a comprehensive
+international legal framework for international information security cooperation.
+So the first step in creating an international information security system
+could be the adoption of a code or rules of conduct in the form of “soft laws.”
+Universal rules of responsible
+conduct in the information space are the most in-demand form of international
+collaboration in fighting international information security threats. This was
+the SCO countries’ rationale in drafting the International Code of Conduct
+for Information Security. The
+document is open to suggestions and comments by all interested parties. The
+absolute majority of states support the main idea of this initiative, that is
+to prevent conflicts and aggression in the information space and keep it
+peaceful and free.
+This fact shows
+that we are moving in the right direction. The relevance of such unifying
+initiatives, aimed at preventing conflicts in the digital sphere, increases
+every day. Politics and politicians should stay ahead of technological progress
+and find effective solutions before technology creates new reality.
+Question:
+The AliExpress online
+marketplace, a subsidiary of Alibaba – a company founded by Chinese
+entrepreneur Ma Yun – is the largest e-commerce platform in Russia today.
+AliExpress is the first company that facilitates cross-border shopping for
+people living in remote regions and villages, and many Russians are starting to
+buy Chinese goods on AliExpress. This means the Internet Plus programme has
+become an engine for economic development, which benefits both Russia and
+China. What is Russia’s stance on cooperation through the global network during
+the Internet Plus era? What is Russia’s policy in this regard?
+Dmitry Medvedev:
+We value our
+relationship and work to establish an even closer cooperation in the most
+promising areas, including e-commerce, which has recently seen booming growth worldwide.
+Russia also
+appreciates the convenience of e-commerce. We have a lot of on-line-stores,
+which deliver inside the country, and some to the CIS countries. It provides quicker
+and better deals for both buyers and sellers. During 2014, more than 8 million
+Russians bought clothing and footwear online. We also have online procurement for
+state and municipal needs (the business-to-government segment), with the
+exception of non-public purchases.
+For the moment,
+there is no major Internet platform for promoting Russian brands abroad. This
+year we launched a web project that enables the Russian manufacturers of clothing
+and footwear to use the AliExpress platform free of charge to sell their
+products. Russian goods are marked
+made
+in Russia
+in the AliExpress catalogue, with the prices quoted in roubles.
+About 100 Russian brands of clothing and accessories are expected to be
+presented on AliExpress by the end of this year. I am sure they will be of
+interest to both Russian and foreign buyers.
+We will certainly
+try to create our own projects as well. Therefore, we are now improving the
+logistics system and the export legislation. Even the retail goods export
+procedures have been simplified. Exporters are already exempt from certain
+customs duties (the customs duty for the export of goods not subject to export tax
+and shipped by international mail). Express cargo declarations can also be
+submitted online.
+Your country’s
+experience in online selling to distant markets is very useful for us. We are
+carefully studying China’s experiment with setting up a pilot area of
+​​cross-border e-commerce in Hangzhou, which involves building a whole
+industrial chain of e-commerce and creating a legal framework and rules in this
+field.
+Government of the Russian Federation
+http://government.ru/en/news/21017/
+Highlight selection

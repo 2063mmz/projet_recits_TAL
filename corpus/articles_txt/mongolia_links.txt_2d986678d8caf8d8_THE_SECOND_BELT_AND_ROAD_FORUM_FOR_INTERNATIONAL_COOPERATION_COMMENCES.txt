@@ -1,0 +1,15 @@
+seed_url: https://president.mn/en/2019/04/26/the-second-belt-and-road-forum-for-international-cooperation-commences/
+final_url: https://president.mn/en/2019/04/26/the-second-belt-and-road-forum-for-international-cooperation-commences/
+title: THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION COMMENCES
+date: 2019-04-26T15:45:32+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/26 11:45:32
+THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION COMMENCES
+The Second Belt and Road Forum for International Cooperation officially commenced on April 26 at the China National Convention Center in Beijing, the People’s Republic of China.
+President of Mongolia Khaltmaagiin Battulga is attending the Forum with the delegation of Mongolia.
+President of China Xi Jinping delivered opening remarks, and President Battulga plans to give a speech during the Leaders’ Roundtable Session of the Forum.
+Attending the opening ceremony of the Second Belt and Road Forum for International Cooperation are D.Tsogtbaatar, Minister of Foreign Affairs, D.Gankhuyag, Ambassador Extraordinary and Plenipotentiary of Mongolia to China, Ya.Sanjmyatav, Deputy Chairman of Parliament and Head of the Mongolian-Chinese Group in the Parliament, Z.Enkhbold, Chief of Staff to the President, and A.Gansukh, Secretary of the National Security Council.

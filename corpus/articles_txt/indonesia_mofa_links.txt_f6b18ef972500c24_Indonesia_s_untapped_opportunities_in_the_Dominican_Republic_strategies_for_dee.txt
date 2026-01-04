@@ -1,0 +1,52 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=2551&keywords=
+final_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=2551&keywords=
+title: Indonesia's untapped opportunities in the Dominican Republic: strategies for deepening bilateral relations | Kementerian Luar Negeri
+date: 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Text
+Indonesia's untapped opportunities in the Dominican Republic: strategies for deepening bilateral relations
+The Dominican Republic is the second largest country in the Caribbean after Cuba. Comparing to its neighboring country, such as Haiti and Cuba, the Dominican Republic has been one of the fastest growing economies in Latin America and the Caribbean in the last decade.
+Diplomatic  relations between Indonesia  and the Dominican Republic formed  in  20 September 2011 and have maintained a positive relationship ever since. Even so, Indonesia has not open a representative office, not embassy nor consulate, in Santo Domingo, capital of the Dominican Republic. It has been since, accredited from the Embassy of the Republic of Indonesian in Havana, Cuba.
+China’s increasing presence in the Caribbean, as part of its Belt and Road Initiatives (BRI), provides more dynamic to Indonesia’s interest in the region. BRI may be supportive to Indonesia and the Dominican Republic bilateral relations as both parties to it. But Indonesia also has to have its own policy to deepen the existing bilateral relations.
+It is time for Indonesia to increase its presence in the Carribeean by establishing concrete and beneficial economic cooperation with the Dominican Republic. For initial step, appointment of an Honorary Consul in the Dominican Republic is a feasible decision to make. It would help foster a stronger understanding and cooperation between the two nations, including trade, investment, tourism, cultural exchange, and education.  In addition,  an Honorary  Consul in the Dominican Republic will help promote Indonesia’s advantage and gives diplomatic leverage for Indonesia in the Caribbean.
+Ketersediaan
+2023-0076
+Sesparlu 72-2023
+Training Materials Repository
+Tersedia
+Informasi Detail
+Judul Seri
+No. Panggil
+Sesparlu 72-2023
+Penerbit
+Jakarta
+Kementerian Luar Negeri
+2023
+Deskripsi Fisik
+Digital File
+Bahasa
+English
+ISBN/ISSN
+Klasifikasi
+NONE
+Tipe Isi
+text
+Tipe Media
+computer
+Tipe Pembawa
+online resource
+Edisi
+Subjek
+Info Detail Spesifik
+Pernyataan Tanggungjawab
+UPT Sekolah Staf dan Pimpinan Luar Negeri
+Versi lain/terkait
+Tidak tersedia versi lain
+Lampiran Berkas
+You must be logged in to download file attachment
+Komentar
+Anda harus masuk sebelum memberikan komentar

@@ -1,0 +1,57 @@
+seed_url: https://president.uz/en/lists/view/6768
+final_url: https://president.uz/en/lists/view/6768
+title: President of Uzbekistan Arrives in Beijing
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President of Uzbekistan Arrives in Beijing
+17.10.2023
+At the invitation of the President of the People’s Republic of China, Xi Jinping, the President of the Republic of Uzbekistan Shavkat Mirziyoyev, together with his spouse, arrived in Beijing on a working visit.
+At the Beijing Shoudu International Airport, the Chinese Minister of Emergency Management Wang Xiangxi and other officials welcomed the Head of our state.
+The state flags of Uzbekistan and China were raised and a guard of honor was lined up in honor of the distinguished guests.
+The visit of October 17-18 envisages talks with the President of the People’s Republic of China Xi Jinping, and the Chairman of the National Committee of the Chinese People's Political Consultative Conference, Wang Huning, as well as other bilateral meetings.
+The Uzbek Leader will take part in the opening of the International Forum “One Belt, One Road” and deliver a speech at the plenary session.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

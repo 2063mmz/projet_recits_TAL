@@ -1,0 +1,12 @@
+seed_url: https://www.ifa.gov.et/2025/12/25/ifa-wishes-a-merry-christmas-a-happy-new-year-and-a-peaceful-holiday-season-to-all-our-partners-and-the-global-community/
+final_url: https://www.ifa.gov.et/2025/12/25/ifa-wishes-a-merry-christmas-a-happy-new-year-and-a-peaceful-holiday-season-to-all-our-partners-and-the-global-community/
+title: IFA wishes a Merry Christmas, a Happy New Year, and a peaceful Holiday Season to all our partners and the global community.
+date: Dec 25, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The Institute of Foreign Affairs (IFA) wishes a Merry Christmas, a Happy New Year, and a peaceful Holiday Season to all our partners and the global community.
+As we transition into 2026, may this season foster renewed diplomacy, mutual understanding, and lasting cooperation for a prosperous future. We look forward to another year of working together toward global stability and progress.
+#IFAEthiopia #DiplomacyForPeace #MerryChristmas #HappyNewYear2026

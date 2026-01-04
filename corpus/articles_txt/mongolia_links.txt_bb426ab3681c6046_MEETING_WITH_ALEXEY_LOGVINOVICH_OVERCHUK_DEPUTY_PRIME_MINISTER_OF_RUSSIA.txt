@@ -1,0 +1,15 @@
+seed_url: https://president.mn/en/2024/02/06/meeting-with-alexey-logvinovich-overchuk-deputy-prime-minister-of-russia/
+final_url: https://president.mn/en/2024/02/06/meeting-with-alexey-logvinovich-overchuk-deputy-prime-minister-of-russia/
+title: MEETING WITH ALEXEY LOGVINOVICH OVERCHUK, DEPUTY PRIME MINISTER OF RUSSIA
+date: 2024-02-06T11:21:23+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2024/02/06 7:21:23
+MEETING WITH ALEXEY LOGVINOVICH OVERCHUK, DEPUTY PRIME MINISTER OF RUSSIA
+On February 06, President of Mongolia Ukhnaa Khurelsukh received Deputy Prime Minister of the Russian Federation Alexey Logvinovich Overchuk.
+The President of Mongolia emphasized the development of the Comprehensive Strategic Partnership between Mongolia and the Russian Federation based on mutual trust and stressed the need to advance trade and economic cooperation between the two countries. President Khurelsukh noted that during his meeting with President of the Russian Federation Vladimir Putin in October,  2023, during the “Belt and Road” high-level meeting held in Beijing, they agreed to reduce trade taxes and jointly implement major development projects and programs in the infrastructure and energy sectors.
+The Deputy Prime Minister of the Russian Federation noted that intensive works were being carried out to realize the issues agreed during the meetings of the Heads of State and Prime Ministers of the two countries in 2023 and to expand the cooperation in energy, infrastructure, education, and humanitarian sectors.
+The parties agreed that the events to be organized within the framework of the 75th anniversary of the Ulaanbaatar Railway Mongolian-Russian Joint Venture and the 85th anniversary of the Battle of Khalkhiin Gol Victory will significantly contribute to the strengthening of friendly relations and friendship between the people of the two countries.

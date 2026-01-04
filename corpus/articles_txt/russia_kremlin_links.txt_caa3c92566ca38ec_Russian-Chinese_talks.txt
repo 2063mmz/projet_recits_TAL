@@ -1,0 +1,64 @@
+seed_url: http://en.kremlin.ru/events/president/news/60381
+final_url: http://en.kremlin.ru/events/president/news/60381
+title: Russian-Chinese talks
+date: 2019-04-26
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Russian-Chinese talks
+Beijing is hosting talks
+between Vladimir Putin and President of the People’s Republic of China Xi Jinping.
+April 26, 2019
+09:30
+Beijing
+The President of Russia noted,
+in particular, that bilateral trade and economic relations were developing more
+successfully than planned, with 2018 trade reaching $108 billion.
+After the consultations, Vladimir
+Putin and Xi Jinping exchanged gifts.
+* * *
+President of Russia Vladimir Putin:
+My dear friend, President Xi Jinping,
+Thank you very much for the invitation to take part in the second
+Belt
+and Road
+Forum for International Cooperation. I must say right at the start
+that your initiative is making progress. It was timed to perfection and very successful.
+It is assuming a global nature and beginning to dictate the principles of building international relations and the norms of economic relations that are
+highly relevant in the world today.
+This is an extremely important
+initiative, which is why it enjoys so much support around the world. The large
+number of participants who came to Beijing to take part in the discussion is
+direct evidence of this.
+Russian-Chinese comprehensive
+partnership and strategic cooperation are growing on all tracks. Our
+cooperation has reached an unprecedented high level, serving as an example of how inter-state relations should be built in the modern world.
+In 2018, mutual trade increased by 24.5 percent to a record $108 billion. Last year, we set a target of $100
+billion, that is, the development pace is very high.
+You have already said that this year
+marks the 70th anniversary of diplomatic relations between our countries. Mr
+President, we are looking forward to your state visit to Russia, which will
+become a key political event of the year in bilateral relations.
+I am very pleased to have this
+opportunity today to meet with you, with our Chinese colleagues and friends and discuss bilateral matters and aspects of international relations that are of mutual interest to us.
+Russia is determined, as it always has
+been over the past decades, to expand the strategic partnership with China in all areas.
+<…>
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 26, 2019, 09:30
+Direct link:
+en.kremlin.ru/d/60381
+Text version

@@ -1,0 +1,56 @@
+seed_url: https://statehouse.gov.ng/president-buharis-takeaways-from-focac-beijing-summit-by-garba-shehu/
+final_url: https://statehouse.gov.ng/president-buharis-takeaways-from-focac-beijing-summit-by-garba-shehu/
+title: President Buhari’s Takeaways From FOCAC Beijing Summit – By Garba Shehu
+date: September 8, 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Heads of State, Governments and delegations from 52 African countries, which includes Nigeria and the People’s, Republic of China met in Beijing, under the auspices of the Forum on China and Africa Cooperation (FOCAC).
+The tri-annual summit was held with the theme: “China and Africa: Towards an Even Stronger Community with a Shared Future through Win-Win Cooperation.”
+President Muhammadu Buhari led a strong delegation from the public and private sector that included senators, state governors and the Ministers of Finance, Transportation, Power, Works and Housing, Budget and National Planning, Petroleum and Industry, Trade and Investment, and Minister of State, Aviation.
+The gains for Nigeria from the recent FOCAC, which alternates its meetings between China and Africa every three years, can be summed up in three ways: Nigeria as a member of FOCAC; Nigeria-China bilateral engagement and Nigerian Government–Chinese business partnerships.
+At the summit, which attracted multiple benefits for Nigeria, members agreed to bind themselves to the Belt and Road Initiative of the Chinese government, which essentially seeks to promote collectively, among one another, extensive consultation, cooperation and ensure shared gains.
+Essentially, this translates into closer connection in policy, infrastructure, trade, finance and people-to-people ties. All members will share development opportunities and promote cultural exchanges.
+Going forward, Africa and China will form a stronger synergy in world bodies such as the UN, World Trade Organisation and G77+China. They will align themselves in pursuit of the UN Sustainable Development Goals, Agenda 2063 of the African Union and support individual national development strategies.
+Overall, this should generate more resources for everyone, expand markets and create space for African development and broaden its economic prospects. To realise this, African countries have agreed to participate in November this year in China’s first-ever International Import–Export Expo in Shanghai.
+It is important to note that China has categorically stated their commitment to non-interference in the internal affairs of members, as well as pledged to support development efforts without political strings attached. This should answer mostly Western critics who doubt the sincerity of China.
+In line with the general principles of the accord, Nigeria, with few African countries, were preferentially treated to bilateral meetings. The Chinese and Nigerian government met exclusively to discuss matters of mutual benefits. The leaders of both countries witnessed the signing of a Memorandum of Understanding by their foreign ministers, captured as “One Belt, One Road (OBOR)’’.
+There was the signing of USD 328 million financing agreement for the National Information and Communication Technology Infrastructure Backbone by the Nigerian Minister of Finance, Mrs Kemi Adeosun and Wang Xiaotoa, Director-General, China International Development Cooperation Agency.
+As for more specific takeaways from the bilateral meetings, Nigeria received blessings of the President of the People’s Republic of China, Xi Jinping for the building of the country’s largest hydroelectric power plant in Mambila. Work on the power project will commence on the site in early 2019.
+When President Xi announced a USD 60 billion to finance aid and infrastructure projects in Africa at the FOCAC Summit in Johannesburg in 2015, Nigeria joined other countries to draw from the funds for critical infrastructure that included railways, roads and power.
+In the last 24 months, China has given Nigeria support in scholarships, military trainings and security assistance, agriculture and concessionary loans to fund infrastructure. Nigeria has attracted more than USD 5 billion finance and more is still under discussion with the government of China.
+With a further USD 60 billion announced for the next three years by President Xi, Nigeria should hope to make more progress in closing its infrastructure deficit.
+At the Johannesburg summit, President Xi announced RMB 100 million in humanitarian and military assistance to Nigeria in the fight against terrorism. At this summit, he promised a further sum of RMB 50 million for the same purpose. President Xi promised to open China’s market for agricultural products from Nigeria and widen cooperation between the two nations in media, sports and culture. He noted that several Nigerian footballers in China were idolised by fans. The Chinese leader also promised to step up cooperation in intelligence and military training.
+While commending President Buhari for taking measures to fight terrorism and insecurity, President Xi said the Nigerian leader was decisive in dealing with terrorism. “You are resolute–the same attitude as China,” he said.
+President Xi told President Buhari that he would support the reform of the UN “to increase the voice of developing countries in Africa”. He equally promised continued support for Nigeria’s infrastructure projects, citing the country’s railway modernisation project; Lekki Deep Sea Pot; Zungeru Power Project; Abuja Light Rail; ICT and infrastructure backbone and Abuja Water supply as laudable developmental projects.
+The Chinese leader announced the establishment of a “manufacturing section” so that Nigeria can gain from China’s leading role in the world. “In some we lead, in others we need to catch up,” he added.
+On a parting note, President Xi told President Buhari that he was fully cognisant of the status and influence of Nigeria in Africa, saying, “We will step up cooperation and will provide assistance. The relationship between China and Nigeria is as best as ever, given the deeper mutual trust. China will continue to stand with Nigeria.”
+President Buhari was also accorded the honour of a state banquet by the Chinese Premier Li, who assured the Nigerian leader that China was ready “to press ahead” with infrastructure, including the Mambila hydroelectric power project. He, like President Xi, requested for “thorough feasibility and sustainability studies.”
+Among the several outcomes of the engagements of President Buhari and his delegation at the FOCAC Beijing summit were the many agreements and Memoranda of Understanding (MOUs) signed between the Nigerian Government and Chinese businesses, and between Nigerian businesses and their Chinese counterparts.
+The Nigerian delegation was able to sign thirteen agreements during the summit out of 25, with more to be signed by the Nigeria Investment Promotion Council and the Attorney-General and Minister of Justice of the Federation.
+In all, more than USD 10 billion agreements were signed. Others, still under discussion will be quantified upon the conclusion of discussions by various parties. Among those that have been signed, in agreements or MOUs include that entered between the China National Petroleum Corporation, which has agreed to secure funding for the Nigeria National Petroleum Corporation, Ajaokuta – Kaduna-Kano (AKK) gas pipeline to cost USD 2.8 billion. The agreement entered by the Ministry of Industries, Trade and Investment with Shandong Ruyi International Fashion Industry for USD 2 billion, for a first-ever cotton value chain; that is from cotton growing to ginning, spinning, textile manufacture and garment with Katsina, Kano, Abia and Lagos States as the chosen locations.
+Another Chinese conglomerate, Capegate Integrated is into an MOU worth USD 1.5 billion for energy and organic fertilizer that will cover Abuja, Niger, Nasarawa, Kaduna and Kano to generate:
+· 300 MW of electricity
+· 500,000 tonnes of organic fertilizer
+· 60,000,000 litres of oil from pyrolysis
+· Create up to 10,000 jobs
+· 400 garbage collection trucks, various types of city sanitation equipment and
+· One million (1,000,000) waste bins to be deployed.
+The NNPC entered another agreement with Nanni Good Fortune Heavy Industries Group and Capegate Group for a USD 400 million investments across six states to allow for:
+· 90 litres of ethanol
+· 64 MW of power
+· 72,000 tonnes of sugar per annum
+· 10,000 tonnes of animal farm per annum
+· 5,500 direct employment
+The Nanni Industries and Capegate Group submitted an MOU to the NIPC for an investment in 15,000 hectares of Cassava Ethanol in the South-west, and another project of the same value and scale in the South-east.
+Among other agreements that the NNPC signed was one with Obax-Complant Consortium and another with Capegate-Nanning Consortium that targets 10 biofuel complexes nationwide. NNPC’s Group Managing Director, Dr. Maikanti Baru said through these ventures, Nigeria is giving effect to her aspiration for the exploitation of renewable fuel sources.
+Edo State Government, as reported widely, had signed for the construction of the Benin River Port; the Benin Industrial Park and a 550 Barrels per day modular refinery. A funding MOU between Huawei technologies and the Federal Government of Nigeria, represented by Galaxy Backbone for the training of 1,000 Nigerian government officials to acquire basic ICT knowledge and skills has been forwarded to the Ministry of Justice.
+Huawei also plans the annual training of 10,000 Nigerians in ICT, with a wider and deeper training of 5,000 out of this number who, upon certification by Huawei will be employable anywhere in the world. Another attractive MOU signed was that by KhromeMonkey Nigeria Limited, behind whom is Leadership newspapers owner, Sam Nda-Isaiah and Shenzen Right Net Technology Limited.
+This partnership will lead to setting up of Amanbo Nigeria, a business-to-business-consumer (B2B2C) platform and portal that would enable Nigerian exporters to trade with Chinese importers and vice-versa. This partnership holds tremendous opportunities for Nigeria in terms of creating thousands jobs, if not millions as core and support services to the platforms such as warehousing all over the country, logistics, distributorships, customer services, shipping services, credit facilities for small businesses etc. The estimated trade potential of the platform within the first three years given the current trade relationship with China is USD 500 million. This is expected to continue to grow, creating millions of jobs for Nigerians.
+From addressing the FOCAC as FCOWAS Chairman, and doing so as President of Nigeria, to having 30 minutes discussions with President Xi Jinping and another 60 minutes with Premier Li, to addressing a room filled with influential Chinese businessmen and women, President Buhari’s six-day engagement in China had turned out to be really eventful, successful and highly rewarding.
+Garba Shehu
+Senior Special Assistant (SSA) to the President
+(Media and Publicity)
+8th September 2018

@@ -1,0 +1,168 @@
+seed_url: http://government.ru/en/news/40979/
+final_url: http://government.ru/en/news/40979/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the SCO Heads of Government Council
+30 November 2020
+12:40
+Mikhail Mishustin took part in a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation via videoconference.
+Heads of delegations of the Shanghai Cooperation Organisation member
+states:
+Vice President
+of the Republic of India M. Venkaiah Naidu
+Prime Minister
+of the Republic of Kazakhstan Askar Mamin
+Premier of the
+State Council of the People's Republic of China Li Keqiang
+Acting Prime
+Minister of the Kyrgyz Republic Artyom Novikov
+Member of the
+National Assembly, Parliamentary Secretary of the Ministry of Foreign Affairs
+of the Islamic Republic of Pakistan Andleeb Abbas
+Prime Minister
+of the Russian Federation Mikhail Mishustin
+Prime Minister
+of the Republic of Tajikistan Kokhir Rasulzoda
+Prime Minister
+of the Republic of Uzbekistan Abdulla Aripov
+Mikhail Mishustin’s remarks:
+Mikhail Mishustin speaking at a meeting of the SCO Heads of Government Council
+Mr Venkaiah
+Naidu, colleagues,
+First of all, I
+would like to thank our Indian partners for organising this meeting of the SCO Heads
+of Government Council. Despite the coronavirus pandemic, we managed
+to meet via videoconference to discuss current aspects of our cooperation. This
+is especially important in the context of new global challenges that require a
+timely and effective response from the SCO.
+The context
+around today’s meeting includes complicated processes in global politics and
+economics. Not everyone is ready to accept that the modern world is becoming
+multipolar. Some Western states seek to maintain a privileged position,
+violating the most important international principles through a policy of
+economic pressure. Sanctions become a tool of interference in others’ internal
+affairs; protectionist measures are introduced in trade and investment under
+far-fetched pretexts.
+The spread of the
+novel coronavirus infection is further exacerbating the controversy, escalating
+the already difficult situation. Economic activity is declining around the
+world, and international production and distribution chains get disrupted. Trade
+is flagging, incomes are falling, and unemployment is on the rise – we have all
+felt this. The coronavirus has been a stress test for all states without exception.
+At the same
+time, according to some estimates, the SCO member economies this year will contract
+less on average than the decline in the world economy. This fact gives us some
+confidence in the future.
+Modern
+challenges require new areas and formats of cooperation. In the current
+situation, we all need a predictable multilateral trading system relying on the
+WTO rules. It is important to work together to ensure that all members follow
+its rules and all the obligations assumed. And to preclude the blatant attempts
+by a number of countries to bypass WTO norms.
+True, the World
+Trade Organisation is not perfect and needs to be reformed. But for now, it is
+the only mechanism to protect our trade and economic interests. It needs to
+become more stable and work smoothly, to be able to adapt to new conditions and
+shut the grey zones some states use to strengthen their protectionist measures.
+I propose
+advancing these matters from an agreed stance, including as part of the preparations
+for the 12th WTO Ministerial Conference, slated for June 2021 in Kazakhstan.
+Colleagues,
+The Shanghai
+Cooperation Organisation has strong potential to ensure sustainable economic
+development and security in the region.
+At the 10 November
+summit, the leaders of our countries adopted a number of documents that became
+guidelines for real action. I am primarily referring to an action plan for the
+implementation of the SCO Development Strategy for the next five years. We must
+immediately start implementing it and must coordinate our steps.
+Our countries have
+already started working at the national level. In Russia, the Government has
+prepared a plan for coronavirus response and relief efforts. We are open to
+discussing it and implementing joint measures with our partners.
+Today we will
+adopt a five-year plan for the implementation of the Programme of Multilateral
+Trade and Economic Cooperation for the next 15 years. Together we will solve
+the most important tasks in almost all areas, from trade and transport to
+spatial development and region-to-region ties. This requires proactive efforts
+through industry-specific ministerial meetings and working groups. The Russian
+side is ready to develop new specialised mechanisms if necessary.
+Another important
+topic is the development of alternative payment methods, independent of the
+dollar. We believe the practice of mutual settlements in national currencies is
+effective and should be expanded. We need to reach a coordinated decision on
+this score and then begin discussing the possibility of creating mechanisms for
+financial support of the SCO projects.
+Economic
+innovations such as going digital and introducing modern technologies are of
+particular importance given the current coronavirus situation. This is one of
+the main tracks of the SCO's activity, as is underscored in the statement issued
+by the leaders of our countries. Digitalisation will enable faster inclusive
+economic development, will create new points of growth and increase the
+investment appeal of our economies. Russia is ready to share its best practices
+in using 5G, cloud storage, big data, artificial intelligence, electronic government
+services, and many other technologies.
+Bridging the
+digital divide is another relevant goal. Russia has proposed an initiative on developing
+remote and rural areas in the SCO member states in order to ensure equal and
+decent living standards even in the most far-flung corners of our countries.
+The first step has
+already been taken in this direction. A concept was approved at the summit,
+which provided guidelines for further cooperation. We are ready to offer our
+partners a new project – a databank of the best solutions in this area. It
+contains over 140 ideas to improve infrastructure, social services,
+agriculture, education and healthcare. We call on our partners to be more
+active in filling this databank.
+Transport infrastructure plays an important role in
+the development of our association. We consider it our priority task to open
+six routes before the end of this year. They are envisaged by the
+Agreement on International Road Transportation
+Facilitation
+. Russia is doing all it can to carry
+out such agreements. It is necessary to find solutions for adopting a programme
+for developing SCO roads as soon as possible. Unfortunately, the drafting of
+this programme is being delayed.
+Another topic is our interregional cooperation. The
+regions of our countries are striving to deepen their contacts. We have joint
+projects, and we have established cooperation ties in different industries and
+conduct business meetings. The SCO member states’ Heads of Regions Forum took
+place in late October. The participants discussed mutually beneficial economic
+initiatives. I believe we must actively develop ties between our regions.
+Colleagues, we have much room for cooperation in many
+areas – from the economy and politics to security and the humanitarian field.
+Next year, the Shanghai Cooperation Organisation will be 20 years old. I
+consider it important to draft decisions that will put the SCO on the
+trajectory of confident and intensive development. This is exactly the goal
+that the leaders of our states have set.
+It is necessary to define specific parameters for
+coordinating national strategies and multilateral projects. The SCO is a key
+link in forming an open, mutually beneficial and equitable space of cooperation
+in Eurasia.
+We and our partners in the Eurasian Economic Union
+(EAEU) and China
+are already actively involved in integrating the union with the Belt and Road
+Initiative. We have made a number of agreements embracing several areas of work
+in one go: the creation of digital corridors and the introduction of e-certificates
+in trade on certain goods. We also still have to resolve the foreign policy
+issues of the EAEU and China
+with a view to developing mutually advantageous cooperation.
+Working together – with the participation of the SCO,
+the EAEU, ASEAN and other regional associations – we will manage to build the
+Greater Eurasian Partnership, a territory of joint development and security.
+In conclusion of my remarks, I would like to thank
+again our Indian colleagues for their productive presidency of the Heads of
+Government Council this year.
+I would also like to congratulate Kazakhstan on assuming these powers
+and wish success to Prime Minister Askar Mamin. Russia is willing to provide all-round
+assistance to our friends from Kazakhstan.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/40979/
+Highlight selection

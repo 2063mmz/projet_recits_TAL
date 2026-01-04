@@ -1,0 +1,59 @@
+seed_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page338.html
+final_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page338.html
+title: Page 338 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+date: 
+via: requests
+http_status: 200
+content_type: text/html
+note: ok
+
+Page 338 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+P. 338
+Volume 9 - F:Mise en page 1  7/11/12  15:49  Page 338
+338                  NOUVEAUX GUIDES GÉOLOGIQUES ET MINIERS DU MAROC - VOLUME 9
+Cadre géologique : Le massif du Tazekka est une bouton-  granites. Le contexte de mise en place de ce complexe vol-
+nière paléozoïque située au SW de Taza à la limite entre le  canique a fait l’objet de plusieurs interprétations : fosse vol-
+Moyen-Atlas tabulaire (Causse moyen-atlasique) et le  cano-tectonique (Chalot-Prat, 1990), bassin en extension/
+Moyen-Atlas plissé (fig. 9.3.2). Il se place sur la zone de  transtension (Essamawal, 1999), bassin en compression
+failles Tazekka-Bsabis–Bekrit, accident majeur varisque  (Bennouna et al., 2004 ; Bennouna, 2006). Ce volcanisme
+marquant la limite entre la Meseta occidentale et la Meseta  carbonifère, de nature calco-alcaline (Kharbouch, 1994 ;
+orientale (Hoepffner et al., 2006 ; Michard et al., 2008). Le  Bennouna, 2006), se marque dans les schistes du Tazekka
+massif est formé de terrains du Paléozoïque inférieur-  par des systèmes de filons acides/basiques et par l’intru-
+moyen structurés en plis et écailles d’axe NNE-SSW lors de  sion du granite du Tazekka (Huvelin, 1992).
+la phase éovarisque (Hoepffner, 1987). Les schistes épi-
+métamorphiques du Tazekka, d’âge ordovicien inférieur,  Description des gisements : Les restes d’exploitation du
+en constituent la principale unité, occupant le centre et l’est  gisement de Boujaada (tranchées, galeries) sont situés en
+du massif. Ils sont recouverts en discordance angulaire par  contrebas de la piste, sur le versant de l’oued Ismir (fig.
+un complexe volcano-sédimentaire du Viséen supérieur-  9.3.3). La minéralisation est localisée dans une zone consti-
+Namurien formé de volcanoclastites et de laves (basaltes  tuée de brèches andésitiques traversées par des filons de
+andésitiques) recouvertes par une épaisse formation à do-  « Tuf de Boujaada » (figs. 9.3.4, 9.3.5). Les corps minérali-
+minante acide, le « Tuf de Boujaada » où l’on reconnaît des  sés sont alignés le long d’une zone de faille NW-SE à fort
+pyroclastites, des rhyolites, des ignimbrites et des micro-  pendage vers le NE où les andésites sont bréchifiées et alté-
+FIG. 9.3.2 : Carte structurale simplifiée du massif du Tazekka (extrait
+de la carte structurale du Rif à 1/500 000 ; Suter, 1980). Massif du Ta-
+zekka : schistes épimétamorphiques (Ordovicien inférieur) ; Ms : Or-
+dovicien à Dévonien de type Meseta occidentale, non-métamorphique ;
+γ1H : granite du Tazekka ; γ2 : volcanites acides de Boujaada (Viséen
+supérieur-Namurien).
+FIG. 9.3.2 : Simplified structural map of the Tazekka inlier (after the
+structural map of the Rif Belt, scale 1/500 000 ; Suter, 1980). Massif du
+Tazekka : Lower Ordovician low-grade schists ; Ms : Ordovician-De-
+vonian sediments, West Meseta-type units ; γ1H : Tazekka granite; γ2 :
+Boujaada felsic volcanics (Upper Visean-Serpukhovian).
+FIG. 9.3.3 : Panorama sur le secteur de Boujaada,
+vu vers l’est depuis la route. Localisation du point
+de vue géotouristique : voir fig. 9.3.1 ou 9.3.2).
+FIG. 9.3.3 : View of the Boujaada area, looking
+eastward from the road. For location of the tou-
+rist point, see fig. 9.3.1 or 9.3.2.
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343

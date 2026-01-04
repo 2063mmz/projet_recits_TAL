@@ -1,0 +1,62 @@
+seed_url: https://president.uz/en/lists/view/2529
+final_url: https://president.uz/en/lists/view/2529
+title: President Shavkat Mirziyoyev met with Chinese parliamentary leader
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President Shavkat Mirziyoyev met with Chinese parliamentary leader
+26.04.2019
+On April 26, President of the Republic of Uzbekistan Shavkat Mirziyoyev in Beijing met with Li Zhanshu, Chairman of the Standing Committee of the National People’s Congress.
+The head of our state stressed in particular that the organization of the Second “One Belt, One Road” International Forum in Beijing and the implementation of initiatives put forward by PRC President Xi Jinping at the occasion will help promote international and regional cooperation, bolster friendship, good neighborliness and mutual understanding in our vast region.
+It was emphasized that Shavkat Mirziyoyev’s meeting with Xi Jinping yesterday, new prospects for bilateral interaction were identified to further cement the relations of comprehensive strategic partnership between our two nations.
+Li Zhanshu expressed deep satisfaction with the highest level of relations with Uzbekistan. He pointed out that in recent years, bilateral exchanges in the trade, economic, investment, financial, cultural, humanitarian and many other areas have noticeably intensified.
+Positive experience of cooperation has been accumulated between the legislatures of Uzbekistan and China. Exchanges of parliamentary delegations have become regular, the partnership is consistently expanding.
+Shavkat Mirziyoyev and Li Zhanshu addressed issues of augmenting the parliamentary control over the implementation of agreements reached at the highest political level. In addition, it was emphasized that the inter-parliamentary dialogue is an important factor in enriching the cooperation between states with practical substance and in promoting new programs and projects.
+The chief legislator of the PRC reaffirmed readiness to make a concrete contribution to the realization of the deals reached between our two countries and the enhancement of full-scale partnership.
+Li Zhanshu highly acclaimed the social and economic reforms spearheaded in Uzbekistan at this stage, their real impact and effectiveness. According to him,
+in terms of their scale and goals, the policy and reforms of President Shavkat Mirziyoyev give every reason to compare him with the great Chinese reformer, Deng Xiaoping.
+Following the meeting, the sides agreed to shore up inter-parliamentary contacts and hold joint events with the aim of studying in depth the experience in promoting effective reforms and transformations.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

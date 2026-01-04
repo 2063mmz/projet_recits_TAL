@@ -1,0 +1,139 @@
+seed_url: http://government.ru/en/news/46572/
+final_url: http://government.ru/en/news/46572/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk’s remarks at the plenary session of the Russian-Armenian business dialogue titled Eurasian Partnership: New Economic Growth Points
+20 September 2022
+09:00
+On 19 September, a Russian-Armenian business dialogue was held in Yerevan within the framework of the Russian-Armenian Interregional Forum. Its main event was the plenary session, Eurasian Partnership: New Economic Growth Points.
+Alexei Overchuk’s remarks at the plenary session of the Russian-Armenian business dialogue titled Eurasian Partnership: New Economic Growth Points
+Excerpts from the transcript:
+Alexei Overchuk:
+Good afternoon, colleagues and participants in this business
+dialogue.
+I would like to again express our sincere condolences
+over the clashes that took place on the border between the Republic of Armenia
+and the Republic of Azerbaijan on 13-14 September. We understand your anguish
+and share it with you.
+We understand how difficult it was to organise this
+event in the current conditions, and we are especially grateful to you for not
+postponing or cancelling it. This is evidence of your appreciation of ties
+between our business communities and our countries.
+This dialogue has become a traditional event,
+indicating the level of our economic relations and provides an impetus to the
+development of new joint projects.
+I would like to note that a project to build a
+strategic development centre has been launched since the previous business
+mission a year ago, during which we discussed that initiative. It is being
+supervised by our countries’ economic ministries, and today we will talk about
+it again.
+Our meeting today is a wonderful opportunity for
+business leaders not only to communicate with each other, but also to direct
+their questions to the representatives of Russian and Armenian executive
+authorities attending our event.
+This plenary session has an important theme, Eurasian
+Partnership: New Economic Growth Points.
+Due to its location, Armenia has always been a
+crossroads of trade and economic routes in Eurasia. Our nations have always
+been connected by a common history, cultural ties, mutual assistance and
+support in times of trouble.
+This year we will mark the 30
+anniversary
+of diplomatic relations between the Russian Federation and the Republic of
+Armenia. Our contractual framework includes over 200 treaties in various areas,
+but our communication is not limited to bilateral ties.
+The Republic of Armenia is an important strategic
+partner within the framework of the Eurasian Economic Union, whose main
+objective is to ensure the stable development of trade and economic ties based
+on four freedoms: the free movement of goods, services, capital and workforce.
+The Eurasian Economic Union is making steady
+progress under the Strategic Directions for Developing the Eurasian Economic
+Integration until 2025, approved by our heads of state in 2020.
+At the same time, the foreign policy and foreign
+economic events of 2022 have had a major impact on the current state of
+affairs. Apart from challenges, new opportunities for development, including
+intra-EAEU development, have emerged.
+In the current complicated conditions, we are
+able to keep the main macroeconomic indicators at the level of previous years
+and to boost them considerably. At the end of the first quarter of 2022, the
+total EAEU GDP increased by 3.6 percent in physical terms. Preliminary national
+GDP growth statistics for the first six months highlight much more positive
+results than those predicted by various international financial institutions.
+Today, it is highly important that we ensure
+more profound integration cooperation between EAEU member states for forging
+the industrial, technological, food and financial sovereignty of EAEU member
+states.
+For these purposes, we have set up a
+high-level working group with the Eurasian Economic Commission. Its members
+will create favourable conditions for enhancing the domestic resilience of EAEU
+member states’ economies, including efforts to ensure macroeconomic
+stability.
+A directive of the Commission’s Council
+approved a list of measures to enhance the resilience of EAEU member states’
+economies, including efforts to ensure macroeconomic stability. The
+implementation of this list makes it possible to overhaul supply chains,
+support domestic demand, formulate capital flight prevention measures and maintain
+the stability of national currencies.
+According to analysts’ estimates, the full implementation
+of the list of measures will provide a cumulative economic effect that we will
+see in the total GDP of the EAEU member states with an increase of up to 2.5
+percent, or $49 billion.
+It is especially important to ensure support for the
+development of cooperation within the EAEU.
+In this
+context, the heads of the Eurasian "five" governments discussed the
+need to identify sources and mechanisms to finance integration projects, which
+includes considering new sources of funding from the union’s budget. This was
+discussed at the meeting of the Intergovernmental Council in Cholpon-Ata in
+late August 2022. So far, this is not covered under the current obligations of
+the EAEU treaty, but in the near future we will determine a number of
+industrial cooperation pilot projects to test new support mechanisms for these
+kinds of projects.
+The development of
+transactions in national currencies using an independent payment infrastructure
+is another important subject that the prime ministers discussed at the meeting.
+As is obvious today, an independent payment infrastructure is becoming a
+critical factor for successful economic interaction between countries. We have
+all the mechanisms to implement this interaction, and they are working. The
+union has already achieved a lot in this area. About 75 percent of transactions
+are being carried out in national currencies today, which indicates the
+deepening integration interaction between our countries. We will continue this
+transition, and we expect that the share of settlements in national currencies
+will continue to increase.
+Our regional countries’
+efforts to create new opportunities for unblocking economic and transport
+connections is key to increasing the transport, logistics and export potential
+for all of them.
+Today, a number of transport
+projects are being implemented to increase the volume of traffic in the
+East-West and North-South corridors, including those being aligned with China's
+Belt and Road Initiative.
+We cannot avoid talking about
+the global economic trends that are being dictated by the need to build the
+Greater Eurasian Partnership. This initiative was proposed by President of
+Russia Vladimir Putin in 2015 as a comprehensive geopolitical effort to
+streamline the already existing multi-level, multi-speed integration processes
+in Eurasia.
+The Eurasian Partnership
+concept implies the active participation of companies in the CIS countries,
+East Asia, the Middle East and the Persian Gulf in trade and economic
+cooperation in mutually beneficial formats. I would like to urge you all to pay
+attention to the results of the meeting of the heads of state of the Shanghai
+Cooperation Organisation, which ended just last Friday in Samarkand. I am sure
+that the Eurasian Partnership has broad development prospects for the future.
+The change in political and
+economic architecture that is taking place today offers hope for a more just
+world order. We must use the strengths of Greater Eurasia to improve the lives
+of our people, as well as to strengthen Eurasian cooperation.
+Thank you.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/46572/
+Highlight selection

@@ -1,0 +1,17 @@
+seed_url: https://www.ifa.gov.et/2025/10/15/ethiopia-launches-implementation-of-the-african-continental-free-trade-area-afcfta-agreement/
+final_url: https://www.ifa.gov.et/2025/10/15/ethiopia-launches-implementation-of-the-african-continental-free-trade-area-afcfta-agreement/
+title: Ethiopia Launches Implementation of the African Continental Free Trade Area (AfCFTA) Agreement
+date: Oct 15, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia has officially launched the implementation of the African Continental Free Trade Area (AfCFTA) Agreement, marking a major step toward export diversification and regional economic integration across Africa.
+Speaking at the ceremony, H.E. Prime Minister Abiy Ahmed (PhD) highlighted the transformative potential of the AfCFTA for Africa’s shared prosperity.
+“The new frontier for Africa is regional integration — where minds are open to ideas and markets are open to trade,” he stated.
+The Prime Minister affirmed Ethiopia’s strong commitment to deepening continental cooperation and economic sovereignty through shared markets and open trade.
+The AfCFTA, under the African Union framework, aims to establish a single continental market for goods and services, enabling free movement of businesspersons and investments while driving industrialization and sustainable growth.
+H.E. Abiy noted that this milestone sets a solid foundation for advancing Africa’s integration agenda and reaffirmed Ethiopia’s readiness to play a leading role in strengthening continental cooperation.
+He further emphasized Ethiopia’s determination to join the World Trade Organization (WTO) to expand participation in global trade frameworks.
+“Africa’s collective destiny is best shaped through cooperation, shared markets, and interdependence,” he concluded.

@@ -1,0 +1,215 @@
+seed_url: http://government.ru/en/news/43045/
+final_url: http://government.ru/en/news/43045/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Expanded meeting of the Eurasian Intergovernmental Council
+20 August 2021
+08:45
+Cholpon-Ata, Kyrgyz Republic
+Mikhail Mishustin: “The pandemic has demonstrated that our union is able to quickly and easily adapt to various challenges and changes. Thanks to our joint actions, the EAEU economy is gradually recovering. In the first six months of this year, the output of agricultural produce grew 0.6 percent, industrial production by 4.4 percent, and the manufacturing industry output, by 6.5 percent.”
+Heads of delegations attending the Eurasian Intergovernmental Council meeting
+20 August 2021
+Expanded meeting of the Eurasian Intergovernmental Council
+20 August 2021
+Signing of documents adopted at the Eurasian Intergovernmental Council meeting
+20 August 2021
+Mikhail Mishustin during the signing of documents following the Eurasian Intergovernmental Council meeting
+20 August 2021
+Предыдущая новость
+Следующая новость
+Heads of delegations attending the Eurasian Intergovernmental Council meeting
+Mikhail Mishustin’s remarks at the Eurasian Intergovernmental Council meeting
+Documents signed following a meeting of the Eurasian Intergovernmental Council
+List of heads of delegations
+attending the meeting of the Eurasian Intergovernmental Council
+Visit
+Mikhail Mishustin’s meeting with Prime Minister of Kyrgyzstan Ulukbek Maripov
+Mikhail Mishustin took part in Kyrgyz President Sadyr Japarov’s talks with delegation heads, participants in the Eurasian Intergovernmental Council meeting
+Mikhail Mishustin’s meeting with Prime Minister of the Republic of Belarus Roman Golovchenko
+Eurasian Intergovernmental Council meeting in restricted format
+Prime Minister
+of Armenia Nikol Pashinyan;
+Prime Minister
+of Belarus Roman Golovchenko;
+Prime Minister
+of Kazakhstan Askar Mamin;
+Prime Minister
+of Kyrgyzstan Ulukbek Maripov;
+Prime Minister
+of Russia Mikhail Mishustin;
+Prime Minister
+of Cuba Manuel Marrero Cruz (video address);
+Prime Minister
+of Uzbekistan Abdulla Aripov;
+Chairman of the
+Eurasian Economic Commission Board Mikhail Myasnikovich.
+Mikhail Mishustin’s remarks at the Eurasian Intergovernmental Council
+meeting
+From the transcript:
+Good afternoon,
+colleagues, Mr Mamin, Mr Maripov.
+First of all, I
+would like to join my colleagues in expressing sincere gratitude to our Kyrgyz
+friends for the warm welcome and excellent organisation of our meeting.
+We have a packed
+agenda, with the coronavirus response efforts at the top. It is certainly of
+the essence to protect our citizens from this dangerous disease. It has become obvious
+by now that the most reliable way to do it is vaccination.
+Residents of our
+five countries have more and more opportunities to get vaccinated with highly
+effective and safe vaccines that have been developed in our country. Kazakhstan
+and Belarus have already launched their own production of the Russian Sputnik V
+vaccine. The first batches of the vaccine have also been produced in
+Uzbekistan. Our specialists will continue to provide assistance and scientific
+and technological support for the vaccine production.
+The use of the
+COVID-19-Free Travel mobile app also helps to curb the spread of the infection.
+Those arriving in Russia can use it to confirm the results of their negative
+tests. It is simple and convenient.  After
+a successful pilot trial of the project, all five EAEU countries as well as
+Tajikistan and Uzbekistan joined it.  I
+am sure that this step will help them quickly restore the free and safe
+movement of their citizens.
+Colleagues,
+The pandemic has shown us that
+our union can promptly and flexibly adapt to all kinds of challenges and
+changes. It is thanks to our joint efforts that the economy of the EAEU is
+gradually being restored. The speakers have been mentioning this today.
+Macroeconomic indices on the whole do not look so bad.
+During the first six months of
+the year, agricultural output increased by 0.6 percent, industrial output by
+4.4 percent and the processing industry output by 6.5 percent.
+We are also witnessing some very
+positive trends when it comes to development of mutual trade. It has increased
+by 33 percent within the union and with third countries by 19.1 percent since
+the onset of the year.
+It is necessary to continue
+eliminating barriers getting in the way of the free flow of goods, services,
+capital, and personnel. Over 50 such obstacles have already been lifted; twelve
+of them last year.
+Of course, there is still a
+lot to do. Today we will approve an updated list of exactions and limitations
+that need to be got rid of in 2021 and 2022. I suggest we develop a roadmap for
+this period of time and then that we stick to it.
+The creation of a joint
+digital space will also help to improve the integration. We should create
+conditions for a prompt digital transformation of our economies and we should introduce
+advanced technologies and practices.
+There have been certain
+results already. In early July, the first joint project, Work Without Borders
+unified search system, was launched. Using this service, one can find a job vacancy
+or personnel within the entire union. This is an example of how advanced
+solutions can open new horizons for the development of an entire sector. In
+this case, the common labour market as the union’s main value.
+Advanced technologies are
+irreplaceable when it comes to counteracting illegal trading of goods. The
+implementation of agreements on traceability and labelling is helping to
+improve the transparency of the movement of goods within the EAEU. It is
+necessary to promptly complete the development of a draft agreement on the use
+of electronic navigation markers to trace shipments to create a unified,
+seamless system of the transit of goods.
+Other economic sectors also
+should be digitalised. To do so, we will create a working group on digital
+transformation in the union and adopt a relevant directive of the Intergovernmental
+Council.
+There is another important thing
+too. Every single year, global demand grows for organic produce. People want to
+be able buy food that is not full of pesticides, preservatives and food
+additives. It is necessary to ensure free movement of such goods. Today we plan
+on approving a relevant roadmap. To make eco-products more accessible, we need
+to set up unified requirements for their production, labelling and
+certification.
+Working together on the
+improvement of the transport and logistics system is also of utmost importance.
+Today, we will sign a memorandum on facilitating sustainable development of
+transit potential and environmental safety of shipment by rail.
+Companies from Russia, Belarus
+and Kazakhstan will develop additional tools to speed up the digital
+transformation in this field and also introduce technological innovations and
+reduce carbon emissions.
+We consider it necessary to
+combine our efforts on the climate track. Teamwork is necessary to stop global
+changes as well as to protect the environment and to preserve nature for the
+future generations. Together we can develop efficient solutions in this sphere.
+President of Russia Vladimir
+Putin suggested creating a bank of climate data and digital initiatives on
+calculating carbon footprint in the union. It will help businesses work on trying
+to improvethe environment and will also improve competitiveness of the
+economies. In our opinion, a special working group should be engaged in working
+out these matters, including the harmonisation of regulations dealing with greenhouse
+gas emissions.
+In conclusion, I would just like
+to say a very few words about international cooperation between the five member
+states. The interest of the global community in expanding trade and economic
+ties with our association continues growing.
+In July, a trade agreement
+with Serbia came into force. Talks are being held with Egypt. Starting
+negotiations with India and Iran have been approved on the liberalisation of
+trade. The possibility to create a free trade zone with Indonesia and Mongolia
+is also being discussed.
+Cooperation with China has
+also been improving, including what relates to aligning the union with the Belt
+and Road initiative. All of this will facilitate a sustainable and dynamic
+development of the EAEU and the promotion of the initiative of the President of
+Russia Vladimir Putin to create a Greater Eurasian partnership.
+Colleagues,
+The work we have been doing
+within the Eurasian Union has a direct impact on the economies of our
+countries. It is important to make the EAEU a truly successful association that
+can act efficiently in the current difficult conditions. I am sure that we can cope
+with this strategic task if we stick together.
+Documents signed following a meeting
+of the Eurasian Intergovernmental Council:
+Directive on the List of Priority Measures to Digitalise Rail Freight in the
+Interests of Developing Trade and Economic Cooperation Between the Eurasian
+Economic Union and its Member States, on One Side, and the People’s Republic of
+China, on the Other;
+Directive on Insurance Support for Mutual and Foreign Trade Between the Member
+States of the Eurasian Economic Union;
+Instruction related to the alignment of unilateral non-tariff measures during
+the export of goods, as well as export customs duties;
+Instruction related to the creation of a Eurasian (regional) organisation for
+conformity assessment accreditation;
+– Directive on the List of Exactions and Limitations on
+the Domestic Market of the Eurasian Economic Union to be Eliminated in 2021-2022;
+Directive on Creating a High-Level Working Group on Digital Transformation in
+the Eurasian Economic Union;
+Decision on Amending the Procedure for the Official Publication of International
+Agreements within the Eurasian Economic Union, International Agreements between
+the Eurasian Economic Union and Third Countries, Their Integration Associations
+and International Organisations, as well as Decisions by Eurasian Economic
+Union Agencies;
+Directive on Creating a High-Level Working Group to Develop Proposals to Align
+the Positions of the Member States of the Eurasian Economic Union on the Climate
+Agenda;
+Directive on the Annual Report by the Eurasian Economic Commission on the Monitoring
+of the Assessment of the Regulating Effect of Draft Decisions by the Eurasian
+Economic Commission in 2020;
+Directive on the Action Plan (Roadmap) for the Implementation of the Guidelines
+and Stages of Pursuing a Coordinated (Concerted) Transit Policy of the Eurasian
+Economic Union Member States for 2021-2023;
+Directive on the Action Plan (Roadmap) for the Formation of a Common Market for
+Organic Agricultural Products within the Eurasian Economic Union;
+Directive on Ensuring Equal Conditions to Participate in the Programme of
+Purchasing Agricultural Machinery and Equipment in the Republic of Kazakhstan
+for the Producers of the Eurasian Economic Union and Third Countries;
+Instruction related to the implementation of the project Automated Cross-Border
+Trade and Payment Integrated System;
+Directive on the Placement and Distribution of Import Customs Duties between
+the Budgets of the Member States of the Eurasian Economic Union in 2020;
+and other directives.
+The Memorandum on Facilitating the Sustainable
+Development of the Transit Potential and Environmental Safety of Railway
+Transportation in the Eurasian Economic Union was also signed on the sidelines
+of the meeting.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/43045/
+Highlight selection

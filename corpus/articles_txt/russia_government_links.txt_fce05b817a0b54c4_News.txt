@@ -1,0 +1,147 @@
+seed_url: http://government.ru/en/news/51728/
+final_url: http://government.ru/en/news/51728/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s interview with Rossiya 24 TV channel on the 10th anniversary of the Treaty on the Eurasian Economic Union
+31 May 2024
+11:00
+Mikhail Mishustin: “I am sure that the EAEU has a bright future. We have the means to tap our unique potential, improve our citizens’ quality of life, create the most favourable conditions for business initiatives and launch forward-looking projects.”
+Mikhail Mishustin’s interview with Rossiya 24 TV channel on the 10th anniversary of the Treaty on the Eurasian Economic Union
+Question:
+Mishustin, good afternoon. Thank you for taking the time to meet with us. The 10th anniversary of the Eurasian Economic Union is a landmark event.
+What role does the EAEU play in the economic
+development of Russia? How does our cooperation with Armenia, Belarus, Kazakhstan
+and Kyrgyzstan benefit Russia?
+Mikhail Mishustin:
+Good afternoon.
+The main advantages are the growth of mutual trade and investment exchanges, as well as opportunities for expanding business contacts,
+cooperation and launching many mutually beneficial projects.
+The Eurasian Economic Union is a common market of countries with a population of 200 million, where foreign economic ties are
+growing exponentially. Russian exports to EAEU countries have doubled since the union’s establishment. We are actively selling high-tech products to the member
+states. In particular, the share of machines, equipment and means of transportation amounted to nearly 25 percent of our trade with them last year.
+Russian companies are implementing large investment
+projects in a variety of spheres, including energy, industry and the transport
+sector.
+President Vladimir Putin pointed out at the meeting of the Supreme Eurasian Economic Council, held in Moscow on 8 May, that our association has proven its effectiveness in the face of new
+challenges, above all changes in the architecture
+of international relations and growing sanctions pressure. This is not limited
+to the illegal sanctions against Russia and Belarus. It is an old, and I would
+even say systemic problem. This Western policy is aimed at containing the development of the overwhelming majority of the Global South countries. It is a concrete challenge for all natural resources-rich countries on the Eurasian
+continent. Frankly, it is impossible to cope with these trends single-handedly.
+What can we do in this situation? One of the main approaches
+is to promote integration, jointly protect the interests of our states, and work together to ensure our technological and financial independence. We have
+the necessary instruments for this, namely, economies that complement each
+other, historically close ties between our nations and centuries-long
+traditions of good-neighbourliness. By building on these strengths, we can cope
+with the new global challenges and risks.
+But the most important thing is the union countries’
+desire to move forward together and create favourable conditions for strengthening our national economies, improving the business environment and,
+of course, the well-being of our citizens.
+Question
+: In your opinion, how do other EAEU countries benefit
+from their membership?
+Mikhail Mishustin
+: All five EAEU countries benefit from their
+membership.
+These benefits
+largely stem from the fact that there are no customs controls at the borders
+between us. This preferential access has helped us increase mutual trade.
+For example,
+Armenia increased its exports to the EAEU market by a factor of 14, Belarus and Kazakhstan more than doubled their exports, and Kyrgyzstan tripled its exports.
+It is quite
+telling that the five EAEU countries have been reporting higher GDP growth
+compared to the CIS countries outside of this enhanced cooperation framework.
+Last year,
+Armenia’s GDP increased by more than 8.5 percent, while its industrial output
+was up 4 percent.
+Kyrgyzstan is in a similar situation and also reported a high GDP growth rate for 2023. This
+country receives practical support from the Eurasian Fund for Stabilisation and Development in its efforts to resolve social and economic challenges and deliver on other objectives.
+As for Belarus,
+integration accounts for 18 percent of its GDP, and the country’s economy grew
+by 4 percent last year.
+We are also
+witnessing positive momentum in Kazakhstan. Let me give you a telling example.
+Kazakhstan received more investment from Russia, Armenia, Belarus and Kyrgyzstan over the past nine years than it did over the preceding 22 years of its existence as an independent state. Kazakhstan has managed to increase
+exports of manufactured goods within the EAEU’s customs space, including
+products with a high added value, construction materials, chemicals, textile
+products and food.
+Let me emphasise
+that when working within this framework we seek to ensure that all its
+participants can fulfil their economic potential while neutralising all the negative developments. At the same time, we do not aim to end or destroy any of the existing bonds or cooperation mechanisms. On the contrary, it is essential
+that we make them even more effective.
+Question
+: Mr Mishustin, what has been the EAEU’s single
+biggest achievement over the past 10 years, in your opinion?
+Mikhail Mishustin
+: It would be impossible for me to name just one
+achievement. There have been many, in fact. Speaking in Moscow at the Supreme
+Eurasian Economic Council in May, President Vladimir Putin said that all EAEU
+members have benefited from their membership in the union.
+Since its
+founding, the union’s real GDP has been growing at a rate of 12 percent.
+Industrial output increased by 20 percent, and agricultural output was up 25
+percent. Last year, GDP for the five EAEU member states increased by 3.8
+percent, which places our countries above the global average.
+Real wages have
+been on the rise, while unemployment has declined.
+There has been
+positive momentum in improving the business environment.
+All these
+positive developments resulted from our efforts to build a common market with
+the free movement of goods, services, investment and labour. This enabled our
+companies to achieve substantial cost cuts and grow more effectively and faster. This in turn, led to lower prices for consumers – make no mistake about
+that.
+Question:
+How do you envision the EAEU’s
+future? What plans can be implemented in the near future?
+Mikhail Mishustin:
+President
+Putin noted that the union has every opportunity to become one of the strong,
+independent, self-sufficient poles in the emerging multipolar world and a centre
+of attraction for all the independent states that share our
+values and seek to cooperate with the EAEU.
+I am confident that we will achieve this goal and that our integration will
+continue.
+Our medium-term plans are based on the Declaration on Further Development
+of Economic Processes known as the Eurasian Economic Path. It was approved by the member states’ heads of state during Russia’s chairmanship at Russia’s
+initiative.
+We have started coordinating a list of practical measures to implement this
+declaration. It is essential for us that this document is used as an effective
+governance tool for the union’s further development and for enhancing the coordination of our decisions aimed at accelerating integration. By the end of this decade, we must ensure the free movement of goods, services, finance and labour
+in the member states, without any exceptions or limitations. We must also
+create comfortable living conditions by aligning our approaches to education,
+science, healthcare and state administration.
+At the same time, the EAEU will remain open to interaction with all parties
+that share our values and respect international law.
+The union has signed free trade agreements with Vietnam, Serbia and Iran,
+as well as two agreements on trade and economic cooperation with China.
+The development of mutually beneficial relations with international
+partners is also important for implementing President Putin’s initiative on the Greater Eurasian Partnership. With this aim in view, we should promote
+cooperation with international organisations, such as the SCO, BRICS and ASEAN,
+and align the union’s development plans with China’s Belt and Road Initiative. Our
+priorities include the creation of reliable international transport corridors
+and logistics infrastructure in the Caspian region and the Norther Sea Route. We
+will continue to work towards these objectives.
+I am confident that the Eurasian Economic Union has a big future. We have the means to tap our unique
+potential, improve our citizens’ quality of life, create the most favourable
+conditions for business initiatives and launch forward-looking projects.
+Most importantly, we and our partners are committed to jointly addressing these
+challenges in the spirit of friendship, mutual respect and consideration of each other’s interests.
+Remark:
+Mishustin, thank you very much for this detailed conversation. I believe we can
+congratulate all five member states, and you as the Prime Minister, on the 10th
+anniversary of the EAEU.
+Mikhail Mishustin:
+Thank
+you very much.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/51728/
+Highlight selection

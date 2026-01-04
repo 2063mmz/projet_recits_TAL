@@ -1,0 +1,93 @@
+seed_url: https://niia.gov.ng/wp-content/uploads/2025/11/BRI-FOCAC-REPORT.pdf
+final_url: https://niia.gov.ng/wp-content/uploads/2025/11/BRI-FOCAC-REPORT.pdf
+title: BRI-FOCAC-REPORT.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+Dialogue on China-Africa Cooperation under BRI and FOCAC- A Report
+China-Africa relations has become a focal subject in academic discourses and at the Nigerian
+InstituteofInternationalAffairs(NIIA),wekeepbreakingthelimitsandexpandingourfrontiers
+asweconsistentlybringtofore,issuesofglobalattentionsuchastheChina-AfricaCooperation
+undertheBeltandRoadInitiative(BRI)andtheForumonChina-AfricaCooperation(FOCAC).
+Moreso,aspowershiftsfromU.S.dominancetoamultipolarworld,Chinagrowsstrongerthrough
+its economy and military capacity. Unlike colonial powers, China focuses on building
+infrastructureanddevelopmentinAfrica.SeasonedscholarsconvergedattheNIIAchambersto
+discussthissubjectmatteronThursday,30October,2025.
+AttheeventchairedbyeruditeProfessorFemiOtubanjo,thefirstpresentation,wasjointlymade
+byProfessorBabatundeAbosedeandAssoc.Prof.ChinasaOhiri(Head,InternationalEconomic
+Relations Division, NIIA). The focus was onMining and Resource Managementwhile also
+consideringtheenvironmentalandsocialimpactsofChinesemininginWestAfrica.Prof.Abosede
+explainedthatwhileChineseminingbringsinfrastructuraldevelopmentandjobcreation,italso
+causes serious harm to the environment. Poor regulation as well as corruption, pave way for
+exploitationtocontinue,andillegalmininglinkedtoChinesenetworksfundcrimeandterrorism.
+Prof.ChinasaaddedthatChinanowleadsminingactivitiesinAfricathroughstate-backedfirms
+and the Belt and Road Initiative, introducing new green regulations to reduce environmental
+damage. With strong government support, these partnerships could drive sustainable growth,
+signalingaglobalshiftinresourcepoliticswherefairerrulesenableAfricatodevelopratherthan
+sufferexploitation.
+Prof. Efem Ubi, the Director of Studies at the Institute, in discussingChina -Africa trade and
+investment cooperation in an uncertain global orderfocused on the role of China’s growing
+
+privatesectorinAfrica.HenotedthatChinesefirmsinvestheavilyinmanufacturing,energy,ICT,
+andinfrastructure,makingAfrica,China’sfastest-growingtradepartner.TheBeijing2025Plan
+of Action urges companies to invest legally, share technology, and create local jobs through
+projectslinkedtotheBeltandRoadInitiative(BRI)andAfrica’sAgenda2063.AccordingtoProf.
+Ubi,whilesomeindividualsengageinillegalmining,theseactivitiesarenotnecessarilybacked
+bytheChinesegovernment.Overall,China’sprivateinvestmentoffersgrowthopportunitiesbut
+alsofaceschallengesrelatedtotheriskofexploitation.
+China and global governance in Africa was discussed intelligibly by Assoc. Prof. Joshua
+Bolarinwa,theDirectorofResearchattheInstitute.Heexplainedthemodesthroughwhich China
+is expanding its global influence through cooperation with Africa, via BRI and FOCAC. These
+programs promote a governance style based on respect and mutual benefit, contrasting with
+Western conditional aid. In the process, China strengthens Africa’s voice globally while
+showcasingitsleadershipinglobalgovernance.
+Dr. Adesuwa Erediauwa, the Co-ordinator of the Bashir Adeniyi Centre for International Trade
+and Investment (BACITI), an arm of the Institute, deliberated onChina’s private sector
+engagement and how it is evolving within a changing global order. She explains that the old
+Western-ledeconomicsystemisweakeningduetoglobalrivalriesandnationalism,andAfricais
+now asserting more control over its development. China’s partnerships through the BRI and
+FOCAC are helping Africa industrialize by building infrastructure, processing minerals locally,
+andinvestingindigital andgreenenergysectors.The cooperationisshiftingfrom just building
+roadsandrailwaystocreatingproductiveandvaluableindustries,givingAfricamorebargaining
+power,economicindependence,andastrongerglobalvoice.
+ThepresentationmadebyDr.RitaAgu(Head,DivisionofInternationalLaw,NIIA)andMayowa
+Albert (a research fellow at the Gen Leo Irabor Early Warning Centre, NIIA) focused on
+China–Africa cooperation in green development, highlighting joint efforts toward global
+climategoalsliketheParisAgreementandtheUN2030Agenda.TheyhighlightedthatChinais
+shiftingfromminingtorenewableenergy,sustainablefarming,andeco-friendlyindustries,while
+supportingAfricathroughgreenfinanceandtechnology.GuidedbyFOCAC,theBeltandRoad
+Initiative, and Agenda 2063, projects include over 80 renewable energy plants in 28 countries,
+66,000 km of power lines, and electric vehicle production in Egypt, Kenya, Rwanda, and
+Botswana. The speakers emphasized the need for Africa to build local capacity, ensure
+transparency,andsecurefairbenefitsforaffectedcommunities.
+Thesecondpanelsessionoftheprogramwascenteredonreparations.Dr.KesterOnor,asenior
+researchfellow,speakingonthe concept and history of reparations,laidemphasisoncolonial
+servitude, its long-lasting impact, and the idea of reparative justice. Between the 15th and 20th
+centuries,over12millionAfricanswereenslavedandexploitedundersystemsofforcedlaborand
+landtheft.Europeanempiresgainedimmensewealth–over$100trillionintoday’svalue–while
+leavingAfricapoorandunderdeveloped.Colonialismjustifiedracialhierarchiesandcausedweak
+institutions,poverty,anddependencewhichpersiststilldate.Reparativejustice,therefore,aimed
+to correct these historical wrongs through accurate education, debt relief, fair trade, and
+institutionalreforms.Beyondmoney,itsoughttorestoreequality,andhealingbetweennations.
+
+Dr. Nicholas Erameh’s presentation was centred on reparations: between theory and
+implementation, andheexaminedtheglobaldebateonjusticeforhistoricalinjusticeslikeslavery
+andcolonialism.Hediscusseddisputesoverwhoshouldreceivereparations,howtheyshouldbe
+delivered, and how victims experiences are recognized. He also questioned the neutrality and
+fairness of global and trade commission’s handling such issues. Some nations push for
+acknowledgmentandforgiveness,whileothersprefertomoveforwardwithoutrevisitingthepast.
+Dr.Erameh,whoistheHeadofInternationalPoliticsattheDepartmentofResearch,emphasized
+that true reparations require honesty, fairness, and practical action to promote justice and
+reconciliationbetweennations.
+The final paper was presented by Dr. Phillipa Inyang, another senior research fellow, who
+addressed the legal dimensions of reparations.She elucidated that the legal dimensions of
+reparationsaregroundedininternationallaw,whichholdsthateverywrongfulactcreatesaduty
+to make amends. However, in practice, leaders often hesitate to pursue reparations due to the
+politicalandeconomicpressurefrompowerfulstatesthatbenefitedfromthesewrongs.Thispower
+imbalancemakesimplementingjusticedifficult.
+TheinteractivesessionwasablycoordinatedbyeruditeProfessorFemiOtubanjo,whiletheevent
+endedonahighandpositivenote.
+COMPILED BY NIIA REPORTS COMMITTEE

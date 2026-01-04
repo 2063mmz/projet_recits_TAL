@@ -1,0 +1,326 @@
+seed_url: http://government.ru/en/all/34600/
+final_url: http://government.ru/en/news/29983/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+22nd regular meeting of Russian and Chinese heads of government
+1 November 2017
+06:00
+Beijing, People's Republic of China
+Dmitry Medvedev: “Our relations are at an all-time high, the highest in our entire centuries-long history. We have achieved positive results in all areas. In January−August 2017 mutual trade volume grew by 35 percent.”
+Dmitry Medvedev’s remarks at the 22
+regular meeting of Russian and Chinese heads of government
+Signed documents
+News conference by Dmitry Medvedev and Li Keqiang
+Excerpts from Dmitry Medvedev’s speech at the 22
+regular meeting:
+Dmitry Medvedev’s official visit to the People's Republic of China. Welcome ceremony
+1 November 2017
+Welcome ceremony
+1 November 2017
+22nd regular meeting of Russian and Chinese heads of government
+1 November 2017
+22nd regular meeting of Russian and Chinese heads of government
+1 November 2017
+22nd regular meeting of Russian and Chinese heads of government
+1 November 2017
+Signing of documents
+1 November 2017
+Signing of documents
+1 November 2017
+News conference by Dmitry Medvedev and Li Keqiang
+1 November 2017
+News conference by Dmitry Medvedev and Li Keqiang
+1 November 2017
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev’s official visit to the People's Republic of China. Welcome ceremony
+We have built
+up a great deal of potential for cooperation development and worked out ways to
+discuss the most pressing issues of Russian-Chinese strategic partnership and
+interaction.
+The 19
+National Congress of the Chinese Communist Party was highly publicised in
+Russia. A range of strategic decisions has been made that will determine the
+development of the People’s Republic of China for the next decades.
+Our
+relations are at an all-time high, the highest in our entire centuries-long
+history. Right now, all formats of intergovernmental consultations are in
+place. We have maintained these consultations for 22 years, since 1996.
+We have
+achieved positive results in all areas. In 2016, mutual trade volume
+grew by 4 percent and in January−August 2017 by 35 percent. We can maintain
+this positive trend in industry, transport, aircraft design, energy and the high-tech
+sectors.
+Documents
+signed at 22
+regular meeting of Russian and Chinese heads of
+government
+Signing of documents
+Joint communique on the
+results of the 22
+regular meeting of Russian and Chinese heads of
+government
+Minutes of the 18
+meeting of the Russian-Chinese Commission for Cultural Cooperation
+Agreement between the
+Federal Customs Service of the Russian Federation and the General
+Administration of Customs of the People’s Republic of China on cooperation in
+risk management
+Protocol between the Federal
+Customs Service of the Russian Federation and the General Administration of
+Customs of the People’s Republic of China on the exchange of data received via
+the inspection and search system used as part of mutual recognition of the
+results of customs control of certain kinds of goods, in order to improve
+customs control
+Protocol between the
+Agriculture Ministry of the Russian Federation and the General Administration
+of Quality Supervision, Inspection and Quarantine of the People’s Republic of
+China on phytosanitary requirements for wheat exported from the Russian
+Federation to the People’s Republic of China
+Protocol between the
+Agriculture Ministry of the Russian Federation and the General Administration
+of Quality Supervision, Inspection and Quarantine of the People’s Republic of
+China on phytosanitary requirements for sunflower seeds exported from the
+Russian Federation to the People’s Republic of China
+Protocol between the
+Agriculture Ministry of the Russian Federation and the General Administration
+of Quality Supervision, Inspection and Quarantine of the People’s Republic of
+China on phytosanitary requirements for buckwheat exported from the Russian
+Federation to the People’s Republic of China
+Protocol between the
+Agriculture Ministry of the Russian Federation and the General Administration
+of Quality Supervision, Inspection and Quarantine of the People’s Republic of
+China on phytosanitary requirements for flax seed exported from the Russian
+Federation to the People’s Republic of China
+Protocol between the
+Agriculture Ministry of the Russian Federation and the General Administration
+of Quality Supervision, Inspection and Quarantine of the People’s Republic of
+China on phytosanitary requirements for oat exported from the Russian
+Federation to the People’s Republic of China
+Agreement on establishing
+sister relationship between the Republic of Karelia (Russian Federation) and
+Fujian Province (People’s Republic of China)
+Agreement on trade,
+economic, research, technical, social and cultural cooperation between the
+Government of the Republic of Karelia (Russian Federation) and the People’s
+Administration of Fujian Province (People’s Republic of China)
+Cooperation development
+programme in space exploration between Roscosmos state corporation on space
+activities (Russian Federation) and the China National Space Administration
+(People’s Republic of China) for 2018−2022
+Memorandum of understanding
+on wide cooperation between NOVATEK and the China Development Bank
+Framework agreement between
+the Bank for Development and Foreign Economic Affairs (Vnesheconombank) and the
+Export-Import Bank of China
+Agreement on strategic
+cooperation between NOVATEK and the China National Petroleum Corporation
+Minutes of the 4
+meeting of the Russian-Chinese Intergovernmental Commission for Investment
+Cooperation
+Minutes of the 14
+meeting of the Russian-Chinese Intergovernmental Commission for Energy
+Cooperation
+Minutes of the 21
+meeting of the Russian-Chinese Commission for Preparing Regular Meetings of Heads
+of Government
+Minutes of the 1
+meeting of the Russian-Chinese Intergovernmental Commission for Cooperation and
+the Development of the Russian Far East and Baikal Region and the Northeast of
+the People’s Republic of China
+News conference by Dmitry Medvedev and Li Keqiang following the 22nd regular
+meeting of the prime ministers of Russia and China
+Excerpts from the transcript:
+News conference by Dmitry Medvedev and Li Keqiang
+Li Keqiang:
+The
+regular meeting of Chinese and Russian heads of government
+focuses on expanding practical cooperation. We have reached our goals; the
+meeting went quite well. We also attended a ceremony where bilateral documents
+were signed.
+Chinese-Russian relations of
+comprehensive strategic partnership continue to develop at a high level; contacts
+at the high and top levels have intensified and mutual political trust in
+international and regional affairs as well as strategic cooperation are being
+developed.
+We also praise the current level of trade ties between
+the two countries, especially since the beginning of this year. Mutual trade is
+growing fast. We have agreed on the further improvement and expansion of
+bilateral trade as well as  the
+implementation of planned joint projects so as to be able to see results as
+soon as possible.
+It is important for us to bring the best out of
+cooperation in traditional areas, as well as to develop and agree on new large
+joint projects plus expand new cooperation areas.
+China is going to host an imports fair next year.
+Russian products will find their Chinese consumers and will get a bigger share
+on the Chinese market.
+We also discussed cooperation on the eastern route of
+the Yamal LNG gas pipeline, the second section of the China-Russia oil pipeline
+and the implementation of other major projects. It is important to find new
+forms of energy cooperation based on these projects. In particular, cooperation
+and integrated interaction from upstream to downstream.
+It is important to strengthen cooperation in
+innovations, the field of high-tech , space, aviation and aircraft design. We
+still have a big potential for that.
+The first joint university on the basis of the
+Polytechnic University and Lomonosov Moscow State University opened this year.
+We hope that it will not just be an institution of higher learning important
+for both countries, but will also gain a reputation abroad.
+Today the Prime Minister and I will close the years of
+the Russian and Chinese media and finalise the results of the two years. We are
+working on the possibility to hold other cross-years.
+China and Russia are great countries that are each
+other’s largest neighbours with wide development opportunities. Together with
+the Russian party, we are ready to implement agreements that our leaders reach,
+assist cooperation as part of various systems, implement the existing
+cooperation results based on mutual benefit and respect, mutual development,
+plus develop bilateral relations together with multidimensional cooperation for
+the sake of a new type of international relations.
+Dmitry Medvedev
+: I have congratulated Premier
+of the State Council of China Li Keqiang, all our Chinese colleagues and the
+Chinese people on the success of the 19th Congress of the Communist Party of
+China. The Congress’ decisions have determined the country’s future and will
+boost comprehensive partnership and forward-looking cooperation with Russia, as
+well as our interaction within a wide range of formats, including that of multilateral
+nature.
+The mechanism of interaction between our governments is working very well. It
+is a good mechanism. We have five very effective field-specific commissions. Both
+the Russian and the Chinese governments are contributing to the development of
+projects in various spheres of our cooperation.
+Over the past year, we have signed several intergovernmental,
+interdepartmental and interregional documents on cooperation in various
+spheres, including agriculture, customs, space exploration and interregional cooperation.
+Of course, Russian and Chinese companies and financial institutions maintain
+large-scale multifaceted cooperation.
+News conference by Dmitry Medvedev and Li Keqiang
+Despite the global economic downturn, Russian-Chinese cooperation has
+rebounded. Over the past few years, our trade has not decreased but has grown,
+including by over 30 percent in the first eight months of this year. We hope
+our trade will continue to grow in keeping with the goals that have been
+formulated some time ago, and that it will ultimately reach the target figure.
+As you remember, the target figure is $100 billion, but it is not the limit at
+all.
+We are implementing huge projects, including cross-border ones. One such
+breakthrough project is the Eurasian Transport Corridor to link China, Russia
+and the EU countries.
+We are working to implement ambitious transport project, such as the
+creation of a wide-body long-distance civilian plane, which has been given a
+name already. We are working on a heavy civilian helicopter and space
+exploration: we have signed a programme for our work on these projects.
+We have approved a package of 73 priority
+investment projects, 17 of which are being implemented with some $15 billion of
+attracted investment. We have agreed to pay more attention to the sphere of
+innovations and to consider the possibility of creating a special fund to
+finance innovative research.
+The first stage of the Yamal LNG plant will come on stream in the near
+future. The first batch of gas via the eastern route of the Power of Siberia
+pipeline will be delivered in late 2019. We will continue coordinating gas
+deliveries via the western route and will boost these talks.
+It is very important to continue our cooperation in other science-intensive
+spheres such as nuclear generation.
+The number of people studying Russian and Chinese is increasing with every
+passing year. The scope of our cultural and education projects is increasing,
+along with the number of students. A joint Russian-Chinese University based on
+Moscow State University and Beijing University of Technology has opened at
+Shenzhen.
+We have held regular cross years starting in 2007. The latest examples are
+the media cross years in 2016 and 2017.
+Question:
+We know that the US dollar continues to hold leading positions in the
+international settlement system, and the payment systems continue to be
+dominated by transnational companies such as Visa and MasterCard. Some experts
+believe that this can disturb the balance in the international financial system
+and lead to economic inequality. What should
+be done
+in this
+situation?
+Dmitry Medvedev:
+The
+world needs a balanced system of financial relations based on various reserve
+currencies and settlement systems. No one currency must
+dominate the market, because this makes all of us dependent on the economic
+situation in the country that issues this reserve currency, even when we are
+talking about a strong economy such as the United States. Even the US economy
+encounters periodic problems, which causes turbulence in the entire financial
+world. Therefore, the more balanced the international financial system, the
+better for everyone.
+The yuan, the national currency of China that represents one of the world’s
+largest economies, is playing an increasingly big role. We are discussing the
+possibility of using our national currencies, the rouble and the yuan, for
+mutual settlements and also using such tools as swaps. We are also analysing
+the possibilities of national payment systems, including China’s UnionPay. Russia
+is developing a national payment system based on the Mir card. We are
+discussing the possibility of connecting the Mir card to Chinese payment
+systems based on co-badged cards, that is, cards that include two payment
+brands and so can be used in settlement transactions in Russia and other
+countries. These cards have a good future in that they will help us evade the
+problems that are sometimes created by the use of American payment systems such
+as Visa or MasterCard. The more financial tools we have in the world the more
+stable the international financial system.
+Question:
+What do you think will be the future of relations between our countries?
+And another question: at the
+previous ministerial meeting you suggested focusing on key aspects such as
+cooperation between small-sized businesses and cooperation on the development
+of the Russian Far East. How is it going?
+Li Keqiang:
+The 19
+National Congress of the Communist Party of China
+concluded successfully last week. The congress was quite open; we invited many
+foreign correspondents, including Russian ones who provided a broad coverage of
+the event.
+During the talks we mentioned
+that the Russian side considers the 19
+Congress, as well as
+important decisions related to next year’s development, an opportunity for the
+development of Russia. We always consider each other’s development as the
+opportunity for our own development, because we are strategic partners, we have
+trust in each other and share common interests for the sake of mutually
+beneficial cooperation.
+No doubt we have even bigger
+opportunities for cooperation ahead. We need a balance to preserve peace and
+stability in the world. Balance is also important for the improvement of
+security. And again, we need to find a new balancing point for the development
+of Russian-Chinese relations.
+Therefore, last year in St
+Petersburg Mr Medvedev and I expressed hope and intent to strengthen
+cooperation related to small and medium-sized businesses, as well as the
+development of the Russian Far East.
+It is important to find new fields
+of cooperation because we have a very sound foundation for the traditional
+cooperation areas (such as energy, aircraft design and space exploration) and
+they are developing fast.
+What I am talking about is
+that it is important to use the capacities and advantages of large joint
+projects. No less important is to show the advantages and flexibility of
+cooperation between small and medium-sized businesses to achieve mutually
+complementing cooperation, form new growth points as well as achieve the goals
+and results that will exceed our expectations.
+The Far East is a very vast
+space and has a huge potential for the future development of Russia. We believe
+that China’s biggest advantage is the domestic demand and the country’s western
+and middle regions have even bigger development potential. If we manage to
+boost cooperation in the Russian Far East, we will be able to form as well as expand
+the new space for the further development of cooperation.
+During the talks we reached
+new agreements on cooperation in the Russian Far East. We are going to increase
+China’s investments in order to develop the region and we are ready to increase
+imports of Russian energy.
+China supports its tourists
+who want to go to Russia and its Far East. We will not allow illegal fishing;
+Russia and China will improve cooperation in this area.
+We have a very solid base for
+the development of our countries, for cooperation. We are looking for new
+growth points and new cooperation areas in the interests of our people, peace
+and stability in the world.
+Government of the Russian Federation
+http://government.ru/en/news/29983/
+Highlight selection

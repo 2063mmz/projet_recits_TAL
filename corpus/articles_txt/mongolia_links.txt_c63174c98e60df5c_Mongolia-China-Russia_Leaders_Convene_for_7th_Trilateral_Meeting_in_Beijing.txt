@@ -1,0 +1,21 @@
+seed_url: https://president.mn/en/2025/09/03/mongolia-china-russia-leaders-convene-for-7th-trilateral-meeting-in-beijing/
+final_url: https://president.mn/en/2025/09/03/mongolia-china-russia-leaders-convene-for-7th-trilateral-meeting-in-beijing/
+title: Mongolia-China-Russia Leaders Convene for 7th Trilateral Meeting in Beijing
+date: 2025-09-03T06:33:25+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2025/09/03 2:33:25
+Mongolia-China-Russia Leaders Convene for 7th Trilateral Meeting in Beijing
+The 7th Meeting of the Heads of State of Mongolia, the People’s Republic of China, and the Russian Federation was held in Beijing on September 2, 2025.
+The previous, sixth meeting of the Heads of State took place in Samarkand, Republic of Uzbekistan, in 2022. This year’s summit in Beijing marks the resumption of trilateral dialogue after a three-year hiatus.
+In his opening remarks, Mongolian President Kurelsukh Ukhnaa extended greetings to Chinese President Xi Jinping and Russian Presient Vladimir Putin, expressing his pleasure at convening the meeting during a year that marks the 80th anniversary of the ceasefire of World War II and the victory in the Great Patriotic War, as well as the historic 80th anniversary of the Chinese people’s victory in the War of Resistance Against Japan.
+In addition, Mongolia emphasized the importance of trilateral cooperation and reaffirmed its commitment to jointly implementing the projects and programs outlined in the Economic Corridor Construction Program. These efforts aim to serve the interests of the people of all three countries and make a meaningful contribution to regional development, trade, economic integration, and the advancement of infrastructure.
+Chinese President Xi Jinping noted that in recent years, trilateral cooperation among China, Mongolia, and Russia has yielded significant progress, including the modernization of the Central Railway Corridor and active collaboration in areas such as trade, environmental protection, customs procedures, and humanitarian affairs.
+President Xi proposed further strengthening political mutual trust, supporting infrastructure development, and enhancing existing cooperation mechanisms. Additionally, China announced plans to establish an Innovation Center and invited Mongolia and Russia to take an active role in its implementation.
+Russian President Vladimir Putin proposed enhancing integration among the three countries and strengthening trilateral cooperation within the framework of the Eurasian Economic Union, the Belt and Road Initiative, and the Steppe Road Initiative. The proposal also emphasized the importance of improving transport, logistics, customs procedures, and trade, while reducing bureaucratic barriers.
+President Putin underscored the importance of regularly launching business forums and trade exhibitions featuring entrepreneurs from the three countries, and called for the expansion of trilateral cooperation in strategic areas, including humanitarian engagement, transboundary water resource management, tourism infrastructure, and environmental protection.
+During the meeting, the parties agreed to extend the Mongolia-China-Russia Economic Corridor Program for an additional five years, through 2031, and affirmed their commitment to implementing a project for the construction of a natural gas pipeline from Russia to China via Mongolian territory.
+In addition, the leaders exchanged views on key issues aimed at advancing trilateral cooperation in trade, economic development, infrastructure, environmental protection, and tourism.

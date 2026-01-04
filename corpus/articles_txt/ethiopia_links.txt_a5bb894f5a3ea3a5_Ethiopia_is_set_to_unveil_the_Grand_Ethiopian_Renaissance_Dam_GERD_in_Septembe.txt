@@ -1,0 +1,15 @@
+seed_url: https://www.ifa.gov.et/2025/08/06/ethiopia-is-set-to-unveil-the-grand-ethiopian-renaissance-dam-gerd-in-september-2025/
+final_url: https://www.ifa.gov.et/2025/08/06/ethiopia-is-set-to-unveil-the-grand-ethiopian-renaissance-dam-gerd-in-september-2025/
+title: Ethiopia is set to unveil the Grand Ethiopian Renaissance Dam (GERD) in September 2025
+date: Aug 6, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopiais set to unveil the Grand Ethiopian Renaissance Dam (GERD) in September 2025—Africa’s largest hydroelectric project! This monumental achievement symbolizes national unity, energy access, and shared benefits for all  NileBasin nations.
+Inspired by a vision for food and energy security, the GERD embodies Ethiopia’s commitment to sustainable development and regional cooperation.
+As the country celebrates this historic moment, it calls for a future of collaboration, not conflict. Let’s join in this journey toward a brighter, united Africa!
+— H.E. Biruk Mekonnen Demissie, Ambassador of Ethiopia to the UK
+Read more:
+https://www.ibtimes.co.uk/ethiopia-inaugurate-grand-ethiopian-renaissance-dam-2025-africas-largest-hydroelectric-power-1740036

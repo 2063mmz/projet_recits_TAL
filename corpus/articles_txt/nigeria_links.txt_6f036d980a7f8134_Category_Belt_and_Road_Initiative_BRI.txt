@@ -1,0 +1,18 @@
+seed_url: https://contemporaryworld.ipcr.gov.ng/tag/belt-and-road-initiative-bri/
+final_url: https://contemporaryworld.ipcr.gov.ng/tag/belt-and-road-initiative-bri/
+title: Category: Belt and Road Initiative (BRI)
+date: August 1, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2023 Magazine Edition
+International Studies
+October to December
+LOCATING THE BELT AND ROAD INITIATIVE IN NIGERIA’S RENEWED HOPE AGENDA: IMPLICATIONS FOR GLOBAL HUMAN SECURITY
+Muftau Olaiya Olarinde
+August 1, 2025
+No Comments
+In the dynamic landscape of global geopolitics and economic development, the Belt and Road Initiative (BRI) has emerged as a transformative force, redefining international relations, trade and fostering connectivity among nations. Disappointedly, the...
+Read More

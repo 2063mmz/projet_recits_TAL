@@ -1,0 +1,87 @@
+seed_url: http://government.ru/en/news/54631/
+final_url: http://government.ru/en/news/54631/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk’s working visit to China
+29 March 2025
+19:00
+Hainan, People’s Republic of China
+Russian Deputy Prime Minister attended the Boao Forum for Asia and had a number of bilateral meetings.
+Alexei Overchuk’s meeting with Vice Premier of the State Council of the People’s Republic of China Ding Xuexiang
+29 March 2025
+Alexei Overchuk’s meeting with Vice Premier of the State Council of the People’s Republic of China Ding Xuexiang
+29 March 2025
+Alexei Overchuk made a report at the session Creating a Favourable Environment for Peaceful Development and Safeguarding Common Economic Security as part of his working visit to China
+29 March 2025
+Предыдущая новость
+Следующая новость
+Alexei Overchuk’s meeting with Vice Premier of the State Council of the People’s Republic of China Ding Xuexiang
+On 27–28 March, Russian Deputy Prime Minister Alexei
+Overchuk paid a working visit to Hainan, People’s Republic of China, leading the Russian delegation at the annual Boao Forum for Asia.
+During his speech
+at the session Creating a Favourable
+Environment for Peaceful Development and Safeguarding Common Economic Security, the Deputy Prime Minister focused on the creation of international
+partnerships aimed at fostering
+sustainable economic growth
+in Eurasia. He highlighted efforts to develop reliable transport and logistics networks, as well as an independent payment infrastructure.
+Alexei Overchuk outlined the Greater Eurasian Partnership initiative, put forward by President of Russia
+Vladimir Putin, which seeks to enhance economic connectivity across Eurasia, emphasising economic security and integration.
+The Deputy Prime Minister pointed out that the Northern Eurasia macro-region serves as a model of multi-tier economic integration, with associations
+such as the Union State of Russia and Belarus, the Eurasian Economic Union and the Commonwealth of Independent States playing
+a key role.
+At the same time, Asia is home to China’s Belt
+and Road Initiative, ASEAN, the Gulf Cooperation Council,
+and other entities uniting nations across
+the Global South. Many Asian and Eurasian countries, including
+the continent’s three largest economies – China, India and Russia – are engaged in the Shanghai Cooperation Organisation
+and BRICS. Russia and China
+are also members of APEC.
+The Deputy Prime Minister emphasised that bringing together these multilateral efforts would generate momentum for a more sustainable future, advancing social
+and economic progress, technological
+innovation, economic interconnectivity and cross-cultural communication throughout Eurasia.
+During his visit, the Deputy Prime Minister met with Vice Premier of the State Council of the People’s Republic of China Ding Xuexiang to discuss further strengthening the strategic
+partnership between Russia and China in all economic sectors. Both
+sides acknowledged the pivotal role of the trust-based dialogue between Presidents Vladimir
+Putin and Xi Jinping in deepening
+bilateral cooperation.
+Top-level reciprocal visits are planned for spring and autumn 2025, timed to coincide with the celebrations of the 80th anniversary of the Victory in World War II.
+Alexei Overchuk
+reaffirmed Russia’s commitment to working
+closely with China to implement the agreements reached by their
+leaders and to continuously expand the Russia-China comprehensive strategic partnership and cooperation.
+“Russia
+and China must further strengthen trade relations, scientific and technological cooperation,
+and the development of new production and supply chains,” the Deputy Prime Minister said.
+During the talks, the parties noted that China remains Russia’s largest trading partner.
+In 2024, bilateral trade reached
+nearly $245 billion, with over 95 percent of transactions conducted in roubles and yuan.
+Joint projects are actively progressing in industry, energy, high technology, space, transportation, the automotive
+industry and other sectors.
+Cultural and humanitarian ties are also thriving, with
+mutual interest in each other’s history, culture and traditions continuing to grow. The Cross-Cultural Years of Russia and China have been a great success, with more than half of the 230 events scheduled by the Russian side already completed.
+Alexei Overchuk
+invited Chinese government and business representatives to participate in Russia’s major economic forums: the St Petersburg
+International Economic Forum in June and the Eastern Economic Forum in Vladivostok in September 2025.
+Vice Premier of the State Council of the People’s Republic of China Ding Xuexiang emphasised that relations between China and Russia set the standard
+for cooperation between major neighbouring powers. He reaffirmed Beijing’s readiness to deepen political ties and enhance practical cooperation for the benefit of the peoples of the two
+countries, in accordance with the strategic agreements between the two leaders.
+On the sidelines of the forum, Alexei Overchuk met with Muhammad Yunus, Head of the Interim Government of the People’s Republic of Bangladesh, to discuss strengthening
+friendly relations and trade cooperation
+on a mutually beneficial
+basis. In 2024, bilateral trade between Russia and Bangladesh reached $2.66 billion.
+The talks covered cooperation in industry, energy, food security, culture and the humanitarian sphere The Deputy Prime Minister emphasised the importance of expanding the legal framework for bilateral cooperation and revitalising
+the Russia-Bangladesh Intergovernmental Commission on Trade, Economic, Scientific and Technical Cooperation to further develop bilateral relations.
+Additionally, Alexei Overchuk held talks with Minister of Finance of the Islamic Republic of Pakistan Muhammad Aurangzeb, focusing on priority issues
+on the bilateral agenda, including energy cooperation and food security. Both sides acknowledged
+the active development of Russian-Pakistani cooperation. In 2024, government and parliament members made a series of reciprocal visits.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/54631/
+Highlight selection

@@ -1,0 +1,232 @@
+seed_url: http://government.ru/en/news/43901/
+final_url: http://government.ru/en/news/43901/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the SCO Heads of Government Council
+25 November 2021
+14:50
+Government House, Moscow
+Mikhail Mishustin took part in a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation via videoconference.
+Heads of
+delegations of the Shanghai Cooperation Organisation member states:
+Minister
+of External Affairs of the Republic of India Subrahmanyam Jaishankar
+Prime Minister of the Republic of Kazakhstan
+Askar Mamin
+Premier of the State Council of the People's
+Republic of China Li Keqiang
+Prime
+Minister of the Kyrgyz Republic Akylbek Japarov
+Minister
+of Foreign Affairs of the Islamic Republic of Pakistan Makhdoom
+Shah Mahmood Hussain Qureshi
+Prime Minister of the Russian Federation
+Mikhail Mishustin
+Prime Minister of the Republic of Tajikistan
+Kokhir Rasulzoda
+Prime Minister of the Republic of Uzbekistan
+Abdulla Aripov
+Meeting of the SCO Heads of Government Council
+Mikhail Mishustin’s remarks:
+Mr Askar
+Mamin, good afternoon. Colleagues, friends.
+I would
+like to join you in expressing gratitude to our Kazakh partners for the excellent
+preparation of this meeting.
+The
+Shanghai Cooperation Organisation marks its 20th anniversary this year. In such
+a short period – short by international associations’ standards – the SCO has evolved
+as an effective format for interaction among Eurasian states, resolving regional
+issues, and aligning national development strategies. For this purpose, it has
+developed a solid regulatory framework covering a wide variety of fields from
+politics and the economy to security and humanitarian ties. Our states are
+consistently deepening cooperation, implementing mutually beneficial
+cross-border economic and investment projects and promoting significant
+multilateral initiatives.
+At the
+September summit in Dushanbe, the leaders of our states identified the
+priorities for further strengthening this organisation. Much work remains to be
+done to implement the agreements reached at the highest level.
+Meeting of the SCO Heads of Government Council
+Over the
+past few years, the world has faced profound, system-wide changes. The
+coronavirus pandemic has led to a downturn in key sectors of the global economy,
+pushing up unemployment. International value chains have been disrupted, and
+trade and investment have shrunk.
+The
+external market environment is not exactly favourable either. Our Western
+partners often use unfair competition strategies to keep their dominant
+positions. Protectionist measures and illegal unilateral sanctions are
+expanding.
+Regional
+conflicts are also escalating. The situation in Afghanistan, which is struggling
+with an acute socioeconomic crisis, raises serious concern. It is important to
+prevent that country, which is close to all of us, from sliding into a
+humanitarian catastrophe. Following President Vladimir Putin instructions, we have
+dispatched the first batch of humanitarian aid to Afghanistan. Other SCO states
+are also providing support to the Afghan people.
+It is in
+our common interests to ensure the peace, sovereignty and territorial integrity
+of the Afghan state, freeing it from terrorism and drugs. It is essential for
+the safe and stable development of our entire region. However, undoubtedly, the
+main responsibility for post-conflict reconstruction should be borne by those
+countries whose actions led to the present tragedy.
+Colleagues,
+It is important to note that CIS member states are
+successfully overcoming the current difficulties.
+Mutual trade is being gradually restored. In the
+first eight months of 2021, Russia’s trade with our CIS partners expanded by
+30.5 percent and exceeded $100 billion.
+All states, including Russia, are taking action at the
+national level to stabilise the domestic situation. And we can already see
+certain results. At the end of the second quarter of 2021, Russia’s gross
+domestic product recovered completely and topped pre-crisis levels.
+In the nine months of 2021, industrial production grew
+by over 4.5 percent in annual terms. The labour market situation improved, and
+employment levels exceed pre-pandemic indicators. As instructed by President
+Vladimir Putin, the Russian Government has drafted and approved new
+socioeconomic development initiatives up to 2030. They reflect the modern
+challenges that Russia should address. We will work on six key aspects, namely,
+the social sphere, construction, the environment, digital transformation, a
+technological breakthrough and welfare state.
+Regarding the global economy, in order to ensure its
+recovery, it is important to prevent the further decline in global trade. It is
+necessary to preserve its institutional foundations that have been formulated
+on the basis of the World Trade Organisation. This is the only way to ensure
+clear, understandable and, most importantly, equitable rules of the game for
+all participants.
+And, of course, a wide-ranging macroeconomic policy coordination, on the basis
+of openness and reciprocity, is essential. Today, we are witnessing
+unprecedented demand for multilateral mechanisms of finding collective
+solutions. In our opinion, the SCO could also play a leading role in this work.
+We should continue to merge our national development
+strategies and multilateral integration initiatives and build an area of trust,
+equitable and mutually beneficial cooperation in Eurasia.
+President Vladimir Putin’s initiative on
+establishing a Greater Eurasian Partnership that would involve the countries of
+the Association of Southeast Asian Nations, the EAEU and the Shanghai
+Cooperation Organisation, as well as other countries and regional associations,
+hinges on precisely these principles.
+The Memorandum of Understanding between the SCO
+Secretariat and the Eurasian Economic Commission opens up good opportunities
+for this. It stipulates expanding contacts in various directions, including the
+economy and finance, as well as foreign trade and investment.
+To strengthen
+our cooperation, we should implement joint initiatives in the sphere of
+transport. Six routes have been opened in accordance with the Agreement on
+Facilitation of International Road Transport. We must make full use of them.
+At present, some
+20 million tonnes of cargo are annually transported from Asia to European
+countries via Russia. Experts forecast that the cargo traffic will increase
+several times over in 15-20 years and will reach some 100-150 million tonnes a
+year.
+To be able to
+shoulder the increasing volume of cargo transportation, Russia, Kazakhstan and
+China have launched the implementation of the Europe-Western China
+international transit corridor.
+Under his
+project, Russia is building a motorway from Kazan to Moscow, which will have
+access to the Baltic region and Northern Europe. We are preparing for the implementation
+of the Meridian motorway project, which could have access to Central Europe via
+Belarus. The implementation of this crucial strategic project will be in the
+long-term interests of all SCO countries and will help strengthen transport,
+logistics and cooperation ties. In light of environmental challenges, we will
+stipulate the broad use of natural-gas-based
+vehicles on the Meridian route. Our next task is to formulate measures for
+coordinated infrastructure development based on digital technology and
+cutting-edge intellectual systems.
+Regrettably, we
+have not yet coordinated our positions in this area. We must coordinate our
+approaches without delay and reach agreements on the SCO road development
+programme.
+We will continue
+our digital economy cooperation within the framework of the SCO. The world is
+rapidly moving towards a new technological paradigm. We have the capability to
+take leading positions on this track.
+Russia is ready
+to share its achievements in the sphere of remote employment and education
+services, public services and telemedicine. We have scored success in the field
+of database management platforms and in the development of AI-based solutions.
+The SCO
+countries have adopted the Concept of Cooperation of the SCO
+Member States in Digitalisation and ICT. I would
+like to urge our partners to more actively contribute to drafting a plan for
+its implementation.
+It would be
+useful to develop cooperation for the digitalisation of the legal sphere. Russia
+has forwarded to its partners a draft concept and a draft agreement on the SCO
+electronic platform for the provision of legal assistance in civil matters.
+The active
+introduction of modern technologies has presented us with a new challenge: to
+overcome the digital divide. Last year we approved the Concept
+for Cooperation Between the SCO Member States in Developing Remote and Rural
+Areas in the Digital Era. The SCO Best Solutions Bank looks like the best mechanism for the implementation of the concept.
+It comprises over 170 technologies and practices in the field of
+infrastructure, public and financial services, agriculture, education and
+healthcare. We need to reach a compromise on this project as soon as possible,
+so that all SCO counties have access to such solutions.
+Digitalisation
+is being accompanied by green transformation of the economy.
+Meanwhile, some states are attempting to leverage
+these trends to gain a competitive advantage in emerging markets. There are
+attempts to promote green protectionism, to introduce additional taxes or
+administrative barriers to international trade, which run counter to the WTO
+rules and principles.
+It is imperative that we pay the utmost attention to
+these actions, in particular when implementing the
+SCO Green Belt Programme and the Concept of the SCO Member States’ Cooperation
+in Environmental Protection. We propose that the foreign ministries convene
+consultations with representatives of relevant agencies, including on
+decarbonising the economy.
+International settlements are a separate issue. Clearly, we need
+reliable mechanisms to finance the SCO projects. The use of national currencies
+will help reduce dependence on external factors and cut conversion and
+transaction costs. In the long term, this will improve financial stability and
+create conditions for entering new markets and building production chains
+between our countries. Russia advocates the early adoption of the roadmap for a
+gradual increase in the share of national currencies in mutual settlements.
+Now, I will briefly cover humanitarian cooperation which continues even
+amid the pandemic. In October, the first SCO museum forum with the
+participation of the member states and observer states was held in Tula.
+The SCO University, which unites almost 80 higher educational
+institutions, remains operational. It is essential to increase the number of SCO
+University participants and new in-demand areas of education should be added to
+its curriculum.
+The Business Council, the Interbank Association and the SCO Youth
+Council engage in vigorous activities.
+Region-to-region cooperation is going strong. The Forum of Heads of
+Regions holds a lot of promise for implementing specific projects.
+All of the above goes to show that the peoples of the SCO countries are
+interested in joint work across a variety of areas.
+Colleagues,
+The SCO is strengthening its position in the international arena year in
+and year out.
+The upcoming admission of Iran to the SCO and the granting of dialogue
+partner status to Egypt, Qatar and Saudi Arabia will significantly strengthen
+the organisation’s potential and its role in international affairs.
+The most important thing for all of us is to stop the spread of the
+coronavirus and overcome its aftereffects. To do so, we must continue to
+implement the Comprehensive Plan of Joint Action to Counteract the Threats of
+Epidemics in the SCO Region and to ensure the teamwork of our sanitary and
+epidemiological services. Russia proposes to hold a meeting of their leaders on
+9 December to discuss in greater detail the steps to combat the pandemic.
+Mr Mamin, in closing, I would like to congratulate you on the successful
+completion of Kazakhstan’s chairmanship of the SCO Heads of Government Council.
+I also wish every success to Mr Li Keqiang, in connection with the transfer of
+the chairmanship to the People’s Republic of China.
+I am confident that the SCO is capable of successfully achieving our
+countries’ most challenging goals. Together, we will ensure the sustainable and
+balanced growth of our respective economies and continue to work together for
+the benefit of our peoples and states.
+Thank you.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/43901/
+Highlight selection

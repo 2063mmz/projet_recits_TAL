@@ -1,0 +1,188 @@
+seed_url: http://government.ru/en/news/38886/
+final_url: http://government.ru/en/news/38886/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Eurasian Intergovernmental Council meeting
+31 January 2020
+11:30
+Almaty, Kazakhstan
+Under discussion were current issues of the Eurasian Economic Union activities and the further improvement of its legal base.
+Mikhail Mishustin’s remarks at the meeting
+Signing of documents
+List of delegation heads
+attending the meeting of the Eurasian Intergovernmental Council:
+Group photo of the heads of delegations taking part in the Eurasian Intergovernmental Council meeting
+Prime Minister of the Republic of Armenia Nikol Pashinyan;
+Prime Minister of the Republic of Belarus Sergei Roumas;
+Prime Minister of the Republic of Kazakhstan Askar Mamin;
+Prime
+Minister of the Kyrgyz Republic Mukhammedkalyi Abylgaziev;
+Prime Minister of the Russian Federation Mikhail Mishustin;
+Chair
+of the Board of the Eurasian Economic Commission Tigran Sargsyan;
+Prime Minister of the Republic of Moldova Ion Chicu.
+Mikhail Mishustin’s remarks
+the meeting:
+Mikhail Mishustin delivering his remarks at a meeting of the Eurasian Intergovernmental Council
+I would like to convey my
+greetings to all the participants in this expanded Eurasian Intergovernmental
+Council meeting. First of all, I would like to thank our colleagues from
+Kazakhstan, and Mr Mamin personally for the marvellous arrangements for our
+meeting, and for creating a very productive environment in Almaty. A big thank
+you also for your congratulations.
+I am attending the Eurasian
+Intergovernmental Council meeting for the first time as Prime Minister. Let me
+assure you of Russia’s commitment to further strengthening the union and
+creating all the required conditions for achieving this goal.
+Overall, we have a positive
+view of how Eurasian integration has been advancing in all the key areas. First
+and foremost, operations within the common market have been improving, and
+supra-national regulations are becoming increasingly more effective. Our target
+is to ensure that all the five economies grow and that people in the union feel
+the benefits of being part of a common space and have equal opportunities.
+Let me say a few words about
+the results that we have already achieved within the union.
+In the first three quarters
+of 2019 the union’s aggregate GDP growth rate was equal to 1.4 percent, while
+manufacturing and agriculture grew 2.7 percent.
+We are witnessing positive
+shifts in terms of exports within the union. The share of vehicles, equipment
+and means of transport reached 20 percent. The range of goods available on the
+union’s internal market is increasing, offering our manufacturers new
+opportunities for promoting their wares.
+Eurasian Intergovernmental Council meeting
+The Pension Agreement for EAEU Working
+Population has entered into
+force, as has already been mentioned. It guarantees the right to pensions for
+citizens from all the five countries regardless of where they worked within the
+union. Millions of people are covered by this measure. There was another
+landmark decision. Ticket prices for visiting museums or other cultural facilities
+will now be the same for all EAEU citizens in all countries of the union. In
+fact, it now seems odd that they were treated as foreigners when buying tickets
+to visit exhibitions and performances.
+What should be our
+short-term priorities?
+The first goal is to remove
+any barriers for accessing the EAEU market and to promote a competitive
+business environment. We realise that this would require extensive efforts,
+compromises and being able to address challenging issues in a constructive
+manner. Belarus as this year’s chair designated this matter as a priority. This
+decision has our support.
+Visit
+Mikhail Mishustin's meeting with first President of the Republic of Kazakhstan Nursultan Nazarbayev
+Mikhail Mishustin's meeting with President of Kazakhstan Kassym-Jomart Tokayev
+Mikhail Mishustin’s meeting with Prime Minister of Moldova Ion Chicu
+Mikhail Mishustin’s meeting with Prime minister of Belarus Sergei Roumas
+Mikhail Mishustin’s meeting with Prime Minister of Armenia Nikol Pashinyan
+Mikhail Mishustin attends the Digital Almaty: Digital Future of the Global Economy international forum
+Mikhail Mishustin’s meeting with Prime Minister of Kazakhstan Askar Mamin
+Ensuring the traceability and labelling of goods
+provides a mechanism for improving the transparency of the common market.
+Russia proposed expanding this measure to more goods. Let me remind you that we accommodated our colleagues
+and postponed the implementation timeframe for marking footwear in Russia until
+1 March 2020. Colleagues, I would like to ask you to accelerate procedures for
+enacting this initiative and joining this project that has so much importance
+for the common market.
+The second priority is to promote the digital
+transformation of our economies, which opens up game-changing opportunities in
+various spheres. This is what the forum that is taking place today in Almaty is
+all about. Let me note that we have been quite successful in promoting digital
+transformation. The Commission and our partners within the union reviewed about
+70 initiatives and launched the first digital projects in manufacturing,
+transport and the labour market. We hope that digital technology competence
+centres will be created in the near future, as I have already said in my
+remarks at the forum. This will enhance the efficiency of our digital
+cooperation.
+A plan was developed for building an ecosystem of
+digital transit corridors. It will reduce the times of passenger and cargo
+operations across the EAEU, making this type of transit more in-demand and
+competitive. We also need to be more proactive in fine-tuning digital
+cooperation on phytosanitary and veterinary affairs by creating a single system
+for tracking the movement of goods and cargo subject to quarantine and
+veterinary control. We are about to finalise veterinary certification
+procedures with our Belarusian colleagues, and launched a similar process with
+Kazakhstan regarding goods subject to quarantine. By combining our efforts we
+can prevent the circulation of low-quality products and make our controls more
+effective.
+Third, there must be no delays in carrying out a major
+project to establish a Eurasian Network for Industrial Cooperation,
+Subcontracting and Technology Transfers. We will decide today on updating the
+project’s timeframe and funding provisions. The network is expected to be up
+and running next year.
+The fourth priority concerns international
+cooperation. In October, the EAEU signed free trade agreements with Singapore
+and Serbia, the trade liberalisation agreement with Iran came into force, and
+the Agreement on Trade and Economic Cooperation between the EAEU and China took
+effect, which of course is critical for ensuring connectivity between the EAEU
+and China’s Belt and Road Initiative. We expect to make serious progress in our
+negotiations on setting up free trade areas with Egypt and Israel, and will
+also begin talks with India on liberalising trade flows. Strengthening
+cooperation between the EAEU and the CIS remains a priority. In this context,
+we welcome the interest expressed by Uzbekistan in establishing ties with the
+EAEU.
+My fifth point is that the union’s
+development objectives must correlate with the interests of the people. Russia put
+special emphasis on healthcare, education, research, social rights, environmental
+protection, sports and tourism when drafting the strategic documents for the union.
+We have already made proposals to this effect, and hope that you will support
+our initiatives.
+Colleagues, in conclusion, I would like to wish Mr
+Sargsyan a happy birthday, and thank him for his work as Chairman of the
+Eurasian Economic Commission Board. I worked with him very closely in my
+previous position. I wish you good health and every success in your future
+undertakings. I would like to inform you that following this meeting he will
+receive the Stolypin Medal, 1
+Class. I hope that I will be the one
+to present the medal.
+Documents signed following the Eurasian
+Intergovernmental Council meeting:
+Signing documents following the Eurasian Intergovernmental Council meeting
+· Directive on the
+work to eliminate barriers on the internal market of the Eurasian Economic
+Union by the member states of the Eurasian Economic Union
+· Instruction on drafting
+a document outlining strategic areas of the development of Eurasian economic integration
+until 2025
+· Instruction on organising
+events to increase awareness of representatives of government agencies and development
+institutions working on matters related to Eurasian economic integration, business
+leaders from the member states of the Eurasian Economic Union, and officials
+and employees of the Eurasian Economic Commission
+· Instruction on implementing
+Instruction No. 11 of the Eurasian Intergovernmental Council of 25 October 2019
+· Instruction on implementing
+Instruction No. 17 of the Eurasian Intergovernmental Council of 27 November 2018
+· Instruction on implementing
+Instruction No. 6 of the Eurasian Intergovernmental Council of 30 April 2019
+· Instruction on
+the results of the development of proposals related to detailing the approaches
+to regulating duty-free imports of goods for personal use purchased by an individual
+as part of international electronic trade
+· Instruction on improving
+mechanisms for using special protective, anti-dumping and compensatory measures
+in the Eurasian Economic Union with regard to international rules and practices,
+including the experience of the European Union
+· Directive on forming
+an ecosystem of digital transit corridors in the Eurasian Economic Union
+· Decision on amending
+certain decisions of the Eurasian Intergovernmental Council
+· Directive on the
+time and venue for holding the next meeting of the Eurasian Intergovernmental
+Council
+· Directive on submitting
+a candidate for the Eurasian Economic Commission Council to the Supreme
+Eurasian Economic Council
+· Directive on submitting
+a candidate for the Eurasian Economic Commission Board to the Supreme Eurasian Economic
+Council.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/38886/
+Highlight selection

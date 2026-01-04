@@ -1,0 +1,13 @@
+seed_url: https://president.mn/en/2019/04/23/president-to-pay-state-visit-to-china-attend-the-belt-and-road-forum/
+final_url: https://president.mn/en/2019/04/23/president-to-pay-state-visit-to-china-attend-the-belt-and-road-forum/
+title: PRESIDENT TO PAY STATE VISIT TO CHINA, ATTEND THE BELT AND ROAD FORUM
+date: 2019-04-23T02:28:29+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/23 10:28:29
+PRESIDENT TO PAY STATE VISIT TO CHINA, ATTEND THE BELT AND ROAD FORUM
+President of Mongolia Khaltmaagiin Battulga will pay a state visit to the People’s Republic of China on April 24-25, by the invitation of President Xi Jinping. President Battulga will also attend the Second Belt and Road Forum for International Cooperation in Beijing on April 26-28.
+During his state visit, President Battulga will hold official talks with his Chinese counterpart. President Battulga also plans to participate in the Leaders Roundtable of the Second Belt and Road Forum for International Cooperation and give a speech.

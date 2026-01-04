@@ -1,0 +1,388 @@
+seed_url: http://government.ru/en/all/37872/
+final_url: http://government.ru/en/all/37872/
+title: All materials
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+24th regular meeting of Russian and Chinese heads of government
+17 September 2019
+15:00
+St Petersburg
+The agenda focused on the main aspects and methods of strengthening bilateral trade and economic cooperation.
+Dmitry Medvedev’s remarks at the 24th regular meeting
+Documents signed following the meeting
+Statements for the press by Dmitry Medvedev and Premier of the State Council of the People’s Republic of China Li Keqiang following the meeting
+Excerpts from the transcript:
+24th regular meeting of Russian and Chinese heads of government
+Dmitry Medvedev:
+Premier
+of the State Council of the People’s Republic of China, Mr Li Keqiang,
+colleagues,
+I am delighted to welcome you to St Petersburg once again. I hope you will
+have memorable impressions from this visit to my native city.
+On 1 October the People’s Republic of China will mark the 70th anniversary
+of its establishment. We congratulate our Chinese friends on this important
+date. I would like to remind you that the Soviet Union was the first country to
+establish diplomatic relations with the People’s Republic of China, which it
+did on 2 October 1949. It is notable that today, 70 years later,
+Russian-Chinese relations of comprehensive partnership and strategic
+cooperation have reached the highest level ever and have entered a new era.
+Retrospective
+23rd regular meeting of Russian and Chinese heads of government, 7 November 2018
+22nd regular meeting of Russian and Chinese heads of government, 1 November 2017
+21st regular meeting of Russian and Chinese heads of government, 7 November 2016
+20th regular meeting of Russian and Chinese heads of government, 17 December 2015
+19th regular meeting of Russian and Chinese heads of government, 13 October 2014
+18th regular meeting of Russian and Chinese heads of government, 22 October 2013
+17th regular meeting of Russian and Chinese heads of government, 6 December 2012
+We are working together to implement large-scale projects both bilaterally
+and within the framework of interstate associations. We stand for respect for international
+norms of regulation in the world’s markets. This is especially important in
+conditions of imposed trade wars and illegitimate sanctions pressure.
+Mutual support and awareness
+of our common interests help us address long-term goals, primarily those
+related to aligning the Eurasian Economic Union with the Belt and Road project
+and establishing a broad economic partnership.
+The unique mechanism of
+regular meetings between the heads of government of Russia
+and China
+has continued for nearly a quarter of a century and is yielding important practical
+results. More than 300 intergovernmental agreements embracing almost all
+spheres of cooperation have been signed.
+China is our biggest trade partner. Last year, mutual
+trade grew by a quarter to $108 billion. Strong growth has been recorded in the
+first half of this year as well. Our goal is to reach $200 billion by 2024. We
+are planning to achieve this primarily by implementing joint energy,
+industrial, hi-tech and agricultural projects. Of course, we think it is
+important to promote new forms of trade and an e-services system.
+This meeting’s agenda includes
+current issues of bilateral interaction. We will chart new goals and reference
+points for collaboration. Important documents aimed at promoting interaction in
+various areas will be signed.
+Trip
+Dmitry Medvedev’s meeting with Premier of the State Council of the People’s Republic of China Li Keqiang
+We will emphasise our plans in
+the energy industry, which include cooperation in the oil industry, coal and
+electricity exports, and greater Russian gas supplies to China. Later
+this year, we are planning to commission the Russian-Chinese gas pipeline along
+an eastern route. Gas production cooperation in the Arctic zone will be
+expanded. Major nuclear power projects have reached the implementation stage.
+Yet another important, large
+area of focus is cooperation in outer space. I am referring to joint lunar missions.
+Russia and China intend to
+explore the Moon’s surface, address far space issues, and establish a unified
+data centre based on these expeditions.
+I am confident that the decision to declare 2020
+and 2021 Scientific and Innovation Cooperation Years will give a new impetus to
+the contacts between scientists and technology experts as well as to joint
+research and development.
+Initiatives in the automotive industry, aircraft-manufacturing and
+pharmaceuticals are being successfully carried out. Of note is the project for
+the joint production of a long-range wide-body aircraft and a heavy-lift
+civilian helicopter.
+Opportunities for cooperation in agriculture look promising: the Cooperation
+Plan for soybean growing and distribution is now underway. Similar plans are
+being drafted for livestock and other crops; this includes suspending a number
+of restrictions on mutual deliveries of agricultural products.
+We will continue to implement joint programmes in education, culture,
+art, science, tourism and sports, as people-to-people contacts are no less
+important than business ties and politics. We are always pleased to have
+Chinese tourists in our country, and there are more and more of them. We invite
+everyone interested in Russia
+to visit our country. 2018 and 2019 are Years of Interregional Cooperation,
+which has allowed us to strengthen economic ties, to step up contact at the
+individual region level in our countries, and of course, to strengthen cultural
+cooperation.
+Mr Li Keqiang, colleagues,
+I suggest that we listen to the reports by the heads of the respective
+intergovernmental commissions on the work they have done during the year.
+But before that I would like to give the floor to you, Mr Premier.
+Li Keqiang
+(retranslated)
+I am very happy to visit St Petersburg, which is the Prime Minister’s hometown,
+three years after my previous visit and join you in holding the 24
+regular meeting of the heads of government of China
+and Russia.
+This year marks the 70
+anniversary of diplomatic relations between
+China and Russia, and it
+is therefore important for us to congratulate each other on this significant
+date. Thank you for sending us greetings on the occasion of the PRC’s
+anniversary.
+Now comes a new era in Chinese-Russian relations of comprehensive
+partnership and strategic interaction. One can say that Chinese-Russian
+relations have been developing steadily in a healthy way over the past several
+decades. The mechanism of regular meetings between the heads of government of China and Russia has never been suspended, and
+each of our meetings is productive.
+China and Russia are each
+other’s largest neighbours, and we, invariably in the spirit of mutual respect
+and equality, are strengthening mutual political trust and promoting practical and
+mutually beneficial cooperation.
+We are building up people-to-people exchanges based on the principles of
+strengthening spiritual ties between our people. Our relations are gradually
+rising to a new height, and each meeting lays a solid foundation for the next.
+At present, amid
+difficult and challenging international economic and political circumstances,
+stable and sustainable cooperation between our countries serves as a stabilising
+factor not only for the region, but the entire world. It is sending a positive
+signal, because our cooperation promotes the development of not only our
+countries, but the world. Together, we defend multilateralism, uphold the
+multilateral trade system, and contribute to the progress and development of humankind.
+The Prime Minister has just covered the issues that are discussed by the
+intergovernmental commissions. I also propose listening to the reports by the heads
+of the respective intergovernmental commissions.
+<…>
+Documents signed following the 24
+regular meeting of the prime ministers of Russia and China:
+Dmitry Medvedev and Li Keqiang sign documents
+17 September 2019
+Dmitry Medvedev and Li Keqiang sign documents
+17 September 2019
+Signing of documents: Maxim Akimov and Vice-Premier of the State Council of China Hu Chunhua sign documents
+17 September 2019
+CEO of the Russian Direct Investment Fund Kirill Dmitriyev and President of China Investment Corporation Ju Weimin sign documents
+17 September 2019
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev and Li Keqiang sign documents
+Joint communique on the 24
+regular meeting of the prime
+ministers of Russia and China
+Signed by: Prime Minister of Russia
+Dmitry Medvedev and Premier of the State Council of China Li Keqiang
+Minutes of the 23
+meeting of the Russian-Chinese Commission on
+Preparing Regular Meetings of the Prime Ministers
+Signed by: Deputy Prime Minister of Russia
+Maxim Akimov and Vice-Premier of the State Council of China Hu Chunhua
+Minutes of the 20
+meeting of the Russian-Chinese
+Commission on Humanitarian Cooperation
+Signed by: Deputy Prime Minister of Russia
+Tatyana Golikova and Vice-Premier of the State Council of China Sun Chunlan
+Protocol between the Government of the Russian Federation and the
+Government of China on the results of the joint inspection of the two sections
+of the Russian-Chinese state border
+Signed by: Deputy Foreign Minister
+of Russia Igor Morgulov and Ambassador Extraordinary and Plenipotentiary of
+China to the Russian Federation Zhang Hanhui
+Memorandum of understanding between the Russian Ministry of Digital
+Development, Communications and Mass Media and the Chinese Ministry of Industry
+and Information Technology on digital technology development
+Signed by: Russian Minister of Digital
+Development, Communications and Mass Media Konstantin Noskov and Chinese Minister
+of Industry and Information Technology Miao Wei
+Memorandum on the mutual opening of representative offices for attracting
+and promoting investment between the Russian Ministry for the Development of
+the Far East and the Arctic, and the Chinese Ministry of Commerce
+Signed by: Russian Minister for the
+Development of the Far East and the Arctic Alexander Kozlov and Chinese Minister
+of Commerce Zhong Shan
+Joint statement by the Russian Ministry of Economic Development and the Chinese
+Ministry of Commerce on the development of a roadmap for the high-quality
+development of Russian-Chinese trade in goods and services by 2024
+Signed by: Russian Deputy Minister
+of Economic Development Timur Maksimov and Chinese Minister of Commerce Zhong
+Shan
+Memorandum of understanding between the Russian Ministry of Agriculture
+and the Chinese Ministry of Agriculture and Rural Affairs on cooperation in fighting
+the Colorado potato beetle
+Signed by: Russian Deputy Minister
+of Agriculture Sergei Levin and Chinese Vice Minister of Agriculture and Rural
+Affairs Yu Kangzhen
+Agreement between the Roscosmos State Space Corporation and China
+National Space Administration on cooperation in the development of a joint data
+centre for the exploration of the moon and deep space
+Signed by: General Director of
+Roscosmos Dmitry Rogozin and Director of China National Space Administration
+Zhang Kejian
+Agreement between the Roscosmos State Space Corporation and China
+National Space Administration on cooperation in coordinating the Russian
+Luna-Resurs-1 orbiter mission and the Chinese Chang'e 7 mission for exploring
+the polar region of the moon
+Signed by: General Director of
+Roscosmos Dmitry Rogozin and Director of China National Space Administration
+Zhang Kejian
+Agreement between the Rosatom State Atomiс Energy Corporation and China
+Atomic Energy Authority on administrative arrangements concerning the access procedures
+for Chinese specialists visiting facilities in the Russian Federation that
+carry out work related to the implementation of the 8 June 2018 Agreement
+between the Governments of Russia and China on the joint construction and
+operation of a demonstration fast neutron reactor in China
+Signed by:
+Director General of the Rosatom State Atomiс Energy Corporation Alexei Likhachyov
+and Head of the China Atomic Energy Authority,
+Director of China
+National Space Administration Zhang Kejian
+Memorandum of understanding
+on the further strengthening of cooperation and information exchange in the
+scientific and humanitarian spheres between the Russian Union of Scientific and
+Engineering Associations and China Association for Science and Technology
+Signed by: Vice President of the Russian Union of Scientific and
+Engineering Associations Sergei Drukarenko and Executive Secretary of China
+Association for Science and Technology Shu Wei
+Basic conditions for establishing
+a Russian-Chinese joint research and technology innovation fund in the amount
+of 1 billion US dollars between the Russian Direct Investment Fund and China Investment
+Corporation
+Signed by
+: CEO of the Russian Direct Investment Fund Kirill Dmitriyev and
+President of China Investment Corporation Ju Weimin
+Agreement between the
+Russian Direct Investment Fund, the Russia-China Investment Fund and China’s Guangdong
+Utrust Investment Holdings on the establishment of the Russian-Chinese fund of
+the Greater Bay Area and on comprehensive strategic cooperation
+Signed by: CEO of the Russian Direct Investment Fund Kirill Dmitriyev and
+Chairman of the Guangdong Utrust Investment Holdings Yang Rungui
+Agreement on the
+establishment of a joint venture between CJSC BIOCAD and the Chinese company
+Shanghai Pharmaceutical Holding Co.
+Signed by: CEO of CJSC BIOCAD Dmitry Morozov and Chairman of Shanghai
+Pharmaceutical Holding Co. Zhou Jun
+Agreement on the basic
+conditions of cooperation between SIBUR Holding PJSC and China Petroleum &
+Chemical Corporation (Sinopec) as part of a project to build a facility for the
+production of a new type of SEBS thermoplastic elastomers in Russia
+Signed by: Managing Director of SIBUR Pavel Lyakhovich and Senior Vice
+President of Sinopec Lei Dianwu
+Memorandum of understanding
+regarding cooperation in the production of nitrile butadiene rubber between
+SIBUR Holding PJSC and China Petroleum & Chemical Corporation (Sinopec)
+Signed by: Managing Director of SIBUR Pavel Lyakhovich and Senior Vice
+President of Sinopec Lei Dianwu
+The
+minutes of the 16
+meeting of the Russian-Chinese Intergovernmental
+Commission on Energy Cooperation was also signed during the 24
+regular meeting of the prime ministers of Russia and China.
+Statements for the press by Dmitry Medvedev and Premier of the State
+Council of the People’s Republic of China Li Keqiang following the 24
+regular meeting of Russian and Chinese heads of government
+Excerpts from the transcript:
+Statements for the press by Dmitry Medvedev and Premier of the State Council of the People’s Republic of China Li Keqiang following the 24th regular meeting of Russian and Chinese heads of government
+Dmitry Medvedev:
+Colleagues, ladies and
+gentlemen, representatives of the media,
+My colleague, Premier of the State Council of the People’s Republic of
+China Li Keqiang, and I held the 24
+regular meeting of the Russian
+and Chinese heads of government. Our talks showed that the comprehensive
+partnership and strategic cooperation between Russia
+and China
+have entered a new stage. We maintain close dialogue, and our bilateral
+practical ties are expanding and taking on new dimensions. This is especially
+important since this year we are marking 70 years since the establishment of
+diplomatic ties between our country and the People’s Republic of China.
+I would like to thank Mr Li Keqiang and all our Chinese colleagues for
+their constructive work and friendly attitude in our joint efforts. During the
+meeting, we exchanged views on key areas of cooperation. We discussed matters
+related to ensuring various connections between the Eurasian Economic Union and
+China’s
+Belt and Road Initiative. The co-chairs of the intergovernmental commissions in
+charge of economic, energy, investment and cultural cooperation presented their
+reports. We are committed to further strengthening cooperation across the board
+and achieving tangible, mutually beneficial results. This approach made its way
+into the joint communiqué that was adopted following the talks.
+After the meeting we presided over the signing of more than two dozen
+documents. They are all very much important, especially those referring to
+cooperation in research and space.
+The Economic Development Ministry and China’s Ministry of Commerce
+adopted a roadmap for promoting and expanding bilateral trade in goods and
+services until 2024. Documents were also
+signed by our large companies. They envision large-scale projects in
+petrochemicals, production of a new generation of synthetic materials, and
+creating a pharmaceutical joint venture.
+We are successfully carrying out
+a number of major energy projects, including the construction of a gas pipeline
+from Russia to China on the
+eastern gas-supply route. It will be put into service at the end of the year.
+We are cooperating in developing hydrocarbon resources in the Arctic.
+We are coordinating our efforts to manufacture a large long-range aircraft and
+a heavy-lift helicopter together.
+We are consistently working to
+remove the barriers that restrict the development of trade in agricultural
+products. I am referring to the distribution of Russian soy, grain and a number
+of other crops to China.
+We are planning to continue to
+cooperate in education, the arts, sport and tourism. China’s
+festival devoted to the 70 years of diplomatic relations with Russia was a great success in Moscow this weekend. I would like to congratulate
+our friends and partners again on this important anniversary, that we will soon
+celebrate, and wish them success.
+It is very important that
+young people are increasingly interested in the culture, language and
+traditions of the friendly nations. Youth programmes and student exchanges are being
+expanded. We are carrying out a programme for a joint Russian-Chinese
+university in Shenzhen under Lomonosov
+Moscow State
+University and the
+Beijing Institute of Technology.
+This is just a brief list of the
+items that we discussed with our Chinese friends. In general, Russian-Chinese relations
+now encompass practically all areas.
+In conclusion, I would like to
+thank my colleague Premiere Li Keqiang
+and all of our Chinese friends for their productive work.
+Li Keqiang
+(retranslated)
+Mr Prime Minister Dmitry Medvedev, my dear
+friends, I am very happy that Prime Minister Medvedev and I have held our 24
+regular meeting, and I am happy to have this opportunity to meet with you, my
+friends from the media. Meeting in the limited and expanded formats, the Prime Minister
+and I expressed our common positions to the effect that in the current uncertain
+political and economic global situation, with many factors of instability,
+China and Russia, being each other’s largest neighbors and permanent UN
+Security Council members, are ready to jointly promote bilateral relations that
+facilitate stability and development in our region. We are motivated to maintain
+peace all over the world for the sake of humanity’s progress.
+The preservation of long-term,
+deep and stable ties between Russia
+and China
+benefits not only our two countries but the world in general. This year we mark
+the 70
+anniversary of diplomatic relations between our countries.
+We appreciate the format of the regular meetings of the heads of government,
+which has never been suspended. All participants in these meetings are working together
+and we are grateful to Russia
+for its assistance and support.
+Our common approaches are reflected
+in this signed joint communiqué. Our cooperation, in part, in the practical area,
+is all-embracing. It is not limited to traditional areas but also applies to
+breakthroughs in other areas including the energy and nuclear power industry.
+We have just witnessed the signing of a number of cooperation agreements on processing
+and marketing oil and gas. A desire was expressed to
+develop cooperation in e-commerce and scientific and technological research. Together,
+we have created a foundation of joint scientific and technological innovations.
+In fundamental and applied research, we are willing to use our competitive edge
+to advance our scientific and technical cooperation in order to break new
+ground and thus promote the continuing development of humankind.
+We are also
+cooperating in aviation and space research, as well as in developing innovative
+materials. Today we are meeting in St Petersburg,
+which is a beautiful city with access to the sea and the Gulf
+of Finland. This is symbolic of the fact that we are meeting in a
+place that is famous throughout the world for its traditions of openness.
+Our openness goes both ways. During
+our talks, Prime Minister Medvedev and I noted that energy cooperation accounts
+for more than two thirds of our cooperation. But we are now promoting a
+comprehensive format for cooperation, which includes refining. Not only exploration
+and marketing, but refining as well.
+We in China have begun to open
+up to all countries, in particular, the leading companies in Germany and the United
+States, which now can create their own factories in China to process ethylene,
+with a major capacity of over 10 million tonnes a year.
+We are interested in
+participating in upstream operations. I am referring to exploration and
+production of hydrocarbons in Russia
+which, I am sure, will allow us to double our trade numbers. I am confident
+that we will achieve our goal if we join our efforts.
+We are also ready to
+strengthen cooperation in basic research.
+I very much appreciate the outcome
+of our meeting. Thank you.
+Government of the Russian Federation
+http://government.ru/en/all/37872/
+Highlight selection

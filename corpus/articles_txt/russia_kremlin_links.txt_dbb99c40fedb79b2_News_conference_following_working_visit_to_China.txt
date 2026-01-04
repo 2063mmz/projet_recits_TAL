@@ -1,0 +1,420 @@
+seed_url: http://en.kremlin.ru/events/president/news/60396
+final_url: http://en.kremlin.ru/events/president/news/60396
+title: News conference following working visit to China
+date: 2019-04-27
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+News conference following working visit to China
+Vladimir Putin spoke
+to journalists following the Roundtable discussions at the
+Belt and Road
+Forum for International Cooperation.
+April 27, 2019
+11:50
+Beijing
+President of Russia Vladimir Putin:
+Good afternoon. There will be no opening
+remarks. I am ready to answer your questions.
+Question:
+Good afternoon. The
+Belt and Road
+a very ambitious project – to the extent that it raises concerns in some. China
+is not a country that makes plans only for years ahead – it makes plans for decades proceeding not from billions but from trillions of dollars. This leads
+to the question, is this China's project or is it beneficial for other
+participants? Is it beneficial for Russia?
+Vladimir Putin:
+China is a vast country. I have mentioned that according to open
+sources and IMF data, China is the world's top economy as regards purchasing power
+parity. It is considerably lower per capita than, say, in the United States,
+but the volume is higher. Therefore, of course, China has plans for its
+development, and they are immense and ambitious; when China implements anything
+it uses a highly pragmatic approach to achieve its tasks.
+China is our strategic partner; this
+is obvious from all indicators and parameters. China is Russia's top trading
+partner. Our aim in 2018 was to reach the volume of $100 billion, and we exceed
+that, at $108 billion. And we have good prospects for development.
+When the country's leadership and President Xi Jinping formulate these plans and set development tasks for themselves and for the country – this is a very pragmatic approach. Just like
+us or any other country, they are governed by their national interests. This is
+normal.
+China implements this in a civilised
+and delicate way, making sure proposals for common development meet the interests of the vast majority of international participants, if not all. Generally
+speaking, China has offered nothing new; what it is doing is actually making
+attempts to reaffirm the principles set out by the World Trade Organisation and the International Monetary Fund, and many of our colleagues are mentioning this
+backstage like they did at the last meeting. What is China’s goal? Stability.
+What is the reason for this? China's
+economy is immense, and the domestic market is growing. But today, what China
+produces is basically oriented towards foreign markets.
+Of course, domestic consumption will gradually
+increase with the overall growth of people’s incomes. Today China is interested
+in pushing its products to foreign markets, which is a natural aspiration for any country. For example, the Swedish economy is almost entirely focused on exports, and the same applies to the German economy. China simply has more
+products to offer. So how should China respond when it faces certain
+restrictions and attempts by some countries to stop its development? What
+should China do? It must strengthen the fundamental tenets of global economic
+relations, and create conditions for promoting its products. How can this be
+done? By developing transport infrastructure, port facilities, air, rail and motor
+transport, and building roads. This is exactly what China is doing. This was
+how it all started, but later it became obvious both in terms of China’s growth
+and for us as well, that this would not be enough. We needed to strengthen the fundamental tenets of international economic relations.
+Is Russia interested in this? Of course, it is.
+Considering the high volume of trade and the fact that it is growing, we are
+certainly interested in benefiting from the transit potential of the Trans-Siberian Railway and Baikal-Amur Mainline, and we intend to invest
+heavily in them, as well as in motor transport and roads. We have earmarked
+trillions of rubles for infrastructure development. Why are we doing this? In order to make effective use of our country’s transit potential and to be able
+to engage in mutual import and export operations.
+China acts in a highly civilised manner. For many years, we have been raising the issue of the need to increase the share of engineering goods in our trade. This is now beginning to materialise, which is
+attributable among other things to the position adopted by China’s leadership.
+I am very grateful to President Xi Jinping and Prime Minister Li Keqiang for their consistent efforts to improve China’s trade patterns with Russia.
+Does this meet our interests? Absolutely. I think that this initiative has a very bright future ahead of it, since almost
+all of us are interested in this, as I have already said. No one wants to face
+any restrictions, no one wants any trade wars, maybe with the exception of those who are behind these processes. In any case, an overwhelming majority,
+nearly 100 percent strongly believe that these restrictions and wars undermine
+the global economy and its development. As strange as it may sound, the global
+economy as a whole needs the liberal values that China currently champions.
+It is for this reason that I believe that this
+initiative will develop further, which can also be explained by Chinese
+philosophy: they advance with extreme caution and not only seek to take into
+consideration the interests of their partners, but actually do so in their
+political and practical activities. The world has a very positive view of these
+developments.
+Question:
+You had a marathon of bilateral
+meetings and brief conversations on the forum’s sidelines. What mattered to you
+the most in these meetings? Thank you.
+Vladimir Putin:
+You know, it is hard to pinpoint
+something specifically. We can talk about things that matter to us in general.
+What matters to us is that we are building positive and business-like relations
+with many of our partners, with most countries of the world. Everyone I met
+with said they wanted to work with us.
+What did we do? We focused primarily on bilateral relations. In every specific case, there are certain priorities in terms of bilateral relations, since the structure of trade and economic ties varies
+depending on the country. That said, there are good prospects for working with
+all countries.
+Of course, there are also broader, global matters.
+I am referring to security matters, including regional security. How could we
+fail to discuss at the meeting with the President of Egypt our ambitious plans
+to build a nuclear power station? How could we not discuss regional
+developments, including in Syria and in Libya, and many other issues? I just
+had a number of meetings with my colleagues from European countries. Of course,
+I informed them about our vision of the developments in Ukraine and the implementation of the Minsk Agreements. I also made sure to inform my colleagues of the outcomes of my meeting with the North Korean leader. That is
+to say, we worked on a broad range of issues of mutual interest.
+Question:
+You also had a bilateral meeting
+with your Chinese partners during the forum. May I ask in this regard whether
+you and Xi Jinping discussed the prospects for Iranian oil exports being
+reduced to zero, since China is one of the largest importers of Iranian oil? Did
+you talk about this? Did you discuss with your Chinese partners how you can
+assist Iran in view of the US sanctions, including financial aid and any other
+types of assistance? Is Russia ready to step in for Iran by increasing oil
+exports to China, which would mean increasing oil output in Russia? Thank you.
+Vladimir Putin:
+President Xi Jinping and I barely
+discussed, if at all, matters related to our cooperation with Iran. We did not
+mention the oil-related matters either.
+As for whether Russia is ready to meet China’s
+needs, I can say that Russia is ready to meet the needs of China and many other
+of our partners around the world. After all, Russia is a major oil producing
+country. The United States currently extracts more, but we have a daily output
+of 11.5 million barrels. You see? And we can produce even more. It varies, with
+Russia, Saudi Arabia and our US partners taking turns in the role of the world’s
+largest oil producer. Our production volumes are more or less at the same level.
+Of course, we have a huge potential, but this
+is not the point. The thing is, we have an arrangement with OPEC whereby we
+committed ourselves to keep our output at a certain level. This deal expires in July 2019, while the decisions by the US to impose various sanctions against
+Iran are to come into force, if I am not mistaken, in early May. I have no idea
+how the global energy market will respond to these developments.
+We have a deal with OPEC and we are honouring
+our commitments. As far as I know, all our partners within OPEC, including
+Saudi Arabia, remain committed to the OPEC+ deal. It is hard to say what will
+happen with the global energy market. We did not discuss this with our Chinese
+friends.
+Question:
+Mr President, your executive order on a simplified procedure for granting citizenship to residents of Lugansk and Donetsk regions has been the subject of extensive discussion among experts for a few days now. In particular, they are discussing whether this may require
+substantial expenses for the Russian budget, and even naming the figure of 100
+billion rubles. Is the Russian budget ready for this? Will the government be
+able to meet its social obligations to Russia's new citizens? Are there
+concerns that a situation may occur when these regions' residents will receive
+two pensions – in Russia and in Ukraine? Thank you.
+Vladimir Putin:
+As to discussions of this issue, I think that, as regards 'scare stories' about Russia's budget, these stories are
+undoubtedly being spread by people or political forces that do not want Russia
+to support the people who reside in Donbass. This is the first thing.
+The second is we are extending such a procedure of obtaining our
+citizenship not only to residents of the Lugansk People's Republic and Donetsk
+People's Republic; we are thinking about simplifying the procedure of granting
+Russian citizenship to all Ukrainian citizens in general.
+As to meeting or not meeting our social obligations to our citizens in Russia, there is no doubt that everything – social payments, pensions and pension
+hikes – will be executed. We have no doubts regarding this. There will be no
+serious burden on the Russian budget related to possible setbacks in the work
+of Russia's social system, this is absolutely out of the question. This is not
+a spontaneous decision; before signing the executive order, we considered
+everything: the number of those who would potentially seek out citizenship,
+including the number of pensioners (about one third of this number). There are
+mostly elderly people residing in these territories today.
+Indeed, next year and in the following years this figure may reach some
+100 billion (not in one year but over the course of several years). This is not
+a critical figure for us, not something that can challenge the task of fulfilling our obligations to Russian pensioners. There is not even a slight
+chance of that happening.
+Now, as to the possibility of people receiving both Russian and Ukrainian pensions. Theoretically, this is possible. Do you know the average
+old age pension in Ukraine? It is almost three times lower than in Russia –
+anyway, this is what we can see from open sources. If someone receives a Ukrainian pension as well – fine, this will amount to some 6,000 Russian
+rubles. If we bear in mind that these people are living under fire, with shells
+going off in their backyards- then I believe that our pensioners, many of whom
+went through the Great Patriotic War, remember it and understand what
+conditions these people are living in, will not think that here we are dealing
+with some kind of social injustice. And we must support these people.
+Question:
+Yesterday in Nur-Sultan, the Syrians
+yet again failed to reach agreement on the composition of the constitutional committee.
+So this has been postponed until the next round, and a UN special representative
+has to be involved. Do you think another external factor has affected this, or,
+as the Syrian opposition claims, official Damascus is dictating its rules as the winning country?
+Also, could you please say why the situation in Idlib is not changing?
+It has been six months since you and Mr Erdogan reached an agreement, but the situation
+has only been aggravated. Could Russia take it into its own hands? The situation in Aleppo was even more complicated.
+Vladimir Putin:
+I will single out several aspects here.
+First, you mentioned that the Syrian opposition believes that President
+Bashar al-Assad's Government is trying to impose their will as winners. In that
+case, we should note that the opposition consider Mr al-Assad and the Government
+as winners. And this is true, this is things stand.
+Second, I do not think that President al-Assad is imposing his opinion
+on anyone. We have taken active joint efforts to draw up these lists, but have
+worked particularly actively since our meeting in Istanbul, where we agreed
+that Russia was to undertake receiving a list of people for this Constitutional
+Committee from Damascus' officials, while the Republic of Turkey would be
+responsible for the list from the entire opposition.
+I should remind you that after extensive work with President al-Assad,
+his assistants and the Syrian Government, we received this list. But then it
+turned out that the representative of the UN Secretary-General disagreed with that
+list as he considered a number of persons presented by the opposition, six in all, as not meeting the interests of the opposition in a broad sense of this
+word.
+We found this somewhat odd because we had agreed that Turkey was
+responsible for the opposition’s list, and Turkey had coordinated it with us.
+If something had been wrong, then our colleagues from France, Germany and the United States should have told us they were not comfortable with things. But
+nothing was said, and the list was simply torpedoed.
+Well, we did not take offence at that, we continued our efforts. We
+continued working with both Damascus and the opposition. We agreed to coordinate the replacement of those six individuals that the opposition
+allegedly was not satisfied with.
+We did this too. And now we hear that someone
+is still unhappy with something. Reaching a complete consensus is quite a challenging task due to the lack of unity within the opposition with its
+multiple points of view and diverse groups. It is also obvious that it is
+influenced from the outside. At the end of the day, we still need to draw a bottom line and agree on this list. We are ready to continue this work. In any
+case, no one can blame President al-Assad for undermining the efforts to form
+this committee. President al-Assad, Russia and, by the way, our Iranian partners
+went to great lengths to reach compromise.
+If anyone is currently seeking to derail the creation of the Constitutional Committee, it is the opposition, which is regrettable
+in our view. Still, we will work with all opposition groups patiently and persistently in order to ensure that this committee is formed since this is the only way to lay the foundation for a large-scale political process.
+As for the Idlib zone, let me reiterate what I have said on numerous occasions: we need to continue to fight terrorists. It is
+in the Idlib zone that most of them are entrenched. If they undertake any
+attacks from there, as we see it happen every now and then, we will strike back
+at them. I think that they have already felt this. Is there a need at present
+to carry out any large-scale initiatives? Before undertaking anything, we
+always coordinate our actions with President al-Assad. Actually, it is he who
+carries out all these undertakings, not us. All we do is provide support,
+primarily from the air.
+The presence of civilians is a major factor.
+Unfortunately, civilians are oppressed by the terrorists, many of whom are
+entrenched there. So we need to be mindful of what the civilians oppressed by the terrorists are going through, as well as of the possible damage caused by active combat action. I cannot rule this out, but together with our Syrian
+friends we believe that this would not be advisable, taking into consideration
+the humanitarian aspect that I have just described.
+Question:
+I have a question on the talks you
+held over the past few days. Did you discuss with Xi Jinping the outcome of the summit meeting with North Korean leader Kim Jong-un this past Thursday? Is
+there a possibility for Russia and China to put forward some kind of a settlement plan for the Korean Peninsula? Have you discussed the possibility of reviving six-party talks on these issues?
+Vladimir Putin:
+I announced back in Vladivostok
+that I will not fail to inform our Chinese partners and friends about the results
+of my talks with Kim Jong-un in Vladivostok. I did it, and there is nothing
+unusual about it. We always share information with each other on talks of this
+kind. This was one of such cases. I briefed President Xi Jinping on these
+issues during our talks, and we exchanged views on the developments on the Korean Peninsula. We have a Russian-Chinese initiative that we refer to as the Russian-Chinese settlement plan, a roadmap.
+We believe that its first part has been by and large implemented. We have to see what is written there, since there is nothing
+secret there. We now need to move on to the second part, which consists of normalising relations between the conflicting sides. After all, the conflicting
+sides have been in a state of war against one another since the Korean War. We
+need to address fundamental matters and move on in order to create conditions
+that would be an adequate security guarantee for North Korea. We have not
+discussed any new plans. It is not that we need any, since we have to implement
+what we had already agreed upon. This is what we are doing.
+Question:
+If I may change the subject a bit,
+have you been briefed on the situation with the Druzhba oil pipeline? Did you
+have an opportunity to discuss this with Alexander Lukashenko on the sidelines
+of this forum?
+Vladimir Putin:
+Yes, we briefly exchanged opinions
+on this issue, and, of course, I am aware of what happened there, although I do
+not know all the details. In order to understand what happened there we need to investigate. The primary objective would be to carry out an investigation
+within Transneft in order to identify the location from where contaminated oil
+got into the system, why this happened, and what exactly was injected into the pipeline, etc. This investigation is underway. If a corporate investigation is
+not enough, I cannot rule out a more thorough probe by our law enforcement
+agencies and special services.
+Question:
+If I may continue the oil theme, Donald
+Trump reported that he managed to persuade Saudi Arabia to increase oil
+production. Can you comment on that?
+Also, could you comment on Maria Butina’s 18-month sentence? Thank you
+very much.
+Vladimir Putin:
+The Foreign Ministry has already
+given a comment on Maria Butina’s 18-month sentence. I think the Ministry has made
+it clear that this is total lawlessness. That is what it is. It is unclear why
+she was convicted or what crime she had committed. I think this is a case of keeping
+up appearances or struggling to save face. The girl was seized, detained, put
+behind bars, while there were no charges to be made against her. There was
+nothing to indict her for. However, to make sure that did not look totally
+absurd, they sentenced her to 18 months to show that she was guilty of something.
+Regarding the first part of your question on Saudi Arabia’s stance on possible replacement of Iranian oil, which will be exiting the market. I actually hope that in the end, this will not happen, but we can talk about it
+hypothetically. As I have already said, we have agreements within the OPEK+. We
+honour our agreements. We have no information from our Saudi partners or anybody else, from OPEK members, that they are ready to scrap the agreements.
+We have not been approached on these issues. Moreover, I think it unlikely
+because it was Saudi Arabia that initiated the OPEK+ agreements and engaged
+Russia in them.
+Question:
+Good afternoon, Mr President. You
+have had a hard week – St Petersburg, Chita, Vladivostok, Beijing, several time
+zones, working under jetlag. Our colleagues asked Mr Peskov how Mr Putin
+managed to work under such pressure. He jokingly said this is Putin, he does
+not sleep, he is working. But how much sleep did you get over these days?
+Vladimir Putin:
+Six hours, six hours a day.
+Question:
+And how do you manage to work under
+such pressure?
+Vladimir Putin:
+It is all right. I would fall
+asleep, have five and half to six hours sleep. It is all right, I get enough
+sleep.
+Question:
+When you finally appear before Vladimir Zelensky, what will you say to him? Thank you.
+Vladimir Putin:
+You see, Vladimir Zelensky has not yet been canonised as a saint, nor is
+he our Lord, and I should hardly appear before him in any role whatsoever.
+If we should have a meeting, have
+some talks launched, which I do not rule out, we will have to speak first of all about how to end the conflict in Ukraine’s southeast. And as I see it, there
+is only one way to do it: by implementing the Minsk agreements. Unfortunately,
+Mr Zelensky said prior to the election that he was not going to sign a decree
+or executive order – whatever it is called in Ukraine, on amnesty. And secondly, he would not agree to grant a special status to those territories. Both are key elements of the Minsk
+agreements. How can the issue of Lugansk and Donetsk people’s republics be
+resolved without implementing the Minsk agreements? I would be glad to ask him
+these questions and discuss this topic.
+You see, a large number of Ukrainians voted for him, I believe 74 percent. In my view, the people are
+primarily expecting from the next political leadership of Ukraine a solution of exactly these problems. Everyone has had enough of the conflict, everyone is
+tired of it, and everyone expects from the new political leaders, including the president, a resolution of these issues. But if the future president declared
+from the onset that he is not going to abide by the Minsk agreements, how is he
+going to solve this problem? Of course, I would gladly discuss the issue; I would like to understand his position.
+Well, that is actually all there is
+to it.
+Then there are economic issues. Will we finally sign the gas transit
+contract or not? Do you see what the issue is about? I would rather have a separate discussion on that with you, but there is no secret about it, anyway.
+Ukraine now pays twice as much for natural gas as it could have. When the opposition bloc members Medvedchuk and Boiko came to Moscow, they met with Mr
+Miller and Prime Minister Medvedev, and the Russian side told them, “The price
+of gas deliveries directly from Russia will be at least 25 percent lower.”
+Twenty-five percent.
+Do you realise that heating costs in the country rose by 1,400 percent
+in the past years? And, I believe, electricity rates grew by about 1,000
+percent. The real standard of living is plunging catastrophically. How can one
+disregard all that? How can one dismiss it?
+And if there is no transit? You understand that there will be no reverse-flow
+deliveries since they are virtual. It is our gas heading to Western Europe. The gas pipeline was designed in the Soviet times like that – the transit gas pipe
+has offshoots to all of Ukraine. This matter is widely known among
+professionals. However, the general public might not understand it. But this is
+nonsense, delirium, cheating. There are no reverse flows. Here is natural gas
+going to Europe. It is impossible to run the transit to Europe in the morning
+while at night, like thieves, flip it around into reverse. It is just
+impossible technologically. It is impossible.
+So what is really happening? Gas is flowing to Europe, offshoots from
+the transit pipes go across the whole of Ukraine. Gas is taken in the usual
+way, then it is recorded on paper as reverse-flow gas. It partly goes to the neighbouring countries, they laid a small pipeline from there and pretend to run all those volumes via it. In reality, there are no volumes. Imagine there
+is no transit. Then there will be no gas supplies to Ukraine. It is a grave
+issue. They are messing around, waging political warfare instead of thinking
+about the ordinary Ukrainian citizen who has to cope with everyday problems and has to pay an exorbitant price for all that political trickery.
+Question:
+Interfax agency.
+Vladimir Putin:
+Does this make you an agent? If you
+are from an agency, and you are an employee of an agency, hence you are an agent.
+Question:
+I am an agent of the agency.
+Chinese companies agreed to purchase 20 percent in the Arctic LNG-2 project.
+Vladimir Putin:
+Two companies, 10 percent each.
+Question:
+Will it not affect the speed of the talks on new agreements to supply China with pipeline gas under the Sila
+Sibiri-2 project and via the Far Eastern route?
+Vladimir Putin:
+Certainly not. Just the contrary.
+No, not at all.
+The Arctic LNG is a new project. It will be carried out over the course
+of several years and the amounts of natural gas required by China are truly
+enormous. Moreover, our Chinese partners are now asking us to consider the possibility
+of increasing supplies via the Sila Sibiri gas pipeline, which we will be put
+into operation at the end of this year. This is possible technologically and we
+will do it.
+Arctic LNG is liquefied gas and we have no problems with it at all. This
+is a new field. We will carry out all supplies from the old fields and will
+even try to have enough at home. Our domestic problem is that the European part
+has been supplied with gas since the Soviet times but there was nothing in the East.
+Our task is to develop a gas infrastructure in the eastern part of Russia, beyond the Urals, and then to link these systems – the western and eastern
+parts so as to be able to do crossflows and operate simultaneously both inside
+and outside the country, being very flexible in supplying the foreign market. Depending
+on the requirements, we would send gas to Europe or more to the East, if the demand is bigger. We have now doubled LNG supplies fairly quickly. But we have
+ambitious goals. We want to bring them to 100 million tonnes. The world market
+will swallow it and ask for more.
+Therefore, we have no doubt at all that we will meet all our commitments
+on pipeline gas and will increase our LNG production as well.
+All right, one final question and we will go.
+Question:
+Mr President, here is my question.
+There is a big plan for the development of the Arctic and a ban for private oil
+and gas companies to drill in the Arctic.
+Vladimir Putin:
+Has LUKOIL incited you to ask this
+question?
+Question:
+No, not at all. I am just
+interested whether it is worth allowing them to drill in order to increase
+trade along the Northern Sea Route. Or will we cope without it and achieve 80
+million tonnes anyway?
+Vladimir Putin:
+We are discussing this with our
+colleagues, including those from private companies. This is really a very
+serious and important question. It is not that companies with state
+participation like Gazprom or Rosneft are unable to do this and find these
+resources. As you know, when something is done for the market and when a project is obviously beneficial economically, it is not difficult to find the funding. It is impossible to shut it down with any restrictions. They will be
+pleased to come and do it.
+But the question is not to produce more, although we are facing this
+task. Why have we agreed to work together with the Saudis and our other friends
+from OPEC? Because we realise that we need to keep the market in check and pursue some coordinated price policy.
+The same is true of gas. There is not much difference, it is a demand-and-supply issue. Of course, these are costly projects both in oil and gas, but we must calculate how effective the investment will be, how the market
+will respond and whether it can accept such amounts without a sharp drop in price. This is the whole problem.
+This is not about us artificially excluding domestic private companies.
+No, we will reach agreement with them if we see that they are ready to cope
+with such projects. Let me repeat that these projects are capital intensive.
+You know that Gazprom and Rosneft are real giants. It will be even more
+difficult for smaller companies to attract funds.
+But we do not say that we will not involve them in this work, either.
+Maybe, we will do this together with companies with state participation. We do
+not rule out anything. The only question is when the market will be ready for this, when we will be prepared for this technologically and when it will make
+sense economically. The economic aspect is the most important one.
+Thank you very much. I wish you all the best.
+See also
+Roundtable discussion at Belt and Road Forum for International Cooperation
+April 27, 2019
+Belt and Road Forum for International Cooperation
+April 26, 2019
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 27, 2019, 11:50
+Direct link:
+en.kremlin.ru/d/60396
+Text version

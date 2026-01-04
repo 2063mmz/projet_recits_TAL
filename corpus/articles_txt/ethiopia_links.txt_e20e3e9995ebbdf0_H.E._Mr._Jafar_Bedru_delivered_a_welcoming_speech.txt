@@ -1,0 +1,11 @@
+seed_url: https://www.ifa.gov.et/2025/05/22/h-e-mr-jafar-bedru-delivered-a-welcoming-speech-2/
+final_url: https://www.ifa.gov.et/2025/05/22/h-e-mr-jafar-bedru-delivered-a-welcoming-speech-2/
+title: H.E. Mr. Jafar Bedru delivered a welcoming speech
+date: May 22, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+H.E. Mr. Jafar Bedru delivered a welcoming speech emphasizing the implications of “Navigating Gulf-Horn Economic and Security Cooperation: Opportunities, Challenges, and Future Directions.”
+This conference focuses on addressing key issues surrounding economic and security cooperation between Gulf countries and the Horn of Africa. It will explore the opportunities and challenges that arise from these interactions, as well as future directions for collaboration.

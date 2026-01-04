@@ -1,0 +1,18 @@
+seed_url: https://president.mn/en/2018/09/12/meeting-with-xi-jinping-president-of-the-peoples-republic-of-china/
+final_url: https://president.mn/en/2018/09/12/meeting-with-xi-jinping-president-of-the-peoples-republic-of-china/
+title: MEETING WITH XI JINPING, PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+date: 2018-09-12T05:24:32+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2018/09/12 1:24:32
+MEETING WITH XI JINPING, PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+President of Mongolia Khaltmaagiin Battulga met President of the People’s Republic of China Xi Jinping today on the sidelines of the 4th Eastern Economic Forum in Vladivostok, Russia.
+At the beginning of the meeting, the sides noted their appreciation of the opportunity to meet again and have an active discussion toward robust development of cooperation since their productive bilateral meeting in Qingdao, China, in June.
+President Battulga requested President Xi Jinping to support certain matters, including the establishment of the Northeast Asian super grid for energy, construction of gas pipes between China and Russia through the Mongolian territory, cooperation on ranking the projects within the Mongolia-Russia-China Economic Corridor program, and value-added export of agricultural products. Also, President Battulga made certain proposals, including on establishing a joint working group to build a highway connecting Zamyn-Uud with Altanbulag.
+President Xi Jinping expressed his readiness to cooperate in many areas, including complex reform of the comprehensive strategic partnership relations between the two countries, increase of bilateral trade turnover to USD 10 billion by 2020, railway construction, development of process manufacturing, and regional peace and security. President Xi Jinping supported the joint implementation of President Battulga’s proposals.
+Moreover, President Xi Jinping reaffirmed the invitation for President Battulga to make a state visit to China and attend the second Belt and Road Forum for International Cooperation in the first quarter of 2019.
+The Chinese side informed that it had accepted and will support a proposal on export of agricultural products from Mongolia to China, made by President Battulga during their last meeting in Qingdao.
+The heads of state of Mongolia and China exchanged views on constructive celebration of the 70th anniversary of diplomatic relations between the two countries, which will fall next year, and mutually and economically beneficial development of cross-border cooperation.

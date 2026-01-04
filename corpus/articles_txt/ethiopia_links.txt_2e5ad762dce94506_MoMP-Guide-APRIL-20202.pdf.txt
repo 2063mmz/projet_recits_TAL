@@ -1,0 +1,3103 @@
+seed_url: http://www.mom.gov.et/wp-content/uploads/2020/04/MoMP-Guide-APRIL-20202.pdf
+final_url: http://www.mom.gov.et/wp-content/uploads/2020/04/MoMP-Guide-APRIL-20202.pdf
+title: MoMP-Guide-APRIL-20202.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+1
+INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Photo by Clay Knight on Unsplash
+MINING in
+ETHIOPIA
+MINISTRY
+OF MINES
+and PETROLEUM
+GUIDE
+INVESTOR
+
+2 3
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+1. WELCOME TO OUR MINING INVESTOR GUIDE 5
+2. QUICK GUIDE TO ETHIOPIA AS YOUR MINING DESTINATION OF CHOICE 8
+3. ETHIOPIA AT A GLANCE 11
+ 3.1 A soaring economy 16
+ 3.2 Getting to know the Growth and Transformation Plan II 16
+4. REFORMING THE MINING SECTOR 16
+ 4.1 National Plan for Job Creation 17
+5. WHAT YOU NEED TO KNOW ABOUT ETHIOPIA’S MINERALS 19
+ 5.1 Ethiopia’s geology 21
+  5.1.1   About the GSE 22
+ 5.2   Ethiopia’s mineral potential  22
+  5.2.1 Gemstones 25
+  5.2.2 Metallic minerals 27
+  5.2.3 Industrial minerals 33
+ 5.3 ASSM in Ethiopia 35
+  5.3.1 Ethiopia’s Artisanal, Special and Small-Scale Mining National Strategy  35
+  5.3.2 Artisanal mining, employment and the economy  36
+  5.3.3 Improving market access and increasing earnings 36
+	 	 5.3.4	 Profile	of 	an	artisanal	miner	in	Ethiopia	 36
+  5.3.5 Prioritising women in the ASSM sector  36
+6. INVESTING IN ETHIOPIA’S MINING SECTOR 38
+ 6.1 About the Ministry of Mines and Petroleum 39
+ 6.2 How to apply for a licence 41
+ 6.3 Mining licence application process 43
+ 6.4 About Ethiopia’s legal and regulatory framework 43
+  6.4.1 Mining legislation and regulations 44
+  6.4.2 Tax  45
+  6.4.3 Environment 45
+  6.4.4 Commercial licencing 45
+  6.4.5 Human rights and civil societies 45
+  6.4.6 Land use 46
+  6.4.7 Labour  46
+ 6.5 ASSM licencing, legislation and regulations 46
+  6.5.1 Licencing 46
+  6.5.2 Royalties and taxes 47
+ 6.6 Environment and safety regulations 47
+  6.6.1 Environmental Impact Assessments, rehabilitation fund and
+    community development 48
+  6.6.2 Environmental Impact Assessments 48
+  6.6.3 Environmental Impact Assessment guidelines 49
+  6.6.4 Regional Environmental Bureaus 49
+  6.6.5 Environmental management guidelines for artisanal miners 50
+  6.6.6 Safety regulations 50
+  6.6.7 Pollution 50
+ 6.7 Community engagement 50
+  6.7.1 Community development 50
+  6.7.2 Overseeing the community development fund 50
+ 6.8 Fiscal regime 51
+  6.8.1 Fiscal incentives 51
+  6.8.2 Taxation 52
+  6.8.3 Mining operations incentives 52
+ 6.9 Land allocation 52
+7. DOING BUSINESS IN ETHIOPIA  54
+ 7.1 Ethiopia’s Citizen Charter  55
+ 7.2 Visiting Ethiopia as an investor  55
+ 7.3 How to register your business 56
+ 7.4 Investor protection 59
+  7.4.1 Expropriation protection 59
+  7.4.2 Dispute settlement 59
+  7.4.3 Repatriation of funds 59
+ 7.5 Trade agreements with other countries and investment treaties 59
+8. IMPORTANT AGENCIES AND SUPPORTING INSTITUTIONS 60
+ 8.1 Ethiopian Mineral, Petroleum and Bio-fuel Corporation 60
+ 8.2 The Environment, Forest and Climate Change Commission 60
+ 8.3 The Ethiopian Investment Commission 62
+ 8.4 Other relevant stakeholder institutions 62
+CONTENTS
+
+4 5
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+WELCOME TO OUR
+MINING
+INVESTOR
+GUIDE
+ASSM  Artisanal and Small-Scale Miners
+CIRDI  Canadian International Resources and Development Institute
+COMESA  Common Market for Eastern and Southern Africa
+CFTA  Continental Free Trade Area
+E-EITI  Ethiopia’s Extractive Industry Transparency Initiative
+EFCCC  Environment, Forest and Climate Change Commission
+EIA  Environmental Impact Assessment
+EIC  Ethiopian Investment Commission
+EMDSC  Ethiopian Mineral Development Share Company
+EMPBFC  Ethiopian Minerals, Petroleum and Bio-Fuel Corporation
+EPA  Environmental Protection Agency
+ERCA  Ethiopian Revenues and Customs Authority
+GDP  Gross Domestic Product
+GoE   Government of Ethiopia
+GTP  Growth and Transformation Plan
+GSE  Geological Survey of Ethiopia
+IGAD  Intergovernmental Authority on Development
+MoMA  Memorandum of Agreement
+MoMP  Ministry of Mines and Petroleum
+MoT  Ministry of Trade
+PLC  Private Limited Company
+SMEs  Small and Medium Enterprises
+SDGs   Sustainable Development Goals
+SOP  Sulphur of Potash
+SUMM  Supporting the Ministry of Mines Project Ethiopia
+TIN	 	 Tax	Identification	Number
+VMS	 	 Volcanogenic	Massive	Sulfied
+UNDP  United Nations Development Programme
+ACRONYMS
+
+6 7
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Ethiopia is the ideal mining destination for
+companies looking to invest in a high-potential
+mining jurisdiction. With impressive mineral
+resources and a government committed to
+executing ambitious economic reforms, the
+building blocks are in place to create a world-
+class mining sector.
+This guide is designed to provide the investor with a clear picture of Ethiopia’s
+extraordinary mineral resources, their geology, and the nature of the opportunity
+for each commodity. It clearly sets out the legal and regulatory frameworks for
+mining	and	petroleum	in	Ethiopia.	It	also	outlines	the	different	players	in	Ethiopia’s
+mining sector, federal and regional, and their respective roles.
+Ethiopia’s mining sector has undertaken a major reform programme in recent
+years. The reform is designed to make it easier than ever to invest in Ethiopia,
+encourage exploration and mining, and unlock the sector’s full potential and value.
+The reform includes geodata management, transparency and ease of licensing
+process and the artisanal mining sector among others. Read more about this
+important work later in the guide.
+The	Ministry	of	Mines	and	Petroleum	(MoMP)	is	the	first	port	of	call	for	all	investors
+interested in Ethiopia’s mining and hydrocarbon sectors. The MoMP can direct you
+to the most up-to-date geodata available, guide you to the right legislation and
+regulations for your business, and help you apply for any licences required. The
+MoMP also provides straightforward guidance on how to go about investing in
+Ethiopia’s abundant natural resources.
+WELCOME TO OUR
+MINING
+INVESTOR
+GUIDE
+
+8 9
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+
+ETHIOPIA AS YOUR MINING
+DESTINATION OF CHOICE
+2
+The country covers 1.14 million square kilometres and has a
+population of 105 million people, making it Africa’s second-
+most populous nation.
+Ethiopia has enjoyed international acclaim for its impressive and sustained economic growth and the
+visionary political leadership of Nobel Laureate, Prime Minister Dr Abiy Ahmed. Mining reform is high on
+Prime Minister Abiy’s agenda, who intends for mining to comprise 10% of the country’s Gross Domestic
+Product (GDP) by 2025. To achieve this, the Prime Minister has launched the ‘Homegrown Economic
+Reform Agenda’, which seeks to implement the following macroeconomic, sectoral and structural
+reforms.
+Homegrown economic reform AgendA
+MACROECONOMIC
+REFORMS
+•	 Strengthening	public	sector	finances
+•	 Correcting foreign currency imbalances
+•	 Controlling	inflation
+•	 Safeguarding	financial	stability
+•	 Improving	access	to	finance	and	developing	capital	markets
+MINING REFORMS
+•	 Formalising and supporting artisanal and small-scale mining
+•	 Reviewing gold pricing to reduce incentives for illicit trade
+•	 Addressing political and legal issues with local communities and
+incentivising miners to engage and invest in local communities
+•	 Addressing technical and institutional barriers against large-scale mining
+projects
+•	 Developing policies and institutional capacities to create a sustainable,
+inclusive mining sector with strengthened geological information and a
+diversified	product	base	with	a	focus	on	industrial	input
+A QUICK GUIDE TO
+ETHIOPIA
+AS YOUR
+MINING
+DESTINATION
+OF CHOICE
+02
+A QUICK GUIDE TO
+2.
+
+10 11
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Ethiopia has a history in mining, dating back to
+more than three millennia, especially in gold.
+Apart from gold, Ethiopia’s mineral potential
+is vast. With known occurrences of more than
+30 metallic, industrial, agro- and construction
+minerals as well as rare gemstones.
+Ethiopia is also home to one of the oldest
+geological surveys on the continent, the
+Geological Survey of Ethiopia (GSE). Data
+provided by the GSE make both exploration and
+the	acquisition	of	brownfield	projects	easier	for
+investors.
+
+Available maps include:
+ Geoscience and hydro-geology
+ Airborne geophysics
+ Ground gravity
+ Engineering geology and geohazard
+ Mineral exploration
+
+In	January	2020,	16	public	and	private	offices
+signed	an	agreement	to	offer	a	one-stop-shop
+service. Key ministries include Revenue, Trade
+and Industry, Agriculture, Science and Innovation,
+Transport, and Mines and Petroleum (MoMP).
+This system is key to increasing Ethiopia’s trade
+competitiveness	and	it	will	help	offices	to	deliver
+simple,	predictable,	efficient	and	fast	services.	It
+will increase revenue and satisfaction of clients,
+reduce corruption, bring transparency and
+encourage export trade.
+
+The one-stop-shop coordinates and facilitates
+access to relevant government directorates
+and entities involved in regulatory, registration,
+permits and licencing. It aims to ensure that
+investors can go to the MoMP (physically or
+online) and receive all guidelines, administrative
+information and approvals they need to invest
+in	the	sector	through	one	office	-	the	Grants	and
+International	Cooperation	Office	at	the	Ministry	of
+Mines and Petroleum.
+
+The following information is available to
+potential investors in the Ethiopian mineral
+sector:
+ Regulatory environment
+ Legal environment and compliance
+ Economic environment
+ Mining/Petroleum Investment Guide
+ Priority sub-sectors, designation and
+ localisation
+ Environmental Impact Assessment
+ Mining/Petroleum licencing and permits
+ Investment promotion
+ Visa and duty-free process facilitation
+ Brokerage with local entrepreneurs in the
+ mining sector
+
+The MoMP also launched its newly upgraded
+website, which showcases the mineral
+development vision for Ethiopia.
+The investment policy in Ethiopia is generally
+established under the principles and practices of
+a free market-driven economy. The government
+has	enacted	a	competitive	legal	and	fiscal	regime
+that has attracted many local and foreign mining
+companies, from exploration through to mining
+activities. The government provides a number
+of incentives to encourage private investment
+and	promote	the	inflow	of	foreign	capital	and
+technology into Ethiopia. The incentives are both
+fiscal	and	non-fiscal,	covering	customs	duty
+exemptions, income tax exemptions and export
+incentives provided to both domestic and foreign
+investors.
+SummAry of proviSionS for inveStorS
+LEGISLATIVE
+FRAMEWORK AND
+FISCAL REGIME
+•	 25% corporate tax rate and permits 10 years’ loss carry-forward
+•	 Attractive royalties
+
+
+
+
+
+•	 Formalising and supporting artisanal and small-scale mining
+•	 Retention of portions of foreign currency earnings and remittance
+of	profits,	dividends,	principal	and	interest	on	a	foreign	loan	out
+of Ethiopia
+•	 Exemption from customs duties and taxes on equipment,
+machinery and vehicles necessary for mining operations
+•	 100% cost recovery for companies that successfully engage in
+mining operations (Tax Proclamation, Chapter 4)
+MINERAL MARKETING Guarantee licencee's right to sell minerals and petroleum products
+locally or abroad
+DISPUTE RESOLUTION Provide for dispute settlement through negotiation and arbitration
+OWNERSHIP
+•					55%	government	equity	for	minerals
+•					Negotiable	for	petroleum
+inveStor incentiveS
+MARKET FREEDOM Company or mining licence holder has right to sell minerals
+domestically or overseas
+COST RECOVERY
+•					All	mineral	exploration	or	pre-production	costs	are	100%
+      recoverable
+•					100%	recoverable	costs	with	a	ceiling	of	65	to	70%
+EXEMPTION FROM
+CUSTOMS DUTIES
+AND TAXES
+The mining law provides exemption from customs duties and taxes
+on equipment, machinery, vehicles and spare parts necessary for the
+mineral operations for mineral and petroleum operations (please refer
+to petroleum and mineral laws on customs duties and taxes)
+OPENING OF THE
+FOREIGN CURRENCY
+ACCOUNT IN ETHIOPIA
+As per the mining law of the National Bank of Ethiopia, the opening
+and operation of a foreign currency account in Ethiopia is guaranteed
+1  ABUNDANT MINERAL POTENTIAL
+2  ONE-STOP-SHOP 3  INCENTIVES
+ -  4% for industrial minerals
+ -  5% for metallic minerals
+ -  7% for gold
+ -   Petroleum royalties are negotiable
+
+12 13
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+energy
+The 1,870 MW Gibe III hydropower project, which doubled Ethiopia’s electricity output, was completed in
+2016. Ethiopia is also developing what will be Africa’s biggest hydroelectric power plant - the 6,000 MW
+Grand Renaissance Dam. This is due for completion in 2022.
+rAil
+Further expansion is underway with a 656 km rail line connecting Ethiopia to the port of neighbouring
+Djibouti.
+roAd
+Between 2010 and 2015, Ethiopia’s road network more than doubled to reach 110,414 km.
+
+Air
+Ethiopian Airlines is Africa’s largest carrier with access to 120 international destinations, and Addis Ababa
+airport is now the largest hub on the continent.
+
+Since	2005,	there	have	been	significant	improvements	in	access	to	electricity,	potable	water	and	roads
+(see chart below), which is decreasing Ethiopia’s poverty headcount ratio.
+ETHIOPIA
+AT A
+GLANCE
+03
+4  DELIVERY-ORIENTED GOVERNMENT
+Ethiopia is rapidly executing high-value infrastructure
+investments, carefully designed to give the mining sector the
+space it needs to grow. These investments ensure that mining
+companies will have the infrastructure they need to mine at
+scale, access global markets, and import production inputs
+quickly and smoothly.
+150
+100
+50
+0
+14
+36 36
+43
+66
+121
+Access to
+electricity
+(% of
+population)
+Length of all-
+weather roads
+(1000 km)
+Access to
+potable water
+(% of
+population)
+2005                 2016
+2004 2010 2015
+39
+30
+24
+IMPACT OF INFRASTRUCTURE INVESTMENT POVERTY HEADCOUNT RATIO AT
+NATIONAL POVERTY LINES (% OF POPULATION)
+
+14 15
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+ETHIOPIA AT A GLANCE
+Ethiopia is strategically located in the Horn of Africa, giving it
+prime transport links to key export markets.
+3.
+Ethiopia shares its boundary with the North
+and South Sudan on the west, Somalia and
+Djibouti on the East, Eritrea on the North
+and northwest and Kenya on the South.
+
+SURFACE AREA: 1.14 million km
+2
+CAPITAL CITY: Addis Ababa
+POPULATION: 105 million
+GOVERNMENT:
+•	 Federal 	Democratic	Republic
+•		 9	National 	Regional	States
+•		 2	Federally 	Chartered	cities
+OFFICIAL LANGUAGE: Amharic
+3.1     A GROWING ECONOMY
+Ethiopia is considered one of the world’s most
+consistently high-performing economies, having
+registered an average GDP growth of 9% over the
+past decade. Due in large to Ethiopia’s increased
+industrial output over that same period, its
+performance is planned and documented through
+the Growth and Transformation Plan (GTP), now in
+its second phase, the GTP II. The country’s state-
+led growth and development programme is now
+mostly supported by the Homegrown Economic
+Reform Agenda (September 2019).
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+1000
+800
+600
+400
+
+200
+0
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+GDP GROWTH (ANNUAL %)               GDP PER CAPITA (CURRENT US$), RHS
+GDP PERFORMANCE
+3.2     GTP II AND ETHIOPIA’S MINING SECTOR
+The GTP II major goal is to realise the national vision of becoming a lower middle-income country by
+2025 - achieved by sustaining rapid broad-based and inclusive economic growth, which accelerates
+economic transformation.
+
+
+The GTP II outlines the Government of Ethiopia’s deliberate interventions to increase the mining sector’s
+revenues to USD3.7 billion by 2025. This includes strengthening the implementation capacity of the
+Ministry and regional states, attracting reputable and competent investors by undertaking international
+standard promotion work and funding the provision of reliable geological survey data.
+To achieve this, the GoE will drive an import-substitution agenda by developing minerals that can
+be used as inputs for local industries and value-addition. Bio-fuel production and promotion of the
+downstream petroleum industry will also be prioritised. Reducing environmental impact of the sector will
+be central as will setting standards and regulations in fuel extraction, blending, storing, transporting and
+distribution processes in the country.
+
+THE PLAN HAS FOUR PILLARS:
+1 lower middle-income economy:
+To achieve and maintain a real GDP growth
+rate of 11% within a stable macroeconomic
+environment.
+
+2 regional hub for innovation and
+manufacturing:
+To develop domestic manufacturing,
+engineering and fabrication capacity which will
+improve productivity, quality and international
+competitiveness. It also seeks to spur structural
+transformation to reposition Ethiopia as a
+regional leader in technological innovation and
+manufacturing.
+3 public participation and local ownership:
+To build upon and solidify the ongoing public
+mobilisation and organised participation. This
+is to ensure the Ethiopian public become both
+owners	and	beneficiaries	of	the	outcomes	of
+Ethiopia’s development.
+
+4 political stability:
+To strengthen Ethiopia’s democratic institutions.
+Afar
+Amhara
+Tigray
+Somali
+Oromia
+Benishangul-Gumuz
+Gambela
+Addis Ababa
+Dire Dawa
+Southern Nations,
+Nationalities and
+Peoples
+Harar
+
+16 17
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+REFORMING
+THE MINING
+SECTOR
+04
+REFORMING
+THE MINING SECTOR
+THE GoE HAS LAID OUT CLEAR AMBITIONS FOR THE MINING SECTOR:
+The Government of Ethiopia has set out a clear “Pathway
+to Prosperity” through the new Homegrown Economic
+Reform Agenda, enabling Ethiopia to reach the status of
+a middle-income country by 2030.
+THE REFORM PROGRAMME IS FOCUSED ON:
+ 1. Implementing strategy and improving policy
+ 2.  Revising the legal framework
+ 3.  Developing institutional capacity
+
+ 4.  Developing human resources
+ 5.  Enhancing facilitation through information and technology
+4.
+US $265 MILLION to US $17 bILLION
+US $400 MILLION to US $90 bILLION
+200, 000 to 1,6 MILLION
+Amount of foreign exchange earned through export and import substitution increasing from
+Amount of local income earned from the sector increasing from
+US $160 MILLION to US $500 MILLION
+Number of FDI companies in the sector increasing from
+Number of quality jobs created in the sector organisations, companies and SMEs increasing from
+
+18 19
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Reforms in Ethiopia’s mining sector are well underway. MoMP is already several years into its own
+ambitious reform programme.
+Strategy 1
+ Building a robust policy framework and an
+ enabling environment by formalising ASM;
+
+ Providing government support for business
+ development;
+
+ Enforcing the existing legal framework to
+ promote artisanal miners;
+
+ Improving the ease of access to licences
+	 and	finance	for	SMEs,	and	large-scale
+ miners working in mining value-addition.
+Strategy 2
+Improving horizontal and vertical integration in the
+mining sector, by:
+
+ Promoting and marketing Ethiopia’s mining
+ potential to the international market;
+ Improving access of artisanal miners to
+ licenced buyers, providing competitive prices
+ for gold and similar precious stones;
+ Encouraging the formation of Micro, Small
+ and Medium Enterprises to aggregate
+ artisanal miners’ production;
+ Creating incentives for artisanal miners
+ supplying to licenced buyers.
+Strategy 3
+Designing tailor-made skills development
+programmes, by:
+ Creating a fellowship programme targeting
+ professionals in the mining sector;
+ Developing SME skills and readiness to
+ provide auxiliary services and products to
+	 large-scale	firms;
+ Integrating training on mineral exploration
+ methodologies into business development
+ support to formalise SMEs;
+ Providing vocational training in value-addition
+ practices.
+Strategy 4
+Designing	and	implementing	innovative	flagship
+projects/programmes (for instance - introducing
+lease capital for the purchase of equipment) as
+part of formalisation support, and support geo-
+chemical atlas mapping.
+THE CASE FOR MINING SECTOR REFORM FOCUSES ON FIVE AREAS:
+INTERVENTION ACTIVITIES UNDERWAY
+IMPLEMENTING STRATEGY
+AND IMPROVING POLICY
+•	 Development of Mineral and National Petroleum Policy
+•	 Formalisation of ASSM activities
+REVISING THE LEGAL
+FRAMEWORK
+•	 Review of the Mining Operation Proclamation and Regulations
+•	 Review of the Petroleum Operation Proclamation
+•	 Review of the Transaction of Precious Minerals Proclamation
+DEVELOPING
+INSTITUTIONAL
+CAPACITY
+•	 Restructuring of Ministry of Mines and Petroleum to improve
+coordination between federal and regional mining bureaus,
+simplifying licencing process
+•	 Establishment of the Mineral Excellence Centre
+DEVELOPING HUMAN
+RESOURCES
+•	 Right-sizing	of	staff	complement	to	attract	and	retain	talent
+•	 Partnering with higher education institutions to build capacity
+ENHANCING FACILITATION
+THROUGH INFORMATION
+AND TECHNOLOGY
+•	 Operationalisation of a modern and sophisticated cadastre system
+•	 Digitisation of existing maps and existing data
+Highlights of the MoMP’s progress with reforms since 2016 include:
+Completing a substantive review of all legal instruments regulating the mining sector in Ethiopia.
+Developing a framework for a Gender Equality and Mainstreaming Strategy to integrate gender
+concerns in policies, legislation, strategies, plans and budgets.
+Introducing an investor engagement strategy and one-stop-shop mechanism.
+
+Restructuring of organisational levels inside the MoMP and the GSE to meet current industry needs
+and enhance service delivery.
+Establishing the Mineral Excellence Centre at the MoMP and creating an e-learning/training
+platform.
+1   Implementing strategy and improving policy
+2   Revising the legal framework
+3   Developing institutional capacity
+Development of a GIS portal and integration of geoscience data into the upgraded national cadastre
+system.
+
+Refreshing Ethiopia’s Mineral Development Policy.
+Developing Ethiopia’s National Petroleum Policy.
+Delivering an ASSM national strategy roadmap, which will see the formalisation of the sector for
+better management.
+Streamlining federal and regional licences and licencing systems to improve consistency, via
+in-depth consultations with the regional mining bureaus.
+4.1     NATIONAL PLAN FOR JOB CREATION
+Ethiopia’s National Plan for Job Creation (2020–2025) targets mining as a key sector to achieve its goal to
+create 14 million jobs by 2025, to absorb the currently unemployed and to ensure that jobs are waiting
+for new entrants to the labour market.
+Mining has untapped potential in Ethiopia due to several institutional and technical constraints. Strategies
+to improve pricing, formalise Artisanal and Small-Scale Miners (ASSM) miners and improve large-scale
+miners’ relationships with local communities in the sector are underway to unlock the sector’s potential
+for direct and indirect job creation.
+
+20 21
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+5.1    ETHIOPIA’S GEOLOGY
+The oldest rocks to be found in Ethiopia are from
+late Proterozoic age (900-540Ma), and cover slightly
+less than 25% of the country. Mainly, these rocks are
+exposed in the northern, western and southern parts
+of Ethiopia. A scattering of such rocks, however, can be
+also found in Harar in the east.
+
+Ethiopia’s Proterozoic basement sits partly in the
+Arabian-Nubian shield that continues north into Sudan,
+Egypt and Saudi Arabia and south into the Mozambique
+Belt, which comprises much of the geological basement
+throughout eastern and southern Africa.
+AbOUT
+ETHIOPIA’S MINERALS
+2
+ABOUT
+ETHIOPIA’S
+MINERALS
+05
+5.
+Ethiopia’s terrain primarily
+consists of rocks from
+four geological periods:
+the Proterozoic, Mesozoic,
+Tertiary and Quaternary
+periods.
+GEOLOGICAL MAP OF ETHIOPIA
+
+22 23
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Mesozoic (251-66Ma) and some slightly older
+marine, continental and sedimentary rocks cover
+another 25% of the country. These Mesozoic
+formations include rocks like sandstone, shale,
+limestone and gypsum. Eastern Ethiopia contains
+exceptionally large areas of these kinds of rock -
+most notably in the Ogaden Basin. There are also
+two sedimentary basins in the centre and to the
+north of the country.
+The remaining 50% of the country is covered
+by Tertiary (65 - 2.6Ma) and Quaternary (2.6Ma
+- present time) volcanic and sedimentary
+rocks. These originate from the formation of
+the Ethiopian rift, a subsection of the greater
+East African rift. The Ethiopian rift runs from
+northeast to southwest across Ethiopia. As such,
+the Ethiopian highlands are underlain mainly
+by	thick	sequences	of	flood	basalt	that	erupted
+65-13 million years ago, while the rift valley
+itself is covered mainly by Quaternary (<2.6Ma)
+volcanic rocks and associated sedimentary rocks.
+Quaternary sediments also occur in other parts of
+the country and tertiary sediments in the far east.
+5.1.1  About the GSE
+The Geological Survey of Ethiopia (GSE) is an
+autonomous institution, with accountability
+to the MoMP. It is responsible for carrying out
+basic geological mapping, mineral exploration
+and related geological activities. The GSE also
+provides services such as data dissemination,
+and drilling and laboratory analysis.
+
+The GSE was stablished in 1968 as a department,
+becoming autonomous in 1982 as the Ethiopian
+Institute of Geological Surveys (EIGS), before
+finally	being	established	in	its	current	form	in
+2000. The GSE has completed a geological
+and hydro-geological mapping at a scale of
+1:250000,	for	the	entire	country,	and	identified
+several targets for metallic, industrial, energy
+and construction minerals. This work provides
+the critical foundation for mineral exploration and
+mining development projects in Ethiopia. The GSE
+also plays a role in developing critical skills in the
+field	of	geo-science.
+
+We invite you to visit the GSE’s Data Catalogue
+online where you can find the following
+information:
+ High-quality geological maps at 1:2000000
+ scale (100% complete);
+ Ground gravity maps at 1:500000 scale
+ (100% complete);
+ Geoscience and hydro-geology maps at
+ 1:250000  scale (100% complete);
+ Engineering geology and geohazard
+ mapping at 1:250000 (50.54% complete as
+ of end 2019);
+ Airborne geophysics maps (30% complete
+ as of end 2019);
+ Mineral exploration maps at various scales.
+The GSE is working to improve the quality of data
+it can make available to investors. Under the
+GTP II, the GSE aims to achieve the following by
+2025:
+ To increase its airborne geophysics survey
+ coverage from 30% to 100%;
+ To increase its geohazard study coverage
+ (at a scale of 1:250,000) from the current 42%
+ to 100%;
+ To make rapid progress mapping the whole
+ country at a scale of 1:100,000 (The GSE
+ has completely mapped Ethiopia at a scale
+ of 1:250,000);
+ To geochemically map the entire country at
+ a scale of 1:1,000,000 scale and provide a
+ Global Geochemical Baseline
+.
+5.2      ETHIOPIA’S MINERAL POTENTIAL
+
+Ethiopia has known occurrences of more than 30
+minerals. These include:
+ Metallic minerals (gold, platinum, iron, nickel,
+ chromite and base metals);
+ Energy minerals (lithium, graphite, tantalum
+ and coal);
+ Cement raw minerals (limestone, gypsum,
+ clay, pumice);
+ Fertiliser raw minerals (potash and phosphate);
+ Ceramics raw minerals (kaolin, feldspar);
+ Glass raw minerals (silica sand);
+ Dimension stones (marble, granite,
+ limestone, sandstone, diatomite, bentonite,
+ soda ash, salt, graphite and sulphur);
+ Gemstones (opals, emeralds, sapphires).
+Detailed information and maps of Ethiopia’s mineral potential
+are available on the MoMP website. The meta data of the
+mineral exploration reports, conducted by GSE and foreign
+exploration companies, can be obtained from GSE’s meta data
+catalogue that is available online at: http:/ /catalog.gse.gov.et/
+gsemdportal/srv/eng/catalog.search#/home
+More interactive maps on the geology and mineral potential of
+Ethiopia will become available soon on GSE’s portal at:
+http:/ /gis.gse.gov.et/geoportal/home/gallery
+html#c=organization&o=modified
+Pdf reports and various format maps will be available for
+download from: http:/ /repository.gse.gov.et/home/
+The mining cadastre portal has an updated 1:2,000,000 scale
+geological map of Ethiopia and mineral occurance points along
+with the various licences operated in the country. More updated
+geological maps at 1:250,000 scale and updated mineral points
+will be available soon on the dynamic map at: https:/ /ethiopian.
+portal.miningcadastre.com/MapPage.aspx?PageID=a16a9300-
+7c58-4f81-9e5c-97e13b22b0c6
+GENERALISED GEOLOGICAL AND
+INDUSTRIAL MINERAL MAP OF ETHIOPIA
+
+24 25
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+COMMODITY RESERVES UNIT LOCATION
+Gold >200 metric tonnes Around Adola, Myale, Metekel, Tulu kape, Dul, Odagodere,
+Benshangul, Akobo, Tigray
+Coal >360 million metric tonnes
+Around Moye, Delbi, Yayu, Chilga, Gojeb, Mush, Sar wiha
+kunzila, Wuchale, Haik, Dese, Mersa, Arjo, Mendi, Kindo
+halal, Morka, Jeren, Lalosapo
+Tantalum 19435 metric tonnes Around Adola/Keneticha
+Platinum 12.5 metric tonnes Around Yubdo, Oromia
+Iron 68.4 million metric tonnes Around Bikilal, Melka arba and others
+Nickel 17 million metric tonnes Around Adola
+Manganese 207563 metric tonnes Around Afar/ Inkafala
+Limestone >900 million metric tonnes Around Mekele, Abay, Butajira, Ogaden, Denakil, Diredawa,
+Harar
+Gypsum 57.4 million metric tonnes Around Tigray, Oromia, Amhara
+Clay 21.6 million metric tonnes Around Mossobo, Diredawa, Melka jebdu, Debrebirhan,
+Burayu
+Potash 1.3 billion metric tonnes Around Afar
+Phosphate 181 million metric tonnes Around Bikilal, Melka Arba
+Marble 100 million metric tonnes Around Daletti, Mora, Baruda, Bullen, Hulakuni, Tigray
+Granite 70 million metric tonnes Most parts of the country
+Silica sand 3.4 million metric tonnes Most parts of the country
+Feldspar 500 thousand metric
+tonnes Most parts of the country
+Quartz 400 thousand metric
+tonnes Most parts of the country
+Dolomite 2 million metric tonnes Most parts of the country
+Kaolin >20 million metric tonnes Most parts of the country
+Datomite >120 million metric tonnes Most parts of the country
+Bentonite 172 million metric tonnes Most parts of the country
+Soda ash 460 million metric tonnes Most parts of the country
+Salt 4.3 billion metric tonnes Most parts of the country
+Sulphur 6 million metric tonnes Most parts of the country
+Graphite 460 thousand metric
+tonnes Most parts of the country
+Kyanite >10 million metric tonnes Most parts of the country
+Talc 118,175 metric tonnes Most parts of the country
+5.2.1  Gemstones
+Beautiful gemstones are
+loved and admired across
+the globe, and Ethiopia has
+them in abundance. This
+includes opal, emerald,
+sapphire, amazonite, amber,
+ruby, tourmaline, aquamarine,
+chrysoprase, peridot, and
+various types of quartz, agate
+and jasper.
+
+Ethiopia	has	become	a	significant	producer	of
+opal, sapphire and emerald in recent years,
+bringing the total reported gems to over 40. New
+discoveries are on the rise, including the recent
+colour-change gem-quality chrome grossular
+green garnet reported in the Journal of Gemology
+(2018).
+Since	the	first	discovery	of	opals	in	Mezzezo,
+thousands of people have become engaged
+in the sector, supporting their livelihoods but
+earning and contributing very little to the
+economy, much less than its potential. This is
+mainly because of the fragmented and ill-posed
+value chain of the opal and the gemstone/
+mineral mining and trading activities rampant
+throughout the country. Ethiopia is now entering
+a new age of development and a strong focus,
+coupled with pragmatic strategy on earth’s
+resources such as gemstones, is appropriate and
+timely. It is by and large necessary to develop
+a roadmap that addresses the gap in skills
+development and entrepreneurship and to add
+value along the full value chain (Mine to Market).
+TVET programmes that give opportunities to
+develop capabilities of lapidary and jewellery
+design and bench-scale manufacturing are
+important interventions. The coloured gemstones
+sector has enormous potential within both the
+local and international markets. This, linked with
+an age-old practice of making jewellery with
+silver and gold and cultural and historical designs
+of Ethiopia, is an important asset towards building
+a vibrant gems and jewellery industry.
+
+The major strengths of the gemstone sector
+of Ethiopia - aside from having great potential
+and variety - includes increased popularity
+in the world market, growing tourism and an
+emerging middle-class. In addition, Government
+is committed to improve and reform the industry
+based on international practice.
+One of the most striking varieties of opal,
+discovered	for	the	first	time	in	the	early	1990s,
+was the Mezezo Opal (orange, reddish brown).
+Specimens from Mezezo (Shewa) consist of
+nodules of a reddish-brown volcanic rock with
+orange, reddish brown or “chocolate” brown
+precious opal inside.
+Opal from this area occurs in a wide range of
+body colours. Much of the opal has a brown, red
+or orange body colour; however, yellow, white
+and clear body colours are also found. It is found
+in	stratified	igneous	rocks	of	rhyolite,	tuff	and
+ignimbrite. Precious opal mined in Ethiopia began
+entering the gem and jewellery market in 1994,
+four years after the discovery of the Shewa opal.
+1  OPALS
+
+26 27
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Later, the most important Wegel Tena white opal
+(in Wollo, northern part of Ethiopia) appeared on
+the market as the Wollo Opal. This opal has a
+vivid	play-of-colour	flashing	from	a	body	colour
+of clear, white, yellow, orange or brown. This
+deposit still produces large amounts of white
+and crystal precious opal and occasionally
+some black material. In 2013, yet another source
+was discovered in Wollo, at the Stayish mine
+near the town of Gashena. This discovery has
+yielded mostly dark and black opal, along with
+some white and crystal opal and has been
+actively producing since 2013. The black opal
+deposit is set in a distinct opal-bearing layer in a
+mountainous area at an altitude of around
+3,000 metres. It lies approximately 700 km
+northeast of Addis Ababa, more than 100 km from
+the historic town of Lalibela by road, and about
+30 km north of the white opal deposit.
+Like the white opal, the black opal is found at the
+contact zone between the volcanic rock series
+and	the	underlying	clay-rich	layer	(tuff).	The
+layer is one in a sequence of repeating volcanic
+ash and ignimbrite layers. Field observations at
+different	locations	show	that	the	opal-bearing
+layer is contained in a single stratum extending
+for tens and even hundreds of kilometres along
+the mountain belt. The opal-bearing clay layer is
+about 60 cm thick and contains opal of various
+quality and colours. The black opal is retrieved
+from	flat	tunnels	up	to	15-20	metres	long	that
+are dug horizontally into the mountain slope by
+local villagers. The material generally comes in
+nodules (G&G, Winter 2014, V 50 N0.4). The ash
+layers (seam) can be traced along the valley walls
+over several kilometres.
+Estimated	fine	gem-quality	material	currently
+coming out of the deposit might be averaged
+from 3 to 4 carats. The gem-quality crystals so far
+produced do not require clarity enhancements,
+including oiling, making the Ethiopian emerald
+distinct. The emeralds are of medium-green-
+-saturated and mica-schist-hosted material
+in pegmatite veins which show gemmological
+features comparable to rough emeralds from
+Zambia, Russia and Brazil.
+
+The Ethiopian emerald is described by dealers
+as having colour a little more “open and vivid”
+and more of a minty colour that glows. It is on
+par with Zambian and Brazilian emeralds in the
+international market as far as price is concerned.
+The new discovery is an important clue for
+conducting	systematic	scientific	studies	along
+the entire belt, in particular south of the Kenticha
+greenstone belt.
+In February 2017, the news of discovered
+sapphire deposit in northern Ethiopia in a place
+called Chilla (near Aksum, the historic city of
+Ethiopia) was reported to the trade community.
+Several sites were mined by artisanal miners
+in the nearby localities and produced rounded
+crystals of sapphires. The colour of sapphires
+ranged from dark to light blue, and many
+contained	fine	rutile	particles	and	occasionally
+exhibited a green or yellow colour, sometimes
+combined with blue in bicolour. Most of the
+sapphires do not require heat treatment.
+2  EMERALDS
+3  SAPPHIRES
+GEMSTONES LICENCES AREAS,
+WITH LITHOLOGY
+LEGEND:
+5.2.2  Metallic minerals
+FOCUS ON ETHIOPIA’S GOLD RESOURCES
+The exploitation of placer
+gold in Ethiopia dates back
+at least 3,500 years and large
+quantities of gold have been
+produced to date. Mineral
+exploration began in the late
+1890s by foreign companies.
+However, modern mineral
+exploration started in 1968.
+
+Since the establishment of the Geological
+Survey of Ethiopia (GSE), various geological
+mapping and mineral exploration projects have
+been undertaken by the government, both
+on its own and with the assistance of donor
+organisations. The Ethiopian government has
+created a favourable business environment to
+attract mining investors. As a result, a number
+of companies have been participating in gold
+exploration activities dating back to the mid-
+1990s.
+In southern Ethiopia, the Lega-Dembi and Sakaro
+are the only primary gold mines. However, a
+number of others gold mines, including Tulu
+Kapi, Dish and Jilaye (in western Ethiopia), Okote
+(southern Ethiopia) and Meli (northern Ethiopia),
+have reached advanced stages of exploration.
+Precambrian occurrences are being explored and
+exploited in the southern, western and northern
+greenstone belts of Ethiopia. Precambrian rocks
+are the most important repositories for gold
+deposits. Most gold deposits and occurrences
+in Ethiopia are genetically related to Orogenic
+type, though Skarn-related, Intrusive-related,
+Epithermal	and	Volcanogenic	Massive	Sulfied
+(VMS)	types	are	currently	identified.	Apart	from
+the deposits of epithermal gold, all of these
+targets belong to Ethiopia’s greenstone belts.
+0   120   240   360   480
+Kilometres
+n
+A new emerald deposit
+located in the Seba Boru
+(Kenticha greenstone belt)
+of Southern Ethiopia near the
+mining town called Shakiso.
+GEMSTONES LICENSES AREAS
+(EMERALD, OPAL, SAPPHIRE)
+
+28 29
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+The western greenstone belt
+stretches more than 600 km
+from Akobo-(south-east),
+and its average width varies
+from 50 to 200 km. This belt
+comprises chlorite, sericite
+and graphitic schist, phyllites,
+quartzites, and andesitic to
+rhyolitic volcanics, hosting
+auriferous veins and
+alteration zones.
+
+The belt comprises major regions of Gambela,
+Western Wollega, and Benishangul-Gumuz,
+which include gold prospects at Chamo, Akobo,
+Guraferda, Gezana, Tumet, Godare, Baro,
+Ankori, Tulu Kapi, Tulu Kami, Dimma, Baruda,
+Oda Godare, Mengie, Ashashire, Dul, Gambella
+mountain, Indaka, Bekoji Motisha, Suken, Egambo,
+Kilaji, Wombera, Metekel (Jilaye), Guba and other
+sites.
+     GAMbELA REGION
+The Akobo narrow greenstone sub-belt is a high-
+potential target for gold exploration. Akobo’s
+geological	setting	comprises	mafic	schists,	meta-
+ultramafic	rocks,	meta-sedimentary	schists,	and
+undifferentiated	schists	and	gneisses.
+     WESTERN WOLLEGA REGION
+Gold deposit prospects include Tulu Kapi, Ankori,
+Tulu Kami, Laga Baguda, Chokorsa, Kata, Nejo,
+Yubdo, Oda-Godere, and many others. In these
+areas, gold bearing quartz veins are hosted in
+schists and syenite, as carbonate veins, and in
+auriferous zones within sheared metavolcanics
+interbedded with chert and carbonate lenses.
+
+     THE TULU KAPI AND ANKORE AREA
+This area is underlain by metasediments,
+consisting of sandstone, phyllites and quartzites
+at the central part, followed by metamorphosed
+intrusive units including granites, syenites, and
+diorite-granodiorites to gabbro in the western
+and eastern parts of the area. There are also talc
+schists, chlorite schists and mica schists. The
+gold	is	specifically	hosted	in	the	mafic	and	felsic
+syenite units. The gold mineralisation in the Tulu
+Kapi main area is associated with sheared, altered
+syenite unit. KEFI Minerals Ltd’s Tulu Kapi Project
+has reached an advanced exploration stage. It
+has established probable reserves of 16.9 Mt
+@1.82 g/t (totalling 986,000oz Au) and indicated
+and inferred resources of 24.9 Mt @2.34 g/t
+(totalling 1,900,000oz Au).
+     bENSHANGUL-GUMUz REGION
+This region consists of meta-volcanic and meta-
+sedimentary	sequences,	mafic-ultramafic	mega
+lenses and minor intrusions, as well as composite
+mafic	to	felsic	plutonic	complexes	of	bathoilithic
+dimensions. Gold deposit and occurrence
+prospects include: Galesa (Tambish, Cholo, Jilaye,
+Fite, Abaydar), Ablarus, Epar, Dull, Ashashire,
+Dish, and other areas. The gold deposits and
+occurrences in the Gelasa area are genetically
+related to the skarn type gold deposit, amounting
+to more than 40 tonnes at an average of about
+3 g/t Au. The Ablarus and Epar gold
+mineralisations are related to quartz mica schist
+and metagabbro, and the sericitised metagranite
+shows low grade mineralisation ranging from
+an average of 0.4 g/t to 1.19 g/t gold. There is
+also a probability of gold occurrences related
+to intermediate dyke/sill swarms, skarns and
+brecciated, hematite quartz veins with minor
+occurrences in which sulphides (pyrite, pyrrhotite,
+chalcopyrite, arsenopyrite) are disseminated.
+2  WESTERN GREENSTONE BELT
+1  SOUTHERN GREENSTONE BELT
+The Southern greenstone belt includes the separate Adola-Kenticha, Ageremariam, Arero and Moyale
+areas, which are associated with gold mineralisation.
+Potential gold deposits are located within Ethiopia’s various Greenstone Belts.
+•	 Primary gold deposits
+•	 Platinum deposits
+•	 Iron deposits and mineralisation
+•	 Base metals mineralisation
+•	 Placer gold deposits
+WESTERN and SW BELT
+•	Gold deposits and occurrences
+•	Nickel
+•	Tantalum
+•	Placer gold deposits
+•	Chromite mineralisation
+SOUTHERN BELT
+•	 Primary gold mineralisation
+•	 Base metals mineralisation
+•	 Placer gold ooccurrences and deposits
+NORTHERN BELTMINERAL POTENTIAL OF ETHIOPIA: METALLIC MINERALS
+ADOLA-KENTICHA bELT
+Predominantly known as the Adola belt, the Adola-Kenticha belt comprises the primary gold
+deposits and occurrences of Lega-Dembi, Sakaro, Okote, Wollena, Kumudu, Megado-Serdo, Dawa-
+Digati, Bore, Abab River, Haranfama (northern Kenticha) and many others. The Adola belt is a major
+Neoproterozoic shear belt within the Pan-African orogeny, which hosts major primary gold deposits
+confined	in	metavolcano-sedimentary	assemblage.
+HAGEREMARIAM AND ARERO GREENSTONE REGION
+This region hosts pyrite-bearing gold in meta-basic and metaultrabasic rocks as well as gold-
+bearing quartz veins in intermediate to acid alkaline intrusive rocks.
+MOYALE GREENSTONE REGION
+This region consists of the Haramsam, Hassamte and Chamuk gold prospect areas underlain by
+meta-granodiorite, amphibolites, gabbroamphibolite, and gabbro and amphibolite schist, which
+hosts auriferous quartz veins.
+
+30 31
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+The third major greenstone belt in northern
+Ethiopia comprises several meta-volcano
+sedimentary belts and sub-belts, bounded
+by	mafic-ultramafic	rocks,	hosting	gold	and
+base-metal occurrences. The primary gold
+occurrences of Terakimti, Adi Zeresenay, Zager,
+Asgede, Mia Koka and Niraqque as well as the
+base	metals	of	Tsehafi	Emba	and	others	are
+identified.	Volcanogenic	Massive	Sulfide	(VMS)
+type of gold deposits, the southward extension
+of Bisha VMS gold deposit being mined in Eritrea,
+has currently been discovered at Meli and Daro,
+and gold mining from the secondary enrichment
+of overlying gossan body has already started at
+Meli by Ezana Mining Ltd.
+
+The gold deposits and occurrences of the
+northern greenstone belt are principally hosted
+in quartz veins of sheared intermediate meta-
+volcanic porphyry, in a carbonised talc-tremolite-
+epidote schist, as well as in sericite-chlorite and
+quartz sericite schists in addition to the sporadic
+occurrence of graphite.
+
+A low-grade epithermal gold deposit was
+discovered at Tendaho, in the Afar region of
+eastern Ethiopia. Geothermal drilling revealed
+highly	silicified	zones	returning	grades	of	1	g/t
+gold. Currently foreign investors are exploring
+how	to	best	define	targets	of	epithermal	gold
+in the rift system of Afar Region. Other parts
+of the Rift Valley possess very low-grade
+gold occurrences, including those reported
+at Gedemsa caldera, near Adama town, Epar,
+Dull, Ashashire, Dish and other areas. The gold
+deposits and occurrences in the Gelasa area are
+genetically related to the skarn type gold deposit,
+amounting to more than 40 tonnes at an average
+of about 3 g/t Au.
+
+The Ablarus and Epar gold mineralisations are
+related to quartz mica schist and metagabbro,
+and the sericitized metagranite shows low grade
+mineralisation ranging  from an average of 0.4 g/t
+to 1.19 g/t gold. There is also a probability of gold
+occurrences related to intermediate dyke/sill
+swarms, skarns and brecciated, hematite quartz
+veins	with	minor	occurrences	in	which	sulfides
+(pyrite, pyrrhotite, chalcopyrite, arsenopyrite) are
+disseminated.
+3  NORTHERN GREENSTONE BELT 4  RIFT VALLEY OF ETHIOPIA
+ALL ETHIOPIAN ExPLORATION MINING
+LICENCES
+LEGEND:
+0   120   240   360   480
+Kilometres
+n
+ALL ETHIOPIAN LICENCES
+
+32 33
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+5  PLACER GOLD 5.2.3  Industrial minerals
+FOCUS ON ETHIOPIA’S POTASH RESOURCES
+Considering Ethiopia’s vast mineral potential, potash has
+garnered some of the greatest interest. Today, 95% of the
+world’s potash is mined for use in fertilisers, while the rest is
+used for feed supplements and industrial production.
+Potash was known to be mined in Ethiopia as
+early as the 14th century, from one of the world’s
+largest deposits, located in Dallol. There are
+extraordinary deposits of evaporite, particularly in
+the Danakil Depression. Prospectors have been
+aware of the Danakil Depression’s potential since
+the	early	1900s,	and	efforts	to	launch	small-scale
+production were made prior to World War II.
+Much of the geological setting of the Afar
+region of northeastern Ethiopia is dominated by
+Quaternary lacustrine sediments and volcanic
+rocks of the East Africa rift valley. Interbeded
+volcano-sedimentary series (SRRS) occur on
+both sides of Danakil depression and the central
+section is covered by a thick evaporite succession
+(the salt formation), which is partially covered by
+Quaternary volcanic rocks. The salt formation in
+the depression is composed of a thick evaporite
+succession	of	gypsum,	anhydrite,	interstratified
+halites and potash salts, as well as shale.
+In Danakil Depression, the potash deposit occurs
+within	the	evaporite	sequence,	confined	to	the
+limits below sea level. The salt formation is about
+450 square miles in surface area.
+
+The gypsum beds form the outer most units
+of the evaporite sequence. The deepest hole
+drilled in salt recorded the sequence to a depth
+of 1 km. Several potash horizons are recognised,
+although only the upper most ones have been
+exposed. Previous activities carried out by various
+companies have revealed the presence of two
+ore bodies at Dallol - the Cresent and Musely ore
+bodies.
+The Crescent ore body is 1 km southwest of
+Mt. Dallol. It has an irregular shape, covering a
+relatively	flat	lying	area	of	about	1	km	long	and
+100 m wide. The deposit surrounds a bubbling
+spring of magnesium chloride (named Black
+Mountain) and occurs at depth of 300 feet, mainly
+in the form of carnallities and some sylvite with a
+maximum thickness of 200 feet.
+The Musely ore body is located 4.5 km west of
+Mt. Dallol, close to a large alluvial formed at the
+mouth of Musely canyon. It extends over a length
+of about 4 km and is about 1.5 km in width along
+the trend of NNE. Musely’s largest potash deposit
+was extensively explored during the 1960s,
+within a thick sequence of halite. The potash-rich
+interval consists of sylvite (upper most), carnallite,
+and basal kainite. This interval was explored at
+Musely by drilling at 300 m spacing, by shaft-
+sinking (90 m) and by working some
+800 m underground to evaluate minability.
+Drilling indicates the presence of a potash
+bearing horizon of 500 m depth, in line with what
+was found by the underground and shallow
+drilling work.
+During earlier investigations, the ore reserve was
+estimated at over 12 million tonnes, based on
+the	cut-off	value	of	25%	KCl.	However,	there	are
+currently companies with successful ongoing
+potash operations. Yara Dallol and CIRCUM
+Minerals Ltd are two companies operating in
+the Danakil Depression. Both have undertaken
+feasibility	studies	in	recent	years,	with	significant
+reserves of natural resources for the production
+of	Sulphur	of	Potash	(SOP)	identified	in	their
+allocated exploration areas. The current resource
+drill covered about 40% of concession area.
+Seismic	data	confirm	continuity	of	the	potash
+layers throughout the rest of the area. This
+suggests an overall resource potential size of 11
+to 12 billion tonnes of potash-bearing salt beds,
+making the Danakil depression potentially one of
+the world’s largest undeveloped potash mineral
+deposits.
+GOLD ExPLORATION MINING LICENCES
+n
+0   125    250   375      500
+Kilometres
+Placer gold has long been considered a prime source of income for local people. Systematic placer gold
+exploration	and	prospecting	activities	have	been	carried	out	in	different	parts	of	the	country,	particularly
+in the Adola area of southern Ethiopia since the Italian aggression during World War II. The Ethiopian
+government issued a proclamation in 2010, establishing a system to encourage traditional and artisanal
+mining, which has helped to attract foreign investment.
+
+Some significant localities of placer gold, which were recently studied by the GSE, include:
+LEGEND:
+
+Gold exploration and mining
+             Gold mining and advanced exploration
+Ethiopian Geology
+Geo name
+
+Metavolcanic sedimentary rocks
+ Gneisses and migmatites
+ Late to post-tectonic granites and syenites
+	 Mafic-ultramafic	suites
+ Pre to syntectonic granitoid complex
+ Regions boundary
+ADOLA-HAGEREMARIAM AREA
+Haranfam, Dembloko and Abaya (lower Mormora River),
+Meleka (Busa-Idra and Haro Dida), Genale Korcha,
+Barsisa Kochore, Gidicho, Ababa River basin (Abab Gumi
+and Ababa-Ankora), Raro River basin, Kilenso-Babicho,
+Meleka and Ropi (Kedida 1,2 and Tritra), Medano and
+Dogo, Burkuke, Logita and many others.
+
+GAMbELLA-WESTERN WOLLEGA-bENISHANGUL-
+GUMUz
+Placer gold has traditionally been mined in several
+localities of Akobo Basin, Godare, Guba, Mangie, Sirba,
+Sirkole, Tumet, Dabus and others.
+
+34 35
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+FOCUS ON ETHIOPIA’S TANTALUM RESOURCES
+
+Today tantalum capacitors are used in almost
+every kind of eletronic device, and the increasing
+penetration of the smartphone market means
+tantalum demand is only set to grow in the
+coming years. Ethiopia is already the sixth biggest
+producer of tantalum in the world with the
+potential to dramatically increase its standing.
+The known potential prospects of tantalum
+and niobium occurs in the Kenticha granite
+pegmatite	field,	with	an	area	of	2,500	km
+2, in
+the Neoproterozoic greenstone basement
+of Southern Ethiopia. The tantalum-bearing
+pegmatite deposit in Kenticha Field is exposed
+over a 2.5 km-long and 40 to 70m-wide area
+occurring in a package of steeply dipping
+serpentinites and talc-tremolite schists. The
+thickness of the pegmatite varies. In locations
+where both hanging and foot wall contacts
+are exposed, thickness ranges from 40 to
+70 metres. The upper part of the orebody is
+strongly weathered to a variety of clay minerals.
+The tantalite occurs in grain size from a few
+millimetres up to about 5 cm. Weathering has
+affected	the	feldspar	and	most	of	the	lithium-
+bearing minerals, whereas the tantalite is
+unaffected	by	the	weathering.
+The deeper part of the ore body is hardrock,
+non-weathered pegmatite. This ore body has
+about the same tonnage as the weathered
+orebody, but has not yet been exploited. The
+Kenticha pegmatites display complex zoning.
+Apart from columbite, a number of lithium
+minerals such as lepidolite and spodumene are
+found. Furthermore, small amounts of beryl and
+sulphides occur.
+
+Mining of tantalum niobium, which focused
+principally on the main Kenticha pegmatite
+site, 50 km south east of the gold mining town
+Shakiso, contributes to about 10% of world
+consumption. Other rare metal-bearing pegmatite
+(Bupo, Kilkile, Dermidama) lie along the northern
+and southern extension as well as in the eastern
+sub-parallel trends of Kenticha pegmatite.
+The rare metal-bearing pegmatite with the main
+Kenticha deposit has proved to be a world-class
+ore reserve of tantalite with
+ subordinate niobium,
+lithium beryllium-bearing minerals in addition
+to high-quality ceramic grade quartz-feldspar,
+and other industrial minerals. The complex ore is
+associated with a primary granitepegmatite body
+and to a lateritic mantle of weathering developed
+over the primary pegmatite.
+In general, three types of the deposit have been
+recognised:
+ Tantalite-bearing granitepegmatite with
+ complex Ta-Nb-Li-Be mineralisation.
+
+ Lateritic-type Ore: The mantle of weathering
+ developed over pegmatite and granite.
+
+  Elluvial, delluvial and alluvial placer ore:
+ The weathered ore developed over the
+ primary ore of pegmatite represents the huge
+ rare-metal resources of the Kenticha deposit.
+Ethiopia has been mining and exporting
+tantalite via the newly named Ethiopian Mineral,
+Petroleum and Biofuel Corporation (EMPBC).
+About 100-120 t of Ta2O5 per equivalent
+concentrate containing 50–60 wt.% of Ta2O5 are
+delivered to the metallurgical industries which
+are providers of Nb and Ta for 60 wt% production
+of the capacitor. The mine is estimated to
+contain primary ore with a probable reserve of
+approximately 17,000 tonnes containing 0.017%
+Ta2O5. The probable reserve of primary ore
+is 2,400 tonnes at a grade of 0.015% Ta2O5.
+Ethiopia hosts important rare metals, in particular
+tantalum mineralisation, however it has not
+been fully utilised. EMPBC plans to increase the
+production of tantalum through its successive
+expansion projects and to improve the quality
+of the products. EMPBC also wishes to work
+in joint venture with investment in exploration,
+development, mining of mineral resources
+and production of value-added materials from
+tantalite concentrate in Ethiopia.
+5.3     ASM IN ETHIOPIA
+Ethiopia’s long history of artisanal mining spans
+three millennia. The gold deposits in Ethiopia’s
+rivers, for example, have been exploited for
+thousands of years by small-scale miners.
+Today, ASM happens all around the country
+and still plays an extremely important role in
+Ethiopia. However, much artisanal mining activity
+remains informal, and historically the sector has
+not	benefitted	from	much	formal	support	or
+regulation from the Government.
+
+Due to this, developing and formalising the
+ASM sector has become a high priority for both
+Ethiopia’s Homegrown Reform Agenda and for
+the	MoMP.	Significant	reforms	are	underway
+to transform ASM activity into a sustainable
+livelihood which will enable Government to
+increase revenue from the sector, create
+responsible and inclusive small enterprises to
+engage safely and legally in the mining sector,
+create jobs and pave the way for the collaborative
+coexistence with large-scale mining that has led
+to sustainable development.
+5.3.1  Ethiopia’s Artisanal, Special Small-
+Scale Mining National Strategy
+Ethiopia has recently put in place a
+comprehensive ASSM National Strategy for all
+strategic minerals mined at the artisanal level.
+The aim is to modernise the process and make
+the mining sector an attractive jurisdiction for
+large-scale investment. The strategy plays a vital
+role in advancing the development of the sector
+to contribute in a more meaningful way and
+increase its overall contribution as well as assist in
+capturing revenues in a systematic manner.
+Its primary objective is to formalise the artisanal
+mining sector and promote responsible, inclusive
+and productive operations that contribute to
+sustainable development.
+To achieve this, the Government of Ethiopia has
+adopted a coordinated approach to deliver on
+the following key objectives:
+1
+Strengthen ASSM governance so that it is
+an attractive and conducive jurisdiction for
+investment as part of the formal economy.
+Three aspects of good governance need to
+be strengthened, namely law and regulation,
+structural management and geosciences data.
+2
+Increase	efficiency,	productivity	and
+competitiveness of local mineral producers at
+ASSM level. This incorporates promoting access
+to capital, access to
+ technology and access to
+skilled labour.
+3
+Enhance value-addition and maximise earnings
+by ensuring access to local processing facilities
+and markets, and developing supplier and
+diversified	businesses.
+4
+Foster an environmentally and socially
+responsible ASSM sector that complies with
+appropriate environmental, community, health
+and safety standards.
+5
+Promote two important issues that crosscut
+in each of the other four objectives, namely
+women’s	fair	participation	and	beneficiation	in
+ASSM and utilisation of indigenous knowledge.
+CATEGORY TONNAGE
+(MT)
+KCL
+(%)
+KCL
+MT)
+MEASURED 1,229.9 18.8 231.7
+INDICATED 1,603.8 18.3 294.1
+MEASURED
+and
+INDICATED
+2,883.7 18.6 525.8
+INFERRED 2,098.5 17.5 366.5
+totAl 4,932.2 18.1 892.3
+potASH minerAl reSourceS
+CATEGORY KCL IN
+RES. (MT)
+CONVERSION
+FACTOR (%)
+KCL
+(MT)
+PROVEN 191.0 23.765 45.3
+PROBABLE 263.1 23.765 62.4
+totAl 454.1 23.765 107.8
+potASH proven and proBABle reServeS
+
+36 37
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+5.3.2  Artisanal mining, employment and
+the economy
+A study concluded in 2016 by Ethiopia’s
+Extractive Industry Transparency Initiative
+(E-EITI) on ASM uncovers that:
+ Artisanal mining contributes about 65% of
+ Ethiopia’s foreign exchange earnings.
+
+ It directly employs around 1.26 million people.
+
+ It is a source of livelihood for a further
+      7.5 million people.
+ Those who engage in artisanal mining are
+ highly dependent on that income stream, with
+ an estimate 74% of their livelihoods derived
+ from mining.
+Artisanal mining also plays an important role in
+discovering new mineral deposits and in curbing
+rural to urban migration.
+5.3.3  Improving market access and
+increasing earnings
+While Ethiopia has an artisanal mineral operations
+licencing process in place, around 94% of active
+artisanal miners are unlicenced. Relatedly, only
+around 20% of the royalties owed by artisanal
+miners are actually collected. This means
+that, with better sector oversight, ASM has the
+potential to be a far more potent contributor to
+Ethiopia’s economy.
+Another related challenge is that much of the
+trade in the minerals produced by the ASM
+sector is illegal. The E-EITI’s ASM study estimated
+that the volume of mineral marketed through
+formal (legal) channels is only 39% of the total
+production.
+The minerals that are collected by legal buyers
+at production site (from both legal and informal
+producers) is directly channelled to the National
+Bank of Ethiopia for export. However, the
+remaining balance (61%) goes through informal
+channels, and is largely absorbed in the local
+markets, with some possibly exported.
+The MoMP, along with a host of other ministries
+and stakeholder groups, is actively seeking to
+address this issue by developing centralised
+formal market centres, close to mining areas
+that are legally connected with central regional,
+national and international markets.
+5.3.4		Profile	of	an	artisanal	miner	in
+Ethiopia
+Artisanal miners tend to be at the peak
+productive age of 18-45 years, meaning that
+artisanal mining is an important source of
+employment for Ethiopia’s youth, especially in
+rural areas. The majority of artisanal miners are
+men. Studies have found that women (as well as
+children and the elderly) are participating less
+and less in the sector, due to surface mining
+becoming increasingly untenable as placer gold
+in Ethiopia has been almost entirely depleted.
+This means that Artisanal mining increasingly
+requires digging or tunnelling, activities that are
+dominated by men.
+5.3.5  Prioritising women in the ASSM
+sector
+The Government of Ethiopia and the Ministry
+of Mines and Petroleum are committedly
+working	to	ensure	the	benefits	of	the	mining
+sector are shared equally among its citizens,
+and that it creates inclusive, safer and socially
+responsible SMEs across mining communities
+and jurisdictions.
+The	MoMP	is	giving	specific	consideration	to
+gender aspects in the design, implementation
+and monitoring of the strategy and policies aimed
+towards the formalisation of the ASSM sector in
+Ethiopia, and women’s economic empowerment
+is	integrated	at	every	stage	of	identified	strategic
+interventions.
+Key interventions of the ASSM strategy include:
+ Legislation of gender prioritisation
+	 requirements	in	employment,	beneficiation,
+ local content policies, CSR and community
+ development strategies of the country;
+ Policy promotion - to raise awareness of
+ women’s role and rights in ASSM for
+ sustainable development and safeguard
+ reproductive health;
+
+ Provide extension services - to capacitate
+ and sensitise women’s legal and social rights
+ in the mining communities and reduce
+ exposure to sexual exploitation;
+ Structural and organisational support -
+ to promote women-led cooperatives with
+ demonstrated entrepreneurial excellence to
+ address disparities in pay and access to
+ training;
+	 Develop	and	support	existing	microfinance
+ and traditional community banking systems -
+ to ensure women have equal access to
+	 finance	and	loans;
+ Provide appropriate mining technology
+ that promotes transferable, environmentally
+ conscious, sustainable technology and
+ technical skills - to diversify the role of women
+ in mining value chain and reduce the negative
+ reproductive health impact of inappropriate
+ chemical use;
+ Develop technical mining skills of ASSM
+ operators - to increase the number of women
+ who are skilled mining professionals in the
+ industry;
+ Empower and educate women in processing,
+	 gemmology	and	refining	techniques	-	to
+	 develop	successful	diversified	niche
+ businesses; to participate in value chains,
+	 beneficiation	and	other	sustainable	economic
+ generating activities.
+
+38 39
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+ETHIOPIA’S MINERAL SECTOR
+2
+INVESTING IN
+ETHIOPIA’S
+MINERAL
+SECTOR
+06
+Ethiopia’s Homegrown Economic Reform Agenda seeks to propel
+Ethiopia into becoming the African model of prosperity by 2030.
+Key in this agenda are macroeconomic, structural and sectoral
+reforms that will pave the way for job creation, poverty reduction,
+and sustainable, inclusive growth.
+
+INVESTING IN
+6.
+The Ministry’s vision is to:
+ Increase investment in the sector
+ Build the organisational and technical capacity of Ethiopia’s institutions
+ Enable value-addition and facilitate the industrialisation of Ethiopia’s economy
+ Create opportunities for quality direct and indirect jobs in the sector
+ Improve internal revenue and increase foreign exchange earnings
+To realise these objectives, and in line with Ethiopia’s Homegrown Economic Reform Agenda, the MoMP
+is preparing a 10-year strategic roadmap, which will be implemented in two 5-year strategic plans. This
+process is under way in 2020.
+The	MoMP’s	work	is	firmly	guided	by	a	number	of	international,	continental	and	national	ambitions.
+Globally, the Ministry supports the Sustainable Development Goals (SDGs). At a continental level, the
+MoMP supports the African’s Union’s Agenda2063 to build ‘The Africa We Want’, the Continental Free
+Trade Area (CTFA) and the Africa Mining Vision. While at the sub-regional level the Ministry is a member
+of the Intergovernmental Authority on Development (IGAD), an eight-country trade bloc in Africa, and the
+Common Market for Eastern and Southern Africa, COMESA.
+Nationally, the Ministry’s goal is to ensure Ethiopia joins the ranks of lower middle-income countries
+by 2030, while ensuring environmentally resilient ‘Green Economic Growth and Industrialisation’ and
+growing the private sector’s role in Ethiopia’s economy.
+6.1     ABOUT THE MINISTRY OF MINES AND PETROLEUM
+
+40 41
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+institutional framework 6.2     HOW TO APPLY FOR A LICENCE
+
+Ethiopia has a federal administrative system comprising of 9 Regional States and 2 City Administrative
+Councils.
+The Licencing and Administration Directorate in the MoMP issues:
+The Regional States Mining Bureaus have the mandate to issue:
+Small- and large-scale mining licences for construction minerals, small-scale mining licences for
+industrial minerals, reconnaissance, exploration and retention licencees with respect to construction and
+industrial minerals.
+The Regional State administration also collects royalties from the small-scale and artisanal production of
+precious minerals, industrial and construction materials.
+The	local	Zone	and	Woreda	administration	is	effective	if	properly	utilised	-	(the	Woreda	is	the	smallest
+administration hierarchy in the Ethiopian federal system).
+1
+2
+3
+Reconnaissance
+Licences
+Exploration
+Licences
+Retention
+Licences
+4
+5
+6
+Artisanal Mineral
+Operations Licences
+Special Small-Scale
+Mineral Operations
+Licences
+Small-Scale Mineral
+Operations Licences
+7
+Large-Scale
+Mineral
+Operations
+Licences
+MINISTRY OF MINES
+AND
+PETROLEUM
+ISSUE RECONNAISSANCE
+EXPLORATION
+Retention and mining
+licence other than those
+issued by the Regional
+States
+REGIONAL bUREAUS OF MINES,
+ENERGY/WATER RESOURCES of the
+NATIONAL REGIONAL STATES
+and CITY ADMINISTRATIONS
+ISSUE ARTISANAL MINING LICENCES
+FOR ETHIOPIAN NATIONALS
+ISSUE FOR DOMESTIC INVESTORS:
+•	 Reconnaissance, Exploration and
+Retention licencees with respect to
+construction and industrial minerals
+•	 Small-scale mining licences for industrial
+minerals
+•	 Small- and large-scale mining licences
+for construction minerals
+GEOLOGICAL SURVEY
+of ETHIOPIA
+•					Autonomous &
+      accountable to the MoMP
+•	 Responsible to carry out
+basic geological mapping,
+mineral exploration
+and other related
+geological activities and
+provide services (data
+dissemination, drilling and
+lab. analysis)
+NATIONAL REGIONAL STATE
+CITY ADMINISTRATION
+ZONE
+WOREDA
+GOVERNMENT:
+•	 Federal 	Democratic	Republic
+•		 9	National 	Regional	States
+•		 2	Federally 	Chartered	cities
+Afar
+Amhara
+Tigray
+Somali
+Oromia
+Benishangul-Gumuz
+Gambela
+Addis Ababa
+Dire Dawa
+Southern Nations,
+Nationalities and
+Peoples
+Harar
+
+42 43
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+6.3     MINING LICENCE APPLICATION PROCESS
+As part of Ethiopia’s ongoing reforms, the application process for any and all mineral operations
+licences from the MoMP is now entirely paperless and is done via an e-portal:
+https:/ /ethiopian.portal.miningcadastre.com
+Applicants simply need to register on the Ethiopian Mining Cadastre portal. Once registered, users will
+be able to submit all applications and supporting documentation electronically via the portal.
+  cAdAStre regiStrAtion procceSS
+  licence ApplicAtion proceSS
+type of licence detAilS
+Reconnaissance
+Licence
+Allows its holders to do a general search for any mineral in a particular region. It is
+issued for an 18-month period, and is non-renewable and non-exclusive.
+Exploration
+Licence
+Allows	its	holders	to	search	for	any	mineral	in	a	specified	region	by	means	of
+photographs, images, geological, geochemical, geophysical or drilling. This licence
+is exclusive and is initially issued for 3 years. An Exploration Licence can be issued
+and renewed for a maximum of 10 years. However, upon each renewal, the licence
+holder is required to relinquish a portion of the licenced exploration area unless
+they can declare a resource.
+Retention
+Licence
+Can be issued to an applicant that has discovered a mineral resource of economic
+significance,	but	which	cannot	be	developed	immediately	due	to	adverse	market
+conditions or because the required processing technology might be unavailable.
+This is an exclusive licence that is initially issued for 3 years. After the 3-year period,
+the licence may be renewed once more for an additional 3 years.
+Artisanal Mineral
+Operations
+Licence
+Issued either to an individual or a small or micro-enterprise whose mining
+operation is mostly manual and does not involve employed workers. Exclusive,
+non-renewable and issued for a maximum of 2 years.
+Special Small-
+Scale Mineral
+Operations
+Licence
+Issued to holders of an Artisanal Mineral Operations Licence who now have
+the capacity to employ machinery in their mining operations. A Special Small-
+Scale Mineral Operations Licence is exclusive and is only issued to holders of an
+Artisanal Mineral Operations Licence. Initially issued for 10 years, whereafter it
+needs to be renewed every 5 years.
+Small-Scale
+Mineral
+Operations
+Licence
+Issued to a mining operation whose annual run-of-mine ore does not exceed
+a	specified	amount.	The	maximum	allowed	run-of-mine	ore	amount	varies
+depending on the relevant mineral. A Special Small-Scale Mineral Operations
+Licence is exclusive, is initially issued for 10 years, whereafter it needs to be
+renewed every
+5 years. The maximum run-of-mine ore for a Small-Scale Mineral Operations
+Licence is highlighted in the table below:
+Maximum run-of-mine ore for a Small-Scale Mining Licence:
+
+  Metallic minerals (e.g. iron, lead, copper or nickel) the maximum:
+				•	 150,	000	tonnes	for	an	open	pit	mine,	or
+				•	 75,	000	tonnes	for	underground	operations
+  Industrial minerals (e.g. kaolin, bentonite, diatomite, dolomite, quartz or coal) the maximum:
+				•	 120,	000	tonnes
+ Construction minerals the maximum:
+				•	 80,	000	cubic	metres	for	material	like	sand,	gravel,	pumice,	ignimbrite	or	clay
+				•	 10,	000	cubic	metres	for	dimension	stones	(e.g.	marble	or	granite)
+  Salts extracted from brine the maximum:
+				•	 14,	000	tonnes
+  Precious or semi-precious stones, the maximum:
+				•	 100,	000	cubic	metres	for	a	placer	operation
+				•	 75,	000	tonnes	for	a	primary	deposit	mining	operation
+(For more details see Proclamation No. 678-2010).
+Large-Scale
+Mineral
+Operations
+Licence
+Issued	to	a	mining	operation	whose	annual	run-off	of	mine	ore	exceeds	the
+maximums amounts allowed under a Small-Scale Licence. Exclusive, initially
+issued for 20 years, whereafter it needs to be renewed every 10 years.
+6.4     ABOUT ETHIOPIA’S LEGAL AND REGULATORY FRAMEWORK
+The Mineral sector is regulated by multiple Proclamations and regulations for mining operations in
+Ethiopia. Most recently, it has reviewed and developed mineral and petroleum policies, as well as
+proclamations related to mining operations and transactions. All legal and regulatory documents can be
+accessed and downloaded on the Ministry’s website.
+9
+you are now free to use the cadastre portal
+8
+receive email
+from the momp
+Licencing Office
+confirming
+update
+7
+wait for the
+momp licencing
+Office to update
+your account
+6 Set your
+password
+5 check your
+email for link to
+set password
+4
+upload scanned
+copy of your
+registration
+form and
+identity
+3 fill in your
+details on the
+online cadastre
+portal
+download a
+registration
+form and
+complete it
+2
+1
+Go to:
+https:/ /ethiopian.portal.
+miningcadastre.com/
+How to register
+on the online
+Ethiopian Mining
+Cadastre Portal
+1
+Go to:
+https:/ /ethiopian.portal.
+miningcadastre.com/
+How to apply for a
+Mining Licence
+log in to your
+account2 3 Select
+”new Application”
+menu option
+5 upload all
+required
+documents
+4
+follow the
+instructions
+carefully and fill
+in all required
+information
+6 pay
+application fee
+7 upload
+application
+payment fee
+receipt
+momp reviews
+application8 9
+momp submits
+application
+to council of
+ministers for sign
+off and approval
+10 momp grants
+licence
+
+44 45
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+THEME LEGISLATION
+CORE MINING LEGISLATION
+AND REGULATIONS
+•	 Mining Operation Proclamation No. 678/2010 (as amended by
+Proclamation No. 813/2013)
+•	 Mining Regulation Proclamation No. 423/2018
+•	 Transaction of Precious Minerals Proclamation No. 651/2009
+TAX Income Tax Proclamation No. 979/2016
+ENVIRONMENT Environmental Impact Assessment (EIA) Proclamation No. 299/2002
+COMMERCIAL LICENCING Commercial Registration and Licencing Proclamation No. 980/2016
+HUMAN RIGHTS AND
+CIVIL SOCIETY
+•	 Ethiopian Human Rights Commission Proclamation No. 210/2000
+•	 Cooperative Society Proclamation No. 985/2016
+•	 Organisations of Civil Societies Proclamation No. 1113/2019
+•	 Establishment of Cooperative Association Proclamation
+No. 274/2002
+LAND USE
+•	 Rural Land Administration and Land Use Proclamation No.
+456/2005
+•	 Expropriation of Landholding for Public Purposes and Payment
+of Compensation Proclamation
+LABOUR Labour Proclamation No. 377/2003
+Transaction of Precious Minerals Proclamation
+No. 651/2009
+This Proclamation governs the conduct of
+all transactions of precious minerals within
+the territory of Ethiopia. Any person who has
+been issued a licence in accordance with the
+appropriate mining laws is not required to have a
+certificate	of	competence	or	licence	pursuant	to
+this Proclamation in order to sell locally or export
+abroad the precious minerals it produces. It also
+highlights	the	different	licences	for	precious
+minerals as well as the eligibility, application and
+obligations of said licences.
+6.4.2  Tax
+Income Tax Proclamation. No. 979/2016
+This legislation supports the economic
+development of the country. For mining it is
+key because a mine site, oil or gas well, quarry
+or other place of exploration or extraction of
+natural resources is considered a permanent
+establishment which is subject to provisions
+under this Proclamation. It highlights the
+different	schedules	of	income	and	obligations
+to pay income tax. Comprehensive tax rates are
+also listed. There are provisions for taxation of
+licencees and contractors as well as provisions
+for expenditure incurred during the phases of the
+mining cycle.
+Mining Income Tax Proclamation No. 53/1993
+This Proclamation provides for the payment
+of tax on income from mining operations. It
+highlights	tax	allocations	for	different	operations.
+For instance, large-scale mining operations will
+provide allocations to joint federal and regional
+governments while small-scale and artisanal
+mining operations provide to regional states. The
+joint federal – regional income tax from large-
+scale mining operations is allocated based on a
+50/50% ratio.
+It also highlights that mining income tax from
+large-scale operations is administered by the
+Ministry of Revenue. The mining income tax law
+gives power to adjust income and expenditures
+between	affiliated	parties	to	the	licencing
+authority while tax is administered by the revenue
+authority.
+Mining Income Tax (Amendment) Proclamation
+No. 802/2013
+The Mining Income Tax Proclamation was
+amended to state that ‘’a large-scale mining
+licence holder is subject to 25% of taxable
+income’’ .
+6.4.3  Environment
+Environmental Impact Assessment (EIA)
+Proclamation No. 299/2002
+This Proclamation prescribes that no person
+shall commence any new development activity
+under any category listed as a project without
+an environmental impact assessment or
+authorisation of the Environmental Protection
+Authority. The Authority or the relevant regional
+environmental agency may decide that the
+possible	impact	of	the	project	is	significant	and
+therefore that no EIA shall be carried out.
+6.4.4  Commercial licencing
+Commercial Registration and Licencing
+Proclamation No. 980/2016
+The Proclamation is applicable to any business
+persons, sectoral associations, commercial
+representatives and any other person engaged
+in commercial activity. The provisions provided
+include commercial registration and retrieval of
+tax	identification	numbers,	registration	of	trade
+names, obtaining a business licence, franchise
+registration, determination of export and import of
+goods and various penalties.
+6.4.5  Human rights and civil societies
+Ethiopian Human Rights Commission
+Proclamation No. 210/2000
+This	Proclamation	defines	the	objectives	of	the
+Commission, the rules for appointing members,
+the powers and duties of appointees, the rules
+of procedure of the Commission as well as
+administration of the Council of Commissioners
+and	staff	of	the	Commission.	The	Commission
+was formed in order to educate the public to be
+aware of human rights, to see to it that human
+rights are protected, respected and fully enforced
+as well as to have the necessary measures taken
+where they are found to have been violated.
+This Proclamation gives provisions on rules
+and procedures of the Commission, lodging
+complaints, and remedies.
+6.4.1  Mining legislation and regulations
+Mining Regulation Proclamation No. 423/2018
+This is the key legislation that regulates the
+mining sector. It was amended in 2018. The
+Proclamation seeks to enshrine the principle of
+custodianship of the country’s mineral resources
+by the Government; promote socio-economic
+growth of the country; promote employment and
+advance the social and economic welfare of all
+Ethiopians; provide for security of tenure for all
+investors in respect of exploration and mining
+operations; and ensure that the country’s mineral
+resources are developed in an orderly and
+sustainable manner. The amendments provides
+additional incentives, government participation,
+royalty regulations, social responsibility as well as
+the size of the licence area.
+Mining Operation Proclamation No.678/2010 (as
+amended by Proclamation No 813/2013)
+This Proclamation promotes sustainable
+development of mineral resources. It governs
+the conduct of all mining operations and related
+activities within Ethiopia. Its purpose is to
+ensure that the country’s mineral resources are
+developed in an orderly and suitable manner. Key
+provisions state that no mining licences may be
+granted within areas reserved for natural habitats
+or national parks or within 500 metres from the
+boundary of a village, city or water reservoir or
+dam without the consent of the competent body.
+It emphasises that a licence may be revoked if
+there is a breach of the approved environmental
+impact assessment, and safety and health
+standards. The proclamation has in place
+measures to ensure community development
+plans are established within the licence area.
+Even	after	a	mine	closure	certificate	has	been
+issued the licencee must continue to monitor
+environmental	effects
+.
+
+46 47
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Cooperative Society Proclamation No. 985/2016
+This Proclamation provides for the creation,
+registration and administration of cooperatives
+and provides rules with respect to their
+operations,	winding	up,	etc.	It	also	defines	the
+objectives of a cooperative and provides for
+the establishment of cooperative societies
+unions and cooperative societies federations.
+Cooperative societies may, according to their
+nature,	be	established	at	different	levels	from
+primary up to federation level. Any cooperative
+society shall be registered by the appropriate
+authority (i.e. the Federal Cooperative Agency,
+or an organ established at regional levels to
+execute the cooperative societies proclamation,
+lead and regulate the cooperative sector). The
+Proclamation also establishes a Cooperative
+Advisory Council, which is accountable to the
+Ministry of Agriculture and Natural Resource.
+Furthermore,	the	Proclamation	defines	duties
+of cooperative societies with respect to the
+environment.
+Organisations of Civil Societies Proclamation
+No. 1113/2019
+This new Proclamation is expected to create
+an enabling environment for CSOs to carry out
+their vital role, particularly in democracy building
+and the promotion of human rights. It provides
+for the formation of Civil Society Groups within
+Ethiopia and its purpose is to regulate Civil
+Societies Organisations to ensure accountability
+and	maximum	public	benefit	from	the	sector.	This
+Proclamation applies to organisations operating in
+two or more regional states; foreign organisations;
+organisations established in Ethiopia to work on
+International, Regional or Sub-Regional issues
+or not operate abroad; organisations operating
+in the City Administration of Addis Ababa or Dire
+Dawa; and charitable organisations established
+by religious Institutions.
+Establishment of Cooperative Association
+Proclamation No.274/2002
+This Proclamation guides the establishment and
+governance of cooperative associations and
+societies. It provides for the institutionalisation of
+the cooperative movements and was developed
+to establish the Federal Cooperative Commission
+for organising, promoting and strengthening the
+cooperative movement at national level.
+6.4.6  Land use
+Rural Land Administration and Land Use
+Proclamation No. 456/2005
+This Proclamation highlights that it has become
+necessary to sustainably conserve and develop
+natural resources and pass on to future
+generations, through the development and
+implementation of a sustainable rural land use
+plan	based	on	the	different	agro-ecological	zones
+of the country. The Proclamation provides for
+the establishment of an information database
+that enables the Government to identify the size,
+direction	and	use	rights	of	the	different	types	of
+landholdings in the country such as individual
+and federal and regional states holdings. It also
+provides for the resolution of problems that
+arise in connection with encouraging individual
+farmers, pastoralists and agricultural investors
+and establishes a conducive system of rural land
+administration.
+6.4.7  Labour
+Labour Proclamation No. 377/2003
+This Proclamation acknowledges the importance
+of a skilled and disciplined workforce to Ethiopia’s
+industrialisation	efforts	and	improving	its	global
+competitiveness by recognising the need to
+create a favourable environment for investment.
+It provides more obligations to employers,
+increases the minimum working age, added
+employee	benefits,	extends	probation	periods,
+adjusts overtime work and payment, and provides
+new rules on sexual harassment and sexual
+violence.
+6.5     ASM LICENCING, LEGISLATION
+          AND REGULATIONS
+
+6.5.1  Licencing
+The MoMP issues two types of mining licence
+that relate to artisanal mining.
+They are:
+
+
+(More details under types of licences on page 42).
+The 2013 amendment to the Mining Operations
+Proclamation	first	introduced	the	Special	Small-
+Scale Mineral Operations Licence, and, at the
+same time, reduced the maximum period for an
+Artisanal Mineral Operations Licence from
+9 years down to 2 years. These changes
+encourage artisanal miners to see ASSM as a
+stepping stone to other economic activities,
+rather	than	a	final	destination,	and	to	encourage
+them to upgrade their operation to a higher level
+of mechanisation and increase productivity.
+More detail can be found in Mining Operation
+Proclamation No.678/2010 (as amended by
+Proclamation No. 813/2013).
+6.5.2  Royalties and taxes
+Holders of an artisanal or special small-scale
+licence are required to pay both royalties and
+income tax at levels that are determined by laws
+of the Regional State.
+6.6     ENVIRONMENT AND SAFETY
+          REGULATIONS
+
+Ethiopia is environmentally and socially sensitive.
+Sustainable development is discussed in
+Ethiopia’s Constitution, where the people’s
+environmental rights are clearly stipulated. As
+the Constitution indicates, the People of Ethiopia
+have a right to improved living standards, as well
+as a right to participate in national development
+and, in particular, to be consulted with respect to
+policies	and	projects	affecting	their	community.
+In addition, the Constitution sets out that the
+people of Ethiopia have the right to a clean and
+healthy environment. If displaced or adversely
+affected,	the	state	will	commensurate	monetary
+or alternative means of compensation, which
+could include relocation with adequate state
+assistance.
+1  AN ARTISANAL MINERAL OPERATIONS
+   LICENCE
+2  A SPECIAL SMALL-SCALE MINERAL
+   OPERATIONS LICENCE
+
+48 49
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+6.6.1  Environmental Impact Assessment,
+rehabilitation fund and community
+development
+Applicants for any licences except a
+Reconnaissance, Retention or Artisanal Mining
+Operations Licence have to:
+ Submit an environmental impact assessment;
+
+ Allocate funds to cover the costs of
+	 rehabilitating	the	environment	affected	by	its
+ activities;
+
+ Participate in planning community
+ development initiatives with the people
+ within the licence area, and allocate funds to
+ pay for these initiatives.
+More detail can be found in Mining Operation
+Proclamation No. 678/2010 (as amended by
+Proclamation No. 813/2013) and Environmental
+Impact Assessment Proclamation No. 299/2002.
+6.6.2  Environmental Impact Assessment
+Under Ethiopian law, any mining or petroleum
+project needs to undertake an Environmental
+Impact Assessment. Any project that alters any
+part of Ethiopia’s environmental, social, economic
+or cultural conditions is required to obtain
+approval from the relevant authority before it is
+allowed to proceed.
+A company wishing to initiate such a project is
+required to conduct an Environmental Impact
+Assessment of the project, and submit a report
+of this assessment to the MoMP (or the relevant
+regional agency) for review.
+This report should be written up after consulting
+any	communities	likely	to	be	affected	by	the
+project, and should contain a summary written in
+non-technical language.
+At a minimum, an environmental impact study
+report should explain:
+ What the project is and what technological
+ processes it involves;
+
+ The content and amount of any pollutant that
+ will be released at any stage;
+
+ The source and amount of energy required;
+
+ Information on likely trans-regional impacts;
+
+ Nature and duration of all the estimated
+ direct or indirect, positive or negative impacts;
+
+ What measures the company will take to
+ eliminate, minimise or mitigate any negative
+ impacts;
+
+ The company’s contingency plans in case of
+ accident;
+
+ How the company intends to monitor the
+ project during both implementation and
+ operation;
+
+ How complete or accurate the information is
+ on which the report was based.
+By law, the MoMP (or the relevant regional agency
+responsible) is required to issue a response within
+15 working days of receiving the report.
+They can either:
+ Approve the project outright;
+ Approve the project subject to certain
+	 specified	conditions	being	fulfilled	or;
+ Reject the project on the basis that a negative
+ environmental impact cannot be satisfactorily
+ avoided.
+Please see Environmental Impact Assessment
+Proclamation No. 299/2002 for more detail.
+6.6.3  Environmental Impact Assessment
+guidelines
+Ethiopia has issued two sets of guidelines to help
+mining or petroleum companies conduct their
+assessments, and submit a report that has the
+best chance of being approved.
+1. The EIA Reporting Guide.
+This guide will assist any company that is required
+to submit an Environmental Impact Assessment.
+The guide lays out the relevant sections that must
+be included in the applicant’s submitted report,
+thereby giving companies a comprehensive
+understanding of the information required from
+them, as well as the expected structure of the
+applicant’s report.
+2. The EIA Guideline for Mineral and Petroleum
+Operation Projects.
+This	guide	is	specifically	aimed	at	Mining	and
+Petroleum Companies. It contains comprehensive
+information about what impacts Ethiopia’s EFCCC
+and	mostly	concentrates	on	the	different	kinds
+or stages of mineral and petroleum operations.
+It also informs on the level of mitigation that
+the EFCCC expects. The aim of this guide is to
+provide mining and petroleum companies with
+valuable information on the EIA process, which
+companies can then utelise in the early planning
+stage of their project - thus ensuring they are well
+positioned to achieve project approval.
+
+(Reporting guides are available on the MoMP
+website).
+6.6.4  Regional Environmental Bureaus
+Regional Environmental Bureaus are responsible
+for environmental monitoring, protection and
+regulation of all projects that fall under the
+jurisdiction of the region. They ensure the
+implementation of federal environmental
+standards in their respective regions or, as
+may be appropriate, issue and implement their
+own, no less stringent standards. Regional
+environmental bureaus periodically prepare
+reports on the environment and sustainable
+development of their respective regions and
+submit to the EFCCC.
+More detail can be found in Environmental
+Protection Organs Establishment Proclamation
+No. 295/2002.
+Specific	to	mining	projects,	the	regional	and	city
+administration mining authorities have the powers
+and duties to review and approve the ESIA
+reports of Special Small-Scale Mining projects,
+for industrial minerals and Small- and Large-
+Scale Mining projects for construction minerals.
+The environmental approval letter obtained is
+simultaneously used for the application and
+obtaining of a mineral operations licence from the
+regions and city administrations.
+More detail can be found in Mining Operation
+Proclamation No. 678/2010 (as amended by
+Proclamation No. 813/2013).
+Artisanal Mineral Operations Licences are
+issued at the regions by considering the minimal
+environmental requirements which are on
+Environmental Management Guidelines for
+Artisanal Mining in Ethiopia.
+IMPORTANT ENVIRONMENT AND SAFETY REGULATIONS
+ Environmental Impact Assessment Proclamation No. 299/2002
+ Commercial Registration and Licencing Proclamation No. 980/2016
+ EIA Guideline for Mineral and Petroleum Operation Projects
+ EIA Reporting Guide
+ Environmental Management Guidelines for Artisanal Mining in Ethiopia
+ Labour-Proclamation No. 1156-2011 revised
+ Environmental Pollution Control Proclamation No. 300/2002
+
+50 51
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+6.6.5  Environmental management
+guidelines for artisanal miners
+The MoMP has also taken steps to lessen the
+environmental impact of artisanal mining by
+providing a set of guidelines for artisanal miners,
+local communities surrounding artisanal mining
+sites and licencing authorities.
+This guideline will help artisanal miners become
+aware of the potential dangers of their activities
+and help them mine in a more sustainable way.
+It will also improve the management of the
+artisanal mining sector by providing the licencing
+authorities with a set of checks and balances they
+did not previously have. (Guidelines available on
+MoMP website).
+6.6.6  Safety regulations
+Every Environmental Impact Assessment must
+include an assessment of the health and safety
+impacts of the project. This includes both the
+occupational health and safety impacts and
+the health and safety impacts on the local
+communities	who	might	be	affected	by	the
+project’s activities. The EIA Guideline for Mineral
+and Petroleum Operation Projects contains
+helpful information for mining and petroleum
+companies about the health and safety impacts
+the Ethiopian government is most concerned
+about.
+
+6.6.7  Pollution
+Under Ethiopian law, polluting the environment
+is illegal, and the penalties for doing so are
+clearly spelled out. Ethiopia follows the ‘polluter
+pays’ principle and requires the person or entity
+causing the pollution to pay for any clean up.
+
+6.7     COMMUNITY ENGAGEMENT
+To	foster	sustainable	investments	which	benefit
+all stakeholders, mining companies are required
+to contribute to a community development fund
+in Ethiopia.
+6.7.1  Community development
+As has been the case for many years, applicants
+for any mineral operations licence need to
+participate in planning community development
+initiatives with people within the licence area, as
+well as allocate funds to pay for these initiatives,
+as explained in Ethiopia’s Mining Operation
+Proclamation No .678/2010 (as amended by
+Proclamation No. 813/2013) and Environmental
+Impact Assessment Proclamation No. 299/2002.
+In 2019, Ethiopia issued a new directive which
+provides guidance on how this process is to work,
+and	clearly	specifies	both	the	duties	and	the
+rights of all parties involved with the community
+development fund.
+6.7.2  Overseeing the community
+development fund
+While holders of any kind of mining operation
+licence and the holders of an Exploration
+Licence are all required to establish a community
+development fund, the requirements are a little
+different	depending	on	whether	the	licence	in
+question is an Operation Licence or merely an
+Exploration Licence.
+When the fund is established by those who hold
+a mining operation licence (for example, a Large-
+Scale Mineral Operations Licence) a committee
+must be established to oversee how the fund
+is used. This committee should be comprised
+of, among other individuals, representatives
+IMPORTANT COMMUNITY ENGAGEMENT
+REGULATIONS:
+ Mining Operation Proclamation No. 678/2010 (as
+ amended by Proclamation No. 813/2013)
+ Mining Regulation Proclamation No. 423/2018
+  Directive to regulate the allocation of a
+ Community Development Fund
+for	the	local	community,	various	local	officials
+(including members of local mineral sector, the
+Finance and Economic Cooperation Bureau, the
+Women, Children and Youth Bureau) as well as
+a representative for each mineral operations
+licence holder who contributed to the fund. It is
+responsible for consulting with the community
+in order to identify the appropriate development
+project that will be of the most value or use to the
+community, and then making sure that the project
+proceeds smoothly and without impediment.
+When the fund is established by an Exploration
+Licence holder, there is no need to establish
+such a committee, and the fund is overseen by
+the relevant licencing authority. It is, however, to
+be	used	for	the	express	purpose	of	benefitting
+the communities who are directly or indirectly
+affected	by	the	exploration	activities.
+For more detail about how the community
+development fund is to be managed, please
+see the Directive to regulate the allocation of
+Community Development fund.
+6.8    FISCAL REGIME
+Ethiopia has some of the most attractive royalty
+rates in Africa. The holders of Large-Scale Mineral
+Operations Licences are required to pay royalties
+at the following rates:
+Royalties can sometimes be waived in special
+circumstances. More detail can be found in
+Mining Operation Proclamation No. 678/2010 (as
+amended by Proclamation No. 813/2013).
+The royalties that holders of artisanal, special
+small-scale and small-scale licences are required
+to pay are determined by laws of the Regional
+State in which that licence is issued. Licencees
+would need to contact the relevant regional
+authority.	Corporate	income	tax	is	at	a	flat	rate
+of 25%. A total of 60% of all mining tax revenues
+from mining goes to the Ministry of Finance and
+40% goes to the regional governments.
+Miners	also	enjoy	some	benefits:	mining
+companies	are	allowed	a	five-year	(from	start
+of production) exemption from customs duties
+and tax on imported equipment, machinery and
+vehicles.
+The Government is guaranteed a 5% minimum
+equity stake in all mining projects.
+6.8.1   Fiscal incentives
+Ethiopia offers a comprehensive set of fiscal and
+non-fiscal incentives to encourage investment
+into priority areas, including:
+ Customs duty exemptions of up to 100% on
+ imports of capital goods for eligible areas of
+ investment;
+ Income tax exemptions for a period ranging
+ between 1 and 9 years, depending on the
+	 specific	activity	and	the	location	of	the
+ investor;
+	 Loss	carry-forward	for	businesses	that	suffer
+ losses during the income tax exemption
+ period for half of the tax exemption period;
+ With the exception of a few products, no
+ export tax is levied on Ethiopian export
+ products;
+ Duty Drawback Scheme, Voucher Scheme
+ and Bonded Factory and Manufacturing
+ Warehouse Schemes;
+	 Various	non-fiscal	incentives	for	exporters;
+ Guaranteed remittance of capital for
+ foreign investors.
+It is also important to recognise that
+employers in Ethiopia are legally
+required to take all occupational
+health and safety precautions and
+to abide by the health and safety
+standards set by the relevant
+authority. For more detail, please
+see Labour Proclamation No.
+1156/2011.
+7% Precious minerals
+6% Semi-precious minerals
+5% Metallic minerals
+4% Industrial minerals and salt
+3% Construction minerals
+
+52 53
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+ TYPE OF TAXES RATE
+1 CORPORATE INCOME TAX 25%
+2 TURNOVER TAX 2% and 10%
+3 EXCISE TAX 10% up to 100%
+4 CUSTOMS DUTIES 0% up to 35%
+5 INCOME TAX FROM
+EMPLOYMENT 0% up to 35%
+6 WITHHOLDING TAX 10%
+7 VALUE ADDED TAX (VAT) 15%
+8 EXPORT TAX Nil (with exception of hides and skins - 150%)
+9 ROYALTY TAX 5%
+10 DIVIDEND TAX 10%
+6.8.2  Taxation
+The Ethiopian tax system comprises direct and indirect taxes. Direct taxes include personal income tax,
+rental tax, withholding tax and corporation tax, among other taxes. The main types of indirect taxes are
+VAT, customs duty, excise and turnover taxes. Main taxes are summarised in the table below.
+6.8.3  Mineral operations incentives.
+The	Mining	Operations	Proclamation	offers
+various incentives for holders of a mining
+and exploration licences to import duty-free
+equipment, consumables, machineries and
+vehicles. The Mining Regulation expanded these
+incentives by allowing holders of an Exploration
+Licence to import, free of customs duties and
+taxes, a small six-seat aircraft or helicopter for
+the purpose of collecting data. The incentive
+is available only for holders of an Exploration
+Licence who can import the small aircraft or the
+helicopter on a temporary basis and re-export
+it upon completion of the work, or who can
+transfer the small aircraft or helicopter to another
+Exploration Licence holder. These incentives
+require the prior approval of the MoMP.
+In addition, Exploration Licence holders are
+subject to other customs and aviation rules
+before and after importation of the small aircraft
+or helicopter.
+6.9     LAND ALLOCATION
+All land in Ethiopia is considered public property.
+Individuals, companies and other organisations
+can, however, acquire the right to use land. There
+are	two	broad	classifications	of	land	for	rent	or
+lease purposes, namely rural land used mainly
+for agricultural purposes, and urban land used
+mainly for industrial purposes or other activities.
+Land	lease	or	rental	rates	differ	from	region	to
+region.
+
+54 55
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+DOING
+bUSINESS
+IN ETHIOPIA
+07
+DOING bUSINESS
+IN ETHIOPIA
+7.
+7.1     ETHIOPIA’S CITIZEN CHARTER
+It has not always been clear to investors or to
+the Ethiopian public what exactly the MoMP
+does, what its values or objectives are, and what
+services it is set up to deliver. To redress this
+issue, the MoMP launched its own Citizen Charter
+in 2018.
+This Charter carefully outlines the MoMP’s service
+delivery obligations, spelling out in detail the
+services that Ethiopia’s citizens and the MoMP’s
+clients generally (including foreign investors) are
+entitled to expect from the MoMP. This charter
+can be found on the MoMP’s website.
+Citizen Charter kiosk and information:
+
+As part of this launch, an information kiosk was
+set	up	in	the	lobby	of	the	MoMP’s	federal	office	to
+serve	as	the	first	point	of	contact	for	the	public,
+investors, and any other stakeholders involved
+with	or	affected	by	mining	operations	who	want
+to know what their rights are, and levels of
+service to which they are entitled. Any member
+of the public, investor or other stakeholder will
+be able to download all information they need
+from the kiosk, and request appointments with
+Ministry	staff.	In	addition,	they	will	also	be	able	to
+complain about any service delivery failures or
+violations of their rights by the MoMP. Complaints
+are carefully tracked to ensure they are resolved
+in a timely manner and that areas that need
+improvement are acted upon to ensure the
+enhanced service delivery of Ministry services.
+7.2     VISITING ETHIOPIA AS AN
+          INVESTOR
+For	the	first	visit	to	Ethiopia,	a	business	visa	can
+be obtained from an overseas diplomatic mission.
+
+Visa requirements are highlighted below:
+ Business or investment visas arerequired for
+ all foreign visitors to Ethiopia, except for
+ nationals of Kenya;
+ Visa applications can be obtained at Ethiopia’s
+ diplomatic missions overseas;
+	 The	Ministry	of	Foreign	Affairs’	Department
+	 for	Immigration	and	Nationality	Affairs	issues
+ a residence permit to a foreign investor upon
+ submission of an investment permit issued in
+ their name;
+ A foreign investor who is a shareholder
+ of a company or branch company as well as
+ expatriate personnel who have a work permit
+ are entitled to get residence permit;
+ Favourable visa terms for investors in
+ industrial parks: A multiple entry visa valid for
+ up to 5 years is given for foreign investors;
+ up to 3 years visa for industrial park service
+ providers, managers, board members and
+ senior experts employed by foreign investors;
+	 Through	its	International	Cooperation	office,
+ the MoMP facilitates visa and residence
+ permit processes in collaboration with the
+	 Ministry	of	Foreign	Affairs.
+
+56 57
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+7.3     HOW TO REGISTER YOUR BUSINESS
+
+Depending on the type of business formation, investors need to take the following steps to register their
+company after having contacted the Ethiopian Investment Commission (Information and Investment
+Promotion Department) for information on procedures and entitlements.
+These steps vary slightly depending on the business formation under which investors plan to operate
+their business:
+submit application
+PROCESS AUTOMATION - LICENCING AND REGISTRATION MANAGEMENT PROCESS - PLC
+INVESTORMoTCASHIER ETHIOPIAN INVESTMENT COMMISSION -
+LICENCING AND REGISTRATION DEPT.
+application form,
+draft MoA, copy
+of passport and
+review
+application
+select company
+name
+provide
+letter for
+bank
+letter of
+interest
+receive letter
+of interest
+
+provide info.
+of banking
+certification,
+TIN and
+authenticated
+office	rental
+get application
+review result and
+comments
+
+pay commercial
+registration and
+investment permit fees
+commercial
+registration
+and investment
+permit
+get commercial
+registration
+and investment
+permit
+issue
+commercial
+registration
+and investment
+permit
+payment
+review bank
+certification,	TIN,	and
+office	rental	agreement
+banking
+certification,	TIN	and
+authenticated	office
+rental agreement
+MoT data base
+get application,
+review result and
+comment
+
+PASS
+no no
+yeS
+yeS
+PASSED?
+STEP 1
+Collect information from the Ethiopian Investment Commission (EIC) and the Investment
+Promotion Department about requirements, incentives, etc.
+STEP 3
+
+Please submit the following:
+
+•	A	completed	and	signed	application	form	(by	the
+  investor, general manager or authorised person);
+
+•	A	project	proposal	(business	plan);
+
+•	A	copy	of	the	business	background	(company	profile);
+
+•	A	copy	of	a	valid	passport,	and	an	investment/
+  business visa to the Licencing and Registration
+  Department.
+STEP 3 - Please submit the following:
+•	A	completed	and	signed	application	form	(by	the	investor,	general	manager	or	legally
+  authorised person);
+•	A	project	proposal	(business	plan);
+•	A	copy	of	the	business	background	(company	profile);
+•	A	memorandum;
+•	An	article	of	association;
+•	A	copy	of	a	valid	passport	and	an	investment/business	visa	of	each	shareholder	to	the
+  Licencing and Registration Department.
+STEP 4
+Collect a bank letter from the Licencing and Registration
+Department to get permission to open a foreign currency
+account at the National Bank of Ethiopia.
+STEP 5
+Transfer/deposit cash into
+the opened company bank
+account.
+STEP 6
+Collect	a	confirmation
+letter and a credit
+advice from the bank.
+STEP 7
+Submit two recent passport-
+sized photographs of the
+investor.
+STEP 8
+Collect an investment
+permit	certificate	from	the
+Licencing and Registration
+Department.
+STEP 2
+Collect an application form
+from:
+www.investethiopia.gov.et
+
+or
+
+The EIC information desk.
+1  SOLE PROPRIETORSHIP
+STEP 1
+Download an application form from the Ethiopia Investment Commission website
+(www.investethiopia.gov.et) or Information Desk.
+STEP 2
+Obtain a sample memorandum and an article of association, information about requirements
+and incentives from the Investment Promotion Directorate.
+2  PRIVATE LIMITED COMPANY (PLC)
+
+58 59
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+Documents to be notarised and authenticated
+include:
+ A memorandum of Association;
+
+ An article of Association;
+	 A	certificate	of	origin;
+ The minutes of resolution;
+ A power of attorney;
+ A business (investment) visa copy;
+ A passport-size picture of the general
+ manager.
+Minimum capital requirements
+For a joint venture company, the minimum
+capital requirement is USD150,000 (or
+USD 50,000 if it is architectural, engineering
+works, related technical consultancy services,
+technical testing and analysis, or publishing
+company).
+7.4     INVESTOR PROTECTION
+Ethiopia’s legal framework provides mining
+investors with a number of protections and
+assurances designed to minimise their political
+risk. Here are some of the most important
+protections Ethiopia has for investors.
+7.4.1  Expropriation protection
+Ethiopia does allow land to be expropriated,
+but only when doing so is in the public interest
+and does not violate any other laws. There
+are numerous laws that would prevent the
+state expropriating an investor’s property. This
+investment guarantee is enshrined in Ethiopia’s
+Constitution,	in	certain	specific	investment	laws,
+and in numerous investment treaties that Ethiopia
+is party to.
+
+7.4.2  Dispute settlement
+Ethiopia’s Constitution as well as its investment
+law guarantees the right of investors to lodge
+formal complaints about the treatment of their
+investments. The Bilateral Investment Treaties
+(BITs) to which Ethiopia is party also provide
+specific	dispute	settlement	mechanisms.
+7.4.3  Repatriation of funds
+Ethiopia’s investment law provides international
+investors with the right to receive the remittance
+of	their	profits,	dividends,	principal,	interest
+payments and compensation paid, in a
+convertible foreign currency at the current
+exchange rate. This is, however, subject to the
+investor’s meeting the requirements that the
+National Bank of Ethiopia sets.
+7.5     TRADE AGREEMENTS WITH
+          OTHER COUNTRIES AND
+          INVESTMENT TREATIES
+Ethiopia has investment treaties in place with the
+countries below. These treaties further enshrine
+protections for international investors in Ethiopian
+law.
+In case a company is a subsidiary, the following additional documents shall be submitted:
+
+In the case of a foreign company:
+	 Notarised	legal	certificate	of	incorporation;
+ Notarised minutes of resolution passed by authorised organ of the parent company authorising it to
+ invest in Ethiopia;
+ Notarised document of its memorandum and articles of associations or similar documents of the
+ parent company;
+ Notarised power of attorney of the agent.
+In the case of a local company:
+ A copy of memorandum and articles of associations;
+	 A	commercial	certificate;
+ The minutes of resolution passed by the shareholders;
+ A notarised power of attorney of the agent.
+All the requirements for PLC also apply to a shared company and joint venture.
+Algeria
+Austria
+China
+Denmark
+Egypt
+Finland
+Germany
+Iran
+Israel
+Italy
+Kuwait
+Libya
+Netherlands
+Sudan
+Sweden
+Switzerland
+Tunisia
+Turkey
+Yemen
+ETHIOPIA
+3  SHARED COMPANY OR JOINT VENTURE
+STEP 1
+Collect/download application form from www.investethiopia.gov.et or EIC information desk.
+STEP 3
+Collect a bank letter from the
+Licencing and Registration
+Department to get permission to
+open a foreign currency account
+from the National Bank of Ethiopia.
+STEP 4
+Transfer/deposit	cash	into	the	specified	company
+account.
+STEP 5
+Collect	a	confirmation	letter	and	a
+credit advice from the bank.
+STEP 6
+Collect	an	investment	permit	certificate	from	the	Licencing	and	Registration	Department.
+STEP 2
+Submit a completed application form with a
+project proposal (business plan), an authenticated
+parent (mother) company documents and a new
+company general manager’s valid passport and
+business or investment visa to the Licencing and
+Registration Department.
+4  bRANCH MULTINATIONAL COMPANY
+All documents whose sources are outside of Ethiopia shall be:
+	 Authenticated	by	the	concerned	notary	office	and	the	Ethiopian	Embassy	in	the	relevant	foreign
+ country;
+	 Authenticated	and	registered	by	the	the	Ministry	of	Foreign	Affairs	of	Ethiopia.
+
+60 61
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+IMPORTANT
+AGENCIES AND
+SUPPORTING
+INSTITUTIONS
+08
+8.1     ETHIOPIAN MINERAL, PETROLEUM
+          AND BIOFUEL CORPORATION
+The Ethiopia Mineral, Petroleum and Biofuel
+Corporation (EMPBC) is the state-owned oil and
+mining company operating in Ethiopia. They may
+be required to take an equity stake in petroleum
+or mining projects.
+The EPBC was established in 2015. Its key
+objectives include, among other things, to:
+
+	 Ensure	that	Ethiopia	benefits	from	its
+ natural resources;
+ Build the local capacity of the mining and
+ petroleum sector and assist companies
+ engaged in the sector;
+
+ Invest in strategically important areas not
+ addressed by the private sector;
+
+ Contribute to the national economy;
+ Engage in the investment, development and
+ production of the mineral, petroleum and bio-
+ fuel operations;
+ Invest in petroleum, mining and bio-fuel
+ operations carried out by private sector
+ investors;
+ Provide services and training to the
+ mining and petroleum sector.
+8.2     THE ENVIRONMENT, FOREST AND
+          CLIMATE CHANGE COMMISSION
+The Environment, Forest and Climate Change
+Commission (EFCCC), formerly the Environmental
+Protection Agency (EPA), is the federal institution
+managing Ethiopia’s environment. It’s an
+independent authority, acting outside
+
+
+
+the main ministerial structures and reporting
+directly to the Prime Minister. The EFCCC is
+ultimately responsible for Environmental Impact
+Assessments. They do, however, delegate that
+task to regional bureaus for any projects that fall
+under the jurisdiction of regional states and the
+MoMP for projects that are trans-regional and
+do not operate entirely in any one of Ethiopia’s
+regions..
+The agency originally established to safeguard
+Ethiopia’s environment was the Environmental
+Protection Agency in 1995. Since then, it has
+been restructured twice in evolving attempts to
+improve	its	effectiveness.	The	EPA	was	upgraded
+to the Ministry of Environment and Forest in 2013,
+before becoming the Environment, Forest and
+Climate Change Commission in 2015.
+
+The EFCCC in present form is designed to:
+ Ensure that the environment objectives
+ provided under the Constitution and
+ the basic principles set out in the
+ environmental policy of Ethiopia are
+ realised;
+
+ Establish a system for environmental
+ impact assessment of public and private
+ projects, as well as social and economic
+ development policies, strategies, laws
+ and programmes;
+
+ Prepare a mechanism that promotes
+ social, economic and environmental
+ justice and channel the major part of
+	 any 	benefit	derived	thereof	to	the
+	 affected	communities;
+
+
+IMPORTANT AGENCIES and
+SUPPORTING INSTITUTIONS
+8.
+
+62 63
+INVESTOR GUIDE - MINING IN ETHIOPIA  | INVESTOR GUIDE - MINING IN ETHIOPIA  |
+ Reduce emissions of greenhouse gases;
+
+ Coordinate the building of a climate resilient
+ green economy;
+
+ Establish a system for evaluating
+ environmental impact assessments of
+ investment projects submitted by their
+ respective proponents, prior to granting
+ permission in accordance with the
+ Environmental Impact Assessment
+ Proclamation;
+
+	 Take	part	in	the	negotiations	and	ratification	of
+ international environmental agreements;
+
+ Establish an environmental information
+ system;
+
+ Promote and provide formal and non-formal
+ environmental education programmes.
+
+8.3     THE ETHIOPIAN INVESTMENT
+          COMMISSION
+
+The Ethiopian Investment Commission (EIC) is an
+autonomous government institution accountable
+to the country’s Investment Board, which is
+chaired by the Prime Minister.
+A Commissioner, who is also member of the
+Board, heads the EIC. The main services provided
+by EIC include:
+ Promoting the country’s investment
+ opportunities to foreign and domestic
+ investors;
+ Issuing investment permits, business licences
+ and construction permits;
+ Notarising memorandum and articles of
+ association and amendments;
+	 Issuing	commercial		registration	certificates	as
+ well as renewals, amendments, replacements
+ or cancellations;
+
+	 Effecting	registration	of	trade	or	firm	name
+ and amendment, as well as replacements or
+ cancellations;
+ Issuing work permits, including renewals,
+ replacements, suspensions or cancellations;
+	 Grading	first-grade	construction	contractors;
+ Registering technology transfer agreements
+ and export-oriented non-equity-based foreign
+ enterprise collaborations with domestic
+ investors;
+ Negotiating and, upon government
+ approval, signing bilateral investment
+ promotion and protection treaties with
+ other countries;
+ Advising the government on policy
+ measures needed to create an attractive
+ investment climate for investors.
+In addition, the EIC provides the
+following	free,	confidential	and
+customised services to investors:
+	 Providing	information	on	sector-specific
+ business opportunities, business incorporation
+ procedures and related regulations, and
+ employment regulations;
+ Hand-holding and supporting the investor
+ during the acquisition of land and utilities
+ (water, electrical power and telecom services);
+
+ Processing of loans and residence permit
+ applications; approving environmental impact
+ assessments studies for investment projects;
+	 Issuing	of	a	tax	identification	number	(TIN).
+8.4     OTHER RELEVANT STAKEHOLDER
+          INSTITUTIONS
+
+ Department for Immigration and Nationality
+	 Affairs;
+ National Bank of Ethiopia;
+ Ministry of Trade and Industry Ethiopia.
+
+64
+INVESTOR GUIDE - MINING IN ETHIOPIA  |

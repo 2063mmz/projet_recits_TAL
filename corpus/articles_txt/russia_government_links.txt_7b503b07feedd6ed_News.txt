@@ -1,0 +1,192 @@
+seed_url: http://government.ru/en/news/43949/
+final_url: http://government.ru/en/news/43949/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+26th regular meeting of Russian and Chinese heads of government
+Photos
+30 November 2021
+13:20
+Government House, Moscow
+The meeting was held via videoconference.
+Chinese Premier Li Keqiang’s remarks at the 26th
+regular meeting
+Mikhail Mishustin’s remarks at the 26th regular meeting
+Documents signed following the meeting
+Excerpts from the transcript:
+26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+Mikhail Mishustin at the 26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+Signing of documents during the 26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+Mikhail Mishustin at the signing of documents during the 26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+Yury Trutnev, Tatyana Golikova, Andrei Belousov, Alexander Novak and Dmitry Chernyshenko at the 26th regular meeting of Russian and Chinese heads of government
+30 November 2021
+Предыдущая новость
+Следующая новость
+26th regular meeting of Russian and Chinese heads of government
+Li Keqiang
+(via interpreter)
+Mr Prime Minister, I am very
+pleased to be holding the 26th regular meeting of heads of government with you,
+via videoconference.
+We have recently participated in the SCO Heads of Government Council and
+ASEM meeting. This regular meeting, held online, is an opportunity to look back
+on the past year and assess the development of hands-on cooperation between the
+two countries across all areas, as well as to exchange views on the further
+deepening of interaction.
+China and Russia
+are the largest neighbouring countries. We provide each other with development
+opportunities and are global partners. Moreover, this year we marked the 20th
+anniversary of the signing of the Treaty on Good Neighbourliness, Friendship
+and Cooperation. In this regard, President Xi Jinping and President Putin
+issued a joint statement on the extension of this treaty, which is already
+filled with new content.
+Now our two countries are putting a lot of effort into the COVID-19
+response. Our multifaceted cooperation is growing steadily, showing good
+results. In the first 10 months alone, bilateral trade reached $11.56 billion –
+that is an increase of 30.8 percent. This indicator alone convincingly reveals the
+enormous potential and broad prospects for our cooperation.
+True, the pandemic situation gives us no cause for optimism: new strains
+continue to appear, and it is very difficult to predict how this virus will attack
+us next or whether it is going to get even worse. Moreover, the global economy
+continues to recover sluggishly. The unpredictability and instability of the
+global situation is, if anything, growing.
+Russia and China are leading and at the same time growing
+economies, and in this regard, China
+is ready, together with our Russian partners, to intensify contacts, to improve
+coordination, to jointly reveal the cooperation potential, and increase the
+level of interaction. We are also ready to work together in the fight against
+COVID-19, to ensure the resilience of the global supply and production chains, to
+strengthen green growth, contribute to the sustainable recovery of the global
+economy, and play a bigger role in promoting peace and stability in the region
+and in the world.
+Mikhail Mishustin
+: Mr Li Keqiang, colleagues,
+I am delighted to welcome you to the 26th regular meeting of Russian and
+Chinese heads of government.
+First of all, I would like to extend my warmest greetings to you and to all
+our Chinese friends on an important event – this year, the Chinese Communist
+Party marks its centenary. Our countries carefully preserve their common
+history. We sincerely wish you every success.
+Today, Russian-Chinese relations, our comprehensive partnership and
+strategic cooperation, are at their highest level in centuries, and they continue
+to grow dynamically on the basis of the Treaty of Good Neighbourliness,
+Friendship and Cooperation. The regular meetings of heads of government play a
+significant role in this, as do five intergovernmental commissions, which also
+met during this difficult year despite the coronavirus. We will hear their
+co-chairs’ reports today.
+The leaders of our countries, President Vladimir Putin and President Xi
+Jinping, have instructed the governments to consistently expand hands-on cooperation
+in all areas. We have already achieved good results, primarily, as you have
+just said, in mutual trade. In January-October, bilateral trade grew by 31
+percent to $110 billion, which is a very significant amount.
+By the end of 12 months, we expect to reach new record figures. We are
+determined to bring bilateral trade to $200 billion in the next three years, as
+the heads of states have instructed us.
+Russian-Chinese relations have a special value because they cover all
+areas and opportunities for interaction. Our energy cooperation has become
+complex and truly strategic. The Power of Siberia gas pipeline is operating steadily.
+The delivery of Russian liquefied
+natural gas to Chinese consumers is proceeding on schedule within the framework
+of the joint Yamal LNG project via the Northern Sea Route.
+New achievements have been
+reported in peaceful nuclear projects. The construction of four reactors for
+the Russian-designed nuclear power plants has been launched in China with the
+participation of Russian professionals. Rosatom has interesting cooperation
+proposals. This is especially important in the context of the global climate
+agenda, considering green and safe nuclear power plants produce no greenhouse
+gas emissions.
+Of course, I would like to say a
+few words about our humanitarian ties, which constitute the social basis of
+Russian-Chinese neighbourliness and are strengthening the traditions of
+friendship, which we will pass on to future generations.
+We have held the successful
+China-Russia Year of Scientific and Technological Innovation. The programme
+included over a thousand joint events. Our scientists and researchers exchanged
+experience and developed useful contacts. Another important outcome of the
+cross-yeas was the decision on the participation of Chinese professionals in
+the Russian NICA mega-science project. It offers opportunities for unique
+experiments and will become the driver of our scientific and technical
+cooperation.
+Colleagues, Russia-China
+cooperation is developing amid a complicated international situation.
+Regrettably, some of our foreign partners continue to take unfriendly actions
+towards us, using unfair competition and frequently violating the basic norms
+of the multilateral trade system. Both Russia
+and China
+have to deal with the challenge of illegal sanctions and political and economic
+pressure.
+The best response in this
+situation will be rallying efforts in the interests of joint development based
+on the principles of equality, mutual trust and respect, as well as the
+alignment of the projects underway in the Eurasian Economic Union with China’s Belt
+and Road Initiative. This is important for strengthening connectivity in
+Eurasia, will help ensure the economic progress of Russia
+and China,
+and will create a reliable basis for implementing the idea of the Greater
+Eurasian Partnership proposed by President of Russia Vladimir Putin.
+Mr Li Keqiang, colleagues, we
+have a busy agenda today. There are many strategic issues on it. I am sure that
+we will be able to coordinate practical solutions, which will give additional
+momentum to the further development of comprehensive and multifaceted
+cooperation between Russia
+and China.
+Documents signed
+following the 26th regular meeting of the Russian and Chinese heads of
+government
+Joint Communique on the outcome
+of the 26th regular meeting of the Russian and Chinese heads of government
+Signed by: Prime Minister of the Russian Federation Mikhail Mishustin and Premier of the State Council of the People's Republic of China
+Li Keqiang
+Protocol of the 8th meeting of
+the Intergovernmental Russian-Chinese Commission on Investment Cooperation
+Signed by:
+First Deputy Prime Minister of the Russian
+Federation Andrei Belousov and Vice Premier of the State
+Council of the People's Republic of China Han Zheng
+Protocol of the 18th meeting of
+the Intergovernmental Russian-Chinese Commission on Energy Cooperation
+Signed by: Deputy
+Prime Minister of the Russian Federation
+Alexander Novak and Vice Premier of the State Council of the People's Republic
+of China
+Han Zheng
+Protocol of the 22nd meeting of
+the Russian-Chinese Commission for Humanitarian Cooperation
+Signed by: Deputy
+Prime Minister of the Russian Federation Tatyana Golikova and Vice Premier of
+the State Council of the People’s Republic of China Sun Chunlan
+Protocol of the 25th meeting of
+the Russian-Chinese Commission on Preparing Regular Meetings of the Prime
+Ministers
+Signed by:
+Deputy Prime Minister of the Russian
+Federation Dmitry Chernyshenko and Vice Premier of
+the State Council of the People's Republic of China Hu
+Chunhua
+Protocol of the meeting of the
+co-chairs of the Russia-China Intergovernmental Commission on Cooperation and
+Development of the Far East and Baikal Region of Russia
+and of Northeast China
+Signed by: Deputy
+Prime Minister of the Russian Federation – Presidential Plenipotentiary Envoy
+to the Far Eastern Federal District Yury Trutnev and Vice Premier of
+the State Council of the People's Republic of China Hu
+Chunhua
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/43949/
+Highlight selection

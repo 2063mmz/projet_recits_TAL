@@ -1,0 +1,55 @@
+seed_url: http://government.ru/en/news/51819/
+final_url: http://government.ru/en/news/51819/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk met with Vice Chairman of the Chinese People’s Political Consultative Conference Wang Yong
+7 June 2024
+15:20
+Deputy Prime Minister of Russia Alexei Overchuk and Vice Chairman of the Chinese People’s Political Consultative Conference Wang Yong held a working meeting on the sidelines of the 27th St Petersburg International Economic Forum.
+Deputy Prime Minister Alexei Overchuk meets with Vice Chairman of the Chinese People’s Political Consultative Conference Wang Yong
+7 June 2024
+Deputy Prime Minister Alexei Overchuk meets with Vice Chairman of the Chinese People’s Political Consultative Conference Wang Yong
+7 June 2024
+Предыдущая новость
+Следующая новость
+Deputy Prime Minister Alexei Overchuk meets with Vice Chairman of the Chinese People’s Political Consultative Conference Wang Yong
+Deputy Prime Minister noted that the two countries were celebrating the 75
+anniversary of diplomatic
+relations with an unprecedentedly high level of trade relations and a whole new
+quality of bilateral interaction across all economic sectors.
+The participants expressed
+satisfaction with the mutual support provided to the jointly held high-level
+international events, such as the Boao Forum for Asia and the St Petersburg
+International Economic Forum, which promote constructive and mutually respectful
+dialogue between the stakeholders, which, in turn, helps create a new
+architecture of global trade and economic ties within the multipolar world.
+When discussing bilateral
+cooperation, both sides praised highly its current status and future prospects.
+“Our trade and economic cooperation
+is steady and strong,” Alexei Overchuk said. “In 2023, mutual trade exceeded $240
+billion. Over 90 percent of bilateral payments are made in roubles and yuans.
+Russia is China’s fourth largest trading partner.”
+The parties stated that China was a key trading partner for all EAEU member countries. Interaction is based on the Agreement on Trade and Economic Cooperation as part of the efforts to promote
+the EAEU and the Belt and Road Initiative. According to the Chinese side, the volume of China’s trade in goods with the EAEU members exceeded $311 billion in 2023.
+Both sides confirmed mutual commitment
+to further deepening cooperation in the transport and logistics sector and expanding
+customs and financial cooperation, as well as investment and industrial
+cooperation in high-tech industries, including green energy.
+The parties focused on prospects for deepening cooperation between Russia and the PRC on the international platforms
+of the SCO and BRICS, which offers better conditions for expanding national
+economies and contributes to sustainable growth and confidence-building
+throughout Eurasia.
+“Our joint work in this area will contribute
+to forming a broad seamless space of integration-based interaction in Eurasia,”
+Alexei Overchuk said in closing.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/51819/
+Highlight selection

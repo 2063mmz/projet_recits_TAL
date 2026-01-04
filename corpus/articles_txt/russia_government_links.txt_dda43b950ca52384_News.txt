@@ -1,0 +1,49 @@
+seed_url: http://government.ru/en/news/50130/
+final_url: http://government.ru/en/news/50130/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk sums up the Russian delegation’s first day at the APEC Leaders’ Meeting
+17 November 2023
+10:15
+Alexei Overchuk at the APEC Leaders’ Meeting session “Sustainability, climate and just energy transition.”
+Deputy Prime Minister Alexei Overchuk has delivered his remarks at the APEC
+Leaders’ Meeting session titled “Sustainability, climate and just energy
+transition.” He took part in the APEC Leaders’ Dialogue with the representatives of the APEC Business Advisory Council (ABAC), and went on to brief the media on the outcomes of the Russian delegation’s first day at the APEC Leaders’ Meeting in San Francisco.
+In his remarks, Alexei Overchuk emphasised the APEC countries’
+shared commitment to achieving steady and sustainable growth, which implies
+their ability to interact with one another without barriers, and finding a balance between immediate needs and mitigating human-induced climate impacts.
+“If we are serious about fostering sustainable and inclusive development
+across the region, every economy must be integrated in the global supply and value chains,” the Deputy Prime Minister pointed out.
+During the session on “Sustainability, climate and just energy transition,”
+Mr Overchuk highlighted Russia’s economic growth and its ongoing efforts to diversify its economy. Notably, the country experienced a 2.8 percent increase
+in GDP during the first nine months of 2023, with expectations of reaching 3
+percent by the end of the year. Russia’s trade with APEC economies demonstrated
+a 6.1 percent growth in 2022 year-on-year, followed by an additional 11.8
+percent increase in the first eight months of 2023.
+Alexei Overchuk emphasised the proactive efforts of Russia, EAEU and CIS
+countries to develop the East-West and North-South transport corridors, as well
+as aligning them with China’s Belt and Road Initiative, which made Russia and the entire region more resilient. Russia views an effective research-based and technologically neutral energy transition as a key priority, he said.
+“Russia is a Pacific power and remains a reliable and major energy supplier
+to external markets. We focus on supplying APR economies, having de facto
+shifted our trade flows from the west to the east,” Alexei Overchuk concluded.
+The Deputy Prime Minister took part in the ABAC Dialogue with APEC Leaders.
+ABAC is an entity within APEC tasked with promoting public-private partnerships
+and responsible business practices prioritising not only economic performance
+but also achieving sustainable development objectives.
+Alexei Overchuk then talked to the media, highlighting the packed agenda of the forum’s first day. He noted that the Russian delegation had positive
+contacts with several leaders of APEC economies, while experts continued
+working on the Leaders’ Meeting’s outcome declaration.
+“Tomorrow, APEC leaders will take part in the second session on connectivity and building inclusive and resilient economies. Just as today, we
+are anticipating a meaningful and intensive debate on this subject,” Alexei
+Overchuk said in conclusion.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://government.ru/en/news/50130/
+Highlight selection

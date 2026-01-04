@@ -1,0 +1,107 @@
+seed_url: https://www.pmo.gov.et/speeches/
+final_url: https://www.pmo.gov.et/speeches/
+title: Speeches
+date: Oct. 6, 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Speeches
+Speeches
+More on News
+»  Press Releases
+»     Statements
+»       Articles
+»       Speeches
+» Cabinet Decisions
+Oct. 6, 2023
+ኢሬቻ የሰላምና የዕርቅ በዓል ነው!
+Download here
+Feb. 25, 2023
+Statement at the 36th Ordinary Session of the Assembly of the Union
+Download here
+Jan. 27, 2023
+Pioneering the Possible: Ethiopia’s Green transition solution to the World
+Download here
+Jan. 27, 2023
+እንኳን ለኢየሱስ ክርስቶስ የልደት በዓል አደረሳችሁ!
+Download here
+Jan. 27, 2023
+እንኳን ለብርሃነ ጥምቀቱ በሰላም አደረሳችሁ!
+Download here
+Nov. 30, 2022
+Remarks at the Opening of the 17th Internet Governance Forum
+Download here
+Aug. 27, 2022
+ዛሬም እንደ ትናንቱ÷ ፈተናዎችን በድል ተሻግረን፣ እጃችንን ለምስጋና እንዘረጋለን!
+Download here
+July 27, 2022
+ዛሬም እንደ ትናንቱ ፈተናዎችን በድል ተሻግረን፣ እጃችንን ለምስጋና እንዘረጋለን!!
+Download here
+July 8, 2022
+እንኳን ለ1443ኛው የዒድ አል ፈጥር በዓል በሰላም አደረሳችሁ!
+Download here
+July 8, 2022
+እንኳን ለ1443ኛው ዓመተ ሒጅራ የዒድ አል-አድሐ ዐረፋ በዓል በሰላም አደረሳችሁ፣ አደረሰን!
+Download here
+April 23, 2022
+እንኳን ለብርሃነ ትንሣኤው በሰላም አደረሳችሁ!
+Download here
+April 1, 2022
+የብሔራዊ ምክክሩ አሳታፊነት የሚሳካው ሁሉም ኢትዮጵያዊ በቀናነትና በባለቤትነት ሂደቱን መደገፍ ሲችል ነው
+Download here
+March 1, 2022
+እንኳን ለዐድዋ ድል 126ኛ ዓመት አደረሳችሁ
+Download here
+Feb. 6, 2022
+የአፍሪካ ኅብረት የመሪዎች ጉባኤ በሰላም እና በስኬት እንዲጠናቀቅ አስተዋጽዖ ላበረከታችሁ ምስጋና ይድረስ!
+Download here
+Feb. 5, 2022
+The 35th Ordinary Session of the AU Assembly speech
+Download here
+Jan. 20, 2022
+The GERD as a site of cooperation
+Download here
+Jan. 8, 2022
+የክንደ ብርቱዎች እናት ‘ኢትዮጵያ’ በልጆቿ ትንፋሽ ሰንደቋ ዳግም ከፍ ብሎ ይውለበለባል!
+Download here
+Jan. 1, 2022
+ኢትዮጵያ የምትገነባው በዕውቀት ማዕከላት ውስጥ ነው!
+Download here
+Oct. 8, 2021
+ጠቅላይ ሚኒስትር ዐቢይ አሕመድ መስከረም 24 ቀን 2014 ዓ.መ. ያደረጉት ንግግር።
+Download here
+Oct. 8, 2021
+Prime Minister Abiy Ahmed’s October 4, 2021 speech.
+Download here
+Jan. 12, 2020
+Prime Minister Abiy Ahmed South Africa Speech
+Download here
+Sept. 9, 2019
+Homegrown Economic Reforms Speech
+Download here
+Sept. 9, 2019
+Sudan Final Signing Ceremony Speech
+Download here
+Aug. 19, 2019
+Prime Minister Abiy Ahmed Sudan Speech
+Download here
+July 23, 2019
+ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ሐምሌ 6 ቀን 2011 በአዲስ አበባ ዩኒቨርስቲ የምረቃ በዓል ላይ  ያደረጉት ንግግር
+Download here
+April 29, 2019
+Belt and Road Forum Opening Speech
+Download here
+April 29, 2019
+Belt and Road Forum Leaders Roundtable Speech
+Download here
+April 7, 2019
+Rwanda Genocide Memorial Day Speech
+Download here
+Feb. 12, 2019
+Prime Minister Abiy Ahmed's address at the African Business Health Forum 2019
+Download here
+May 14, 2018
+60th Anniversary of ECA Speech
+Download here

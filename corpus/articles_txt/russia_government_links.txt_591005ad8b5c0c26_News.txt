@@ -1,0 +1,173 @@
+seed_url: http://government.ru/en/news/49883/
+final_url: http://government.ru/en/news/49883/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the SCO Heads of Government Council
+26 October 2023
+09:00
+Bishkek, Kyrgyz Republic
+Mikhail Mishustin attended an expanded format meeting of the SCO Heads of Government Council.
+Group photo of the heads of delegations from the member states of the Shanghai Cooperation Organisation, SCO observer states and invited representatives
+26 October 2023
+Mikhail Mishustin and Chairman of the Board of the Eurasian Economic Commission Mikhail Myasnikovich
+26 October 2023
+Meeting of the SCO Heads of Government Council
+26 October 2023
+Предыдущая новость
+Следующая новость
+Group photo of the heads of delegations from the member states of the Shanghai Cooperation Organisation, SCO observer states and invited representatives
+Heads of delegations from the Shanghai Cooperation Organisation member
+states, observer states, and invited representatives:
+Minister of External Affairs of the Republic of India Subrahmanyam Jaishankar
+First Vice
+President of the Islamic Republic of Iran Mohammad Mokhber
+Prime Minister
+of the Republic of Kazakhstan Alikhan Smailov
+Chairman of the Cabinet of Ministers of the Kyrgyz Republic, Chief of Staff of the Presidential
+Executive Office, Chairman of the SCO Heads of Government Council Akylbek
+Japarov
+Visit
+Meeting of the CIS Council of Heads of Government
+Meeting of the Eurasian Intergovernmental Council
+Mikhail Mishustin’s meeting with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+Mikhail Mishustin’s meeting with First Vice President of the Islamic Republic of Iran Mohammad Mokhber
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang
+Briefing by Alexei Overchuk following the meetings of the Eurasian Intergovernmental Council, the CIS Council of Heads of Government and the SCO Council of Heads of Government
+Premier of the State Council of the People’s Republic of China Li Qiang
+Minister of Foreign Affairs of the Islamic Republic of Pakistan Jalil Abbas Jilani
+Prime Minister
+of the Russian Federation Mikhail Mishustin
+Prime Minister
+of the Republic of Tajikistan Kokhir Rasulzoda
+Prime Minister
+of the Republic of Uzbekistan Abdulla Aripov
+Comment
+Briefing by Alexei Overchuk following the meetings of the Eurasian Intergovernmental Council, the CIS Council of Heads of Government and the SCO Council of Heads of Government
+Maxim Reshetnikov’s comment following the meetings of the Eurasian Intergovernmental Council, the CIS Council of Heads of Government, and the SCO Heads of Government Council
+Prime Minister of the Republic of Belarus Roman Golovchenko
+Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+Deputy Prime Minister
+of Turkmenistan Hojamyrat Geldimyradov
+Secretary-General of the Shanghai Cooperation Organisation Zhang Ming
+Director of the Executive Committee of the Regional Anti-Terrorist Structure of the Shanghai
+Cooperation Organization Ruslan Mirzayev
+General
+Secretary of the CIS Sergei Lebedev
+Chairman of the Board of the Eurasian Economic Commission Mikhail Myasnikovich.
+Mikhail Mishustin’s remarks:
+Colleagues,
+First of all, I would like to convey best wishes to you from President of Russia Vladimir Putin
+and to thank our Kyrgyz colleagues for the warm welcome and their excellent
+organisation of the event.
+I would like to extend
+a special welcome to First Vice President of Iran Mohammad Mokhber. In July,
+Iran joined the SCO as a full member. We invite our Iranian colleagues to join
+in our multifaceted work. We also hope that Belarus will soon complete all the procedures
+and become a member of the organisation.
+As President of Russia
+Vladimir Putin said at the July summit of our leaders, the SCO is firmly committed
+to creating a truly just and multipolar world order based on international law and generally recognised principles of cooperation between sovereign states, with a central, coordinating role for the United Nations.
+Our common priority is to ensure that our countries remain stable in the face
+of the global challenges. It is also necessary to reliably protect people and businesses
+amid growing rivalry and turbulence, as well as the toughening of protectionist
+measures and illegitimate sanctions, which are disrupting commodity and services
+supply chains throughout the world.
+United, we are able to cope with that, as testified by the progressive growth
+of mutual trade. For example, Russia’s trade with the SCO member states grew by more than one-third last year, reaching a record high of almost 18.5 trillion
+roubles. And over the seven months of this year it grew by another 16 trillion
+roubles.
+Our cooperation will be further advanced by the implementation of the economic
+development strategy for this decade. And to be sure, it is necessary to continue
+the work to improve the SCO with account taken of the current geopolitical
+realities.
+A promising area is expanding transport ties. Russia pays heightened, significant attention
+to this topic. We are systematically upgrading the domestic railway and motor road
+network. We have launched several strategic projects that will open additional
+freight delivery opportunities. Specifically, we are consistently forming the North-South and West-East transport and logistical routes and building up the infrastructure capacities of the Northern Sea Route.
+Last year, the Shanghai Cooperation Organisation approved the Concept of Cooperation between the SCO Member States for Developing
+Interconnectivity and Creating Effective Transport Corridors. I suggest that my colleagues join the implementation of this
+important document more proactively and instruct the related agencies to take
+the necessary measures and start developing an international agreement to make
+use of our states’ transport potential. It is also necessary to go on with the drafting of a memorandum on developing motor roads in the SCO space. Let me remind
+you that Russia has come up with this initiative. Our concerted joint efforts
+on the transport track will make it possible to build up trade and develop new
+markets, which will benefit both our people and businesses.
+Mutually advantageous economic cooperation requires that we continue removing
+legal and administrative barriers, while creating an up-to-date payments
+infrastructure. We increasingly often use our national currencies in mutual
+settlements. It would be worthwhile to contemplate the creation of an independent regional mechanism for payments and settlements, as well as the possibility to convert our currencies at national stock exchanges.
+It is important to intensify interaction in fuel and energy, particularly amid
+the current energy price instability and demand-supply imbalance.
+Our Kazakhstani partners have presented their vision for the Strategy
+for Promoting Energy Cooperation among the SCO member states through the end of this decade. We believe this document should incorporate the latest trends and promote practical interaction in the oil and gas sector, the coal industry, and the electric, hydro, and nuclear energy, as well as in renewable and alternative energy sources and in enhancing energy efficiency overall. It is
+essential for us to jointly implement advanced technology and ensure a continuous supply of energy to households and corporate consumers. This should by all means be reflected in the strategy.
+Another objective is to improve food security. Despite external
+challenges, Russia continues to maintain leading positions in the agricultural
+sector. I would like to remind you that last year our grain production reached
+a record-high figure of 158 million tonnes. We have high expectations for a good harvest this year as well.
+Partnerships among SCO member states in agriculture have been governed
+by an intergovernmental agreement for over a decade now. Target objectives and priorities have been updated in the industry-related statements and documents
+adopted at the highest level. So, I’m confident that our relevant ministries
+and agencies will work harder towards this end, particularly with regard to smart
+agriculture and agricultural innovations.
+Let’s do our best to make sure our citizens have access to high-quality
+food. After all, as a reminder, over 40 percent of the world’s population lives
+in the SCO member states.
+We share a common understanding of the growing role of high-tech and green
+technology, innovation, startup businesses, and digital and creative economies.
+Supporting these sectors is critical if we want to ensure the sustainable
+growth of our industries and the well-being of our people. We need to establish
+good interaction based on existing joint agreements with account taken of innovative
+ideas and initiatives, including ideas and initiatives related to climate
+change, standardisation, anti-monopoly regulation, and combatting unfair
+competition, as well as ideas related to customs affairs and the Green Belt
+programme, especially so considering that the current year is declared by the SCO as Year of the Environment.
+A wide variety of people-to-people ties primarily in science, education,
+culture, healthcare, tourism, and sports have always been and will always be a reliable support for the SCO as they enrich our collective historical heritage.
+Training highly qualified professionals is a top priority. Over 60
+percent of foreign students studying at Russian universities are from the SCO
+countries. The SCO Network University which brings together 75 higher education
+institutions from Russia, Kazakhstan, Kyrgyzstan, China, Tajikistan, and one
+from Belarus (an observer country), is successfully operating. We hope India,
+Pakistan, and Iran will join in soon as well. The university offers education
+in the most in-demand fields, such as environmental studies, energy, IT,
+nanotechnology, regional studies, economics, pedagogy, and many others. I’m
+confident that all SCO member states need specialists in these areas.
+Russia spearheaded the creation of the SCO Medical Association which will
+help make healthcare more sustainable across our shared space. This initiative was
+supported by the majority of partners, and we believe time is ripe to begin
+implementing it.
+To facilitate joint scientific research and innovation-driven projects
+within the SCO, we propose establishing a pilot selection mechanism. We can
+draw on the success of the special competitions held at the CIS and BRICS
+platforms which will accelerate the integration of cutting-edge developments in the real economy’s priority sectors.
+In mid-November, St Petersburg will host the United Cultures Forum,
+which will be attended by the SCO, BRICS, CIS, and EAEU member states. We would
+like to discuss prospects for strengthening cultural and humanitarian ties for the benefit of our citizens and invite the relevant ministers from SCO member
+states to this significant event. I’m confident they will enjoy exploring the unique cultural heritage of Russia’s Northern Capital.
+Also, last year in Samarkand, President Putin came up with an idea of establishing the Association of Sports Organisations under the auspices of the SCO. We are grateful to our colleagues who supported this initiative. To provide
+a venue for the athletes to showcase their prowess in fair competition, we
+suggest holding a variety of competitions, including SCO Games, involving
+participants from different countries.
+Friends,
+Our countries’ future lies with the younger generations. We need to encourage the youth to join our integration agenda, to provide them with ample
+opportunities for exchanging experiences, ideas, and getting acquainted with
+our respective traditions and culture.
+President Putin has invited the SCO member states to take part in the World Festival of Youth which will take place in Sochi in March and will help strengthen
+friendship and mutual understanding among our peoples. We are open to your suggestions
+for enhancing the substance of this major event.
+Colleagues,
+I would like to once again express my gratitude to you, Mr Japarov, and all our Kyrgyz colleagues for hosting these events.
+The chairmanship of the SCO Council of Heads of Government will pass to Pakistan for the first time, and we wish our Pakistani partners productive
+work.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/49883/
+Highlight selection

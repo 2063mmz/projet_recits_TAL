@@ -1,0 +1,795 @@
+seed_url: https://www.icrc.gov.ng/assets/uploads/2017/10/Infrastructure-Financing-in-Malaysia.pdf
+final_url: https://www.icrc.gov.ng/assets/uploads/2017/10/Infrastructure-Financing-in-Malaysia.pdf
+title: Infrastructure-Financing-in-Malaysia.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+26  |  NOMURA JOURNAL OF ASIAN CAPITAL MARKETS  |  Spring 2017 Vol.1/No.2 Infrastructure Financing in Malaysia  |  27
+MALAYSIA
+HEE KONG YONG
+ASEAN Advisory
+Infrastructure Financing
+in Malaysia
+M
+alaysia has one of the high -
+est quality of infrastructure
+amongst the ASEAN countries. In
+a study by Goldman Sachs Global Econom-
+ics,*1 Malaysia ranked one of the highest
+in ‘quality score’ at 5.1 compared to South
+Korea (5.9), Thailand (4.6), Indonesia (3.8)
+and Philippines (3.2). In the latest report by
+Asian Development Bank (ADB), Malaysia
+has one of the highest road densities (km
+per 1000sqkm of land area)*
+2  in the region.
+Income growth and urbanisation in the
+country will continue to drive infrastruc
+-
+ture demand particularly in power, roads,
+airports and water.
+Malaysia’s high quality infrastruc
+-
+ture has mainly been due to the govern-
+ment’s unwavering commitment to its
+five-year economic plans (known as Ma
+-
+laysia Plans) to implement the many in -
+frastructure projects. A key factor for the
+successful implementation of the country’s
+infrastructure projects is the adoption of
+public-private partnership (PPP) in the
+early 1980’s. PPP allowed the government
+to launch more infrastructure projects by
+The Tenth Malaysia Plan (10MP) was the
+first 5-Year Plan following the adoption
+of NEM. In terms of infrastructure devel
+-
+opment, the 10MP focused on upgrading
+physical infrastructure to enhance access
+and connectivity; developing a people-cen
+-
+tric public transport system; growing lo-
+gistics and trade facilitation; continuing
+efforts to restructure the water services
+industry; and ensuring effective sourcing
+and delivery of energy.
+During the 10MP, the government
+made large investments in transport, dig
+-
+ital and energy infrastructure in line with
+rising demands for these assets. In the
+5-year period, the road network grew by
+68%, connecting more rural areas to na
+-
+tional economic growth.*4 In the same peri-
+od, cargo and container volume increased
+by 23%, supported by the two major ports
+of Port of Tanjung Pelepas and Port Klang,
+which were amongst the world’s Top 20
+container ports. The number of air passen
+-
+gers grew by 46% in the period, supported
+by a new runway and terminal (KLIA2).
+Under the National Broadband Initiative,
+sharing the burden of funding these proj
+-
+ects with the private sector. This, in turn,
+has made the private sector an important
+engine of national growth.
+ Infrastructure development is
+one of the main drivers in the National
+Transformation Programme (NTP) of Ma
+-
+laysia. The government saw the need to
+transform both the economy and how the
+government was to deliver public services.
+In 2010, the government unveiled the New
+Economic Model (NEM) which aimed to
+transform Malaysia into a high-income na
+-
+tion by 2020.
+In 2010, the NTP was launched to im-
+plement the NEM. The NTP comprises two
+components: the Economic Transforma
+-
+tion Programme (ETP) which was to trans-
+form the economy, and the Government
+Transformation Programme (GTP) which
+was to transform the ways the government
+delivers its mandate to the people in terms
+of public service deliveries. The initiatives
+under the ETP collectively were aimed at
+propelling Malaysia to a high-income na
+-
+tion with Gross National Income (GNI) of
+up to USD 15,000 by attracting investments
+exceeding USD 444 billion by 2020 and the
+creation of 3.3 million new jobs. The thrust
+of the ETP was to transform the economy
+to a private sector-led economy. Of the USD
+444 billion investment required, 92% was
+targeted to come from the private sector
+(while Government-Linked Companies
+(GLCs) are expected to contribute 60% of
+the total investment).*
+3
+Infrastructure
+Development and
+National Transformation
+Programme in Malaysia
+Infrastructure
+Achievements under
+the Tenth Malaysia Plan
+(2011-2015)
+
+Infrastructure Financing in Malaysia  |  27
+almost 56,000 km of fibre was rolled out,
+increasing the penetration to more than
+70% of Malaysia’s households. Under this
+5-year Plan, the Pengerang Integrated Pe
+-
+troleum Complex (PIPC) was started in
+2012, on 9,100 hectares of land, helping to
+improve energy security for Malaysia.
+The Eleventh Malaysia Plan (11MP) will
+build on the achievements of the 10MP.
+The five focus areas are:
+A.  Building an integrated need-based
+　 transport system
+B.  Unleashing growth of logistics and
+　　　enhancing trade facilitation
+C.  Improving coverage, quality, and
+　  affordability of digital infrastructure
+D.  Continuing the transition to a new
+　 　water services industry framework
+E.  Encouraging sustainable energy use
+　　　to support growth
+11MP listed many infrastructure projects
+under each of the focus areas. The govern
+-
+ment intends to achieve balanced econom-
+ic development for the whole country and
+has stated its intention to focus highway
+developments outside the Klang Valley.
+The 11MP will thus focus on rural and
+rural-urban connectivity. Several projects
+were mentioned in the 11MP: The Pan Bor
+-
+Table 1: The Tenth Malaysia Plan (2011-2015) Resulted in the Following Enviable Achievements*5
+Source: The Tenth Malaysia Plan (2011-2015)
+Infrastructure Achievements
+New roads added in the 5 years 93,100 km
+National Road Development Global Index From 1.42 in 2010 to 2.29 in 2014
+Increase in air passengers handled 39%
+Increase in urban rail ridership in the 5 years 32%
+World Bank Logistics Index ranking 29 in 2013 to 25 in 2014
+Household broadband penetration 70% in 2014
+Population served with clean and treated water 95% by 2013
+Sewerage coverage in population 41 million
+Generation capacity added 5,458 MW
+Electricity coverage of population 98%
+neo Highway, the Central Spine Road, Kota
+Bharu-Kuala Krai Highway, and the Lebuh
+Raya Pantai Timur. The completion of the
+West Coast Expressway in 2019 will also
+provide better access to the West Coast of
+Perak and Selangor.
+The government has placed empha
+-
+sis on increasing the usage of public trans-
+port in urban areas. To this end, continu-
+al emphasis is placed on completing the
+Klang Valley Mass Rapid Transit (KVMRT)
+system. The KVMRT system will become
+operational during the 11MP. The KVMRT
+Line 1 traverses 51 km between Sungai Bu
+-
+loh and Kajang, through 31 stations serv-
+ing about 1.2 million people with a daily
+expected ridership of 400,000. Construc
+-
+tion on KVMRT Line 2 started in 2016 and
+is expected to become operational by 2022.
+Additionally, construction on a Light Rail
+Transit (LRT) Line 3 connecting Bandar
+Utama to Klang, running over 36 km and
+serving 25 stations will start in 2017 with
+expected completion in 2020.
+Several of these projects in the 11MP
+have already commenced construction.
+Infrastructure job awards in the first half
+of 2016 (1H16) came to MYR 30 billion, per
+statistics by the Construction Industry De
+-
+velopment Board. This has exceeded the
+MYR 26 billion awarded for the whole of
+2015. The MYR 30 billion should include
+MYR 23 billion worth of Klang Valley Mass
+Rapid Transit 2 (KVMRT 2) jobs. It is esti
+-
+mated that the total infrastructure award
+value for 2016 exceeded MYR 40 billion
+including the Sungai Besi-Ulu Kelang
+Elevated Expressway (SUKE) and Dam
+-
+ansara-Shah Alam Elevated Expressway
+(DASH). There are still the remaining pack
+-
+ages of the KVMRT 2 (estimate over MYR
+5 billion), Pan Borneo Sarawak Highway
+(MYR 11 billion) and West Coast Express
+-
+way (MYR 2 billion), besides the KVLRT 3
+(MYR 9 billion), to be awarded in 2017.
+Beyond 2017, the Kuala Lumpur to
+Singapore High Speed Rail (HSR), estimat
+-
+ed at more than MYR 50 billion, will be
+the single largest infrastructure project.
+A study on the KVMRT 3 (Circle Line) has
+also started positively. Other rail related
+commitments are the Gemas-Johor Baru
+double track rail (MYR 7 billion) and East
+Coast Rail (estimated at MYR 55 billion), the
+latter will help support the development of
+Kuantan Port.
+In addition to these are many proj
+-
+ects that have been announced as part of
+Chinese investments into Malaysia. Many
+of these projects are claimed to be part
+of China’s ‘Maritime Silk Road Initiative’
+(MSRI) even though they may not be. Some
+of these projects are described further be
+-
+low.
+Infrastructure
+Development under the
+Eleventh Malaysia Plan
+(2016-2020)
+Prior to the adoption of the Malaysia Pri-
+vatisation Masterplan (MPM) in 1983, most
+infrastructure development was financed
+through the Government Development
+Budget (DE) as capital items of public goods.
+With the introduction of PPP in Malaysia
+through the MPM, the funding of many
+infrastructure projects was shifted to the
+Financing
+Infrastructure
+Development in
+Malaysia
+
+28  |  NOMURA JOURNAL OF ASIAN CAPITAL MARKETS  |  Spring 2017 Vol.1/No.2 Infrastructure Financing in Malaysia  |  29
+private sector. This has helped to alleviate
+the financial burden on the government.
+Another recent development in Malaysia
+is investment in infrastructure projects by
+Chinese companies under the MSRI. Some
+of these projects will be financed through
+soft loans by Chinese government agencies
+and contractor-financing.
+petitive, efficient and sustainable financing
+models, and to maintain the government’s
+fiscal position through most competitive fi
+-
+nancing and timely disbursement of fund.
+To date, MYR 46 billion has been raised for
+the MRT projects.*
+6  DanaInfra will also be
+raising funds for the first phase of the Pan
+Borneo Highway project (MYR 13 billion).
+The debt will be repaid through annual
+allocation by the government. Most of the
+debt raised by NFPCs is guaranteed by the
+government even though it is not reflected
+in the official public sector debt.
+Despite the various measures to re
+-
+duce budget deficits whilst transforming
+the economy, Malaysia has found the op-
+tions to raise more debt to fund develop-
+ment projects to be decreasing. The debt
+service ratio has been increasing annually,
+rising to 12% in 2016. This has constricted
+the wiggle room for the government to be
+able to raise more debt for both operating
+and development expenditure.
+At the same time, the public debt-to-
+GDP ratio has almost breached the 55%
+mark. This ratio is lower than in most de
+-
+veloped countries and breaching it would
+not normally have any immediate signif
+-
+icant impact on the economy. However,
+to change the ratio limit would require
+the support of opposition lawmakers in
+parliament and this is unlikely to happen
+at present. The government has trans
+-
+ferred some public-sector debt to special
+purpose vehicles and NFPCs and hence
+taken it partially ‘off balance sheet’. The
+public-sector funding options available to
+the government have been limited by this
+55% ratio.
+The NTP has also resulted in the de
+-
+crease in budget deficits over the years.
+The government has worked hard to rein
+in public spending to reduce budget defi
+-
+cits, from 6.7% in 2009 to 3.2% in 2016.
+However, this has constrained the gov -
+ernment’s ability to allocate more funds
+for development expenditure. Some of the
+recent large infrastructure projects have
+been funded through Non-Financial Public
+Corporations (NFPCs) which raised debt
+financing for these projects through the lo
+-
+cal capital market. An example is DanaIn-
+fra which was established pursuant to the
+Malaysian Economic Council’s decision on
+14 June 2010 after in-depth consideration
+for the need to have an Infrastructure Fi
+-
+nancing Entity (IFE) to advise and under-
+take funding for the proposed Mass Rapid
+Transit Project (MRT Project). The main ob
+-
+jectives of the IFE are to set up a separate
+fund-raising activity from infrastructure
+construction, to develop the most cost com
+-
+Public sector debt and budget deficit
+constraints
+5
+0
+10
+15
+20
+25
+30 14
+%
+12
+10
+8
+6
+4
+2
+0
+2007
+MYR Billion
+2008 2009 2010 2011 2012 2013 2014 2015 2016
+Debt service charges
+Debt service charges as percentage of
+ government revenue
+Debt service charges Debt service charges as % of government revenue
+Figure 1: Increase in Debt Service Charges
+Source: Ministry of Finance
+Malaysia launched the MPM in 1983
+which introduced private sector invest -
+ments in public infrastructure. It was com-
+monly known as Privatisation until 2009
+when a dedicated agency, Unit Kerjasama
+Awam Swasta (UKAS, formerly also known
+as 3PU), was set up. UKAS is responsible
+for monitoring and implementing PPP
+projects and acts as secretariat for the gov
+-
+ernment’s projects in the five dedicated
+economic corridors. It also oversees the
+Facilitation Fund from the national budget
+which is used to help bridge the viability
+gaps of PPP projects. Since 1983, many in
+-
+frastructure projects have also been car-
+ried out using the PPP mechanism where
+some of the project risks are transferred
+to the private sector. Because of PPP, many
+of the multi-lane highways in Malaysia
+are tolled, and today, Independent Private
+Producers (IPPs) constitute more that 50%
+of the total power generating capacity of
+the country. Most of the major ports are
+privately owned. The major international
+airports, KLIA1 and KLIA2, are also pri
+-
+vately owned, albeit by a GLC. Some of the
+Financing Infrastructure Development
+through PPP
+MALAYSIA
+
+Infrastructure Financing in Malaysia  |  29
+past failed PPP projects have cost the gov-
+ernment when they had to be bailed out
+or nationalised. These included the Kuala
+Lumpur public transport system. Moving
+forward, there are not many projects left
+that can be carried out via the PPP mech
+-
+anism where the users pay for the services
+or use of the facilities. The government
+has also used the Private Finance Initiative
+(PFI) mechanism, a funding model similar
+to that used in the United Kingdom where
+the government is contracted to pay pri
+-
+vate developers and investors for services
+provided over a long period. Some hos
+-
+pitals and universities have used the PFI
+mechanism. The PFI mechanism is gener-
+ally not suited for developing countries*7
+as it will result in the government carrying
+a contingent liability on its books. This is
+in line with the International Public Sector
+Accounting Standards 32 (IPSAS32). The
+UK Parliamentary Select Committee on
+PFI published a scathing report on the UK
+PFI Programme in 2011, in which it ques
+-
+tioned the rationale of using PFI for many
+public-sector services.*
+8 Malaysia has since
+scaled back the use of the PFI mechanism
+and other similar mechanisms to deliver
+public services to avoid these contingent
+liabilities.
+PPP projects in Malaysia are typically
+funded using non-recourse project-financ
+-
+ing methods. These projects have, in the
+past, helped Malaysia to establish itself as
+a world leading issuer of sukuk or Islamic
+bonds.
+between the two countries. Recent Chinese
+investments into Malaysia include:
+• The setting up of the Malaysian cam-
+ pus of Xiamen University
+• The MYR 7 billion Gemas-Johor Baru
+electrified double tracking rail proj
+-
+ect
+• The Malaysia-China Kuantan Indus-
+trial park, owned jointly by Chi -
+nese investors and Malaysian com-
+panies, and which saw investments
+of more than MYR 6 billion to build a
+steel mill, upgrading of the port and
+other facilities
+• The USD 10 billion deep sea port in
+the Melaka Gateway Project
+• The MYR 18 billion acquisition of
+1MDB’s power assets
+• The Bandar Malaysia property de
+-
+velopment and HSR terminal at Ban-
+dar Malaysia
+There are also several proposed
+mega projects that have been attributed to
+MSRI. Though some projects do not seem to
+relate to maritime projects, they have been
+promoted as part of MSRI, for example the
+Bandar Malaysia project. Each of them will
+have a significant impact on the Malay
+-
+sian economy and will help the country to
+maintain or increase the NTP momentum.
+However, like most of the signed MSRI-re
+-
+lated projects, each of them will have polit-
+ical-economic impact on Malaysia.
+In the 2017 Budget, the Malaysian
+Prime Minister announced the intention of
+the government to build the ECRL.*
+9 This
+mega project would help Malaysia main-
+tain its NTP momentum. The proposed 600
+km, MYR 55 billion project will cut through
+four states, linking Klang Valley, Pahang,
+Terengganu and Kelantan. It will also
+link Kuantan Port and the Malaysia-China
+Kuantan Industrial Park to the West Coast.
+Both projects are deemed to be part of
+MSRI, and hence the ECRL project is also,
+by association, deemed to be part of MSRI.
+ECRL will connect many rural townships
+such as Port Klang, ITT Gombak, Bentong,
+Mentakab, Kuantan, Kemaman, Kerteh,
+Kuala Terengganu, Kota Bharu and Tump
+-
+at, and is part of the larger plan to connect
+rural areas. The government has said that
+the railway link will lower transportation
+costs between the West and East coasts of
+Peninsular Malaysia, bring down prices
+of goods, and reduce travelling time. The
+project, which is part of the East Coast Eco
+-
+nomic Region will be developed in several
+phases over a five-year period. The govern
+-
+The MYR 55 billion East Coast Rail Line
+(ECRL) Project
+Though Chinese investments in
+Malaysia have gained more prominence
+over the last two years with many of the
+proposed projects being declared part of
+the MSRI, the Chinese invested in Malay
+-
+sia even before the One Belt, One Road
+Initiative was announced by Xi Jinping in
+2013. Most of these projects are either For
+-
+eign Direct Investments (FDIs) or PPP with
+no obligations from, or liabilities to, the
+government. Some of these projects are
+deemed to be publicly-funded projects, fi
+-
+nanced through soft loans to Malaysia, for
+example, the East Coast Rail project (ECRL).
+One of the earliest high profile in
+-
+vestments was the property play in Iskan-
+dar Malaysia where Chinese developers
+partnered with local developers to launch
+massive property developments. These
+include Country Garden, R&F Properties
+and Greenland Group which bought large
+strategic land banks. Chinese funding and
+investments into Malaysia are likely to con
+-
+tinue especially given the deepening of ties
+Financing Infrastructure Development
+the Chinese Way
+ment sees this project as crucial to Malay-
+sia and have said that this project should
+not be delayed as it would not only spur the
+country’s transportation industry develop
+-
+ment, but also help to speed up growth of
+small towns along the way. The project
+would also assist in the transfer of technol-
+ogy in the railway industry, he said.
+Malaysia is currently in negotiation
+with China to sign the Framework Financ-
+ing Agreement and Engineering, Procure-
+ment, Construction (EPC) Contract for the
+ECRL project.*10 The Prime Minister paid a
+6-day visit to China last year during which
+sixteen bilateral MOUs were signed. This
+was the third visit by the Malaysian Prime
+Minster to China and underscored the eco
+-
+nomic and financing importance of China
+to Malaysia. It was reported that China was
+set to build and finance the ECRL project
+with the signing of the Framework Financ
+-
+ing Agreement and EPC Contract for the
+project. China is expected to provide soft
+loans with very favourable terms, a 20-
+year repayment period with 7-year no-re
+-
+payment period. The project is expected
+to be fast-tracked and is expected to com
+-
+mence construction in 2017.
+On 15 December, 2016, Malaysia and
+Singapore signed a bilateral agreement to
+jointly develop the 350km HSR. This proj
+-
+ect will reduce the travelling time between
+the two cities by two hours, to approxi
+-
+mately 90 minutes. The HSR serves as an
+alternative mode of public transport travel
+between Kuala Lumpur and Singapore. It
+is seen to be in line with the transforma
+-
+tion of Malaysia by linking the two capital
+cities to meet growing demand, catalysing
+economic growth and enhancing long term
+economic competitiveness while improv
+-
+ing the quality of life of its people. It will
+also help to open and rejuvenate smaller
+cities in Peninsular Malaysia.
+The project is expected to cost
+more than MYR 50 billion.*
+11 The mode
+of financing is still uncertain. There are
+already many companies which have ex
+-
+pressed an interest in bidding for some of
+the works on this project. Like the ECRL
+project, Chinese companies and agencies
+may offer soft loans as part of their bid
+-
+ding strategies.
+Kuala Lumpur – Singapore High Speed
+Rail (HSR)
+The Bandar Malaysia project is a
+property development project that sits on
+500 acres of prime land just 10 minutes
+from the capital city’s centre. This used
+to be the Malaysian Air Force airfield. Its
+Bandar Malaysia and HSR Terminal
+
+30  |  NOMURA JOURNAL OF ASIAN CAPITAL MARKETS  |  Spring 2017 Vol.1/No.2 Philippines:Infrastructure Development is a Priority   |  31
+link to MSRI is that it will also be the Kua-
+la Lumpur Terminal for the proposed HSR
+project that will link Kuala Lumpur to Sin-
+gapore, connecting ports in Malaysia and
+Singapore. This project has been attributed
+to be part of MSRI. The government has
+recently divested 60% of the shares of the
+state-owned company that holds the devel
+-
+opment rights to the land to a consortium
+comprising China Railway Engineering
+Corp (CREC) and Iskandar Waterfront
+Holdings, the master developer of Danga
+Bay in the southern state of Johor (CREC
+Consortium). CREC is a listed company on
+the Hong Kong Stock Exchange. The com
+-
+pany has built a large proportion of the
+HSR projects in China. To date, China has
+more than 20,000 km of HSR tracks.
+Bandar Malaysia’s expected gross
+development value is MYR 160 billion. It
+is a huge development and will feature the
+world’s largest underground city, shopping
+malls, indoor theme parks, a financial cen
+-
+tre as well as the MYR 8.3 billion regional
+headquarters of CREC. When completed, it
+will turn the Malaysian capital into a most
+impressive railway terminal along the so-
+called Iron Silk Route linking Beijing with
+Singapore via Thailand.
+The CREC Consortium is likely to
+use this development to support its bid to
+secure the construction work of the HSR
+project. The funding for this project is not
+clear at this stage, but it is likely that China
+would offer an attractive financing pack
+-
+age as part of its bid.  China has already
+won the bid for the Medium Speed Rail
+(MSR) link between Jakarta and Bandung,
+and is likely to provide loans for the Thai
+-
+land section linking China to the Malaysian
+border.
+There are already significant Chi
+-
+nese investments or joint ventures in Ma-
+laysian ports. For example, Gaungxi Beibu
+Gulf International Port Group has a 40%
+stake in Kuantan Port Consortium and a
+49% stake in Malaysia-China Kuantan In
+-
+dustrial Park. SM International Wholesale
+(China) is operating the Port Klang Inter
+-
+national Trade and Halal Industry Centre,
+and Guangdong province announced that
+it will invest USD 10 billion in a deep-sea
+port in the Malacca Gateway project. Dis
+-
+cussions are also ongoing with the Chinese
+to build another port in Port Klang.
+Malaysia and China have also signed
+a Port Alliance agreement in 2016 which
+laid down the foundation for cooperation
+between ten Chinese ports (Dalian, Shang
+-
+hai, Ningbo, Qinzhou, Guangzhou, Fuzhou,
+Xiamen, Shenzhen, Hainan and Taicang)
+Chinese Investments in Malaysian Ports
+and six Malaysian ports (Port Klang, Malac-
+ca, Penang, Johor, Kuantan and Bintulu).
+This alliance is part of the MSRI.
+HEE KONG YONG
+Senior Advisor, ASEAN Advisory
+HK Yong is a Senior Adviser of ASEAN Advi-
+sory, the consulting arm of Singapore-listed
+Zico Holdings, Inc. He was a Senior Fellow
+with the Institute of Strategic & Internation-
+al Studies in Malaysia where he focused on
+infrastructure development and financing,
+and China’s Road & Belt Initiative. He is also
+an Adviser to the Commonwealth Enter-
+prise and Investment Council in London on
+PPP matters, and an Adviser to Resource
+and Advisory Centre Malaysia. HK was the
+Adviser (Public Private Partnerships) of the
+Commonwealth Secretariat, London, where
+he provided advisory and capacity-building
+support to governments of the 53 Common-
+wealth member countries.
+He edited the book
+Public Private Partner-
+ships Policy and Practice – a Reference
+Guide. He is a member of the Asian Council
+of the International Project Finance Associ-
+ation. He sits on the Boards of listed and pri-
+vate companies.
+MALAYSIA
+Infrastructure plays a pivotal role in the
+National Transformation Programme of
+Malaysia and the development of the coun
+-
+try. It has a tremendous impact on bene-
+fitting the population and on bridging the
+economic gap between the rural and ur-
+ban population. The country will continue
+to urbanize with the many new land and
+air transport infrastructure projects. The
+decision on infrastructure development,
+including the types and the mode of fi
+-
+nancing, will have significant implications
+on their sustainability. The government’s
+ability to fund future projects has been
+constrained by the current large pub
+-
+lic-sector debt and high debt-service ratio,
+exacerbated by declining oil prices which
+has reduced the contributions from the Na
+-
+tional Oil Company, Petronas. Malaysia has
+used PPP to finance many of its infrastruc
+-
+ture projects since 1983 and will continue
+to adopt new PPP funding models. The ma
+-
+jor constraint posed to new PPP projects is
+the ability of users to pay for them. Chinese
+investments in Malaysia’s infrastructure
+projects, whether in the form of FDIs, PPP
+or contractor-financing, will continue to be
+an alternative to the government.
+Maintaining the
+Infrastructure
+Development
+Momentum
+*1 Goldman Sachs Economics Research Issue
+No:13/18, May 2013
+*2 ADB, “Meeting Asia’s Infrastructure Needs,”
+2017
+*3 http://etp.pemandu.gov.my/About_ETP-@-
+Overview_of_ETP.aspx
+*4 Economic Planning Unit, Prime Minister’s
+Department, Eleventh Malaysia Plan (2016-
+2020)
+*5 Economic Planning Unit, Prime Minister’s
+Department, Tenth Malaysia Plan (2011-
+2015)
+*6 http://www.danainfra.com.my/index.php?
+ option=com_content&view=article&id=1
+ 54&Itemid=303
+*7 HK Yong, “Making PPPs work in developing
+countries,” Commonwealth Trade and In-
+vestment Report 2013
+*8 http://www.publications.parliament.uk/pa/
+cm201012/cmselect/cmtreasy/1146/114602.
+htm
+*9 http://www.nst.com.my/news/2016/10/18
+  2241/2017-budget-ecrl-cost-rm55bil
+*10 http://www.bernama.com/bernama/v8/
+newsindex.php?id=1297622
+*11 http://www.thestar.com.my/news/nation/
+ 2017/01/24/mahathir-opposes-hsr-project-
+ malaysiasingapore-contract-not-a-done-
+ deal-if-opposition-comes-to-power/
+Notes

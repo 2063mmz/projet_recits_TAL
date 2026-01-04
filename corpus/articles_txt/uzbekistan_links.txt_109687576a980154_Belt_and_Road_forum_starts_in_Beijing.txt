@@ -1,0 +1,60 @@
+seed_url: https://president.uz/en/lists/view/2528
+final_url: https://president.uz/en/lists/view/2528
+title: Belt and Road forum starts in Beijing
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Belt and Road forum starts in Beijing
+26.04.2019
+The official opening ceremony of the second “One Belt, One Road” International Forum took place in China’s capital city today, April 26.
+President of the Republic of Uzbekistan Shavkat Mirziyoyev has attended the event.
+Opening the forum, President of the People’s Republic of China Xi Jinping expressed gratitude to the heads of all the participating delegations and to numerous representatives of expert and analytical circles.
+The Chinese leader said the Belt and Road project, implemented jointly with international and regional institutions such as the UN, SCO, the European Union, the Eurasian Economic Union, corresponds to the development strategies of various countries and therefore opens up a broad opportunities for economic progress of the world in general.
+There was a talk also on the projects to be implemented to boost international trade and investment relations, to stimulate the creation of new transport and logistics corridors. It was noted that the number of nations participating in the project has been growing; this indicates a mounting aspiration for sustainable development in the world.
+It is worth reminding that the international forum “One Belt, One Road” was first held in 2017. The initiative voiced by China is designed to buttress mechanisms of interstate cooperation through the advancement of land and sea routes. The scheme currently covers 65 countries across Asia, Europe and Africa. In the future, given potential accession of other countries, it will turn into a global economic platform.
+The current forum participants will focus on the enhancement of economic cooperation, enlargement of interaction in finding new sources for long-term growth, promotion of green economy and innovation, and the realization of priority infrastructure projects.
+The forum will last two days. Uzbekistan’s President is set to deliver a speech.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

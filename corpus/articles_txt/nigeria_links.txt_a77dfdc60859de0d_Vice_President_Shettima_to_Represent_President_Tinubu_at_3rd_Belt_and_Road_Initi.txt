@@ -1,0 +1,27 @@
+seed_url: https://statehouse.gov.ng/vice-president-shettima-to-represent-president-tinubu-at-3rd-belt-and-road-initiative-forum-for-international-cooperation-in-beijin-china/
+final_url: https://statehouse.gov.ng/vice-president-shettima-to-represent-president-tinubu-at-3rd-belt-and-road-initiative-forum-for-international-cooperation-in-beijin-china/
+title: Vice President Shettima to Represent President Tinubu at 3rd Belt and Road Initiative Forum for International Cooperation in Beijin, China
+date: October 15, 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+**To Participate In AfDB, World Food Prize-Facilitated Norman E. Borlaug International Dialogue In Iowa, USA*
+The Vice President, Sen. Kashim Shettima, will depart Abuja today for Beijing, China, to represent President Bola Ahmed Tinubu at the upcoming 3rd Belt and Road Initiative (BRI) Forum scheduled to hold from 16th -18th October, 2023
+He will be joining world leaders from over 130 countries in Africa, Asia, Europe and Latin America at the Forum to deliberate on the theme, “High-quality Belt and Road Cooperation: Together for Common Development and Prosperity.”
+The Vice President is expected to avail Nigeria of the platform provided by the Forum to woo investors for more developmental projects.
+He is also billed to hold bilateral meetings with other world leaders to promote Nigeria’s trade and investment relations in line with the economic development agenda of the Tinubu administration.
+The 2023 edition of the BRI will mark the 10th anniversary of the Belt and Road Initiative (BRI) championed by the President of China, Xi Jinping, as an initiative for global infrastructure development strategy.
+Adopted and launched by the government of the Peoples Republic of China in 2013, the Initiative seeks international action to enhance cooperation and promote infrastructure investment in nearly 70 countries across Asia, Africa and Europe through land and maritime routes.
+In 2018, then President, Muhammadu Buhari, on behalf of Nigeria, signed the Belt and Road cooperation agreement with China.
+Nigeria and other partner-countries across the world are to benefit from the initiative in areas of infrastructure investments such as ports, skyscrapers, railroads, roads, bridges, airports, dams and coal-fired power stations.
+The delegation of the Vice President to the Belt and Road Initiative Forum includes the Honourable Minister of Foreign Affairs, Ambassador Yusuf M. Tuggar; the Honourable Minister of Budget and Economic Planning, Sen. Atiku Abubakar Bagudu; the Honourable Minister of Transportation, Senator Sa’idu Ahmed Alkali; the Honourable Minister Of Works, Sen. Engr. David Umahi; the Honourable Minister of Industry, Trade and Investment, Dr. Doris Nkiruka Uzoka-Anite; the Managing Director of the Nigeria Railway Corporation, Engr. Fidet Okhiria, and the Director-General, Infrastructure Concession Regulatory Commission, Michael Ohiani.
+Meanwhile, in pursuance of the food security and diversification policy of the Tinubu administration, the Vice President will, from China, depart for the United States of America, USA, where as the special guest, he is expected to deliver the keynote address at the African Development Bank (AfDB) and World Food Prize – facilitated Norman E.Borlaug International Dialogue slated to commence on October 24th, 2023.
+Vice President Shettima will be joining other distinguished African international leaders and heads of state/government who in the past have delivered keynote addresses at the Borlaug Dialogue. They include former United Nations Secretary – General and AGRA founder, Kofi Annan; World Food Prize Laureates; Ghana President, John Kufuor and AfDB President, Akinwunmi Adeshina; former President Olusegun Obasanjo; Presidents Felix Tshishiked and Joaquim Chissano; Joyce Banda; Ameenah Gurib – Fakim and IFAD President, Kanayo Nwanze, amongst others
+He is expected to highlight reforms being instituted in the Nigerian Agrifood sector by the Tinubu administration and engage several stakeholders, partners and investors in opportunities for investments in Nigeria.
+Several meetings and engagements have been slated for the Vice President who is expected to be back to the country after his commitments in the US.
+*Stanley Nkwocha*
+*Senior Special Assistant to the President on Media & Communications*
+*(Office of the Vice President)*
+*15th October, 2023*

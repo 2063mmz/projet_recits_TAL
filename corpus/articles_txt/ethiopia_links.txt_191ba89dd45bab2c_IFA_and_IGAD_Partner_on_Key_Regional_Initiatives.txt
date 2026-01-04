@@ -1,0 +1,12 @@
+seed_url: https://www.ifa.gov.et/2025/03/14/ifa-and-igad-partner-on-key-regional-initiatives/
+final_url: https://www.ifa.gov.et/2025/03/14/ifa-and-igad-partner-on-key-regional-initiatives/
+title: IFA and IGAD Partner on Key Regional Initiatives
+date: Mar 14, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+A delegation from the Institute for Foreign Affairs (IFA), led by H.E. Mr. Jafar Bedru, met with H.E. Mr. Abebaw Bihonegn, IGAD’s Head of Mission to Ethiopia, and Mr. Camilus Omogo, Director of IGAD’s Early Warning and Response Mechanism (CEWARN), along with other senior delegates at IGAD’s headquarters.
+The meeting focused on fostering collaboration between IFA and IGAD’s CEWARN unit in key strategic areas. Both organizations agreed to work together on initiatives such as developing a conflict data set project, conducting research on transnational issues and climate change, co-organizing policy dialogues and forums, and providing diplomatic training programs.
+This partnership aims to enhance regional stability, improve conflict prevention mechanisms, and support evidence-based policymaking. Both sides reaffirmed their commitment to strengthening cooperation for the benefit of the region.

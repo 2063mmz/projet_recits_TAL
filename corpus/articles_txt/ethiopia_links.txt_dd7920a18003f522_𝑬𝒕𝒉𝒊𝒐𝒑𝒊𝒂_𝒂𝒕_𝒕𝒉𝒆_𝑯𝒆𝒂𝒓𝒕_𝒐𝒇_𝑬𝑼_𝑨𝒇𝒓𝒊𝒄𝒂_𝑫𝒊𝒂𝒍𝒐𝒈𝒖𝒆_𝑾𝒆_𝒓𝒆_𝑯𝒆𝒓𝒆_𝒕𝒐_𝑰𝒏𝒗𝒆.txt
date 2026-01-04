@@ -1,0 +1,15 @@
+seed_url: https://www.ifa.gov.et/2025/11/13/%F0%9D%91%AC%F0%9D%92%95%F0%9D%92%89%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%91%F0%9D%92%8A%F0%9D%92%82-%F0%9D%92%82%F0%9D%92%95-%F0%9D%92%95%F0%9D%92%89%F0%9D%92%86-%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%82/
+final_url: https://www.ifa.gov.et/2025/11/13/%F0%9D%91%AC%F0%9D%92%95%F0%9D%92%89%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%91%F0%9D%92%8A%F0%9D%92%82-%F0%9D%92%82%F0%9D%92%95-%F0%9D%92%95%F0%9D%92%89%F0%9D%92%86-%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%82/
+title: 𝑬𝒕𝒉𝒊𝒐𝒑𝒊𝒂 𝒂𝒕 𝒕𝒉𝒆 𝑯𝒆𝒂𝒓𝒕 𝒐𝒇 𝑬𝑼–𝑨𝒇𝒓𝒊𝒄𝒂 𝑫𝒊𝒂𝒍𝒐𝒈𝒖𝒆: “𝑾𝒆’𝒓𝒆 𝑯𝒆𝒓𝒆 𝒕𝒐 𝑰𝒏𝒗𝒆𝒔𝒕, 𝑵𝒐𝒕 𝑬𝒙𝒕𝒓𝒂𝒄𝒕,” 𝑺𝒂𝒚𝒔 𝑬𝑼’𝒔 𝑨𝒇𝒓𝒊𝒄𝒂 𝑪𝒉𝒊𝒆𝒇
+date: Nov 13, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia’s growing regional role took center stage today as the Institute of Foreign Affairs (IFA) hosted a high-level Fireside Chat with H.E. Patricia Llombart Cussac, Managing Director for Africa at the European External Action Service (EEAS). The discussion, themed “Strengthening EU–Africa Partnership: Dialogue, Development, and Regional Stability,” underscored Ethiopia’s strategic importance in shaping the future of EU–Africa relations.
+Speaking at the event, Llombart Cussac reaffirmed the EU’s strong support for the philosophy of “African Solutions to African Problems (AfSol)”, emphasizing that Ethiopia remains “a central and stabilizing actor in the Horn of Africa.” She noted that the EU is committed to backing African Union–led initiatives in resolving regional issues — including Ethiopia’s quest for sea access, tensions with Eritrea, and broader Horn of Africa peace efforts.
+Referencing the recent EU–Egypt joint statement on the Grand Ethiopian Renaissance Dam (GERD), she clarified that the EU encourages “dialogue and cooperation — not competition or militarization.” She stressed, “No positive or constructive outcomes are expected through militarization. The EU will stand beside African countries, including Ethiopia, to promote diplomacy and sustainable solutions.”
+On the Red Sea and maritime security, Llombart Cussac said the region remains “strategically vital for Europe and Africa alike,” and called for “African Union–led efforts to ensure stability and access.”
+Highlighting the EU’s five-decade partnership with Ethiopia and 25 years of engagement with the African Union, she emphasized the shift toward sustainable and mutually beneficial collaboration. “We are here to stay and invest for the long term — not to extract and leave the continent of Africa,” she said.
+The EU’s vision, she added, is to foster investment, peace and security, good governance, and human rights across Africa, while empowering private sectors on both continents. “European industries and investors are coming to create jobs and integrate African economies — not to exploit, but to grow together,” she concluded.

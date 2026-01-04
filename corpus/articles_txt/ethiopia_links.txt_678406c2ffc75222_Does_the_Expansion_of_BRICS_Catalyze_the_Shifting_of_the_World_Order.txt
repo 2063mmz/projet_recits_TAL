@@ -1,0 +1,52 @@
+seed_url: https://www.ifa.gov.et/2025/11/03/does-the-expansion-of-brics-catalyze-the-shifting-of-the-world-order/
+final_url: https://www.ifa.gov.et/2025/11/03/does-the-expansion-of-brics-catalyze-the-shifting-of-the-world-order/
+title: Does the Expansion of BRICS Catalyze the Shifting of the World Order?
+date: Nov 3, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Introduction
+There is a commonly heard Victor Hugo’s saying: “No one can resist an idea whose time has come”. The genesis of BRICS was one of such thoughts when the term was coined by Jim O’Neil in 2001. Originally, the term ascribed to the emerging economies of Brazil, Russia, India and China which could dominate the world economy by the year 2050 (The Economist, 2023). Some years later, under the initiation of Russia, those four countries announced the formation of a global economic giant dubbed as BRICs on June 16, 2009, at Yekaterinburg, Russia. At the midst, the absence of an African representative from the Global South forced the group to expand its footprint into Africa, resulting South Africa to become the first beneficiary of the BRICS expansion in the history of the bloc.
+From the outset, BRICS founding members had conflicting positions on the expansion of BRICS. In particular, their negotiations for expansion faced significant pressure from China and Russia who advocated for the inclusion of more countries. In contrast, Brazil and India resisted, at least, China’s version of expansion (Daldegan, 2023). Setting aside their differences at the Johannesburg Summit, however, the bloc approved the integration of six new members, mainly from Middle East and North Africa region. These include Argentina, Ethiopia, Egypt, Iran, Saudi Arabia and United Arab Emirates. The inclusion of these countries embolden the bloc’s long serving principle of consensus based approach (East Asia Forum, 2024), thereby structurally increasing their leverage in the global system – such as enabling to adjust the shifting world order in their favor.
+It seems there is a growing consensus on the issue the contemporary world order is shifting toward a multipolar system. Alfred Mccony, the Nation Magazine Newsletter columnist, underscored, “The end of our world order is imminent”, predicting the inevitable dawn fall of the “American designed global order”. In this context, the recent expansion of the BRICS alliance system could further catalyze this shift in a meaningful manner. Several MENA countries which have been traditionally US strong allies now joined the BRICS group. That means, in principle, those MENA countries share the group’s core values and goals, such as the establishment of a multipolar international order without hegemony and the formation of a fairer global governance system (Haibin, 2013). Beyond that the expansion could promote the notion of South-South cooperation, as leverage when time permits.
+The Expansion of BRICS and South-South Cooperation
+The BRICS group endorsed the principle of South-South Cooperation (SSC) since its inception. SSC refers to “
+a process whereby two or more developing countries pursue their individual and/or shared national capacity development objectives through exchanges of knowledge and skills.
+Perhaps relying on this definition, Zhu Jiejin (2015) distinguished between traditional and new SSC models. He characterized the new SSC model in light of substantive elements like mutual respect, equal treatment, mutual benefit based on win-win approaches. Consequently, the new SSC model seeks to the establishment of new international platforms or fundamental transformation in major global institutions. On the other hand, the traditional SSC model insisted on reasonable rights for developing countries in the international system. The impetus of this model is, therefore, reforming existing international systems.
+The distinct categories of SSC models offer the esteemed reader to pose: Does the expanded BRICS vow the reformation of the existing international order or advocate for its fundamental transformation. At the moment, the preference of MENA-dominated BRICS seemed to incline towards the traditional SSC model. For instance, the position of Saudi Arabia and UAE could be cited as a best fit to the traditional SSC model – they might not seek a fundamental change in the US liberal world order. This is because for years “the Gulf was firmly in the US’s orbit with relationships founded on the unwritten compact that Washington would be their security guarantor while Arab oil producers ensured stable global energy supplies” (Financial Times, 2023).  The position of Ethiopia is apparently concurrent with this traditional model. Ethiopia’s Prime Minister, Abiy Ahmed, reiterated that his countries motive behind joining BRICS is not to support, oppose, or harm any group (Xinhua, 2023).
+On the contrary, BRICS dominant founding countries, such as China and Russia’s perspective appears to coincide with the new SSC model. Chinese president, Xi Jinping, for instance, called for a new form of international relations where hegemony is over (United States Institute of Peace, 2023). In general, though the Johannesburg BRICS expansion may show the direction that the BRICS motive in the future is resorting to the traditional SSC model
+the preference of the BRICS bloc pertaining to seeking a reformation or a fundamental transformation in the international order needs further investigation
+Conclusion and Policy Recommendation
+It is hoped that the expansion of BRICS catalyzes the shifting of the world order in favor of the Global South. Against all odds, BRICS could play a vital role in enhancing the South-South cooperation, as the bloc endorsed the principle since its inception. Besides, the formation of the New Development Bank epitomizes the desire of BRICS countries to play a bigger role in the global financial governance, serving as an alternative source of financial system. In this perspective, Ethiopia’s entry into BRICS can be considered as a “golden opportunity”, enhancing its existing relations with Global Powers such as Russia and China. Indeed, the country should insist on the “golden mean” in its foreign relations to escape any hit back from the Western countries. The golden mean would balance Ethiopia’s relation with its traditional Western allies on one hand and members of the expanded BRICS, on the other hand. In general, Ethiopia needs to navigate vigilantly in such a way that BRICS’ membership yields more benefits than costs.
+References
+Daldegan, W. (2023). Opinion – The Expansion of BRICS: Challenges and Uncertainties. E –international.
+East Asia Forum. 2024. China continues to dominate an expanded BRICS available at
+https://eastasiaforum.org
+Jeiji, Z. (2015). New South–South Co-Operation and the BRICS New Development Bank available at
+https://saiia.org.za/
+United States Institute of Peace. (2023). As China Looks to Reform Global Governance, How Does It Approach the U.N.?
+Xinhua. (2023). Ethiopia’s entry into BRICS mechanism to boost economic growth, political cooperation: experts
+About the author
+Suadiq Sufian (Ph.D.),
+Senior Researcher at the Institute of Foreign Affairs He can be reached at Sufiansuadiq8@gmail.com
+Addis Alemahu
+is a researcher in the Institution of Foreign Affairs, specializing in the Multilateral Governmental and Non-Governmental Affairs department. He holds an MA in Journalism and Communication.
+His work focuses on:
+Migration and Refugee Issues
+Peacekeeping and Military Issues
+Socioeconomic Issues
+He has authored numerous research articles, including:
+France’s Military Strategy Revision Plan in Africa and its Implications: Future Challenges & Opportunities for Africa
+Saudi Arabia’s Vision 2030 and Its Regional Implications
+Trajectories and Geopolitical Implications of the Gulf-Horn Interaction
+Militarization and Commercialization of Ports in the Horn of Africa
+For inquiries, you can contact him at
+addisalemahu@yahoo.com
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.
+Image credited: https://www.graphicnews.com/en/pages/44751/economy-brics-expansion

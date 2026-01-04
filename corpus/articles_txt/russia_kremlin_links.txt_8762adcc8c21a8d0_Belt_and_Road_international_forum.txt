@@ -1,0 +1,50 @@
+seed_url: http://en.kremlin.ru/events/president/news/54491/videos
+final_url: http://en.kremlin.ru/events/president/news/54491/videos
+title: Belt and Road international forum
+date: 2017-05-14
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Video
+Belt and Road international forum
+Vladimir Putin spoke at the opening of the Belt and Road international forum in Beijing. The event
+is dedicated to China's projects – the Silk Road Economic Belt and the 21st
+Century Maritime Silk Road.
+Russian President has arrived in China on a two-day
+visit.
+May 14, 2017
+05:20
+Beijing
+Download video
+High quality,
+368.8 MB
+76514694
+Standard quality,
+76.5 MB
+76514694
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+May 14, 2017, 05:20
+Direct link:
+en.kremlin.ru/d/54491
+Text
+Photo
+14m
+Video
+Direct link
+http://en.kremlin.ru/events/president/news/54491
+Telegram
+Copy link
+Send by email
+Last updated at
+June 8, 2017, 16:32

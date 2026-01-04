@@ -1,0 +1,28 @@
+seed_url: https://statehouse.gov.ng/ecowas-chairman-to-african-leaders-we-must-embrace-multilateralism-and-innovate-to-secure-sustainable-peace-and-development/
+final_url: https://statehouse.gov.ng/ecowas-chairman-to-african-leaders-we-must-embrace-multilateralism-and-innovate-to-secure-sustainable-peace-and-development/
+title: ECOWAS Chairman to African Leaders: We Must Embrace Multilateralism and Innovate to Secure Sustainable Peace and Development
+date: September 6, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President Bola Tinubu has called on global leaders to embrace multilateralism and reject protectionism as essential steps towards achieving lasting peace, security, and stability.
+President Tinubu addressed a high-level meeting on peace and security at the 2024 Forum on China-Africa Cooperation (FOCAC), on Thursday in Beijing, China, in his capacity as Chairman of ECOWAS Authority of Heads of State and Government.
+The President noted that the challenges facing today’s world—ranging from food insecurity to armed conflict—can only be addressed through partnerships founded on mutual respect, fairness, and inclusiveness.
+”I thank the African Union for being very consistent in their advocacy for global peace and working towards the realization of its vision for a peaceful and secure Africa as articulated in Agenda 2063.
+”The AU’s Silencing the Guns Initiative has been pivotal in restoring peace across the continent and re-enforcing the call for global peace.
+”Your Excellencies, as the world searches for new ways of establishing an enduring peace amidst complicated and dynamic security challenges across regions, I say that there is an urgent need to rethink the approach to global governance and economic development.
+”Embracing multilateralism and rejecting protectionism and strengthening cooperative partnership is essential if we must achieve lasting peace, security, stability, and prosperity for future generations.
+”We have very little time left and I send sincere appreciation to the People’s Republic of China for its unwavering commitment to building a shared future for the advancement of humanity,” the President said.
+President Tinubu reiterated Nigeria’s commitment to promoting peace, good governance, and security across West Africa while commending China’s contributions to Africa’s development through initiatives like the Belt and Road and FOCAC.
+He also highlighted the importance of confronting the root causes of conflicts, such as poverty, inequality, and social injustice, emphasizing that true peace is not just the absence of war, but the presence of justice, equity, economic opportunity, and human security.
+”Nigeria has played a pivotal role in ECOWAS evolution. Throughout the bloc’s transition from an economic bloc to an integrated regional security architecture for West Africa, Nigeria has been there at the forefront.
+”Nigeria’s leadership has been critical in developing mechanisms for conflict resolution and management.
+”ECOWAS remains deeply committed to upholding good governance, combating terrorism, providing humanitarian aid, and engaging in intensive peacekeeping, diplomacy, and mediation.
+”Nigeria’s approach to fostering peace and stability in West Africa is comprehensive, combining military intervention, diplomatic engagement, dialogue, negotiations, and mutually-beneficial economic collaboration.
+”Nigeria’s unwavering commitment to peacebuilding has solidified its position as a cornerstone of regional stability. We will continue to strengthen our efforts in support of a more secure and prosperous West Africa. I assure you,” the President stated.
+Chief Ajuri Ngelale
+Special Adviser to the President
+(Media & Publicity)
+September 5, 2024

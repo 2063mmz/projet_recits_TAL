@@ -1,0 +1,889 @@
+seed_url: http://government.ru/en/news/56961/
+final_url: http://government.ru/en/news/56961/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+12:00
+Moscow, Russia National Centre
+The meeting is being chaired by Mikhail Mishustin.
+Mikhail Mishustin’s opening remarks
+Remarks by Prime Minister of Belarus Alexander
+Turchin
+Remarks
+by Minister of External Affairs of India Subrahmanyam Jaishankar
+Remarks by Prime Minister of Kazakhstan Olzhas Bektenov
+Remarks by Premier of the PRC State Council Li Qiang
+Remarks by Prime Minister – Head of the Presidential Administration of the Kyrgyz Republic Adylbek Kasymaliev
+Remarks by Deputy Prime Minister and Foreign Minister of Pakistan Mohammad Ishaq Dar
+Remarks by Prime Minister of Tajikistan Kokhir Rasulzoda
+Remarks by Prime Minister of Uzbekistan Abdulla Aripov
+Remarks by Prime Minister of Mongolia Gombojavyn Zandanshatar
+Remarks by Prime Minister and Minister of Foreign Affairs of Qatar Mohammed bin Abdulrahman bin Jassim Al Thani
+Remarks by Secretary-General of the SCO Nurlan Yermekbayev
+Mikhail Mishustin’s closing remarks
+Meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+Group photo session of the heads of delegations taking part in a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+Mikhail Mishustin with First Vice President of the Islamic Republic of Iran Mohammad Reza Aref and Premier of the State Council of the People’s Republic of China Li Qiang before a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation
+18 November 2025
+Mikhail Mishustin with Prime Minister of Mongolia Gombojavyn Zandanshatar
+18 November 2025
+Mikhail Mishustin with Prime Minister and Minister of Foreign Affairs of Qatar Mohammed bin Abdulrahman bin Jassim Al Thani
+18 November 2025
+Group photo session of the heads of delegations taking part in a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+Meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+Mikhail Mishustin during a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format. In the background: Minister of Economic Development Maxim Reshetnikov and Deputy Prime Minister Alexei Overchuk
+18 November 2025
+Minister of External Affairs of India Subrahmanyam Jaishankar during a meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+18 November 2025
+Предыдущая новость
+Следующая новость
+Meeting of the Heads of Government Council of the Shanghai Cooperation Organisation in the expanded format
+List of the heads of delegations from the member states of the Shanghai Cooperation Organisation, observer countries and invited representatives:
+SCO member states:
+Prime Minister of the Republic of Belarus – Alexander
+Turchin;
+Minister of External Affairs of India – Subrahmanyam
+Jaishankar;
+First Vice President of the Islamic Republic of Iran –
+Mohammad Reza Aref;
+Prime Minister of the Republic of Kazakhstan – Olzhas
+Bektenov;
+Prime Minister of the Kyrgyz Republic – Head of the Presidential Administration of the Kyrgyz Republic – Adylbek Kasymaliyev;
+Premier of the State Council of the People’s Republic
+of China – Li Qiang;
+Deputy Prime Minister of Pakistan and Foreign Minister of the Islamic Republic of Pakistan – Mohammad Ishaq Dar;
+Prime Minister of the Russian Federation, Chairman of the Heads of Government Council of the Shanghai Cooperation Organisation – Mikhail
+Mishustin;
+Prime Minister of the Republic of Tajikistan – Kokhir
+Rasulzoda;
+Prime Minister of the Republic of Uzbekistan – Abdulla
+Aripov;
+SCO observer state:
+Prime Minister of Mongolia – Gombojavyn Zandanshatar;
+Dialogue partners:
+Ambassador Extraordinary and Plenipotentiary of the Kingdom
+of Bahrain to the Russian Federation – Ahmed Abdulrahman Al Saati;
+Ambassador Extraordinary and Plenipotentiary of the Arab Republic of Egypt to the Russian Federation – Hamdy Shaaban;
+Prime Minister and Minister of Foreign Affairs of Qatar – Mohammed bin Abdulrahman bin Jassim Al Thani;
+Ambassador Extraordinary and Plenipotentiary of the State of Kuwait to the Russian Federation – Abdulaziz Al-Adwani;
+Invited state:
+Ambassador Extraordinary and Plenipotentiary of the Turkmenistan to the Russian Federation – Esen Aydogdyyev;
+SCO bodies:
+SCO Secretary General – Nurlan Yerkembayev;
+Director of SCO Regional Anti-Terrorist Structure
+(SCO-RATS) Executive Committee – Ularbek Sharsheyev;
+President of the China Development Bank, current chair
+of the SCO Interbank Consortium – Tan Jiong;
+Chair of the SCO Business Council – Ren Hongbin;
+International organisations:
+Secretary General of the Commonwealth of Independent
+States – Sergei Lebedev;
+Chairman of the Board of the Eurasian Economic
+Commission – Bakytzhan Sagintayev;
+Deputy Secretary General of the Conference on Interaction and Confidence Building Measures in Asia (CICA) – Farid
+Damirli.
+Excerpts from the transcript:
+Mikhail Mishustin:
+Colleagues,
+We are continuing our work at the Russia National
+Centre – now in an expanded format, with the participation of the invited heads
+of government and leaders of international organisations.
+I would like to extend a warm welcome to all those
+attending this meeting, including Mr Zandanshatar, Prime Minister of Mongolia,
+an SCO observer state, as well as Mr Al Thani, Prime Minister and Minister of Foreign Affairs of the State of Qatar, and all our guests.
+I propose we now proceed with our remarks in accordance with the approved agenda.
+Allow me to begin on behalf of the Russian Federation.
+At the September summit in China, President of Russia
+Vladimir Putin observed that the Shanghai Cooperation Organisation “brings together
+like-minded partners committed to shaping a just, multipolar world order.”
+Last year, the combined exports of our member states
+accounted for approximately 20 percent of the global total. Meanwhile, the SCO’s share of global gross domestic product reached one-third. By the end of this year, forecasts indicate it will grow even further – to 35 percent.
+Today, the Shanghai Cooperation Organisation comprises
+10 member states, two observer nations, and already 15 dialogue partners. The organisation’s geography spans almost the entirety of Eurasia. It is imperative
+that we harness this formidable collective potential to the fullest extent to improve the prosperity of our citizens.
+This has been our focus during Russia’s chairmanship
+of the Heads of Government Council. We have prioritised further advancement of trade, economic, investment, and financial collaboration. We have actively
+engaged with the Business Council, the Youth Council, the Interbank Consortium,
+the Forum of Heads of Regions, and other joint structures.
+It is crucial to establish a fair and sustainable
+model for energy development, one that aligns with the principles of equality,
+mutual responsibility, and technological partnership.
+To strengthen transport connectivity, we must expand
+the infrastructure of international corridors, create favourable conditions for road transport, and deploy cutting-edge digital technologies and services.
+In the agricultural sector, we propose enhancing
+cooperation in breeding, seed production, and innovative farming. This will
+enable us to increase production, ensuring our consumers have access to a diverse range of high-quality foodstuffs – a vital contribution to global food
+security and the stability of agricultural markets.
+To implement our joint plans, we require a reliable
+and independent financial infrastructure. A specialised expert group, initiated
+by Russia, will oversee its improvement. I would like to express my gratitude
+for the support extended to this proposal.
+Colleagues,
+Our collaboration spans the most promising areas,
+including innovation, artificial intelligence, space technology, the platform
+economy, and the climate agenda. During Russia’s chairmanship, we have placed
+particular emphasis on strengthening technological sovereignty and deepening
+our industrial cooperation.
+Another area of growth for our economies lies in the creative industries. According to expert estimates, SCO member states account
+for some 37 percent of global exports in this sector. Our potential is even
+greater. To unlock it fully, we must launch joint projects and introduce
+mechanisms to support entrepreneurs in this field. I trust that all will
+contribute actively to addressing these tasks. Tens of millions of talented
+individuals reside within the SCO space, and we must support their creative
+endeavours.
+Our peoples are bound by a shared historical memory
+and mutual respect for one another’s cultures and traditions. Together, we
+marked the 80
+anniversary of the end of the Second World War and the founding of the United Nations. We have ample opportunities to deepen
+cooperation in science, education, healthcare, youth exchanges, culture, the arts, tourism, and sport. Such initiatives are undoubtedly in demand among our
+citizens, and we must expedite their practical implementation.
+Colleagues, friends,
+The guiding principles for our future joint efforts
+were endorsed by the heads of state in the SCO Development Strategy until 2035.
+President of Russia Vladimir Putin emphasised that this strategy outlines the key areas of the SCO’s activities in politics, the economy, security, and culture. I am confident that, through our combined efforts, we will ensure the fulfilment of these strategic plans.
+Thank you for your attention.
+I now yield the floor to Prime Minister of the Republic of Belarus Alexander Turchin. Please.
+Alexander
+Turchin
+Mr Mishustin, colleagues,
+Established
+initially as an association for political dialogue and regional security, the Shanghai Cooperation Organisation has substantially expanded in almost 25
+years, incorporating new member states and partners, to become an influential
+dialogue platform for solving a wide range of issues for the peaceful
+co-existence and prosperity of our countries and nations.
+The Tianjin Declaration of the SCO Council of Heads of State, along with the package of documents adopted by our leaders in China, fully reflects the diversity of our joint efforts.
+As global economic instability persists, coupled with unilateral coercive
+measures, the mutually beneficial partnership within the SCO largely relies on its economic component. The importance of economic cooperation in ensuring
+regional security has been confirmed during the discussion at the high-level
+3rd International Conference on Eurasian Security that Minsk had the honour to host in late October. According to the World Bank, in 2024, the average
+economic growth across the SCO exceeded the average global growth rate by almost 100 percent, while mutual trade has been growing year after year. The SCO’s economic potential truly has no limits.
+The President of Belarus presented our country’s key proposals on strengthening the SCO region’s economic independence at the summit in Tianjin.
+These
+proposals include fostering dialogue on streamlining trade within the SCO to eliminate trade barriers, increasing trade and investment, and creating an independent financial mechanism to lower sanction pressure.
+As the share of national currencies in foreign trade and investment gradually
+grows, we can boost the effectiveness and autonomy of our economic cooperation.
+However, this requires building our own payment infrastructure. In this
+context, we support the idea of creating the SCO Development Bank that is
+expected to fully operate across the member states, providing additional
+stability and predictability to our economic links and satisfying the growing
+demand for investment and financing.
+Another
+task is to create a global Eurasian transit hub, including on the EAEU –
+SCO track, to reduce transaction costs for businesses, expand the access to European and Chinese markets for Central and South Asian countries, and to step
+up the stability of trade flows under external pressure.
+Our
+job is to implement these proposals as soon as possible. It is certainly
+important to increase industrial cooperation and create steady production
+chains, which should strengthen our technological independence and reduce our
+dependence on external markets. One of the essential vectors of cooperation
+within the SCO is to ensure food security.
+Belarus
+fully ensures food security and is highly ranked among global food exporters.
+We are willing to share our experience here.
+The wealth of any country is its people. Our current agenda includes expanding
+cooperation in education. Belarus proposes establishing a programme for young
+diplomats from SCO countries. If supported, we are ready to work out the practical details of this proposal.
+see great potential in creating regional professional training centres for technology-intensive industries such as robotics, industrial automation and information technology. We should discuss the possibility of SCO universities
+and colleges developing joint curricula specialising in these areas and organising internships at high-tech facilities and research laboratories.
+These
+new professionals will become a strong asset for developing and transforming industrial
+production across the SCO.
+The development of tourism is equally important. We support creating joint
+programmes promoting medical tourism, especially spa and wellness – the areas
+where Belarus can offer enormous expertise and advanced infrastructure. We will
+be able to boost our shared tourism potential and strengthen people-to-people
+contacts within the SCO space. When it comes to transport and logistics, one
+practical step would be boosting air transportation between the SCO cities –
+not only capitals but also regional centres. Direct flights will stimulate the development of interregional business relations and tourism.
+Colleagues,
+our shared goals should find implementation in specific projects, cooperation
+initiatives and results that will be noticeable and tangible in every person’s
+life within the SCO. This is our organisation’s biggest mission. I call for your active efforts on that. Thank you.
+Mikhail
+Mishustin:
+Thank
+you, Mr Turchin.
+I would like to give the floor for India’s Minister of External Affairs Subrahmanyam
+Jaishankar.
+Subrahmanyam
+Jaishankar
+: Prime Minister Mishustin, excellencies, dear colleagues,
+Let me congratulate the Russian Federation, our special and privileged
+strategic partner, on the presidency of the SCO Council of the Heads of Government this year. The theme of this session covers trade, economic,
+cultural and humanitarian cooperation. Let me summarise India’s approach to the trade and economic issues that were discussed in the last session.
+We assess the global economic situation to be particularly uncertain and volatile currently. Supply-side risks have been aggravated by demand-side
+complexities. There is consequently an urgent requirement to de-risk and diversify. This is best done by as many of us forging the widest possible
+economic links. For that to happen, it is essential that this process be fair,
+transparent and equitable. India’s endeavours to conclude free trade
+arrangements with many of you here are relevant.
+Regarding culture, India’s longstanding historical ties with SCO members
+makes it particularly pertinent. Against this backdrop, Prime Minister Modi
+proposed at the Tianjin SCO Summit to launch an SCO Civilizational Dialogue
+Forum.
+As a civilizational state, India strongly believes that people-to-people
+exchanges lie at the core of any genuine relationship. Facilitating greater
+interaction between our intellectuals, artistes, sports people and cultural
+icons will pave the way for deeper understanding across the SCO.
+We also have a growing record of collaborative activities with regard to cultural exchanges. The exposition of sacred Buddhist relics in many of your
+countries is a notable example. India is also willing to extend its
+considerable experience of heritage conservation in Southeast Asia to Central
+Asia.
+Regarding humanitarian cooperation, this is important in an era of climate change, pandemics and conflicts. Recognizing that, we have provided
+cancer treatment equipment to some SCO members. Similarly, India’s supply of vaccines
+and essential medicines reflected that commitment during difficult times.
+During the recent earthquakes in Afghanistan, Indian relief assistance reached
+the affected areas the very same day. Our initiative for the Coalition for Disaster Resilient Infrastructure also merits your attention.
+Let me now turn to the modernization of SCO. As the organization
+continues to evolve, India strongly supports its reform-oriented agenda. We
+welcome centres addressing challenges such as organised crime, drug trafficking,
+and cybersecurity. As the organisation becomes more diverse, the SCO must be
+more flexible and adaptable. To this end, the long-delayed decision to make
+English an official language of the SCO must be prioritised.
+Colleagues, Excellencies, we all recognize that the SCO must keep up
+with contemporary changes. That must be reflected in fresh thinking and new
+collaborations. India’s initiatives, such as the SCO Special Working Group on Startups and Innovation and the SCO Start-Up Forum are good examples. They are
+aimed at promoting innovation and creativity, especially targeting the younger
+generation. Similarly, the recent SCO Young Authors Forum in New Delhi is a good way of strengthening people-to-people ties.
+Excellencies, we must never forget that the SCO was founded to combat
+the three evils of terrorism, separatism and extremism. These threats have
+become even more serious in the years that have passed. It is imperative that
+the world display zero tolerance towards terrorism in all its forms and manifestations.
+There can be no justification, no looking away, and no whitewashing. As India
+has demonstrated, we have the right to defend our people against terrorism and will exercise it.
+In conclusion, India believes that SCO must adapt to the changing global
+landscape, develop an expanded agenda and reform its working methods. We will
+contribute positively and fully to these objectives.
+I thank you.
+Olzhas Bektenov:
+Mishustin, heads of the delegations and participants in today’s meeting,
+First of all, I would like to thank the Russian
+side and personally you, Mr Mishustin, for the warm reception and a high level
+of today’s event organisation. Russia’s chairmanship of the Heads of Government
+Council has provided a considerable impetus to strengthening economic, trade,
+investment, cultural, and humanitarian ties in the region.
+This Council meeting is taking place in an expended
+format involving partners in dialogue, which evidently shows our desire to use
+new formats of interstate relations for the benefit of peace and progress.
+Given current global challenges, the Shanghai Cooperation Organisation is
+working on long-term solutions to achieve sustainable development goals and overcome contemporary threats. We believe it is essential to go on building up
+the SCO’s potential, primarily proceeding from its unshakeable foundations and enhancing
+trust, friendship, and neighbourliness.
+I am confident that today’s meeting will not only
+allow us to comprehensively assess the progress of implementing the tasks that
+the organisation faces, but also make a tangible contribution to its further
+development.
+Colleagues, almost a quarter of a century ago
+establishment of the SCO was associated with the need for joint efforts to utilise
+the opportunities presented in the 21
+century. Today, the SCO
+countries already amount to a third of the global GDP, with their internal
+trade reaching $1 trillion.
+Boasting a considerable economic potential, our
+organisation strives for a comprehensive economic growth on the basis of equal
+partnership. At the summit in Tianjin, President of Kazakhstan Kassym-Jomart
+Tokayev supported the SCO’s practical efforts aimed to develop free and fair
+international trade.
+In this regard, it is crucial to foster and effectively utilise the available resources to promote reliable trade. Another major
+step could be the creation of a SCO Development Bank as well as the introduction of a mechanism to support investment projects. We express our
+readiness to involve the capabilities of the Astana International Financial
+Centre for promoting specific projects.
+It is also necessary to increase transport
+connectivity. In the World Bank’s estimate, successful implementation of the transport and logistics projects under the Belt and Road Initiative will
+stimulate the global trade growth up to six percent annually. Currently,
+Kazakhstan acts as a key transit hub in Eurasia. Over the last five years alone,
+the transit freight via our country has almost doubled.
+There are plans to keep on increasing Kazakhstan’s
+transit potential up to 100 million tonnes by 2035. Five railway corridors
+run across our country. We intend to continue working to enhance our transport
+potential, including by expanding port infrastructure on the Caspian Sea.
+Another important area is the effective use of artificial intelligence. Amidst the global digitalisation, the SCO is becoming
+a flagship of AI development. We deem it timely to establish a permanent SCO
+expert forum on artificial intelligence, which will hold its first meeting on the sidelines of the Digital Bridge international forum in Astana next year. On the whole, Kazakhstan has set itself an ambitious goal of becoming a full-fledged digital country within the next three years.
+Another fundamental issue is the balance between sustainable growth and environmental protection. The difficult environmental
+situation, including the degradation of water resources, demands joint efforts
+to develop effective strategies to overcome these challenges. Kazakhstan
+proposes establishing a SCO Water Issues Research Centre and inviting member
+states and partner countries to participate in a regional environmental summit
+to take place in Astana next year.
+The SCO stands out for its vast civilisational
+heritage, and its greatest asset is the Shanghai Spirit of respect for cultural
+diversity. I believe that significant initiatives such as the Kazakhstan
+Congress of Leaders of World and Traditional Religions, in synergy with China’s
+Global Civilisation Initiative, will contribute to strengthening inclusivity
+and equality in the world.
+Mr Prime Minister, colleagues,
+The Shanghai Cooperation
+Organisation is not only a platform for cooperation but also a space for building trust, which is particularly important in our dynamic and turbulent
+world. Our responsibility for the common good, as well as the need to respond
+to contemporary challenges, requires collective approaches and coordinated
+decisions.
+We support the agreed-upon
+documents included in the agenda and are ready to work on their implementation.
+I am confident that the results of today’s meeting will lay the foundation for multifaceted regional cooperation for the benefit of our nations.
+Thank you for our attention.
+Mikhail Mishustin:
+Thank you, Mr Bektenov.
+I now invite Li Qiang, Premier of the State Council of the People’s Republic of China, to take the floor.
+Li Qiang
+via
+interpreter
+): Mr Prime Minister, colleagues,
+It is a pleasure to meet with you
+again at the regular meeting of the SCO Heads of Government Council. Over the past year, the international situation has undergone significant changes:
+unilateral sanctions and protectionism, particularly through the use of trade
+and economic barriers such as elevated tariffs, have seriously disrupted the international trade and economic order and posed severe challenges to the development of many countries.
+At the SCO summit in Tianjin in September,
+President Xi Jinping introduced the Global Governance Initiative, clearly
+outlining the principles, methods, and pathways for strengthening and improving
+global governance, and proposing to draw upon China’s experience to jointly
+address global transformations and respond to pressing challenges.
+As an important force in shaping
+and reforming the global governance system, the SCO is both competent and capable of playing a greater role in supporting global governance under the framework of this initiative.
+First, it is necessary to make full
+use of the SCO’s unique advantages. Since its inception, the organisation has been
+actively engaged in international and regional affairs, and has developed a set
+of distinctive principles and mechanisms that create favourable conditions for implementing the Global Governance Initiative. Above all, I would emphasise the high level of unity in beliefs, which from the very beginning affirmed a commitment to promoting a more democratic, just, and rational international
+political and economic order.
+For many years, the SCO has
+steadfastly adhered to the Shanghai Spirit of mutual trust, mutual benefit,
+equality, consultation, respect for cultural diversity, and the pursuit of shared development. All of this fully aligns with the core principles of the Global Governance Initiative.
+Next, we have a wealth of practical experience.
+The SCO member states, having surmounted historical, cultural, and social
+system differences, and having adeptly resolved contradictions and disagreements, have progressively fortified trust and coordination. They have charted a new path of unity in diversity, a new path of mutual assistance, and a new path of constructive collaboration. This endeavour
+has effectively safeguarded peace, stability, and development within our
+region, serving as a successful model for the enhancement of the global
+governance system.
+Furthermore, we benefit from robust
+institutional support. Rather than constituting exclusive clubs for a select
+few, the SCO remains committed to a path of open partnership with like-minded
+actors. Over 50 cooperation mechanisms have been established across fields such
+as politics, economy, security, culture, and others, serving as effective
+platforms for equal dialogue in pursuit of shared development. We must fully
+exploit these advantages to achieve new successes in addressing global
+governance challenges.
+Secondly, we must focus on development and security.
+Enhancing the global governance system is
+unattainable without consolidating common understanding or coordinating actions.
+At present, the pressing issues of our era are being addressed through
+development and a stable, secure environment. It is essential to promote
+development and security through cooperation to achieve greater results in governance.
+First: building an open and inclusive global
+economy, reducing barriers, expanding openness, ensuring the smooth functioning
+of trade and economic cycles, and reviving economic growth are the shared
+aspirations of the international community.
+China stands ready to collaborate with all SCO
+partners to intensify efforts in aligning advancement strategies. We will
+jointly advance the high-quality development of the Belt and Road Initiative,
+implement the action plan for high-quality development of trade and economic cooperation,
+and accelerate progress on ensuring infrastructure connectivity and the free
+flow of goods and capital, as well as on enhancing the resilience of supply
+chains and economic globalisation.
+Second: promoting universal security and lasting
+peace. Amidst international turbulence, the SCO must further fortify its
+security cooperation mechanisms. The Chinese side is prepared to join forces
+with all partners in establishing a Security Centre and relevant units to ensure their practical operation in the near future.
+In a turbulent world, it is essential that we
+act boldly as a stabilising force. We must assist the international community
+in upholding multilateralism and fairness, while addressing mutual security
+concerns for the sake of common peace and tranquillity.
+Third: unlocking innovative potential for shared
+advancement. Digitalisation, artificial intelligence, and mutual development
+are critical directions for future progress.
+To strengthen global governance, it is essential
+to call on all parties to coordinate efforts in relevant areas to share in the common outcomes. It is vital to cultivate new drivers of development.
+Technological achievements, particularly
+artificial intelligence, are the common heritage of humanity.
+Attempts to artificially erect barriers to scientific exchange and create technological divides could exacerbate the already challenging global situation. We urge all SCO participants to enhance
+cooperation in science, technology, and industrial innovation.
+We will be pleased to see your active
+participation in the SCO Digital Economy Forum and the China-SCO AI Cooperation
+Forum. We are prepared to make joint efforts to establish and develop the China-SCO digital economy cooperation platform and the China-SCO Centre for Scientific,
+Technological and Innovation Cooperation, ensuring that technology advancements
+become accessible benefits for the peoples of all nations.
+It is crucial to create synergy in green
+transformation. Within the SCO, priority has always been accorded to energy
+cooperation. We must continue to collaborate on the environmental and energy-saving aspects of traditional energy, as well as on developing renewable
+energy generation capacity, thereby contributing to the global efforts to tackle climate change.
+We also intend to work with SCO partners over
+the next five years to consistently advance projects for the creation of an additional 7 million kWh of photovoltaic and wind power generation capacity in an effort to foster regional and global sustainable development.
+China is ready for close cooperation. We are
+prepared to enhance mutual support and strengthen solidarity, working hand in hand to advance global governance and uphold peace, stability, and prosperity
+in the region and the world at large, for the sake of a shared and splendid
+future.
+Thank you for tour attention.
+Mikhail Mishustin:
+Thank you, esteemed Mr Li Qiang. Our next speaker is Chairman of the Cabinet of Ministers of the Kyrgyz Republic Adylbek Kasymaliyev. Please go ahead, the floor is yours.
+Adylbek Kasymaliyev:
+Esteemed Mr Mishustin, esteemed heads of delegations, I am genuinely
+pleased to welcome the participants of this meeting of the SCO Heads of Government Council.
+I join in expressing gratitude to the Russian side and extending my appreciation to Prime Minister Mikhail Mishustin for the traditionally warm
+hospitality and excellent organisation of today’s meeting. I am confident that
+the outcomes and decisions adopted at this meeting will give another boost to the capability of our organisation.
+I would also like to congratulate our Chinese colleagues on the successful
+2024–2025 SCO chairmanship. For our part, the Kyrgyz side, which assumed
+chairmanship of our organisation in September, has energetically begun carrying
+out this important mission in accordance with the Kyrgyz Republic SCO
+Chairmanship Concept.
+We will keep working to further strengthen the international standing of the SCO and promote its role as an important component of the international
+economic order.
+Esteemed colleagues, our chairmanship is held under the motto, 25 years of the SCO: Together toward sustainable peace, development, and prosperity.
+The President of the Kyrgyz Republic, esteemed Sadyr Japarov, outlined at the summit in Tianjin the top priorities of the Kyrgyz Republic’s SCO chairmanship,
+which include expanding economic cooperation, establishing effective financial
+mechanisms within the SCO, and enhancing cooperation in ensuring regional
+security and stability throughout the organisation’s space. We look forward to our colleagues actively participating in the scheduled events both in Kyrgyzstan and other countries.
+In times of global changes in international politics and economics, it is crucial
+to join efforts in order to overcome current economic challenges. Implementing
+previously adopted decisions that are included in key documents and are aimed
+at deepening economic integration and increasing our region’s competitiveness
+is our shared top priority. In this context, the SCO Development Strategy to 2035 will serve as a guide for our joint actions over the next ten years.
+Esteemed colleagues, Kyrgyzstan views the SCO as a key platform for deepening economic integration, strengthening mutual trade, attracting
+investment, and introducing innovations. Kyrgyzstan’s trade and economic
+cooperation with the SCO countries shows a steady positive dynamic.
+From 2020 to 2024, our trade with the SCO countries increased by 3.5 times.
+The SCO countries account for 75 percent of Kyrgyzstan’s total trade for the first eight months of the current year. To maintain this positive dynamic, we
+must continue strengthening trade ties and developing joint innovations.
+In this regard, allow me to draw your attention to five key areas.
+First is the simplification of trade procedures. Under the circumstances,
+eliminating barriers to mutual trade takes on particular importance. We strongly
+support the digitalisation of customs operations. In Kyrgyzstan, the introduction of the Smart Customs system has reduced the time required for clearing goods from five hours to one hour. We advocate for streamlining and upgrading
+our border checkpoints. We believe that simplifying trade procedures and improving the efficiency of checkpoints will boost trade.
+Second, transport connectivity. Today, Kyrgyzstan is building international
+railways, motorways, and air routes. We are prepared to contribute as best we
+can to strengthening connectivity within the SCO space and serve as a reliable
+transport hub within our organisation.
+Among the practical efforts to increase the SCO’s transport potential, I would like to highlight projects currently being implemented in Kyrgyzstan.
+Undoubtedly, the construction of the China-Kyrgyzstan-Uzbekistan Railway, which
+is moving at a fast pace, is our flagship project. We have also begun the construction
+of a new international Barskoon-Bedel-Aksu Motorway, which will provide an alternate
+transport artery between Central Asia and China.
+Kyrgyzstan is interested in the early accession to the trilateral
+intergovernmental agreement on international road transport along the Asian motorway
+network between Russia, China, and Mongolia. The second air corridor between
+Kyrgyzstan and China, which opened on October 30, will help expand air
+connectivity between the SCO countries and Southeast Asia.
+Third, investment and finance. To ensure sustainable growth of the entire
+SCO region, we see significant potential in promoting financial and banking
+cooperation, and introducing modern financial tools. We support the transition
+towards wider use of national currencies in payments, as well as the creation
+of an alternative stable international payment system. We believe time is ripe
+to establish the SCO Development Bank, as it would become a key financial tool
+for supporting joint projects.
+The SCO plays a key role in attracting foreign direct investment and stimulating regional growth. I believe it is important to coordinate investment
+projects, including joint industrial, energy, and infrastructure initiatives.
+Fourth, digitalisation. Today, the SCO is fully in line with the digital
+age, serving as a platform for sharing knowledge and best practices in cybersecurity, e-governance, and improving digital literacy.
+Speaking of practical steps, the Kyrgyz Republic proposes considering a joint SCO initiative on creating data processing centres and regional
+high-performance computing capacities. Developing such centres is a strategic move.
+It will not only ensure secure data storage in the region and improve the efficiency of cross-border digital services, but also create a foundation for training AI models using local data. The Kyrgyz side proposes placing one of the regional data processing centres on its territory and using our growing
+digital potential and favourable conditions for energy-efficient placement of capacities. Creating this infrastructure will be an important step towards creating
+single digital space and strengthening technological sovereignty.
+We prioritise the role of youth in developing innovative technologies and digital startups, and plan to hold an SCO Youth Digital Forum under our
+chairmanship next year.
+Fifth, tourism. We view tourism as a people’s diplomacy tool. Large
+infrastructure projects aimed at improving conditions for the further
+development of tourism are being implemented in Kyrgyzstan. It gives me pleasure
+to note that nearly eight million tourists from the SCO countries visited
+Kyrgyzstan in the first nine months of this year.
+As part of our chairmanship, we plan to hold a number of events, including
+an international tourism exhibition. Next year, we will continue the SCO
+Issyk-Kul Marathon, which has become a good cultural and sporting tradition.
+The marathon will start in Cholpon-Ata, the tourism capital of the SCO.
+Esteemed colleagues, cultural and humanitarian interaction, which brings
+our peoples closer, remains the key foundation for strengthening trust and cooperation. To preserve and promote the unique heritage of nomadic peoples,
+the 6
+World Nomad Games will be held in Kyrgyzstan next autumn. We
+encourage all of you to send cultural and sports delegations to take part in the Games, which have become a kind of Olympics of nomadic peoples.
+Within cultural and humanitarian cooperation, our SCO chairmanship includes
+several noteworthy initiatives. Under the SCO’s auspices, the anniversary
+meeting of the Issyk-Kul Intellectual Forum will take place in the summer of 2026 on the picturesque Lake Issyk-Kul. This forum was founded in 1986 by the great writer Chingiz Aitmatov and is an international platform for discussing
+the future of humanity. Please support this initiative as a contribution to promoting the Shanghai spirit philosophy.
+Esteemed heads of delegations, colleagues, I would like to close by expressing
+my appreciation to Prime Minister of the Russian Federation, esteemed Mr
+Mishustin, for Russia’s effective and productive chairmanship of the SCO Heads
+of Government Council.
+I also congratulate the Prime Minister of the Republic of Tajikistan,
+esteemed Kokhir Rasulzoda, on assuming chairmanship of the SCO Heads of Government Council and express our readiness to cooperate for the benefit of our countries and peoples.
+Thank you.
+Mikhail Mishustin:
+Thank you, esteemed Mr Kasymaliyev.
+Mikhail Mishustin:
+I now invite
+Deputy Prime Minister and Foreign Minister of the Islamic Republic of Pakistan
+Mohammad Ishaq Dar to deliver his remarks. Please.
+Mohammad Ishaq Dar
+(Deputy
+Prime Minister and Foreign Minister of the Islamic Republic of Pakistan) (via
+interpreter)
+Thank you, Mr Chairman. In the name of Allah, the Most Gracious, the Most Merciful! Your Excellency Prime
+Minister of the Russian Federation and Chairman of the SCO Council of Heads of Government Mr Mishustin, Heads of Government of the SCO member states, guests
+of the Chairman, Your Excellencies, ladies and gentlemen, good afternoon. Allow me first to congratulate
+the Prime Minister of the Russian Federation – His Excellency Mr Mishustin – on the successful conduct of the SCO Council of Heads of Government meeting this
+morning.
+The joint communiqué and other significant documents we have adopted
+today will exert a profound impact, guiding our work and reinforcing our
+efforts to achieve the shared goals of prosperity for our peoples.
+Your Excellencies, the agenda of our meeting centres on the development
+of trade, economic, cultural, and humanitarian cooperation. This constitutes
+the foundation of a mature, future-oriented SCO. Pakistan regards these issues
+as interconnected threads of a single, tightly woven fabric of regional
+partnership.
+The Tianjin summit sent an unequivocal signal that our organisation is
+advancing with the determination to fully realise our collective potential. By focusing on economic integration through expanded trade collaboration, enhanced
+infrastructure connectivity, the development of investment partnerships, the facilitation of cross-border trade corridors, and the promotion of the digital
+economy, the SCO has laid the groundwork for sustained economic progress across
+its entire expanse.
+The SCO is uniquely positioned to advance regional cooperation in emergency response and to expand humanitarian collaboration among its member
+states, as well as with those in need.
+Pakistan has developed a proactive, technology-driven disaster response
+system. We aim to organise simulation exercises with SCO partners to bolster
+our disaster preparedness throughout the region.
+Your Excellencies, our discussions in Tianjin underscored the importance
+of fostering engagement. Our observer states and partners are making
+substantial contributions to our organisation. Let us shift from a model of passive observation to one of active interaction. Let us invite them not as peripheral guests but as stakeholders in concrete initiatives, where specific
+projects leverage their expertise and align with our collective objectives. In this way, we can forge a flexible, multi-tiered model of cooperation for the benefit of all.
+A defining feature of the SCO’s modernisation is the elevation of the English language to the status of a working language. Let us move beyond
+political declarations and establish translation units. This will enable the SCO to attract more partners and amplify its global influence.
+Mr Chairman, to render the landmark decisions taken in Tianjin into
+action, we propose a particular focus on practical initiatives spanning diverse
+sectors. For instance, we advocate for the operationalisation of financial
+instruments to advance trade and the economy.
+We are striving to develop diversified financial tools, such as the SCO
+Development Bank, the SCO Development Fund, and the SCO Investment Fund, for our economies and business communities. We must also actively utilise
+mechanisms like the SCO Interbank Consortium to finance connectivity and technical cooperation projects.
+We must also nurture human capital. The SCO’s greatest resource is its
+people. It is especially vital to create and expand opportunities for our
+youth. We must invest in the younger generation. This is precisely why Pakistan
+advocates for the further expansion of the SCO University, transforming it into
+a consortium for applied knowledge.
+This will foster not only student exchanges but also joint research
+programmes in critical areas such as information technology, artificial
+intelligence, water resource management, agriculture, and telemedicine. In this
+way, we can address shared challenges through shared knowledge.
+Your Excellencies, Pakistan remains committed to being a proactive and constructive partner on this journey.
+Let us build an SCO that serves as a platform for collective success,
+where every contribution and every interaction – whether commercial, cultural,
+or intellectual – strengthens us all.
+Let us work to make our region more innovative, interconnected, and cohesive than ever before.
+Thank you for your attention.
+Mikhail Mishustin:
+The floor
+goes to Prime Minister of Tajikistan Kokhir Rasulzoda.
+Kokhir Rasulzoda
+: Thank
+you, Mr Mishustin, colleagues,
+Let me express
+my deep gratitude to the Russian Government and to you personally, Mr Mishustin,
+for the excellent organisation of this important event –the meeting of the Shanghai Cooperation Organisation Heads of Government Council.
+We sincerely welcome all participants of the expanded meeting and highly
+appreciate the joint work carried out by the Russian side, as Chair of the SCO Heads
+of Government Council, to strategically enrich the agenda and strengthen
+practical cooperation within the organisation. In this regard, I would like to highlight the results of the Tianjin summit, which have further encouraged the development of our Organisation.
+Esteemed meeting
+participants, today’s global environment is marked by numerous challenges,
+including geopolitical tensions, global economic instability, technological
+competition, and the climate crisis.
+Under such
+circumstances, the demand for regional unity and collective solutions to the most pressing problems continues to grow. As President of the Republic of Tajikistan Emomali Rahmon has repeatedly emphasised, the SCO is an effective
+mechanism for jointly countering emerging challenges and threats, as well as a platform for developing strategic initiatives aimed at ensuring long-term
+stability and economic progress.
+Turning to the key aspects of economic cooperation, I would like to stress that Tajikistan regards trade and economic relations with SCO member
+states as a strategically important component of its foreign economic policy.
+Despite external
+political factors, Tajikistan’s economy is demonstrating confident growth, with
+a forecast of 8.2 percent for 2025. It is important to note that more than
+two-thirds of our foreign trade is generated by SCO member states, and this
+figure continues to grow steadily. We believe that the practical implementation
+of the SCO’s core documents, including the Economic Development Strategy to 2030, is essential for continued cooperation.
+In this context, we regard the decision to establish the SCO Development
+Bank as a key step toward creating an effective financial instrument for joint
+projects. Transport connectivity remains the foundation of such cooperation. In order to enhance cross-border transportation, Tajikistan has proposed creating
+a unified SCO digital platform for managing multimodal transport. Its
+implementation will significantly increase logistics efficiency and reduce costs.
+We also invite SCO external partners to join the 2014 Dushanbe
+intergovernmental agreement on creating favourable conditions for international
+road transport.
+Industrial cooperation also holds substantial potential. We invite SCO
+member states to strengthen collaboration in the mining, textile, food, and innovation sectors, as well as in green technologies. In order to enhance food
+security, we propose establishing regional electronic platforms for agricultural products. This will increase transparency in trade and ensure
+stable regional food supplies.
+Another
+promising area is cooperation in the energy sector. In line with the global
+shift toward green energy, we reaffirm our commitment to expanding our
+hydropower resources through the modernisation of existing HPP and the construction of new ones, including the Rogun Hydropower Plant. We believe that
+initiatives like this will help form the foundation for the future green
+integration of the SCO region.
+Tajikistan is
+actively advancing the global water and climate agenda. In this regard, I would
+like to note that in May 2026, Dushanbe will host the Fourth International
+High-Level Conference on the Decade of Action “Water for Sustainable
+Development,” pursuant to a UN General Assembly resolution.
+We invite all
+SCO countries to participate actively in this important international forum.
+We count on the SCO’s support and are prepared to cooperate in water
+diplomacy, environmental innovation, sustainable land use, and combatting
+climate risks.
+Colleagues, as I conclude this overview of priorities, I would like to emphasise that the SCO is
+not just an economic union but a common cultural, historical, and humanitarian
+space shaped by centuries of interaction among our peoples. This is a space of trust, mutual understanding, and openness. For this reason, Tajikistan attaches
+great importance to the development of humanitarian cooperation.
+Education, culture, tourism, and youth exchanges play an essential role
+in shaping our common future. We support the development of humanitarian
+cooperation and the continuation of the SCO Tourism and Cultural Capital
+project, and we propose expanding the activities of SCO University and student
+exchange programmes.
+I am pleased to announce that a SCO countries youth forum will take place in Dushanbe in March
+2026, which will serve as an important platform for expanding contacts and cooperation among young people of our countries.
+Colleagues, in conclusion, I would like to note that, as incoming Chair of the SCO Heads of Government Council, the Republic of Tajikistan will focus its efforts on further strategic renewal of the Organisation’s economic agenda. Tajikistan
+looks forward to productive engagement with all member states and reaffirms its
+commitment to contributing to the SCO’s development as a union of peace,
+development, and prosperity.
+Thank you for your attention.
+Mikhail
+Mishustin
+: Thank you, Mr Rasulzoda.
+I now call upon Mr Abdulla Aripov, Prime
+Minister of the Republic of Uzbekistan.
+Abdulla
+Aripov
+: Your Excellencies, colleagues, distinguished
+delegates. First, let me once again extend my sincere gratitude to the Government of the Russian Federation, and personally to our host, Prime
+Minister Mikhail Mishustin, for the warm hospitality and the superb
+organisation of this event.
+I share the assessments we have heard
+today regarding the progressive development of the Shanghai Cooperation
+Organisation and its growing contribution to enhancing our economic and humanitarian ties.
+Colleagues,
+In these challenging global economic context,
+our Organisation’s priority remains clear: ensuring the sustainable development
+of our national economies and improving the well-being of our citizens. Over
+the past quarter-century, the SCO has expanded its membership and become a vital factor for mutually beneficial partnership and stability across the Eurasian region. Yet, significant untapped potential remains for deepening our
+practical, multilateral cooperation.
+During the Tianjin Summit in September,
+we identified key steps towards deepening our collaboration in priority areas.
+At that summit, the President of Uzbekistan, Shavkat Mirziyoyev, put forward a number of specific initiatives to strengthen the potential and authority of our
+organisation.
+Allow me to outline our proposals for their practical implementation. First, it is important that we consolidate our
+efforts to eliminate trade barriers, align standards for e-commerce, stimulate
+industrial cooperation, and implement innovation.
+In our view, the prompt adoption of a trade facilitation agreement and an e-commerce cooperation programme will
+create the most favourable conditions for this.
+Second, on practical steps for investment partnership, we should swiftly adopt a package of measures to stimulate mutual investment. This includes creating networks of venture capital
+firms and funds to support start-ups and innovation.
+We also propose introducing effective
+financial instruments to support regional industrial and infrastructure
+projects. To this end, Uzbekistan is prepared to host the first SCO Invest
+forum next year, providing an effective platform for ongoing business dialogue.
+Third, the creation of efficient
+transport routes is vital to ensure reliable connectivity of our countries with
+global corridors. We therefore advocate for the development of a concept for a seamless
+SCO transport space. This would envision new multimodal networks, a digital
+platform, and “green corridors” for expedited cargo transit, alongside
+integration with the Belt and Road Initiative.
+Fourth, we propose taking steps to actively promote partnerships in science, technology, and innovation, which are
+key to our economic development. The creation of a network of SCO innovation
+and technology hubs would facilitate the development of cutting-edge solutions
+and effective technology transfer within the Organisation.
+Fifth, to promote cultural diversity and the values of our “SCO family,” we propose establishing a Cultural Dialogue of the Great Silk Road. Let me take this opportunity to thank all SCO partners for their active participation in the 43
+session of the UNESCO General
+Conference, held in the ancient city of Samarkand the first time it convened
+outside Paris in 40 years.
+Sixth, launching a regional platform on climate change adaptation, decarbonisation, and the use of AI for environmental
+risk forecasting could significantly enhance our climate resilience and green growth.
+We propose discussing these and other pressing climate issues in Uzbekistan in 2026, at the first meeting of a dedicated SCO working group on climate change.
+Friends,
+I am confident that today’s meeting will
+contribute to the further expansion of our mutually beneficial and productive
+cooperation and improvement of our Organisation.
+In conclusion, I would like to wish our
+Kyrgyz friends every success as they continue the important mission of the SCO Chairmanship
+in 2025–2026. And to our Tajik friends, we wish a successful chairmanship of the SCO Heads of Government Council next year.
+Thank you for your attention.
+Mikhail
+Mishustin
+: Thank you, Mr Aripov.
+We will now proceed with the addresses
+from the invited heads of government. The floor is now given to Mr Gombojavyn
+Zandanshatar, Prime Minister of Mongolia.
+Gombojavyn
+Zandanshatar
+via interpreter
+): Mr Chairman, Mikhail
+Mishustin, distinguished heads of delegation, ladies and gentlemen.
+Let me begin by expressing my profound
+gratitude to you, Mr Mishustin, and to the Government of the Russian
+Federation, for hosting this meeting of the SCO Heads of Government Council and for the exceptionally warm welcome extended to us.
+Since its foundation, the SCO has
+consistently expanded its scope, making a valuable contribution to regional
+peace, security, and stable growth. Expanding cooperation between member states
+and observers, it has evolved into an organisation of significant repute and influence, both regionally and on the global stage. I am confident it will
+continue to contribute significantly to peace, security, and sustainable
+development, not only regionally but also on the global stage, working with
+ever-greater dynamism to strengthen trade, investment, and economic
+cooperation.
+In today’s era of global volatility, I must emphasise that our collective strength is the key to overcoming the common
+challenges facing the international community.
+Addressing the numerous economic and climate challenges of our time demands trust, mutual respect, and solidarity.
+In this context, the “Shanghai Spirit,” grounded in the principles of the UN
+Charter, serves as a vital foundation for strengthening peace, security, and sustainable development, both regionally and globally. We believe that regional
+cooperation is an essential component of broader international cooperation.
+Mongolia is committed to a foreign
+policy based on a multi-vector approach and mutual respect. We prioritise
+cooperation founded not on confrontation and severing ties, but on fundamental
+national interests, civilisational characteristics, and our chosen path of development.
+We actively seek mutually beneficial
+partnerships in areas such as trade, investment, food security, agriculture, including
+the expansion of logistics and port infrastructure, environmental stewardship,
+and humanitarian affairs.
+Colleagues,
+As climate change causes a steady
+increase in natural disasters worldwide, with serious consequences for human
+health, society, and the economy, it is crucial that we expand our cooperation
+in disaster risk reduction and prevention and victim assistance.
+Mongolia is particularly vulnerable to the impacts of climate change due to its vast territory, unique ecology, and nomadic traditions. To mitigate these effects through combatting global
+warming, desertification, deforestation and land degradation, as well as an increase in carbon-dioxide and water resources’ absorption, Mongolia is
+successfully implementing national initiatives such as the Billion Trees and Food Supply and Security projects. I therefore reaffirm our commitment to expanding comprehensive cooperation with SCO member states in this critical area.
+In this spirit, we invite you to participate at a high level in the 17
+Conference of the Parties to the UN Convention to Combat Desertification, which will be held in Ulaanbaatar
+in 2026, to develop comprehensive solutions for climate adaptation.
+Furthermore, building friendly relations
+with our eternal neighbours, Russia and China, remains a cornerstone of Mongolian foreign policy. We are committed to deepening our mutually beneficial
+political and economic cooperation with these comprehensive strategic partners
+and traditionally friendly nations, implementing joint projects and programmes
+across various fields that contribute to regional prosperity.
+We are actively collaborating on key
+initiatives such as the Mongolia-Russia-China Economic Corridor, the Transit
+Mongolia programme, and the construction of cross-border infrastructure,
+including major motorways, railways, and gas pipelines connecting the three
+countries. Leveraging our unique geographic position as a bridge between Asia
+and Europe, and pursuing our goal of becoming a trade, tourism, and logistics
+hub – Transit Mongolia – we are keen to implement major projects in infrastructure, energy, and urban development with SCO member states.
+We stand ready to collaborate on projects
+and programmes that promote regional integration by facilitating trade and logistics, developing transit corridors, expanding rail and road networks, and constructing new ports, international airports and regional logistics hubs. We
+are confident that advancing these projects in alignment with both SCO
+development programmes and those of our neighbours will make a significant
+contribution to regional integration.
+Ladies and gentlemen,
+We are confident that this meeting will
+reinforce the SCO’s leadership role internationally, contribute significantly
+to global peace and security, and attainment of sustainable development goals, and strengthen the trust, mutual respect, and cooperation between all nations.
+Let me once again congratulate you, Mr
+Mishustin, Prime minister of the Russian Federation, on the excellent
+organisation of this meeting.
+Thank you.
+Mikhail Mishustin
+: Thank you, Mr
+Prime Minister. I would now like to ask Prime Minister and Foreign Minister of the State of Qatar Mohammed Al Thani to take the floor. Please.
+Mohammed Al Thani
+(via interpreter)
+: First
+of all, I would like to express my gratitude to my dear friend Mikhail
+Mishustin for inviting me to take part in this meeting. I am delighted to be
+here with you at the meeting of the SCO Heads of Government and to participate
+in this important event that brings us together and strengthens our
+cooperation.
+I would like to thank the friendly Russian Federation for its efforts in organising this meeting. I also extend my gratitude to the Secretary-General of the Organisation. Our participation reflects our continued commitment to cooperation with the SCO.
+Our countries
+strive to strengthen dialogue, coordination, and cooperation in order to counter
+common challenges and threats. For many years, the SCO has served as a platform
+for constructive dialogue, cooperation, and cultural exchange.
+I would like to reaffirm that Qatar’s vision fully aligns with the SCO Charter, which envisages
+mutual respect for the cultures of our countries and the sustainable
+development of our economies. Qatar considers sustainable development a key
+component of ensuring the wellbeing of peoples.
+This is likewise reflected in our vision of the national development
+strategy until 2030 focused on economic, human, and environmental development.
+Guided by this vision and our commitment to international partnership, we view
+the SCO as an important strategic partner with whom we work to promote regional
+stability and address common threats.
+We are pleased
+to participate in today’s dialogue and remain committed to working together for the benefit of all our countries. I would like to reaffirm the need to step up
+our collective efforts to address shared challenges, including those affecting
+international peace and security.
+Qatar also expresses its readiness to support cultural dialogue and contribute to efforts addressing water-related crises. Importantly, our country
+stands prepared to engage in mediation efforts and serve as a reliable partner
+in resolving regional and international crises.
+I am confident that this meeting will lead to meaningful results. Thank
+you. Peace be upon you, and may the blessings of the Almighty be with you.
+Mikhail Mishustin:
+Thank you, Mr
+Al-Thani. I would like to invite the head of the permanent SCO bodies to speak.
+I give the floor to SCO Secretary-General Nurlan Yermekbayev. Please.
+Nurlan Yermekbayev:
+Mishustin, heads of delegation,
+I would like to express my gratitude to the Russian Federation for its successful chairmanship
+and for the thorough preparation of the meeting of the Heads of Government Council.
+During the Tianjin summit, which concluded China’s successful chairmanship, important
+practical results were achieved.
+Russia’s
+chairmanship of the Heads of Government Council has made a significant
+contribution to expanding cooperation across all areas.
+You have been provided with information on the implementation of the Multilateral Trade and Economic Cooperation Programme. Therefore, I would like
+to focus on several aspects that the Secretariat considers important.
+An analysis of the development and implementation of proposals put forward by the heads of state during summits has shown the need to improve the Organisation’s
+mechanisms. This view has been supported by many leaders. The Secretariat has
+proposed to national coordinators a model algorithm for reviewing leaders’
+initiatives, aimed at improving the quality of their development and implementation.
+The effectiveness of the Organisation’s work depends to a great extent
+on the results achieved by meetings of heads of ministries and agencies. In order to enhance motivation and effectiveness, we have also proposed to member
+states a possible procedure for informing heads of government about the outcomes of these meetings.
+Mutual trade
+within the SCO space continues to grow steadily. Introducing attractive
+conditions, regimes, and preferences for SCO member states could help achieve
+more tangible results across various areas.
+The Organisation’s
+investment potential can also be more fully realised by involving commercial
+banks in financial cooperation and introducing subsidised lending mechanisms
+for small and medium-sized businesses under the Organisation’s auspices.
+Dear heads of government,
+in accordance with the instructions of the heads of state, the process of improving SCO activities is actively advancing. Together with member states, we
+are comprehensively working to adapt the legal framework to today’s
+requirements.
+We must also
+address issues related to staffing, financial, translation, and analytical
+support for the Organisation’s work. We will fully support the activities of the Kyrgyz Chairmanship of the Heads of State Council, as well as the Tajik
+Chairmanship of the Heads of Government Council.
+In conclusion, I would like to express the Secretariat’s readiness to make every necessary effort to ensure the high-quality implementation of the decisions adopted today.
+Thank you for your attention.
+Mikhail Mishustin:
+Thank you,
+Mr Yermekbayev.
+I now invite Ularbek Sharsheyev, Director of the Executive Committee of the SCO Regional Anti-Terrorist Structure, to take the floor. Please proceed.
+More to be posted soon…
+Mikhail
+Mishustin:
+Thank you,
+Mr Tan.
+Colleagues,
+I would like to thank all of you for your substantive remarks during the meetings in the restricted and expanded attendance format. I would like to ask
+the SCO Secretariat to consider all the proposals that the meeting participants
+presented. It is important that all the member states confirm their commitment
+to work on strengthening the SCO as a leading international association for cooperation in the economy, trade, security and humanitarian affairs.
+I am
+confident that the decisions we adopted today will give a new impetus to our
+trade, economic, scientific and technological cooperation, and will create
+favourable conditions for launching new joint projects in the interests of national economies and our citizens’ wellbeing.
+Following
+our meeting, the Republic of Tajikistan is assuming the presidency in the SCO
+Council of the Heads of Government.
+Congratulations,
+Mr Kokhir Rasulzoda, on this important and honourable mission. My best wishes
+of success to Chairman of the Cabinet of Ministers of the Kyrgyz Republic
+Adylbek Kasymaliev in his plans for the republic’s presidency in the SCO Heads
+of State Council in 2025−2026.
+Now, I suggest we start the signing ceremony.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/56961/
+Highlight selection

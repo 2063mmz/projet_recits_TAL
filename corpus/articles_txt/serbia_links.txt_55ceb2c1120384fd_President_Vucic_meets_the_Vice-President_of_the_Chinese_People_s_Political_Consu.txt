@@ -1,0 +1,21 @@
+seed_url: https://www.predsednik.rs/en/press-center/press-releases/president-vucic-meets-the-vice-president-of-the-chinese-peoples-political-consultative-conference-li-bin
+final_url: https://www.predsednik.rs/en/press-center/press-releases/president-vucic-meets-the-vice-president-of-the-chinese-peoples-political-consultative-conference-li-bin
+title: President Vucic meets the Vice-President of the Chinese People's Political Consultative Conference Li Bin
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Press Releases
+30.08.2019. - 14:45
+President Vucic meets the Vice-President of the Chinese People's Political Consultative Conference Li Bin
+President of the Republic of Serbia Aleksandar Vučić met earlier today the Vice-President of the Chinese People's Political Consultative Conference Li Bin, whose visit - as pointed out during the talks - represents yet another confirmation that the "steel friendship" and overall strategic partnership of the two countries are growing stronger in all areas.
+The Chinese official conveyed to President Vučić the greetings of President Xi and said that China particularly appreciates the immense contribution of President Vučić to the development of bilateral relations and the sincere support to the "Belt and Road" initiative, the cooperation mechanism "17 Plus 1", and the inter-party cooperation. She congratulated President Vučić for the good economic results Serbia keeps accomplishing.
+President Vučić reciprocated the greetings to President Xi and reiterated on this occasion the firm support to the principles of the "Belt and Road" initiative, and emphasised that it has already brought much happiness to the Serbian people through participation of the Chinese companies in implementation of the most important infrastructure projects as well as through the significant Chinese investments. „It is one of the greatest and most productive initiatives in history. The respect China confers to all countries and their right to development and independent decision-making irrespective of their size - deserves the support of all who believe in the ideals of true equality and solidarity", said President Vučić.
+President Vučić said that the visit of the Vice-President Li is particularly important considering that the  Chinese People's Political Consultative Conference is the highest advisory body of the State Council of the People's Republic of China and that the suggestions rendered by this body are of vital importance for formulation of the national strategy. The President added he was convinced that the bilateral relations between Serbia and China will continue to develop through intensive political dialogue and diverse economic cooperation.
+The two interlocutors have reviewed the possibilities of cooperation in various areas and in particular in the area of tourism considering the ever-increasing number of Chinese tourists in the world. As the number of Chinese tourists in Serbia marks a fivefold growth, they expressed the expectations that a direct flight may be established between Belgrade and Beijing.
+The today meeting was also an opportunity to reiterate the mutual support in the issues of crucial interest for the two countries in accordance with the international law. President Vučić expressed his gratitude for the principled and resolute standpoint of China regarding the respect of territorial integrity and sovereignty of Serbia and affirming again the unwavering support of Serbia to the "One China" policy. With that respect, he said that the current situation in Hong Kong represents the internal issue of China and he remains convinced that President Xi and the thoughtful leadership of China are capable to resolve the issue in a righteous manner.
+VIDEO MATERIAL CAN BE DOWNLOADED FROM THE FTP SERVER OF THE MINISTRY OF DEFENCE.
+Belgrade,
+30th August 2019

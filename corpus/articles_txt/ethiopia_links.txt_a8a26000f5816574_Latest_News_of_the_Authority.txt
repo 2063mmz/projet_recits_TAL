@@ -1,0 +1,19 @@
+seed_url: https://www.epa.gov.et/latest-news-of-the-authority/the-china-africa-bamboo-center-to-be-built-at-ethiopia.html
+final_url: https://www.epa.gov.et/latest-news-of-the-authority/the-china-africa-bamboo-center-to-be-built-at-ethiopia.html
+title: Latest News of the Authority
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Latest News of the Authority
+THE CHINA-AFRICA BAMBOO CENTER TO BE BUILT AT ETHIOPIA
+Bilateral discussion has took place between the 'National forestry and Grass land Administration office for National Afforestation Committee' of china and officials from the Ethiopian Environment, Forest and climate change commission.
+In an hours of discussion, the parties has agreed to build the Africa-china bamboo center in Ethiopia whose agreement signed and feasibility study has completed before.
+The Chinese government has granted 400 million Yuan to build the center last September. It was mentioned by the chinise deligates that the issue was discussed between the p.m. of Ethiopia his Excellency Dr. Abiey Ahemed and the Chinese officials last September while the Africa-china road and belt initiative was held.
+Speaking at the discussion, commissioner to the Ethiopian Environment, Forest and Climate Change Commission his Excellency prof. Fekadu Beyene told the deligation that, the relation between China and Ethiopia is strategic and that china stayed a dependable partner to the development of Ethiopia.
+Professor also explained the team that, Ethiopia has embarked on a new era of enhancing its green development strategy in to the best of its' excellence and that the built of the "Africa-China BAMBOO center in Ethiopia" is very crucial. It was also expressed that the support to the building of "Beautifying Sheger" project by the Chinese government is part of the national green development strategy. The addis project is also mentioned to double its’ importance as the investment is to rebuild the political capital of Africa which stayed the get way to every Africa.
+Deputy executive director to the Chinese "National Forestry and Grass Land Administration office for national Afforestation Committee" Madam Hu Zhangcui said in the discussion that, the government of china is eager and willing to work and support development projects in Ethiopia. As part of this commitment the director said, the government of China has financing the Africa-china bamboo center and is getting engaged to technical supports of different projects both in Ethiopia and other African countries.
+Explaining the potential that Ethiopia has both on bamboo and other forest items, the forest sector deputy commissioner to the Ethiopian Environment, Forest and Climate Change Commission excellency Mr. Kebede Yimam said that, the urgent establishment of the bamboo center will speed up the economic and diplomatic benefits of Ethiopia.
+tweet

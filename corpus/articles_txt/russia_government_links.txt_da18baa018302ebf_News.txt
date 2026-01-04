@@ -1,0 +1,77 @@
+seed_url: http://government.ru/en/news/55969/
+final_url: http://government.ru/en/news/55969/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Government meeting
+19 August 2025
+14:40
+Government House, Moscow
+Agenda: Additional financing for hi-tech medical assistance in 2025; budget allocations on social development plans designed for economic growth centres in the Russian Far East; support for small and medium-sized businesses
+Government meeting
+19 August 2025
+Mikhail Mishustin’s opening remarks
+19 August 2025
+Предыдущая новость
+Следующая новость
+Government meeting
+Mikhail Mishustin’s opening remarks
+Good afternoon, colleagues,
+Before we go over to today’s Government meeting’s agenda,
+let me tell you about a decision that has been taken.
+Population preservation and health promotion constitute
+one of Russia’s national development goals that the head of state has set to us.
+To attain it, the Government continues to work on enhancing accessibility of medical
+assistance, including specialised and high-technology assistance.
+We will additionally allocate 60 billion roubles for rendering
+this kind of assistance at federal clinics. Thus, this year’s total amount of funding
+will exceed 310 billion roubles. Even more people will be able to undergo sophisticated
+treatment based on their mandatory medical insurance policy, that is, free of charge. Often cases in point are operations with the use of unique methods and advanced approaches in cardiovascular surgery and neurosurgery, traumatology
+and orthopedy, ophthalmology and oncology. These are needed to save lives and restore
+health in the case of very grave diagnoses.
+We will continue to expand opportunities for getting timely
+medical assistance across this country.
+There is a set of issues related to supporting Russian
+regions on today’s Government meeting’s agenda.
+Addressing a meeting in Magadan late last week, our President
+stressed that implementing master plans of cities in the Russian Far East had
+become a new stage in their qualitative and comprehensive renovation, leading
+to the emergence of a modern environment for living, studying, working, and doing business.
+The Government consistently takes measures to strengthen
+this most important macro-region, including as part of the relevant state programme
+and federal projects.
+We will additionally allocate 1.5 billion roubles for social development of economic growth centres in Far Eastern constituent
+entities. This includes further implementation of the master plan of Ulan-Ude in Buryatia, maintenance and upgrading of the Vladivostok branch of the Rossiya National
+Centre with the aim of opening a permanent display on its premises, and reconstruction of a street leading to a new residential compound built under
+the Far Eastern Quarter programme in Korsakov, Sakhalin. The compound will have not only blocs-of-flats
+but also kindergartens, schools, and social infrastructure facilities.
+We also support, on our President’s instructions, the development of economic growth centres in the Arctic zone, yet another
+macro-region of strategic importance for our country. We have increased the financing
+for the Komi Republic by almost 300 million roubles. This money will pay for the overhaul of the belt road in Vorkuta and the purchase of over 40 vehicles for a residential home for the elderly and for an ambulance service. Usinsk will acquire
+Quantorium, a school technopark, where children will be able to display their
+talents and prepare for engineering missions, among other things.
+We hope that these measures will help to tap the regions’
+potential, improve living conditions there, and, of course, what is also of much
+importance, make them more attractive for tourist travel.
+Yet another important topic is that we will
+additionally allocate 1 billion roubles to the My Business centres. We
+discussed this step in detail at an earlier meeting of the related Government
+commission.
+These funds will make it possible to address a number of issues and expand the current tools used by beginner entrepreneurs. Among other
+things, we will extend the programme of assistance to those participants in the special military operation, who are planning to engage in business after their discharge
+from the army, to all regions of the country.
+I am certain that we have enough resources to draw more
+enterprising persons to the SMS small and medium-sized businesses sector, persons
+who will create new, promising projects both in the production sphere,
+including advanced and hi-tech manufactures, and in the services area,
+something that will strengthen Russia’s economy in the middle and long term.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/55969/
+Highlight selection

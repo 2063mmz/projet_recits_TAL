@@ -1,0 +1,240 @@
+seed_url: http://government.ru/en/all/34733/
+final_url: http://government.ru/en/all/34733/
+title: All materials
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+APEC CEO Summit
+17 November 2018
+06:30
+Port Moresby, Papua New Guinea
+Dmitry Medvedev took part in the APEC CEO Summit, the plenary session of the APEC Business Advisory Council, APEC Leaders and APEC Business Advisory Council Dialogue, and a meeting of APEC leaders with Pacific Island nation leaders.
+Dmitry Medvedev’s remarks:
+APEC leaders
+17 November 2018
+Dmitry Medvedev speaks at the APEC CEO Summit
+17 November 2018
+Meeting with Prime Minister of Papua New Guinea Peter O'Neill
+17 November 2018
+Meeting with Prime Minister of Papua New Guinea Peter O'Neill
+17 November 2018
+Plenary session of the APEC Business Advisory Council
+17 November 2018
+APEC Leaders and APEC Business Advisory Council Dialogue
+17 November 2018
+APEC leaders’ meeting with Pacific Island nations leaders
+17 November 2018
+APEC leaders’ meeting with Pacific Island nations leaders
+17 November 2018
+Предыдущая новость
+Следующая новость
+APEC leaders
+Mr Chairman of the
+APEC CEO Summit Isikeli Taureka,
+Colleagues, ladies
+and gentlemen,
+First of all, I
+would like to express our gratitude to our partners from Papua New Guinea for their
+hospitality and good organisation of the APEC CEO Summit, an authoritative forum
+that provides an opportunity for direct communication with leading business representatives
+in the Asia-Pacific region. This kind of dialogue is highly relevant at the
+moment, perhaps more than ever, given the complex and sometimes unpredictable
+situation that has developed in the global economy.
+Visit
+Meeting with Prime Minister of Papua New Guinea Peter O'Neill
+News conference by Dmitry Medvedev on the outcome of the APEC summit and his visit to Vietnam
+On the one hand, the global economy has generally recovered
+from the 2008 crisis. Many system-wide errors that had led to the crisis were
+exposed then and subsequently corrected. These changes affected the financial
+markets and public debt management. We all worked on it, including Russia.
+Large banks have revised their high-risk asset policies.
+But on the other
+hand, the revival of the economy is still slow and unstable. Unfortunately, the
+global situation looks worse than it did 10 years ago in a number of aspects.
+Total world debt has increased significantly. Emerging markets have become more
+vulnerable – this is absolutely certain. The monetary policies have become
+tighter. The vast majority of countries have not yet reached their target GDP growth
+rate. In some countries, protectionist sentiments are growing, manifested not only
+in theoretical arguments, but also in practical decisions. This can lead – has already
+led, in fact – to trade wars.
+Economic sanctions have become an instrument of
+political pressure and unfair competition. All this taken together can lead to drastic
+consequences.
+This is
+happening amid the digital revolution, which is an indisputable benefit from
+the social development perspective. It opens up tremendous opportunities. At
+the same time, it carries potential threats, like any revolution, such as the
+deepening inequality between people and between countries, a surge in
+unemployment, and infringement of individual privacy.
+So far, we do not have any universal solutions for dealing with these problems,
+but they must be sought.
+In the current conditions of interconnectedness and
+openness of national economies, these factors can provoke new crises, which, if
+unleashed, will have global implications.
+The Asia-Pacific region is at the epicentre of global
+processes and is not protected by immunity. Russia is a part of this region, a
+country that sees its present and future closely connected with the
+Asia-Pacific region and believes that it is essential to rely on common agreed
+positions to overcome these challenges.
+I will now briefly discuss several areas for our collaboration.
+First of all, the global economy needs clear and
+transparent rules of trade. Therefore, a key goal is to combine efforts to
+improve the effectiveness of the World Trade Organisation and its regulatory
+role.
+Like many countries, we recognise that the organisation
+needs to be modernised, but without weakening its influence or undermining the
+fundamental principles of its work, let alone its dismantling, which would mean
+a collapse of civilised trade.
+The institutional foundations of international trade
+formed by the WTO also need to be preserved to condition further deepening of
+regional economic integration. Russia strongly believes that transparent WTO
+rules incorporating the specifics of each Asia-Pacific, each APEC economy, are
+essential for creating an Asia-Pacific free trade zone, making it a truly open
+market, rather than a narrow-format system of collective protectionism.
+I would suggest the Eurasian Economic Union as an
+example of such an integration platform, an alliance which Russia and its partners
+are developing in strict accordance with the WTO principles. It is one of the
+largest regional associations in terms of market capacity and a single market
+with uniform rules for doing business.
+We are cooperating with other integration projects and
+are now working on aligning it with the well-known Chinese Belt and Road initiative.
+We are working in close contact as part of the Shanghai Cooperation Organisation.
+We also have strong ties with ASEAN. President of Russia Vladimir Putin has
+launched an initiative to create the Greater Eurasian Partnership, based on openness
+and mutual trust between states, and uniform rules of the game.
+Asia-Pacific countries joining this format would help
+harmonise the multi-level integration architecture that is being formed on the
+continent. We invite our colleagues and stakeholders to collectively develop
+the landscape for such work.
+We believe that a similar principle could underlie the
+Asia-Pacific free trade zone concept. This would promote truly comprehensive
+and indivisible economic growth in Eurasia and the Asia-Pacific region.
+The second area for cooperation is building infrastructure
+links within the region. Just look at the world map to see the great distances
+separating our countries. On the other hand, this does not prevent our peoples
+from getting to know each other better and better, developing science and
+culture cooperation and proving again and again that no distance is a barrier
+for those who seek to establish good relations.
+Nevertheless, to successfully trade and invest, we
+need a developed transport infrastructure and supply chains. Russia is working
+to improve transit routes crossing its territory. We have started a large-scale
+upgrade of our railways; we are building cross-border oil and gas pipelines; and
+we are coordinating our steps with the key projects of our neighbours. This
+work will continue in the coming years. Our plans include linking various infrastructure
+projects in the Eurasian Union and as part of the Northern Sea Route development.
+This is essential for the formation of a qualitatively new transport and
+logistics architecture on a continental scale.
+We have also initiated projects to integrate remote
+areas of the Asia-Pacific region within the APEC. The plan is to prepare a
+framework programme document that will determine specific steps for the
+development of competitive industries in these areas, reducing digital inequality,
+ensuring quality education, healthcare and, of course, tourism.
+The third area I would like to mention is efficient use
+of the available energy resources, which is essential for the implementation of
+a sustainable and comprehensive development agenda in the Asia-Pacific region.
+According to forecasts, renewable energy sources, for all their relevance and
+our support, will not be able to fully meet the growing needs of the region.
+The same can be said about the vast potential of nuclear energy. Therefore, the
+conventional types of fuel will still prevail, natural gas being the most
+environmentally friendly and efficient of them.
+Russia is developing both gas pipeline infrastructure
+and liquefied natural gas production facilities. We are also upgrading the
+Northern Sea Route and planning to create a gas hub in Kamchatka, in the Far
+East of our country, which will significantly increase our ability to supply
+liquefied natural gas to the Asia-Pacific economies. We are ready to develop
+relations in the gas sector with all interested partners.
+It would be useful to establish interaction between
+gas producers here in the APR and the Gas Exporting Countries Forum, an
+international platform for coordinating efforts to expand the range of uses of
+this type of fuel.
+We expect that the energy sector of the Asia-Pacific
+region will develop on the basis of market principles, without any illegitimate
+unilateral restrictions.
+The fourth area is building up the potential of
+micro-enterprises, small and medium-sized businesses, which are considered to
+be the driving force of economic growth in the region. Here, by the way, we are
+actively using the experience of our APEC partners, who have probably advanced even
+further than our country in this respect.
+We pay special attention to the involvement of women in
+economic activities. This topic is regularly discussed at the meeting. Russia
+ranks high in terms of the number of women holding senior positions in
+business. Women occupy half of the financial director positions, and almost 30
+percent of them head HR and internal audit services. More than a third of small
+businesses in our country are also led by women. Therefore, in this sense, we
+believe we are pursuing the right policy.
+The fifth area is building a digital economy, creating
+added value through the digitalisation of manufacturing processes and business
+models. Digital solutions are becoming a key factor in improving countries’ competitiveness,
+economic growth and living standards.
+In Russia, the accelerated introduction of digital
+technologies in the economy and the social sphere is one of the national priorities.
+We have adopted the Digital Economy programme aimed at resolving several
+important issues at once.
+First, in the coming years, we want to connect all
+medical and educational institutions to modern electronic services. This will
+apply to each and every locality with a population of at least 250 people.
+Second, we need to ensure information security of infrastructure facilities,
+data transmission and storage systems, including those for personal data. We
+will develop a legal framework to regulate the digital sphere. Third, it is
+necessary to enhance crosscutting digital technology research and develop our own
+digital platforms. This will give us new ways to organise production processes,
+financial services and logistics using the most advanced technologies,
+including the so-called distributed registry protocol. By 2024, we plan to
+create at least 10 national companies working on this.
+Finally, we are viewing the digital environment now being
+formed in our country as an integral part of the international digital landscape.
+It could not have been otherwise, because the digital environment is
+indivisible in its nature. Together with our partners in the Eurasian Union, we
+are systematically working on the creation of a single digital landscape of the
+union.
+We are developing interaction in other multilateral
+formats. The Russia-ASEAN forum and the East Asia Summit were been held
+recently; APEC, too, holds significant potential for digital integration. Last
+year, Russia proposed a number of initiatives – for sharing the experience of
+government regulation in the digital sphere, and finding a balance to avoid data
+protection interfering with business. It is necessary to adopt national
+strategies for developing future technology markets, to create a single
+conceptual framework, which is certainly not easy.
+Russia’s ideas were reflected in the forum’s roadmap drawn
+up last year. A framework programme for the implementation of the roadmap is to
+be submitted tomorrow for approval by the leaders. We hope this will give a
+start to practical work. At the same time, it would be wrong to limit it to
+digital commerce, even though it is a very important area that we are all
+involved in. Digital technology should penetrate all areas – thus we will achieve
+truly comprehensive development. It is in our common interest.
+The business community in the Asia-Pacific region is capable
+of making a significant contribution to the development of the digital economy.
+We propose exploring the possibility of building a network that would prepare
+business for introducing advanced technologies. We in Russia are already working
+on this – through engineering centres, innovation clusters and technology
+parks.
+In conclusion, I would like to call the attention of
+the regional business community to another promising source of long-term growth
+in the Asia-Pacific region. I would like to cite Russia’s programme for the
+accelerated socio-economic development of the Far East. We can offer mutually
+beneficial cooperation in the development of this vast territory. The potential
+here is truly enormous potential. We propose joint development of advanced
+production facilities, transport and logistics, industrial, telecommunications
+and social infrastructure. The volume of potential work is immense.
+We have worked hard to create the most comfortable environment
+for doing business in the Far East, comparable with the best world analogues. As
+a result, it has become one of the most promising centres for creating technological
+and industrial alliances and implementing large projects. These unique
+opportunities are being used by many companies from the Asia-Pacific countries,
+primarily from China, Japan, Korea, India, and a number of ASEAN countries.
+For those who have not yet had a chance to check this
+out, it gives me great pleasure to invite you to join us at the Eastern
+Economic Forum, which is annually held in Vladivostok in early September.
+Colleagues, ladies and gentlemen,
+I am confident that our forum is able to successfully find
+every solution for sustainable, balanced, and innovative growth in the interest
+of our common region’s prosperity, based on the principles that are fundamental
+to APEC, and regardless of the geopolitical situation. Moreover, we will all benefit
+from this together.
+Government of the Russian Federation
+http://government.ru/en/all/34733/
+Highlight selection

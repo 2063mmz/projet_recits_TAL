@@ -1,0 +1,20 @@
+seed_url: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-ambassador-of-the-peoples-republic-of-china-29563
+final_url: https://www.predsednik.rs/en/press-center/press-releases/meeting-with-the-ambassador-of-the-peoples-republic-of-china-29563
+title: Meeting with the Ambassador of the People's Republic of China
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Press Releases
+03.02.2021. - 13:50
+Meeting with the Ambassador of the People's Republic of China
+President of the Republic of Serbia Aleksandar Vučić met earlier today with the Ambassador of the People's Republic of China Chen Bo and asked her to convey his gratitude to President Xi Jinping for human and statesmanlike care and solidarity and for the help that Chinese vaccines reach the citizens of our country as soon as possible.
+President Vučić said he was proud that Serbia was the first European country to receive the Chinese vaccine. He pointed out to Ambassador Chen that our country's citizens show deep trust in the Chinese vaccine, and thus in the Chinese state and Chinese experts. Therefore, he asked Ambassador Chen to convey a request to President Xi and the Chinese leadership that the remaining ordered quantities of vaccines arrive as soon as possible.
+President Vučić said that he was looking forward to participating in the China-CEEC Summit next week via video link. He emphasised that he believes the cooperation format 1 + 17 and the "Belt and Road" initiative are among the most important initiatives ever.
+In this regard, the meeting, which was also attended by representatives of relevant Ministries and public companies, discussed current and future joint infrastructure and other projects. On this occasion, it was stated that the projects follow the planned dynamics. By the end of the year, two key infrastructure projects will be completed - the Preljina-Požega highway and the Belgrade-Novi Sad high-speed railway for up to 200 km per hour. This year, it is planned to commence the works on the high-speed railway from Novi Sad to the border with Hungary, on the Fruška gora road corridor and the Belgrade-Zrenjanin highway. Preparation of project documentation for the first stage of the highway from Belgrade through Duga Poljana to the border with Montenegro has been intensively underway.
+Among others, the project of wastewater management in 65 cities and towns in Serbia stands out in terms of value and nine landfills that will permanently solve this issue and contribute to environmental protection according to applicable European standards.
+VIDEO MATERIAL CAN BE DOWNLOADED FROM THE FTP SERVER OF THE MINISTRY OF DEFENCE.
+Belgrade,
+3rd February 2021

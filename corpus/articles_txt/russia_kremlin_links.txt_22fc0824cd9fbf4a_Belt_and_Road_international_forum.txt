@@ -1,0 +1,168 @@
+seed_url: http://en.kremlin.ru/events/president/news/54491
+final_url: http://en.kremlin.ru/events/president/news/54491
+title: Belt and Road international forum
+date: 2017-05-14
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Belt and Road international forum
+Vladimir Putin spoke at the opening of the Belt and Road international forum in Beijing. The event
+is dedicated to China's projects – the Silk Road Economic Belt and the 21st
+Century Maritime Silk Road.
+Russian President has arrived in China on a two-day
+visit.
+May 14, 2017
+05:20
+Beijing
+The forum that is taking place in the Chinese capital is being attended by a number of heads of state and government,
+presidents of large international organisations, specifically top officials of 28 countries, United Nations Secretary-General Antonio Gutteres, International
+Monetary Fund Managing Director Christine Lagarde and World Bank President Jim
+Yong Kim. The forum brought together over 1,000 participants.
+* * *
+Speech at the One Belt, One Road international forum
+President of Russia Vladimir Putin:
+Mr President Xi Jinping, heads of state and governments, colleagues, ladies and gentlemen,
+It is a great honour for me to participate in the opening ceremony of the Belt and Road international
+forum. President Xi Jinping informed us about his plans to hold such a representative event back in September at the Russian-Chinese summit in Hangzhou. Of course, we supported this initiative immediately.
+Possible concepts for the forum were
+presented even earlier. Without a doubt, these plans allow for discussion of the huge Eurasian continent’s future in an extended format. Our continent is the home of great civilisations. Peoples of diverse cultures and traditions have
+lived alongside each other and engaged in trade for centuries.
+As you know, the famous Silk Road
+that once connected almost all of Eurasia ran from one oasis to another, from
+one water well to another. In the well-known Chinese book, I Ching, with its
+elaborate language, the well is a symbol of vitality that brings people
+together to communicate with each other, build trust, connections and friendships.
+This historical experience of cooperation and mutual understanding is just as important to us in the 21
+century at a time when the world is facing very serious challenges and threats.
+We have exhausted many former models and indicators of economic development.
+In many countries the concept of a social state, coined in the 20
+century, is now in crisis. These
+days, it is not only unable to ensure the steady growth of people’s wealth but
+can hardly maintain current levels of growth.
+The risks of a disrupted global
+economic and technological space are becoming increasingly obvious.
+Protectionism is becoming a common practice that manifests itself in unilateral
+illegitimate restrictions, including how technology is supplied and distributed.
+The ideas of openness, freedom of trade are often rejected even by those who
+supported them so vigorously in the past.
+The disparity in socioeconomic
+development and the crisis the globalisation model finds itself in are fraught
+with negative consequences both for relations between states and for international security.
+Poverty, lack of financial security,
+and the massive gap in the level of development between countries and regions all
+fuel international terrorism, extremism and illegal migration.
+We will not be able to tackle these
+challenges unless we overcome this stagnation in global economic development.
+Let us not forget about those
+threats that stem from regional conflicts. Areas of smouldering disagreements
+still exist across Eurasia. In order to eliminate those conflicts, first of all, we need to abandon hostile rhetoric, mutual accusations and rebukes that
+only aggravate the situation. Altogether, none of the old approaches to conflict resolution should be used to solve modern problems. We need fresh and stereotype-free ideas.
+I believe Eurasia can work out and propose a constructive and positive agenda on issues relating to security,
+improving relations between states, economic development, social change, better
+administration and the search for new forces capable of driving growth.
+For the global community, we must be
+an example of a collective, innovative and constructive future based on justice,
+equality and respect for national sovereignty, international law and the unwavering principles of the United Nations.
+However, desire and will alone are
+not enough to follow through on this agenda. Efficient tools for this type of cooperation are required. These can be created through integration. Today there
+are many thriving integration projects in Eurasia. We support them and are vested
+in their further development.
+Many are aware of the fact that
+Russia and its partners are building the Eurasian Economic Union. The parties
+of the EAEU have similar views on Eurasian integration and it is very important
+to us that the leaders of Belarus, Kazakhstan and Kyrgyzstan are participating in this forum.
+We welcome China’s One Belt, One
+Road initiative. By proposing this initiative, President Xi Jinping has demonstrated
+an example of a creative approach toward fostering integration in energy,
+infrastructure, transport, industry and humanitarian collaboration, about which
+I have just talked at length.
+I believe that by adding together
+the potential of all the integration formats like the EAEU, the OBOR, the SCO
+and the ASEAN, we can build the foundation for a larger Eurasian partnership.
+This is the approach that, we believe, should be applied to the agenda proposed
+today by the People’s Republic of China.
+We would welcome the involvement of our European colleagues from the EU states in this partnership. This would make
+it truly concordant, balanced and all encompassing, and will allow us to realise a unique opportunity to create a common cooperation framework from the Atlantic to the Pacific – for the first time in history.
+Colleagues,
+It is necessary that already today,
+we start acting upon the development strategy of the large Eurasian
+partnership. Thus, we can set an ambitious goal of making the flow of goods across
+as expedient, convenient and unhindered as possible. Just now, in his address,
+President Xi Jinping spoke about lifting bureaucratic barriers for trade flows
+between China and Kazakhstan. We can see it happening along other routes.
+Of course, it is much easier and more efficient to work with the most advanced logistics technology while
+minimising associated administrative costs. In achieving this goal, we can rely
+on the substantial and valuable experience of the World Trade Organisation. Let
+me remind you that last February, WTO’s Trade Facilitation Agreement came into
+effect. Of course, we must expand such agreements and develop a more robust
+Eurasian agreement on facilitating trade.
+Additionally, I would like to stress
+that Russia is not only willing to be a reliable trading partner but also seeks
+to invest in the creation of joint ventures and new production capacities in partnering states, to invest in industrial facilities, sales and services.
+It is important that entrepreneurs
+and business people in our countries earn money and achieve success, create
+competitive technology and production alliances together. In order for this
+cooperation to be efficient, we must seek unification and, eventually, develop common
+standards, technical regulations for traditional industrial and agricultural
+goods as well as new hi-tech products.
+Furthermore, it is necessary to eliminate infrastructure restrictions for integration – mainly by creating a system of modern and well-connected transport corridors. Russia with its unique
+geographic location is willing to engage in this joint activity.
+We are consistently upgrading our maritime,
+railway and road infrastructure, expanding the capacity of the Baikal-Amur
+Mainline and the Trans-Siberian Railway, investing significant resources into
+improvements to the Northeast Passage in order for it to become a global
+competitive transport artery.
+If we look at the bigger picture,
+the infrastructure projects within the EAEU and the One Belt, One Road
+initiative in conjunction with the Northeast Passage can completely reconfigure
+transportation on the Eurasian continent, which is the key to exploring new
+territory and intensifying economic and investment activity. Let us pave these
+roads to development and prosperity together.
+Large projects in infrastructure,
+energy, transport and modern hi-tech industries certainly require substantial
+private investments. Therefore, it is important to create convenient, clear and predictable conditions for investors and to establish the smooth exchange of best practices. For example, we have used the experience of the Asia-Pacific
+countries to develop preferential terms for investors in the Priority
+Development Areas in Russia’s Far East.
+We expect newly established
+financial institutions like New Development Bank (BRICS Development Bank) and the Asian Infrastructure Investment Bank to offer a supporting hand to private
+investors. And of course, quality integration is only possible with the support
+of strong human capital, qualified professionals, advanced technology and research.
+To create this foundation, we
+propose that the development of joint education platforms be stepped up and that
+the interaction between universities and business schools be strengthened. My invitation remains open for joint work within major scientific centres and research projects, including the development of large international research
+facilities and laboratories for collective use.
+Colleagues,
+It is obvious that the ideas and initiatives of this forum’s participants require further discussion. And we are
+certainly willing to get involved in these talks. Let me take this opportunity
+to invite political figures and representatives of civic and business
+communities to visit Russia this year, to attend the St Petersburg International
+Economic Forum in June and the Eastern Economic Forum in Vladivostok in September.
+On a final note, I would like to stress that Russia does not simply view the future of the Eurasian partnership as the mere establishment of new ties between states and economies. This
+partnership must shift the political and economic landscape of the continent
+and bring peace, stability, prosperity and a new quality of life to Eurasia.
+Understandably our citizens need
+security, confidence in the future and the opportunity to be productive and improve the wealth and well-being of their families. It is our common duty and responsibility to ensure they have these opportunities.
+In this respect, the greater Eurasia
+is not an abstract geopolitical arrangement but, without exaggeration, a truly
+civilisation-wide project looking toward the future.
+I believe that by maintaining the spirit of cooperation, we can achieve that future. I want to thank President Xi
+Jinping for this well-timed initiative, promising such splendid prospects for cooperation.
+Thank you for your attention. I wish you all good
+luck in the tasks that we’ll take on together.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+May 14, 2017, 05:20
+Direct link:
+en.kremlin.ru/d/54491
+Text version

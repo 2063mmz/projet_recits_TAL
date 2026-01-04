@@ -1,0 +1,23 @@
+seed_url: https://www.ifa.gov.et/sample-page/
+final_url: https://www.ifa.gov.et/sample-page/
+title: About
+date: January 1, 2026
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Mission
+The institute conducts research and analysis on foreign affairs issues, forwards alternative policy directions to policymakers, trains and capacitates foreign relations personnel, and acts as a center of excellence for the country’s diplomacy.
+Vision
+Institute of Foreign Affairs has the vision to be one of the five leading think tanks in foreign affairs research, training, and consulting in Africa by the year 2032.
+Values
+The institute accepts and practices all global ethical principles and values, and it has also its organizational values.
+Patriotism
+Professional Excellence
+Proactive-ness
+Confidentiality
+Collaboration
+Problem-solving
+New perspective
+Trustworthy

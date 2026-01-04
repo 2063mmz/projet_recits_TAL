@@ -1,0 +1,72 @@
+seed_url: http://government.ru/en/news/50673/
+final_url: http://government.ru/en/news/50673/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Chernyshenko: Resuming flights between Russia and Vietnam to promote business, tourism, and cultural exchange
+22 January 2024
+15:50
+Dmitry Chernyshenko meeting with the delegation from the Socialist Republic of Vietnam
+22 January 2024
+Dmitry Chernyshenko meeting with the delegation from the Socialist Republic of Vietnam
+22 January 2024
+Dmitry Chernyshenko meeting with the delegation from the Socialist Republic of Vietnam
+22 January 2024
+Secretary of the Central Committee of the Communist Party, Head of the International Department of the Central Committee of the Communist Party of Vietnam Le Hoai Trung, Ambassador of Vietnam to Russia Dang Minh Khoi, Deputy Secretary of the Party Committee of the city of Hanoi Nguyen Van Phong
+22 January 2024
+Предыдущая новость
+Следующая новость
+Dmitry Chernyshenko meeting with the delegation from the Socialist Republic of Vietnam
+Deputy Prime Minister
+of Russia Dmitry Chernyshenko took part in a working meeting with a delegation from
+the Socialist Republic of Vietnam. The meeting participants discussed bilateral
+cooperation in various economic sectors.
+The deputy prime
+minister noted that cooperation with Vietnam was a key priority for Russia.
+“We see that our
+vision of current global and regional issues coincides. We will continue close cooperation
+at multilateral platforms, above all the United Nations. We are also committed
+to continuing cultural exchanges, and scientific and educational contacts,”
+Dmitry Chernyshenko emphasised.
+The meeting participants
+noted an increase in bilateral trade in 2023, as well as initiatives aimed at strengthening trade, economic and humanitarian ties between the countries.
+These include scientific and technical projects, as well as projects in the fields of oil and gas, nuclear technology, and the automotive industry.
+The Deputy Prime
+Minister added that throughout the past year there was an intensive political
+dialogue held between the leadership of both countries. As part of the Belt and Road international forum in Beijing, a meeting was held between Russian
+President Vladimir Putin and Vietnamese President Vo Van Thuong. In addition,
+interdepartmental interaction between Russian entities and the cities and provinces of the republic has increased.
+“Russia is an important partner in many areas. Thanks to your personal contribution and the work of the Russia-Vietnam Intergovernmental Commission, we have been able to resolve many issues, including the resumption of direct flights. We need to be
+dynamic in all areas of cooperation,” said Le Hoai Trung, Secretary of the Central Committee of the Communist Party of Vietnam, Head of the International
+Department of the Central Committee of the Communist Party of Vietnam of the Socialist Republic of Vietnam.
+Dmitry Chernyshenko focused on resuming air
+service between both countries.
+“We hope that direct air service between Russia
+and Vietnam, suspended almost two years ago, will resume in the near future. I am convinced that this will enhance business, tourism, and cultural and humanitarian exchanges,” the Deputy Prime Minister said.
+The first flight, an Aeroflot Boeing 777, is to depart Moscow for Ho Chi Minh City on 31 January. There will be two flights
+weekly.
+The Deputy Prime Minister also suggested
+expanding cooperation during the Games of the Future that will take place in Kazan from 21 February through 3 March. The international multi-sport
+tournament will include 11 athletes from Vietnam competing in cyber-athletics
+and sport programming. Vietnamese leaders are also expected to attend the competitions.
+The meeting participants also touched on the issue of holding events to mark the 30
+anniversary of signing the Treaty on the Foundation for Friendly Relations. Additionally, the Russian side
+suggested holding the 25
+meeting of the Russia-Vietnam
+Intergovernmental Commission in the spring of 2024. State Secretary, Russian
+Deputy Minister of Energy Anastasia Bondarenko, Russian Deputy Minister of Economic Development Vladimir Ilyichev and Deputy Director of the Russian
+Foreign Ministry’s Third Asian Department Vadim Bublikov took part in the meeting.
+Ambassador
+Extraordinary and Plenipotentiary of the Socialist Republic of Vietnam to Russia Dang Minh Khoi, Deputy Secretary of the Communist Party Committee of Hanoi City Nguen Van Phong, Deputy Foreign Minister of the Socialist Republic
+of Vietnam Le Thi Thu Hang and Deputy Minister of Home Affairs of Vietnam Vu
+Chien Thang represented the Vietnamese side.
+Person:
+Dmitry Chernyshenko
+Government of the Russian Federation
+http://government.ru/en/news/50673/
+Highlight selection

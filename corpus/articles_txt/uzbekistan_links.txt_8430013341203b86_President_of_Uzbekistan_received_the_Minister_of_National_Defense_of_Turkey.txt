@@ -1,0 +1,58 @@
+seed_url: https://president.uz/en/lists/view/821
+final_url: https://president.uz/en/lists/view/821
+title: President of Uzbekistan received the Minister of National Defense of Turkey
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President of Uzbekistan received the Minister of National Defense of Turkey
+26.07.2017
+On July 26, President of the Republic of Uzbekistan Shavkat Mirziyoyev received the Minister of National Defense of the Republic of Turkey Nurettin Canikli, who is in our country on an official visit.
+The head of our state, warmly welcoming the guest, noted the intensification of contacts at various levels and mutually beneficial cooperation between the two countries with satisfaction.
+It was emphasized that the fruitful meetings of the leaders of Uzbekistan and Turkey that were held in Samarkand in November of the last year and within the framework of the international forum “One belt, one road” in Beijing in May of this year gave a new dynamic to the development of bilateral multifaceted relations, including in political, trade-economic, investment and cultural-humanitarian spheres.
+During the conversation, the prospects of military and military-technical cooperation were also discussed. Establishment of a practical partnership between the ministries of defense of Uzbekistan and Turkey, including implementation of joint programs in the field of military education is defined as one of the important areas.
+The Minister of National Defense of Turkey expressed his deep gratitude to the President of the Republic of Uzbekistan Shavkat Mirziyoyev for the warm welcome and conveyed sincere greetings and best wishes of the President of the Republic of Turkey Recep Tayyip Erdogan.
+Nurettin Canikli highly appreciated the reforms implemented in Uzbekistan aimed at increasing the potential of the Armed Forces and strengthening the country’s defense capability, as well as emphasized readiness of the Turkish side to develop full-scale cooperation between the two states.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

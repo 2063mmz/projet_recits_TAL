@@ -1,0 +1,426 @@
+seed_url: http://government.ru/en/news/21784/
+final_url: http://government.ru/en/news/21784/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Munich Security Conference
+13 February 2016
+12:00
+Munich, Germany
+Dmitry Medvedev's speech at the panel discussion.
+Dmitry Medvedev’s speech
+Excerpts from replies to questions by journalists
+Transcript:
+Dmitry Medvedev's speech at the panel discussion
+Dmitry Medvedev:
+Ladies and
+gentlemen, distinguished
+colleague Mr Valls, distinguished Mr Ischinger, my speech will be of a more general nature, but I hope it will be useful.
+The first cold war
+ended 25 years ago. This is not long in terms of history, but it is a
+considerable period for individual people and even for generations. And it is
+certainly sufficient for assessing our common victories and losses, setting new
+goals and, of course, avoiding a repetition of past mistakes.
+The Munich Security
+Conference has been known as a venue for heated and frank discussion. This is my first time here. Today I’d like to tell you
+about Russia’s assessment of the current European security situation and
+possible solutions to our common problems, which have been aggravated by the
+deterioration of relations between Russia and the West.
+Visit
+Dmitry Medvedev’s interview for Handelsblatt, Germany
+Dmitry Medvedev’s conversation with President of the Republic of Finland Sauli Niinistö
+Dmitry Medvedev's meeting with Russian and German business leaders at the Munich Security Conference
+Dmitry Medvedev's meeting with Prime Minister of Bavaria Horst Seehofer
+Dmitry Medvedev's conversation with President of Slovenia Borut Pahor
+Dmitry Medvedev's conversation with Prime Minister of France Manuel Valls
+Dmitry Medvedev's interview with Euronews TV channel
+Dmitry Medvedev's interview with Time magazine
+Before coming to
+this conference, I met with President Putin. We talked about his speech at the
+Munich conference in 2007. He said then that ideological stereotypes, double
+standards and unilateral actions do not ease but only fan tensions in
+international relations, reducing the international community’s opportunities
+for adopting meaningful political decisions.
+Did we overstate
+this? Were our assessments of the situation too pessimistic? Unfortunately, I
+have to say that the situation is now even worse than we feared. Developments
+have taken a much more dramatic turn since 2007. The concept of Greater Europe
+has not materialised. Economic growth has been very weak. Conflicts in the
+Middle East and North Africa have increased in scale. The migration crisis is
+pushing Europe towards collapse. Relations between Europe and Russia have
+soured. A civil war is raging in Ukraine.
+In this context, we
+need to launch an intensive dialogue on the future architecture of
+Euro-Atlantic security, global stability and regional threats more than ever
+before. I consider it unacceptable that this dialogue has almost ceased in many
+spheres. The problem of miscommunication has been widely recognised both in
+Western Europe and in Russia. The mechanisms that allowed us to promptly settle
+mutual concerns have been cut off. Moreover, we’ve lost our grasp of the
+culture of mutual arms control, which we used for a long time as the basis for
+strengthening mutual trust. Partnership initiatives, which took much time and
+effort to launch, are expiring one by one. The proposed European security
+treaty has been put on hold. The idea of a Russia-EU Committee on Foreign
+Policy and Security, which I discussed with German Chancellor Angela Merkel in
+Meseberg, has not materialised. We believe that NATO’s policy towards Russia
+remains unfriendly and generally obdurate.
+Speaking bluntly,
+we are rapidly rolling into a period of a new cold war. Russia has been
+presented as well-nigh the biggest threat to NATO, or to Europe, America and
+other countries (and Mr Stoltenberg has just demonstrated that). They show
+frightening films about Russians starting a nuclear war. I am sometimes
+confused: is this 2016 or 1962?
+But the real
+threats to this small world are of an absolutely different nature, as I hope
+you will admit. The term “European security” is now more embracing that it used
+to be. Forty years ago it concerned above all military and political relations
+in Europe.  But new issues have come to
+the fore since then, such as sustainable economic development, inequality and
+poverty, unprecedented migration, new forms of terrorism and regional
+conflicts, including in Europe. I am referring to Ukraine, the volatile
+Balkans, and Moldova that is teetering on the brink of a national collapse.
+The cross-border
+threats and challenges, which we for a while believed to have been overcome,
+have returned with a new strength. The new threats, primarily terrorism and
+extremism, have lost their abstract form for the majority of people. They have
+become reality for millions in many countries. As Mr Valls has just mentioned,
+they have become a daily threat. We can expect an airplane to be blown up or
+people in a café to be shot every day. These used to be everyday events in the
+Middle East, but now it’s the same the world over.
+We see that
+economic, social and military challenges have become mutually complementary.
+But we continue to act randomly, inconsistently, and in many cases exclusively in
+our own national interests. Or a scapegoat is appointed in an arbitrary manner.
+I am offering you five theses
+on security as such.
+First, the economy.
+We have approached
+a change in paradigm in international economic relations. The traditional
+schemes are no longer effective. Political expediency is taking priority over
+simple and clear economic reason. The code of conduct is revised ad hoc to suit
+a specific problem or task or is bluntly ignored. I’ll just point out how the
+International Monetary Fund adjusted its fundamental rules on lending to
+countries with overdue sovereign debt when the issue concerned Ukraine’s
+sovereign debt to Russia.
+Talks on creating
+economic mega-blocs could result in the erosion of the system of global
+economic rules.
+Globalisation,
+which was a desired objective, has to a certain extent played a cruel joke on
+us. I personally talked about this with my colleagues at the G8 meetings when
+everyone needed them. But times change rapidly. Even a minor economic shift in
+one country now hits whole markets and countries almost immediately. And global
+regulation mechanisms cannot effectively balance national interests.
+The energy market remains extremely unstable.
+Its volatility has affected both importers and exporters.
+We regret that the
+practice of unilateral economic pressure in the form of sanctions is gaining
+momentum. Decisions are taken arbitrarily and at times in violation of
+international law. This is undermining the operating foundations of
+international economic organisations, including the World Trade Organisation.
+We have always said, I have always said that sanctions hit not only those
+against whom they are imposed but also those who use them as an instrument of
+pressure. How many joint initiatives have been suspended because of sanctions! I
+have just met with German businessmen and we discussed this issue. Have we
+properly calculated not only the direct but also the indirect costs for
+European and Russian business? Are our differences really so deep, or are they
+not worth it? All of you here in this audience – do you really need this?
+This is a road to
+nowhere. Everyone will suffer, mark my words. It is vitally important that we
+join forces to strengthen a new global system that can combine the principles
+of effectiveness and fairness, market openness and social protection.
+Second, the crisis
+of the global economic development model is creating conditions for a variety
+of conflicts, including regional conflicts.
+European
+politicians thought that the creation of the so-called belt of friendly
+countries on the outer border of the EU would reliably guarantee security. But
+what are the results of this policy? What you have is not a belt of friendly
+countries, but an exclusion zone with local conflicts and economic trouble both
+on the eastern borders (Ukraine and Moldova) and on the southern borders (the
+Middle East and North Africa, Libya and Syria).
+The result is that
+these regions have become a common headache for all of us.
+Dmitry Medvedev's speech at the panel discussion
+The Normandy format
+has helped us launch negotiations on Ukraine. We believe that there are no
+better instruments for a peaceful settlement than the Minsk Agreements.
+We welcome France’s
+balanced and constructive stance on Ukraine and on all other acute
+international issues. I fully agree with Mr Valls that the Russian-French
+dialogue never stopped, and that it has produced concrete results.
+It is true that all
+sides must comply with the Minsk Agreements. But implementation primarily
+depends on Kiev. Why them? Not because we are trying to shift responsibility,
+but because it’s their time.
+The situation is
+very unstable, despite progress made in a number of areas (heavy weaponry
+withdrawal, the OSCE mission and other issues).
+What is Russia’s
+biggest concern?
+First and most
+important, a comprehensive ceasefire is not being observed in southeastern
+Ukraine. Shooting is routinely reported at the line of contact, which should
+not be happening. And we must send a clear signal to all the parties involved,
+in this regard.
+Second, amendments
+to the Ukrainian Constitution have not been approved to this day, although this
+should have been done by the end of 2015. And the law on a special status for
+Donbass has not been implemented.
+Instead
+of coordinating specific decentralisation parameters with the regions, and this
+is the crucial issue, Ukraine has adopted so-called “transitional provisions,” even though the above requirements were put in black
+and white in the Minsk Agreements.
+Third, Kiev continues to insist that
+local elections be based on a new Ukrainian law. Furthermore, Kiev has not
+implemented its commitment on a broad amnesty that should embrace all those who
+were involved in the developments in Ukraine in 2014-2015. Without being
+amnestied, these people will be unable to participate in elections, which will
+make any election results questionable. The OSCE will not endorse this.
+As I said, the Minsk Agreements must
+be implemented in full and this
+is Russia’s stance on the issue.  At the same time, being reasonable people open to discussing various
+ideas, including a compromise, we, for instance, accepted the initiative of Mr Steinmeier on the
+temporary application of the law on special status as soon as the election
+campaign begins. After the OSCE Office for Democratic Institutions and Human
+Rights recognises the election results, this law must be applied permanently. But there’s still no progress here,
+despite the compromise suggested.
+Of course, the humanitarian
+situation is extremely alarming. The economy of southeastern Ukraine is
+deteriorating, that part of Ukraine is blockaded, and the German Chancellor’s
+initiative on the restoration of the banking system in the region there has been rejected. Tens of
+thousands of people are living on the verge of a humanitarian catastrophe.
+Oddly, Russia seems to be more concerned
+about this than Ukraine, why
+is this so? We have been sending and will have to continue sending
+humanitarian convoys to southeastern Ukraine.
+I must say that Russia has shown and
+will continue to show
+reasonable flexibility in the implementation of the Minsk Agreements where this
+doesn’t contradict their essence. But we can’t do what is not in our
+competence. That is, we cannot implement the political and legal obligations of
+the Kiev government. This is under the direct authority of the President, the
+Government and the Parliament of Ukraine. But unfortunately, it appears that they don’t have the
+will or a desire to do it. I think this has become obvious to everyone.
+As for Syria, we have been working
+and will continue to work to implement joint peace initiatives. This is a
+difficult path, but there is no alternative to an interethnic and
+interreligious dialogue. We must preserve Syria as a union state and prevent
+its dissolution for denominational reasons. The world will not survive another
+Libya, Yemen or Afghanistan. The consequences of this scenario will be
+catastrophic for the Middle East. The work of the International Syria Support Group gives us a certain
+hope. They gathered here the day before yesterday and coordinated a list of
+practical measures aimed at implementing the UN Security Council Resolution
+2254, including the delivery of humanitarian aid to civilians and outlining the
+conditions for a ceasefire, except for terrorist groups, of course. The implementation
+of these measures is to be led by Russia and the United States. I would like to
+emphasise that the daily work of the Russian and American militaries is the key
+here. I’m talking about regular work without the need to seek incidental
+contacts, day-to-day work, everyday work.
+course, there should be no preliminary conditions to start the talks on the
+settlement between the Syrian government and opposition, and there is no need
+to impend anyone with a land military operation.
+Third, we sincerely believe that if
+we fail to normalise the situation in Syria and other conflict areas, terrorism
+will become a new form of war that will spread around the world. It will not be
+just a new form of war but a method of settling ethnic and religious conflict,
+and a form of quasi-state governance.
+Imagine a group of countries that are governed by terrorists through
+terrorism. Is this the 21
+century?
+It is common knowledge that
+terrorism is not a problem within individual countries. Russia first raised
+this alarm two decades ago. We tried to convince our partners that the core
+causes were not just ethnic or religious differences. Take ISIS, whose ideology
+is not based on Islamic values but on a blood-thirsty desire to kill and
+destroy. Terrorism is civilisation’s problem. It’s either us or them, and it’s time for everyone to
+realise this. There are no nuances or undertones, no justifications for
+terrorist actions, no dividing terrorists into ours or theirs, into moderate or
+extremist.
+The destruction of the Russian plane
+over Sinai, the terrorist attacks in Paris, London, Israel, Lebanon, Pakistan,
+Iraq, Mali, Yemen and other countries, the grisly executions of hostages,
+thousands of victims, and endless other threats are evidence that international
+terrorism defies state borders. Terrorists and extremists are trying to spread
+their influence not only throughout the Middle East and North Africa but also
+to the whole of Central Asia. Unfortunately, they have so far been successful, mostly
+because we are unable to set our differences aside and to really join forces
+against them. Even cooperation at the security services level has been
+curtailed. And this is ridiculous, like we don’t want to work with you. Daesh
+should be grateful to my colleagues, the leaders of the Western countries who
+have suspended this cooperation.
+Before coming to this conference, I
+read much material, including some by Western experts. Even those who don’t
+think positively about Russia admit that, despite our differences, the
+“anti-terrorist formula” will not be effective without Russia. On the other
+hand, they sometimes frame this conclusion in an overall correct, but slightly different
+way, saying that a weak Russia is even more dangerous than a strong Russia.
+Fourth, regional conflicts and
+terrorism are closely related to the unprecedentedly large issue of
+uncontrolled migration. This could be described as a great new transmigration
+of peoples and the culmination of the numerous problems of modern global
+development. It has affected not only Western Europe but also Russia. The
+inflow of migrants from Syria to Russia is not very large, but the inflow of
+migrants from Ukraine has become a serious problem. Over a million Ukrainian
+refugees have entered Russia over the past 18 months.
+Wars and related deprivations,
+inequality, low standards of living, violence, and fanaticism force people to
+flee their homes. Unsuccessful attempts to spread Western models of democracy
+to a social environment that is not suited for this have resulted in the demise
+of entire states and have turned huge territories into zones of hostility. I
+remember how my colleagues once rejoiced at the so-called Arab Spring. I literally
+witnessed it. But has modern democracy taken root in these countries? Looks
+like it has, but in the form of ISIS.
+Human capital is degenerating in the
+countries the refugees are leaving. And these countries’ development prospects
+have taken a downward turn. The ongoing migration crisis is rapidly acquiring
+the features of a humanitarian catastrophe, at least in some parts of Europe.
+Social problems are growing too, along with mutual intolerance and xenophobia.
+Not to mention the fact that hundreds and thousands of extremists enter Europe
+under the guise of being refugees. Other migrants are people of an absolutely
+different culture who only want to receive monetary benefits without doing
+anything to earn them. This poses a very real danger to the common economic
+space. The next targets will be the cultural
+space and even the European identity. We watch with regret how invaluable
+mechanisms, which Russia also needs, are being destroyed. I am referring to the
+actual collapse of the Schengen zone.
+For our part, we are willing to do
+our best to help address the migration issue, including by contributing to
+efforts to normalise the situation in the conflict regions from which the
+majority of refugees come, Syria among them.
+And fifth, let’s be as honest as
+possible. The majority of these challenges did not develop yesterday. And they
+were definitely not invented in Russia. Yet we haven’t learned to react to
+these challenges properly or even proactively.
+This is why the bulk of resources go into dealing with the consequences, often
+without identifying the root cause. Or we invest our energy not in fighting the
+real evil, but in deterring our neighbours, and this problem has just been
+voiced here The West continues to actively use this deterrence doctrine against
+Russia. The fallacy of this approach is that we will still be debating the same
+issues in 10 and even 20 years. Provided there will be anything to debate about,
+of course, as discussions are not on the agenda of the Great Caliphate.
+Opinions on the prospects for
+cooperation with Russia differ. Opinions also differ in Russia. But can we
+unite in order to stand up against the challenges I mentioned above? Yes, I am
+confident that we can. Yesterday we witnessed a perfect example in the area of
+religion. Patriarch Kirill of Moscow and All Russia and Pope of the Catholic
+Church Francis met in Cuba following hundreds of years when the two churches did
+not communicate. Of course, restoring trust is a challenging task. It’s
+difficult to say how long it would take. But it is necessary to launch this
+process. And this must be done without any preliminary conditions. Either all
+of us need to do this or none of us. In the latter case, there will be no
+cooperation.
+We often differ in our assessments
+of the events that took place over the past two years. However, I want to emphasise
+that they don’t differ as much as they did 40 years ago when we signed the
+Final Helsinki Act and when Europe was literally divided by The Wall. When old
+phobias prevailed, we were deadlocked. When we managed to join forces, we
+succeeded. There is much evidence to support this. We managed to agree on the
+reduction of strategic offensive weapons, which was a breakthrough achievement.
+We have worked out a compromise solution regarding Iran’s nuclear programme. We
+have convinced all sides in the Syrian conflict to sit down at the negotiating
+table in Geneva. We have coordinated actions against pirates. And the Climate
+Change Conference was held in Paris last year. We should replicate these
+positive outcomes.
+Ladies and gentlemen,
+The current architecture of European
+security, which was built on the ruins of World War II, allowed us to avoid
+global conflicts for more than 70 years. The reason for this was that this
+architecture was built on principles that were clear to everyone at that time,
+primarily the undeniable value of human life. We paid a high price for these
+values. But our shared tragedy forced us to rise above our political and
+ideological differences in the name of peace. It’s true that this security
+system has its issues and that it sometimes malfunctions. But do we need one
+more, third global tragedy to understand that what we need is cooperation
+rather than confrontation?
+I’d like to quote from John F.
+Kennedy, who used very simple but the most appropriate words, “Domestic policy
+can only defeat us; foreign policy can kill us.” In the early 1960s the world
+stood at the door of a nuclear apocalypse, but the two rivalling powers found
+the courage to admit that no political confrontation was worth the human lives.
+I believe that we have become wiser
+and more experienced and more responsible. And we are not divided by
+ideological phantoms and stereotypes. I believe that the challenges we are
+facing today will not lead to conflict but rather will encourage us to come
+together in a fair and equal union that will allow us to maintain peace for
+another 70 years, at least.
+Thank you.
+Excerpts
+from replies to questions by journalists
+Munich Security Conference
+Question
+(via interpreter)
+My name is Mingus
+Campbell, I am from the United Kingdom. My question is addressed to Prime
+Minister Medvedev. Is it accepted in Russia that increased influence in Syria
+brings with it responsibility for all of the citizens of Syria? And if that is
+so, how has that responsibility been exercised in respect of the citizens of
+Aleppo who are now fleeing in such numbers?
+Dmitry Medvedev:
+Thank you. I will continue
+answering questions concerning Syria, including the situation in Aleppo, but
+not limited to that.
+I think a large part of the people present here have never been to
+Syria, whereas I have been there. I made an official visit there when Syria was
+a quiet, peaceful, secular nation, where life was stable and balanced for
+everybody: the Sunnis and the Shiites, the Druze, Alawites and Christians.
+Almost six years have passed since then. Today we see Syria that is torn
+by a civil war. Let us ask a question: who is to blame for that? Is it al-Assad
+alone? It is absolutely evident that without a certain external influence Syria
+could have gone on with its life. But I remember those talks, those
+conversations with my partners, both European and American, who kept on telling
+me the same thing over and over: al-Assad is no good, he should step down, and
+then peace and prosperity will reign there. And what has came of it? It
+resulted in a civil war.
+This is the reason I cannot but agree with my colleague, Prime
+Minister Valls, in that we must join efforts to solve this issue, but we must
+work effectively, not just watch as events unfold there, not just watch one
+party attack another; not divide the warring parties into those who are on our
+side and adversaries, but instead sit them all down at the negotiating table, except
+those who we have agreed to treat as real terrorists. We know who they are.
+Russia is not pursuing any special goals there except the ones that have
+been declared. We are defending our national interests because a large number
+of militants fighting there came from Russia and neighbouring countries, and
+they can come back to wage terrorist attacks. They must stay there...
+This does not apply to civilians in any way. Unlike most of the
+countries present in the region, we have been helping civilians. Nobody has any
+proof that we have been bombing civilian targets there, even though they keep
+on talking about it, about wrong targets and so forth. They do not share
+information. I have just said this from the stand – the military must keep in
+constant contact. They should call each other a dozen times a day. Otherwise
+there will always be skirmishes and conflicts. And this is our mission. We are
+ready for such cooperation. I expect that we will see some positive development
+from the dialogue we had here in terms of both achieving a ceasefire in Syria
+and the humanitarian issues. It is crucial that we should agree on key points, because
+otherwise, and I think it is no secret for anyone, Syria will split into
+separate parts, the way it happened to Libya and the way it is in fact happening
+with a number of other nations in the region. What does that entail? It poses a
+threat of the conflict becoming permanent. The civil war will go on, Daesh or
+its successors will always be there, while we will engage in arguments as we
+try to figure out which of them is good and which is bad, who should receive
+our support and who shouldn’t. We have a common enemy, and that it the premise we
+should start with.
+Now I would like to come back to the topic of Ukraine. I cannot assess
+the past developments in Ukraine; the Russian leadership has already done this a
+number of times, including myself. I will answer the part of the question
+regarding the air crash investigation. Obviously, the Russian Federation is no
+less interested in an unbiased investigation than the countries whose citizens lost
+their lives in the crash. It is indeed an enormous tragedy. But even the tone
+of the question implies that the person asking it has already decided who is
+responsible, who should bear the legal responsibility, no investigation is
+needed, certain justice committees should be set up instead and certain legal
+procedures followed. But this is not the way it is done. This should be a
+regular comprehensive investigation that would cover all the relevant aspects. This
+is the first point. And second, this is unfortunately not the first case in the
+world of this kind. Such tragedies have never been dealt with by criminal courts
+or other similar agencies. These are issues of a different order. And this is
+what we have to agree on. Russia is ready to provide any information to
+contribute to a quality investigation.
+<…>
+Government of the Russian Federation
+http://government.ru/en/news/21784/
+Highlight selection

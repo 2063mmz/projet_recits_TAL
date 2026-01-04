@@ -1,0 +1,88 @@
+seed_url: http://en.kremlin.ru/events/president/news/54496
+final_url: http://en.kremlin.ru/events/president/news/54496
+title: Roundtable meeting of leaders at Belt and Road international forum
+date: 2017-05-15
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Roundtable meeting of leaders at Belt and Road international forum
+Vladimir Putin attended
+the first roundtable meeting of leaders at the Belt and Road international forum, which covered integration issues and the further development of economic partnership.
+May 15, 2017
+08:00
+Beijing
+The leaders of the Belt and Road Forum for International Cooperation adopted a joint
+statement
+* * *
+President of Russia
+Vladimir Putin:
+President Xi Jinping, colleagues,
+I listened with great interest to the opening remarks by President Xi
+Jinping yesterday. He laid out ambitious goals, which I would describe as very
+impressive.
+It is obvious that these goals will not be easy to achieve, and that we
+will have to cover a long road together to achieve them. However, this
+initiative is fully in keeping with current development trends, and is
+extremely useful and relevant.
+This is why Russia has not just supported the Belt and Road initiative
+but will actively contribute to achieving it with our Chinese partners and the other concerned parties.
+The creation of an economic development and mutually beneficial trade route
+between Asia and Europe is a highly relevant and important initiative. It takes
+into account today’s global economic trends, major economic changes and cargo
+routes and also reflects the overall demand for coordinating different
+integration formats in Eurasia and other parts of the world, as has been expressed.
+It is important that all of the existing integration structures in Eurasia and any new initiatives be based on universal and generally recognised foundations.
+They must also take into account the specifics of the member states’ national
+development models and be developed openly and transparently.
+Colleagues, Russia is focused on the comprehensive development of
+the Eurasian Economic Union
+Background information
+Eurasian Economic Union (EAEU)
+(EAEU). In recent years, this association has made
+considerable achievements in creating and strengthening a common market with
+common rules for all economic operators.
+Of course, we have also encountered problems, which are not uncommon to all the global economies. At the same time, the EAEU has helped us seriously
+mitigate any negative influence on the member states’ economies and adjust them
+to new global realities.
+The EAEU is steadily developing external ties. Some 50 countries in Europe, Asia and Latin America have shown interest in cooperating with it.
+The Free Trade Agreement between the EAEU and Vietnam came into effect
+in October 2016. The EAEU is negotiating a trade and economic cooperation
+agreement with China and a free trade agreement with Israel. Agreements have
+been reached to launch talks with Egypt, Iran, India, Serbia and Singapore.
+In May 2015, we reached an agreement with our Chinese friends to combine
+integration within the EAEU and China’s Silk Road Economic Belt project.
+Overall, we are talking about the so-called greater Eurasian partnership.
+It provides for developing multilateral cooperation between the countries of the EAEU, the
+Shanghai Cooperation Organisation
+Background information
+Shanghai Cooperation Organisation (SCO)
+and the Association of Southeast Asian Nations.
+Our goal is to create a system of bilateral and multilateral agreements
+to facilitate regulation in customs, sanitary and phytosanitary control, industry
+cooperation and investment, and in protecting intellectual property rights.
+The development of this partnership will certainly take much time and effort. This process involves a careful combination of different depths, speeds
+and levels of integration, but we definitely need to do this. In fact, this is
+what China and President Xi Jinping have proposed at this forum.
+Ultimately, this will enable us to create a common economic space from
+the Atlantic to the Pacific.
+Thank you.
+See also
+Joint Communique of the Leaders Roundtable of the Belt and Road Forum for International Cooperation
+May 15, 2017
+Belt and Road international forum
+May 14, 2017
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+May 15, 2017, 08:00
+Direct link:
+en.kremlin.ru/d/54496
+Text version

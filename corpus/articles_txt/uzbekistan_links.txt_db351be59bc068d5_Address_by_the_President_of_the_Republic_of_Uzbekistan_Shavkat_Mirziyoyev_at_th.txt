@@ -1,0 +1,116 @@
+seed_url: https://www.president.uz/en/lists/view/4940
+final_url: https://www.president.uz/en/lists/view/4940
+title: Address  by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Summit of the Heads of States of Central Asia and China
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address  by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Summit of the Heads of States of Central Asia and China
+25.01.2022
+Distinguised Mr. President Xi Jinping,
+Dear colleagues, dear friends!
+I sincerely greet you and join in the congratulations on the occasion of the 30th anniversary of the establishment of diplomatic relations between the People’s Republic of China and the Central Asian States.
+I express my special gratitude to Mr. Xi Jinping for organizing our meeting.
+Distinguished participants of the summit!
+Over the past 30 years, the comprehensive strategic relations between Uzbekistan and China became dynamic and stable.
+For the further development of our cooperation, we consider it important to focus on the following priorities.
+First.
+The key objective of the Silk Road Economic Belt Initiative is to expand the trade and investment cooperation.
+Through the joint efforts, Uzbekistan’s trade turnover with China has increased 140 times in 30 years. The volume of Chinese investments in our economy has increased fivefold since 2017.
+However, these indicators do not fully reflect the huge available potential.
+Today, China is not only a “global factory”, but also a “global market”.
+We are interested in maximizing these opportunities taking into consideration the complementary advantages of the economies of Central Asia and China.
+We propose to develop a joint strategy for the New Economic Dialogue “China - Central Asia”, which provides for the adoption of targeted measures to ensure unhindered trade and increase the volume of supplies of finished products from Central Asian countries to China, the formation of a common space of industrial cooperation and localization for the production of goods imported by the countries of the region with the involvement of Chinese technologies.
+Second.
+The driver for the development of trade and economic cooperation between Central Asia and China is the transport infrastructure.
+The logistical flaws in supplies along the China–Central Asia route caused by the pandemic have left many industries in our countries without the necessary equipment and raw materials.
+This situation negatively affects the timelines and quality of the implementation of priority investment projects.
+In this regard, we consider it critically important to develop system solutions to ensure the uninterrupted cargo flow and the development of trans-regional logistics networks.
+Along with this, it is important to proceed with the practical implementation of the China–Kyrgyzstan–Uzbekistan railway construction project this year.
+To promptly address these issues, we propose to create a Coordinating Committee at the level of deputy heads of governments of the states of Central Asia and China.
+Third.
+The digitalization is becoming increasingly important in terms of the post-pandemic recovery and accelerated transition to the fourth industrial revolution.
+Considering China’s accumulated experience in this area, we propose to develop the mutually beneficial partnerships in the digital economy and trade development, the introduction of electronic government, blockchain technologies and artificial intelligence.
+To achieve practical results in this direction, we propose to create a joint platform of the “Intellectual Silk Road” based on the IT parks of our countries.
+Fourth.
+We consider it important to strengthen cooperation among our countries in the development of the public health system and the fight against infectious diseases.
+It is noteworthy that the release of the Uzbek-Chinese coronavirus vaccine has been established in a very short time, and its production in the amount of more than 17 million doses has been ensured.
+I take this opportunity to express my gratitude to You, distinguished Mr. Xi Jinping, to the Government and people of China for the invaluable assistance provided to Uzbekistan in the fight against coronavirus infection.
+We stand ready to enhance our cooperation in pharmaceuticals, traditional medicine, advanced training of doctors and partnerships between specialized hospitals.
+We look forward to reaching agreements on the mutual recognition of vaccination passports as soon as possible.
+Fifth.
+We view the consistent implementation of measures to reduce poverty as the most important condition for ensuring the well-being of the population.
+We highly appreciate China’s historic victory over extreme poverty.
+The implementation of measures to combat poverty in Uzbekistan using the Chinese experience has allowed us to remove more than half a million families from the category of needy even in the pandemic conditions.
+We intend to reduce the poverty level by half by 2026.
+To achieve this goal, we look forward to further cooperation with China in modernizing the agricultural sector, growing crops on saline lands, and establishing the production chains between cities and villages.
+Sixth.
+Given a pandemic, the issues of close cooperation in the food security are becoming urgent.
+We can tackle this problem only by joint implementation of the proactive measures to meet the rapidly growing needs of the population for food.
+In this regard, we propose to jointly initiate the adoption of a separate resolution of the UN General Assembly on ensuring food security in the pandemic.
+We deem it important to consider the issues of increasing investments in the food sector and the formation of effective mechanisms for mutual supplies with the creation of “green corridors” in this document.
+Seventh.
+The current direction of our cooperation is the joint promotion of the “climate” agenda and “environmentally friendly development”.
+We plan to increase the share of renewable energy generation in Uzbekistan to 25% by 2026 and reduce the greenhouse gas emissions by 35% by 2030.
+As a part of the Green Silk Road initiative, we propose to develop a roadmap for cooperation in attracting the Chinese investments and technologies in the alternative energy, localization of components and equipment for solar and wind power plants, and training specialized personnel.
+Eighth.
+The development and strengthening of cooperation in culture and humanities are aimed at contributing to the further rapprochement of our peoples.
+In advancing Your initiative, dear Mr. Xi Jinping, to strengthen cultural and humanitarian ties, we offer to declare next year the «Year of Culture and Art of the Peoples of Central Asia and China».
+Taking into account that the youth make up more than half of the population in our countries, it is important to pay a special attention to academic and student exchanges, youth festivals, forums and sports competitions.
+Dear colleagues!
+Given mounting competition and ongoing conflicts in various parts of the world, it is crucial to establish closer cooperation to ensure regional security, including in countering the forces of the “three evils”.
+We are glad that thanks to the wisdom of the Kazakh people and the decisive actions of President Kasym-Jomart Kemelevich Tokayev, the situation in the country has normalized.
+Security is indivisible and peace in Kazakhstan is the key to the stability of our entire region.
+The stabilization of the situation in Afghanistan and the prevention of an intensification of the humanitarian crisis in that country are among our priority issues.
+It is important to continue coordinating our efforts in the Afghan direction in the interests of implementing the “Safe Silk Road” concept.
+We are also interested in joint implementation of the infrastructure projects in Afghanistan with Chinese partners.
+Dear participants of the meeting!
+We fully endorse all the initiatives and proposals voiced by our colleagues, as well as the Joint Statement on the outcomes of today’s summit.
+This document reflects common approaches on the key issues of further strengthening our multifaceted partnerships.
+We are ready to jointly implement the developed Plan for celebrating the 30th anniversary of the establishment of diplomatic relations.
+In conclusion, I would like to once again express my sincere gratitude to You, Mr. Xi Jinping, for organizing today’s meeting, as well as to congratulate You and the entire Chinese people on the upcoming wonderful Spring Holiday – the Chunjie.
+We wish our Chinese friends successful Winter Olympic Games in Beijing.
+Thank you for your attention.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

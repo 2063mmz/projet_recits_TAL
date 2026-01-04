@@ -1,0 +1,70 @@
+seed_url: https://www.ifa.gov.et/2025/12/29/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A4-%F0%9D%90%A2%F0%9D%90%A7/
+final_url: https://www.ifa.gov.et/2025/12/29/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A4-%F0%9D%90%A2%F0%9D%90%A7/
+title: 𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐢𝐧𝐤 𝐢𝐧 𝐁𝐑𝐈𝐂𝐒 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: 𝐓𝐡𝐞 𝐍𝐞𝐞𝐝 𝐟𝐨𝐫 𝐑𝐨𝐛𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦𝐬
+date: Dec 29, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Introduction
+The BRICS grouping—comprising Brazil, Russia, India, China, and South Africa—was founded on three major tenets: political and security, economic and financial, and cultural and people-to-people cooperation. Despite its vast scope of interests and goals, BRICS is still seen as a forum for economic and developmental partnership, rather than a comprehensive political or security alliance (Mdlokovana, 2025).
+In BRICS, the level of cooperation on security is rather
+low and tends to be bilateral.
+There is no collective mechanism established among the member countries on a formal level and as well the platform lacks shared vision on security threats (Cutrera, 2020). In fact, BRICS countries have different views on security. Whereas some member countries tend to perceive it as a military risk; others as sovereignty, or non-intervention, economic security, or some other threats related to cyberspace. These differences make a unified strategy unlikely.
+This means that the BRICS platform lacks the ability to address to common security issues, resolve conflicts, and assure solidarity to its member states in case of external threats. This is even more reinforced by the varied and, at some instances, divergent geopolitical agendas of its member states. This is going to be even more complex considering that there are new BRICS member states including Egypt
+Ethiopia, Iran, United Arab Emirates, Indonesia, and other nine partner Countries included in the platform (
+Makhija
+, 2025).
+There are many instances wherein
+the
+BRICS members have taken
+contradicting stances within regional conflicts.
+A case in point includes China’s strategic partnership with Pakistan which conflicts with India’s national security imperatives (Noor, 2014). This exemplifies that a structural problem may be created within BRICS if a security mechanism is not in place, and hence this may widen gaps in cooperation and hinder deeper integration.
+The Need for Security
+Mechanisms
+Even if the BRICS members share a common vision of transforming global governance and achieving a more multipolar international system, they diverge on their security strategy priorities, threat perceptions, and regional roles which make it challenging to consolidate the bloc (
+De Carvalho
+, 2025). Every member operates in a different geological setting, thereby entertaining separate security threats, such as regional conflicts, border disputes, terrorism, cyber, and economic coercion, among others, which might hamper coordination of security policies and as a result weaken collective threats actions.
+Under such a situation, it is imperative for BRICS to develop appropriate security mechanisms to handle the divergence within the bloc and foster more security among each other, build mutual trust and avoid security deviations that might hamper cooperation in this regard. The key justifications for such mechanisms within BRICS include:
+Towards a Strong Security Framework
+Of more than 180 BRICS cooperation mechanisms, very few actually operate within the security arena. These include: the BRICS National Security Advisors Meeting (endorsed at the II BRICS Summit—Brasilia Joint Statement, 2010); the BRICS Anti-Money Laundering and Countering the Financing of Terrorism Council (endorsed at the VII BRICS Summit—Ufa Declaration, 2015); the BRICS Working Group on Security in the Use of ICTs (endorsed at the VII BRICS Summit—Ufa Declaration, 2015); and the BRICS Working Group on Counter-Terrorism (endorsed at the VIII BRICS Summit—Goa Declaration, 2016).
+Even with the mechanisms above, it can be noted that their scope is dominantly placed within the counter-terrorism and
+cyber security, rather than encompassing broader or collective security concerns in real terms.
+If BRICS is to emerge as a strategic coalition in its true form, it has to move beyond economic coordination and adopt
+more comprehensive strategic approach to security. The comprehensive security framework would give rise to an opportunity where conflicts can be dealt with on a collaborative basis and would also facilitate increased transparency among its members. Adopting a collective approach would also increase its stature on the international scene and would give BRICS a much more significant opportunity to play its part in international security.
+Preventing Negative
+Repercussions
+Without binding security cooperation measures in place, member states remain free to support external actors outside the bloc that may be at odds with fellow BRICS members. Such actions set troubling precedents that can be repeated and amplified. In cases where one BRICS member finds itself supporting an ally of an adversary of another, such incidents create
+conflicts
+of interest between member states, eroding trust and undermining strategic cohesion within the bloc. Ideally, a structured security strategy would help limit these contradictions by establishing
+clear
+and expectations
+reducing the likelihood of members taking actions that harm each other’s interests.
+Avoiding Support for Opponents of Member States
+Being such a long-term cooperative framework, BRICS faces threats if its member states support organizations or countries that can potentially threaten other member states. If such patterns continue, there is every possibility that its relevance and credibility can diminish. For development of its security strategies, there should provisions that can deter member states from providing political, financial, or military support to any actor that can threaten other BRICS member countries. In such a way the bloc can better maintain unity and strengthen its collective voice in global affairs by promoting internal solidarity.
+Conclusion
+Indeed, it can be argued that to date, the BRICS grouping has not yet materialized or can be said “failed to” carve out a comprehensive security strategy, which is partly owing to the divers , sometimes conflicting, geopolitical interests of its member states. that belong to the same alliance umbrella . Thus, it is recommended that in order to overcome these challenges, and strengthen the bloc’s strategic relevance, BRICS ought to make efforts to collectively carve out a shared security framework that includes common principles, conflict-prevention, improved intelligence sharing, and informal norms to
+desist from taking the side of those who might be considered hostile to any member state could be incorporated. Additionally, it would also be of paramount
+importance to include initiatives such as structured security dialogues and
+peacekeeping cooperation to deepen trust and help transform trust and help BRICS from a primarily economic partnership to a more coherent and influential global coalition.
+References
+Cutrera, F. (2020). BRICS Policy Center Centro de Estudos e Pesquisas – BRICS Do the BRICS care about International Security? BPC Policy Brief – V. 9 N. 2
+De Carvalho
+, G. (2025). BRICS: Rising Tensions and Opportunities in Global Cooperation, THINK BRICS.
+https://thinkbrics.substack.com/p/brics-rising-tensions-and-opportunities
+Makhija
+, H. (2025). BRICS on Multilateral Peace and Security Architecture. Observer Research Foundation (ORF).
+https://www.orfonline.org/expert-speak/brics-on-multilateral-peace-and-security-architecture
+Noor, S. (2024). BRICS Security Cooperation.
+https://www.linkedin.com/pulse/brics-security-cooperation-solayman-noor-5xkqe
+Mdlokovana, S. (2025). BRICS+ Series: Beyond NATO, BRICS and the New Global SecurityFramework. IOL.
+https://thestar.co.za/business-report/brics/2025-03-04-brics-series-beyond-nato-brics-and-the-new-global-securityframework
+BY:
+Haimanot Eshetu (PhD),
+Senior Researcher at the Institute of Foreign Affairs (IFA)
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.

@@ -1,0 +1,130 @@
+seed_url: http://en.kremlin.ru/events/president/news/60393
+final_url: http://en.kremlin.ru/events/president/news/60393
+title: Roundtable discussion at Belt and Road Forum for International Cooperation
+date: 2019-04-27
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Roundtable discussion at Belt and Road Forum for International Cooperation
+Vladimir Putin took part in the first roundtable discussion at the
+Belt and Road
+Forum for International Cooperation in Beijing.
+April 27, 2019
+09:00
+Beijing
+The
+Belt and Road
+project combines
+the initiatives of the Silk Road Economic Belt and the 21st-century Maritime
+Silk Road, proposed by President of the People's Republic of China
+Xi Jinping
+Xi Jinping
+President of People's Republic of China
+in 2013, and implies developing a number of ambitious ‘economic corridors’.
+The task will be solved through the integrated development of trans-border transport and logistics, energy and telecommunications
+infrastructure along with measures to coordinate macroeconomic policy, remove
+barriers in trade and investment, switch to the use of national currencies in trade, develop industrial cooperation, and expand the social basis of inter-state relations through boosting people-to-people contacts.
+* * *
+Speech at the first
+roundtable discussion at the
+Belt and Road
+Forum for International Cooperation
+President of Russia
+Vladimir Putin:
+Chairman, Mr Xi Jinping, colleagues,
+It is obvious that ensuring stable and sustained economic growth and strengthening comprehensive links between countries and integration
+associations on the Eurasian subcontinent requires an advanced transport,
+energy and telecommunications infrastructure, as President Xi Jinping and Ms Lagarde
+have just said.
+I should note that Russia is currently implementing comprehensive
+national projects, which cover major sectors crucial for dynamic economic
+development. Most significantly, we allocate resources to infrastructure programmes
+worth hundreds of billion dollars in investment.
+See also
+Belt and Road Forum for International Cooperation
+April 26, 2019
+The implementation of the long-term tasks we set in the infrastructure
+development area will undoubtedly have a great synergistic effect – hopefully,
+not only for Russia but for the entire Eurasian region as well.
+As regards the transport infrastructure, its modernisation and expansion
+is Russia's major priority. The Safe and Quality Roads national project will
+receive some 4.3 trillion rubles until 2024 (which is 4.8% of the GDP and amounts to about $80 billion). We will also allocate 6.35 trillion rubles for a comprehensive programme for developing trunk road infrastructure (6.3% of the GDP, or slightly more than $130 billion).
+We are making consistent efforts to modernise the Trans-Siberian Railway
+and the Baikal–Amur Mainline, which connect Russia's European part with its Far
+East. We plan to raise their capacity 1.5-fold and increase the volume of annually
+transported cargo to 210 million tonnes by 2025.
+We are paying particular attention to the development of the Northern
+Sea Route and considering the opportunity to connect it to China's Maritime
+Silk Road and thus create a global and competitive route that will connect Northeast
+Asia, East Asia and Southeast Asia with Europe.
+Such an ambitious project implies close cooperation between Eurasian
+countries in boosting cargo transportation as well as constructing port
+terminals and logistics centres. We invite the countries present here to join
+in its implementation.
+The development of the International North–South Transport Corridor of over 7,000 km offers new prospects as well. It will include establishing
+railway and road transportation, which will allow for a considerable growth of cargo traffic from South Asia through Iran, Azerbaijan and Russia to Europe.
+As regards improving the Eurasian transport infrastructure, Russia is
+closely cooperating with its partners in the Shanghai Cooperation Organisation,
+which is implementing the Agreement on Creating Favourable Conditions for International
+Road Transportation. In accordance with the agreement, six new routes will be
+launched next year, including the Western Europe – Western China transit corridor
+that will connect the Yellow Sea ports of the People's Republic of China with
+ports in Russia's Leningrad Region.
+Therefore, our aim is to develop Russia's nationwide transportation
+network with a view to its integration with Eurasian countries' transportation
+arteries.
+Another fundamentally important area of cooperation to provide
+interconnection in the Eurasian continent is creating a common energy
+infrastructure. As you may know, Russia is taking active efforts to expand the oil and gas pipeline trans-border network. The construction of the Power of Siberia natural gas pipeline is in full swing to provide safe and uninterrupted
+deliveries of natural gas to China and the entire Asia-Pacific region. The construction of gas pipelines in Russia's European part is nearing completion: those
+are the Nord Stream pipeline laid along the bottom of the Baltic Sea and the Turkish
+Stream along the bottom of the Black Sea, which aim to enhance Europe's energy
+security.
+Russia is also building capacity to produce and export liquefied natural
+gas. Last year, our LNG exports grew by over 70 percent and amounted to almost
+27 billion cubic metres. Within the next 20 years, we expect this volume to reach 100 billion cubic metres. Work will be implemented to build new plants in Russia's northern territories – Yamal LNG and Arctic LNG. We are considering the opportunity to expand the large-scale Sakhalin-2 oil and gas development
+project in Russia's Far East.
+We believe that all these oil and gas projects are making a considerable
+contribution to boosting energy security in the entire Eurasian continent and creating a large Eurasian energy space.
+Finally, the third major aspect of the Eurasian infrastructure system is
+digital networks and telecommunications.
+Russia is going through a process of forming an information society,
+where digital solutions are stimulating economic competitiveness, GDP growth,
+and people’s quality of life.
+Russia is among the top ten countries in terms of broadband Internet
+access. In the coming year, we plan to begin using 5G networks. Together with
+the Eurasian Economic Union member states, Russia is introducing universal
+standards of information exchange and protection and building a digital space.
+I believe that in the long term, we will succeed in creating such a space
+across the entire Eurasian continent and establishing coordinated rules for online trade.
+We initiated the development of the APEC Internet and Digital Economy
+Roadmap. We are closely cooperating with ASEAN member states in the issues of information
+and communication technology's secure use.
+Russia is promoting a number of large-scale initiatives in the UN, SCO,
+BRICS and at East Asia summits related to exchanging experience in state oversight
+of the digital sector and harmonisation of national strategies of developing
+technology markets of the future.
+In other words, we advocate joining all states' efforts with the aim of building an open digital space and a unified telecommunications system.
+Ladies and gentlemen,
+Russia is committed to active joint work with all interested partners in seeking new growth drivers, boosting relations in the Eurasian continent, and achieving
+many other common goals. I am confident that by taking joint efforts we will
+succeed for the benefit of our nations and all Eurasian states.
+Thank you for your attention.
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Telecommunications
+Transport
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 27, 2019, 09:00
+Direct link:
+en.kremlin.ru/d/60393
+Text version

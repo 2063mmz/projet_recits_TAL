@@ -1,0 +1,12 @@
+seed_url: https://www.ifa.gov.et/2025/10/15/ethiopia-and-belgium-hold-first-joint-political-consultations-to-strengthen-bilateral-ties/
+final_url: https://www.ifa.gov.et/2025/10/15/ethiopia-and-belgium-hold-first-joint-political-consultations-to-strengthen-bilateral-ties/
+title: Ethiopia and Belgium Hold First Joint Political Consultations to Strengthen Bilateral Ties
+date: Oct 15, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+State Minister H.E. Ambassador Hadera Abera Admasu co-chaired the inaugural Ethio-Belgium Joint Political Consultations alongside H.E. Theodora Gentzis, Secretary-General of the Belgian Ministry of Foreign Affairs.
+The two sides reaffirmed their commitment to deepening the longstanding and enduring bilateral relationship and explored new avenues for economic cooperation, multilateral engagement, and partnership across key sectors.
+The consultations highlighted both nations’ shared interest in advancing sustainable development, trade, and diplomatic collaboration, reflecting the robust foundation of Ethiopia–Belgium relations.

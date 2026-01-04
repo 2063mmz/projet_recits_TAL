@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2025/10/15/president-taye-atske-selassie-highlights-ethiopias-commitment-to-sustainable-growth-at-second-global-gateway-forum/
+final_url: https://www.ifa.gov.et/2025/10/15/president-taye-atske-selassie-highlights-ethiopias-commitment-to-sustainable-growth-at-second-global-gateway-forum/
+title: President Taye Atske Selassie Highlights Ethiopia’s Commitment to Sustainable Growth at Second Global Gateway Forum
+date: Oct 15, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President Taye Atske Selassie Highlights Ethiopia’s Commitment to Sustainable Growth at Second Global Gateway Forum
+H.E. President Taye Atske Selassie addressed the opening of the Second Global Gateway Forum in Brussels, reaffirming Ethiopia’s readiness to actively engage in the Global Gateway Initiative.
+The President emphasized that Ethiopia’s ambitions in renewable energy development form the foundation of its prosperity, supported by a progressive investment ecosystem and a strategic approach to connectivity that enhances international cooperation.
+He underlined Ethiopia’s commitment to advancing sustainable and inclusive growth through strengthened global partnerships under the Global Gateway framework, aimed at promoting green transformation, resilient infrastructure, and shared prosperity across Africa.

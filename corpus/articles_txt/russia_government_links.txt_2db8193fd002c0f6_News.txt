@@ -1,0 +1,100 @@
+seed_url: http://government.ru/en/news/22590/
+final_url: http://government.ru/en/news/22590/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the Eurasian Intergovernmental Council
+13 April 2016
+12:30
+Gorki, Moscow Region
+Dmitry Medvedev: “Our Union has grown into a modern and efficient integration project that yields tangible results when the economy is on the rise, as well as at times of economic uncertainty. A single market with 180 million consumers is by definition more resilient and has bigger reserves than its constituent economies separately”.
+Restricted-attendance meeting of the Eurasian Intergovernmental Council
+13 April 2016
+With Prime Minister of Belarus Andrei Kobyakov
+13 April 2016
+With Prime Minister of Armenia Hovik Abrahamyan
+13 April 2016
+With Prime Minister of Kazakhstan Karim Massimov
+13 April 2016
+With Deputy Prime Minister of Kyrgyzstan Oleg Pankratov
+13 April 2016
+Group photo of the delegation heads taking part in the Eurasian Intergovernmental Council meeting
+13 April 2016
+Expanded meeting of the Eurasian Intergovernmental Council
+13 April 2016
+Expanded meeting of the Eurasian Intergovernmental Council
+13 April 2016
+Signing documents adopted during the meeting
+13 April 2016
+Предыдущая новость
+Следующая новость
+Restricted-attendance meeting of the Eurasian Intergovernmental Council
+Delegation heads
+attending the meeting of the Eurasian Intergovernmental Council:
+Prime Minister of Armenia Hovik
+Abrahamyan
+Prime Minister of Belarus
+Andrei Kobyakov
+Prime Minister of
+Kazakhstan Karim Massimov
+Prime Minister of Russia
+Dmitry Medvedev
+Deputy Prime Minister of
+Kyrgyzstan Oleg Pankratov
+Chairman of the Board of
+the Eurasian Economic Commission Tigran Sargsyan
+Excerpts from Dmitry Medvedev’s remarks:
+Our Union has grown into a modern and efficient
+integration project that operates on the territory of its member states and
+yields tangible results when the economy is on the rise, as well as at times of
+economic uncertainty.
+The renewed Board of the Eurasian Economic Commission
+has been working since February 2016, chaired by Tigran Sargsyan.
+Meeting of the Eurasian Intergovernmental Council, 8 September 2015
+Meeting of the Eurasian Intergovernmental Council, 29 May 2015
+Meeting of the Eurasian Intergovernmental Council, 6 February 2015
+Statistics are there to show that the Union helps
+stabilise the economies of its five member states. A single market with 180
+million consumers is by definition more resilient and has bigger reserves than
+its constituent economies separately.
+In 2016, Kazakhstan chairs the Union and its
+structures. Russia supports the priorities highlighted by Kazakhstan. It is
+important to focus on improving the contractual and legal framework of Eurasian
+integration, phasing out exemptions from the four freedoms (free movement of
+goods, services, capital and workers), and moving on to establish single
+markets in the key sectors of the economy. In this context, it is essential to
+draft and adopt a new Union customs code, an agreement on requirements
+regarding activities on the financial market and a number of other documents.
+As for the customs code, we need a document that would
+be directly applicable, unifying customs clearing procedures on the Union’s
+external border, making procedures more transparent and predictable. In this
+context, it is very important to align information systems used by customs
+services, and accelerate the introduction of product labelling.
+The single market for pharmaceutical and medical
+products deserves special attention. We need to settle the existing
+contradictions and adopt all documents envisaged in the agreements on single
+principles and rules governing pharmaceutical and medical products. This market
+should become fully operational this year.
+Expanded meeting of the Eurasian Intergovernmental Council
+China is one of the largest trade and investment
+partners for EAEU member states. We are looking forward to stepping up
+cooperation along these lines with a view of creating an even more favourable
+environment for all those who operate on the Eurasian space, as well as
+aligning the Eurasian Economic Union project with China’s Silk Road Economic
+Belt initiative. We should also be mindful of the prospects for cooperation
+between EAEU and the People’s Republic of China.
+Another item on the agenda is prospects for
+establishing ties between the Eurasian Economic Union and the European Union.
+We have been receiving signals lately that European partners are increasingly
+interested in working with us. They were not ready to move in this direction
+until recently, but now it seems that there are some encouraging signs. We are
+ready to move in this direction, but only on equal, mutually beneficial terms
+and taking into account each other’s interests.
+Government of the Russian Federation
+http://government.ru/en/news/22590/
+Highlight selection

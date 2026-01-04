@@ -1,0 +1,157 @@
+seed_url: https://scholar.google.fr/scholar?q=Belt+and+Road+site:kemlu.go.id&hl=fr&as_sdt=0&as_vis=1&oi=scholart
+final_url: https://scholar.google.fr/scholar?q=Belt+and+Road+site:kemlu.go.id&hl=fr&as_sdt=0&as_vis=1&oi=scholart
+title: Google Scholar
+date: 4 April 2021
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+[PDF]
+kemlu.go.id
+Global South Corridor sebagai Instrumen Diplomasi Indonesia dalam Implementasi Kerja Sama Konektivitas Maritim
+S Attamimi
+- Jurnal Hubungan Luar Negeri, 2024 - jurnal.kemlu.go.id
+Potensi maritim Indonesia yang luas merupakan esensi penting menuju visi poros maritim
+dunia. Dengan memanfaatkan posisi geografis yang strategis, Indonesia berpeluang …
+Enregistrer
+Citer
+Cité 3 fois
+Autres articles
+Les 2 versions
+Version HTML
+[PDF]
+kemlu.go.id
+Mengonstruksi Otonomi Strategis: Identitas Non-Blok dalam Strategi Hedging Indonesia di Tengah Rivalitas AS-Tiongkok
+SA Putri
+, NY Chairunnisa… - Jurnal Hubungan Luar …, 2025 - jurnal.kemlu.go.id
+… Di sisi lain, Tiongkok terus memperluas kehadiran ekonomi dan militernya, melalui inisiatif
+Belt
+and
+Road
+(BRI) dan langkah strategisnya melalui klaim sepuluh garis putus-putus (ten-…
+Enregistrer
+Citer
+Autres articles
+Version HTML
+[PDF]
+kemlu.go.id
+Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan Ekonomi: Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara
+M Majid
+AN Fathullah
+L Yafuz
+- JURNAL HUBUNGAN LUAR …, 2025 - jurnal.kemlu.go.id
+… menerima pembiayaan infrastruktur hijau dari aktor eksternal: (1) Sri Lanka dalam kerangka
+Belt
+and
+Road
+Initiative (BRI), (2) … sebuah bagian penting dari
+Belt
+and
+Road
+Initiative …
+Enregistrer
+Citer
+Autres articles
+Version HTML
+[PDF]
+kemlu.go.id
+[PDF]
+[PDF]
+Komparatif Kebijakan Luar Negeri Indonesia Dan China Tinjauan Model Walter Carlsnaes
+LM Fathun
+- JURNAL HUBUNGAN LUAR NEGERI, 2022 - kemlu.go.id
+… Maritime Axis and the
+Belt
+Road
+Initiative. This geopolitical policy is issued by Indonesia
+and China. The two countries agreed to cooperate in shaping the silk
+road
+of the 21st century …
+Enregistrer
+Citer
+Autres articles
+Version HTML
+[PDF]
+kemlu.go.id
+Comparative Foreign Policies of Indonesia and the Philippines in Responding to Security Instability to Tiongkok
+LM Fathun
+- JURNAL HUBUNGAN LUAR NEGERI, 2025 - jurnal.kemlu.go.id
+This study aims to explore the formulation of Indonesian and PhilippinesÃ¢â‚¬â„¢ foreign
+policies in the Indo-Pacific region. Despite the similar characteristics as archipelagic states, …
+Enregistrer
+Citer
+Autres articles
+Version HTML
+[PDF]
+kemlu.go.id
+Japan and Indonesia as Middle Powers in Indo-Pacific: Towards AOIP–FOIP Synergy
+RJP Irsadanar
+- Jurnal Hubungan Luar Negeri, 2023 - jurnal.kemlu.go.id
+This paper studies how a strategic bilateral relations between middle powers could advance
+the realization of a larger regional geostrategy. This paper took Indonesia-Japan relations …
+Enregistrer
+Citer
+Cité 3 fois
+Autres articles
+Les 3 versions
+Version HTML
+[PDF]
+kemlu.go.id
+Strategi bagi Keketuaan Indonesia di ASEAN dalam Mendorong Pelaksanaan Five Point Consensus (5PC) pada Konflik Myanmar
+CP Aji, NS Ningsih - JURNAL HUBUNGAN LUAR NEGERI, 2023 - jurnal.kemlu.go.id
+Pada 4 April 2021, pemimpin negara–negara ASEAN dan pemimpin militer Myanmar
+menyepakati Five Point Consensus (5PC) sebagai respon kolektif ASEAN terhadap situasi di …
+Enregistrer
+Citer
+Cité 2 fois
+Autres articles
+Les 2 versions
+Version HTML
+[PDF]
+kemlu.go.id
+[PDF]
+[PDF]
+Hubungan Diplomasi Indonesia–Afghanistan Taliban: Sebuah Tinjauan Realisme Neoklasik1
+VT Afkar
+- Jurnal Hubungan Luar Negeri, 2022 - kemlu.go.id
+… ( there is no immediate or perfect transmission
+belt
+linking material … merealisasikan One
+Belt
+and One
+Road
+… One
+Belt
+One
+Road
+(OBOR): Agenda Keamanan Liberal Tiongkok? …
+Enregistrer
+Citer
+Autres articles
+Les 2 versions
+Version HTML
+[PDF]
+kemlu.go.id
+Measuring the Competitiveness and Efficiency of Indonesian Non-Oil and Gas Exports to Non-Traditional Markets
+H Hotsawadi
+IV Gea
+- Jurnal Hubungan Luar Negeri, 2024 - jurnal.kemlu.go.id
+In order to improve the performance of the trade balance, Indonesia is currently always trying
+to diversify the market through the expansion of export markets to non-traditional countries. …
+Enregistrer
+Citer
+Autres articles
+Les 3 versions
+Version HTML
+[PDF]
+kemlu.go.id
+Leader Personality Analysis of War Decisions (Case Study: Vladimir Putin in The Russia-Ukraina War)
+W Wulandari
+- JURNAL HUBUNGAN LUAR NEGERI, 2025 - jurnal.kemlu.go.id
+This study explores how Vladimir PutinÃ¢â‚¬â„¢s personality has influenced his decision-making
+during the Russia-Ukraine war. While much research has focused on geopolitical, …
+Enregistrer
+Citer
+Autres articles
+Version HTML

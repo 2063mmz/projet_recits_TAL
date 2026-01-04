@@ -1,0 +1,35 @@
+seed_url: http://www.en.kremlin.ru/events/president/trips/60403/photos
+final_url: http://www.en.kremlin.ru/events/president/trips/60403/photos
+title: Working visit to China
+date: 2019-04-25
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Photos
+Working visit to China
+Vladimir Putin took part in the events of the
+Second Belt
+and
+Road
+International
+Forum.
+After that the Russian
+President held talks with President of the People’s Republic of China Xi
+Jinping. Also, the President of Russia received anhonorary doctorate from
+Tsinghua
+University
+, one of China’s leading universities.
+On the following day Vladimir Putin
+took part in the first session of the round table discussion at the International
+Belt
+and
+Road
+Forum.
+After the round table the President answered journalists’
+questions.
+As part of his working visit to China the Russian President also had a number of bilateral meetings with heads of state who attended the forum.
+April 25 − 27, 2019
+Beijing
+74 photos

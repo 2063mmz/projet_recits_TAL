@@ -1,0 +1,57 @@
+seed_url: https://president.uz/en/lists/view/482
+final_url: https://president.uz/en/lists/view/482
+title: On upcoming state visit of the President of Uzbekistan to China
+date: 13 May 2017
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+On upcoming state visit of the President of Uzbekistan to China
+10.05.2017
+President of the Republic of Uzbekistan Shavkat Mirziyoyev will pay a state visit to China on 11-13 May 2017 at the invitation of President of the People’s Republic of China Xi Jinping.
+During the planned meetings with President of the PRC Xi Jinping, Premier of the State Council Li Keqiang, Chairman of the Standing Committee of the National People’s Congress Zhang Dejiang and other high-level officials, the current state and prospects of bilateral relations, priority areas of consolidating and steady development of long-term partnership between Uzbekistan and the PRC will be discussed. The parties will also exchange views on regional and international issues.
+The agenda of the visit envisages a meeting of the Head of our state with representatives of leading Chinese companies and firms, in which the possibilities of joint realization of mutually beneficial projects in Uzbekistan through attracting modern technologies will be considered.
+Following the negotiations at the highest level, the parties will adopt a Joint Declaration, sign several intergovernmental and other documents, aimed at deepening Uzbekistan-China ties in different spheres. Conclusion of a solid package of contracts and agreements between the business circles of the two countries in the trade-economic, investment and finance areas are expected within the visit.
+On 14-15 May 2017, President of the Republic of Uzbekistan Shavkat Mirziyoyev will also take part at the the ‘One Belt, One Road’ international forum in Beijing.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

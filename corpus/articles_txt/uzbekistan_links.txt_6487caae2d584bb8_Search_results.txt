@@ -1,0 +1,94 @@
+seed_url: https://president.uz/en/search/index?SearchForm%5Btext%5D=1&page=152
+final_url: https://president.uz/en/search/index?SearchForm%5Btext%5D=1&page=152
+title: Search results
+date: 2 June 2017
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Search results
+By keyword
+"1"
+found 3214 entities
+President Shavkat Mirziyoyev inspects upcoming agricultural projects of the Andijan Region
+2 June 2017
+President visited a modern, multi-functional farm
+2 June 2017
+Tulyaganov Kozim Nasirovich was appointed as the Deputy Chairman of State Committee of the Republic of Uzbekistan for Architecture and Construction – the Head of the State Inspection of Architectural and Construction Supervision
+31 May 2017
+Message to President of Russia
+30 May 2017
+Abdukhakimov Aziz Abdukaharovich was appointed as the Minister of Employment and Labor Relations of the Republic of Uzbekistan
+29 May 2017
+А'lamov Umidjon Bakhtiyarovich was appointed as the Director General of the agency "Uzarhiv" under the Cabinet of Ministers of the Republic of Uzbekistan
+29 May 2017
+President Shavkat Mirziyoyev inspects project of park of culture and recreation in Shayhontohur district
+26 May 2017
+Our great ancestors’ heritage is our people’s precious moral wealth
+26 May 2017
+President of Uzbekistan received Deputy Prime Minister of Turkey
+25 May 2017
+Shavkat Mirziyoyev received Minister of Foreign Affairs and International Cooperation of the UAE
+24 May 2017
+Begalov Bahodir Abdusalomovich was appointed as the Chairman of the State Committee of the Republic of Uzbekistan on Statistics
+23 May 2017
+Bakirov Nizomiddin Jalilovich was appointed to the post of the Chairman of the State Committee of the Republic of Uzbekistan on Forestry
+22 May 2017
+President Shavkat Mirziyoyev attends the Arab Islamic American Summit
+21 May 2017
+President of Uzbekistan Shavkat Mirziyoyev has arrived in Riadh
+20 May 2017
+President of the Republic of Uzbekistan Shavkat Mirziyoyev has departed for Saudi Arabia
+20 May 2017
+President Shavkat Mirziyoyev received a delegation of the National People’s Congress of China
+18 May 2017
+President of Uzbekistan will visit Saudi Arabia
+18 May 2017
+President Shavkat Mirziyoyev arrived in Sirdaryo region
+17 May 2017
+President of Uzbekistan Shavkat Mirziyoyev met with President of Turkey Recep Tayyip Erdoğan
+14 May 2017
+Belt and Road Forum kicks off in Beijing
+13 May 2017
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

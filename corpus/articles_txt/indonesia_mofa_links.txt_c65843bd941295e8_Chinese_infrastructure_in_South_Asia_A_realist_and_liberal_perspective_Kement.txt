@@ -1,0 +1,46 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=4775&keywords=
+final_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=4775&keywords=
+title: Chinese infrastructure in South Asia: A realist and liberal perspective | Kementerian Luar Negeri
+date: 2015
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Text
+Chinese infrastructure in South Asia: A realist and liberal perspective
+Since 2000, and with increased focus after the announcement of the One Belt, One Road initiative in 2015, China has led the development of a robust infrastructure program in South Asia. Despite being promoted by China as the creation of a win-win environment throughout the Indian Ocean region, realist scholars argue that China's motivations are to utilize this infrastructure to create overseas bases, threaten India's perceived sphere of influence, and increase Chinese influence by challenging the regional order. When viewed through a liberal lens, the initiative creates opportunities for common development, encourages multilateral growth, and addresses failures that current global and regional institutions have been unable to overcome. This study assesses both arguments and answers the question: Do China's motivations seem more consistent with a realist or liberal lens?
+My research found that when assessed under a four-aspect framework that addresses the potential economic, geopolitical, and security-related effects of the initiative on South Asia, the liberal argument provided stronger evidence and produced a narrative more aligned with China's economic needs. By deciding through which lens to view China's motivations, great powers in the region can best assess how to address these programs and either challenge or support China.
+Ketersediaan
+2024-1934
+354.64 Nic c
+Perpustakaan Diplomasi
+Tersedia
+Informasi Detail
+Judul Seri
+No. Panggil
+354.64 Nic c
+Penerbit
+Progressive Management
+2015
+Deskripsi Fisik
+90 pages : illustrations (black and white) ; 25 cm
+Bahasa
+English
+ISBN/ISSN
+9781520768892
+Klasifikasi
+354.64
+Tipe Isi
+Tipe Media
+Tipe Pembawa
+Edisi
+Subjek
+Infrastructure--Chinese
+Info Detail Spesifik
+Pernyataan Tanggungjawab
+David P. Nicolas
+Versi lain/terkait
+Tidak tersedia versi lain
+Komentar
+Anda harus masuk sebelum memberikan komentar

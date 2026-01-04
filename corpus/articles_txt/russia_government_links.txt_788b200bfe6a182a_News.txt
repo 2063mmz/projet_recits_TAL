@@ -1,0 +1,128 @@
+seed_url: http://government.ru/en/news/18664/
+final_url: http://government.ru/en/news/18664/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Ceremony to mark the start of construction of China’s leg of the Sino-Russian Eastern route gas pipeline
+29 June 2015
+12:30
+Government House, Moscow
+The ceremony was held as a videoconference with Moscow, Beijing and Heihe.
+Remarks
+by Wang Yilin, Chairman of the China National Petroleum Corporation
+Remarks
+by Dmitry Medvedev
+Remarks
+by Zhang Gaoli, First Vice Premier of the People's Republic of China
+Excerpts from the transcript:
+Dmitry Medvedev with Gazprom CEO Alexei Miller and Minister of Energy Alexander Novak during the ceremony to mark the start of construction of China’s leg of the Sino-Russian Eastern route gas pipeline
+Wang Yilin
+Chairman of the China National Petroleum
+Corporation
+, via interpreter)
+1 September 2014,
+Russia
+hosted a groundbreaking ceremony
+for the Power of Siberia pipeline
+, attended by Russian President
+Vladimir Putin andZhang Gaoli, First Vice Premier of the People's
+Republic of China.
+Today, we are holding a ceremony to mark the start of construction of China’s leg of the Sino-Russian Eastern route
+gas pipeline during a videoconference in Beijing,
+Moscow and the construction site in the city of Heihe.
+On 21 May 2014, the China National Petroleum
+Corporation and Gazprom signed a contract for gas deliveries via the Eastern
+route in the presence of Chinese and Russian leaders. Under this document, Russia will deliver gas to China from 2018
+for a period of 30 years, and it will expand annual delivery volumes to 38
+billion cubic metres. In August 2014 and in May 2015, this contract was
+approved by the Governments of China and Russia, and it has already entered
+into force. China’s leg of the Sino-Russian Eastern route
+gas pipeline starts at a station in the city of Heihe,
+Heilongjiang province, and stretches eastwards
+to its terminus in Shanghai.
+The 3,170-km pipeline crosses nine provinces: Heilongjiang,
+Jilin, Inner Mongolia,
+Liaoning, Hebei,
+Shandong, Tianjin,
+Jiangsu, and Shanghai. Nine underground gas reservoirs will be built.
+Dmitry Medvedev speaks during the ceremony to mark the start of construction of China’s leg of the Sino-Russian Eastern route gas pipeline. From left: Extraordinary and Plenipotentiary Ambassador of China to Russia, Li Hui, and Russia’s Deputy Foreign Minister Igor Morgulov
+Dmitry Medvedev:
+Indeed, this project became
+possible only due to an extremely high level of truly strategic cooperation
+between Russia and China.
+Construction of the
+gas pipeline will considerably expand our energy cooperation, as well as cooperation
+in affiliated industries, and it will provide powerful impetus to deepening
+cooperation between Russian regions and those in the People’s Republic of China.
+Construction of the
+Power of
+Siberia pipeline was launched ten months ago and is proceeding as planned. I
+don’t doubt the fact that everyone involved in this project will fulfil their
+obligations on time and in full.
+The gas pipeline’s route will pass along the Eastern
+Siberia–Pacific Ocean (ESPO) oil trunk pipeline that has linked Siberian
+oilfields with the Asia Pacific market. This will make it possible to
+streamline overall energy spending and infrastructure expenses.
+Russia’s large mineral deposits in its eastern regions and
+the creation of local transport corridors will make it possible to create a new
+gas delivery route for the People’s Republic of China and our other partners. The Power of Siberia pipeline
+will allow us to expand gas exports and to provide gas to our Far Eastern and Eastern
+Siberian regions more quickly. The route has been chosen in such a way as to
+provide gas to as many Russian cities and villages as possible. And this means
+that we will improve people’s living standards, we will improve the regional
+environment, and we will be able to establish cost-effective production
+facilities, to create jobs there, to make the economy more competitive, and to
+attract additional investment in these territories.
+Dmitry Medvedev speaks during the ceremony to mark the start of construction of China’s leg of the Sino-Russian Eastern route gas pipeline
+We are planning to continue cooperating with our
+Chinese friends in the oil and gas sector and in other areas, including the
+civilian nuclear power industry, the coal industry, power engineering, and developing
+new sources of energy. I’m confident that we will soon finalise agreements for
+building the second Russian-Chinese gas pipeline along the western route.
+Zhang Gaoli
+(First Vice Premier of the People's Republic of China, via interpreter)
+In September 2014, I arrived in Russia to attend the groundbreaking ceremony for the Power of Siberia pipeline
+in Yakutsk together with President Vladimir Putin. Today, we are launching
+construction of the Chinese leg of this gas pipeline, marking the start of what
+will become a continental energy corridor uniting China
+and Russia.
+Total gas deliveries along this route will exceed one trillion cubic metres.
+The 30-year project is worth over $400 billion. It is rightly considered a major
+long-term strategic gas project in the world. Implementation of this project is
+helping turn Russia’s
+resource-based advantage into an economic advantage. It will develop the
+economies of regions located along this route, which is very important for
+diversifying the energy strategy of both countries and ensuring their energy
+security. This project will certainly have a very positive influence on the
+structure of global energy cooperation.
+We are ready to work with our Russian partners and focus
+all our resources and efforts on making sure construction goes smoothly and the
+pipeline begins operating in 2018 as planned.
+China and Russia
+are each other’s largest neighbours and all-round strategic partners. As
+countries with full-fledged markets, they should increase mutual support in the
+future, expand mutual openness, and deepen mutually beneficial cooperation,
+which is in the long-term interests of both countries and also underwrites regional
+and global development and prosperity.
+Both sides are
+proceeding from their long-term economic interests and the realities in each
+country, and they should enjoy the full benefit of the advantages offered by the
+complementarity of our economies. They should actively promote the implementation
+of major joint energy projects, including long-term crude oil trade, the
+East-West gas pipeline, the development of oil and gas fields, as well as the
+integrated development of thermal power stations and power engineering. We need
+to promote comprehensive cooperation in the non-raw materials sector, including
+the development of a wide-body aircraft, heavy helicopters, construction of the
+Moscow-Kazan high-speed railway, construction of a trans-border railway bridge
+between Nizhneleninskoye and Tonjiang. We need to continue expanding mutually
+beneficial investment cooperation in the manufacturing, financial and
+agriculture sectors and for the development of the Russian Far East. We need to
+successfully implement joint construction projects related to the Silk Road economic belt and the Eurasian Economic Union.
+Government of the Russian Federation
+http://government.ru/en/news/18664/
+Highlight selection

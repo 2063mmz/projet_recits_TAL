@@ -1,0 +1,59 @@
+seed_url: https://president.uz/en/lists/view/486
+final_url: https://president.uz/en/lists/view/486
+title: Shavkat Mirziyoyev arrives in Beijing
+date: 13 May 2017
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Shavkat Mirziyoyev arrives in Beijing
+11.05.2017
+President of the Republic of Uzbekistan Shavkat Mirziyoyev with spouse arrived May 11 in the People’s Republic of China on a state visit at the invitation of PRC President Xi Jinping.
+State flags of the two countries were raised and a guard of honor was lined up at Beijing’s Shoudu international airport in honor of the leader of Uzbekistan.
+The main events of the visit of the President of Uzbekistan scheduled for 12-13 May 2017.
+The current state and prospects of bilateral relations, priority areas of consolidating and steady development of long-term partnership between Uzbekistan and the PRC will be discussed during the meetings with President of the PRC Xi Jinping, Premier of the State Council Li Keqiang, Chairman of the Standing Committee of the National People’s Congress Zhang Dejiang and other high-level officials. The parties will also exchange views on regional and international issues.
+The agenda of the visit envisages a meeting of the Head of our state with representatives of leading Chinese companies and firms, in which the possibilities of joint realization of mutually beneficial projects in Uzbekistan through attracting modern technologies will be considered.
+Following the negotiations at the highest level, the parties will adopt a Joint Declaration, sign several intergovernmental and other documents, aimed at deepening Uzbekistan-China ties in different spheres. Conclusion of a solid package of contracts and agreements between the business circles of the two countries in the trade-economic, investment and finance areas are expected within the visit.
+On 14-15 May 2017, President of the Republic of Uzbekistan Shavkat Mirziyoyev will also take part at the ‘One Belt, One Road’ international forum in Beijing.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

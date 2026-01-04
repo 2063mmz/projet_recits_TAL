@@ -1,0 +1,141 @@
+seed_url: https://president.uz/en/site/multi-video?menu_id=14&page=4&per-page=15
+final_url: https://president.uz/en
+title: Latest news
+date: 29 october 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President Shavkat Mirziyoyev: 2026 to become fundamental in developing all spheres
+December
+President of Uzbekistan and Prime Minister of Japan elevate bilateral relations to an expanded strategic partnership level
+December
+President of Uzbekistan proposes new initiatives for developing cooperation between Central Asia and Japan
+December
+President of Uzbekistan advocates for expanding practical cooperation with Japanese businesses
+December
+President of Uzbekistan states the importance of strengthening peace and trust for sustainable development
+December
+Latest news
+Sincere congratulations to the President and people of Uzbekistan on the occasion of the New Year
+31-12-2025
+The President reviews the presentation of ongoing projects in New Tashkent
+30-12-2025
+Progress on road and transport infrastructure construction reported
+30-12-2025
+The President reviews the construction of educational and enlightenment institutions
+30-12-2025
+The first energy capacities of New Tashkent are developing
+30-12-2025
+The construction progress of the new residential complex reviewed
+30-12-2025
+All recent news
+PRESIDENT IN SOCIAL NETWORKS:
+Telegram
+Facebook
+Instagram
+Twitter
+Youtube
+The Uzbek-Serbian summit gave a powerful impetus to bilateral relations and created a solid foundation for the realization of the enormous potential of cooperation between our countries
+29 october 2025
+This historic visit marked the beginning of a completely new era in relations between Uzbekistan and the European Union.
+24 october 2025
+As a result of a people-oriented policy and reforms, special attention to ensuring the openness of the economy and stimulating investments, opportunities are being transformed into huge projects
+16 october 2025
+Uzbekistan is interested in developing cooperation within the framework of the "Central Asia - Russia" format and the Commonwealth of Independent States, further strengthening practical ties with countries that are natural partners.
+11 october 2025
+Cooperation within the framework of the Organization of Turkic States, which has entered the ranks of the most dynamically developing authoritative international structures in a short period of time, serves the common development of our countries and the
+08 october 2025
+Visits abroad
+Visits to the regions
+Visit to India
+Total visits : 1
+Visit to Japan
+Total visits : 1
+Visit to Turkmenistan
+Total visits : 5
+Visit to Azerbaijan
+Total visits : 1
+Visit to the Republic of Belarus
+Total visits : 1
+visit to the United Arab Emirates
+Total visits : 2
+visit to the Federal Republic of Germany
+Total visits : 2
+visit to the French Republic
+Total visits : 1
+Visit to the Republic of Tajikistan
+Total visits : 3
+visit to the Republic of Korea
+Total visits : 1
+visit to the Republic of Turkey
+Total visits : 3
+visit to the USA
+Total visits : 2
+visit to saudi arabia
+Total visits : 2
+visit to China
+Total visits : 5
+visit to the Russian Federation
+Total visits : 6
+visit to the Republic of Kazakhstan
+Total visits : 7
+Visit to the Kyrgyz Republic
+Total visits : 3
+Visit to Pakistan
+Total visits : 1
+Visit to Hungary
+Total visits : 1
+Visit to Egypt
+Total visits : 1
+Visit to Italy
+Total visits : 1
+Visit to Iran
+Total visits : 1
+Virtual Reception of the President of the Republic of Uzbekistan
+Through the official website of the President of the Republic of Uzbekistan, you are given the opportunity to send appeals in electronic form directly to the President of the Republic of Uzbekistan without using an electronic digital signature. You can also track the status of a sent request using the code for checking the status of a request issued when sending a request.
+Send an appeal
+Tweets by president_uz
+Facebook
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

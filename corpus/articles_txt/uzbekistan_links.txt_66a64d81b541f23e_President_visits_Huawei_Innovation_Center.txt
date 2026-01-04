@@ -1,0 +1,61 @@
+seed_url: https://president.uz/en/lists/view/2524
+final_url: https://president.uz/en/lists/view/2524
+title: President visits Huawei Innovation Center
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President visits Huawei Innovation Center
+25.04.2019
+President Shavkat Mirziyoyev visited on April 25 the Huawei Research and Innovation Center as part of his participation in the Belt and Road forum.
+Huawei Technologies is one of the world’s major companies in the field of digitalization and telecommunication technologies. It focuses by and large on the production of innovative information goods and solutions, data transmission systems, optical devices, network equipment, data centers, as well as smartphones, tablets, computers, household appliances.
+Together with Huawei, Uzbekistan has implemented important projects to expand the telecommunications network, develop the capabilities of mobile phone operators and providers, and introduce high-speed data transmission technologies through fiber-optic lines.
+President Shavkat Mirziyoyev familiarized himself with the latest technological advances of the leading Chinese company.
+The development of the Safe City, E-Government systems, emergency medical services, among other projects, have been discussed with Huawei founder Ren Zhengfei.
+The head of our state gave a high acclaim to the company’s technological solutions using artificial intelligence.
+Shavkat Mirziyoyev inquired into the projects spearheaded in our country in cooperation with the company, along with the specialist training system in the company.
+“Before attracting new technologies, it is crucial to train specialists who will use them and upgrade their skills. It is essential to cooperate with the company primarily on this front, and accelerate the introduction of 5G technologies in our country,” Shavkat Mirziyoyev said.
+Following the meeting, an agreement was reached on the advancement of full-scale cooperation in the field of modern information and communication technologies.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

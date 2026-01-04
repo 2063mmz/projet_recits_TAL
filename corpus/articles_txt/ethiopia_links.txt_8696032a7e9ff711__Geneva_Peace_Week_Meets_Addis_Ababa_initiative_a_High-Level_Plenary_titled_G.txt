@@ -1,0 +1,14 @@
+seed_url: https://www.ifa.gov.et/2025/04/07/geneva-peace-week-meets-addis-ababa-initiative-a-high-level-plenary-titled-geopolitical-challenges-for-peace-and-security-in-africa/
+final_url: https://www.ifa.gov.et/2025/04/07/geneva-peace-week-meets-addis-ababa-initiative-a-high-level-plenary-titled-geopolitical-challenges-for-peace-and-security-in-africa/
+title: “Geneva Peace Week Meets Addis Ababa” initiative, a High-Level Plenary titled “Geopolitical Challenges for Peace and Security in Africa”
+date: Apr 7, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+As part of the “Geneva Peace Week Meets Addis Ababa” initiative, a High-Level Plenary titled “Geopolitical Challenges for Peace and Security in Africa” convened at the Hyatt Regency Addis Ababa on April 7, 2025.
+H.E. Jafar Bedru  Execeutive Director of the Institute of Foreign Affairs delivered remarks on behalf of Minister of
+@mfaethiopia
+, Dr. Gedion Timothewos, underscoring the role of @GenevaPeaceDE in nurturing multilateral collaboration. He highlights the value of this timely partnership, noting that in an era of global uncertainty, platforms like Geneva Peace Week offer more than clarity—they foster connection, inspire hope, and help build lasting solutions for peace.
+The session brought together senior policymakers, diplomats, and experts to deliberate on enhancing Africa’s leadership in peacebuilding and conflict resolution amid evolving global dynamics. Discussions centered on Africa’s positioning within major global alliances, its role in multilateral peace and security efforts, and strategies to promote stability and self-reliance in addressing emerging threats. Key themes included strengthening multilateral cooperation, the impact of international alliances on stability, and the significance of locally led peace initiatives. The plenary underscored the importance of collaborative approaches to ensure Africa’s priorities are effectively represented in international decision-making forums.

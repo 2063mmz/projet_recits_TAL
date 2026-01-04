@@ -1,0 +1,23 @@
+seed_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol6/files/basic-html/page52.html
+final_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol6/files/basic-html/page52.html
+title: Page 52 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 6
+date: 
+via: requests
+http_status: 200
+content_type: text/html
+note: ok
+
+Page 52 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 6
+P. 52
+n° 561 texte:Mise en page 1  24/11/11  13:56  Page 52
+52                   NOUVEAUX GUIDES GÉOLOGIQUES ET MINIERS DU MAROC - VOLUME 6
+FIG. 4.11 : Le faisceau dévonien  de plis et failles à l’ouest de Smara (images Google Earth ; route en jaune).- A : Vue géné-
+rale. Les failles entre les unités plissées sont en tirets de plus en plus courts vers les zones internes (les plus déplacées).- B
+(pivotée, nord à gauche) et C : Détails, localisés en (A).
+FIG. 4.11 : The Devonian fold and fault belt west of Smara (Google Earth images ; road in yellow).- A : Overview ; the faults
+between the folds are shown with shorter and shorter dashes going westward, i.e. toward the most displaced units.- B (ro-
+tated image ; N is on the left), and C : details located in (A).
+FIG. 4.12 : Extrait de la carte géologique espagnole (IGME, Madrid, 1971) illustrant la diminution de la déformation du
+Dévonien (pendages de plus en plus faibles) d’ouest en est dans le secteur de Smara.
+FIG. 4.12 : Excerpt from the Spanish map of Western Sahara, Smara area (IGME, Madrid, 1971), showing   the eastward
+decreasing deformation of the Devonian series (lowering dip) in the Smara area.

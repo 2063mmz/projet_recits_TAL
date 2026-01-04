@@ -1,0 +1,59 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/summit-of-china-and-17-countries-of-central-and-eastern-europe
+final_url: https://www.predsednik.rs/en/press-center/news/summit-of-china-and-17-countries-of-central-and-eastern-europe
+title: Summit of China and 17 countries of Central and Eastern Europe
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+09.02.2021. - 15:22
+Summit of China and 17 countries of Central and Eastern Europe
+At the invitation of Chinese President Xi Jinping, the President of the Republic of Serbia Aleksandar Vučić participated today in the video-conference Summit of China and 17 countries of Central and Eastern Europe.
+"Distinguished Excellency, President of the People’s Republic of China, Mr. Xi Jinping,
+Your Excellencies, representatives of the Central and Eastern European Countries,
+Dear Friends,
+Exactly two weeks ago, when he was addressing the World Economic Forum, President Xi underlined that “divided world cannot fight common challenges the mankind is facing. Multilateralism is about having international affairs addressed through consultation and the future of the world decided by everyone working together. We must stick to the cooperation concept based on mutual benefit, to safeguard equal rights of development for all countries and to promote competition based on righteousness and justice.  And scientific and technological advances should benefit all humanity rather than be used to curb and contain other countries' development.
+On behalf of the citizens of the Republic of Serbia and on my personal behalf, I want to thank our host for his warm welcoming words and for the privilege to address this distinguished gathering.
+Honorable President Xi,
+I was deeply moved by your invitation. It was on time that you had recognized the need to initiate this forum, and today you insist on a true need for “China and CEEC to intensify communication, to reach consensus and pave the way for future cooperation supporting economic and social recovery and development in post-COVID era.”
+I agree with your conclusion that through cooperation mechanisms offered through this format of the dialogue “we will contribute, to great extent, to enrichment of overall cooperation between China and Europe.”
+The importance that the People’s Republic of China attaches to this gathering is best reflected in a fact that our host will be a person of big international reputation and the architect of multilateralism- President Xi.
+Serbia had to respond reciprocally to such a gesture of respect, and that is why President of the Republic is addressing.
+I am very pleased that trade exchange between China and Central and Eastern European Countries increased by 8,4% in 2020, going thus beyond 100 billion dollars.
+In overall trade exchange between Serbia and the world in 2020, China was at the third place. In 2020, trade exchange was close to 3.7 billion USD which is 30% growth comparing to 2018. Only in the past 5 years, our export to China increased 15 times.
+In 2020 there was a historic maximum of our export to China, and just for the comparison sake, our export to China in 2010 was only 7.3 million, and this year – more than 377 million USD.
+By the end of 2020, Chinese direct investment in the Central and Eastern European Countries including energy, infrastructure and logistics were 3.14 billion dollars gross, while investment of the respective countries in China reached 1.72 billion dollars.
+I take the liberty of saying that this is about establishing new development paradigm and making global cooperation in fighting coronavirus pandemic easier.
+Ladies and Gentlemen,
+Allow me to briefly inform you on the current economic parameters in the Republic of Serbia, which are the result of implementation of economic measures aimed at mitigating COVID-19 pandemic consequences.
+Today, after difficult reforms and despite the pandemic, Serbia notes unprecedented results in its modern history. We are the first in Europe judging by growth rate, and second in terms of number of vaccinated people.
+We want to preserve good results and keep improving Serbia.
+Immunization in Serbia has started by the vaccine manufactured by the Chinese company Sinopharm, together with the American Pfizer and Russian Sputnik V vaccines. We also expect vaccine deliveries through COVAX and the European Union.
+Serbia managed to become a positive example in the entire Europe, thanks to unselfish and fraternal help of the People’s Republic of China and President Xi.
+Since life cannot and must not stop, I would like to remind you that Serbia hosted the
+Fourth
+China-CEEC Ministerial
+Conference on Innovation
+, whose biggest result was Belgrade Declaration on Cooperation in the Field of Innovation.
+Serbia wants to strengthen its position in the region when it comes to development of innovation, intelligence, robotics and digitalization, which we see as a path for creating better, more prosperous and more satisfied society.
+Possibility of having our country as a host for the center of the smart cities is of strategic interest for Serbia.
+Belt and Road, this magnificent vision of the President Xi is getting clear shape right in front of our eyes. Serbia is on its EU path and at the same time will do its best to strengthen ties with our Chinese friends.
+Donated and purchased medical equipment shipped from China reached Serbia through ancient routes of the Silk Road, from Xi’an and Wuhan, through Hungary to Serbia.
+Unlike the ancient Silk Road, medication and equipment came to the Balkans with more than 88 flights, and using numerous railway compositions.
+Modernization of Belgrade-Budapest railroad will enable even faster transportation of goods towards Greek ports, and better connectivity between China and numerous Asian countries with Europe.
+We believe that continuous dialogue on the highest political level is crucial for development of strategic relations between Serbia and China in all areas of economic, culture and medical activities.
+I hope that as soon as the epidemiological situation in Serbia enables that, we will have the opportunity to welcome President Xi Jinping again.
+I am pleased to conclude that there was almost no impact of the pandemic on working processes, and that numerous Chinese companies in Serbia continued working on realization of the agreed projects, like construction works on highways on Corridors X and XI, as well as on numerous projects in the field of energy.
+In the end of January this year, the Memorandum of Understanding for the “Belgrade Metro” project between the Government of the Republic of Serbia, the City of Belgrade and Chinese company “Power China” and French company “Alstom”  that is supposed to start in the third quarter of 2021 was signed.
+We expect that cooperation will intensify in the field of sports, agriculture, education, science and technology, where Serbia-China Industrial Park Project in Belgrade is of big importance.
+Additionally, Serbia successfully presented its achievements on the Third China International Import Expo in Shanghai in November 2020.
+Previous year has displayed all weaknesses of the mankind and forced each country to reexamine its capacities, putting at the same time to serious test many new alliances, but also traditional ties.
+Basic postulates we had built on our habits on free flow of people, goods, capital and services were shaken by global introduction of quarantine and actual limitation of the freedom of movement.
+Distinguished President Xi, allow me to avail myself of this opportunity to renew to you, on behalf of the citizens of the Republic of Serbia and on my personal behalf, our deepest gratitude for prompt assistance in medical equipment that the Government of the People’s Republic of China made available to my country and my people, and to “Fire Eye” laboratories that China donated to Serbia were of great significance in virus detection.
+Only through cooperation between all countries, exchange of experience in the spirit of solidarity and understanding, but also through openness and identifying new cooperation modalities, a global recovery will be possible.
+Dear Friends,
+According to the traditional Chinese lunar calendar, New Year begins in three days. The year ahead will be in the sign of Buffalo. According to the ancient belief, the Year of Buffalo is a year when many of us will reach new knowledge and decisions. More importantly, the upcoming period will be good for all those who are used to hard work.
+Finally, I would like to remind you of a far-reaching speech of the President Xi, as of May 15th 2017. On that occasion, my friend draws accurate parallels between the Silk Road and “Belt and Road” Initiative. The development of the Belt and Road is rooted in history, but orients to the future. The ancient Silk Road embodied the pursuit of a better life of our ancestors, promoted the interconnection of countries in Asia and Europe, pushed forward the exchanges and mutual learning of civilizations between the East and the West, and made great contributions to the development and progress of human civilization. We can fully draw wisdom and strength from the ancient Silk Road, promote cooperation in the spirit of peaceful cooperation, openness and tolerance, mutual learning, mutual benefit and win-win, and open up a brighter future together.
+Long live friendship between Serbia and China!", said President Vučić in his address.
+Belgrade,9th February 2021

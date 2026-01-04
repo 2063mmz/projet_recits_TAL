@@ -1,0 +1,21 @@
+seed_url: https://www.ifa.gov.et/2025/12/11/addis-ababa-launches-landmark-space-diplomacy-forum-positioning-africa-for-a-unified-future-in-space/
+final_url: https://www.ifa.gov.et/2025/12/11/addis-ababa-launches-landmark-space-diplomacy-forum-positioning-africa-for-a-unified-future-in-space/
+title: Addis Ababa Launches Landmark Space Diplomacy Forum, Positioning Africa for a Unified Future in Space
+date: Dec 11, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The Addis Space Diplomacy Forum Inauguration 2025 took place today, 11 December 2025, at the Elilly Hotel in Addis Ababa under the theme
+“Strengthening Continental Partnership for Space, Development and Shared Prosperity.”
+Organized by the Space Science and Geospatial Institute (SSGI) in collaboration with the Institute of Foreign Affairs (IFA) and the Africa Space Leadership Institute (ASLI), the forum marks a major milestone in Africa’s pursuit of a coordinated and forward-looking space agenda.
+The event convened African space experts, policymakers, and international partners to craft a shared vision for the continent’s future in space.
+Opening the forum, ASLI Co-founder Etim Offiong called for a single African passport and visa-free mobility to accelerate integration, noting ASLI’s work to align future strategies with Agenda 2063 and position Addis Ababa as Africa’s emerging space diplomacy hub.
+Dr. Gizachew Asrat, Chief of Staff and Senior Researcher at IFA, highlighted Africa’s growing space ambitions and the need for stronger continental cooperation to leverage space science for peace, development, and shared prosperity. “Addis Ababa is poised to become Africa’s hub for space diplomacy,” he said, aligning national and continental agendas with IFA’s mission to elevate African agency in global governance.
+Dr. Abdi Zenebe, Deputy Executive Director of IFA, emphasized Ethiopia’s recent milestones—including the PTRS-1 satellite launch and the establishment of SSGI—describing partnerships as vital pathways for development, peace, and collaboration.
+UNECA’s H.E. André Nonguierma praised Ethiopia’s advancements and stressed the urgency of forging a unified African voice in global space governance.
+SSGI Deputy Director-General Dr. Yeshurun Alemayehu called the forum a historic step toward Africa’s strategic autonomy in space, underscoring the need to strengthen the continent’s data and space infrastructure.
+Melaku Mulualem, IFA’s Director General for Training, outlined Africa’s three strategic priorities—Human Capital, Institutional Frameworks, and Infrastructure—reminding participants that “space is not merely technology; it is diplomacy.”
+Speakers urged unified policies, greater investment, and sustained capacity-building to accelerate Africa’s global role in space diplomacy.
+Participants concluded with a shared commitment to deepen collaboration among governments, institutions, and development partners to advance space diplomacy, unlock socio-economic gains, and secure a permanent and influential African presence in the global space arena.

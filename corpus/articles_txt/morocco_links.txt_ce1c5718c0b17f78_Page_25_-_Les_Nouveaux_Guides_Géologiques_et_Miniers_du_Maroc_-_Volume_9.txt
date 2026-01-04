@@ -1,0 +1,37 @@
+seed_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page25.html
+final_url: https://cartesgeoscientifiques.mem.gov.ma/catalogue/pages/les_nouveaux_guides_geologiques/livres/vol9/files/basic-html/page25.html
+title: Page 25 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+date: 
+via: requests
+http_status: 200
+content_type: text/html
+note: ok
+
+Page 25 - Les Nouveaux Guides Géologiques et Miniers du Maroc - Volume 9
+P. 25
+Volume 9 - F:Mise en page 1  7/11/12  15:40  Page 25
+1- Les mines de l’Anti-Atlas oriental /
+The Mines in the  Eastern Anti-Atlas
+Les mines présentées dans cette section se répartissent dans tout l’Anti-Atlas oriental et le Ta-
+filalt-Maider (figs. 1.01, 1.02). La plupart (tabl. 1.1) sont localisées dans des zones faillées du
+socle précambrien des boutonnières de l’Ougnat (Touroug-El Hamda, Bou-Madine ; fig. 1.03)
+et du J. Saghro (Imiter, Tiouit, Bouskour). La mine d’Imi n’Tourza est ouverte dans l’Ordovi-
+cien inférieur de l’ensellement entre les deux massifs précambriens. C’est une mine de fer sé-
+dimentaire, au contraire des autres, qui sont d’origine hydrothermale. La mine d’Oumjrane-Bou
+n’Has est située loin de l’axe cristallin, ce qui est remarquable pour un gisement hydrothermal
+de cuivre. La région comporte de nombreuses autres mines dans le Tafilalt, dont l’exploitation
+est intermittente.
+The mines presented in this section are distributed in the Eastern Anti-Atlas Belt and neigh-
+bouring Tafilalt-Maider regions (figs. 1.01, 1.02). Most of them (table 1.1) are located in
+faulted zones of the Precambrian massifs (“boutonnières”, inliers). This is true for the
+Touroug-El Hamda and Bou-Madine mines in the Ougnat Massif (fig. 1.03), and for the Imiter,
+Tiouit and Bouskour mines in the Jbel Saghro. The Imi n’Tourza mine is opened in the Lower
+Ordovician beds in the structural saddle between both basement massifs; it is a syngenetic,
+oolithic iron mine contrary to the others, which derive from epigenetic, hydrothermal circula-
+tions. The Oumjrane-Bou n’Has mine is located far from the Precambrian axis, which is very
+remarkable for such an epigenetic copper deposit. Several minor mines are scattered in the
+Tafilalt area, being generally characterized by intermittent exploitation.
+FIG. 1.01 : Localisation des mines de l’Anti-Atlas oriental décrites dans cette section, reportées sur la Carte routière et administrative du Maroc, échelle 1/1 500000,
+Division de la Cartographie, Rabat.
+FIG. 1.01 : Location of the Eastern Anti-Atlas mines described here, plotted on the Road and Administrative map of Morocco, scale 1/1 500000,
+Division de la Cartographie, Rabat.

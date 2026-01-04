@@ -1,0 +1,3244 @@
+seed_url: https://kemlu.go.id/files/repositori/65414/174054206667be907240129_LKj_2024_Dit_Amerika_I_Redacted.pdf
+final_url: https://kemlu.go.id/files/repositori/65414/174054206667be907240129_LKj_2024_Dit_Amerika_I_Redacted.pdf
+title: 174054206667be907240129_LKj_2024_Dit_Amerika_I_Redacted.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+2
+KATA PENGANTAR
+
+Dalam rangka mendukung tugas dan fungsi Kementerian Luar Negeri sebagai penjuru dan
+pelaksana hubungan politik luar negeri, Direktorat Amerika I berperan aktif dalam memastikan
+pencapaian 4 (empat) prioritas politik luar negeri yang ditetapkan Menteri Luar Negeri RI, yaitu
+penguatan diplomasi ekonomi, menjaga kedaulatan NKRI, perlindungan WNI di luar negeri,
+serta kontribusi dan kepemimpinan Indonesia di kawasan dan forum internasional.
+
+Laporan Kinerja (LKj) Direktorat Amerika I Tahun 2024 disusun sebagai wujud komitmen
+Direktorat Amerika I dalam melaksanakan tugas dan fungsi selama tahun 2024 serta dalam
+upaya penegakan good governance. Penyusunan LKj Tahun 2024 juga merupakan bentuk
+tanggung jawab dan akuntabilitas kinerja Direktorat Amerika I selama satu tahun terakhir.
+
+LKj Direktorat Amerika I Tahun 2024 menggunakan Sistem Manajemen Kinerja berbasis
+Balanced Scorecard guna menggambarkan serta mengukur capaian dan k ontribusi kinerja
+secara jelas dan terpadu. LKj yang disusun telah memuat penjelasan mengenai data dan
+informasi pencapaian IKU yang target kinerjanya telah ditetapkan pada Perjanjian Kinerja
+Direktur Amerika I pada awal 2024 terkait dengan pelaksanaan pol itik luar negeri, diplomasi
+dan hubungan bilateral dengan 10 negara mitra di kawasan yaitu, Amerika Serikat, Kanada,
+Meksiko, Belize, El Salvador, Guatemala, Honduras, Kosta Rika, Nikaragua, dan Panama.
+
+Kinerja Direktorat Amerika I selama tahun 2024 berhasil mencatat nilai capaian kinerja senilai
+106,32. Capaian tersebut menunjukkan langkah adaptasi Indonesia dalam menghadapi
+kondisi dunia geopolitik yang makin meruncing dan penuh ketidakpastian, antara lain situasi
+di Gaza, rivalitas geopolitik Amerika Serikat (AS) dan Republik Rakyat Tiongkok, serta perang
+Rusia dan Ukraina yang belum selesai hingga saat ini. Keadaan tersebut berimbas pada
+disrupsi rantai pasok global, resesi dan perlambatan ekonomi global serta volatilitas harga
+komoditas.
+
+Keberhasilan capaian kinerja dimaksud tentunya tidak terlepas dari dukungan dan koordinasi
+erat dengan para pemangku kepentingan baik di dalam maupun di luar negeri, termasuk
+Perwakilan RI di kawasan Amerika I, Kementerian/Lembaga terkait, Perwakilan negara mitra
+Amerika I di Indonesia, serta institusi dan organisasi lain yang telah bersinergi dan
+memfasilitasi program dan kegiatan Direktorat Amerika I selama tahun 2024.
+
+Sebagai penutup, kami menyampaikan ucapan terima kasih dan penghargaan atas kerja
+sama seluruh staf  Direktorat Amerika I serta semua pemangku kepentingan dalam
+memajukan diplomasi Indonesia di wilayah Amerika Utara dan Tengah. Besar harapan kami
+kiranya LKj Direktorat Amerika I tahun 2024 ini dapat bermanfaat seluruh pihak, khususnya
+sebagai acuan dalam penyelenggaraan polugri RI di kawasan pada tahun 2025 serta guna
+mendukung Misi Asta Cita Pemerintahan Presiden dan Wakil Presiden RI 2024 - 2029 ke
+depannya.
+
+Jakarta,    Januari 2025
+  Direktur Amerika I
+
+
+
+
+
+  Iwan Freddy Hari Susanto
+
+3
+
+4
+RINGKASAN EKSEKUTIF
+
+Sesuai mandat Peraturan Presiden (PERPRES) Nomor 29 Tahun 2014 tentang Sistem
+Akuntabilitas Kinerja Instansi Pemerintah, dan Peraturan Menteri Pemberdayagunaan
+Aparatur Negara dan Reformasi Birokrasi Nomor 53 Tahun 2014 tentang Petunjuk Teknis
+Perjanjian Kinerja, Pelaporan Kinerja, dan Tata Cara Reviu atas Laporan Kinerja, Laporan
+Kinerja (LKj) Direktorat Amerika I merupakan perwujudan transparansi dan akuntabilitas
+Direktorat Amerika I dalam melaksanakan tugas dan fungsinya.
+
+Dalam rangka memenuhi amanat Peraturan Menteri Luar Negeri (Permenlu) Nomor 4 Tahun
+2018 tentang Pedoman Sistem Manajemen Kinerja Kementerian Luar Negeri dan Perwakilan
+RI, LKj merupakan ikhtisar yang menjelaskan secara ringkas dan lengkap realisasi dan
+capaian kinerja berdasarkan Perjanjian Kinerja yang telah disepakati dan ditandatangani. LKj
+merupakan bagian dari Sistem Manajemen Kinerja Kemenlu dan Perwakilan RI yang
+ditujukan untuk meningkatkan kinerja dan memastikan aktivitas serta hasil kinerja setiap
+pegawai sesuai dengan sasaran-sasaran organisasi.
+
+Direktorat Amerika I telah menetapkan Peta Strategi Tah un 2024 untuk pencapaian visi dan
+misi Direktorat Amerika I, dengan menggunakan pendekatan Sistem Manajemen Kinerja
+(SMK) berbasis Balanced Scorecard (BSC) yang terangkum dalam 4 perspektif, 5 Sasaran
+Strategis, dan 9 Indikator Kinerja Utama.
+
+Capaian kinerja Direktorat Amerika I tahun 2024 adalah sebesar 106,32%. Angka capaian
+tersebut merupakan akumulasi perhitungan capaian program kegiatan yang terdapat pada 4
+perspektif dimaksud, dengan pembagian pembobotan sebagai berikut:
+1. Stakeholders Perspective, memberikan kontribusi capaian kinerja sebesar 109,7%;
+2. Customer Perspective, memberikan kontribusi capaian kinerja sebesar 100%;
+3. Internal Business Process Perspective , memberikan kontribusi capaian kinerja sebesar
+113,32%;
+4. Learning and Growth P erspective, memberikan kontribusi capaian kinerja sebesar
+99,67%.
+
+Nilai capaian kinerja di tahun 2023 juga tercermin pada kenaikan realisasi anggaran Direktorat
+Amerika I. Pagu awal Direktorat Amerika I berdasarkan DIPA Tahun 2024 adalah sebesar Rp.
+
+ Namun demikian di tengah tahun berjalan, terjadi penyesuaian DIPA
+anggaran Direktorat Amerika I. DIPA Anggaran Direktorat Amerika I dipindahkan ke Direktorat
+Amerika II sebagai core pelaksanaan kegiatan Indonesia - Latin America and the Caribbean
+(INA-LAC) Business Forum di Peru pada 11 - 13 September 2024 sehingga jumlah total
+anggaran Dit. Amerika I ,-.
+
+Dari alokasi anggaran te rsebut, realisasi anggaran sampai dengan akhir tahun 2024
+mencapai 98,29% ,-. Meskipun tidak mencapai realisasi
+sebesar 100% sebagaimana di tahun 2023, Direktorat Amerika I senantiasa mempertahankan
+kinerja realisasi anggaran.
+
+Pencapaian yang cukup signifikan tersebut mencerminkan keberhasilan Direktorat Amerika I
+dalam melaksanakan kebijakan luar negeri dalam kerangka bilateral di kawasan Amerika
+Utara dan Tengah, khususnya dengan didorong berbagai terobosan kinerja Direkto rat
+Amerika I, guna mencapai kinerja yang optimal.
+
+Berbagai kebijakan, program dan kegiatan yang telah dilaksanakan dengan capaian kinerja
+yang baik diharapkan dapat memberikan kontribusi positif bagi pencapaian target kinerja
+Kementerian Luar Negeri. Sed angkan kendala-kendala yang dihadapi dalam pelaksanaan
+
+5
+tugas dan fungsi Direktorat Amerika I pada 2024 kiranya menjadi bahan masukan utama
+dalam melaksanakan program dan kegiatan Direktorat Amerika I pada 2025, guna mencapai
+kinerja yang lebih baik.
+
+Perspektif Bobot Perspektif Skor Perspektif
+Stakeholder Perspective 25% 109,70
+Customer Perspective 15% 100
+Internal Business Process
+Perspective
+30% 113,32
+Learning and Growth
+Perspective
+30% 99,67
+Total NCKO 106,32
+
+6
+
+7
+
+8
+BAB I PENDAHULUAN
+
+
+I.1. Latar Belakang
+
+Berdasarkan Permenlu No. 6 tahun 2021 pada pasal 231 - 235, Direktorat Amerika I
+merupakan unit Eselon II di Direktorat Jenderal Amerika dan Eropa Kementerian Luar Negeri
+yang mempunyai tugas merumuskan, melaksanakan dan mengkoordinasikan kebijakan di
+bidang penyelenggaraan hubungan luar negeri dan politik luar negeri pada lingkup bilateral di
+kawasan Amerika Utara dan Tengah, yang meliputi negara-negara Amerika Serikat, Kanada,
+Meksiko, Belize, El Salvador, Guatemala, Honduras, Kosta Rika, Nikaragua, dan P anama.
+Dalam melaksanakan fungsi tersebut di atas, Direktorat Amerika I memiliki Visi dan Misi
+sebagai berikut:
+
+VISI:
+“Memimpin Diplomasi yang Aktif dan Efektif di kawasan Amerika Utara dan Tengah”
+
+MISI:
+1. Memberikan nilai manfaat ekonomi yang optimal melalui diplomasi di kawasan Amerika
+Utara dan Tengah untuk mendukung struktur ekonomi nasional yang produktif, mandiri,
+dan berdaya saing;
+2. Menjaga integritas NKRI dan meningkatkan citra positif Indonesia di kawasan Amerika
+Utara dan Tengah untuk mengoptimalkan peluang dan manfaat;
+3. Memajukan kepemimpinan dan peran Indonesia yang berpengaruh di kawasan Amerika
+Utara dan Tengah; dan
+4. Memperkuat infrastruktur diplomasi Direktorat Amerika I.
+
+Pada tahun 2024, sesuai dengan arahan Menteri Luar Negeri dalam Pernyataan Pers
+Tahunan Menteri Luar Negeri 2024, fokus politik luar negeri Indonesia adalah berdasarkan
+prioritas 4+1, yaitu penguatan:
+1. Diplomasi ekonomi;
+2. Diplomasi pelindungan WNI;
+3. Diplomasi Kedaulatan dan Kebangsaan;
+4. Diplomasi Kepemimpinan Indonesia bagi perdamaian dan stabilitas di kawasan dan
+dunia;
+5. Plus 1 yaitu penguatan infrastruktur diplomasi.
+
+Penjabaran arahan Menteri Luar Negeri tersebut dalam kaitannya dengan tugas dan Fungsi
+Direktorat Amerika I tertuang dalam berbagai kegiatan yan g dilaksanakan oleh Direktorat
+Amerika I sepanjang tahun 2024.
+
+
+I.2. Aspek Strategis
+
+Berdasarkan Peraturan Menteri Luar Negeri (Permenlu) Nomor 6 Tahun 2021 tentang
+Organisasi dan Tata Kerja Kementerian Luar Negeri, maka kedudukan, tugas, fungsi,
+susunan organisasi dan tata kerja Direktorat Amerika I adalah sebagai berikut:
+
+1. Kedudukan: Direktorat Amerika I dipimpin oleh Direktur Amerika I yang berada di bawah
+dan bertanggung jawab kepada Direktur Jenderal Amerika dan Eropa.
+
+2. Tugas: Merumuskan, mela ksanakan, dan mengkoordinasikan kebijakan di bidang
+penyelenggaraan hubungan luar negeri dan politik luar negeri dalam lingkup kepentingan
+
+9
+bilateral dengan Amerika Serikat, Kanada,  Meksiko, Belize, El Salvador, Guatemala,
+Honduras, Kosta Rika, Nikaragua, dan Panama.
+
+
+3. Fungsi:
+a. Perumusan kebijakan di bidang penyelenggaraan hubungan luar negeri dan
+pelaksanaan politik luar negeri pada lingkup kepentingan bilateral dengan Amerika
+Serikat, Kanada, Meksiko, Belize, El Salvador, Guatemala, Honduras, Kosta Rika,
+Nikaragua, dan Panama;
+b. Pelaksanaan kebijakan dan koordinasi di bidang penyelenggaraan hubungan luar
+negeri dan politik luar negeri dalam lingkup kepentingan bilateral dengan Amerika
+Serikat, Kanada, Meksiko, Belize, El Salvador, Guatemala, Honduras, Kosta Rika,
+Nikaragua, dan Panama;
+c. Perundingan dan tindak lanjut hasil perundingan di bidang penyelenggaraan
+hubungan luar negeri dan politik luar negeri dalam lingkup kepentingan bilateral
+Amerika Serikat, Kanada, Meksiko, Belize, El Salvador, Guatemala, Honduras, Kosta
+Rika, Nikaragua, dan Panama;
+d. Pemberian panduan substantif dan fasilitasi kebijakan di bidang penyelenggaraan
+hubungan luar negeri dan politik luar negeri dalam lingkup kepentingan bilateral
+dengan Amerika Serikat, Kanada,  Meksiko, Belize, El Salvador, Guatemala,
+Honduras, Kosta Rika, Nikaragua, dan Panama;
+e. Pelaksanaan evaluasi dan pelaporan di bidang penyelenggaraan hubungan luar
+negeri dan politik luar negeri dalam lingkup kepentingan bilateral dengan Amerika
+Serikat, Kanada, Meksiko, Belize, El Salvador, Guatemala, Ho nduras, Kosta Rika,
+Nikaragua, dan Panama; dan
+f. Pelaksanaan layanan manajemen Direktorat.
+
+
+I.2.1. Potensi/Peran Strategis
+
+Sesuai dengan Permenlu Nomor 6 Tahun 2021, Direktorat Amerika I memiliki potensi/peran
+strategis dalam merumuskan dan melaksanakan k ebijakan luar negeri yang ditujukan untuk
+memelihara ataupun meningkatkan hubungan bilateral antara Indonesia dengan negara -
+negara di kawasan Amerika I, seperti Amerika Serikat, Kanada, Meksiko, Belize, El Salvador,
+Guatemala, Honduras, Kosta Rika, Nikarag ua, dan Panama, baik melalui diplomasi maritim
+dan polkam, ekonomi, maupun sosial dan budaya.
+
+Sepanjang tahun 2024, Direktorat Amerika I telah memainkan peran strategis dalam
+menghasilkan kebijakan luar negeri yang dapat resilient di tengah ketegangan ge opolitik,
+konflik regional, dan persaingan ekonomi negara-negara besar. Di saat yang sama, Direktorat
+Amerika I telah secara proaktif menghasilkan kebijakan yang memanfaatkan peluang
+kebutuhan dunia akan mineral kritis, transisi energi terbarukan, dan peng embangan
+kecerdasan buatan, dengan tetap merujuk pada prioritas Asta Cita di bawah pemerintahan
+Presiden Prabowo Subianto.
+
+
+I.2.2 Permasalahan utama (Strategic Issued)
+
+Dinamika geopolitik dan geoekonomi sepanjang tahun 2024 ditandai oleh sejumlah tren global
+yang mencerminkan pergeseran kekuatan, transformasi ekonomi, serta tantangan dan
+peluang yang saling berkaitan. Beberapa isu strategis yang menjadi tantangan ataupun
+peluang bagi Direktorat Amerika I, antara lain, sebagai berikut:
+
+10
+Pertama, rivalitas kekuatan besar, seperti AS vs Tiongkok. Rivalitas antara kedua negara
+tersebut terus mendominasi geopolitik global, dengan fokus pada kawasan Indo-Pasifik, Laut
+China Selatan, dan Taiwan. AS juga terus memperkuat Quad dan AUKUS, sementara
+Tiongkok mendukung BRICS dan inisiatif Belt and Road.
+
+Kedua, semakin berlanjutnya konflik regional, seperti konflik Rusia -Ukraina yang
+memengaruhi stabilitas Eropa dan hubungan Rusia dengan negara -negara Barat, dan
+serangan Israel ke Gaza, Iran, dan Libano n, yang masih terus berlanjut dan mempengaruhi
+stabilitas keamanan global. Di kawasan Asia Tenggara, sengketa Laut Tiongkok Selatan dan
+isu Myanmar juga terus menjadi perhatian ASEAN.
+
+Ketiga, adanya kebangkitan Global South, dimana negara -negara berkemban g semakin
+berani dalam menuntut sistem multipolar yang lebih adil, misalnya melalui BRICS, dimana
+Indonesia telah memutuskan untuk menjadi anggota BRICS mulai 1 Januari 2025. Kerja sama
+antar negara berkembang dalam isu perdagangan, iklim, dan reformasi in stitusi global juga
+semakin meningkat.
+
+Keempat, adanya pergantian pemerintahan, termasuk di Indonesia, Amerika Serikat dan
+Meksiko menyebabkan adanya kebijakan wait and see  sebelum melakukan langkah lebih
+lanjut. Pemilihan Presiden di AS yang dimenangkan oleh Donald J. Trump kembali perlu juga
+diantisipasi, mengingat kecenderungan proteksionis dan pendekatan unilateralis yang
+diterapkan Trump.
+
+Kelima, adanya transisi energ i global yang menciptakan persaingan dalam penguasaan
+sumber daya strategis seperti lithium, nikel, dan rare earth elements. Hal ini telah menciptakan
+kompetisi global untuk mengamankan pasokan mineral strategis meningkat, dengan Asia
+Tenggara menjadi wila yah kunci. Situasi ini menciptakan peluang bagi negara -negara
+penghasil mineral kritis, seperti Indonesia
+
+Keenam, masih berlangsungnya pemulihan ekonomi pasca -pandemi mengingat masih
+adanya gangguan rantai pasok dan inflasi. Negara -negara masih fokus unt uk memperkuat
+ketahanan ekonomi dengan strategi diversifikasi rantai pasok dan re -industrialisasi. Inflasi
+bahan pangan dan BBM tentu berpotensi menciptakan goncangan baru pada struktur makro
+ekonomi di setiap negara.Konsekuensi akibat ketimpangan rantai p asok tersebut berpotensi
+merambat ke berbagai sendi ekonomi.
+
+Sebut saja, penurunan daya beli, neto ekspor yang tergerus, peningkatan arus modal keluar,
+melambatnya pertumbuhan kredit, penurunan ekonomi, peningkatan pengangguran,
+depresiasi mata uang lokal (efek strong-dollar akibat yield di AS meningkat), hingga potensi
+munculnya berbagai masalah sosial. Kompleksitas tersebut tentu perlu direspons dan
+dimitigasi, sama seperti pada saat Indonesia merespons efek rambatan negatif Pandemi
+Covid-19.
+Ketujuh, adanya perkembangan teknologi secara pesat, seperti kecerdasan buatan (artificial
+intelligence) dan blockchain yang mengubah lanskap ekonomi global. Negara -negara maju
+bersaing dalam teknologi, sementara negara berkembang menghadapi tantangan dalam hal
+regulasi dan transfer teknologi. Ancaman keamanan digital terhadap infrastruktur ekonomi
+juga menjadi tantangan.
+
+11
+
+12
+BAB II PERENCANAAN KINERJA
+
+
+II.1. Rencana Strategis Kementerian/UKE I/UKE II (Lima Tahun)
+
+Rencana Strategis (Renstra) Direktorat Amerika I berpedoman pada Renstra Kementerian
+Luar Negeri (Kemenlu) Tahun 2020 -2024, Rencana Pembangunan Jangka Menengah
+Nasional (RPJMN) 2020 -2024, dan Rencana Pembangunan Jangka Panjang Nasional
+(RPJPN) 2005-2025.
+
+Sebagai dokumen perencanaan jangka menengah, Renstra Direktorat Amerika I menjabarkan
+hasil capaian pelaksanaan tugas dan kewenangan yang telah dilaksanakan pada periode
+sebelumnya, serta memuat visi, misi, tujuan, strategi, kebijakan, program, dan kegiatan serta
+target kinerja dan pendanaan yang akan dilaksanakan dalam periode 5 (lima) tahun
+mendatang.
+
+Dalam rangka pencapaian Visi dan Misi yang telah ditetapkan, Direktorat Amerika I telah
+menetapkan Peta Strategi tahun 2020 berdasarkan metod e manajemen kinerja berbasis
+Balanced Scorecard (BSC), dengan tujuan agar proses pencapaian kinerja dapat lebih terukur
+dan terarah. Sistem Manajemen Kinerja berbasis BSC pengelolaannya melibatkan seluruh
+pegawai di lingkungan Direktorat Amerika I, terdiri atas: 4 (empat) Sasaran Strategis (SS) dan
+8 (delapan) Indikator Kinerja Utama (IKU), yang terangkum dalam 4 (empat) perspective. Ke-
+4 perspective dimaksud adalah: (i) Stakeholders Perspective, terdiri dari 1 SS dengan 3 IKU;
+(ii) Customer  Perspective, terdiri dari 1 SS dengan 1 IKU; (iii) Internal Business Process
+Perspective, terdiri dari 1 SS dengan 3 IKU; dan (iv) Learning and Growth Perspective, terdiri
+atas 1 SS, dengan 1 IKU.
+
+II.2. Perjanjian Kinerja Tahun Berjalan
+
+Memenuhi amanat Peraturan Men teri Pendayagunaan Aparatur Negara dan Reformasi
+Birokrasi Nomor 53 Tahun 2014 tentang Petunjuk Teknis Perjanjian Kinerja, Pelaporan
+Kinerja, dan Tata Cara Reviu atas Laporan Kinerja, Direktorat Amerika I telah menyusun
+Perjanjian Kinerja Tahun 2024 yang b erisi tekad dan janji yang akan dicapai antara Direktur
+Amerika I yang menerima tanggung jawab dengan Direktur Jenderal Amerika dan Eropa yang
+memberikan tanggung jawab.
+
+Perjanjian Kinerja tahun 2024 terdiri atas 4 (empat) Sasaran Strategis (SS) dan 9 (sembilan)
+Indikator Kinerja Utama (IKU) selama periode satu tahun, di mana pengukurannya dilakukan
+melalui instrumen realisasi IKU, berdasarkan target kinerja yang telah ditetapkan. Perjanjian
+Kinerja Direktur Amerika I Tahun 2024 adalah sebagai berikut:
+
+
+KODE
+SK
+SASARAN
+KEGIATAN
+KOD
+E. IK
+INDIKATOR KINERJA (IK) /
+SUB IK
+TARGET 2024
+(1) (2) (3) (4) (5)
+Stakeholder Perspective
+S1 Nilai Manfaat
+Diplomasi Ekonomi
+S1.1 Tingkat Efektivitas Diplomasi
+Ekonomi di Sektor
+91,00%
+
+13
+yang Optimal di
+Kawasan Amerika I
+yang Optimal
+Perdagangan di kawasan
+Amerika I
+Sub
+IK 1
+Jumlah Komitmen
+Perdagangan di kawasan
+Amerika I
+28
+Sub
+IK 2
+Nilai Perdagangan dengan
+Negara Mitra di kawasan
+Amerika I
+USD
+22.788.555.830
+S1.2 Tingkat Efektivitas Diplomasi
+Ekonomi di Sektor Investasi di
+kawasan Amerika I
+89,17%
+Sub
+IK 1
+Jumlah Komitmen Investasi di
+kawasan Amerika I
+15
+Sub
+IK 2
+Nilai Investasi dengan Negara
+Mitra di kawasan Amerika I
+USD 2.806.976.357
+S1.3 Tingkat Efektivitas Diplomasi
+Ekonomi di Sektor Pariwisata di
+kawasan Amerika I
+94,31%
+Sub
+IK 1
+Tingkat potensi kunjungan
+wisatawan mancanegara di
+kawasan Amerika I ke
+Indonesia
+93,75%
+Sub
+IK 2
+Jumlah kunjungan wisatawan
+mancanegara di kawasan
+Amerika I ke Indonesia
+514.726 kunjungan
+Customer Perspective
+C1
+Dukungan dan
+komitmen nasional
+yang tinggi atas
+kebijakan luar
+negeri dan
+kesepakatan
+internasional di
+Kawasan Amerika I
+
+C1.1 Persentase kesepakatan
+kerjasama bilateral di kawasan
+Amerika I yang ditindaklanjuti
+oleh pemangku kepentingan
+dalam negeri
+100%
+Internal Business Process Perspective
+
+14
+B1 Diplomasi bilateral
+di kawasan Amerika
+I yang kuat
+B1.1 Jumlah kesepakatan di bidang
+ekonomi, sosial dan budaya di
+kawasan Amerika I
+12
+B1.2 Jumlah kesepakatan di bidang
+polkam dan maritim di kawasan
+Amerika I
+8
+B1.3 Persentase Data Economic
+Intelligence dari kawasan
+Amerika I yang ditindaklanjuti
+pemangku kepentingan dalam
+negeri
+100%
+Learning & Growth Perspective
+L1 Tata Kelola
+Organisasi di
+Direktorat Amerika I
+yang baik
+L1.1 Nilai Evaluasi AKIP Direktorat
+Amerika I
+79,80 (BB)
+L2 Pengelolaan
+Anggaran Direktorat
+Amerika I yang
+Optimal dan
+Akuntabel
+L2.1 Persentase Realisasi Anggaran
+Direktorat Amerika I
+99%
+Perjanjian Kinerja Direktorat Amerika I Tahun 2024 menunjukkan komitmen dan fokus
+Direktorat Amerika I untuk mengedepankan diplomasi ekonomi yang komprehensif guna
+memperkuat hubungan Indonesia dengan negara-negara di kawasan Amerika I.
+Dalam perspektif Customer, perhatian pada tindak lanjut kesepakatan kerjasama bilateral
+yang ditandatangani dengan negara mitra sangat penting. Target 100% kesepakatan yang
+ditindaklanjuti oleh pemangku kepentingan dalam negeri menunjukkan bahwa Direktorat
+Amerika I berkomitmen untuk memastikan bahwa hasil diplomasi yang t ercapai tidak hanya
+berhenti pada penandatanganan perjanjian, tetapi juga diimplementasikan secara nyata di
+tingkat nasional.
+Pada perspektif internal, Direktorat Amerika I menargetkan peningkatan diplomasi bilateral
+yang lebih kuat, dengan kesepakatan yang jelas di berbagai bidang ekonomi, sosial, budaya,
+polkam, dan maritim. Ini mengindikasikan bahwa perjanjian ini tidak hanya mencakup sektor
+ekonomi, tetapi juga memperluas cakupan diplomasi Indonesia ke bidang lain yang relevan
+dengan kawasan Amerika I. Target yang sangat jelas terkait pengelolaan data ekonomi
+menunjukkan adanya perhatian yang mendalam terhadap aspek analisis data dan
+pemanfaatan informasi untuk mendukung keputusan kebijakan.
+Terkait dengan Tata Kelola Organisasi dan Pengelolaan Anggaran,  Direktorat Amerika I
+berupaya untuk terus meningkatkan kapasitas dan kinerja organisasi internalnya. Selain itu,
+pengelolaan anggaran yang optimal dengan target realisasi anggaran mencapai 99%
+mencerminkan efisiensi dan akuntabilitas dalam penggunaan sumb er daya yang ada untuk
+memastikan bahwa seluruh rencana kegiatan dapat terlaksana secara efektif.
+
+15
+
+16
+BAB III AKUNTABILITAS KINERJA
+
+
+III.1 Capaian Kinerja
+
+Meski tantangan geopolitik dan geoekonomi global yang cenderung meningkat, namun
+sepanjang tahun 2024 ini, Pemerintah Indonesia telah berhasil menyelenggarakan pertemuan
+maupun forum dengan negara -negara mitra di Kawasan Amerika I. Pertemuan -pertemuan
+tersebut juga telah menghasilkan beragam dokumen deliverables berupa Memorandum
+Saling Pengertian, Nota Kesepakatan, Plan of Actions, dan dokumen lainnya.
+
+Di awal tahun 2024, Direktorat Amerika I memetakan target capaian kinerja sebanyak 20
+dokumen kesepakatan. Jumlah ini mengalami kenaikan dengan pertimbangan berbagai
+perkembangan dialog dan negosiasi di tahun 2023 yang kiranya dapat disepakati di tahun
+2024.  Selain itu, adanya pergantian kepemimpinan Indonesia dan negara-negara akreditasi
+di kawasan Amerika I diharapkan dapat mendorong adanya inisiatif -inisiatif baru baik dalam
+bentuk pertemuan, forum dan kesepakatan.
+
+Nilai capaian kinerja organisasi Direktorat Amerika I mencapai 106,32 atau Istimewa dengan
+rincian sebagai berikut:
+
+Perspektif Bobot Perspektif Skor Perspektif
+Stakeholder Perspective 25% 109,70
+Customer Perspective 15% 100
+Internal Business Process
+Perspective
+30% 113,32
+Learning and Growth
+Perspective
+30% 99,67
+Total NCKO 106,32
+
+S.1 Nilai Manfaat Diplomasi Ekonomi yang Optimal di Kawasan Amerika I
+
+IKU Target Realisasi Capaian
+S1.1 Tingkat
+Efektivitas Diplomasi
+Ekonomi di Sektor
+Perdagangan
+91,00% 118,12% 129,80%
+S1.1.1 Jumlah
+Komitmen
+Perdagangan 28 34 121,43%
+S1.1.2 Nilai
+Perdagangan
+dengan Negara Mitra
+(dalam USD)
+22.788.555.830 25.154.930.983 110,38%
+
+17
+S.1.2 Tingkat
+Efektivitas Diplomasi
+Ekonomi di Sektor
+Investasi
+89,17% 98,01% 109,91%
+S.1.2.1 Jumlah
+Komitmen Investasi 15 16 106,67%
+S.1.2.2 Nilai
+Investasi dengan
+Negara Mitra (dalam
+USD)
+2.806.976.357 2.184.268.400 77,82%
+S.1.3 Tingkat
+Efektivitas Diplomasi
+Ekonomi di Sektor
+Pariwisata
+94,31% 93,40% 99,22%
+S.1.3.1 Tingkat
+potensi kunjungan
+wisatawan
+mancanegara ke
+Indonesia
+93,75% 90,66% 96,70%
+S.1.3.2 Jumlah
+wisatawan
+mancanegara ke
+Indonesia
+514.726 441,072 86,69%
+
+
+Stakeholder Perspective
+
+S1 Nilai Manfaat Diplomasi Ekonomi Kawasan Amerika I yang Optimal
+
+Sesuai dengan tujuan keberadaan organisasi Perwakilan RI serta amanat kinerja dari
+Presiden RI, capaian kinerja diplomasi ekonomi perlu diukur relevansinya dengan capaian di
+bidang perdagangan, investasi, dan wisatawan mancanegara. Hal ini ditujukan agar hasil
+diplomasi dapat dirasakan secara langsung manfaatnya oleh masyarakat luas di tanah air.
+
+Nilai manfaat diplomasi ekonomi yang optimal merupakan jumlah nominal manfaat secara
+ekonomi, keuangan, dan pembangunan yang paling menguntungkan yang dihasilkan oleh
+berbagai kerja sama dan hubungan perdagangan, investasi, dan pariwisata antara negara.
+
+Sasaran Strategis (SS) S1 diukur berdasarkan capaian pada 3 (tiga) Indikator Kinerja Utama
+(IKU) dan perhitungan capaian pada tiap IKU merujuk pada realisasi SUB IKU masing-masing,
+dengan rincian sebagai berikut:
+
+1.   IKU S1.1: Tingkat Efektivitas Diploma si Ekonomi di Sektor Perdagangan, yang
+capaiannya merupakan agregat capaian SUB IKU:
+a. Jumlah Komitmen Perdagangan.
+b. Nilai Perdagangan Dengan Negara Mitra.
+
+18
+2.   IKU S1.2: Tingkat Efektivitas Diplomasi Ekonomi di Sektor Investasi, yang capaiannya
+merupakan agregat capaian SUB IKU:
+a.   Jumlah Komitmen Investasi.
+b.   Nilai Investasi Dengan Negara Mitra.
+
+3.   IKU S1.3: Tingkat efektivitas diplomasi ekonomi di sektor pariwisata, yang capaiannya
+merupakan agregat capaian SUB IKU:
+a.   Tingkat Potensi Kunjungan Wisatawan Mancanegara ke Indonesia.
+b.   Jumlah Wisatawan Mancanegara ke Indonesia.
+
+
+Analisis IKU S1.1
+
+Tingkat Efektivitas Diplomasi Ekonomi di Sektor Perdagangan dengan negara
+akreditasi Kawasan Amerika I
+
+Deskripsi IKU
+IKU S1.1 sesua i dengan tujuan keberadaan organisasi Kemenlu dan Perwakilan RI serta
+melaksanakan amanat Presiden RI dalam RPJMN 2020 -2024, yakni kinerja diplomasi perlu
+diukur relevansinya dengan capaian di bidang perdagangan agar hasil diplomasi dapat
+dirasakan secara langsung manfaatnya oleh masyarakat luas di tanah air. IKU ini secara
+spesifik mengukur value yang diperoleh Indonesia dari upaya diplomasi ekonomi untuk
+perdagangan.
+
+IKU ini  memiliki 2 SUB IKU, yakni:
+1. SUB IKU-1:   Jumlah komitmen perdagangan, dengan bobot 70%
+SUB IKU ini mengukur jumlah kesepakatan tertulis antara Indonesia dengan negara mitra
+yang memuat nilai perdagangan. Komitmen diperoleh dari kegiatan diplomasi ekonomi
+yang menyangkut perdagangan, seperti business matching, pembukaan pasar potensial
+dan unggulan, promosi dagang, dan forum kerja sama. Jumlah komitmen perdagangan
+dihitung dari perolehan komitmen baru yang difasilitasi oleh Kawasan  Amerika I dari
+Januari- Desember tahun berjalan.
+
+SUB IKU-1 di bobotkan sebesar 70% karena pelaksanaan pro mosi dan fasilitasi proses
+pembentukan komitmen perdagangan merupakan bagian dari tugas dalam diplomasi
+yang dilaksanakan Kemenlu.
+
+2. SUB IKU 2:   Nilai perdagangan dengan negara mitra, dengan bobot 30%
+SUB IKU ini mengukur nilai perdagangan berupa ekspor yang terealisasi (dalam mata
+uang USD) dengan suatu negara akreditasi. Realisasi dari nilai perdagangan bersifat
+tahunan. Nilai yang diperoleh di suatu tahun dapat terealisasi secara bertahap pada tahun-
+tahun berikutnya. Realisasi SUB IKU 2 adalah perolehan nilai perdagangan dari Januari -
+Oktober tahun berjalan.
+
+Sub IKU 2 mendapatkan alokasi bobot 30% karena capaian SUB IKU dimaksud bukan
+hanya dikontribusikan oleh Kemenlu namun merupakan upaya kolektif berbagai pihak (K/L
+terkait, dunia usaha, dll).
+
+19
+Informasi Kinerja
+
+
+ Tabel III.1
+
+Capaian IKU S1.1 Tingkat Efektivitas Diplomasi Ekonomi di Sektor Perdagangan
+dengan negara akreditasi Kawasan Amerika I  yang Optimal
+
+
+Indikator Kinerja Utama Informasi Kinerja Jumlah
+Tingkat Efektivitas
+Diplomasi Ekonomi di
+Sektor Perdagangan
+dengan negara akreditasi
+Kawasan Amerika I  yang
+Optimal
+Capaian SUB IKU 1 : Jumlah
+komitmen perdagangan (70%) 28
+Capaian SUB IKU 2 : Nilai
+perdagangan dengan negara
+mitra (30%)
+USD 22.788.555.830
+Realisasi 118,12%
+Target  91%
+Capaian  129,80%
+Batas Toleransi  120 %
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2024, realisasi IKU S1.1 Tingkat Efektivitas Diplomasi Ekonomi di Sektor
+Perdagangan dengan negara akreditasi Kawasan Amerika I yang Optimal adalah sebesar
+118,12% dari target sebesar 91%, sehingga capaian IKU sebesar 129,80% dengan batas
+toleransi capaian sebesar 120%.
+
+Realisasi IKU S1.1 diperoleh dari penjumlahan bobot atas capaian SUB IKU 1 dan SUB IKU
+2. Pada tahun 2024, realisasi SUB IKU 1 Jumlah komitmen perdagangan dengan negara
+akreditasi Kawasan Amerika I adalah sebesar 34 dari target sebesar 28, sehingga capaian
+IKU sebesar 121,43% dengan batas toleransi capaian sebesar 120%.
+
+Realisasi SUB IKU 2 Nilai perdagangan dengan negara akreditasi Kawasan Amerika I adalah
+sebesar USD 25.154.930.983 dari target sebesar USD 22.788.555.830, sehingga capaian
+IKU sebesar 110,38%  dengan batas toleransi capaian sebesar 120%.
+
+Perbandingan Kinerja
+
+ Tabel III.2
+
+Target (T), Realisasi (R) dan Capaian (C) IKU Tingkat Efektivitas Diplomasi Ekonomi di
+Sektor Perdagangan dengan negara akreditasi Kawasan Amerika I  yang Optimal
+
+20
+IKU  2022 2023 2024
+S1.1 T R C T R C T R C
+93,12% 109,55% 117,65% 92,90%  93,94%  101,12% 91,00% 118,1% 129,80%
+SUB
+IKU 1
+26 34 130,76% 25  25 100% 28,00 34,00 121,43%
+SUB
+IKU 2
+USD
+24.074.8
+94.301
+USD
+27.000.8
+44.780
+112,15% USD
+28.269.8
+83.668
+USD
+22.56.,9
+26.564,2
+5
+79,81% USD
+22.788.5
+55.830,0
+0
+USD
+25.154.9
+30.983,0
+0
+110,38%
+
+IKU S1.1 Tingkat Efektivitas Diplomasi Ekonomi di Sektor Perdagangan dengan negara
+akreditasi Kawasan Amerika I yang Optimal ini diadopsi pada tahun 2022 setelah dilakukan
+evaluasi dan ditajamkan kembali sehingga dapat mengukur proses diplomasi ekonomi yang
+dilakukan oleh Kawasan Amerika I . Untuk itu capaian IKU di tahun 2024 hanya dapat
+dibandingkan dengan capaian IKU di tahun 2022 dan 2023.
+
+Jika dibandingkan dengan tahun 2023, target IKU S1.1 SUB IKU 1 mengalami kenaikan target
+dari 25 menjadi 28 pada tahun 2023. Begitu pula dengan  realisasi SUB IKU 1 yang mengalami
+kenaikan menjadi 25 dari 34 pada tahun 2024.
+
+Jika dibandingkan dengan tahun 2023, target SUB IKU 2 mengalami penurunan target
+menjadi USD 22.788.555.89 0  dari USD 28.269.883.668. Penurunan ini menyesuaikan
+dengan kondisi penurunan harga komoditas unggulan di pasar global serta kondisi geopolitik
+dunia. Namun demikian, pada tahun 2024, terjadi peningkatan nilai perdagangan Indonesia,
+yang antara lain disebabkan oleh:
+- peningkatan harga komoditas utama Indonesia
+- peningkatan aktivitas industri yang mendorong produktivitas
+- peningkatan daya saing produk ekspor nasional
+- diversifikasi produk dan mitra dagang utama
+
+
+Analisis Penyebab Keberhasilan/Kegagalan Pencapaian IKU
+
+Sampai dengan November 2024, neraca perdagangan Indonesia surplus senilai USD 4,42
+miliar dengan tren pertumbuhan ekspor mencapai 1,86%. Peningkatan ini antara lain
+disebabkan beberapa komoditas unggulan ekspor Indonesia berhasil mencuri perhati an di
+pasar global. Secara sektoral, ekspor sektor pertanian dan sektor industri pengolahan tercatat
+tumbuh, namun sektor pertambangan dan lainnya sedikit terkontraksi. Pada tahun 2024, tren
+perdagangan Indonesia menunjukkan pemulihan dan pertumbuhan yang signifikan
+dibandingkan tahun sebelumnya, didukung oleh berbagai faktor strategis. Stabilisasi harga
+komoditas unggulan seperti minyak sawit, batu bara, dan karet menjadi salah satu pendorong
+utama peningkatan nilai ekspor.
+
+
+Program hirilisasi atau penci ptaan nilai tambah yang diupayakan Pemerintah telah
+memperlihatkan hasil yang positif, kita bisa melihat dari sektor seperti industri pengolahan,
+pertanian, dan perkebunan menyumbang surplus pada neraca perdagangan.
+
+21
+Pemerintah akan terus memantau dampak perlambatan global terhadap ekspor nasional,
+serta menyiapkan langkah antisipasi melalui dorongan terhadap keberlanjutan hilirisasi
+sumber daya alam, peningkatan daya saing produk ekspor nasional, serta diversifikasi produk
+dan mitra dagang utama
+
+Analisis Program Pendukung Capaian
+
+Berdasarkan narasi informasi kinerja yang telah dijabarkan sebelumnya, dapat terlihat bahwa
+Direktorat Amerika I telah menunjukkan keberhasilan/kegagalan pencapaian IKU antara lain:
+1. Pada tahun ini Ditjen Amerop c.q. Direktorat Amerika I dan Direktorat Amerika II
+menyelenggarakan Indonesia -Latin America and the Caribbean (INALAC) yang
+merupakan perhelatan forum bisnis berskala besar pertama yang diselenggarakan
+oleh Kementerian Luar Negeri (Kemlu) Republik Indonesia di kawasan Amerika Latin
+dan Karibia. Selain meningkatkan jumlah transaksi dibandingkan pelaksanaan tahun
+2023, INALAC 2024 juga menghasilkan peningkatan komitmen perdagangan antara
+Indonesia dengan negara-negara yang menjadi wilayah akreditasi Direktorat Amerika
+I.
+2. Diselesaikannya perundingan Indonesia-Canada Comprehensive Economic Partnership
+Agreement (ICA-CEPA) pada tahun 2024. Manfaat ICA-CEPA adalah:
+a. Meningkatkan PDB riil Kanada sebesar $328 juta (0,012%) pada tahun 2 040 dan
+PDB Indonesia sebesar $1,4 miliar (0,037%) pada tahun 2040.
+b. Impor Kanada dari Indonesia meningkat sebesar $1,1 miliar (47%) dan ekspor
+Kanada ke Indonesia dapat meningkat sebesar $447 juta (7,9%) pada tahun 2040.
+
+3. Disepakatinya Pilar II (Supply Chain Agreement), Pilar III (Clean Economy Agreement)
+dan Pilar IV (Fair Economy) dari Indo-Pacific Economic Framework for Prosperity (IPEF)
+yang akan menjadi terobosan kolaborasi dan langkah konkret yang dilakukan negara -
+negara mitra IPEF untuk mewujudkan ra ntai pasok global yang tangguh, memfasilitasi
+transisi terhadap sektor ekonomi bersih, dan mewujudkan kemudahan investasi di
+kawasan Indo-Pasifik.
+
+
+Selain kegiatan-kegiatan yang dilaksanakan oleh Ditjen Amerika dan Eropa, sepanjang tahun
+2024 telah dilakukan sejumlah kegiatan oleh Perwakilan RI untuk mendukung capaian kinerja
+Sub IKU S1.1, antara lain meliputi:
+1. Partisipasi KBRI Washington DC pada pameran Summer Fancy Food Show (SFFS) 2024
+yang dihelat di Javits Center, NY, AS, pada 23 -25 Juni 2024. Selama tiga hari
+pelaksanaan pameran, tercatat komitmen transaksi sebesar USD 44,45 juta.
+2. Partisipasi KBRI Washington DC pada DMV Chocolate and Coffee Festival di Dulles
+Expo Center, Virginia, Amerika Serikat, tanggal 16 -17 November 2024. Di sela -sela
+pameran DMV Chocolate and Coffee Festival ini,
+
+
+sourcing dari 4 (empat) UMKM Indonesia senilai USD 250,000,
+
+
+
+3. Partisipasi ITPC LA pada pameran Naturan Product Expo West pada April 2024 di
+Anaheim. Paviliun Indonesia berhasil mencatatkan total transaksi sebesar USD 47,95
+juta.
+
+22
+4. Partisipasi ITPC LA pada pameran Magic Fashion Trade Show di Las Vegas pada Maret
+2024. Hasil komitmen transaksi untuk 3 brand Indonesia selama 3 hari pelaksanaan
+adalah USD 162,181.
+5. Fasilitasi KBRI Panama City untuk negosiasi bisnis antara
+
+
+
+
+
+6. Partisipasi KJRI Vancouver pada pada Canada Health Food Association (CHFA) Natural
+Organic Wellness (NOW) 2024 di Vancouver,  British Columbia, Kanada pada 4 -5 April
+2024. Bekerja sama dengan ITPC Vancouver,
+
+ Tercatat komitmen transaksi sebesar US$ 5,6 juta.
+7. Partisipasi Perwakilan RI di Kanada pada pada Trade Expo Indonesia (TEI) pada tanggal
+9 - 12 Oktober 2024 di Tangerang, Indonesia. TEI diikuti oleh 1460 pelaku bisnis dengan
+jumlah pengunjung mencapai 41.488 orang dari 140 negara. Kegiatan ini menghasilkan
+10 Memorandum Saling Pengertian transaksi dagang antara eksportir Indonesia dan
+importir Kanada.
+8. Partisipasi KBRI Panama City pada ExpoComer ke 40 Tahun 2024, tanggal 5 -7 Maret
+2024  di Panama City dan meraih  total komitmen transaksi sebesar USD 75,000, terdiri
+dari USD 35,000 untuk produk tractor dan USD 40,000 untuk produk home decor dan
+kerajinan Indonesia
+
+
+9. Fasilitasi KBRI Panama City  (distributor material
+konstruksi di Kosta Rika) dalam kunjungan ke IFFEX 2024 di Jakarta yang menghasilkan
+transaksi USD 17,800
+10. Fasilitasi KBRI Panama City
+ untuk pembelian permen
+11. Fasilitasi KBRI Mexico City untuk ekspor batu bara dari Indonesia ke Meksiko
+
+12. Fasilitasi KBRI Mexico City untuk ekspor kayu manis dari Indonesia ke Meksiko
+
+13. Fasilitasi KBRI Mexico City untuk adult diapers dari Indonesia ke Guatemala
+
+14. Fasilitasi KBRI Mexico City untuk kayu jenis blackboard with albezia face/black surface
+15mm dan 18mm dari Indonesia ke Meksiko
+
+15. Fasilitasi KBRI Mexico City untuk ekpsor ban motor dari Indonesia ke Meksiko
+
+16. Fasilitasi KBRI Mexico City untuk ekspor produk pertanian dari Indonesia berupa rempah-
+rempah pilihan berkualitas, yaitu teh hitam fanning, teh hijau, dan teh melati
+
+17. Fasilitasi KBRI Mexico City untuk ekspor beberapa jenis produk dan jasa dari Indonesia,
+termasuk komoditi makanan yang bernilai USD 1 Juta dalam kurun waktu 5 tahun ke
+depan
+
+18. Fasilitasi KBRI Mexico City untuk  produk bulu mata natural
+
+19. Fasilitasi KBRI Mexico City untuk produk furnitur dan home decor
+
+20. Fasilitasi KBRI Mexico City untuk produk batu bara
+
+23
+21. Fasilitasi KBRI Mexico City untukalat kecantikan dari Indonesia ke Meksiko seperti
+produk anti hairloss, creambath, hairspa, dan eyelashes
+
+22. Partisipasi KJRI LA dan ITPC LA dalam berpartisipasi pada Trade Expo Indonesia (TEI)
+ke-39 pada Oktober 2024. komitmen transaksi yang dihasilkan oleh buyers AS dari wilker
+ITPC LA mencapai USD 2.050.181 yang beras al dari berbagai macam produk, yakni
+modest fashion, apparel, makanan -minuman, charcoal bricket, plush toys, dan suku
+cadang mobil.
+23. Partisipasi KJRI LA pada pada pameran cerutu The Premium Cigar Association (PCA)
+Convention & International Trade Show, di mana dihasilkan permintaan 1,000 batang
+cerutu.
+24. Fasilitasi KBRI Mexico City untuk transaksi produk teh
+senilai USD 500.000 untuk 5 tahun
+25. Fasilitasi KJRI Houston untuk komitmen transaksi produk plush toys asal Indonesia (PT
+Youme)  senilai
+USD 135.000.
+
+26. Partisipasi KBRI Mexico City dan ITPC M exico City pada Expo ANTAD 2024 pada 11 -
+16 Maret 2024 menghasilkan komitmen transaksi senilai USD 3,75 juta atau setara Rp
+59,6 miliar
+27. Kerja sama KJRI Vancouver dengan ITPC Vancouver dan Brooklyn Industries (Canada)
+telah memfasilitasi penyelenggaraan bu siness forum pada 5 Februari 2024 dengan
+menghadirkan  yang mengembangkan
+biomaterial (vegan leather) dari limbah kopi. Biomaterial ini selanjutnya dapat diolah
+menjadi merchandise, aksesori, fashion dan furni ture.
+
+
+28. Partisipasi KBRI Panama City dalam pameran Latin Tyre Expo & Latin Autoparts  Expo,
+tgl 31 Juli sd 2 Agustus 2024 dan meraih komitmen transaksi USD 1,5 juta untuk
+
+
+
+
+Kendala dan Tantangan
+
+Kendala dan tantangan yang dihadapi Direktorat Amerika I dalam pencapaian target meliputi:
+1. Perlambatan pertumbuhan ekonomi global. Ekspor Indonesia sangat dipengaruhi oleh
+pertumbuhan ekonomi global. Jika ekonomi global mengalami perlambatan, permintaan
+untuk produk ekspor Indonesia dapat menurun. Perang dagang antara negara -negara
+besar seperti Amerika Serikat dan Tiongkok juga dapat berdampak negatif pada
+perdagangan internasional.
+2. Volatilitas harga Komoditas. Indonesia adalah salah satu eksportir utama komoditas
+seperti minyak kelapa sawit, karet, dan batu bara. Harga komoditas yang fluktuatif dapat
+mempengaruhi pendapatan ekspor dan neraca perdagangan Indonesia.
+3. Infrastruktur dan biaya logistik. Ketidakmampuan infrastruktur dan biaya logistik yang
+tinggi dapat menghambat daya saing produk Indonesia di pasar internasional. Biaya
+pengiriman yang mahal, kekurangan pelabuhan yang efisien, dan jaringan transportasi
+yang belum cukup berkembang dapat menyulitkan ekspor barang ke luar negeri.
+4. Regulasi dan birokrasi. Beberapa aspek birokrasi dan regulasi di Indonesia dapat menjadi
+kendala dalam perdagangan. Proses izin ekspor, pajak, dan peraturan perdagangan yang
+kompleks dapat memperlambat proses ekspor dan menambah biaya.
+5. Perubahan kebijakan perdagangan global. Perubahan dalam ke bijakan perdagangan
+global, termasuk perjanjian perdagangan dan tarif, dapat berdampak pada perdagangan
+
+24
+Indonesia. Perubahan dalam perjanjian perdagangan dengan mitra dagang utama dapat
+mengubah kondisi perdagangan.
+6. Peningkatan teknologi dan otomatisasi. Perubahan teknologi dan tren otomatisasi dapat
+mempengaruhi sektor pekerjaan tradisional dan memerlukan penyesuaian dalam
+kebijakan pelatihan tenaga kerja.
+7. Perubahan iklim dan keberlanjutan. Isu -isu lingkungan dan tuntutan untuk praktik bisnis
+yang berkelan jutan dapat mempengaruhi sektor -sektor tertentu di Indonesia, seperti
+pertanian dan industri ekstraktif.
+8. Tekanan proteksionisme. Meningkatnya kecenderungan proteksionisme di beberapa
+negara dapat membuat akses ke pasar sulit bagi produk Indonesia dan menim bulkan
+risiko terhadap ekspor.
+
+Upaya Perbaikan
+
+Untuk mengatasi berbagai kendala dan tantangan selama tahun berjalan, diperlukan inisiatif
+strategis dalam pencapaian target, seperti:
+1. Diversifikasi ekonomi. Pemerintah Indonesia berupaya untuk mengurangi
+ketergantungan pada ekspor komoditas dengan mendorong diversifikasi ekonomi.
+Inisiatif ini melibatkan pengembangan sektor-sektor seperti manufaktur, jasa, dan industri
+kreatif.
+2. Reformasi perpajakan. Upaya dilakukan untuk merombak sistem perpajak an dengan
+tujuan meningkatkan daya saing dan memudahkan pelaku bisnis. Peningkatan efisiensi
+perpajakan diharapkan dapat mendukung pertumbuhan sektor bisnis dan investasi.
+3. Infrastruktur. Investasi dalam pengembangan infrastruktur menjadi prioritas untuk
+meningkatkan konektivitas dan efisiensi logistik. Proyek -proyek infrastruktur seperti
+pelabuhan, jalan tol, dan bandara diharapkan dapat mempercepat arus barang dan
+meningkatkan daya saing ekonomi.
+4. Penguatan rantai pasokan. Peningkatan keamanan dan efisiensi  rantai pasokan
+diharapkan dapat membantu pelaku bisnis menghadapi tantangan seperti ketidakpastian
+kebijakan perdagangan dan risiko gangguan pasokan.
+5. Peningkatan daya saing. Program -program untuk meningkatkan daya saing industri
+diarahkan pada peningkatan  produktivitas, inovasi, dan kualitas produk. Ini melibatkan
+pelatihan keterampilan, peningkatan teknologi, dan dukungan terhadap riset dan
+pengembangan.
+6. Pemberdayaan UMKM. Upaya ditempuh untuk memberdayakan Usaha Mikro, Kecil, dan
+Menengah (UMKM) agar dap at bersaing di pasar global. Ini melibatkan pemberian
+dukungan finansial, pelatihan, dan fasilitas akses pasar.
+7. Pengembangan e-commerce. Peningkatan penggunaan e -commerce diharapkan dapat
+membantu pelaku bisnis, terutama UMKM, untuk mencapai pasar global d an
+meningkatkan efisiensi dalam distribusi produk.
+
+
+Proyeksi ke Depan
+
+Dengan mempertimbangkan kondisi saat ini, kedepannya Direktorat Amerika I akan
+melakukan sejumlah langkah guna mencapai target kinerja Sub IKU S1.1, sebagai berikut:
+1. Memfokuskan resources untuk mendukung pencapaian komitmen perdagangan di sektor
+dengan ni lai tambah tinggi dan sesuai dengan prioritas Indonesia pada tahun 2024 -
+2029.
+2. Tindak lanjut penyelenggarakan INALAC Business Forum di Peru guna meningkatkan
+partisipasi pelaku usaha di kawasan Amerika Latin dan Karibia dan mendukung realisasi
+komitmen perdagangan. Selama 5 kali penyelenggaraan sejak pertama kali diluncurkan
+pada tahun 2019, penyelenggaraan INALAC BF selalu bertempat di Indonesia.
+Mempertimbangkan kesuksesan dan animo yang terus meningkat, INALAC BF tahun
+
+25
+2024 telah diselenggarakan di Peru guna mendekat ke pelaku bisnis di Amerika Tengah
+dan Selatan dan semakin meningkatkan partisipasi pelaku usaha serta memanfaatkan
+momentum untuk memperluas jaringan dan peluang perdagangan dengan mitra di
+Amerika Latin dan Karibia.
+3. Meningkatkan jumlah misi bisnis guna memfasilitasi pertemuan antara pelaku usaha yang
+difokuskan pada sektor -sektor strategis dan memperluas cakupan negara tujuan,
+termasuk negara non -tradisional, guna memperkuat komitmen perdagangan yang
+berkelanjutan
+4. Mengawal implementasi penuh ICA-CEPA dengan fokus pada optimalisasi akses pasar
+dan peningkatan perdagangan dua arah,
+5. Finalisasi Pilar I  Indo -Pacific Economic Framework (IPEF) serta penyelesaian proses
+ratifikasi Pilar II, III, dan IV. Selain itu Dit. Amerika I juga terus menekank an pada akses
+pasar yang lebih luas dan inklusif agar dapat mengakomodir kepentingan negara-negara
+terkait, memastikan pemanfaatan kerangka kerja IPEF untuk memperkuat rantai pasok,
+membuka akses pasar yng inklusif, serta mendorong kolaborasi pada sektor d igital dan
+energi hijau.
+
+Dokumentasi
+
+
+Pelaksanaan Media Briefing INALAC 2024 di Peru
+
+26
+
+
+Penandatanganan kesepakatan Sanitari dan Fitosanitari dalam kerangka ICA-CEPA,
+Jakarta, 2 Desember  2024
+
+
+
+Penandatanganan kesepakatan Kerja Sama Mineral Kritis dalam kerangka ICA-CEPA,
+Jakarta, 2 Desember  2024
+
+27
+Analisis IKU S1.2
+
+Tingkat efektivitas diplomasi ekonomi di sektor investasi dengan negara akreditasi
+Kawasan Amerika I
+
+Deskripsi IKU
+IKU ini sesuai dengan tujuan keberadaan organisasi Kemenlu dan Perwakilan RI serta
+melaksanakan amanat Presiden RI dalam RPJMN 2020 -2024, yakni kinerja diplomasi perlu
+diukur relevansinya dengan capaian di bidang investasi agar hasil diplomasi dapat dirasakan
+secara langsung manfaatnya oleh masyarakat luas di tanah air. SUB IKU ini secara spesifik
+mengukur value yang diperoleh Indonesia dari upaya diplomasi ekonomi untuk investasi.
+
+IKU ini  memiliki 2 SUB IKU, yakni:
+1. SUB IKU-1: Jumlah komitmen investasi, dengan bobot 70%
+SUB IKU ini mengukur jumlah kesepakatan tertulis antara Indonesia dengan negara mitra
+yang memuat nilai investasi in-bound. Komitmen diperoleh dari kegiatan diplomasi
+ekonomi yang menyangkut investasi, seperti business matching , pembukaan pasar
+potensial dan unggulan, promosi investasi, dan forum kerja sama. Jumlah komitmen
+investasi dihitung dari perolehan komitmen baru yang difasilitasi oleh Kawasan Amerika
+I dari Januari – Desember tahun berjalan.
+
+SUB IKU-1 mendapatkan alokasi bobot 70% karena pelaksanaan promosi dan fasilitasi
+proses pembentukan komitmen investasi merupakan bagian dari tugas dalam diplomasi
+yang dilaksanakan Kemenlu.
+
+2. SUB IKU 2: Nilai investasi dengan negara mitra, dengan bobot 30%
+SUB IKU ini mengukur nilai investasi in-bound yang terealisasi (dalam mata uang USD)
+untuk suatu negara akreditasi di suatu tahun. Pencapaian target IKU ini membutuhkan
+kolaborasi yang kuat dan intensif antara Perwakilan RI dengan entitas yang bernaung
+dalam Indonesia Incorporated (ITPC, IIPC) di negara tersebut. Realisasi SUB IKU 2
+adalah perolehan nilai investasi dari Januari - September tahun berjalan.
+
+SUB IKU 2 mendapatkan alokasi bobot 30% karena capaian SUB IKU dimaksud bukan
+hanya dikontribusikan oleh Kemenlu namun merupakan upaya kolektif berbagai pihak
+(K/L terkait, dunia usaha, dll).
+
+Informasi Kinerja
+
+ Tabel III.3
+
+Capaian IKU S1.2 Tingkat efektivitas diplomasi ekonomi di sektor investasi dengan
+negara akreditasi KBRI Kawasan Amerika I
+
+
+Indikator Kinerja Informasi Kinerja Nilai Capaian
+SUB IK/IK Nilai Bobot
+Tingkat Efektivitas
+Diplomasi Ekonomi
+di Sektor
+Perdagangan
+Persentase
+perdagangan yang
+diperoleh
+ 33,3
+Realisasi 113,33%
+Target  89,17%
+Capaian 127,09%
+Toleransi Capaian 120%
+
+28
+
+
+Sub-Indikator Kinerja Informasi Kinerja Nilai
+Sub-IK 1: Jumlah Komitmen Investasi di
+Kawasan Amerika I
+Komitmen
+Investasi yang
+diperoleh
+16
+Target 15
+Capaian 106,67%
+
+Sub-Indikator Kinerja Informasi Kinerja Nilai
+Sub-IK 2: Nilai Investasi dengan Negara
+Mitra di Kawasan Amerika I
+Nilai investasi yang
+terealisasi
+USD
+3.448.378.000,00
+Target USD
+2.806.976.357,00
+Capaian 122,85%
+Toleransi Capaian 120%
+
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2024, realisasi IKU S1.2 Tingkat efektivitas diplomasi ekonomi di sektor investasi
+dengan negara akreditasi KBRI Kawasan Amerika I adalah sebesar 113,33 % dari target
+sebesar 89,17%, sehingga capaian IKU sebesar 127,09% dengan batas toleransi ca paian
+sebesar 120%.
+
+Realisasi IKU S1.2 diperoleh dari penjumlahan bobot atas capaian SUB IKU 1 dan SUB IKU
+2. Pada tahun 2024, realisasi SUB IKU 1 Jumlah komitmen investasi dengan negara akreditasi
+Kawasan Amerika I adalah sebesar 16 dari target sebesar 15, sehingga capaian IKU sebesar
+106,67% dengan batas toleransi capaian sebesar 120%.
+
+Realisasi SUB IKU 2 Nilai investasi dengan negara mitra Kawasan Amerika I  adalah sebesar
+USD 3.448.378.000,00 dari target sebesar  USD 2.806.976.357,00, sehingga capaia n IKU
+sebesar 122,85% dengan batas toleransi capaian sebesar 120%.
+
+
+Perbandingan Kinerja
+
+ Tabel III.4
+
+Target (T), Realisasi (R) dan Capaian (C) IKU Tingkat efektivitas diplomasi ekonomi di
+sektor investasi dengan negara akreditasi Kawasan Amerika I
+
+
+Kode IK/SUB IK 2020 2021 2022 2023 2024
+S1.2 Target N/A N/A 90.72% 92.67% 89.17%
+Realisasi N/A N/A 119.11% 114.54% 113.33%
+
+29
+Capaian N/A N/A 120% 120% 120%
+Sub
+IK 1
+Target N/A N/A 9 12 15
+Realisasi N/A N/A 15 14 16
+Capaian N/A N/A 167,67% 116,67% 106,67%
+Sub
+IK 2
+Target N/A N/A USD1.947.014.
+000
+USD
+2.417.829.08
+1
+USD
+2.806.976.35
+7
+Realisasi N/A N/A USD
+2.278.821.000
+USD
+2.649.500.30
+0
+USD
+3.448.378.00
+0
+Capaian N/A N/A 117,04% 109,58% 120%
+
+
+IKU S1.2 Tingkat efektivitas diplomasi ekonomi di sektor investasi dengan negara akreditasi
+KBRI Kawasan Amerika I ini diadopsi pada tahun 2022 setelah dilakukan evaluasi dan
+ditajamkan kembali sehingga dapat mengukur proses diplomasi ekonomi yang dilakukan oleh
+Kawasan Amerika I. Untuk itu capaian IKU di tahun 2024  dapat dibandingkan dengan capaian
+IKU di tahun 2022 dan 2023
+
+Jika dibandingkan dengan tahun 2022 dan 2023, target SUB IKU 1 mengalami peningkatan
+target dari semula 9 menjadi 12 dan 15. Namun begitu, Direktorat Amerika I terus berhasil
+dalam mencapai realisasi SUB IKU 1 melebihi target. Hal ini disebabkan oleh perkembangan
+infrastruktur di Indonesia serta sejumlah kebijakan baru yang meningkatkan daya tarik bagi
+investor.
+
+Sedangkan pada Sub IKU 2 juga demikian, meskipun mengalami peningkatan target menjadi
+dari semula USD1.947.014.000 menjadi USD 2.649.500.300 dan USD 3.448.378.000, angka
+realisasinya selalu berada di atas target. Hal ini disebabkan oleh perkembangan infrastruktur
+di Indonesia serta sejumlah kebijakan baru yang meningkatkan daya tarik bagi investor. Selain
+itu terjalinnya kerja sama yang erat dengan negara -negara mitra Kawasan Amerika I juga
+menjadi landasan utama iklim investasi yang membaik di Indonesia
+
+Analisis Penyebab Keberhasilan Pencapaian IKU
+
+Pencapaian kinerja Direktorat Amerika I dalam merealisasikan Sub IKU S1.2 didukung oleh
+beberapa hal, diantaranya:
+1. Kunjungan pada tingkat Kepala Negara dan Menteri Luar Negeri menghasilkan sejumlah
+komitmen investasi yang signifikan antara Indonesia denga n negara -negara mitra di
+kawasan Amerika I.
+2. Pertumbuhan ekonomi Indonesia yang stabil dan positif sehingga meningkatkan daya
+tarik bagi investor asing.
+
+30
+3. Adanya perang dagang antara Amerika dan Tiongkok sehingga Amerika mencari peluang
+investasi di negara-negara kawasan Asia Tenggara, termasuk Indonesia sebagai salah
+satu negara tujuan investasi.
+4. Harga barang komoditas maupun taraf hidup serta Upah Minimum Regional di Tiongkok
+telah jauh meningkat serta kebijakan Pemerintah AS untuk mengalokasikan sektor-sektor
+sensitif dan strategis ke negara lain sehingga Indonesia menjadi salah satu negara tujuan
+investasi.
+5. Indonesia masih memiliki banyak ruang investasi yang dapat dikembangkan terutama di
+bidang infrastruktur, jaringan transportasi dan energi hijau.
+6. Kesamaan prioritas Pemerintah untuk mendukung tercapainya visi bersama Kementerian
+Luar Negeri dan Kementerian/Lembaga terkait untuk pursue hubungan kerja sama
+perdagangan yang lebih erat dengan mitra di kawasan Amerika I guna mencapai prioritas
+nasional.
+7. Eagerness Perwakilan RI untuk mengawal proses tercapainya komitmen investasi, mulai
+dari penjajakan, mempertemukan pihak dalam negeri dengan mitra, perundingan, hingga
+fasilitasi kesepakatan.
+
+
+Kendala dan Tantangan
+
+Dalam mencapai target SUB IKU S1.2 ini, Direktorat Amerika I dihadapkan dengan beberapa
+kendala dan tantangan baik dari segi eksternal maupun internal, diantaranya:
+1. Masih kurangnya infrastruktur yang mendukung pertumbuhan ekonomi dan mendukung
+iklim investasi di Indonesia, termasuk transportasi, energi, dan teknologi.
+2. Masih kurangnya penerapan sanksi terhadap perusahaan -perusahaan yang melanggar
+tanggung jawab, misalnya terhadap lingkungan.
+3. Masih kurangnya tenaga kerja yang berkualitas untuk memegang sektor-sektor strategis
+di perusahaan asing.
+4. Masih rendahnya paparan (exposure) terhadap potensi Indonesia di negara-negara mitra
+non-tradisional Indonesia di kawasan Amerika I sehingga belum memunculkan minat
+untuk menyepakati komitmen investasi dengan Indonesia.
+5. Jarak yang jauh dengan n egara di kawasan Amerika Latin dan Karibia menyebabkan
+biaya logistik menjadi mahal dan menurunkan competitiveness barang dari Indonesia.
+
+
+Upaya Perbaikan
+
+Beberapa upaya yang telah dilakukan oleh Direktorat Amerika I untuk menghadapi kendala
+dan tantangan dalam merealisasikan IK S1.2, di antaranya:
+1. Menyediakan panduan investasi yang lebih jelas dan terstruktur bagi investor asing,
+bekerja sama dengan kementerian terkait dan Perwakilan RI
+2. Mengadakan forum investasi tematik di kawasan Amerika I serta meman faatkan
+platform digital untuk mempromosikan peluang investasi di sektor prioritas
+3. Mendukung upaya pemerintah dalam mempercepat pembangunan infrastruktur
+strategis, seperti kawasan industri, pelabuhan internasional, dan fasilitas logistik, yang
+dapat menarik minat investor asing.
+4. Menggandeng konsul kehormatan, diaspora, dan mitra lokal di kawasan Amerika I
+untuk memfasilitasi akses pasar dan mempermudah realisasi investasi di Indonesia.
+5. Memberikan pelatihan dan pendampingan kepada pelaku usaha lokal agar lebih siap
+bekerja sama dengan investor asing, termasuk dalam memenuhi standar
+keberlanjutan global.
+
+31
+Capaian
+
+Sepanjang tahun 2024, telah dilakukan sejumlah kegiatan untuk mendukung capaian kinerja
+Sub IKU S1.2, antara lain meliputi:
+1. Kerja sama komitmen investasi multitahun senilai 126 juta dollar AS
+
+ pada
+proyek panas bumi
+2. Kerja sama  pembiayaan Feasibility Study
+sebesar USD 2,3 Juta
+3. Komitmen  untuk berinvestasi pada pengembangan PLTN
+berbasis tenaga Thorium
+4. Komitmen investasi untuk pengemb angan fasilitas CCS di Indonesia
+
+
+5. Penandatanganan LoI
+ pada 21 November 2024
+6.
+     komitmen investasi
+di PSN
+Wiraraja Green Renewable Energy & Smart-Eco Industrial Park di Pulau Galang sebesar
+USD 6,400,000,000
+7. KBRI Mexico City telah memfasilitasi proses penandatanganan Non Disclosure
+Agreement antara
+8.  investasi Panas
+Bumi di Indonesia
+9. Komitmen kerja sama  Aceh
+10. Komitmen dana  investasi sebesar 25 miliar USD
+
+ untuk implementasi IPEF.
+11.
+
+
+
+ investasi di sektor infrastruktur
+terutama perumahan.
+
+12.
+ LRT di Manado dengan nilai investasi 1,9 juta Dollar AS, dengan skema
+Public Private Partnership.
+13. Peluang Kerja Sama Investasi
+ dalam Bidang konstruksi dan Perumahan Berkelanjutan
+14. Kerja sama investasi untuk pengembangan teknologi Smart City untuk IKN dengan nilai
+sekitar USD 4,65 Juta
+
+15. Kemitraan  dengan Satgas Ekosistem Semikonduktor
+
+Proyeksi Kedepan
+
+Dengan mempertimbangkan kondisi saat ini dan ke depan, Direktorat Amerika I akan
+melakukan sejumlah langkah guna mencapai target kinerja Sub IKU S1.2 pada tahun
+selanjutnya, sebagai berikut:
+
+32
+1. Mengarahkan resources pada sektor-sektor prioritas yang memiliki nilai tambah yang
+signifikan, sejalan dengan prioritas nasional di pemerintahan 2024 - 2029
+2. Melanjutkan kesuksesan penyelenggaraan INA -LAC di Peru 2024 dengan cara
+meningkatkan keterlibatan pelaku usaha lokal dan kawasan dalam forum berikutny a,
+serta memanfaatkan momentum untuk memperluas jaringan dan peluang
+perdagangan dengan mitra di Amerika Latin dan Karibia.
+3. Menambah jumlah misi bisnis yang difokuskan pada sektor -sektor strategis dan
+memperluas cakupan negara tujuan, termasuk negara non -tradisional, guna
+memperkuat komitmen perdagangan yang berkelanjutan
+4. Mengawal implementasi penuh ICA -CEPA dengan fokus pada optimalisasi akses
+pasar dan peningkatan investasi dua arah,
+5. Memastikan memanfaatkan kerangka kerja IPEF ini untuk memperkuat rantai pasok,
+membuka akses pasar yang inklusif, serta mendorong investasi dari negara -negara
+mitra
+
+
+Dokumentasi
+
+
+
+
+
+Penandatanganan kerja sama antara USTDA dan PLN  bulan Maret 2024
+
+33
+
+PT ThorCon Power Indonesia resmi menyerahkan proposal persiapan implementasi
+TMSR500 sebagai calon Pembangkit Listrik Tenaga Nuklir (PLTN) pertama di
+Indonesia kepada Dewan Energi Nasional (DEN), 14 Agustus 2024
+Analisis IKU S1.3
+
+Tingkat efektivitas diplomasi ekonomi di sektor pariwisata dengan nega ra akreditasi
+Kawasan Amerika I
+
+Deskripsi IKU
+IKU S1.3 Tingkat efektivitas diplomasi ekonomi di sektor pariwisata dengan negara akreditasi
+Kawasan Amerika I sesuai dengan tujuan keberadaan organisasi Kemenlu dan Perwakilan RI
+serta melaksanakan amanat Pr esiden RI dalam RPJMN 2020 -2024, yakni kinerja diplomasi
+perlu diukur relevansinya dengan capaian di bidang pariwisata agar hasil diplomasi dapat
+dirasakan secara langsung manfaatnya oleh masyarakat luas di tanah air.
+
+IKU ini memiliki 2 SUB IKU, yakni:
+1. SUB IKU 1:Tingkat potensi kunjungan wisatawan mancanegara ke Indonesia
+Salah satu output diplomasi ekonomi yang dilakukan oleh Kemenlu adalah promosi
+pariwisata. IKU ini mengukur efektivitas penyelenggaraan promosi tersebut dengan
+mengukur seberapa tinggi minat wisatawan mancanegara potensial yang merupakan
+WNA yang memiliki ekspektasi untuk melakukan kunjungan wisata ke Indonesia setelah
+melihat/menghadiri/berpartisipasi pada promosi pariwisata dan budaya yang
+diselenggarakan oleh Kemenlu atau event  promosi yang diselenggarakan pihak lain di
+mana Kemenlu turut menjadi peserta event.
+
+SUB IKU ini mengukur wisatawan mancanegara yang memiliki ekspektasi tinggi untuk
+melakukan kunjungan wisata ke Indonesia. Level ekspektasi diukur dengan suatu angka
+antara 1 - 5, dimana 5 adalah level yang menunjukkan responden sangat setuju bahwa
+promosi Indonesia telah berhasil meningkatkan minat untuk berkunjung ke Indonesia, dan
+
+34
+level 1 adalah level yang menunjukkan responden sangat tidak setuju bahwa promosi
+Indonesia meningkatkan minat untuk berkunjung ke Indonesia. Ekspektasi tinggi
+ditunjukkan pada level 4 - 5.
+
+SUB IKU 1 mendapatkan alokasi bobot 70% karena pelaksanaan promosi pariwisata dan
+budaya untuk mendorong kunjungan wisatawan mancanegara merupakan bagian dari
+tugas dalam diplomasi yang dilaksanakan Kemenlu.
+
+
+2. SUB IKU 2:   Jumlah wisatawan mancanegara ke Indonesia
+SUB IKU 2 menunjukkan jumlah total warga dari negara asing yang mengadakan
+perjalanan wisata ke Indonesia.
+SUB IKU 2 mendapatkan alokasi bobot 30 % karena capaian sub IKU dimaksud bukan
+hanya dikontribusikan oleh Kemenlu namun merupakan upaya kolektif berbagai pihak
+(K/L terkait, Pemda, masyarakat dll) dan dapat dipengaruhi oleh faktor eksternal lainnya.
+
+Informasi Kinerja
+
+ Tabel III.5
+
+Capaian IKU S1.3 Tingkat efektivitas diplomasi ekonomi di sektor pariwisata dengan
+negara akreditasi Kawasan Amerika I
+
+
+Indikator Kinerja Informasi Kinerja Nilai Capaian SUB
+IK/IK Nilai Bobot
+Tingkat Efektivitas
+Diplomasi Ekonomi di
+Sektor Pariwisata di
+Kawasan Amerika I
+Sub IK 1 dan Sub IK
+2
+Sub IK 1: 106,67%
+Sub IK 2: 85,69%
+33,3
+Realisasi 96.18%
+Target  94,13%
+Capaian 102,18%
+
+Sub-Indikator Kinerja Informasi Kinerja Nilai
+Sub-IK 1: Tingkat Potensi Kunjungan Wisata
+Mancanegara ke Indonesia
+ 100%
+Target 93,75%
+Capaian 106,67%
+
+Sub-Indikator Kinerja Informasi Kinerja Nilai
+Sub-IK 2: Jumlah Wisatawan Mancanegara ke
+Indonesia
+ 441072
+Target 514726
+Capaian 85,69%
+
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2024, realisasi IKU S1.3 Tingkat efektivitas diplomasi ekonomi di sektor pariwisata
+dengan negara akreditasi Kawasan Amerika I adalah sebesar 96,18% dari target sebesar
+94,13%, sehingga capaian IKU sebesar 102,18% dengan batas toleransi capaian sebesar
+120%.
+
+35
+
+Realisasi IKU S1.3 diperoleh dari penjumlahan bobot atas capaian SUB IKU 1 dan SUB IKU
+2. Pada tahun 2024, realisasi SUB IKU 1 Tingkat potensi kunjungan wisatawan mancanegara
+ke Indonesia dari negara akreditasi Kawasan Amerika I adalah seb esar 100% dari target
+sebesar 93,75%, sehingga capaian IKU sebesar 106,67% dengan batas toleransi capaian
+sebesar 120%.
+
+Realisasi SUB IKU 2 Jumlah wisatawan mancanegara ke Indonesia dari negara akreditasi
+Kawasan Amerika I  adalah sebesar 441.072 dari target sebesar 514.726, sehingga capaian
+IKU sebesar 85,69 dengan batas toleransi capaian sebesar 120%.
+
+
+Perbandingan Kinerja
+
+Tabel III.6
+
+Target (T), Realisasi (R) dan Capaian (C) IKU Tingkat efektivitas diplomasi ekonomi di
+sektor pariwisata dengan negara akreditasi Kawasan Amerika I
+
+
+Kode IK/SUB IK 2020 2021 2022 2023 2024
+S1.3 Target N/A N/A 81.38% 93.6% 94.13%
+Realisasi N/A N/A 101.16% 106.3% 96.18%
+Capaian N/A N/A 124,3% 113,56% 102.18%
+Sub IK 1 Target N/A N/A 75,54% 93.0% 93.75%
+Realisasi N/A N/A 101.16% 93.51% 100%
+Capaian N/A N/A 133,91% 100,5% 106,67%
+Sub IK 2 Target N/A N/A 75.000 344.003 514726
+Realisasi N/A N/A 150.521 411.781 441072
+Capaian N/A N/A 200,69% 119,7% 85.69%
+
+Jika dibandingkan dengan tahun 2022 dan 2023, target SUB IKU 1 mengalami peningkatan
+target dari semula 75,54% menjadi 93% dan 93,75%. Namun begitu, Direktorat Amerika I
+terus berhasil dalam mencapai realisasii SUB IKU 1 melebihi target.
+
+Sedangkan pada Sub IKU 2 juga demikian, meskipun mengalami peningkatan target menjadi
+dari semula 75.000 menjadi 344.003 dan 514.726, angka realisasinya selalu berada di atas
+target. Tren ini sangat dipengaruhi peningkatan wisatawan global pasca pandemi.
+
+36
+Peningkatan ini didukung oleh pemerintah Indonesia yang telah melakukan upaya promosi
+wisata yang intensif. Melalui kampanye digital dan kolaborasi dengan agen -agen perjalanan
+internasional, Indonesia berhasil menarik perhatian wisatawan global. Peningkata n
+aksesibilitas juga memainkan peran penting, dengan lebih banyak penerbangan langsung dan
+proses visa yang disederhanakan, para wisatawan mendapati Indonesia sebagai destinasi
+yang semakin mudah dijangkau
+
+
+Analisis Penyebab Keberhasilan Pencapaian IKU
+
+Pencapaian IKU 1.3. didukung oleh pariwisata Indonesia yang memiliki keunggulan, seperti:
+Keberhasilan Direktorat Amerika I dalam mencapai target Tingkat Efektivitas Diplomasi
+Ekonomi di Sektor Pariwisata pada 2024 tidak lepas oleh keunggulan pariwisata Indonesia
+yang terus menarik minat wisatawan internasional, khususnya dari kawasan Amerika I.
+Indonesia menawarkan destinasi beragam yang tidak hanya memiliki keindahan alam seperti
+tetapi juga kekayaan budaya yang autentik, termasuk tradisi kuliner dan seni lokal. Tren global
+pasca-pandemi yang mengutamakan pengalaman wisata berbasis alam, budaya, dan
+keberlanjutan memberikan peluang besar bagi Indonesia untuk menjadi destinasi pilihan
+utama.
+Selain itu, kebangkitan sektor pariwisata global setelah pandemi COVID-19 telah mendorong
+peningkatan jumlah wisatawan internasional. Wisatawan dari kawasan Amerika I, khususnya
+Amerika Serikat dan Kanada, menunjukkan minat yang tinggi terhadap destinasi t ropis yang
+menawarkan pengalaman unik dan personal. Strategi promosi yang terintegrasi, seperti
+partisipasi aktif dalam pameran pariwisata internasional, kolaborasi dengan agen perjalanan
+digital, dan kampanye branding melalui platform media sosial, berhas il memperluas
+jangkauan pasar. Dukungan dari infrastruktur pariwisata yang semakin berkembang, serta
+penerapan kebijakan visa yang lebih mudah, juga turut memperkuat daya tarik Indonesia
+sebagai destinasi pariwisata unggulan. Kombinasi faktor ini mendorong  pencapaian yang
+signifikan dalam diplomasi pariwisata di kawasan Amerika I pada tahun 2024.
+Kegiatan promosi bertemakan penguatan people-to-people contact dan pariwisata juga telah
+diselenggarakan secara kolaboratif baik oleh Direktorat Amerika I maupun p erwakilan RI di
+kawasan Amerika Utara dan Tengah, antara lain partisipasi pada Edmonton Heritage Festival,
+International Tourism & Travel Show 2024, penyelenggaraan perayaan 75 tahun hubungan
+diplomatik Indonesia dan Amerika Serikat dan “Indonesia Like Never Before”. Selain itu, juga
+telah diselenggarakan sejumlah promosi gastronomi dan penjajakan kerja sama sister city.
+
+Kendala dan Tantangan
+
+Kendala dan tantangan yang dihadapi Direktorat Amerika I dalam mencapai IKU 1.3 antara
+lain:
+1. Minimnya rute langsung dari negara-negara kawasan Amerika I ke destinasi utama di
+Indonesia, seperti Bali atau Jakarta, mengurangi daya tarik wisatawan
+2. Negara-negara tetangga seperti Thailand, Vietnam, dan Filipina menawarkan paket
+wisata kompetitif dengan promosi yang agresif, menciptakan tekanan persaingan.
+3. Fasilitas dan akses transportasi di destinasi-destinasi wisata baru masih terbatas,
+yang mengurangi kenyamanan dan pengalaman wisatawan.
+4. Pemanfaatan platform digital global seperti media sosial dan situs perjalanan masih
+belum optimal dalam menjangkau pasar wisatawan Amerika I.
+
+37
+5. Permintaan akan wisata yang mengutamakan keberlanjutan dan kesehatan
+memerlukan adaptasi dari pelaku usaha pariwisata yang belum sepenuhnya siap.
+
+Upaya Perbaikan
+
+Upaya perbaikan yang dilakukan Direktorat Amerika I maupun Perwakilan RI dalam
+mengatasi kendala dan tantangan antara lain:
+
+1. Berkolaborasi dengan agen perjalanan untuk membuka paket-paket wisata menarik
+ke destinasi utama di Indonesia, seperti Bali, Jakarta, dan Yogyakarta.
+2. Memanfaatkan platform digital global seperti Google Ads, Instagram, dan TripAdvisor
+untuk menjalankan kampanye promosi pariwisata yang terfokus pada pasar Amerika
+I, dengan menampilkan pengalaman unik dan ramah lingkungan.
+3. Mendukung program pemerintah sepert i pembangunan fasilitas dan akses
+transportasi di destinasi wisata baru, termasuk jalan, penginapan, dan fasilitas umum,
+4. Memberikan pelatihan kepada pelaku usaha pariwisata untuk menerapkan praktik
+wisata ramah lingkungan dan meningkatkan standar layanan y ang sesuai dengan
+preferensi wisatawan pasca-pandemi.
+5. Mengikuti dan memfasilitasi partisipasi Indonesia dalam pameran pariwisata global di
+negara-negara kawasan Amerika I
+
+
+Analisis Program Pendukung Capaian
+1. Guna mendorong peningkatan jumlah wisatawan asal  negara akreditasi Dit. Amerika I,
+telah dilakukan berbagai kegiatan antara lain program seni dan budaya Indonesia terpadu
+melalui Paviliun Indonesia pada “Edmonton Heritage Festival” (EHF) di Edmonton,
+Propinsi Alberta, Kanada.
+2. Selain itu, pengembangan kerja sama sister city pada tingkat kota atau propinsi seperti
+yang dilakukan antara Kota Kelowna (Propinsi British Colombia) dengan kota Malang di
+Jawa Timur juga mendukung peningkatan people-to-people contact serta meningkatkan
+branding Indonesia di mancanegara.
+3. Kerja sama kota kembar juga membuka peluang baru bagi pertukaran ekonomi dan
+pariwisata.
+4. KJRI Los Angeles bersama dengan Kementerian Pariwisata tanggal 8 Desember 2024
+telah menggelar acara kegiatan "Indonesia Like Never Before: The Destinations of
+Wonder" di The Deco AGP Building, Los Angeles, untuk memperkenalkan 5 destinasi
+super prioritas wisata Indonesia kepada wisatawan Amerika Serikat. Dengan populasi
+lebih dari 330 juta, AS merupakan pasar potensial wisatawan untuk berkunjung ke
+Indonesia.
+5. Selain melakukan promosi pariwisata, juga dilakukan promosi melalui gastro diplomacy
+yang merupakan metode untuk meningkatkan soft power  untuk mempengaruhi
+lingkungan internasional lewat hubungan langsung dengan publik luar negara.
+6. Di tahun 2024 juga mer upakan momentum perayaan 75 tahun hubungan diplomatik
+Indonesia dan Amerika Serikat yang dilaksanakan di Pennsylvania Avenue pada 27
+Agustus 2024. Kegiatan yang dihadiri lebih dari sepuluh ribu orang orang ini merupakan
+salah satu upaya peningkatan hubung an antar individu dengan saling memahami dan
+mengenali sebagai fondasi yang kuat bagi masyarakat di kedua negara.
+7. Selain Amerika Serikat, Perwakilan RI Kanada juga berpartisipasi dalam International
+Tourism & Travel Show 2024. ITTS merupakan salah satu bursa pariwisata internasional
+terbesar di Amerika Utara untuk mendorong lebih banyak wisatawan sebagai salah satu
+negara penyumbang wisatawan terbesar di wilayah Amerika I.
+
+38
+Proyeksi ke Depan
+
+Ke depan, Direktorat Amerika I dan Perwakilan RI akan memprioritaskan langkah-langkah
+strategis untuk meningkatkan efektivitas diplomasi pariwisata dengan negara -negara di
+kawasan Amerika I. Fokus utamanya adalah memperluas promosi dan memperkuat daya
+tarik destinasi wisata Indonesia. Beberapa langkah yang direncanakan meliputi:
+1. Mengoptimalkan kampanye digital pada platform seperti Instagram, YouTube, dan
+TikTok untuk menjangkau pasar wisatawan
+2. Mengadakan Indonesia Tourism Showcase di kota-kota besar
+3. Memanfaatkan jaringan diaspora Indonesia dan konsul kehorma tan untuk
+memperluas jaringan promosi dan mendukung kampanye pariwisata di tingkat lokal
+di kawasan Amerika I.
+4. Menggandeng agen perjalanan internasional dan platform pemesanan wisata seperti
+Expedia dan TripAdvisor untuk menciptakan paket wisata tematik yang menonjolkan
+destinasi unggulan Indonesia
+5. Memperluas fokus promosi pada destinasi -destinasi baru seperti Raja Ampat,
+Mandalika, dan Danau Toba, yang didukung oleh infrastruktur yang semakin
+berkembang dan berorientasi pada keberlanjutan.
+
+
+Customer Perspectives
+
+C 1: Dukungan dan komitmen nasional yang tinggi atas kebijakan luar negeri dan
+kesepakatan internasional di Kawasan Amerika I
+
+Pada tingkat bilateral serta forum-forum regional dan multilateral terdapat kesepakatan yang
+disetujui bersama oleh In donesia dan negara -negara lain. Kesepakatan tersebut perlu
+diimplementasikan agar dapat dirasakan manfaatnya oleh masyarakat.
+
+Mengingat tugas Kementerian Luar Negeri bukan sebagai implementing agency, Kementerian
+Luar Negeri perlu memberikan rekomendasi kepada K/L focal point untuk
+mengimplementasikan atau menindaklanjuti kesepakatan bilateral, regional, dan multilateral
+terkait di tingkat nasional. Fungsi yang dilakukan Kementerian Luar Negeri adalah untuk
+memastikan bahwa kesepakatan tersebut terimplementasi dengan baik.
+
+
+IKU C1.1 Persentase Kesepakatan Kerja Sama Bilateral di Kawasan Amerika yang
+Ditindaklanjuti oleh Stakeholders Dalam Negeri
+
+Deskripsi IKU Secara definisi, kesepakatan kerja sama bilateral merupakan perjanjian dalam
+bentuk dan sebutan apa pun, yang diatur oleh hukum internasional dan dibuat secara tertulis
+oleh 2 negara antara Pemerintah Republik Indonesia dengan negara lain, serta menimbulkan
+hak dan kewajiban pada Pemerintah Republik Indonesia yang bersifat hukum publik dan
+kesepakatan / komitmen pada tingkat Menteri Luar Negeri, Wakil Presiden, dan Presiden
+Republik Indonesia.
+
+Dalam hal ini, Direktorat Amerika I yang memilik i tugas untuk mengkoordinasikan kebijakan
+di bidang penyelenggaraan hubungan luar negeri dan politik luar negeri dalam lingkup
+kepentingan bilateral dengan Amerika Serikat, Kanada,  Meksiko, Belize, El Salvador,
+Guatemala, Honduras, Kosta Rika, Nikaragua, dan Panama, perlu memberikan rekomendasi
+serta mendorong K/L focal point  kerja sama untuk mengimplementasikan atau
+menindaklanjuti kesepakatan bilateral, regional, dan multilateral terkait di tingkat nasional.
+
+39
+Adapun tindak lanjut dalam konteks ini didefi nisikan sebagai suatu tindakan atau langkah
+nyata dari rencana aksi yang telah disusun secara matang sebagai hasil dari kesepakatan
+kerja sama oleh para stakeholder, yaitu satuan kerja Kementerian Luar Negeri pusat,
+Kementerian/Lembaga teknis terkait, orga nisasi bisnis, dan sebagainya, dalam periode
+Januari hingga Desember 2024.
+
+
+Informasi Kinerja
+ Tabel III.7
+Capaian IKU C 1 Dukungan dan komitmen nasional yang tinggi atas kebijakan luar
+negeri dan kesepakatan internasional di Kawasan Amerika I
+
+Indikator Kinerja Informasi Kinerja Nilai Capaian SUB
+IK/IK
+Nilai
+Bobot
+Persentase
+kesepakatan
+kerjasama bilateral di
+kawasan Amerika I
+yang ditindaklanjuti
+oleh pemangku
+kepentingan dalam
+negeri
+Jumlah persentase
+kesepakatan kerja sama
+yang ditindaklanjuti
+ 100
+Realisasi 110%
+Target  100%
+Capaian 110%
+
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+Pada tahun 2024, realisasi IKU C1 Persentase kesepakatan kerjasama bilateral di kawasan
+Amerika I yang ditindaklanjuti oleh pemangku kepentingan dalam negeri adalah sebesar 110%
+dari target sebesar 100%, sehingga capaian IKU sebesar 100% dengan batas toleransi capaian
+sebesar 120%.
+Realisasi IKU C1 diperoleh dari capaian SUB IKU 1 yaitu sebesar 11 kesepakatan dari target
+sebesar 10 kesepakatan, sehingga capaian IKU sebesar 110% dengan batas toleransi capaian
+sebesar 120%.
+
+
+Perbandingan Kinerja
+ Tabel III.8
+Target (T), Realisasi (R) dan Capaian (C) IKU Dukungan dan komitmen nasional yang
+tinggi atas kebijakan luar negeri dan kesepakatan internasional di Kawasan Amerika I
+
+
+Kode IK/SUB IK 2020 2021 2022 2023 2024
+C1.1 Target 100% 100% 100% 100% 100%
+Realisasi 100% 100% 100% 100% 110%
+
+40
+Capaian 100% 100% 100% 100% 110%
+
+
+Jika dibandingkan dengan tahun -tahun sebelumnya, Direktorat Amerika I telah berhasil
+mencapai target dan realisasi IKU C1.1. Di samping itu, target kesepakatan terus meningkat
+dari semula di 2022 sejumlah 5 kesepakatan, menjadi 6 kesepakatan pada 2023 dan 10
+kesepakatan pada 2024. Peningkatan target dan realisasi ini terjadi karena terjalinnya kerja
+sama yang baik antara pemerintah Indonesia dan negara -negara di kawasan Amerika I,
+dengan terus menjunjung tinggi kepentingan bersama untuk meningkatkan stabilitas
+ekonomi, politik, dan keamanan.
+
+
+Analisis Penyebab Keberhasilan Pencapaian IKU
+
+Sepanjang tahun 2024, Direktorat Amerika I berhasil mendorong pemangku kepentingan
+dalam negeri untuk memberikan dukungan nyata dan mengambil langkah konkret dalam
+menindaklanjuti kesepakatan kerja sama bilateral yang te lah disepakati dengan negara
+mitra. Hal ini tercermin dari peningkatan konsisten dalam jumlah kesepakatan yang berhasil
+ditindaklanjuti selama tiga tahun terakhir. Keberhasilan ini didorong oleh beberapa faktor
+utama, antara lain:
+
+1. Komitmen untuk membawa k erja sama bilateral ke tingkat yang lebih strategis,
+dengan fokus pada sektor-sektor prioritas seperti ekonomi dan politik.
+2. Dukungan aktif dari pemangku kepentingan yang merespons positif inisiatif dan
+rekomendasi Kementerian Luar Negeri, yang disampaikan melalui kegiatan outreach
+untuk menyebarluaskan informasi dan menyamakan pemahaman tentang dampak
+positif kesepakatan terhadap hubungan bilateral dan kesejahteraan nasional.
+3. Penunjukan focal point  atau person in charge  (PIC) di berbagai
+kementerian/lembaga, yang berfungsi sebagai penghubung utama dalam
+memfasilitasi implementasi kerja sama, sehingga memperkuat koordinasi teknis.
+4. Koordinasi yang efektif dan penyebaran informasi yang terstruktur mengenai
+kesepakatan kerja sama, baik di tingkat bilateral maupu n regional, yang didukung
+oleh pengelolaan isu yang komprehensif untuk memastikan sinergi antar -pemangku
+kepentingan.
+
+Kendala dan Tantangan
+Dalam mencapai target IKU C1.1 ini, Direktorat Amerika I dihadapkan dengan beberapa
+kendala dan tantangan baik dari segi eksternal maupun internal, diantaranya:
+
+1. Kesepakatan sering tertunda implementasinya karena kurangnya kajian awal
+(preliminary study ) yang dilakukan seluruh pemangku kepentingan sebelum
+penandatanganan.
+2. Pemangku kepentingan terkadang kurang memahami urgensi isu strategis yang telah
+disepakati pada tingkat internasional.
+3. Perubahan prioritas di kementerian/lembaga terkait maupun mitra kawasan
+menghambat implementasi kesepakatan di tahun berjalan. Dengan adanya transisi
+pemerintahan di Indonesia tahu n 2024, tentunya prioritas pemerintahan yang baru
+akan mengalami perubahan
+4. Rotasi atau pergantian focal point/PIC pada kementerian/lembaga mengakibatkan
+koordinasi tindak lanjut menjadi tidak konsisten.
+5. Para pihak yang terlibat sering kali merasa kurang me ndapatkan manfaat langsung
+dari hasil kesepakatan yang dibuat.
+
+41
+6. Perbedaan kepentingan antara pihak -pihak yang terlibat menyulitkan tercapainya
+kesepahaman selama proses negosiasi.
+.
+
+Upaya Perbaikan
+
+Solusi dan upaya perbaikan yang dilakukan Dit. Amerika I dalam menghadapi kendala dan
+tantangan sebagaimana tertulis di atas antara lain:
+1. Melakukan sinkronisasi prioritas kebijakan dengan Kementerian dan Lembaga terkait
+sedari awal guna menyelaraskan prioritas dan memastikan kesinambungan rencana
+implementasi melalui penyelenggaraan rapat interkem.
+2. Melakukan kegiatan outreach yang terarah guna menyosialisasikan urgensi isu
+strategis dan manfaat tindak lanjut kesepakatan pada pemangku kepentingan
+3. Melibatkan pemangku kepentingan terkait mulai dari proses awal penjajakan,
+negosiasi kesepakatan, penandatanganan, hingga implementasi kesepakatan,
+sehingga memastikan adanya ownership.
+4. Memastikan ketersediaan dokumentasi serta kearsipan kesepakatan yang dapat
+dipergunakan bersama untuk memperkuat institutional memory.
+
+Analisis Program Pendukung Capaian
+
+Selama 2024, kegiatan serta kesepakatan dalam mendukung capaian IKU C1.1 oleh
+Direktorat Amerika I antara lain:
+1. Negosiasi TFCCA antara Kementerian Kelautan dan Perikanan, Kementerian
+Keuangan serta USAID yang dis epakati dengan penandatanganan Perjanjian
+Pengalihan Utang (Debt for Nature Swap) pada 3 Juli 2024
+● Negosiasi ini merupakan tindak lanjut dari T echnical Arrangement between the
+Ministry of Environment and Forestry , (the Technical Counterpart Agency ) and
+the United States Agency for International Development Mission to Indonesia
+(USAID) relating to the Implementation of Intermediate results 3.2 & 3.3 of USAID
+Assistance Agreement No. 497 -AA-030 ("the USAID Terrestrial Biodiversity
+Program"
+● Melalui inisiasi ini, negara kreditur memberikan keringanan melalui skema Debt
+Swap atau Debt Redirection dimana pembayaran pinjaman Pemerintah
+Indonesia kepada Pemerintah Amerika Serikat dialihkan untuk membiayai
+kegiatan konservasi terumbu karang di Indonesia yang dikawal oleh Kementerian
+Kelautan dan Perikanan dengan melibatkan partisipasi Lembaga Swadaya
+Masyarakat/NGO. Dana akan dikelola dalam rekening trust fund untuk disalurkan
+kepada pelaksana kegiatan berdasarkan proposal yang disetujui oleh Oversight
+Committee. Komite ini beranggotakan perwakilan Pemerintah Indonesia,
+Pemerintah Amerika Serikat, serta NGO sebagai Swap Partner.
+
+
+2. Pembaruan Agreement between the Government of the Republic of Indonesia and
+the Government of the United States of Americ a on Health Cooperation  pada 21
+November 2024.
+● Kesepakatan ini merupakan pembaruan  dari Agreement between the
+Government of the Republic of Indonesia and the Government of the United
+States of America on Health Cooperation yang telah berakhir pada Mei 2024.
+● Memorandum Kesepahaman ini dimaksudkan untuk menegaskan kembali
+komitmen kedua negara untuk secara kolaboratif memajukan penelitian klinis,
+tujuan Kesehatan masyarakat, dan sistem layanan Kesehatan untuk mengatasi
+kondisi Kesehatan yang baru muncul dan  kronis, serta penyakit menular,
+termasuk tuberkolosis.
+
+42
+
+
+3. Pengembalian benda diduga objek cagar budaya oleh Pemerintah AS kepada
+Pemerintah Indonesia pada 31 Mei 2024 dan 13 Desember 2024
+● Pengembalian benda diduga objek cagar budaya ini merupakan tindak lanjut dari
+Memorandum of Understanding between the Department of Education and
+Culture of the Republic of Indonesia and the Smithsonian Institution of the United
+States of America on Cooperation in the fields of Natural and Cultural History and
+Conservation.
+● Pengembalian benda-benda tersebut dilakukan sebagai upaya untuk melindungi
+sejarah budaya Indonesia bagi generasi mendatang.
+
+
+4. High level meeting (tingkat Wamenlu) untuk mendorong segera dimulainya negosiasi
+Critical Minerals Agreement (CMA) antara Indonesia dengan Amerika Serikat
+● Pertemuan yang dipimpin Wakil Menteri Luar Negeri RI pada tanggal 19 Maret
+2024 ini merupakan tindak lanjut dari CMA Minerals Strategic Partnership (MSP)
+Indonesia-AS mengenai Kerja Sama Energi, 27 Oktober 2015.
+● Pertemuan melibatkan sejumlah pemangku kepe ntingan terkait dalam negeri
+yaitu pejabat eselon I dan II dari Kemenko Perekonomian, Kemenko Marves,
+Kemnaker, ESDM,BKPM, KLHK serta Direktur Utama dan CEO dari BUMN yaitu
+Industri Baterai Indonesia, MIND ID, dan Antam. Rapat bertujuan
+mengakselerasi rencana negosiasi CMA RI - AS dengan menyepakati agenda
+pertemuan tim teknis kedua negara pada April/Mei 2024 dan pembentukan
+satgas antar K/L sebagai dasar Tim Teknis dalam melakukan negosiasi dan
+memastikan kelancaran dan efektivitas koordinasi terkait pembentukan CMA RI-
+AS kedepannya.
+
+5. Pengesahan Persetujuan Kerangka Kerja Sama antara Republik Indonesia Republik
+Indonesia dan Republik Kosta Rika (Framework Cooperation between the Republic
+of Indonesia and the Republic of Costa Rica), Melalui Peraturan Presid en Republik
+Indonesia Nomor 64 Tahun 2024 tertanggal 13 Juni 2024
+● Perpres ini mengatur mengenai pengesahan Persetujuan Kerangka Kerja Sama
+antara Republik Indonesia dan Republik Kosta Rika (Framework Cooperation
+Agreement between the Republic of Indonesia and the Republic of Costa Rica)
+yang telah ditandatangani pada tanggal 22 Agustus 2015 di San Jose, Kosta
+Rika.
+● Perpres dimaksudkan untuk meningkatkan hubungan bilateral, Pemerintah
+Republik Indonesia dan Pemerintah Republik Kosta Rika perlu menjalin kerja
+sama teknis, ekonomi, ilmiah dan kebudayaan.
+
+6. Perayaan 75 tahun hubungan bilateral RI - AS
+● Selain merayakan perayaan hubungan diplomatik juga diselenggarakan untuk
+menindaklanjuti Joint Statement from the Leaders of the United States and the
+Republic of I ndonesia: Elevating Relations to a Comprehensive Strategic
+Partnership oleh kepala negara kedua negara pada 13 November 2023
+● Perayaan ke -75 tahun hubungan AS -Indonesia (#IndonesiaUSA75)
+menampilkan acara-acara publik, program pertukaran, dan lomba-lomba tematik
+sepanjang tahun 2024, yang menekankan pada nilai -nilai dan tujuan bersama,
+serta menyoroti kerja sama yang mencakup keamanan, ekonomi, pendidikan,
+iklim, dan hubungan antar masyarakat.
+
+7. Penandatanganan Memorandum Saling Pengertian Kerja Sama Kesehat an
+Indonesia - AS pada bulan November 2024 secara virtual
+
+43
+● Dilakukan sebagai tindak lanjut Letter of Intent  Perpanjangan Kerja Sama
+Kesehatan Indonesia - Amerika Serikat
+● Berlandaskan perjanjian bilateral sebelumnya dan kemitraan jangka panjang
+kedua negara dalam memerangi penyakit menular dan memperkuat sistem
+kesehatan masyarakat, perpanjangan MSP ini akan mendukung dan
+meningkatkan prioritas kesehatan masyarakat seperti kesiapsiagaan dan
+tanggap darurat; ketahanan kesehatan, termasuk dampak iklim terhadap
+kesehatan manusia; pengawasan terhadap penyakit, pencegahan, dan
+pengendalian penyakit; penelitian dan pengembangan kesehatan;
+pengembangan sumber daya manusia, termasuk tenaga kesehatan dan
+kepemimpinan; teknologi kesehatan, termasuk layanan kesehatan dig ital dan
+bioteknologi; dan bidang kerja sama lainnya.  Lebih lanjut, MOU ini akan
+membina kerja sama melalui penelitian klinis bersama, peningkatan kapasitas,
+bantuan teknis, dan bentuk pertukaran informasi lainnya.
+
+8. Penandatanganan Implementing Arrangement Peace Corps dengan Kementerian
+Agama , Sirkuler, Jakarta 23 September 2024
+● Dilakukan untuk menindaklanjuti Memorandum Saling Pengertian Kerja Sama
+Pendidikan antara Pemri dengan Pemerintah AS terkait Kerja Sama Peace Corps
+Indonesia, 14 Desember 2021
+● Implementing Arrangement mengatur ini sejumlah pengaturan terkait tugas dan
+tanggung jawab para pemangku kepentingan terkait (dalam hal ini Kementerian
+Agama selaku focal point) dalam penugasan peace corps, kriteria relawan, tugas
+relawan, penugasan relawan, mekanisme pemantauan dan evaluasi, serta
+pengaturan keadaan darurat
+
+9. Penandatanganan Implementing Arrangement Peace Corps dengan Kementerian
+Pendidikan, Kebudayaan dan Riset dan Teknologi, Sirkuler, Jakarta 23 September
+2024
+● Dilakukan untuk menindaklanjuti Memorandum Saling Pengertian Kerja Sama
+Pendidikan antara Pemri dengan Pemerintah AS terkait Kerja Sama Peace Corps
+Indonesia, 14 Desember 2021
+● Implementing Arrangement mengatur ini sejumlah pengaturan terkait tugas dan
+tanggung jawab para pemangku kepentingan terkait (dalam hal ini Kementerian
+Pendidikan, Kebudayaan, dan Riset dan Teknologi selaku focal point ) dalam
+penugasan peace corps, kriteria relawan, tugas relawan, penugasan relawan,
+mekanisme pemantauan dan evaluasi, serta pengaturan keadaan darurat.
+
+10. Pertemuan dengan BNI dan PT. Sarinah sebagai tindak lanjut hasil pertemuan Wakil
+Komisaris Utama BNI dan Bapak Pahala N. Mansyuri terkait rencana pembuatan
+Indonesia Center for Culture and Creative Economy di Kota New York
+
+11. Penetapan Perpres Pengesahan IPEF Pilar II, 18 Oktober 2024
+● IPEF Pilar II (supply chain resilience) telah disahkan melalui penetapan Perpres
+nomor 136 tahun 2024, pada 18 Oktober 2024
+● Perpres ini mengesahkan Indo -Pacific Economic Framework for Prosperity
+Agreement relating to Supply Chain Resilience (Persetujuan Kerangka Ekonomi
+Indo-Pasifik untuk Kemakmuran terkait Ketahanan Rantai Pasok) yang telah
+ditandatangani pada tanggal 14 Novem ber 2023 di San Francisco, Amerika
+Serikat. Adapun
+
+44
+Proyeksi Ke depan
+
+Dengan mempertimbangkan kondisi saat ini, kedepannya Direktorat Amerika I akan
+melakukan sejumlah langkah guna mencapai target kinerja IKU C1.1, sebagai berikut:
+1. Terus melibatkan semua pihak-pihak yang terlibat dan berkepentingan dalam proses
+evaluasi dan perbaikan untuk memastikan pemahaman dan dukungan mereka
+melalui dialog dan koordinasi yang berkelanjutan
+2. Mengidentifikasi strategi yang efektif untuk menangani ketidaksetujuan yang muncul
+selama pelaksanaan atau tindak lanjut kesepakatan.
+3. Memfokuskan sumber daya yang untuk menindaklanjuti kesepakatan di sektor
+prioritas dalam rangka realisasi Misi Asta Cita Pemerintahan 2024 - 2029 antara lain
+ketahanan pangan, ketahana n energi, kesehatan, pendidikan, teknologi, dan
+peningkatan kualitas SDM.
+4. Memastikan adanya komitmen yang kuat baik dari level pimpinan hingga level teknis
+untuk mendukung implementasi dan pelaksanaan kesepakatan.
+
+
+Dokumentasi
+Peluncuran Perangko dalam Rangka Perayaan Peringatan ke-75 tahun Hubungan Bilateral
+Indonesia - Amerika Serikat, 13 Desember 2024
+
+45
+
+Serah terima enam artefak ODCB dari Amerika Serikat dari Menteri Luar Negeri Sugiono ke
+Menteri Kebudayaan Fadli Zon di Jakarta, Jumat, 13 Desember 2024
+
+
+
+Menteri Kesehatan dan Layanan Masyarakat Xavier Becerra bersama Menteri Kesehatan Indonesia Budi
+Gunadi Sadikin seusai menandatangani Nota Kesepahaman untuk Mengembangkan dan Memperkuat
+Kerjasama Kesehatan, 21 November 2024
+
+46
+Internal Business Process Perspective
+
+B1 Diplomasi Bilateral di Negara Akreditasi Kawasan Amerika I yang Kuat
+Sasaran strategis ini berfokus pada pengukuran kinerja pelaksanaan kegiatan diplomasi
+bilateral. Relasi bilateral perlu didorong untuk bersifat mutualistik, yakni di satu sisi dapat
+memastikan terjaganya kepentingan Indonesia, dan di sisi lain, relasi tersebut mampu
+memberikan manfaat bagi kedua belah pihak. Hubungan bilateral mencakup sejumlah bidang,
+yakni ekonomi, sosial, budaya, politik dan keamanan, serta maritim.
+Dalam dinamika relasi antar negara, kepentingan Indonesia di bidang tersebut diperjuangkan
+melalui diplomasi bilateral. Sejumlah hal menyangkut kepentingan Indonesia dapat diusulkan,
+dan selanjutnya dibahas melalui proses negosiasi dan perundingan. Kinerja terkait sasaran
+strategis ini adalah keberhasilan mencapai kesepakatan yang memberikan assurance
+terhadap terjaganya kepentingan Indonesia dalam hubungan antar negara. Sasaran strategis
+ini mencerminkan prioritas strategis yang mes ti dicapai oleh Perwakilan RI dalam rangka
+relasi bilateral dengan negara akreditasi yang menjadi naungan Perwakilan.
+Sasaran Strategis (SS) B1 diukur berdasarkan capaian pada 2/3 (dua/tiga) Indikator Kinerja
+Utama (IKU), yaitu:
+1. IKU B1.1: Jumlah Kesepakat an di Bidang Ekonomi, Sosial dan Budaya dengan
+Negara Akreditasi Kawasan Amerika I
+2. IKU B1.2: Jumlah Kesepakatan di Bidang Politik, Keamanan, dan Maritim dengan
+Negara Akreditasi Kawasan Amerika I
+3. IKU B1.3: Indeks Respon Positif terhadap Informasi Data Ec onomic
+Intelligence/Market Intelligence tentang Negara Akreditasi Kawasan Amerika I
+
+Analisis IKU B1.1
+Jumlah Kesepakatan di Bidang Ekonomi, Sosial dan Budaya dengan Negara Akreditasi
+Kawasan Amerika I
+
+Deskripsi IKU
+IKU B1.1 merupakan IKU yang menghitung jumlah kesepakatan di bidang ekonomi, sosial
+dan budaya yang bersumber dari joint statement, report of the meeting, summary of
+discussion, summary record, joint communique, agreed minutes, declaration, agreements,
+memorandum of understanding, agreed plan of action/work plan, treaty, charter, dan joint
+press statement. IKU ini bertujuan untuk mengetahui kapabilitas diplomasi di bidang ekonomi,
+sosial dan budaya yang telah dilakukan oleh Indonesia dalam hubungan bilateral.
+Pentingnya kesepakatan bilateral di bidang ekonomi, sosial dan budaya bagi Indonesia
+dimaksudkan untuk terus memajukan potensi bidang tersebut dalam mendukung kemajuan
+ekonomi Indonesia dan meningkatkan citra positif Indonesia. Hal ini sesuai dengan komitmen
+Kemenlu seperti yang tercantum dalam Renstra 2020 - 2024.
+
+Informasi Kinerja
+ Tabel III.9
+Capaian IKU B1.1 Jumlah Kesepakatan di Bidang Ekonomi, Sosial dan Budaya
+dengan Negara Akreditasi Kawasan Amerika I
+
+Indikator Kinerja Utama Informasi Kinerja Nilai
+Bobot
+Jumlah Kesepakatan di Bidang
+Ekonomi, Sosial dan Budaya
+dengan Negara Akreditasi
+Kawasan Amerika I
+Jumlah Kesepakatan di
+Bidang Ekonomi, Sosial dan
+Budaya
+
+33,3
+
+47
+Realisasi  15
+Target  12
+Capaian 125%
+Batas Toleransi  120%
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+Pada tahun 2024, Direktorat Amerika I telah berhasil mencapai 15 kesepakatan di bidang
+ekonomi, sosial, dan budaya dengan negara-negara mitra di kawasan Amerika I. Jumlah tersebut
+telah melampaui t arget yang ditetapkan yaitu 12, sehingga capaian IKU B1.1 yang diperoleh
+untuk tahun 2024 adalah 120%.
+
+Perbandingan Kinerja
+
+ Tabel III.10
+Target (T), Realisasi (R) dan Capaian (C) IKU Jumlah Kesepakatan di Bidang Ekonomi,
+Sosial dan Budaya dengan Negara Akreditasi Kawasan Amerika I
+
+
+Kode IK/SUB IK 2020 2021 2022 2023 2024
+B1.1 Target N/A 4 6 10 12
+Realisasi N/A 5 7 10 15
+Capaian N/A 120% 116,67% 100% 120%
+
+
+Selama periode Renstra, Direktorat Amerika I menetapkan target kesepakatan bidang
+ekonomi, sosial, dan budaya yang terus meningkat setiap tahunnya. Selama periode
+tersebut, Direktorat Amerika I secara konsisten mencapai target yang ditetapkan,
+sebagaimana terlihat pada tabel di atas. Pada tahun 2024, realisasi kesepakatan ekososbud
+mencapai 15 kesepakatan, meningkat 5 kesepakatan dari tahun 2023.
+
+Analisis Penyebab Keberhasilan/Kegagalan Pencapaian IKU
+
+Pencapaian kinerja Direktorat Amerika I dalam merealisasikan Sub IKU B1.1 didukung oleh
+beberapa hal di antaranya:
+1. Momentum peringatan 75 tahun hubungan bilateral RI - AS pada 2024 serta
+peningkatan hubungan bilateral menjadi Comprehensive Strategic Partnership pada
+2023, menyebabkan semakin intensifnya kerja sama RI - AS terutama pada bidang
+ekonomi, sosial, dan budaya.
+
+48
+2. Hubungan perekonomian RI - Kanada yang semakin intensif dengan berlangsungnya
+4 putaran perundingan Indonesia - Canada CEPA pada 2024 se rta pencapaian
+substantial conclusion pada perundingan putaran ke-10
+3. Saling kunjung tingkat Kepala Negara, Menteri, maupun Senior Official  negara-
+negara di kawasan Amerika I menghasilkan sejumlah kesepakatan di bidang
+ekososbud
+4. Pemanfaatan teknologi informasi dan komunikasi yang memungkinkan dilaksanakan
+pertemuan-pertemuan secara daring untuk mempercepat proses negosiasi serta
+penandatanganan sejumlah kesepakatan.
+
+
+
+Kendala dan Tantangan
+Dalam mencapai target Sub IKU B1.1, Direktorat Amerika I dihadapkan dengan berbagai
+kendala dan tantangan baik dari segi eksternal maupun internal, di antaranya:
+1. Masih rendahnya hubungan perekonomian dan sosial budaya dengan mitra non -
+tradisional di kawasan Amerika tengah seperti Nikaragua, Honduras, Belize, dan El
+Salvador. Hal ini disebabkan oleh terbatasnya kontak dagang dan budaya dan
+kurangnya forum kerja sama yang bersifat khusus, menyebabkan prioritas yang lebih
+besar diberikan pada mitra utama seperti AS, Kanada, dan Meksiko.
+2. Koordinasi untuk pertemuan tingkat tingg i menghadapi kendala penjadwalan akibat
+jadwal para pimpinan dan pejabat senior baik Indonesia maupun negara mitra yang
+sangat padat. Hal ini diakibatkan Indonesia pada 2024 sedang menjalani tahun politik
+dengan adanya pemilu Presiden. Selain itu, negara mitra utama Direktorat Amerika I
+yaitu Amerika Serikat dan Meksiko juga menjalankan pemilu Presidennya pada tahun
+ini.
+3. Kendala logistik jarak Indonesia dengan negara mitra yang cukup jauh membuat
+pertemuan-pertemuan perlu direncanakan secara matang dari jauh hari
+4. Pengaruh situasi geopolitik dan dinamika ekonomi global turut mempengaruhi pola
+kerja sama bilateral negara -negara di kawasan Amerika I. Isu seperti peningkatan
+proteksionisme dan fluktuasi pasar komoditas di Amerika Tengah menjadi tantangan
+yang harus diantisipasi dalam menjalin kerja sama.
+
+Upaya Perbaikan
+Direktorat Amerika I telah melakukan sejumlah langkah alternatif solusi dan inisiatif untuk
+memastikan keberlanjutan capaian kinerja Sub IK B1.1, di antaranya:
+1. Penguatan hubungan ekonomi dan sosial budaya dengan mitra non -tradisional
+melalui pendekatan yang lebih pro -aktif, seperti dengan memanfaatkan INA -LAC
+Forum dan promosi melalui Perwakilan RI di KBRI Mexico City dan KBRI Panama
+City.
+2. Optimalisasi teknologi seperti dengan menggunakan plat form pertemuan daring
+untuk mempercepat proses konsultasi dan penjadwalan dengan negara mitra/
+3. Perluasan skema kerja sama yang dimiliki dengan negara mitra, termasuk dengan
+melibatkan akademisi, think -tanks, serta pemanfaatan jejaring melalui Konsul
+Kehormatan.
+4. Memitigasi dampak situasi geopolitik dan dinamika ekonomi global melalui penguatan
+kerja sama dengan mitra tradisional utama seperti AS dengan Kanada, berfokus pada
+bidang-bidang yang menjadi kepentingan kedua pihak, termasuk untuk
+merealisasikan misi Asta Cita
+
+Analisis Program Pendukung Capaian
+Sepanjang tahun 2024, telah dilakukan sejumlah kegiatan untuk mendukung capaian kinerja
+Sub IKU B1.1, antara lain meliputi:
+
+49
+1. Memorandum Saling Pengertian between the Ministry of Agriculture and Rural
+Development of the United Mexican States and the Ministry of Religious Affairs of the
+Republic of Indonesia on Cooperation in Halal Product Assurance  / MSP antara
+Kementerian Agama RI dan Kementerian Pertanian dan Pembangunan Desa
+Meksiko Serikat tentang Kerja Sama Dalam Jaminan Produk Halal
+
+Pada Juli 2024, Kemlu telah menyampaikan Nota Diplomatik kepada Kedubes
+Meksiko di Jakarta yang menginformasikan bahwa MSP tentang Kerja Sama
+Jaminan Produk Halal telah selesai ditandatangani oleh Menteri Agama RI.
+
+Adapun MSP dimaksud bertujuan meningkatkan kerja sama kedua pihak, dalam hal
+ini Kementerian Agama Indonesia dan Kementerian Pertanian dan Pembangunan
+Desa Meksiko Serikat yang berkaitan dengan jaminan produk halal. Ruang lingkup
+kerja sama antara lain terkait penguatan program pengembangan jam inan produk
+halal, penilaian kesesuaian terhadap jaminan produk halal, saling pengakuan atas
+sertifikat halal,dan promosi serta diseminasi informasi akreditasi halal.
+
+2. Perundingan Putaran Ke -7 Indonesia – Canada Comprehensive Economic
+Partnership Agreement (ICA-CEPA), Semarang, 4 - 8 Maret 2024
+
+Pada perundingan putaran ketujuh ICA -CEPA ini, kedua belah pihak telah
+membahas 19 isu runding dan satu diskusi ahli secara tatap muka. Isu -isu yang
+dibahas antara lain perdagangan barang, perdagangan jasa, aturan a sal barang,
+pengadaan barang dan jasa pemerintah, investasi, kekayaan intelektual,
+kepabeanan, fasilitasi perdagangan, kerja sama ekonomi, perdagangan inklusif,
+lingkungan, dan ketenagakerjaan
+
+Pada putaran ini Pemri telah menyampaikan usulan berbentuk bab  Trade and
+Sustainable Development  (TSD) yang akan memayungi isu lingkungan,
+ketenagakerjaan dan perdagangan inklusif, meskipun belum ada kesepakatan
+antar Chief Negotiators.
+
+3. Agreed Minutes of the 8th round of negotiation of the Indonesia –Canada
+Comprehensive Economic Partnership Agreement
+
+Perundingan Putaran Kedelapan  Indonesia – Canada Comprehensive Economic
+Partnership Agreement (ICA-CEPA) telah berlangsung tanggal 24 -28 Juni 2024 di
+Ottawa, Kanada. 4 AMEROP 3 Delegasi RI (DELRI) dipimpin oleh Djatmiko Bris
+Witjaksono, Direktur Jenderal Perundingan Perdagangan Internasional,
+Kementerian Perdagangan. Delegasi Kanada dipimpin oleh Aaron Fowler, Associate
+Assistant Deputy Minister Global Affairs Canada. DELRI hadir secara fisik terdiri dari
+perwakilan Kementerian dan Lembaga (K/L) terkait, Duta Besar RI untuk Kanada,
+dan jajaran KBRI Ottawa.
+
+Pada pembahasan teks, kedua pihak berhasil menyepakati secara substansi teks
+Customs Procedures and Trade Facilitation, Temporary Movement of Natural
+Persons, dan Transparency, Anti -Corruption and Responsible Business Conduct.
+Kemajuan signifikan juga dicapai dalam pembahasan teks Sanitary and
+Phytosanitary, STRACAP, Economic and Technical Cooperation, Intellectual
+Property Rights, Government Procurement, dan TSD – Environment. Kedua pihak
+sepakat untuk melakukan Perundingan Putaran Kesembilan pada tanggal 23 -27
+September 2024 di Toronto, Kanada.
+
+4. Amandemen STC Agreement RI - AS
+
+50
+
+Science and Technological Cooperation Agreement  (STC Agreement) antara
+Pemerintah RI dan Amerika Serikat telah entry into force sejak tahun 2011. Tujuan
+dari kemitraan ini adalah unutk memajukan kerja sama ilmiah dan teknologi kedua
+negara yang saling menguntungkan untuk maksud damai, seperti pada bidang
+pertanian, kesehatan, pangan, TIK, transportasi, energi, ilmu pengetahuan alam dan
+sosial, dan sebagainya. Adapun bentuk kerja sama yang diatur antara lain pertukaran
+informasi, pertukaran ilmuwan, pertukaran best practices, proyek penelitian bersama,
+dan penyelenggaraan seminar bersama.
+
+Pada Maret 2024, Pemri mengusulkan amandemen terhadap perjanjian ini oleh pihak
+Indonesia yang didasari adanya perubahan tugas dan fungsi BRIN sebagai pemegang
+mandat penyelenggaraan tugas pemerintah pada bidang penelitian. Dengan ini, terjadi
+perubahan pada Pejabat Eksekutif yang bertanggung jawab melakukan koordinasi
+kegiatan kerja sama. Dari pihak Amerika Serikat adalah Direktur Kantor Kerja sama
+Ilmiah dan Teknologi di Biro Urusan Laut dan Lingkungan Hidup U.S. State
+Department, sedangkan untuk Indonesia adalah Deputi Bidang Fasilitasi Riset dan
+Inovasi, BRIN.
+
+5. Indonesia – U.S. Bilateral Digital Technology Dialogue
+
+Indonesia - US Bilateral Technology Dialogue  pertama telah dilaksanakan di San
+Francisco dan Silicon Valley pada 10 - 13 Juni 2024.  Delegasi RI terdiri dari
+perwakilan Pemerintah, BUMN, swasta, serta akademisi dengan fokus penggunaan
+teknologi digital di sektor energi bersih, telekomunikasi dan kesehatan.
+
+Para pemangku kepentingan terkait sepakat untuk menindaklanjuti hasil dialog
+dengan meningkatkan kolaborasi dalam teknologi digital, termasuk proyek penelitian
+bersama, inisiatif transfer teknologi, dan pelatihan keterampilan digital untuk pasar
+kerja masa depan.
+
+6. Penandatanganan TFCCA antara Kementerian Kelautan dan Perikanan,
+Kementerian Keuangan serta USAID
+
+Indonesia, Amerika Serikat, dan empat Lembaga Swadaya Masyarakat
+(Conservation International, The Nature Conservancy, Yayasan Konservasi Alam
+Nusantara, dan Yayasan Konservasi Cakrawala Indonesia menandatangani
+perjanjian pertukaran utang dengan alam dan konservasi terumbu karang di bawah
+Undang Undang Konservasi Hutan Tropis dan Terumbu Karang (TFCCA) pada
+tanggal 3 Juli 2024.
+
+Sebagai implementasinya, perjanjian tersebut akan mengurangi pembayaran
+hutang Indonesia kepada Pemerintah AS sebesar 35 juta USD selama sembilan
+tahun ke depan dengan Pemerintah Indonesia berkomitmen mendukung hibah
+dalam rangka melindungi dan memulihkan ekosistem terumbu karang melalui
+pembentukan dana konservasi.
+
+7. Implementing Arrangem ent antara Kementerian Agama dengan Peace Corps
+Indonesia, 23 September 2024
+
+Pengaturan Pelaksana (Implementing Arrangement) tentang Program Peace Corps
+dalam bidang pengajaran Bahasa Inggris dan pelatihan guru Bahasa Inggris
+didasarkan pada Memorandum Sa ling Pengertian RI - AS yang ditandatangani
+pada tanggal 14 Desember 2021.
+
+51
+
+Pengaturan Pelaksana ini berisikan sejumlah pengaturan terkait tugas dan
+tanggung jawab para pemangku kepentingan terkait (dalam hal ini Kementerian
+Agama selaku focal point) dalam penugasan peace corps, kriteria relawan, tugas
+relawan, penugasan relawan, mekanisme pemantauan dan evaluasi, serta
+pengaturan keadaan darurat
+
+8. Implementing Arrangement antara Kementerian Pendidikan, Kebudayaan, Riset dan
+Teknologi dengan Peace Corps Indonesia, 23 September 2024
+
+Pengaturan Pelaksana (Implementing Arrangement) tentang Program Peace Corps
+dalam bidang pengajaran Bahasa Inggris dan pelatihan guru Bahasa Inggris
+didasarkan pada Memorandum Saling Pengertian RI - AS yang ditandatangani
+pada tanggal 14 Desember 2021.
+
+Pengaturan Pelaksana ini berisikan sejumlah pengaturan terkait tugas dan
+tanggung jawab para pemangku kepentingan terkait (dalam hal ini Kementerian
+Pendidikan, Kebudayaan, Riset dan Teknologi selaku focal point) dalam penugasan
+peace corps, kriteria relawan, tugas relawan, penugasan relawan, mekanisme
+pemantauan dan evaluasi, serta pengaturan keadaan darurat
+
+9.  Memorandum Saling Pengertian RI - Kanada tentang Kerja Sama Mineral Kritis
+
+Pada tanggal 2 Desember 2024, Menteri ESDM RI dan Menteri Promosi Ekspor,
+Perdagangan Internasional, dan Pembangunan Ekonomi Kanada telah
+menandatangani Memorandum Saling Pengerti an tentang Kerja Sama Mineral
+Kritis. Memorandum Saling Pengertian ini berada di bawah payung Indonesia -
+Canada CEPA.
+
+Kerja sama mineral kritis yang disasar antara lain dukungan terhadap standar di
+bidang lingkungan, sosial, dan tata kelola ESG dan dukun gan terhadap
+perdagangan dan investasi sektor pertambangan. Bentuk kerja sama yang dapat
+dilakukan antara lain pertukaran informasi, penyelenggaraan misi bisnis, kerja
+sama industri maupun akademisi, fasilitasi bantuan teknis, serta penyelenggaraan
+lokakarya, seminar, dan simposium bersama. Sebagai tindak lanjut Memorandum
+Saling Pengertian, akan dibentuk dialog di bidang mineral kritis secara G-to-G
+
+10. Memorandum Saling Pengertian Kerja Sama Kesehatan RI - AS
+
+Pada 21 November 2024, Menteri Kesehatan RI dan Secretary of Health and Human
+Service AS telah menandatangani nota kesepahaman (Memorandum Saling
+Pengertian) di bidang kerja sama kesehatan bilateral RI - AS. Memorandum Saling
+Pengertian ini merupakan pembaruan dari Memorandum Saling Pengertian kerja
+sama kesehatan yang berakhir pada Mei 2024.
+
+Area kerja sama bidang kesehatan mencakup public health, promosi kesehatan,
+layanan kesehatan, alat -alat kesehatan, peningkatan kapasitas SDM, teknologi
+kesehatan, dan lain -lain. Sedangkan, bentuk kerja sama dapat berupa pertukaran
+informasi, riset bersama, saling kunjung, kerja sama teknis, serta peningkatan
+kapasitas.
+
+11. Memorandum Saling Pengertian antara Indonesian Chamber of Commerce and
+Industry (KADIN) dan The Chamber of Commerce, Industries, and Agricult ure of
+Panama pada 17 September 2024 di Panama
+
+52
+
+Penandatanganan Memorandum Saling Pengertian antara KADIN Indonesia dengan
+CCIAP dilakukan pada sela -sela kunjungan KADIN ke Panama, September 2024.
+Kerja sama ini didasari pada pentingnya Panama sebagai hub perdagangan dan
+pusat logistik di Amerika tengah dan Amerika Latin, dan Kadin ingin mendorong
+Panama agar melihat Indonesia sebagai hub serupa di kawasan Asia Tenggara.
+
+Melalui Memorandum Saling Pengertian tersebut, kedua kamar dagang berkeinginan
+untuk meningkatkan intensitas kerja sama perdagangan dan investasi,  terutama
+pada bidang-bidang yang saat ini menjadi kepentingan bersama, antara lain investasi
+dua arah pada sektor perumahan (real estate), infrastruktur, dan energi. Lebih lanjut
+Memorandum Sal ing Pengertian juga mengatur mekanisme kerja sama seperti
+penyelenggaraan konferensi bersama, pertukaran informasi terkait perdagangan dan
+investasi, serta pertukaran best practices.
+
+12. Memorandum Saling Pengertian antara Satgas Semikonduktor Indonesia dengan
+Purdue University terkait Kerja Sama Keilmuan dan Pendidikan
+
+Sebagai langkah konkret dari implementasi peta jalan pengembangan ekosistem
+industri semikonduktor Indonesia, sebagai bagian dari program kunjungan Menko
+Perekonomian ke Amerika  Serikat tanggal 21 November 2024, Satgas
+Semikonduktor Indonesia menjalin kerja sama pengembangan Sumber Daya
+Manusia dengan Lembaga Pendidikan Amerika Serikat melalui penandatanganan
+Memorandum of Understanding  (Memorandum Saling Pengertian) dengan Purdu e
+University terkait Kerja Sama Keilmuan dan Pendidikan.
+
+Memorandum Saling Pengertian bertujuan strategis sebagai amplifikasi dan landasan
+kokoh dalam upaya peningkatan kapasitas SDM semikonduktor, pendidikan Science,
+Technology, Engineering and Mathemati cs (STEM), penelitian dan inovasi, serta
+pertumbuhan dan ketahanan industri semikonduktor Indonesia. Ruang lingkup
+Memorandum Saling Pengertian tersebut antara lain meliputi pertukaran tenaga
+pengajar dan peneliti, pertukaran pelajar, kolaborasi dalam pene litian dan inovasi,
+bantuan teknis, pengembangan bakat, peningkatan kapasitas tenaga kerja, dan
+advokasi pendanaan.
+
+
+13. Memorandum Saling Pengertian antara Satgas Semikonduktor Indonesia dengan
+Arizona State University terkait Kerja Sama Keilmuan dan Pendidikan
+
+Sebagai langkah konkret dari implementasi peta jalan pengembangan ekosistem
+industri semikonduktor Indonesia, sebagai bagian dari program kunjungan Menko
+Perekonomian ke Amerika Serikat tanggal 21 November 2024, Satgas
+Semikonduktor Indonesia menjalin  kerja sama pengembangan Sumber Daya
+Manusia dengan Lembaga Pendidikan Amerika Serikat melalui penandatanganan
+Memorandum of Understanding  (Memorandum Saling Pengertian) dengan Arizona
+State University terkait Kerja Sama Keilmuan dan Pendidikan.
+
+Memorandum Saling Pengertian bertujuan strategis sebagai amplifikasi dan landasan
+kokoh dalam upaya peningkatan kapasitas SDM semikonduktor, pendidikan Science,
+Technology, Engineering and Mathematics (STEM), penelitian dan inovasi, serta
+pertumbuhan dan ketahanan industri semikonduktor Indonesia. Ruang lingkup
+Memorandum Saling Pengertian tersebut antara lain meliputi pertukaran tenaga
+pengajar dan peneliti, pertukaran pelajar, kolaborasi dalam penelitian dan inovasi,
+
+53
+bantuan teknis, pengembangan bakat, peningkatan  kapasitas tenaga kerja, dan
+advokasi pendanaan.
+
+14. Penandatanganan Memorandum Saling Pengertian dan Supplementary Agreement
+dari HCA CIFOR di Jakarta, 4 Oktober 2024
+
+Memorandum Saling Pengertian dan Supplementary Agreement dari HCA CIFOR
+telah ditandatangani di Jakarta, 4 Oktober 2024 antara Pemerintah RI dhi. Kepala
+Badan Riset dan Inovasi Nasional (BRIN) Dr. L.T. Handoko dengan Direktur Jenderal
+Center for International Forestry Research (CIFOR), Robert Nasi. Melalui
+Memorandum Saling Pengertian yang baru , kemitraan kedua belah pihak akan
+semakin terbuka dan saling menguntungkan, antara lain terkait kegiatan penelitian,
+kekayaan intelektual termasuk genetical resources and traditional knowledge,
+pengelolaan data, kerahasiaan dan publikasi, serta material transfer agreement.
+
+
+15. Penandatanganan Kesepakatan Substantial Conclusion ICA-CEPA
+Menteri Perdagangan RI Budi Santoso dan menteri promosi Ekspor, Perdagangan
+Internasional, dan Pembangunan Ekonomi Kanada Mary Ng menandatangani
+Pernyataan Bersama Penyelesaia n Indonesia - Canada Comprehensive Economic
+Partnership Agreement pada 2 Desember 2024. Penandatanganan dilakukan di sela-
+sela kunjungan misi dagang Team Canada Trade Mission pada 1-3 Desember 2024.
+
+Indonesia - Canada CEPA telah selesai secara substansial  setelah kedua tim
+perunding melakukan negosiasi selama lebih dari 2,5 tahun. Melalui CEPA, akses
+produk Indonesia akan semakin luas di wilayah Amerika Utara. Tidak hanya
+perdagangan barang, CEPA juga menunjang sektor jasa bisnis, telekomunikasi,
+konstruksi, pariwisata, dan transportasi. Total nilai perdagangan Indonesia - Kanada
+selama 5 tahun terakhir meningkat 11,24% dengan nilai perdagangan pada 2023
+mencapai 3,4 miliar dolar AS. Melalui CEPA, volume perdagangan RI - Kanada akan
+terus mengalami peningkatan.
+
+Proyeksi Kedepan
+
+Untuk mencapai target kinerja B1.1 ke depannya, Direktorat Amerika I akan menginisiasi
+sejumlah program baru serta melanjutkan program -program yang memiliki nilai strategis
+untuk Indonesia dalam konteks kerja sama bilateral ekososbud dengan negara-negara mitra
+di kawasan Amerika I. Adapun langkah-langkah tersebut di antaranya:
+1. Finalisasi sejumlah kesepakatan ekososbud yang masih pending
+2. Melakukan pemantauan dan evaluasi berkala terhadap kesepakatan yang telah
+ditandatangani sebelum tahun 2025, guna memastikan implementasi kesepakatan
+tersebut bermanfaat bagi kepentingan nasional
+3. Optimalisasi forum kerja sama ekososbud seperti INA-LAC Forum
+4. Optimalisasi peran perwakilan RI untuk memfasilitasi dialog dan mempercepat
+negosiasi kerja sama bilateral di bidang ekososbud
+
+54
+Dokumentasi
+
+
+
+Penandatanganan Kesepakatan TFCCA di Yayasan Konservasi Alam Nusantara, 3 Juni
+2024
+
+
+Penandatanganan Kesepakatan Substantial Conclusion ICA-CEPA , 2 Desember 2024
+
+55
+Analisis IKU B1.2
+Jumlah Kesepakatan di Bidang Politik, Keamanan, dan Maritim dengan Negara
+Akreditasi Kawasan Amerika I
+
+Deskripsi IKU
+IKU B1.2 merupakan IKU yang menghitung jumlah kesepakatan di bidang politik, keamanan
+dan maritim yang bersumber dari joint statement, report of the meeting, summary of
+discussion, summary record, joint communique, agreed minutes, declaration, agreements,
+memorandum of understanding, agreed plan of action/work plan, treaty, charter, dan joint
+press statement. IKU ini bertujuan untuk mengetahui kapabilitas diplomasi di bidang politik,
+keamanan dan maritim yang telah dilakukan oleh Indonesia dalam hubungan bilateral.
+Pentingnya kesepakatan bilateral di bidang politik, keamanan dan maritim bagi Indonesia
+selaras dengan strat egi Kemenlu dalam memperkuat integritas NKRI dan diplomasi politik,
+keamanan dan maritim seperti yang tercantum dalam Renstra 2020-2024.
+
+
+Informasi Kinerja
+ Tabel III.10
+Capaian B1.2 Jumlah Kesepakatan di Bidang Politik, Keamanan, dan Maritim dengan
+Negara Akreditasi Kawasan Amerika I
+
+Indikator Kinerja Utama Informasi Kinerja Jumlah
+Jumlah Kesepakatan di Bidang
+Politik, Keamanan, dan Maritim
+dengan Negara Akreditasi
+Kawasan Amerika I
+Jumlah Kesepakatan di
+Bidang Politik, Keamanan, dan
+Maritim
+
+8
+Realisasi  10
+Target  8
+Capaian 100%
+Batas Toleransi  120%
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2024, Direktorat Amerika I telah berhasil mencapai 10 kesepakatan di bidang
+polkam dan maritim dengan negara -negara mitra di kawasan Amerika I. Jumlah tersebut
+telah melampaui target yang ditetapkan yaitu 8, sehingga capaian IKU B1.1 yang diperoleh
+untuk tahun 2024 adalah 120%.
+
+Perbandingan Kinerja
+ Tabel III.11
+Target (T), Realisasi (R) dan Capaian (C) IKU Jumlah Kesepakatan di Bidang Ekonomi,
+Sosial dan Budaya dengan Negara Akreditasi Kawasan Amerika I
+
+56
+
+
+Kode IK/SUB IK 2020 2021 2022 2023 2024
+B1.2 Target N/A 4 6 10 8
+Realisasi N/A 5 7 10 10
+Capaian N/A 120% 116,67% 100% 120
+%
+
+Selama periode Renstra, Direktorat Amerika I menetapkan target kesepakatan bidang polkam
+dan maritim yang terus relatif terus meningkat setiap tahunnya. Pada tahun 2024, target yang
+ditetapkan berubah dari tahun sebelumnya dari 10 menjadi 8 dengan pertimbangan adanya
+perubahan politik dan kepemimpinan di Indonesia dan negara mitra utama di kawasan, yaitu
+Amerika Serikat. Namun begitu, Direktorat Amerika I secara konsisten mencapai target yang
+ditetapkan, sebagaimana nampak pada tabel di atas. Pada tahun 2024, realisasi kesepakatan
+polkam dan maritim berjumlah 10 kesepakatan, melebihi target yang ditetapkan sejumlah 8
+kesepakatan.
+
+Analisis Penyebab Keberhasilan/Kegagalan Pencapaian IKU
+Pencapaian kinerja Direktorat Amerika I dalam merealisasikan Sub IKU B1.2 didukung oleh
+beberapa hal di antaranya:
+1. Momentum peringatan 75 tahun hubungan bilateral RI - AS pada 2024 serta
+peningkatan hubungan bilateral menjadi Comprehensive Strategic Partnership  pada
+2023, menyebabkan semakin intensifnya kerja sama RI - AS.
+2. Meskipun pemerintahan RI dan AS sedang mengalami transisi akibat pemilu yang
+dilaksanakan di 2024, pemerintahan kedua negara tetap memiliki komitmen kuat dalam
+terus mengembangkan kerja sama di bidang polkam dan maritim, yang selama ini telah
+menjadi kepentingan bersama kedua negara.
+3. Saling kunjung tingkat Kepala Negara, Menteri, maupun Senior Official negara-negara
+di kawasan Amerika I menghasilkan sejumlah kesepakatan di bidang polkam dan
+maritim.
+4. Pemanfaatan teknologi informasi dan komunikasi yang memungkinkan dilaksanakan
+pertemuan-pertemuan secara daring untuk mempercepat proses negosiasi serta
+penandatanganan sejumlah kesepakatan.
+
+Kendala dan Tantangan
+Dalam mencapai target Sub IKU B1.2, Direktorat Amerika I dih adapkan dengan berbagai
+kendala dan tantangan baik dari segi eksternal maupun internal, di antaranya:
+1. Masih rendahnya intensitas kerja sama polkam dan maritim dengan mitra non-tradisional
+di kawasan. Hubungan dengan mitra -mitra non tradisional lebih banyak  bergantung
+pada segi perekonomian, bukan keamanan dan maritim.
+2. Koordinasi untuk pertemuan tingkat tinggi menghadapi kendala penjadwalan akibat
+jadwal para pimpinan dan pejabat senior baik Indonesia maupun negara mitra yang
+sangat padat. Hal yang melatarbe lakangi adalah adanya tahun politik pelaksanaan
+pemilu Presiden di Indonesia, Amerika Serikat, dan Meksiko.
+3. Kendala logistik jarak Indonesia dengan negara mitra yang cukup jauh membuat
+pertemuan-pertemuan perlu direncanakan secara matang dari jauh hari.
+4. Pengaruh situasi geopolitik turut mempengaruhi pola kerja sama bilateral negara-negara
+di kawasan Amerika I di bidang polkam dan maritim.
+
+57
+Upaya Perbaikan
+Direktorat Amerika I telah melakukan sejumlah langkah alternatif solusi dan inisiatif untuk
+memastikan keberlanjutan capaian kinerja Sub IK B1.2, di antaranya:
+1. Penguatan hubungan dialog politik dengan mitra non -tradisional melalui pendekatan
+yang lebih pro -aktif di level teknis, apabila di level strategis cenderung tidak
+memungkinkan.
+2. Optimalisasi teknologi seperti dengan menggunakan platform pertemuan daring untuk
+mempercepat proses konsultasi dan penjadwalan dengan negara mitra.
+3. Perluasan skema kerja sama yang dimiliki dengan negara mitra, termasuk dengan
+melibatkan akademisi, think-tanks, maupu n peningkatan koordinasi erat dan
+berkesinambungan dengan K/L teknis yang menangani isu polkam dan maritim.
+4. Terus memantau situasi geopolitik dan kaitannya terhadap hubungan bilateral.
+
+Analisis Program Pendukung Capaian
+Sepanjang tahun 2024, telah dilakukan sejumlah kegiatan untuk mendukung capaian kinerja
+IKU B1.2, antara lain meliputi:
+1. Penyusunan Plan of Action Comprehensive Strategic Partnership RI-AS 18 Maret
+2024
+
+Dalam rangka memperingati 75 tahun hubungan diplomatik antara Indonesia dan
+Amerika Serikat pada tahun 2024 dan dengan tujuan untuk mengidentifikasi peluang
+dan tantangan masa depan dalam lanskap geopolitik dan geoekonomi global yang
+terus berubah, kedua negara meningkatkan hubungannya ke Kemitraan Strategis
+Komprehensif pada tanggal 13 November 2023.
+
+Untuk memajukan implementasi peningkatan kemitraan ini, kedua negara
+mengembangkan Rencana Aksi yang bertujuan untuk memperdalam hubungan
+bilateral melalui penguatan kerja sama politik dan peningkatan kolaborasi dalam
+pertumbuhan ekonomi bilater al; pertahanan, keamanan, dan penegakan hukum;
+transisi energi yang adil; tantangan lingkungan dan iklim; hubungan sosial, budaya,
+pendidikan, dan antar masyarakat; transformasi kesehatan; inovasi dan transformasi
+digital; pembangunan berkelanjutan; dan is u-isu global dan regional yang menjadi
+kepentingan bersama
+
+2. Letter of Intent  (Lol) Perpanjangan Memorandum Saling Pengertian antara Polri
+dengan Federal Bureau of Investigation (FBI) mengenai Mutual Cooperation in
+Capacity Building and Preventing and Combating Transnational Crime.
+
+Perpanjangan Letter of Intent  (Lol) antara Polri dengan Federal Bureau of
+Investigation (FBI) AS mengenai  Mutual Cooperation in Capacity Building and
+Preventing and Combating Transnational Crime telah kembali diperpanjang setelah
+sebelumnya diperpanjang selama 5 (lima) tahun dari 2019 hingga 2024.
+
+Berkaitan dengan hubungan bilateral RI - AS yang mengalami p eningkatan sejak
+tahun 2023 dengan Comprehensive Strategic Partnership, kerja sama Polri dan FBI
+diharapkan dapat diimplementasikan dengan lebih efektif, melalui perumusan lingkup
+kerja sama yang lebih detail, pembentukan workplan, serta mekaninsme monitoring
+dan evaluasi berkala.
+
+3. Penyusunan dan peluncuran Joint Statement Presiden RI - AS saat kunjungan kerja
+ke Washington DC, 12 November 2024
+
+Pada Kunjungan Kerja Resmi Presiden RI ke Amerika Serikat dan melakukan
+pertemuan bilateral dengan Presiden AS, Joseph Biden, di Gedung Putih, pada 12
+
+58
+November 2024, telah dihasilkan Joint Leaders’ Statement  (JLS): Commemorating
+75 Years of Diplomatic Rela tions. JLS juga mengangkat peringatan 1 (satu) tahun
+Comprehensive Strategic Partnership (Kemitraan Strategis Komprehensif) yang
+menjadi dasar panduan kemitraan RI – AS ke depan.
+
+JLS berisi 6 bagian utama yaitu: Kemitraan Jangka Panjang, Pertumbuhan Ekonomi
+uang Berkelanjutan, Inklusif, dan Kuat, Pemajuan Inovasi melalui Kerja Sama Digital
+dan Teknologi, Investasi di Manusia, Pendidikan, dan kesehatan, Penguatan Kerja
+Sama pertahanan dan Keamanan, dan Kerja sama Regional dan Global.
+
+
+4. Penandatanganan Memorandum Saling Pengertian Penguatan Kerja Sama Siber,
+antara RI-AS pada 4 Desember 2024.
+
+Signing Ceremony  Memorandum Saling Pengertian (Memorandum Saling
+Pengertian) antara Pemerintah Republik Indonesia (RI) dan Pemerintah Amerika
+Serikat (AS) tentang Penguatan Kerja Sama di Ruang Siber telah dilaksanakan pada
+tanggal 4 Desember 2024, bertempat di kantor BSSN.
+
+Memorandum Saling Pengertian ini adalah bentuk dari peningkatan komitmen kerja
+sama bilateral RI-AS dari sebelumnya berbentuk LoI on Strengthening Cyber Space
+Cooperation yang ditandatangani pada tahun 2018 (berlaku selama tiga tahun).
+Peningkatan status kerja sama ini juga seiring dengan adanya perluasan bidang kerja
+sama dengan AS, antara lain: berbagi praktik terbaik dalam pengembangan strategi
+dan tata kelola keamanan siber nasional; peningkatan kapasitas SDM dan teknologi
+keamanan siber; kolaborasi dalam penelitian dan pengembangan teknologi
+keamanan siber; serta koordinasi dan berbagi informasi untuk mengurangi ancaman,
+risiko, dan serangan siber.
+
+5. Perpanjangan Memorandum Saling Pengertian Penguatan Kerja Sama
+Penanggulangan Terorisme RI-AS, 1 November 2024 (exchange of note).
+
+Memorandum Saling Pengertian Penguatan Kerja Sama Penanggulangan Terorisme
+ini bertujuan untuk meningkatkan kerjasama ke dua negara dalam bidang
+kontraterorisme dan dalam menghadapi ekstremis dengan kekerasan dengan cara
+meningkatkan pertukaran informasi dan praktik terbaik, serta dengan cara
+membangun kemampuan menghadapi kontraterorisme dan ekstremis melalui
+pelatihan dan pendidikan bersama. Perpanjangan Memorandum Saling Pengertian
+dilakukan dengan Exchange of Note tertanggal 1 November 2024.
+
+6. Memorandum Saling Pengertian BNPB - FEMA (AS) tentang Manajemen Keadaan
+Darurat, September 2024.
+
+Memorandum Saling Pengertian BNP B - FEMA (AS) bertujuan meningkatkan kerja
+sama di bidang manajemen keadaan darurat serta preparedness bencana RI - AS.
+Pada perjanjian ini, bentuk kerja sama yang diharapkan kedua pihak antara lain
+pembuatan workplan, kerja sama pelatihan, dan pertukaran best practices.
+Memorandum Saling Pengertian ini akan berlaku selama selama 5 tahun.
+
+
+7. Hasil Pre-Dialog Konsular dan Manajemen Fasilitas Diplomatik RI -AS, Brafaks, 30
+Mei 2024.
+
+59
+Kegiatan Pre Dialog Konsuler dan Manajemen Fasilitas Diplomatik yang
+diselenggarakan di Los Angeles, 28 Mei - 1 Juni 2024 bertujuan sebagai forum
+bilateral rutin untuk membahas dan menyelesaikan isu-isu kekonsuleran dan fasilitas
+diplomatik yang dihadapi oleh Perwakilan RI di AS dan Perwakilan AS di RI. Kegiatan
+tersebut ju ga merupakan bagian dari implementasi konkrit peningkatan kemitraan
+politik jangka panjang kedua negara di dalam Comprehensive Strategic Partnership
+(CSP) yang disepakati pada November 2023.
+
+Pre-Dialogue diharapkan dapat menyepakati agenda Consular and Di plomatic
+Facilities Management Dialogue RI-AS yang menurut rencana akan dilaksanakan di
+Indonesia pada pertengahan tahun 2024. Isu -isu yang dibahas antara lain isu -isu
+kekonsuleran dan isu-isu fasilitas diplomatik.
+
+8. Pembentukan Kaukus Friends of Indonesia pada Kongres AS.
+
+Indonesia telah memiliki CIC (Congressional Indonesia Caucus) di House of
+Representative sejak tahun 2004 namun dengan bergantinya anggota Kongres dan
+ketidakaktifan kegiatan kaukus, kaukus perlu di re -launching kembali.KBRI
+Washington, D.C telah dihubungi secara infomal pada tanggal 20 September 2024
+oleh Kantor Rep. Carol Miller (R -West Virginia) dan Rep. Marilyn Strickland (D -
+Washington) yang pada intinya menyampaikan bahwa Kaukus Friends of Indonesia
+(Congressional Friends of Indonesia Caucus) telah dibentuk.
+
+Congressional Friends of Indonesia Caucus untuk Kongres ke-118 ditujukan sebagai
+grup informal dari para anggota Kongres yang didedikasikan untuk isu -isu terkait
+Republik Indonesia dan sebagai platform tukar pikiran untuk isu dimaksud.
+
+
+9. Penyampaian Written Assurance NSM -20 (National Security Memorandum)  RI
+kepada Pemerintah AS.
+
+Direktorat Jenderal Strategi Pertahanan Kementerian Pertahanan pada 11 November
+2024 menyampaikan Written Assurance Statement  (WAS) National Security
+Memorandum (NSM-20) yang telah disusun berdasarkan konsultasi dengan Kemlu.
+
+Poin-poin utama yang tercantum pada Written Assurance Statement tersebut antara
+lain penggunaan militer yang didasarkan pada hukum internasional, Indonesia akan
+memfasilitasi bantuan keamanan AS sepanjang tidak bertentangan dengan hukum
+internasional serta didasarkan modalitas yang disepakati kedua pihak serta tidak
+mengintervensi urusan dalam negeri RI.
+
+10. Memorandum Saling Pengertian Kepolisian Negara RI dan Royal Canada Mounted
+Police (RCMP) tentang Kerja Sama dalam Pencegahan dan Pemberantasan
+Kejahatan Transnasional yang Terorganisir dan Pengembangan Kapasitas
+
+Pada kunjungan ke Kanada, 3 Desember 2024, Kadivhubinter Polri, Dr. Krishna Murti,
+S.I.K., M.Si., dan Director General of International Special Services of the RCMP ,
+Frank William Price menandatangani Memorandum of Understanding (Memo) tentang
+kerja sama d alam pencegahan dan pemberantasan kejahatan transnasional yang
+terorganisir dan pengembangan kapasitas di Markas Besar Royal Canadian Mounted
+Police (RCMP).
+Penandatanganan nota kesepahaman ini merupakan perpanjangan dari
+Memorandum Saling Pengertian yang pertama kali diinisiasi di tahun 2014, mencakup
+
+60
+10 bidang kerja sama mulai dari pencegahan dan pemberantasan kejahatan siber,
+penanganan kasus terorisme, hingga manajemen krisis. Selain itu, kedua institusi juga
+sepakat untuk meningkatkan kapasitas sumber  daya manusia Polri melalui program
+pelatihan yang komprehensif. Dengan adanya perpanjangan Memorandum Saling
+Pengertian ini, diharapkan kerja sama antara Polri dan RCMP semakin solid dan efektif
+dalam menghadapi tantangan kejahatan transnasional yang semakin kompleks.
+
+
+Proyeksi Kedepan
+Guna meningkatkan capaian pada Sub IKU B1.2 ke depannya, Direktorat Amerika I akan
+memprioritaskan langkah-langkah sebagai berikut untuk memperkuat hubungan bilateral di
+bidang politik, keamanan, dan maritim dengan mitra di kawasan Amerika I, antara lain:
+1. Implementasi kesepakatan -kesepakatan polkam dan maritim yang telah disepakati
+sebelum tahun 2025, termasuk dengan meningkatkan koordinasi bagi implementornya
+seperti K/L teknis.
+2. Penyelenggaraan sejumlah forum -forum bilatera l seperti Annual Ministerial Strategic
+Dialogue dengan AS, serta Forum Konsultasi Bilateral dan Forum Konsultasi Politik yang
+telah ada dengan negara-negara mitra.
+3. Melakukan pemantauan dan evaluasi berkala terhadap kesepakatan yang telah
+ditandatangani se belum tahun 2025, guna memastikan implementasi kesepakatan
+tersebut bermanfaat bagi kepentingan nasional.
+
+
+Dokumentasi
+
+
+
+Penandatanganan Memorandum Saling Pengertian Kerja Sama Bidang Siber Indonesia dan
+Amerika Serikat,
+4 Desember 2024
+
+61
+
+
+
+Penandatanganan Perpanjangan Memorandum Saling Pengertian Polri dan Royal Canadian
+Mounted Police (RCMP) atau Angkatan Kepolisian Kerajaan Kanada terkait Kerja Sama
+Melawan Kejahatan Transnasional yang Terorganisir, 4 Desember 2024
+
+
+Analisis IKU B1.3
+Indeks Respon Positif terhadap Informasi Data Economic Intelligence/Market
+Intelligence tentang Negara Akreditasi Kawasan Amerika I
+
+Deskripsi IKU
+Dalam menjalankan diplomasi ekonomi, Perwakilan RI harus mencermati potensi ekonomi
+yang dimiliki masing-masing negara yang dapat dimanfaatkan oleh Indonesia. Data economic
+intelligence/market intelligence  adalah informasi dan hasil analisis di bidang ekonomi
+(perdagangan, keuangan, investasi, pariwisata, dan jasa) termasuk  informasi peluang produk
+spesifik yan g bersifat strategis bagi pengambilan keputusan dan perumusan kebijakan
+diplomasi ekonomi Indonesia terhadap negara/wilayah akreditasi. Data economic intelligence
+disusun dan dimutakhirkan secara berkala setiap tahun dari masing -masing negara/wilayah
+kerja dan rangkapannya, jika ada.
+Respon positif adalah Pernyataan yang mengindikasikan Data Economic Intelligence/Market
+Intelligence yang dihasilkan bermanfaat bagi Kemenlu Pusat. Pernyataan tersebut diperoleh
+dari penerima manfaat dan penilaian dilakukan oleh Ditjen Amerop dan Ditjen Aspasaf. Indeks
+respon positif berada pada skala 1-5, yaitu:
+
+Indeks Kategori Indeks
+Skala 1 Tidak Bermanfaat
+Skala 2 Kurang Bermanfaat
+
+62
+Skala 3 Cukup Bermanfaat
+Skala 4 Bermanfaat
+Skala 5 Sangat Bermanfaat
+
+
+Informasi Kinerja
+Tabel III.12
+Capaian IKU B1.3 Indeks Respon Positif terhadap Informasi Data Economic
+Intelligence/Market Intelligence tentang Negara Akreditasi Kawasan Amerika I
+
+Indikator Kinerja Utama Informasi Kinerja Jumlah
+Indeks Respon Positif
+terhadap Informasi Data
+Economic
+Intelligence/Market
+Intelligence tentang
+Negara Akreditasi
+Kawasan Amerika I
+Persentase Data Economic
+Intelligence dari kawasan Amerika I
+yang ditindaklanjuti pemangku
+kepentingan dalam negeri
+
+100%
+Realisasi  100%
+Target  100%
+Capaian 120%
+Batas Toleransi 120%
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2023, realisasi IKU B1.3 Indeks Respon Positif terhadap Informasi Data Economic
+Intelligence/Market Intelligence tentang Negara Akreditasi Kawasan Amerika I adalah sebesar
+5 atau sangat bermanfaat. Perhitungan capaian IKU B1.3 berbeda dengan IKU  pada
+umumnya. Jika realisasi IKU mencapai indeks tertinggi sebesar 5 (Sangat Bermanfaat), maka
+capaian atas IKU B1.3 dikonversi menjadi 120%.
+
+Perbandingan Kinerja
+
+ Tabel III.13
+Indeks Respon Positif terhadap Informasi Data Economic Intelligence/Market
+Intelligence tentang Negara Akreditasi Kawasan Amerika I
+
+IKU  2020 2021 2022 2023 2024
+B1.3 T R C T R C T R C T R C T R C
+
+63
+95% 100
+%
+105
+%
+10
+0%
+92,8
+6%
+92,
+86
+%
+90
+%
+100
+%
+111
+,11
+%
+100
+%
+100
+%
+120
+%
+100
+%
+100
+%
+120
+%
+Dalam periode 2020-2023 realisasi IKU B1.3 Indeks Respon Positif terhadap Informasi Data
+Economic Intelligence/Market Intelligence  tentang Negara Akreditasi Kawasan Amerika I
+mengalami peningkatan.
+
+Analisis Penyebab Keberhasilan
+Pencapaian kinerja Direktorat Amerika I dalam merealisasikan Sub IKU B1.2 didukung oleh
+beberapa hal, diantaranya:
+1. Pemahaman Kebutuhan dan tujuan strategis:  Kesuksesan penerapan DEI dimulai
+dengan pemahaman mendalam terhadap kebutuhan dan tujuan strategis organisasi.
+Identifikasi area di mana DEI dapat memberikan dampak terbesar, seperti analisis
+diplomatik, pemantauan kondisi ekonomi global, dan evaluasi dampak kebijakan luar
+negeri.
+2. Evaluasi dan pembaruan data secara berkala: melak ukan evaluasi kinerja DEI dan
+melakukan pembaruan sesuai kebutuhan.
+3. Keterlibatan pemangku kepentingan: melibatkan pemangku kepentingan, dalam hal
+ini Kemlu pusat dan perwakilan di Kawasan Amerika I, dalam proses pengembangan
+dan implementasi DEI. Hal ini dilaksanakan agar dapat meningkatkan akseptabilitas
+dan relevansi inisiatif.
+
+Kendala dan Tantangan
+Kendala dan tantangan yang dihadapi dalam mencapai IKU B 1.3, meliputi:
+1. Keragaman sumber data: Tantangan yang signifikan muncul dari perluasan
+keragaman sumber data, yang melibatkan berbagai pemangku kepentingan. Integrasi
+data dari berbagai sumber yang memiliki format atau metodologi yang berbeda dapat
+menjadi kompleksitas tersendiri.
+2. Keamanan data: perlindungan terhadap data ekonomi dan intelijen pasar men jadi
+aspek kritis bagi suatu negara. Ancaman keamanan data seperti serangan siber atau
+pelanggaran keamanan dapat memberikan dampak serius terhadap integritas dan
+kepercayaan terhadap informasi yang tersedia.
+3. Perubahan konsumen yang dinamis: perubahan yang cepat dalam perilaku konsumen
+dan kebiasaan pembelian dapat sulit untuk diprediksi. Dinamika ini dapat berdampak
+pada prediksi pasar dan memerlukan adaptasi strategis bisnis yang cermat.
+
+Upaya Perbaikan
+1. Analisis prediktif untuk dinamika pasar: mengadopsi analisis prediktif dan machine
+learning untuk meramalkan perubahan dalam perilaku konsumen dan kebiasaan
+pembelian. Pemahaman mendalam tentang tren ini dapat membantu perusahaan
+beradaptasi secara proaktif.
+2. Peningkatan keamanan data: mengimpleme ntasikan praktik keamanan data terbaik,
+termasuk enkripsi, kontrol akses yang ketat, dan sistem pemantauan yang canggih.
+3. Koordinasi dan standardisasi sumber data: mendorong kerjasama lintas sektor dan
+internasional untuk mengkoordinasikan pengumpulan data dan mendorong adopsi
+standar internasional. Inisiatif standarisasi dapat membantu menyatukan format data
+dan metodologi, mempermudah integrasi dan analisis data.
+
+Analisis Program Pendukung Capaian
+Berbagai kegiatan yang telah diselenggarakan oleh Direkto rat Amerika I yang menjadi
+penunjang pencapaian IKU Persentase Data Economic Intelligence yang ditindaklanjuti oleh
+stakeholders adalah sebagai berikut:
+
+64
+1. Pada tahun ini Ditjen Amerop c.q. Direktorat Amerika I dan Direktorat Amerika II
+menyelenggarakan Indon esia-Latin America and the Caribbean (INALAC) yang
+merupakan perhelatan forum bisnis berskala besar pertama yang diselenggarakan
+oleh Kementerian Luar Negeri (Kemlu) Republik Indonesia di kawasan Amerika Latin
+dan Karibia. Selain meningkatkan jumlah transaksi dibandingkan pelaksanaan tahun
+2023, INALAC 2024 juga menghasilkan peningkatan komitmen perdagangan antara
+Indonesia dengan negara-negara yang menjadi wilayah akreditasi Direktorat Amerika
+I.
+2. Ditahun 2024, Perwakilan RI Kanada juga pertama kalinya be rpartisipasi dalam
+International Tourism & Travel Show 2024. ITTS merupakan salah satu bursa
+pariwisata internasional terbesar di Amerika Utara untuk mendorong lebih banyak
+wisatawan sebagai salah satu negara penyumbang wisatawan terbesar di wilayah
+Amerika I.
+
+
+Proyeksi Ke depan
+Beberapa langkah yang dapat dilaksanakan untuk mencapai target IKU B1.3 yaitu:
+1. Analisis prediktif untuk dinamika pasar: mengadopsi analisis prediktif dan machine
+learning untuk meramalkan perubahan dalam perilaku konsumen dan kebiasaan
+pembelian. Pemahaman mendalam tentang tren ini dapat membantu perusahaan
+beradaptasi secara proaktif.
+2. Peningkatan keamanan data: mengimplementasikan praktik keamanan data terbaik,
+termasuk enkripsi, kontrol akses yang ketat, dan sistem pemantauan yang canggih.
+3. Koordinasi dan standardisasi sumber data: mendorong kerjasama lintas sektor dan
+internasional untuk mengkoordinasikan pengumpulan data dan mendorong adopsi
+standar internasional. Inisiatif standarisasi dapat membantu menyatukan format data
+dan metodologi, mempermudah integrasi dan analisis data.
+
+
+Learning and Growth Perspective
+
+L1 Tata kelola organisasi Kawasan Amerika I  yang baik
+Sasaran strategis ini berfokus pada tata kelola yang merupakan rangkaian proses, kebiasaan,
+kebijakan, atu ran, dan institusi yang mempengaruhi pengarahan, pengelolaan, serta
+pengontrolan suatu organisasi. Tata kelola juga mencakup hubungan antara para pemangku
+kepentingan yang terlibat dalam pengelolaan tujuan organisasi untuk mewujudkan pelayanan
+publik yang berkualitas dan pemerintahan yang bersih.
+
+Sasaran Strategis (SS) L1 diukur berdasarkan capaian pada Indikator Kinerja Utama (IKU)
+Nilai evaluasi Akuntabilitas Kinerja Instansi Pemerintah (AKIP) Kawasan Amerika I
+
+
+Analisis IKU L1.1
+
+Nilai evaluasi Akuntabilitas Kinerja Instansi Pemerintah (AKIP) Kawasan Amerika I
+Deskripsi IKU
+
+Nilai evaluasi AKIP Kawasan Amerika I merupakan nilai perwujudan kewajiban suatu instansi
+pemerintahan untuk mempertanggungjawabkan pelaksanaan program dan kegiatan yang
+telah diamanatkan guna mencapai misi organisasi. Akuntabilitas atas pelaksanaan program
+dan kegiatan tersebut dituangkan secara rinci dalam laporan kinerja yang disusun secara
+periodik.
+
+65
+
+Evaluasi AKIP di Kemenlu dilakukan oleh Inspektorat Jenderal merujuk pada Keputusan Irjen
+Nomor 00651/B/PW/05/2023/67/11 tentang Juknis Evaluasi AKIP di Lingkungan Kemenlu dan
+Perwakilan RI, yang mengacu pada Permen PANRB Nomor 88 Tahun 2021 tentang Evaluasi
+Akuntabilitas Kinerja Instansi Pemerintah. Evaluasi yang dilakukan meliputi 5 (lima)
+komponen dengan bobot sebagai berikut:
+
+Hasil perhitungan dari komponen tersebut menghasilkan nilai akhir AKIP Satker yang
+diklasifikasikan sebagai berikut:
+(1) AA (Skor > 90-100); Sangat Memuaskan
+(2) A (Skor > 80-90); Memuaskan
+(3) BB (Skor > 70-80); Sangat Baik
+(4) B (Skor > 60-70); Baik
+(5) CC (>50-60); Cukup
+(6) C (>30-50); Kurang
+(7) D (0-30); Sangat Kurang
+Pelaksanaan evaluasi AKIP bertujuan untuk:
+a. Mengukur implementasi SAKIP pada Satker dalam mendorong peningkatan pencapaian
+kinerja yang tepat sasaran dan berorientasi hasil.
+b. Menilai tingkat akuntabilitas kinerja Satker.
+c. Memberikan saran perbaikan untuk peningkatan implementasi SAKIP.
+d. Memonitor tindak lanjut rekomendasi hasil evaluasi periode sebelumnya.
+
+Untuk tahun 2024, klaim realisasi nilai AKIP menggunakan nilai yang tertuang Laporan Hasil
+Evaluasi (LHE) Inspektorat Jenderal Kemenlu atas implementasi SAKIP Satker tahun
+sebelumnya (2023).
+
+Informasi Kinerja
+Tabel III.13
+Capaian IKU Nilai evaluasi Akuntabilitas Kinerja Instansi Pemerintah (AKIP) Kawasan
+Amerika I
+
+Indikator Kinerja Utama Informasi Kinerja Jumlah
+Nilai evaluasi Akuntabilitas
+Kinerja Instansi Pemerintah
+(AKIP)Kawasan Amerika I
+Nilai evaluasi AKIP yang
+ditetapkan oleh Inspektorat
+Jenderal, Kemenlu
+   79,80
+Realisasi  79,85
+
+66
+Target   79,80
+Capaian   100,06%
+Batas Toleransi (opsional jika capaian melebihi 120%) 120%
+Sumber: Aplikasi e-Kinerja 2.0/AKSI
+
+Pada tahun 2024, realisasi IKU L1.1 Nilai evaluasi Akuntabilitas Kinerja Instansi Pemerintah
+(AKIP) Kawasan Amerika I adalah sebesar 79,85 atau masuk dalam kategori sangat baik.
+
+Perbandingan Kinerja
+
+ Tabel III.14
+Nilai evaluasi Akuntabilitas Kinerja Instansi Pemerintah (AKIP) Kawasan Amerika I
+
+IKU  2020 2021 2022 2023 2024
+L1.1 T R C T R C T R C T R C T R C
+78% 77,8
+%
+99,
+74
+%
+78
+%
+78,1
+4%
+100,
+18%
+100
+%
+99,1
+6%
+99,1
+6%
+79,5
+0%
+79,5
+%
+100,
+0%
+79,8% 79,85
+%
+100,6
+%
+
+Dalam periode 2020 -2024 realisasi IKU L1.1 Nilai evaluasi Akuntabilitas Kinerja Instansi
+Pemerintah (AKIP) Kawasan Amerika I mengalami konsistensi dalam capaiannya.
+
+Analisis Penyebab Keberhasilan Pencapaian IKU
+Analisis penyebab keberhasilan pencapaian IKU L 1.1. adalah:
+1. Kerja sama yang baik dan sinergis di antara para staf di Direktorat Amerika I.
+2. Tingkat kedisiplinan yang tinggi dalam melaksanakan tugas dan fungsi masing -
+masing.
+3. Kepemimpinan yang kuat dan memiliki komitmen dalam memastikan keberhasil an
+implementasi AKIP.
+
+Kendala dan Tantangan
+Kendala dan tantangan yang dihadapi dalam mencapai IKU L 1.1 adalah:
+1. Terbatasnya jumlah sumber daya manusia, anggaran, serta fasilitas pendukung
+lainnya yang menghambat unit kerja dalam melaksanakan program da n kegiatan
+sesuai dengan standar yang ditetapkan.
+2. Kurangnya sosialisasi mengenai kebijakan akuntabilitas kepada seluruh unit kerja.
+3. Adanya ketidaksesuaian antara beberapa peraturan perundang -undangan di bidang
+akuntabilitas kinerja.
+
+Upaya Perbaikan
+Upaya perbaikan yang dapat dilaksanakan, yaitu:
+1. Menyusun dan mendorong pembuatan peraturan perundang -undangan terkait
+akuntabilitas kinerja.
+2. Melakukan sosialisasi serta memberikan bimbingan teknis kepada unit kerja mengenai
+penerapan AKIP, guna meningkatkan kualitas dan memperkuat implementasi AKIP.
+
+67
+3. Melaksanakan evaluasi AKIP dengan tujuan untuk menilai kualitas implementasi
+AKIP, mengevaluasi kinerja instansi pemerintah, dan mendorong perbaikan dalam
+pelaksanaan AKIP.
+
+Analisis Program Pendukung Capaian
+Analisis program pendukung capaian IKU L 1.1, yaitu:
+1. Kegiatan sosialisasi sekaligus bimbingan teknis terhadap pencapaian dan penerapan
+AKIP kepada unit kerja.
+2. Kegiatan evaluasi AKIP dengan tujuan menilai kualitas implementasi AKIP dan menilai
+kinerja instansi pemerintah serta mendorong perbaikan kualitas implementasi AKIP.
+3. Menyusun perencanaan kinerja tahunan
+4. Menyusun Laporan Kinerja.
+5. Menyelenggarakan dialog kinerja secara berkala.
+
+Proyeksi Kedepan
+Proyeksi ke depan dalam rangka mencapai IKU L1.1., yaitu:
+1. Penguatan sumber daya: melakukan evaluasi terhadap kebutuhan sumber daya,
+termasuk alokasi anggaran dan kebutuhan tenaga kerja, untuk memastikan
+ketersediaan sumber daya yang cukup dalam mendukung pelaksanaan program dan
+kegiatan.
+2. Peningkatan pemah aman staf: melaksanakan pelatihan dan pengembangan untuk
+memperdalam pemahaman pegawai mengenai pentingnya evaluasi AKIP serta
+meningkatkan keterampilan dalam menyusun laporan kinerja.
+3. Pelaksanaan kegiatan yang mendukung pencapaian AKIP secara rutin.
+
+
+III.2 Realisasi Anggaran
+
+Pagu anggaran Direktorat Amerika I pada tahun 2024 berdasarkan DIPA Dit. Amerika I TA
+2024 adalah sebesar
+
+
+Pemanfaatan anggaran pada tahun 2024 adalah sebesar 98,29%. Realisasi tersebut
+menurun dari serapan tahun 2023 yakni sebesar 100%, antara lain disebabkan adanya
+perubahan kebijakan atau prioritas program yang menyebabkan adanya penyesuaian
+anggaran dan ham batan administratif seperti persetujuan pemanfaatan anggaran.
+keterbatasan sumber daya manusia pada Direktorat Amerika I juga mengurangi kemampuan
+untuk memanfaatkan anggaran yang tersedia.
+
+III.3 Analisis Efisiensi Penggunaan Sumber Daya
+
+Pada tahun 202 4, Direktorat Amerika I memiliki 9 (sembilan) Indikator Kinerja Utama yang
+berhasil mencapai dicapai untuk mendukung pelaksanaan berbagai program dengan metode
+pengelolaan kinerja berbasis anggaran. Secara umum, capaian kinerja Direktorat Amerika I
+adalah 106,32 dengan Nilai Kinerja Anggaran (NKA) 98,29%, dengan rincian sebagai berikut:
+
+No. Program Alokasi
+(Rp)
+Realisasi
+(Rp) Persentase
+1. Menyelenggaran/
+menghadiri forum
+bilateral/sidang
+komisi bersama
+  100%
+
+68
+2. Menyiapkan dan
+memfasilitasi
+saling kunjung
+kepala
+Negara/Pemerinta
+h/Pejabat Tinggi
+  100%
+3. Menganalisa Data
+Market
+Intelligence
+  89,04%
+
+4. Menyelenggaraka
+n Promosi dan
+Diplomasi
+Ekonomi
+  100%
+5. Menyelenggaraka
+n sosialisasi
+kebijakan dan
+pemantauan hasil
+kerja sama
+  96,45%
+Total   98,29%
+Catatan: Data realisasi anggaran menggunakan data monitoring per KRO di aplikasi SMART
+yang ditarik per tanggal 8 Januari 2024.
+
+Analisis Efisiensi Sumber Daya Manusia
+Sesuai dengan Peta Jabatan pada Direktorat Amerika I, terdapat total 39 posisi yang terd iri
+atas Direktur, 1 Diplomat Utama, 8 Diplomat Madya, 12 Diplomat Muda, 8 Diplomat Pertama,
+1 Kepala Sub Bagian Tata Usaha, dan 8 Pegawai Administratif. Dengan peta jabatan tersebut
+baru terisi 23 orang dengan rincian Direktur, 8 Diplomat Madya, 3 Diplomat Muda, 7 Diplomat
+Pertama, 1 Arsiparis Muda dan 1 Arsiparis Pertama dengan 1 Diplomat Muda dan 1 Diplomat
+Pertama yang berstatus tugas belajar.
+Berdasarkan peta jabatan dan status bezetting tersebut diatas, terdapat beberapa hal yang
+dapat dilakukan untuk meningkatkan efisiensi Sumber Daya Manusia pada Diretorat Amerika
+I, antara lain:
+●   Peningkatan Rekrutmen:  Direktorat Amerika I perlu segera mengisi posisi -posisi
+yang kosong, terutama di level Diplomatik Muda dan administratif, untuk mengoptimalkan
+kinerja dan mendukung efektivitas organisasi. Rekrutmen bisa difokuskan pada pengisian
+jabatan yang sangat kekurangan, seperti Diplomat Muda.
+●   Optimalisasi Tugas Belajar: Untuk diplomat yang sedang dalam tugas belajar, perlu
+dipastikan bahwa ada rencana pe ngganti sementara atau pembagian tugas yang jelas
+agar tidak terjadi kelambanan dalam pelaksanaan pekerjaan.
+●   Peningkatan Kualitas Sumber Daya Manusia: Mengingat beberapa posisi kosong,
+ada peluang untuk melakukan pelatihan atau pengembangan staf agar mereka siap
+mengisi posisi-posisi yang lebih tinggi di masa depan.
+
+69
+●   Peningkatan Kinerja Administratif:  Tugas administratif sangat penting untuk
+kelancaran operasional. Oleh karena itu, Direktorat Amerika I sebaiknya memastikan
+bahwa posisi administratif terisi penuh, dengan mempertimbangkan peran Arsiparis dan
+staf pendukung lainnya.
+Dengan mempertimbangkan analisis di atas, Direktorat Amerika I harus segera mengatasi
+kekurangan sumber daya manusia untuk memastikan bahwa tugas -tugas diplomatik dan
+administratif dapat berjalan dengan lancar dan efektif.
+Sarana dan Prasarana yang Mendukung
+Pada tahun 2024, Dit. Amerika I mendapatkan 4 perangkat komputer baru. Namun demikian,
+kapasitas komputer yang tersedia pada Dit. Amerika I dinilai tidak memadai karena beberapa
+sudah berusia lebih dari 5 tahun, kapasitas memori kecil, tidak didukung dengan perangkat
+software seperti anti virus, wifi, dan lain sebagainya.
+Proses renovasi pada DIrektorat Amerika I menyebabkan seluruh staf Dit. Amerika I harus
+berkantor di Gedung Caraka Loka dengan fasilitas seadanya. Kurangnya ketersediaan
+koneksi internet yang cepat dan stabil sangat penting, terutama dalam lingkungan kerja yang
+semakin bergantung pada teknologi digital. Selain itu, tata letak ruang kerja yang baik dapat
+meningkatkan alur kerja dan memudahkan koordinasi antar pegawai. Area kerja yang
+terorganisir dengan baik dan memiliki cukup ruang untuk pergerakan serta interaksi antar tim
+akan mendukung komunikasi yang efektif.
+Fasilitas seperti printer, scanner, dan mesin fotokopi yang mudah diakses, serta ruang rapat
+dengan peralatan presentasi yang dapat mendukung kegiata n operasional kantor juga tidak
+tersedia dengan baik.
+Hal-hal yang dapat direkomendasikan untuk peningkatan sarana dan prasarana pada Dit.
+Amerika I antara lain:
+Pembaruan Perangkat Teknologi:  Kantor perlu secara berkala memperbarui perangkat
+keras dan per angkat lunak untuk memastikan efisiensi kerja yang optimal. Investasi dalam
+perangkat yang lebih cepat dan aman akan meningkatkan produktivitas.
+Pemeliharaan Infrastruktur Kantor:  Menjaga kebersihan, kenyamanan, dan keamanan
+ruang kerja dengan pemeliharaan  rutin gedung dan fasilitas pendukung lainnya sangat
+penting.
+Penyediaan Fasilitas Tambahan: Menambah fasilitas seperti ruang istirahat, ruang makan,
+dan area rekreasi dapat mendukung kesejahteraan pegawai dan meningkatkan kepuasan
+kerja.
+
+70
+
+71
+IV. Penutup
+
+IV.1 Simpulan Umum Capaian Kinerja
+
+Beberapa capaian utama/ highlight secara singkat Direktorat Amerika I, di antaranya
+kunjungan Presiden RI ke AS bulan November 2024, peringatan 75 tahun hubungan bilateral
+Indonesia-Amerika Serikat sepanjang tahun 2024, penyelenggaraan Indonesia-Latin America
+region and the Caribbean Islan ds (INALAC) di Peru, penandatanganan kesepakatan
+Concluding Agreement Indonesia -Canada Comprehensive Economic Partnership Agreement
+(CEPA) pada saat kunjungan Misi Dagang Kanada ke Indonesia pada Desember 2024.
+
+Pada tahun 2024 nilai capaian kinerja Kaw asan Direktorat Amerika I sebesar 106,32 yang
+didapat dari nilai masing-masing perspektif, dengan rincian:
+
+Perspektif Bobot Perspektif Skor Perspektif
+Stakeholder Perspective 25% 109,70
+Customer Perspective 15% 100
+Internal Business Process
+Perspective 30% 113,32
+Learning and Growth
+Perspective 30% 99,67
+Total NCKO 106,32
+
+Berdasarkan Kepmenlu No. 07/B/RO/I/2023/01 Tahun 2023 dan memperhatikan capaian
+tersebut, nilai capaian kinerja Kawasan Direktorat Amerika I mendapatkan predikat Istimewa.
+
+IV.2 Kendala dan Tantangan
+
+Selama tahun 2024, Kawasan Direktorat Amerika I menghadapi sejumlah kendala dan
+tantangan dalam menghadapi target kinerja. Kendala ini mencerminkan dinamika yang
+kompleks di tingkat global, regional, dan domestik, sehingga membutuhkan strategi diplomasi
+yang adaptif dan proaktif. Kendala utama yang dihadapi adalah sebagai berikut, yaitu:
+
+1. Geopolitik Global:
+Ketegangan geopolitik seperti perang Rusia-Ukraina, situasi konflik di Timur Tengah, dan
+rivalitas antara AS dan Tiongkok terus menciptakan ketidakpastian global. Ketegangan ini
+tidak hanya memengaruh i stabilitas rantai pasok global tetapi juga berdampak pada
+perdagangan dan investasi lintas negara. Kawasan Amerika I pun tidak terlepas dari
+dampak ini, mengingat keterkaitan kawasan dengan ekonomi global, terutama dalam hal
+sumber daya energi, pangan, dan teknologi.
+
+2. Ekonomi Global:
+Perlambatan pertumbuhan ekonomi global serta tingginya tingkat inflasi menjadi tantangan
+besar bagi peningkatan perdagangan dan investasi. Kondisi ini memengaruhi daya beli
+masyarakat di kawasan Amerika I, termasuk negara-negara mitra strategis seperti AS,
+Kanada, dan Meksiko. Selain itu, volatilitas nilai tukar dan suku bunga yang tinggi
+menambah kompleksitas dalam menjalin kerja sama ekonomi bilateral.
+
+72
+3. Regulasi dan Birokrasi:
+Kompleksitas regulasi domestik di negara-negara mitra, termasuk persyaratan legal yang
+berbeda-beda, memperlambat proses negosiasi diplomasi ekonomi. Birokrasi yang
+berlapis juga sering kali menjadi penghambat dalam memfasilitasi kesepakatan yang lebih
+cepat dan efisien
+
+4. Perubahan Kebijakan Perdagangan Global:
+Meningkatnya kebijakan proteksionisme di beberapa negara mitra utama serta perubahan
+dalam struktur perjanjian perdagangan global menciptakan hambatan baru bagi ekspor
+produk Indonesia.
+.
+5. Infrastruktur dan Logistik:
+Keterbatasan infrastruktur di beberapa negara mitra non -tradisional, seperti di kawasan
+Amerika Tengah, serta tingginya biaya logistik menjadi tantangan signifikan dalam
+meningkatkan daya saing produk Indonesia.
+
+6. Teknologi dan Lingkungan:
+Pesatnya perkembangan teknologi baru di kawasan Amerika I menciptakan tantangan bagi
+Indonesia untuk menyesuaikan diri dengan tren global. Selain itu, tuntutan terhadap
+keberlanjutan, seperti komitmen terhadap mitigasi perubahan iklim dan ekonomi hijau,
+menambah dimensi baru dalam negosiasi kerja sama ekonomi.
+
+7. Dinamika Pemilu dan transisi pemerintahan
+Tahun 2024 yang merupakan tahun politik bagi Indonesia, AS, dan Meksiko menciptakan
+ketidakpastian sementara di bidang politik dan ekonomi. Transisi pemerintahan dan
+perubahan prioritas kebijakan  di negara -negara ini turut memengaruhi keberlanjutan
+program kerja sama yang sedang berjalan.
+
+
+IV.3 Proyeksi Kedepan
+1. Dukungan terhadap Program -Program Asta Cita Presiden dan Wakil Presiden
+2024-2029
+Direktorat Amerika I akan memprioritaskan dukungan terhadap program Asta Cita
+Presiden dan Wakil Presiden RI 2024 - 2029, selaras dengan prioritas diplomasi 4+2
+Kementerian Luar Negeri, yang meliputi isu-isu utama seperti:
+● Makan Bergizi Gratis: Sebagai bag ian dari dukungan terhadap program
+prioritas nasional, Direktorat Amerika I akan memanfaatkan diplomasi ekonomi
+untuk mendukung penyediaan bahan pangan yang berkualitas tinggi dan
+terjangkau bagi implementasi program Makan Bergizi Gratis serta
+memfasilitasi pemangku kepentingan dalam negeri dalam mendapatkan best
+practices penyediaan dan distribusi makan bergizi dari negara-negara mitra
+● Ketahanan Pangan: Direktorat Amerika I akan fokus memperkuat kerja sama
+di sektor pertanian dengan negara mitra di kawasan Amerika I,. bertujuan untuk
+mendukung transfer teknologi pertanian, diversifikasi sumber bahan pangan
+strategis, dan distribusi pangan yang lebih optimal. Langkah ini diharapkan
+dapat memperkuat ketahanan pangan nasional sekaligus mengurangi
+ketergantungan pada pasar tertentu.
+● Ketahanan Energi : meningkatkan kolaborasi dalam pengembangan energi
+terbarukan, termasuk kerja sama teknologi energi terbarukan seperti Small
+Modular Reactor dan Carbon Capture Storage dengan negara-negara seperti
+AS dan Kanada, yang  dikenal sebagai pemimpin dalam inovasi energi hijau.
+Selain itu diplomasi juga difokuskan pada upaya mendapatkan pasokan
+minyak dari negara-negara mitra
+
+73
+● Hiirisasi: Mengawal program promosi investasi dan kerja sama strategis
+dengan mitra utama dalam menduk ung hilirisasi industri, termasuk di sektor
+pertambangan dan manufaktur, guna meningkatkan nilai tambah ekspor
+Indonesia. Hal ini mencakup diplomasi aktif dalam mendorong minat investasi
+asing pada pengembangan rantai pasok produk turunan mineral kritis di
+Indonesia.
+● Pertahanan dan Keamanan: Memanfaatkan platform kerja sama dan dialog
+bilateral pertahanan keamanan baik yang existing maupun akan diinisasi
+dengan negara -negara mitra untuk memperkuat kapasitas pertahanan
+keamanan Indonesia.
+● Ancaman Disintegras i: Direktorat Amerika I akan terus menjalankan
+diplomasi budaya dan people to people contact untuk mempromosikan narasi
+positif keberagaman dan persatuan nasional, khususnya melalui kolaborasi
+dengan komunitas diaspora di negara akreditasi
+
+2. Peningkatan Diplomasi Ekonomi:
+Direktorat Amerika I bermaksud untuk melanjutkan upaya peningkatan nilai
+perdagangan dan investasi melalui intensifikasi misi bisnis dan promosi dagang.
+Langkah strategis ini termasuk memperluas cakupan negara tujuan, terutama mitra
+non-tradisional seperti Panama, Kosta Rika, Honduras, Belize, El Salvador, dan
+Nikaragua
+
+3. Implementasi Perjanjian
+Direktorat Amerika I perlu mengawal tindak lanjut implementasi penuh dari sejumlah
+perjanjian bilateral yang disepakati pada tahun 2024, termasuk sejumlah kesepakatan
+utama seperti Indonesia - Canada CEPA dan kerangka kerja Indo-Pacific Economic
+Framework (IPEF). Langkah -langkah konkret mencakup pembentukan mekanisme
+pemantauan implementasi dan dialog reguler dengan mitra.
+
+4. Penguatan Hubungan Bilateral
+Dengan dinamika geopolitik global yang terus berubah serta adanya transisi
+pemerintahan di sejumlah negara  mitra, Direktorat Amerika akan mengoptimalkan
+peluang kerja sama dengan negara -negara mitra, terutama di sektor -sektor yang
+menjadi prioritas bersama.

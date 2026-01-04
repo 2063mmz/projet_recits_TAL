@@ -1,0 +1,86 @@
+seed_url: https://www.ifa.gov.et/2025/11/13/understanding-ethiopias-quest-to-sea-access-the-strategic-cost-of-being-landlocked/
+final_url: https://www.ifa.gov.et/2025/11/13/understanding-ethiopias-quest-to-sea-access-the-strategic-cost-of-being-landlocked/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚’𝐬 𝐋𝐨𝐧𝐠 𝐌𝐚𝐫𝐜𝐡 𝐭𝐨 𝐭𝐡𝐞 𝐒𝐞𝐚: 𝐑𝐞𝐤𝐢𝐧𝐝𝐥𝐢𝐧𝐠 𝐚 𝐋𝐨𝐬𝐭 𝐌𝐚𝐫𝐢𝐭𝐢𝐦𝐞 𝐃𝐞𝐬𝐭𝐢𝐧𝐲
+date: Nov 13, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+This excerpt is an extension of an article published on IFA’s
+website
+in April. The previous article provided a general introduction to Ethiopia’s recent quest for sea access and the mechanisms it intends to employ to achieve this goal. However, it did not explore in-depth the strategic costs it endured being landlocked for the past four decades, despite its geographic proximity to one of the busiest maritime routes in the world, the Red Sea. This policy brief, therefore, assesses what Ethiopia has lost due to its landlocked status from a variety of angles. By examining these issues, one can better understand Ethiopia’s recent intentions to sea access in the Red Sea region while keeping intact the interests of its littoral neighbors.
+Summary of Key Points
+Ethiopia’s lack of sea access reduced its trade efficiency, incurs high transportation costs, limited or lower foreign direct investment, high rate of unemployment, and a 20-30% reduced economic growth compared to its littoral neighbors.
+Keeping other factors constant, the transit costs for goods that Ethiopia pays to transit port have increased from USD 500,000 per day in the early 2000s to USD 2 million in 2013, and recently to USD 5 million per day.
+As a regional security anchor in the Horn of Africa and the eastern half of the Southern Red Sea gate, Ethiopia’s role in regional security has been hindered by its lack of direct access to the sea.
+Economic Development Perspectives
+For a secure economic future, states engage in
+economic exchanges
+, often through trade with other nations(Lie, 2017; Oh, 2017). This exchange is facilitated by the export and import of goods and services to and from the international market. Ports play a significant role in facilitating these international trade transactions. One
+major determinant
+of economic development, therefore, is access to the sea. Access to the sea enhances trade efficiency, reduces transportation costs (both to and from the ports and the mainland), attracts foreign direct investment (FDI) due to geographic advantages, creates additional jobs, and stimulates economic growth. Therefore, direct access to the sea is considered a crucial engine for a nation’s economic development.
+Studies show that a 10% increase in port efficiency results in a
+2-3% increase
+in a country’s Gross Domestic Product (GDP) per year. The United Nations Conference on Trade and Development (UNCTAD) has also highlighted that landlocked countries, depending on their distance from the sea, experience an
+average of 20-30%
+lower economic development compared to those with coastal access. The farther a country is from the coast, the lower its economic development tends to be, primarily because a significant portion of its revenues is spent on transit costs – payable to those providing access. As the largest landlocked country with one of the fastest-growing economies in the world (IMF, 2024), Ethiopia is potentially losing 20-30% of its economic growth each year compared to the global average. Furthermore, when compared to its coastal neighbors, Ethiopia shows a
+43% lower annual
+economic growth rate. This disparity is largely attributable to the high transaction costs it incurs when relying on transit states in the Horn of Africa. Specifically, the transit costs Ethiopia currently pays to Djibouti Port for a 20-foot or 40-foot equivalent container is among the highest in the world.
+In the same vein, the exports of landlocked countries tend to be
+less diversified
+, and their export structures are generally narrower compared to those of coastal states. This results in significantly lower and more expensive international trade. For example, transportation costs from Djibouti port to and from Addis Ababa
+consume 16% of the value
+of goods on the international market. Keeping other factors constant, Ethiopia’s transit costs to the Djibouti port rose from half a million USD per day in the early
+2000s to two million
+in 2013 and have now surpassed
+five million
+USD per day.
+Similarly, landlocked countries face increased
+vulnerability to external shocks
+that can undermine their prospects for sustained economic development. Much of their exports consist of primary products, such as agricultural goods, which are often seasonal and depend on favorable weather conditions. This leads to inconsistencies in their supply to external markets, and they sometimes experience low prices. Additionally, since their import-export activities rely on transit through other states, landlocked countries are often
+forced to prioritize
+certain items. The cost of diversifying their trade is more than twice that of transit countries.
+The import-export diversification costs for non-littoral states is
+50% higher
+than those of their counterparts. This is particularly severe for states that rely solely on one transit access point – impose additional costs whenever they needed. More importantly, their remoteness from the sea hampers the competitiveness of their firms and products in the global market. Although Ethiopia is a State without Access (SWA), it is not an enclave, which allows for the possibility of diversifying its transit access points by negotiating with coastal states. However, for decades, over 90% of Ethiopia’s import-export volume has depended exclusively on one transit access point, the Djibouti port. As a result, its import-export volume is less diversified, incurring substantial transit costs and suffering from poor service quality. Therefore, diversifying access to the sea could help mitigate transit-related costs and enhance competitiveness, ultimately increasing import-export volumes and contributing to sustained economic growth and development. Recently, there has been an initiative to import-export of a few non-containerized items through Berbera and Tadjourah. This initiative should be expanded to include other similar ports in the Horn of Africa by building corridors and trade connectivity, providing Ethiopia with the opportunity to diversify both its import-export items and access points.
+Strategic Security Perspectives
+Ethiopia is located in the Horn of Africa (HoA), a region that is both one of the
+most strategic
+locations on Earth and one of the most conflict-ridden. As a result, Ethiopia is
+highly vulnerable
+to increasing national and regional security threats. These threats are dynamic and rapidly evolving. To effectively address these growing security concerns, access to the sea is crucial, as naval and military facilities can serve as
+docking points
+and launching pads to combat issues such as organized piracy, arms trafficking, and terrorism.
+In light of the complex and ambiguous maritime threats in the Red Sea region, a comprehensive counterstrategy is necessary, emphasizing access to maritime domains. Ethiopia’s role as a regional security anchor in the Horn of Africa and the eastern part of the southern Red Sea is hindered by its lack of direct sea access. Establishing transit access would not only reduce vulnerability to regional and national security threats but also
+enhance the state’s ability
+to respond to various threats through land, air, and naval means. Being landlocked and reliant on a single transit point provided by a neighboring country has exposed Ethiopia to multiple challenges, including terrorism, piracy, cross-border crime, and espionage.
+Given the transnational nature of security threats and the fragile state of countries in the Horn of Africa, along with the proliferation of threats in the region, it is crucial for Ethiopia to secure direct sea access and maintain a
+naval and military presence
+along the Red Sea coasts. This strategy enhances Ethiopia’s maritime interests and secures its borders. Some studies suggest that certain African states became landlocked
+due to colonialism
+, which involved the drawing of artificial borders that caused them to lose their former sea access. As a result, these states may be reluctant to provide access to their landlocked neighbors, even at contractual basis, driven by unfounded suspicions that their neighbors may claim permanent access based on historical or ancestral narratives while they are wide open for foreign naval basis and military facilities.
+As a regional anchor in the Horn of Africa, Ethiopia possesses modern and versatile
+military power
+that could significantly enhance both regional and national security if granted direct sea access. Following the Ethiopia-Eritrean rapprochement in mid-2018, for instance, geopolitical and security analysts noted a
+new wave of hope
+in the Horn of Africa. This positive shift also led to negotiations regarding the Eritrea-Djibouti conflict and the signing of a tripartite
+peace and friendship
+agreement among Ethiopia, Eritrea, and Somalia. Although these developments were short-lived, they contributed to an improved regional peace and security landscape. Consequently, Ethiopia’s direct access to maritime routes in the Red Sea not only mitigates national security vulnerabilities but also bolsters regional security cooperation.
+Regional Security Perspectives
+On the other hand, sea access enhances a state’s geopolitical and regional influence, allowing it to play a more prominent role in regional affairs and to establish stronger ties with its neighbors. As a civilizational state in the region, Ethiopia has been significantly involved in regional affairs. It helped establish various regional mechanisms including the Intergovernmental Authority for Development (IGAD) and its functional agencies, to facilitate regional economic integration and security cooperation. The region’s peace and security heavily depend on
+Ethiopia’s unwavering
+contribution to regional peacekeeping. Additionally, Ethiopia is a founding member of the
+Djibouti Code of Conduct
+, signed by Red Sea member states to combat piracy and armed robbery against ships in the Red Sea, Gulf of Aden, and Indian Ocean. It has also played significant roles in the fight against terrorism in the horn of Africa. However, Ethiopia was excluded from the recently established Red Sea Council due to narrow criterion of lacking direct sea access. Gaining sea access could have strengthened Ethiopia’s efforts toward regional integration and security, positioning it as a hegemon capable of summoning others in the region. Unfortunately, its lack of sea access has contributed to weak regional integration and diminished regional security, hindering Ethiopia’s role and influence in both regional and global affairs.
+Concluding Remarks
+Sea access is a critical engine for a nation’s long-term development because it facilitates trade transactions, lowers import-export transit costs, limits strategic security vulnerabilities, and strengthens regional security integration and cooperation. In contrast, landlocked countries frequently face significant challenges, such as high transit costs and limited trade transactions. Their lack of naval and military presence along coastlines makes them vulnerable to increasing national and regional security threats, restricting their maneuverability, detection, and response capabilities.
+Ethiopia, despite its historical ties to the Red Sea, has faced limited economic development due to its recent landlocked status, resulting in economic unrest and increased vulnerability to escalating national and regional security threats. The recent push for sea access in the Red Sea region is a response to these growing vulnerabilities. However, Ethiopia’s efforts have been met with challenges from its littoral neighbors, owing to a misunderstanding of Ethiopia’s genuine intentions to address these economic and security concerns. As a major economic and military power in the region, Ethiopia’s access to the sea may benefit the region more than Ethiopia itself by facilitating trade connectivity and regional security cooperation. Allowing sea access to Ethiopia, therefore, not only helps the country address its national challenges but also enhances regional security in the Red Sea area. Hence, Ethiopia’s sea access should be approached from such perspectives instead of an ambition to evade sovereignty of littoral neighbors.
+About the author
+Amare Kenaw (Ph.D.)
+, Lead researcher, and Middle East Research Affairs Director General, Institute of Foreign Affairs
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA)—including, but not limited to, publications, public statements, events, media appearances, and digital communications—reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms—including, but not limited to, likes, shares, retweets (RTs), or reposts—shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.

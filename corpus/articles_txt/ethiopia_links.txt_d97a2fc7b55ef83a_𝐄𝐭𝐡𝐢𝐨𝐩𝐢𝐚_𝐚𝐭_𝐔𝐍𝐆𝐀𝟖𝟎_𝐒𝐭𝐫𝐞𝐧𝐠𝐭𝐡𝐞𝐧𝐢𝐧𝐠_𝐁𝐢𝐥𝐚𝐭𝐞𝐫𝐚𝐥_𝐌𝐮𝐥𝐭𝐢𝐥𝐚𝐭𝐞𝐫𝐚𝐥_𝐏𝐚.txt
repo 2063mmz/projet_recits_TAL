@@ -1,0 +1,15 @@
+seed_url: https://www.ifa.gov.et/2025/10/10/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%80%F0%9D%9F%96%F0%9D%9F%8E/
+final_url: https://www.ifa.gov.et/2025/10/10/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%80%F0%9D%9F%96%F0%9D%9F%8E/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚 𝐚𝐭 𝐔𝐍𝐆𝐀𝟖𝟎: 𝐒𝐭𝐫𝐞𝐧𝐠𝐭𝐡𝐞𝐧𝐢𝐧𝐠 𝐁𝐢𝐥𝐚𝐭𝐞𝐫𝐚𝐥 & 𝐌𝐮𝐥𝐭𝐢𝐥𝐚𝐭𝐞𝐫𝐚𝐥 𝐏𝐚𝐫𝐭𝐧𝐞𝐫𝐬𝐡𝐢𝐩𝐬
+date: Oct 10, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+On the sidelines of the 80th UN General Assembly in New York,
+H.E. Amb. Hadera Abera Admassu, State Minister of Foreign Affairs of Ethiopia, engaged in a series of high-level meetings and discussions:
+BRICS Foreign Ministers Meeting – He underscored the need for stronger collective action to address global challenges, emphasizing BRICS’ historic responsibility in advancing peace, reforming global institutions, and shaping a fairer, more secure world for the Global South.
+Meetings with Portugal & Germany – He held productive discussions with H.E. Paulo Rangel, Foreign Minister of Portugal, and H.E. Dr. Bernhard Kotsch, State Secretary of Germany, focusing on deepening longstanding ties, expanding economic cooperation, and supporting UN reform efforts.
+Meetings with Sudan & Burundi – He met with H.E. Muhi al-Din Salem Ahmed, Foreign Minister of Sudan, and H.E. Édouard Bizimana, Foreign Minister of Burundi, to strengthen bilateral relations and advance dialogue on shared regional priorities.
+Through these engagements, Ethiopia reaffirmed its commitment to multilateralism, regional cooperation, and building stronger partnerships for peace and development.

@@ -1,0 +1,87 @@
+seed_url: http://government.ru/en/news/42/
+final_url: http://government.ru/en/news/42/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting on the development of Moscow's transport hub
+11 January 2013
+15:00
+Transcript of the beginning of the meeting:
+Dmitry Medvedev:
+So let’s return to the development of Moscow’s transport hub.
+Today we meet to follow up on
+the previous meeting
+which took place not long ago. On that occasion, we discussed the need to revise Russia’s Transport Strategy until 2030 and update the development programme for the Moscow Region’s transport hub until 2020. The situation remains strained: more funding is needed, including Government and private investment. We also need consistent cooperative efforts on the part of the federal ministry and the regional and municipal authorities, as well as the carrier companies. Finally we need modern approaches to regulating transport flows.
+Modernising Moscow’s railway hub remains a priority. I am referring to the organisation of passenger service along the so-called Smaller Moscow Belt Railway (SMBR) and moving freight farms, as well as approach lines away from the city centre. On December 30, the Government approved a state programme Development of the Transport System until 2020. Under that programme, it is planned to allocate 17.5 billion roubles annually from 2015-2020 for railway infrastructure development in the Moscow Region. In the next few years, Russian Railways and the Moscow Government plan to modernise five radial railways directions in Moscow: the Yaroslavskoye, Gorkovskoye, Kurskoye, Kazanskoye and Savyolovskoye lines.
+In 2013, the federal Government will also provide additional subsidies to Moscow from federal budgets to co-finance transport infrastructure projects.
+Nearly 12 billion roubles in total will be allocated, which will be used to build multilevel interchanges and overhead roads where motorways cross with railway lines.
+A few more words about the importance of regulating traffic. The Moscow Government has adopted a decision for gradually rerouting cargo vehicles from the Moscow Ring Road. It is a challenging task, and we will clearly need to build modern logistic hubs and special parking lots at the same time. The federal agencies have not been up to scratch on this score so far, and the same is also true about the situation in the Moscow Region. All of us are lagging behind in this and we should get moving faster. The project to build the Central Ring Road has been postponed several times; we were supposed to launch it in 2011, but as things stand at the moment, we are only just preparing for it in some areas. We need to catch up.
+Special parking lots must also be built everywhere, but most of all in the Moscow Region. I hope that the efforts to redistribute freight traffic towards the Moscow Region will be accelerated. The regional system of organising interurban bus routes will produce a positive result, streamlining bus stops and routes, especially in areas near terminals and stations.
+I believe that these are the issues which we can discuss in brief today. Mr Sokolov,
+(Maxim Sokolov, Minister of Transport)
+, you may go ahead.
+Maxim Sokolov:
+Mr Prime Minister, colleagues. The Moscow Transport Hub is important not only for the two federal entities [where it is based] – Moscow and the Moscow Region, but also the country as a whole. During our meeting on September 19 last year, we discussed how this hub was working, and you
+instructed
+us to expand it or to enhance its efficiency. We sought to carry out these instructions and we have held two coordinating council meetings, attended by Moscow Mayor Sergei Sobyanin and Acting Governor of the Moscow Region Andrei Vorobyov. There we analysed the further efforts taken towards this goal and the measures to develop the Moscow Transport Hub.
+As regards the transport elements of this, total allocations on the development of the commuter train system have been approved at some 236 billion roubles, including some 53 billion roubles to be provided from the federal budget, 47.5 billion from the Moscow City budget and about 44 billion roubles by Russian Railways. We had a financing shortfall of 97 billion roubles. However, we found sources of financing and eliminated this shortfall using instruments of budget planning ­– the approved budget for 2013, 2014 and 2015, as well as the state programme you approved in late December 2013.
+Dmitry Medvedev:
+So there is no deficit now?
+Maxim Sokolov:
+There is no deficit now. Also, in order to implement the decisions taken at that meeting, last year we immediately allocated 43.25 billion roubles to finance the rail sector’s development – namely, the priority projects of Moscow–Novo-Peredelkino, Moscow-Smolensk Station–Usovo, Rabochy Posyolok–Tryokhgorka, and construction of the 4th main railway on the Moscow–Kryukovo section. Last year, using the funding accumulated for 2013 and 2014, we promptly allocated 25 billion roubles in addition to the annual planned amount of 17 billion. This will help Russian Railways speed up work and…
+Dmitry Medvedev:
+So, as I understand, the sum total is 17 billion plus 25 billion, right?
+Maxim Sokolov:
+17.6 billion roubles were planned in 2012. An additional 25 billion roubles were forwarded through adjusting the 2013 and 2014 budgets. Regarding rail infrastructure development, since the meeting in September, we have seen that certain areas need further improvement.
+Dmitry Medvedev:
+Which areas?
+Maxim Sokolov:
+These are the projects of Greater Domodedovo and the Russia park (the latter was not discussed at the meeting for obvious reasons), as well as the project providing transport support to Vnukovo Airport, which was completed in late 2012. We planned to allocate 15 billion roubles to improve and facilitate passenger transportation to the airport. But at the meeting, which was held ahead of the opening of Vnukovo’s new terminal, Russian Railways executives and the Moscow Mayor spoke in favour of increasing allocations for this purpose. We are considering these proposals. At the meeting, we did not discuss the projects to build a branch railway line to Sheremetyevo Airport’s northern section. These issues require additional consideration, and we are handling them within the coordination council and within the framework of cooperation with Russian Railways.
+As for the road network, as you have already mentioned, in accordance with the Government’s directive, the subsidies of 15 billion roubles for Moscow and 12 billion roubles for the Moscow Region were allocated. In addition, a list of priority measures to develop the road network in Moscow and the region was developed, with an emphasis on flyover development, as part of activities of the joint working group which was set up by your order together with the Ministry of Economic Development. The amount of 30 billion roubles is yet to be listed in the budget, but the proposals to allocate 12 billion roubles in 2013 and the same amount in 2014, as well as 6 billion roubles in 2015, have already been prepared. The proposal states that this money should be promptly allotted as subsidies for these projects, including over 30% of the sum for the construction of flyovers. In addition, we are paying particular attention to developing linking motorways both in the Moscow Region and Moscow. This will allow for the redistribution of heavy-duty vehicle traffic, which is urgent due to the planned restriction on heavy-duty vehicles on the Moscow Ring Road. It is also necessary to expedite the project of the Central Ring Road construction.
+Speaking of the projects not listed in the state programme to 2020, these include construction of the Central Ring Road’s third section from the M10 motorway to the M7 towards Nizhny Novgorod, which amounts to about 56 billion roubles. We see this financing in the Transport Strategy to 2030, but it is not included in the state programme.
+Dmitry Medvedev:
+So this amount is not envisaged before 2020, right?
+Maxim Sokolov:
+True, it is not included in the budget up to 2020 – at least, in the state programme, which is an instrument for budget planning.
+Another project not envisaged is Noginsk – Balashikha, worth 45 billion roubles.
+As for the plans to restrict traffic, the Moscow Government has developed an action plan for traffic regulation, providing information on road traffic changes, and administrative measures. This is a detailed plan comprising over 30 sections and corresponding measures for each section.
+We are currently working on it. By February, we will analyse all measures stipulated in it at our Coordination Council and the working group that has been created for this purpose. Our Coordination Council will discuss all practical measures in early February as planned in order to dampen any negative impacts of these measures. We understand what we should do and what measures should be implemented in this respect.
+In 2012, almost 29 billion roubles were spent on developing the infrastructure of the Moscow transport hub. This includes the reconstruction of the roads M9 Baltiya, M4 Don, M5 Ural, the Smaller Moscow Ring Road and the M8 Kholmogory. The interchange on the 41
+kilometre of M9 Baltiya has been commissioned. A section of M1 Belarus, between the 33
+and 45
+kilometre, where we held our meeting, has been reconstructed. The Moscow Ring Road – Kashira section of the M4 Don has been reconstructed. The flyover on the Smaller Moscow Ring Road has been reconstructed.
+The Moscow transport hub includes an aviation component. Just a few words on this.
+Dmitry Medvedev
+: We are sitting right inside this component.
+Maxim Sokolov
+: Yes. In 2012, reconstruction work totalling over 9 billion roubles was performed in three major airports. Reconstruction works at Vnukovo Airport cost 3.8 billion roubles; runway 1 and a part of the airport apron were reconstructed… A small part is left due to the transfer of land plots; we will conclude this work in the first half of 2013.
+Dmitry Medvedev
+: Who is transferring what to whom?
+Maksim Sokolov
+: A part of the territory was incorporated in New Moscow, which has caused some delay.
+Dmitry Medvedev
+: That’s a logical delay.
+Maxim Sokolov
+: Yes. Work costing over 1 billion roubles was performed at Domodedovo Airport: reconstruction and construction of taxiways, sewage treatment plants, water intake systems, communication lines, control lines, and other facilities. Work totalling over 4.3 billion roubles was performed at Sheremetyevo Airport: preparing the territory for the construction of a new, third runway and reconstruction of the airport apron at Sheremetyevo 2.
+Currently, with respect to the development strategy for the Moscow transport hub, the working group for the development  of the Moscow aviation hub headed by Deputy Prime Minister Igor Shuvalov conducted a tender and chose a consulting company, Lufthansa and Vegas Lex Consulting, which will determine the guidelines for the future development of the Moscow aviation hub in the first quarter of 2013; this will help us develop the best haulage pattern, which will become a strategic foundation for planning future measures for the development of airport infrastructure. They have also worked on the possibility of linking or integrating the airport in the Kaluga Region.
+Dmitry Medvedev:
+I visited the Kaluga Region a while ago. The governor made several proposals in an effort to play a more active role in discussions of the development of the Moscow transport hub.
+Maxim Sokolov:
+In December, I spoke several times with Kaluga Region Governor Anatoly Artamonov. We discussed these issues and we are close to signing an agreement on developing joint railway infrastructure. We will intensify our work in this area.
+In 2012, a total of 121 billion roubles in federal funds were spent to develop the facilities of the Moscow transport hub, including almost 29 billion roubles for federal roads, 15 billion roubles in subsidies for Moscow roads, 22 billion roubles to develop the Moscow Region’s roads, over 9 billion roubles for airports, over 43 billion roubles for railroads, and over 2.5 billion roubles to develop the Moscow Canal.
+As for future budgets, in 2013 the federal budget allocations total over 93 billion roubles; we are also planning to spend some 12 billion roubles to develop road facilities and primarily flyovers. In 2014, these funds will amount to 86.5 billion roubles and in 2015, to 88.3 billion roubles. As I said, these funds do not include additional Moscow Region subsidies for the development of road facilities.
+Dmitry Medvedev:
+Indeed this is a huge amount… Will it help? Russia has never spent that much [for roads], particularly in the post-Soviet period – this is just incompatible with any period. And there is still no relief. What’s the reason?
+Maxim Sokolov:
+Mr Medvedev, all these funds are extended to the projects which have not yet reached their logical completion. When these projects are completed and put into operation, linked to other modes of transport, when we have transport interchange hubs, as you rightly said, when we have logistic facilities located not only outside the Moscow Ring Road, but also outside the Central Ring Road, this will produce a synergy effect. I’m sure that within two or three years this investment will have a good effect for all Moscow and Moscow Region residents – not only for those (primarily, transporters) using the Moscow transportation hub as a transit corridor.
+Dmitry Medvedev:
+Our target is not spending these funds, but to considerably improve the operation of the Moscow transportation hub. Above all, we want people to really feel the improvement. Let’s proceed to the discussion.
+<…>
+Government of the Russian Federation
+http://government.ru/en/news/42/
+Highlight selection

@@ -1,0 +1,47 @@
+seed_url: https://www.ifa.gov.et/2025/12/18/ethiopias-pretoria-agreement-ending-the-war-struggling-for-peace/
+final_url: https://www.ifa.gov.et/2025/12/18/ethiopias-pretoria-agreement-ending-the-war-struggling-for-peace/
+title: Ethiopia’s Pretoria Agreement: Ending the War, Struggling for Peace
+date: Dec 18, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+This excerpt is from an opinion piece written by
+Getachew Reda, the
+Minister Advisor for East African Affairs
+to Ethiopian Prime Minister Abiy Ahmed, having previously served as the
+Chief Administrator of the Tigray Interim Regional Administration
+and as an Executive Committee member and spokesperson for the
+Tigray People’s Liberation Front (TPLF)
+Summary
+The Pretoria Agreement marked a historic turning point in Ethiopia’s most devastating recent conflict by halting the war in Tigray. Yet, as Getachew Reda argues, while diplomacy succeeded in stopping the fighting, politics has since imperilled the peace. His account challenges simplified narratives of the agreement, pushing back against critics who treat Pretoria less as a ceasefire framework and more as a tool in internal political battles.
+Getachew situates the controversy surrounding Pretoria peace accord within the deep trauma left by the war. The conflict, he notes, “left so much grief, anger and unfinished business that any public discussion is bound to reopen wounds.” Reactions to his public defense of the agreement, including following his recent appearance on
+Al Jazeera’s Head to Head
+, revealed that debates were often less about his statements than about competing political agendas seeking to redefine what Pretoria should represent.
+At the heart of the problem, Getachew argues, is a selective reading of the agreement. Political actors invoke Pretoria when it suits their interests and ignore it when it does not, turning it into “a weapon in internal disputes rather than treated as a framework to stabilise a shattered region.” Although the agreement ended the war three years ago, peace remains fragile because its implementation has been undermined by power struggles rather than principled disagreements over peace itself.
+A ceasefire born of necessity
+Getachew stresses that Pretoria must be understood in the context of the dire circumstances under which it was signed. The Tigrayan delegation arrived in Pretoria with a clear mandate from the Central Command: stop the war, virtually without preconditions. This instruction reflected a stark reality that prolonging the conflict would risk “political annihilation, more civilian deaths and a threat to Tigray’s autonomy.”
+The delegation did not come to bargain over long-term political arrangements. Instead, it focused narrowly on ending active hostilities. Sensitive issues such as Western Tigray, Raya, and the sequencing of federal troop withdrawals were deliberately kept out of the opening phase, not because they were unimportant, but because pushing them could have caused the talks to collapse. As Getachew underscores, “Ending active hostilities and constructing a political order are different tasks.”
+Internal communications during the negotiations reveal the urgency and fragility of the moment. Getachew recalls being instructed bluntly: “Do not return without a deal.” Messages exchanged with Debretsion Gebremichael illustrate the pressure on the delegation, including warnings that Adigrat was “on the verge of falling” and that failure to sign could trigger renewed resistance. Pretoria, he insists, was not a public relations exercise but an attempt to stop a war that Tigray could no longer sustain.
+Near collapse and last-minute rescue
+Contrary to claims that the Tigrayan delegation sought to concede territory, Getachew explains that the most serious threat to the agreement emerged in its final hours from the federal side. An eleventh-hour attempt to insert language limiting the authority of a future Interim Regional Administration over Western Tigray and Raya nearly derailed the talks. For the Tigrayan delegation, this was a “political non-starter” that would have forced them either to concede constitutional claims or walk away.
+The agreement was salvaged only through the intervention of facilitators and decisive involvement by Prime Minister Abiy Ahmed. While this fact may complicate certain political narratives, Getachew emphasizes that it is central to understanding how Pretoria was ultimately signed.
+What Pretoria did—and did not—do
+Getachew is clear that Pretoria was never intended to be a comprehensive political settlement. It was a ceasefire agreement designed to stop the fighting. Its provisions reaffirmed the Ethiopian National Defense Force as the sole national army, outlined a process of disarmament, demobilization and reintegration for Tigray’s forces, and committed the parties to restoring constitutional order in the region.
+The agreement also established a transitional justice framework and reaffirmed that contested territorial issues should be resolved through constitutional mechanisms rather than military force. These elements, he argues, were sufficient to end the war but not to guarantee a stable peace. Pretoria achieved the cessation of hostilities; building a viable political order was always a separate and more complex challenge.
+As he puts it, “The fiercest battles were not over whether Pretoria should exist, but over who would run Tigray under its umbrella.”
+Power struggles and stalled implementation
+The main obstacle to implementation, according to Getachew, was not opposition to peace but an internal struggle over political control during the transition. Competing factions clashed over who would govern Tigray and control the institutions enabled by Pretoria. One side favored pragmatic cooperation with the federal government, recognizing that any interim administration would have to work with the existing federal leadership. Another treated the interim arrangement as a zero-sum contest for political survival.
+As these tensions deepened, Pretoria was reframed as a loyalty test rather than a negotiated outcome shaped by battlefield reality. Even leaders who had pushed forcefully for the agreement later portrayed it as a flawed concession, turning Pretoria into a scapegoat for unresolved internal grievances. This power struggle eroded trust, slowed implementation, and created opportunities for spoilers on all sides.
+Accountability and Eritrea’s absence
+Getachew reveals a major unresolved dilemma: accountability for wartime abuses. While Pretoria includes a transitional justice clause, it is largely silent on external actors, particularly Eritrea. Many reports and testimonies have alleged grave abuses by Eritrean forces, yet Eritrea was not a signatory to the agreement and has shown no willingness to submit to scrutiny.
+This omission was not accidental. Including Eritrea in the talks would likely have collapsed the negotiations. Excluding it made the ceasefire possible but left a central actor outside the peace framework, creating what he describes as an “accountability asymmetry” that continues to poison the peace. Eritrean leaders’ public criticism of the agreement underscores this unresolved tension.
+Peace as a political choice
+Despite its contested implementation, Getachew concludes that Pretoria remains indispensable. It is “the only framework that binds Tigray to Ethiopia’s federation and offers a constitutional pathway out of paralysis.” Without it, the alternatives are renewed conflict or prolonged stagnation—options Tigray cannot afford.
+Ultimately, the future of the agreement depends not on reinterpretation of its text but on political choices. Peace can be treated as an obligation rooted in what was signed, or it can be wielded as a cudgel in factional struggles. Pretoria proved that diplomacy could end a devastating war. Whether peace takes root, he argues, depends on whether Ethiopia’s leaders—and Tigray’s—choose implementation over endless political litigation for power.
+This article was originally published in
+The Africa Report
+under the title, “Ethiopia: Pretoria stopped the war. Politics is imperilling the peace.”
+Read the full piece here
+By Getahun Tsegaye, IFA-Associated Researcher

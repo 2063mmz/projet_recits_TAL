@@ -1,0 +1,197 @@
+seed_url: http://government.ru/en/all/34306/
+final_url: http://government.ru/en/all/34306/
+title: All materials
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+The SCO Heads of Government Council Meeting
+12 October 2018
+09:40
+Dushanbe, Tajikistan
+Dmitry Medvedev: “This organisation is the best platform for aligning our national development strategies and trans-border projects. Our intention is to develop our cooperation across all areas. In 2017, Russia’s trade with the SCO member states increased to $120 billion. The positive trend has continued this year.”
+Dmitry
+Medvedev’s remarks at the SCO Heads of Government Council Meeting
+Documents
+signed following the meeting
+The heads of delegations of the SCO Member States, the heads of delegations of SCO observer states, and guests representing international organisations
+12 October 2018
+The SCO Heads of Government Council restricted-format meeting
+12 October 2018
+SCO Heads of Government Council expanded-format meeting
+12 October 2018
+Dmitry Medvedev speaks at the SCO Heads of Government Council expanded-format meeting
+12 October 2018
+Meeting between Heads of Delegations of the SCO Member States and President of Tajikistan Emomali Rahmon
+12 October 2018
+Предыдущая новость
+Следующая новость
+The heads of delegations of the SCO Member States, the heads of delegations of SCO observer states, and guests representing international organisations
+Heads of
+delegations of SCO member states:
+Foreign
+Minister of India Sushma Swaraj;
+Prime
+Minister of Kazakhstan Bakhytzhan Sagintayev;
+Prime
+Minister of the People’s Republic of China Li Keqiang;
+Prime
+Minister of Kyrgyzstan Mukhammedkalyi Abylgaziev;
+Foreign
+Minister of Pakistan Shah Mahmood Qureshi;
+Prime
+Minister of the Russian Federation Dmitry Medvedev;
+Prime
+Minister of Tajikistan Kokhir Rasulzoda;
+Prime
+Minister of Uzbekistan Abdulla Aripov.
+Dmitry
+Medvedev’s remarks at the  SCO Heads of
+Government Council Meeting
+Retrospective
+Meeting of the SCO Council of Heads of Government, 1 Desember 2017
+Meeting of the SCO Council of Heads of Government, 3 November 2016
+Meeting of the SCO Council of Heads of Government, 15 December 2015
+Meeting of the SCO Council of Heads of Government, 15 December 2014
+Meeting of the Council of SCO Heads of Government, 29 November 2013
+Meeting of the Council of SCO Heads of Government, 5 December 2012
+Rasulzoda,
+Ladies and
+gentlemen,
+First of all, I would like to thank our
+colleagues from Tajikistan for their hospitality and the comfortable working
+conditions.
+We have
+completed the work in a restricted format. We exchanged opinions on what is necessary
+to do to update the agenda of the Shanghai Cooperation Organisation. We talked
+about trade, investment, the digital agenda, high technology, transport,
+industrial production and energy. It is important to use all our resources to
+achieve the best results.
+The external environment remains complicated and can hardly be called
+comfortable. The strategic stability system has undergone major tests. To
+retain their dominant positions, individual states are resorting to unfair
+competition. Protectionist measures and illegal unilateral sanctions are being
+introduced. Occasionally, things go as far as political blackmail. The bulk of
+the attacks are directed against Russia
+and China as key members of
+the Shanghai organisation, as well as our
+long-term partner Iran.
+Visit
+Dmitry Medvedev's meeting with Prime Minister of the People’s Republic of China Li Keqiang
+Economic risks are further aggravated by mounting threats to security.
+Terrorism, organised crime and drug trafficking are serious challenges that are
+of concern for all of our countries. As is known, Afghanistan with its ongoing
+hostilities and terrorist acts is faced with the most acute problems. We
+support efforts that lead to national reconciliation and economic recovery in
+that country.
+Despite the known restrictions, the Russian
+economy is developing steadily and is largely in the black – that’s true of all
+key macroeconomic indicators - which makes us optimistic about our future.
+Our organisation is the best available platform for merging our national
+development strategies and cross-border projects. Harmonising integration
+within the Eurasian Economic Union and the
+Belt and Road project is a case in point. An agreement on trade and economic
+cooperation between the Eurasian Union and China was signed in May. Several
+agreements between Russia
+and China
+have been concluded.
+SCO Heads of Government Council expanded-format meeting
+We are determined to strengthen our cooperation across the board. As a
+matter of fact, this is what is actually happening. In 2017, Russia's trade
+with the countries members of this organisation grew to $120 billion. The
+positive trend continues this year. Overall, this is a good result.
+We need to make important decisions in order to fund projects.
+Separately, someone here noted the need to switch to mutual settlements in
+national currencies (we support this idea) and to reduce external risks. We
+need to act carefully and deliberately about this matter, though.
+Our countries have common borders and vast territories. Unnecessary travel
+time involves unnecessary costs and lost business revenue. In order to expand
+our economic cooperation, we need full-fledged transport and logistics
+projects. We see eye to eye on this issue. Russia is willing to participate in
+these projects. We allocate significant amounts of funds for upgrading and
+expanding the main transport route infrastructure, including the West-East and
+North-South transport corridors. I’m confident that our common logistics
+arrangements will provide us with significant competitive advantages.
+Of course, we welcome the decision made by Belarus, an observer country, to
+join the Agreement on Creating Favourable Conditions for
+Road Transport.
+An inter-departmental programme on food safety will be
+signed following our meeting. It would be beneficial to involve observers and
+dialogue partners in it. Tens of millions of people that live in our countries
+should be provided with quality food products, and protected against epidemics
+as well as environmental disasters. In this respect we support what my colleague Lǐ
+Keqíang said on this subject.
+The flow of people crossing the state borders is continuously growing.
+Of course we are interested in preserving this trend. I am sure that the
+implementation of the programme on developing tourism and the plan of joint
+actions for the 2019-2020 period will bring our states even closer.
+Our agreements begin to work when they are more down-to-earth – contacts
+between entrepreneurs, cross-border areas and specific companies. Both the Business
+Council and the Interbank Association are called upon to facilitate this. We
+hope that the SCO countries will take an active part in the annual Forum on
+Small Business that will be held in Ufa
+in a week. This is the forum of the SCO and BRICS member countries.
+As you know Russia
+proposed the establishment of a forum of governors of the SCO countries. We are
+grateful to our colleagues for supporting this initiative. We are looking forward
+to seeing representatives from the SCO states at the first meeting that will
+take place in this country – in Chelyabinsk
+in December. Our colleagues from Uzbekistan suggested elaborating a
+programme for developing inter-regional cooperation. These programmes
+supplement each other fairly well.
+We see eye to eye when it comes to the development of humanitarian cooperation.
+Having its own spirit the SCO unites countries with rich histories and culture
+together with unique traditions. And we must do everything we can to get to
+know each other better.
+The SCO University
+that unites almost eighty universities is one of the most successful
+humanitarian projects. It has been functioning for 10 years now. Such projects should
+be supported in every way. We proceed from the premise that interest in this
+cooperation will be growing and the number of participants will be on the rise.
+In conclusion I would like to thank once again our colleagues from Tajikistan for
+the excellent organisation of our work. The presidency is being transferred to Uzbekistan so
+we wish our colleagues every success and are always willing to give them a
+helping hand.
+Documents signed following
+the meeting of the
+SCO
+Heads of Government Council:
+Decisions by the SCO Heads of Government Council (prime ministers) on
+the following matters:
+The Report of the SCO
+Secretariat on Implementing the Programme of Multilateral Trade and
+Economic Cooperation of the SCO Member States
+The SCO Financial
+Report on the Execution of the 2017 SCO Budget
+The SCO 2019 budget
+Voluntary assistance
+to support the activities of permanent SCO bodies
+Translation support for
+the permanent SCO bodies
+Amending the Guidelines
+for Remuneration, Guarantees and Compensation for SCO Permanent Body
+Officials
+Revising the Programme
+for Multilateral Trade and Economic Cooperation of the SCO Member States
+Drafting the Programme
+for Expanding Region-to-Region Cooperation between the SCO Member States
+The Plan of Practical
+Measures (road map) regarding cooperation between research institutions of
+the SCO member states in 2019-2020
+Implementing the
+Concept of SCO
+Member State
+Cooperation in Environmental Protection
+Joint communiqué following the 17
+meeting of the SCO Heads
+of Government Council (prime ministers)
+The SCO Cooperation Programme for Food Security
+The memorandum between the authorised departments of the SCO Member
+States on technical cooperation in the joint prevention and control of trans-border
+epizootic diseases.
+Government of the Russian Federation
+http://government.ru/en/all/34306/
+Highlight selection

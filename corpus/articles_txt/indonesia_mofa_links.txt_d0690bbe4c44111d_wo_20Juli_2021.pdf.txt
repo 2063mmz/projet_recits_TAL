@@ -1,0 +1,1417 @@
+seed_url: https://kemlu.go.id/files/repositori/56577/wo%20Juli%2021.pdf
+final_url: https://kemlu.go.id/files/repositori/56577/wo%20Juli%2021.pdf
+title: wo%20Juli%2021.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+Geliat Ekonomi
+Indonesia di tengah
+Pandemi COVID-19
+02
+Dojo Diplomat
+Indonesia, Pelayanan
+Prima yang Bersih dari
+Korupsi
+06
+Making Indonesian Diplomats 4.0
+Pertemuan UPT
+SESDILU dengan
+Bappeda Provinsi
+Maluku
+04
+
+Catatan
+Kapusdiklat
+i
+Dr. Yayan G.H. Mulyana
+Kepala Pusat Pendidikan dan Pelatihan
+Penanggung Jawab :
+--------------------
+Yayan G.H Mulyana
+Dewan Redaktur :
+-----------------
+Bharata
+Astari Mareska Daenuwy
+Penyunting/Editor :
+-------------------
+Afrian Asri
+Tri Herminanto
+Yudhi
+Intan Kartika Sari
+Desain Graﬁs/Fotografer :
+-------------------------
+Muhammad Yusup Ismail
+Riyanta
+Dafis Handika Perdana
+Septian Bagus
+Sekretariat :
+------------
+Sukaryadi
+Ita Sudjiarti
+Endang Ratnaningsih
+Endang Supriyadi
+Nina Yurina
+ii
+Kontributor :
+------------
+Lidya Wahyu Sari
+Radea Fauzi Hidayat
+Ade Setiawan
+Rizki Jaya Putra
+Thristina Tiara Yusticia
+Liana Diah Astari
+Emmi Lathifah
+Puji syukur ke hadirat Tuhan Yang Maha Esa yang telah melimpahkan begitu banyak rahmat-
+Nya sehingga dapat terselesaikannya majalah What’s On In Pusdiklat Edisi Bulan Juli 2021.
+Tentunya masih banyak kekurangan dari majalah ini. Maka dari itu, kritik dan saran yang
+membangun sangat kami harapkan untuk dapat makin meningkatkan kualitas majalah What’s
+On. Dalam edisi kali ini, kami mencoba mengulas serangkaian kegiatan Diklat maupun
+kegiatan lain yang diselenggarakan ataupun diikuti oleh Pusdiklat selama bulan Juli.
+Minggu pertama di bulan Juli dibuka dengan diskusi menarik mengenai ‘The World, East Asia,
+and Indonesia 2021 and Beyond’ antara peserta diklat Sesparlu angkatan ke-68 dengan
+Menlu RI periode 2001-2009, Dr. N. Hassan Wirajuda. Sementara jajaran UPT SESDILU
+mengadakan pertemuan dengan Bappeda Provinsi Maluku, dalam rangka persiapan
+kunjungan virtual peserta Sesdilu ke-70 ke Provinsi Seribu Pulau tersebut.
+Selain itu, selaras dengan program nasional pembentukan Smart ASN menuju Birokrasi 4.0,
+telah diselenggarakan pelatihan Pengembangan Digital Mindset Menuju Smart ASN 4.0. Selain
+itu Pusdiklat juga mengadakan Diklat Manajemen TIK dan Bimtek Pengelolaan Keuangan dan
+(BMN) bagi Pegawai/Calon Pegawai Setempat.
+Sebagai center of excellence bagi pengembangan kompetensi ASN Kemlu, Pusdiklat terus
+membangun kerjasama dengan berbagai pihak. Selama bulan Juli Pusdiklat antara lain
+melaksanakan pertemuan dengan British Council terkait pelatihan berbahasa Inggris untuk
+para ASN Kemlu, serta pertemuan dengan Akademi Diplomatik Kemlu Ekuador berkenaan
+dengan upaya menorong tindak lanjut kerja sama diklat diplomatik kedua negara.
+Di sisi lain, tahun ini Pusdikat tengah menjalani proses pengajuan ke KemenPAN-RB sebagai
+Zona Integritas (ZI) WBBM (Wilayah Birokrasi Bersih Melayani), maka dari itu kami beserta
+segenap keluarga besar Pusdiklat memohon doa restu sekaligus kerja sama para pembaca
+dalam mendukung upaya tersebut.
+
+DAFTAR ISI
+iii iv
+Pojok
+Reformasi
+Birokrasi
+01
+SESPARLU
+(Sekolah Staf
+dan  Pimpinan
+Luar Negeri)
+Keharmonisan 3 Negara
+Adidaya di Kawasan Asia
+Timur dan Pasifik Wajib
+Terjaga
+Geliat Ekonomi Indonesia di
+tengah Pandemi COVID-19
+TTX Belt and Road Initiative
+RRT dan Peningkatan
+Konektivitas ASEAN dengan
+Memanfaatkan
+TTX Build Back Better World
+(B3W) Initiatives
+Penguatan Kebijakan
+Reformasi Birokrasi Kemlu
+02
+02
+03
+03
+SESDILU
+(Sekolah Staf
+Dinas Luar
+Negeri)
+Pertemuan UPT SESDILU
+dengan Bappeda Provinsi
+Maluku
+04
+PPE
+(Perencanaan
+Pengembangan
+dan Evaluasi)
+Dojo Diplomat Indonesia,
+Pelayanan Prima yang Bersih
+dari Korupsi
+06
+Perpustakaan
+Diplomasi
+Layanan Perpustakaan
+Diplomasi Makin Tokcer
+dengan OPAC SLiMS 9.0
+Readings for Diplomat, Daftar
+Bacaan Wajibnya Diplomat
+Indonesia
+09
+11
+PPT
+(Pendidikan
+dan Pelatihan
+Teknis)
+Pengembangan Digital
+Mindset Menuju Smart ASN
+4.0
+Dokumentasi Kegiatan Diklat
+yang Diselenggarakan oleh
+Bidang Diklat Teknis,
+Pusdiklat Kemlu RI Selama
+bulan Juli 2021
+13
+14
+PPN
+(Pendidikan
+dan Pelatihan
+Non
+Diplomatik)
+Tingkatkan Kapasitas
+Layanan Manajemen TIK
+melalui Diklat
+Tatkala Begadang dan
+Gangguan Sinyal Tak Halangi
+Upaya Perkuat Pengelolaan
+Infrastruktur Diplomasi
+15
+16
+KSPP
+(Kerjasama
+Pendidikan
+dan Pelatihan)
+Kerja Sama dengan British
+Council: Kapan Lagi Bisa
+Belajar Bahasa Inggris
+Langsung dengan Ahlinya?
+Kerja Sama Diklat Diplomatik
+RI – Ekuador Sepakat untuk
+Terus Dorong TIndak Lanjut
+Kerja Sama Diklat Diplomatik
+18
+19
+Perangi Narkoba Lewat Jalur
+Edukasi
+Ayo Berani LAPOR untuk
+Pusdiklat yang Lebih Bersih
+Melayani
+Infrastruktur Kuat, Diplomasi
+Hebat
+Sudah saatnya Diplomat
+Indonesia Perdalam Isu Smart
+Farming
+22
+24
+27
+28
+Edisi:
+Juli
+2021
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I 02
+Keharmonisan 3 Negara Adidaya di
+Kawasan Asia Timur dan Pasifik
+Wajib Terjaga
+egiatan Diklat SESPARLU di
+minggu pertama Juli 2021 diawali
+dengan diskusi mengenai ‘The World, East
+Asia, and Indonesia 2021 and Beyond’
+bersama dengan Menlu RI periode 2001-
+2009, Dr. Hassan Wirajuda. Menlu RI di era
+Presiden Megawati dan Presiden SBY ini
+membandingkan kebangkitan Jerman
+sebelum PD ke-1 dan kebangkitan
+Tiongkok pada awal abad ke-21. Menurut
+Dr. N. Hassan Wirajuda kedua negara
+merupakan pemimpin ekonomi dunia pada
+masanya.
+Berbekal kemajuan ekonomi, keduanya
+membangun kekuatan militer yang semakin
+menguatkan posisinya di percaturan politik
+K
+dunia. Meski demikian peraih gelar Doktor
+dari University of Virginia School of Law
+tersebut menyampaikan bahwa di era
+global saat ini, persaingan antar negara
+akan lebih banyak meruncing di sektor
+perdagangan, bukan lagi di bidang militer.
+Potensi gesekan antar negara adidaya
+dunia, yakni Amerika Serikat, Rusia dan
+Republik Rakyat Tiongkok (RRT)
+mengemuka, khususnya di kawasan Asia
+Timur dan Pasifik. Oleh karenanya
+Indonesia dan negara lain di kawasan perlu
+solid dan bekerjasama dalam menjaga
+stabilitas politik dan ekonomi secara
+kolektif.
+Sumber:  Dokumentasi UPT SESPARLU
+IWhat’s On In Pusdiklat Edisi Juli 2021I01
+Geliat Ekonomi Indonesia di tengah
+Pandemi COVID-19
+Pada 6 Juli 2021 peserta diklat
+SESPARLU angkatan ke-68
+berkesempatan berdiskusi dengan
+Deputi Bidang Promosi dan
+Penanaman Modal Kementerian
+Investasi/Badan Koordinasi
+Penanaman Modal (BKPM) Ikmal
+Lukman mengenai peran Kemlu
+dalam menarik investor asing ke
+Indonesia serta berbagai
+perkembangan terkait iklim
+investasi negara kita tercinta.
+Visi BKPM saat ini adalah terus
+berupaya meningkatkan kontribusi
+sektor ekonomi berbasis Sumber
+Daya Alam, melalui hilirisasi
+industri, yang meningkatkan nilai
+tambah. Pemerintah juga terus
+mengusahakan kemudahan
+perizinan usaha dan
+mengembangkan iklim investasi
+yang sehat, melalui Peraturan
+Pemerintah (PP) No. 5 tahun 2021
+tentang Penyelenggaraan
+Perizinan Berusaha Berbasis
+Resiko. BKPM juga mengharapkan
+agar Perwakilan RI dapat
+meningkatkan perannya dalam
+menarik investor asing melalui
+berbagai kegiatan promosi
+investasi dan market intelligence.
+Sumber: Dokumentasi UPT SESPARLU, Tabel pertumbuhan ekonomi terkait iklim investasi
+Indonesia.
+TTX Belt and Road Initiative RRT
+dan Peningkatan Konektivitas
+ASEAN dengan Memanfaatkan
+Kegiatan diklat SESPARLU angkatan ke-68 di bulan
+Juli 2021 kembali menghadirkan sesi Table-Top
+Exercise (TTX), yang merupakan kegiatan simulasi
+penyusunan rekomendasi kebijakan dan tindakan
+terkait satu isu. Kali ini tema yang diangkat ialah
+peningkatan konektivitas ASEAN. dengan
+memanfaatkan Belt and Road Initiative (BRI)
+Tiongkok – ASEAN.
+Para peserta berperan sebagai delegasi dari RRT
+dan negara-negara anggota ASEAN, yakni
+Sumber: Dokumentasi UPT SESPARLU, Kesepuluh delegasi ASEAN memberikan
+pendapatnya untuk meningkatkan konektivitas kawasan
+Kontributor : Rizki Jaya Putra Kontributor : Rizki Jaya Putra staff
+
+Brunei Darussalam, Filipina, Malaysia,
+Myanmar, Kamboja, Laos, Singapura,
+Thailand, Vietnam dan Indonesia. Bertindak
+sebagai Fasilitator pada kegiatan TTX ini
+adalah Kepala Pusat Pengkajian dan
+Pengembangan Kebijakan Kawasan Asia-
+Pasifik dan Afrika, dengan Evaluator
+Direktur Kerja Sama Ekonomi ASEAN dan
+Duta Besar Foster Gultom.
+TTX Build Back Better World
+(B3W) Initiatives
+Kegiatan TTX lain di awal Semester Kedua
+Tahun 2021 diadalan pada tanggal 15 Juli
+2021 dan mengangkat tema ‘Green
+Economy Diplomacy’. Pada TTX tersebut
+peserta diklat melakukan roleplay sebagai
+wakil dari enam Kementerian di Indonesia,
+yang ditugaskan menyusun kebijakan
+terkait Build Back Better World (B3W)
+Initiatives.
+Sesuai skenario TTX, ke-6 Kementerian
+diminta untuk berkoordinasi dengan pihak
+swasta dan pemangku kepentingan lainnya
+terkait empat fokus utama B3W, yaitu
+dampak terhadap iklim, kesehatan,
+teknologi digital, dan kesamaan gender.
+Pada TTX tersebut, UPT SESPARLU
+menghadirkan Direktur Perdagangan,
+Komoditas, dan Kekayaan Intelektual
+sebagai fasilitator dan Direktur
+Pembangunan, Ekonomi, dan Lingkungan
+Hidup.sebagai evaluator
+Penguatan Kebijakan
+Reformasi Birokrasi Kemlu
+Sumber: Dokumentasi UPT SESPARLU, Paparan kelompok Kemendag untuk
+kebijakan B3W
+Peserta Diklat SESPARLU angkatan ke-68
+berkesempatan untuk urun rembug terkait
+penyempurnaan infrastruktur diplomasi
+edisi, dalam kegiatan TTX on Infrastructure
+of Diplomacy. TTX tersebut difasilitasi oleh
+Biro Perencanaan dan Organisasi dan
+menghadirkan Kepala Biro Sumber Daya
+Manusia dan Kepala Pusat Pembinaan
+Jabatan Fungsional sebagai evaluator.
+Peserta diminta untuk dapat
+menyampaikan gagasan terkait delapan
+Pilar Area Perubahan Reformasi Birokrasi,
+antara lain: deregulasi ketentuan dan
+kebijakan, penatalaksanaan organisasi dan
+kelembagaan, penataan manajemen SDM,
+penguatan akuntabilitas kinerja program
+dan mekanisme pengelolaan anggaran
+termasuk pengawasannya.
+Sumber: Dokumentasi UPT SESPARLU, Diskusi Reformasi Birokrasi Kemlu
+IWhat’s On In Pusdiklat Edisi Juli 2021I03 IWhat’s On In Pusdiklat Edisi Juli 2021I 04Kontributor : Rizki Jaya Putra
+“Alone we can do little; together we can
+do so much," ungkap penulis AS
+terkemuka, Hellen Keller.
+utipan tersebut tergambar jelas
+dalam pertemuan virtual pada 13
+Juli 2021 yang lalu diselenggarakan dalam
+rangka Persiapan Kunjungan Virtual Para
+Peserta SESDILU Angkatan ke-70 .ke
+Pemprov Maluku. Selain jajaran pejabat
+UPT SESDILU dan Bappeda Maluku,
+pertemuan terebut juga dihadiri oleh Bapak
+Dubes Semuel Samson, Kepala Pusat
+Pengkajian dan Pengembangan Kebijakan
+Kawasan Asia-Pasifik dan Afrika beserta
+Tim dan Ibu Spica A. Tutuhatunewa.
+Pertemuan UPT
+SESDILU dengan
+Bappeda
+Provinsi Maluku
+Pertemuan menyepakati bahwa sasaran
+utama kunjungan virtual peserta Diklat
+SESDILU Angkatan ke-70 ini adalah
+menghasilkan rekomendasi kebijakan bagi
+Kemenlu dalam menyumbang
+pembangunan di Provinsi Maluku. Terdapat
+empat sektor yang akan menjadi fokus
+kunjungan, yaitu Kelautan & Perikanan;
+Konektivitas, Teknologi Informasi, &
+Komunikasi; Pariwisata & Ekonomi Kreatif;
+serta Perkebunan & Pertanian.
+Menurut pihak Kepala Bappeda Provinsi
+Maluku Anton Lailossa, Pemprov Maluku
+berencana membangun Lumbung
+Perikanan Nasional yang diharapkan dapat
+menjadi hub perikanan nasional. Sementara
+dalam sektor Perkebunan, keberhasilan
+ekspor Kelapa Cocofiber ke mancanegara
+menjadi capaian yang menonjol. Untuk
+sektor Pariwisata, Pemprov Maluku
+mencatat keinginan sejumlah investor asal
+Korea Selatan dan Kanada untuk
+mendirikan hotel di daerah-daerah wisata
+Provinsi Maluku.
+Sumber: Dokumentasi UPT SESDILU.
+K
+Kontributor : Rizki Jaya Putra
+Kontributor : Rizki Jaya Putra
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I 06
+Kontributor : Thristina Tiara Yusticia
+“Kemenlu siap membantu mendorong
+promosi produk-produk unggulan Provinsi
+Maluku”, tegas Kepala Pusat Pengkajian
+dan Pengembangan Kebijakan Kawasan
+Asia Pasifik dan Afrika M. Takdir, yang juga
+menyampaikan perkembangan seputar
+MOU RI-Australia, RI-South Korea (CEPA),
+dan RI-Japan (IJEPA). Diharapkan segenap
+potensi unggulan Provinsi Maluku dapat
+dimunculkan dalam RPJMD, sehingga
+pengembangan dan pembangunan
+ekonomi provinsi Seribu
+Pulau ini dapat didorong
+melalui forum Musyawa-
+Sumber: Dokumentasi UPT SESDILU. Paparan Bapak M. Takdir, Kepala Pusat Pengkajian dan Pengembangan Kebijakan Kawasan Asia Pasifik dan Afrika.
+kerja sama antara Kemlu dan Pemerintah
+Daerah. Berbagai aktivitas yang dirancang
+dalam kegiatan kunjungan virtual ke
+Maluku ini juga akan menjadi model
+standar kunjungan peserta Diklat SESDILU
+ke daerah lain. Pertemuan juga
+menyepakati untuk memanfaatkan hasil
+kunjungan dalam bentuk infografis,
+sebagai bahan promosi dalam Pacific
+Expo II yang akan diselenggarakan pada
+bulan Oktober 2021.
+rah Nasional.
+Peserta pertemuan meng-
+amini hal tersebut dan
+kunjungan peserta Diklat
+ke daerah, meski dilakukan
+secara daring, diharapkan
+dapat menjadi jembatan
+Sumber: Dokumentasi UPT SESDILU, Paparan Kepala Bappeda Provinsi Maluku, Bapak Anton Lailossa
+IWhat’s On In Pusdiklat Edisi Juli 2021I05
+Dojo Diplomat Indonesia,
+Pelayanan Prima yang Bersih
+dari Korupsi
+Say NO to
+CORRUPTION!
+Korupsi dan
+gratifikasi bukanlah
+Rezeki
+“Kalau seseorang tidak
+amanah soal uang,
+dipastikan dia tidak
+amanah dalam segala hal
+lainnya”
+emikian kata-kata bijak almarhum
+Marie Muhammad, salah satu tokoh
+anti korupsi di negeri kita tercinta. Sosok
+yang dikenal sebagai Mr Clean ini, tersohor
+karena sepak terjangnya dalam melakukan
+Upaya anti korupsi di Kementerian
+Keuangan tempatnya mengabdi, di era
+tindak korupsi, kolusi dan nepotisme kerap
+ditemui di berbagai instansi pemerintah.
+Upaya memberantas tindak korupsi di
+instansi pemerintah memang tidaklah
+mudah. Tak hanya melalui upaya yang
+dilakukan Komisi Pemberantasan Korupsi,
+Kementerian Pendayagunaan Aparatur
+Negara dan Reformasi Birokrasi
+(KemenPAN-RB) pun turut turun tangan
+melalui program Reformasi Birokrasi, yang
+termasuk di antaranya adalah pem-
+D
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I07 Kontributor : Radea Fauzi Hidayat
+bangunan Zona Integritas menuju Wilayah
+Bebas Korupsi dan Wilayah Birokrasi Bersih
+Melayani (ZI WBK/WBBM).
+Melalui proses yang panjang dan tidak
+mudah, masing-masing Kementerian/
+Lembaga (K/L) dapat mengajukan sejumlah
+unit kerja di lingkungannya untuk ZI-WBK,
+dimana jika berhasil mendapat gelar
+tersebut selanjutnya dapat diajukan
+kembali untuk ZI-WBBM.
+Pengajuan ini memerlukan upaya yang
+tidak main-main. Unit kerja yang diajukan
+diminta menyusun Lembar Kerja Evaluasi,
+dilengkapi data dukung untuk 6 area
+perubahan. Kedisiplinan pelaporan Laporan
+Harta Kekayaan Pejabat Negara (LHKPN)
+dan Laporan Harta Kekayaan Aparatur Sipil
+Negara (LHKASN) pun diminta. Setiap unit
+kerja juga diwajibkan melakukan survey
+mandiri terhadap pengguna layanannya
+mengenai persepsi anti korupsi dan kualitas
+pelayanan public
+Setelah kelengkapan dokumen administrasi
+itu lengkap, Tim Penilai Internal (TPI) yang
+dimotori Inspektorat Jenderal K/L, akan
+melakukan seleksi unit-unit mana yang
+dianggap pantas untuk diajukan ke Tim
+Penilai Nasional di KemenPAN-RB. Tak
+berhenti di situ, TPN KemenPAN-RB secara
+ketat menyeleksi seluruh pengajuan. Saking
+ketatnya, gagal dalam lebih dari satu kali
+pengajuan pun seolah menjadi satu hal
+yang lumrah.
+Bagaiman dengan Pusdiklat Kemenlu kita
+tercinta? Perjuangan untuk ZI-WBK/WBBM
+telah dilalui sejak tahun 2019. Saat itu
+sayangnya nominasi pertama untuk ZI-WBK
+tidak diluluskan oleh KemenPAN-RB.
+Tak tinggal diam, berbagai upaya evaluasi
+dan intropeksi diri dilakukan. Alhasil
+Sumber: Dokumentasi Bidang PPE. Presentasi Ka Pusdiklat, dengan menayangkan video dari Kementerian PAN-RB, mengenai WBK/WBBM
+jajaran Pusdiklat lebih siap tatkala kembali
+diajukan pada tahun 2020. Syukur
+Alhamdulillah, predikat itu dapat diperoleh
+di akhir tahun 2020, bersama dengan
+DIrektorat Fasilitas Diplomatik.
+Tanpa menghabiskan waktu untuk
+mengambil nafas, di tahun 2021 ini,
+Pusdiklat kembali mendapatkan
+kehormatan untuk diajukan sebagai ZI-
+WBBM. Melalui proses yang panjang mulai
+dari bulan Maret sampai dengan
+diselenggarakan kegiatan sosialisasi ZI-
+WBBM Pusdiklat tahun 2021. Selain untuk
+memberikan update mengenai berbagai
+progress pengajuan ZI-WBBM, kegiatan ini
+juga diharapkan makin meneguhkan
+komitmen anti korupsi dan pelayanan prima
+jajaran Pusdiklat.
+Selanjutnya jajaran Pusdiklat terus bersiap
+untuk mengikuti tahapan selanjutnya
+pengajuan ZI-WBBM di tingkat KemenPAN-
+RB. Mohon bantuan dan dukungannya
+Sumber: Dokumentasi Bidang PPE. Kegiatan Sosialisasi WBK/WBBM
+Sumber: Dokumentasi Bidang PPE. Presentasi Ka Pusdiklat, mengenai WBK/WBBM
+IWhat’s On In Pusdiklat Edisi Juli 2021I 08
+Juli 2021, Pusdiklat berhasil
+melalui tahap pertama, yakni
+seleksi TPI Kemenlu, bersama
+dengan 16 unit kerja Pusat dan
+Perwakilan lainnya.
+Komitmen penuh ini bukan
+hanya di tingkat unsur
+pimpinan. Untuk terus
+menguatkan komitmen menjadi
+WBBM, maka pada 21 Juli 2021
+
+Layanan Perpustakaan Diplomasi
+Makin Tokcer dengan OPAC SLiMS
+9.0
+Situs perpustakaan yang berbasis aplikasi
+OPAC SLiMS (Senayan Library
+Management System) telah di upgrade
+menjadi versi 9.0. Perbedaan utama adalah
+user interface dan keamanan situs. Untuk
+menunjang penerapan aplikasi OPAC
+SLiMS 9.0 tersebut, seluruh pustakawan
+Perpustakaan Diplomasi, Training
+Materials Repository (TMR) serta
+Perpustakaan Museum Koferensi Asia
+Afrika (MKAA) mengikuti “Pelatihan
+Penggunaan Aplikasi OPAC SLiMS versi
+9.0”pada Jumat, 16 Juli 2021.
+Dalam pelatihan daring berdurasi 3 jam
+tersebut, para pustakawan mempelajari
+i era teknologi informasi,
+khususnya sejak berlangsung-
+nya pandemi COVID-19 yang sayangnya
+tak kunjung berakhir, banyak orang
+berpendapat perpustakaan akan makin
+ditinggalkan. Hmm.. Tak semudah itu,
+Ferguso!
+Perpustakaan Diplomasi jelas tak
+berpangku tangan. Masih ada yang ingat
+dengan ulasan tentang upaya pembaruan
+situs Perpustakaan di majalah What’s On In
+Pusdiklat edisi April 2021 yang lalu? Syukur
+Alhamdulillah, akhirnya wajah baru situs
+Perpustakaan Diplomasi yang telah kita
+nantikan itu hadir juga.
+D
+kembali fitur-fitur aplikasi SLiMS,
+khususnya terkait berbagai fitur baru yang
+ada dalam versi 9.0. Para trainer dari PT.
+Bonafitek Anjar Patria menjelaskan pada
+para pustakawan mengenai cara
+pengoperasian dan pengoptimalan fungsi
+modull atau fitur pengelolaan metadata
+koleksi, baik tercetak maupun digital, dan
+modul pengelolaan sirkulasi koleksi baik,
+secara luring maupun secara daring.
+Fitur baru yang cukup menonjol adalah
+adalah widget yang menghubungkan
+langsung pengujung perpustakaan dengan
+Perpustakaan Diplomasi melalui aplikasi
+Whatsapp. Diharapkan melalui fitur ini,
+Perpustakaan dapat melayani kebutuhan
+para pengguna dalam waktu yang lebih
+singkat.
+Tak berhenti sampai di sini, ke depannya
+Perpustakaan Diplomasi akan terus
+berusaha meningkatkan kualitas pelayanan,
+khususnya dalam hal user engagement,
+yakni membangun dan memelihara
+hubungan komunikasi dengan para
+pengguna layanan Perpustakaan. Stay
+tuned dan janga lupa terus membaca buku
+Sumber: Dokumentasi Tim Perpustakaan, Kegiatan Pelatihan Penggunaan Aplikasi OPAC SLiMS versi 9.0”
+Sumber: Dokumentasi Tim Perpustakaan, Tampilan Aplikasi OPAC SLiMS versi 9.0”
+IWhat’s On In Pusdiklat Edisi Juli 2021I09 IWhat’s On In Pusdiklat Edisi Juli 2021I 10
+Kontributor : Lidya Wahyu Sari
+
+Readings for Diplomat, Daftar Bacaan
+Wajibnya Diplomat Indonesia
+Literacy is a bridge from
+misery to hope
+Kutipan mantan Sekjen PBB, almarhum Kofi
+Annan, tersebut menjadi inspirasi bagi
+Pusdiklat untuk bekerjasama dengan
+Perpustakaan Diplomasi dalam menyusun
+rangkaian publikasi Readings for Diplomats.
+Publikasi tersebut memuat daftar bacaan
+penting terkait isu-isu tertentu yang
+dipandang perlu bagi pejabat fungsional
+Diplomat, dalam upaya terus memperkaya
+pengetahuan dan informasi terkait
+perkembangan berbagai isu Hubungan
+Luar Negeri, Terdapat 3 edisi yang dapat
+diakses para pembaca melalui tautan
+https://kem.lu/2ib.mulai tanggal 15 Juli
+2021.
+Readings for Diplomats
+2021 – General Interest
+Edisi ini memuat publikasi yang
+dianggap relevan dengan
+perkembangan diplomasi dan hubungan
+internasional terkini. Disusun
+berdasarkan berbagai lingkup praktik
+kegiatan diplomasi, diharapkan literatur
+dan bahan rujukan yang tercantum
+dalam edisi ini dapat menjadi panduan
+para diplomat dalam mengembangkan
+horizon dan perspektif intelektual.
+Readings for Diplomats
+Special Issues –
+Discussions on Gender
+Dalam rangka mendukung upaya
+Pengarusutamaan Gender yang tengah
+digalakkan Kementerian Luar Negeri, edisi
+kali ini bertujuan memperluas lingkup
+pandangan dan pengetahuan mengenai isu
+Gender dan berbagai aspek terkait.
+Readings for Diplomats
+Special Issues – COVID-19
+and Health Diplomacy
+Sejak awal tahun 2020 dunia menghadapi
+pandemi global COVID-19 yang
+berdampak signifikan terhadap berbagai
+spektrum kehidupan manusia, termasuk di
+dalamnya kegiatan diplomasi dan
+hubungan antarbangsa. Melalui edisi ini,
+para diplomat Indonesia memperoleh
+informasi mengenai berbagai literatur dan
+bahan rujukan yang memberikan gambaran
+lebih jelas terkait kondisi pandemi yang
+masih berlangsung ini; khususnya
+berkaitan dengan barbagai upaya
+penanganan pandemi.
+Happy reading, Semoga bermanfaat.
+IWhat’s On In Pusdiklat Edisi Juli 2021I 12IWhat’s On In Pusdiklat Edisi Juli 2021I11
+Kontributor : Lidya Wahyu Sari
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I 14
+Pengembangan Digital Mindset
+Menuju Smart ASN 4.0
+enurut salah seorang penulis
+Amerika Serikat Charles E. Beard,
+terdapat dua tahap revolusi industry.
+Tahap awal berkaitan dengan material,
+yakni pembuatan berbagai hal, baik mesin
+ataupun aplikasi. Sementara tahap kedua
+berkaitan dengan masalah sosial, yakni
+bagaimana mentransformasi Sumber Daya
+Manusia yang ada.
+Hal tersebut sangat sesuai dengan kondisi
+yang tengah kita hadapi saat ini, di era
+revolusi industri 4.0. Tidak hanya
+perusahaan swasta, baik domestik
+maupun mancanegara, Aparatur Sipil
+Negara (ASN) pun diminta untuk bersiap
+menyongsong era baru tersebut, sebagai-
+mana dicanangkan oleh Kementerian PAN-
+RB melalui peluncuran program Smart ASN
+2024 pada bulan Agustus 2019.
+Pusdiklat Kemlu pun tidak ketinggalan
+berpartisipasi dalam menerapkan kebijakan
+nasional tersebut. Pada tanggal 5-7 Juli
+2021, Pusdiklat bekerja sama dengan M-
+Knows Consulting menyelenggarakan
+pelatihan Digital Mindset in Era 4.0. Melalui
+pelatihan ini diharapkan peserta pelatihan
+dapat memiliki mindset yang diperlukan
+dalam menghadapi transformasi digital dan
+Era 4.0, yakni critical thinking, collaborative
+communication skill, agility & adaptability,
+collaboration & teamwork for synergy, serta
+professional, ethical & integrity leadership.
+Sumber: Dokumentasi Bidang PPT, Kegiatan Diklat Digital Mindset Menuju Smarta ASN 4.0
+M
+Redaksi
+Dokumentasi Kegiatan Diklat yang
+Diselenggarakan oleh Bidang Diklat Teknis,
+Pusdiklat Kemlu RI Selama bulan Juli 2021
+1. Kegiatan Bahasa Spanyol Tingkat
+Pemula Tahap II Secara Online
+bagi ASN Kemlu, tanggal 28 Mei-
+4 Agustus 2021
+2. Kegiatan Bahasa Perancis Tingkat
+Pemula secara Online bagi ASN
+Kemlu T.A. 2021 2 Juli – 4
+Oktober 2021
+3. Kegiatan Workshop Penguatan
+Diplomasi Ekonomi bagi
+Fungsional Diplomat Kementerian
+Luar Negeri RI T.A. 2021 pada
+Tanggal 29 uli 2021
+IWhat’s On In Pusdiklat Edisi Juli 2021I13
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I 16IWhat’s On In Pusdiklat Edisi Juli 2021I15
+Tingkatkan Kapasitas Layanan
+Manajemen TIK melalui Diklat
+The number of information technology is that it empowers people to do what they
+want to do. It lets people be creative. It lets people be productive. It lets people learns
+things they didn’t think they could learn before, and so in a sense it is all about
+potential
+endapat dari salah satu
+pengusaha terkemuka
+Amerika Serikat Steve Ballmer
+tersebut seakan menginspirasi
+lima orang Fungsional Pranata
+Informasi Diplomatik (PID) saat
+mengikuti rangkaian Diklat
+Manajemen TIK yang
+dilaksanakan secara daring pada
+tanggal 26 – 28 Juli 2021.
+Diklat hasil kerjasama Pusdiklat dengan
+lembaga pelatihan Smartindo tersebut,
+bertujuan untuk membekali peserta
+dengan pemahaman konsep dasar
+manajemen layanan TIK, baik terkait
+Materi pelatihan antaralain meliputi
+kerangka acuan dan prinsip tata kelola TIK,
+ISO 20000 sebagai standar acuan layanan
+TIK, IT Infrastructure Library (ITIL) sebagai
+framework acuan manajemen layanan TIK:
+prinsip-prinsip panduan pengelolaan dan
+implementasi (servicedek/helpdesk,
+jaminan SLA, katalog layanan, service
+Sumber: Dokumentasi Bidang PPN, Diklat Manajemen TIK secara online pada
+tanggal 26 –28 Juli 2021
+P
+Di tengah masa PPKM Darurat yang
+ditetapkan Pemerintah di awal bulan Juli
+2021, kewajiban untuk work from home
+tidak menghalangi keinginan mereka untuk
+terus mengembangkan potensi dirinya.
+Sumber: Dokumentasi Bidang PPN, Peserta Diklat Manajemen TIK secara online pada tanggal 26 –
+28 Juli 2021
+dengan berbagai kompo-
+nen dan karakteristiknya.
+Selain itu para peserta
+mempelajari mengenai
+penerapan best practi-
+ces dan common
+practices pengelolaan
+TIK pada bermacam
+organisasi, khususnya
+instansi pemerintah.
+continuity management). Hasil survei
+terhadap peserta menunjukkan kepuasan
+mereka atas penyelenggaraan Diklat,
+dimana para pengajar dinilai sangat baik
+dalam menyampaikan materi dan
+berdiskusi mengenai aneka kendala dalam
+mengelola layanan TIK organisasi sehari-
+hari
+Tatkala Begadang dan Gangguan Sinyal Tak
+Halangi Upaya Perkuat Pengelolaan Infrastruktur
+Diplomasi
+Sebagaimana kita pahami bersama
+Infrastruktur Diplomasi merupakan bagian
+dari Prioritas Diplomasi Indonesia periode
+2019 - 2024, yakni Prioritas 4+1. Upaya
+pengembangan infrastruktur diplomasi
+Indonesia tersebut antara lain melalui
+pengembangan kompetensi Sumber Daya
+Manusia Kemenlu, termasuk Pegawai
+Setempat Perwakilan RI. Para pegawai
+Setempat ini menjalankan fungsi sebagai
+supporting staff, dengan tugas utama
+mendukung pelaksanaan upaya pencapaian
+visi dan misi Perwakilan.
+Untuk itu Pusdiklat menyelenggarakan
+Bimbingan Teknis Pengelolaan Keuangan
+dan Barang Milik Negara (BMN) bagi
+dengan 23 Juli 2021. Pelatihan daring
+tersebut diikuti 25 peserta dari KBRI Johor
+Bahru, KBRI Helsinki, KBRI Abu Dhabi, KBRI
+Port Moresby, KBRI Colombo, KBRI Alger,
+KJRI Shanghai, KBRI Bucharest, KBRI
+Baghdad dan KBRI Nairobi.
+Sumber: Dokumentasi Bidang PPN, Bimtek Pengelolaan Keuangan dan (BMN) bagi Pegawai/Calon Pegawai Setempat yang akan ditempatkan
+pada Fungsi Administrasi di Perwakilan RI.
+Kontributor : Emmi Lathifah
+
+Bimtek diselenggarakan dalam rangka
+membekali para Pegawai Setempat dengan
+pengetahuan dan keterampilan terkait
+masalah pengelolaan keuangan dan
+pengelolaan BMN, khususnya penggunaan
+aplikasi-aplikasi yang terus berkembang
+secara dinamis seiring kemajuan teknologi.
+Selama proses pembelajaran, peserta
+mendapatkan materi dan mengikuti praktek
+aplikasi pengelolaan keuangan dan BMN.
+Aplikasi yang dipelajari peserta pelatihan
+mencakup Aplikasi keuangan SAS, SIMKEU,
+dan SAIBA. Para peserta juga mendalami
+berbagai aplikasi Pengelolaan BMN, yang
+terdiri dari Aplikasi Persediaan, SIMAN dan
+SIMAK BMN.
+Sebagaimana berbagai kegiatan pelatihan
+daring lainnya, khususnya yang melibatkan
+peserta dari Perwakilan RI, pelaksanaan
+kegiatan Bimtek kali ini tidak terlepas dari
+berbagai tantangan. Mulai dari kendala
+jaringan internet yang tidak stabilnya,
+khususnya yang dialami peserta yang
+tengah bertugas di Baghdad, sampai
+dengan keharusan untuk bergadang
+selama mengikuti Bimtek, akibat perbedaan
+zona waktu yang cukup signifikan.
+Meski demikian tantangan tersebut tidak
+melunturkan antusiasme para peserta,
+yang bersemangat dalam mengikuti
+rangkaian Bimtek. Ke depan Pusdiklat
+merencanakan pelaksanaan Bimtek
+Gelombang II pada bulan November 2021.
+Jangan sungkan untuk bergabung!
+Sumber: Dokumentasi Bidang PPN, Foto Peserta Bimtek Pengelolaan Keuangan dan (BMN) bagi Pegawai/Calon Pegawai Setempat yang akan
+ditempatkan pada Fungsi Administrasi di Perwakilan RI.
+Kontributor : Emmi Lathifah
+IWhat’s On In Pusdiklat Edisi Juli 2021I 18IWhat’s On In Pusdiklat Edisi Juli 2021I17
+Examination Services, English Services dan
+Professional Services. Examination
+Services merupakan program penilaian
+kemampuan Bahasa Inggris, terdiri dari tes
+IELTS, APTIS, dan English Score, yang
+memiliki tujuan dan kelebihan yang
+berbeda antar satu sama lain.
+Sementara English Online, Myclass Online,
+IELTS Coach Online. Adapun Professional
+Skills Program British Council merupakan
+pelatihan pengembangan kemampuan
+menulis dan berkomunikasi melalui
+berbagai materi, khususnya Written
+Communication serta Interpersonal
+Communication.
+Selain pelatihan peningkatan kemampuan
+Kerja Sama dengan British Council: Kapan Lagi Bisa
+Belajar Bahasa Inggris Langsung dengan Ahlinya?
+Penulis dan Motivator asal Kanada, Brian Tracy, pernah berucap, “Learn from the
+experts, you will not live long enough to figure it all out of yourself”. Ungkapan
+tersebut mencerminkan upaya Pusdiklat Kemlu dalam menjajaki kerjasama dengan
+British Council, terutama dalam pelatihan Bahasa Inggris bagi segenap pegawai
+Kemlu.
+paya kolaborasi dengan lembaga
+yang berkedudukan di bilangan
+SCBD Jakarta tersebut dilakukan melalui
+pertemuan tanggal 26 Juli 2021, yang juga
+dihadiri perwakilan dari Kedubes Inggris di
+Jakarta.
+Colm Downes, selaku Director English,
+Education and Society, British Council
+menyampaikan kesiapannya untuk
+bekerjasama dengan Pusdiklat, termasuk
+dalam bentuk program yang bersifat tailor
+made, untuk memenuhi kebutuhan
+penyelenggaraan pelatihan bagi ASN
+Kemlu selain JF Diplomat.
+Terdapat tiga program utama yang
+ditawarkan oleh British Council yakni
+U
+Sumber: Dokumentasi Bidang KSPP. Dokumentasi Kerja Sama dengan British Council
+
+Bahasa Inggris, pihak Kedubes Inggris
+juga menyampaikan komitmennya
+untuk bekerjasama dengan Pusdiklat
+dengan mengerahkan expert dari
+Inggris, untuk menjadi narasumber atau
+pembicara dalam beraneka ragam Diklat
+maupun seminar yang diselenggarakan
+oleh Pusdiklat. Pertemuan ini
+merupakan kelanjutan dari pertemuan
+awal yang diadakan pada 21 Juni 2021.
+Sumber: Dokumentasi Bidang KSPP. Dokumentasi Kerja Sama dengan British
+Council
+Kerja Sama Diklat Diplomatik RI – Ekuador Sepakat
+untuk Terus Dorong TIndak Lanjut Kerja Sama Diklat
+Diplomatik
+Juni 2020, setelah
+kompetisi Liga Inggris
+musim 2019/2020 sempat
+tertunda 100 hari lamanya,
+akhirnya Liverpool berhasil
+memastikan diri sebagai
+juara liga. Sebelumnya
+pada bulan Maret 2020,
+klub besutan pelatih
+Jerman Juergen Klopp ini
+hanya membutuhkan dua
+kemenangan lagi untuk
+menghapus dahaga gelar
+liga selama 30 tahun.
+Namun tak dinyana,
+kompetisi terpaksa
+ditunda akibat pandemi
+COVID-19.
+Ketidakpastian sempat
+meruncing menyusul ber-
+salah satu klub sepakbola tersohor di dunia
+ini, saat Chelsea berhasil mengalahkan
+Manchester City 2-1, dan mengkonfirmasi
+kejayaan Liverpool di puncak klasemen di
+tahun itu.
+Kisah kemenangan yang tertunda tersebut
+mirip dengan MoU kerjasama Diklat RI-
+Ekuador. Setelah ditanda-tangani pada
+tahun 2006, langkah implementasi MoU
+inicenderung stagnan. Terlebih lagi
+Akademi Diplomatik Kemlu Ekuador
+sempat vakum cukup lama dan baru
+dibuka kembali oleh Pemerintah Ekuador
+pada tahun 2018.
+Akademi Diplomatik Kemlu Ekuador, H.E.
+Alejandro Suarez, pada tanggal 30 Juli
+2021. MoU kerja sama Diklat diplomatik
+kedua negara tersebut ditandatangani 15
+tahun silam,
+Melalui pertemuan daring ini, kedua pihak
+bertukar pengalaman, khususnya terkait
+lesson learned dan best practices dalam
+penyelenggaraan DIKLAT diplomatik.
+Sejumlah program kerjasama potensial pun
+mengemuka dalam pembahasan. Mulai dari
+partisipasi diplomat senior Ekuador dalam
+pelatihan “Indonesia-NAM Senior
+Diplomatic Online Training”, pertukaran
+publikasi, penyelenggaraan pelatihan
+bersama, sampai dengan penyelenggaraan
+Sharing Session on UNSC bagi diplomat
+Ekuador.
+Ke depan, Kapusdiklat dan Dubes Suarez
+juga menyepakati pula perlunya diskusi
+lebih lanjut terkait pembaharuan MoU Kerja
+Sama Diklat mengingat adanya keperluan
+penyesuaian terhadap MoU kerjasama
+Diklat, menyesuaikan dengan dinamika,
+perkembangan dan kebutuhan Diklat yang
+makin kompleks. Terbukanya jalur
+komunikasi langsung antara kedua
+penyelenggara pelatihan diplomat ini
+diharapkan juga membuka berbagai potensi
+yang akan mendekatkan hubungan
+Indonesia dengan negara dimana
+Kepulauan Galapagos ini berada. Mari
+bersama kita wujudkan “kemenangan” yang
+tertunda ini!
+munculannya berbagai rumor. Salah satunya bahkan
+membuat seluruh penggawai The Reds was-was karena ada
+wacana kompetisi akan dinyatakan batal. Dapat dibayangkan
+kegembiraan dan rasa lega pemain maupun penggemar
+Guna mendorong langkah-langkah tindak
+lanjut MoU kerja sama Diklat yang lebih
+konkret, Kapusdiklat telah melaksanakan
+Online Consultation dengan Direktur
+Sumber: Dokumentasi Bidang KSPPDokumentasi Pertemuan Ekuador
+IWhat’s On In Pusdiklat Edisi Juli 2021I 20IWhat’s On In Pusdiklat Edisi Juli 2021I19
+Kontributor: Liana Diah Astari
+Kontributor: Liana Diah Astari
+
+What’s On In Pusdiklat Edisi Juni 2021II27
+Pojok
+Reformasi
+Birokrasi
+un Tzu adalah sosok seorang
+jenderal kenamaan asal Tiongkok
+kuno yang sangat disegani sebagai
+seorang ahli strategi militer dan filsuf yang
+handal. Pria bernama asli Sun Wu ini juga
+populer sebagai penulis karya strategi
+militer yang sangat berpengaruh di dunia,
+berjudul “The Art of War”. Salah satu kata
+bijak Sun Tzu ialah “If you know the enemy
+and know yourself you need not fear the
+results of a hundred battles”.
+Sangatlah tepat betapa mengenali musuh
+dan diri sendiri tentunya menjadi hal
+penting yang harus dilakukan seseorang
+saat menghadapi segala bentuk
+peperangan. Termasuk bagi kita semua
+dalam upaya memerangi penyalahgunaan
+Narkotika. Untuk dapat berperan aktif
+bersama aparat penegak hukum, kita perlu
+mengenali apa itu narkotika dan
+bagaimana pola peredarannya.
+Oleh karena Pemerintah pun meluncurkan
+Rencana Aksi Nasional Pencegahan dan
+Pemberantasan Penyalahgunaan dan
+Peredaran Gelap Narkotika Prekursor
+Narkotika (RAN P4GN). Kemlu pun turut
+berpartisipasi dalam program tersebut,
+antara lain melalui induksi materi anti
+narkotika dalam berbagai Diklat, baik Diklat
+fungsional diplomat sampai dengan Diklat
+Latsar CPNS, khususnya selama periode
+enam bulan pertama di tahun 2021
+Perangi Narkoba Lewat Jalur Edukasi
+S
+Bahkan pada tanggal 2 Maret 2021, pada
+saat yang hampir bersamaan para peserta
+Diklat fungsional diplomatik SESDILU dan
+SESPARLU disambangi oleh unsur
+pimpinan Badan Narkotika Nasional (BNN).
+Tak tanggung-tanggung Kepala BNN
+Petrus Rheinhard Golose sampai turun
+gunung untuk bertukar pikiran dengan 19
+orang peserta Diklat SESPARLU angkatan
+ke-67 mengenai “Pencegahan Penyalah-
+gunaan dan Peredaran Gelap Narkotika dan
+Prekursor Narkotika”.
+Sementara Direktur Kerja Sama BNN
+Achmad Djatmiko menyempatkan diri untuk
+berdiskusi dengan peserta Diklat SESDILU
+angkatan ke-69 mengenai “Optimalisasi
+Kerja Sama P4GN di Asia Tenggara
+Menjelang Keketuaan Indonesia di ASEAN
+2023”.
+IWhat’s On In Pusdiklat Edisi Juli 2021I 22
+
+Mempertimbangkan ancaman narkoba
+pada segenap ASN muda Kemlu, Pusdiklat
+pun menghadirkan Penyuluh Narkoba Ahli
+Madya BNN, Rotua Sihotang, untuk
+menyampaikan materi mengenai “Anti
+Narkoba dan Prekursor Narkotika” kepada
+114 CPNS Kemlu dalam sesi Pembinaan
+Sikap dan Perilaku Pelatihan Dasar (Latsar)
+CPNS Golongan III Kementerian Luar
+Negeri tanggal 22 Maret 2021.
+Ayo Berani LAPOR untuk Pusdiklat yang
+Lebih Bersih Melayani
+Di penghujung tahun 2020, kabar baik
+berhembus kencang dari Pusdiklat
+Kemlu, seiring keberhasilan diraihnya
+predikat Zona Integritas menuju
+Wilayah Bebas Korupsi. (ZI-WBK).
+Namun perjuangan belum berakhir,
+karena tentunya bukan hanya sekedar
+predikat yang dikejar, melainkan juga
+tereliminasinya segala bentuk tindak
+korupsi dan terlaksananya pelayanan
+prima oleh jajaran Pusdiklat. Untuk itu
+tentunya Pusdiklat tidak dapat berjalan
+sendiri. Diperlukan peran aktif dari
+Inspektorat Jenderal selaku Aparat
+Pengawasan Internal Pemerintah
+(APIP), kerjasama dari unit kerja terkait
+lainnya, serta tak kalah penting peran
+IWhat’s On In Pusdiklat Edisi Juli 2021I 24IWhat’s On In Pusdiklat Edisi Juli 2021I23
+Sumber: Dokumentasi Bidang KSPP,
+Pemaparan materi “Anti Narkoba dan
+Prekursor Narkotika” pada sesi
+Pembinaan Sikap dan Perilaku
+Pelatihan Dasar (Latsar) CPNS
+Golongan III Kementerian Luar Negeri
+tanggal 22 Maret 2021.
+Tak berhenti sampai di situ, penyampaian
+materi anti narkoba tersebut akan terus
+menjadi bagian dari kurikulum Diklat
+fungsional diplomatik berjenjang. Hal ini
+juga sebagai perwujudan komitmen Kemlu,
+khususnya Pusdiklat, untuk turut
+berpartisipasi aktif memerangi bahaya
+laten Narkoba.
+Sumber: Dokumentasi UPT SESDILU,
+Pemaparan materi “Optimalisasi Kerja
+Sama P4GN di Asia Tenggara
+Menjelang Keketuaan Indonesia di
+ASEAN 2023” pada Diklat Sekolah Staf
+Dinas Luar Negeri (SESDILU) tanggal 2
+Maret 2021.
+Sumber: Dokumentasi UPT SESPARLU,
+Pemaparan materi “Pencegahan
+Penyalahgunaan dan Peredaran Gelap
+Narkotika dan Prekursor Narkotika”
+pada Diklat Sekolah Staf dan Pimpinan
+Luar Negeri (SESPARLU) tanggal 2
+Maret 2021
+Kontributor: Radea Fauzi Hidayat
+Sumber:Dokumentasi Pusdiklat Kemlu RI, Foto Ka Pusdiklat dengan Sertifikat WBK
+Bagi Pusdiklat Kemlu RI
+
+@lapor1708 serta aplikasi mobile
+(Android dan iOS). Ke depan,
+diharapkan kita semua turut
+berpartisipasi dalam melakukan
+pengawasan terhadap segenap jajaran
+Pusdiklat. Jangankan praktik tindak
+pidana korupsi ataupun pungli,
+keluhan atas kurang primanya layanan
+Pusdiklat sekalipun juga dapat
+disampaikan melalui aplikasi ini.
+Dengan demikian diharapkan seluruh
+pegawai Pusdiklat, mulai dari
+Kapusdiklat, Direktur UPT, jabatan
+administratur sampai dengan rekan-
+rekan cleaning service dari Provices
+atau tenaga Satpam sekalipun,
+semakin mawas diri dan selalu
+menjaga profesionalisme dalam
+menyelenggarakan layanan diklat.
+Sebagaimana pernah disampaikan
+oleh Presiden ke-44 Amerika Serikat
+Barrack Obama,
+IWhat’s On In Pusdiklat Edisi Juli 2021I25 IWhat’s On In Pusdiklat Edisi Juli 2021I 26
+Pada awal Juli 2021, Inspektorat
+Jenderal selaku admin utama
+Kementerian Luar Negeri telah
+menambahkan Pusdiklat sebagai salah
+satu satuan kerja Kemlu yang
+terhubung dalam aplikasi LAPOR
+(Layanan Aplikasi dan Pengaduan
+Online Rakyat).
+Pusdiklat pun kini telah menjadi salah
+satu sub admin dari total 133
+Perwakilan RI di luar negeri dan 6
+(enam) satuan kerja di dalam negeri
+yaitu Biro SDM, Direktorat Konsuler,
+Direktorat Perlindungan WNI dan BHI,
+Direktorat Fasilitas Diplomatik,
+Direktorat Informasi dan Media, dan
+Museum Konferensi Asia Afrika, yang
+telah terhubung dengan aplikasi
+LAPOR.
+Kontributor: Radea Fauzi Hidayat
+“Often the best resource of
+information about waste, fraud, and
+abuse in government is an existing
+government employee committed to
+public integrity and willing to speak
+out. Such acts of courage and
+patriotism, which can sometimes save
+lives and often save taxpayer dollars,
+should be encouraged rather than
+stifled. We need to empower federal
+employees as watchdogs.”
+dari seluruh pegawai Kementerian Luar
+Negeri yang memanfaatkan layanan
+Pusdiklat, yakni para peserta
+beraneka ragam Diklat yang
+diselenggarakan oleh Pusdiklat.
+Selain melalui form evaluasi
+penyelenggaraan Diklat, yang sekarang
+ini sudah menjadi suatu hal yang wajib
+untuk diisi oleh seluruh peserta di
+akhir penyelenggaraan Diklat; telah
+hadir saluran whistle blowing lainnya,
+dengan memanfaatkan perkembangan
+teknologi dalam peningkatan
+pengawasan terhadap pelayanan
+publik Pusdiklat.
+Hadirnya aplikasi LAPOR tersebut bertujuan
+untuk meningkatkan penguatan pengawasan
+sekaligus meningkatkan kualitas tata kelola
+birokrasi serta menumbuhkan budaya integritas
+dan melayani. Aplikasi ini dapat diakses melalui
+website www.lapor.go.id, SMS 1708, twitter
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I27 IWhat’s On In Pusdiklat Edisi Juli 2021I 28
+Infrastruktur Kuat,
+Diplomasi Hebat
+Saat peresmian terminal Bandara Kuabang
+di Halmahera Utara, Maluku Utara, pada
+bulan Maret 2021 yang lalu, Presiden
+Indonesia Joko Widodo menyampaikan,
+“Infrastruktur itu adalah
+membangun peradaban. Ini yang
+sering tidak kita sadari, bahwa
+infrastruktur membangun perada-
+ban.”
+Selain itu lulusan fakultas kehutanan
+Universitas Gadjah Mada ini melihat
+manfaat lain dari keberadaan infrastruktur
+di suatu daerah. “Bahwa membangun
+infrastruktur bukan hanya melulu fisik, tapi
+juga membangun sebuah kompetisi,
+membangun competitiveness daya saung
+dengan negara-negara lain,” tutur Presiden
+ke-7 negara kita tercinta ini.
+Penjelasan Presiden Jokowi yang
+mengkaitkan arti penting infrastruktur
+dalam membangun peradaban maupun
+daya saing tersebut sedikit banyak juga
+tercermin pada pentingnya infrastruktur
+diplomasi Indonesia. Prioritas Diplomasi
+Indonesia periode 2019-2024, yang lebih
+tersohor dengan sebutan Prioritas 4+1, juga
+mencakup infrastruktur diplomasi.
+Menyikapi kebijakan tersebut, Pusdiklat pun
+menjadikan materi Infrastruktur Diplomasi
+sebagai bagian integral mayoritas
+pelatihan yang diselenggarakan oleh
+Pusdiklat. Tak hanya dalam In House
+Training (IHT) dan pelatihan lain yang
+diperuntukkan bagi Jabatan Fungsional
+(JF) Penata Kekanseleraian (PK),
+melainkan juga dalam pelatihan fungsional
+diplomatic berjenjang, pelatihan bagi
+PDDN, pelatihan bagi calon pegawai
+setempat maupun orientasi bagi JF
+Diplomat, JF PK, JF Pranata Informasi
+Diplomasi maupun pejabat K/L
+lain yang akan bertugas di
+Perwakilan RI.
+Materi Infrastruktur Diplomasi
+tersebut antara lain mencakup
+perencanaan anggaran, pengelola-
+an keuangan, pengelolaan Sumber
+Daya Manusia, pengadaan dan
+pengelolaan Barang Milik Negara
+(BMN), dan lain-lain. Pada Diklat
+diplomatik berjenjang SESPARLU,
+materi Infrastruktur Diplomasi tidak hanya
+dikemas dalam bentuk paparan dan tanya
+jawab, melainkan juga menjadi tema salah
+satu Table Top Exercise (TTX), Final
+Project maupun Rancangan Proyek
+Strategis Perorangan (RPSP).
+Demikian halnya dalam Diklat SESDILU,
+dengan adanya kegiatan
+Rancangan Proyek Inovatif
+Perorangan (RPIP). Sementara
+pada Diklat Sekdilu, terdapat praktek
+penyusunan TOR dan RAB. Melalui
+berbagai kegiatan tersebut, peserta Diklat
+mendapatkan kesempatan untuk
+mempraktekkan pengetahu-an maupun
+keterampilan terkait infrastruktur
+diplomasi yang telah dipelajari selama
+Diklat.
+Pembicara/Narasumber untuk materi
+Infrastruktur Diplomasi tersebut tidak
+hanya berasal dari pejabat unit kerja,
+Eselon II terkait di Sekretariat Jenderal dan
+Inspektorat Jenderal Kementerian Luar
+Negeri, melainkan juga pejabat maupun JF
+Widyaiswara dari K/L terkait, seperti
+Kementerian Keuangan (termasuk KPPN)
+LKPP, Bappenas, BPKP, KPK dan ANRI.
+Pusdiklat juga memfasilitasi keikutsertaan
+pegawai Kemlu, baik JF Diplomat maupun
+JFPK untuk mengikuti pelatihan
+pengembangan kompetensi dalam hal
+Infrastruktur Diplomasi, seperti pelatihan
+Manajemen Keuangan Negara yang
+diselenggarakan Badan Pendidikan dan
+Pelatihan Keuangan Kementerian Keuangan
+ataupun pelatihan sekaligus sertifikasi
+Pengadaan Barang dan Jasa, bekerjasama
+dengan Lembaga Kebijakan Pengadaan
+Barang/Jasa Pemerintah (LKPP).
+Ke depan Pusdiklat akan terus
+mengupayakan penyempurnaan
+penyampaian materi-materi Infrastruktur
+Diplomasi melalui kerja sama dengan unit
+kerja terkait dalam pengembangan
+kurikulum maupun modul pembelajaran
+secara kontinu. Dalam kaitan ini, Pusdiklat
+juga terus mengupayakan peningkatan
+kerja sama dengan K/L terkait lainya, antara
+lain BPK. Kolaborasi, koordinasi dan kerja
+sama memang menjadi kunci dalam
+membangun Infrastruktur Diplomasi yang
+kuat. Demi penguatan peran dan daya saing
+Diplomat Indonesia di kancah dunia.
+Kontributor: Ade Setiawan
+
+IWhat’s On In Pusdiklat Edisi Juli 2021I29 IWhat’s On In Pusdiklat Edisi Juli 2021I 30
+Sudah saatnya Diplomat Indonesia
+Perdalam Isu Smart Farming
+“Oleh Bung Karno, saya diharuskan masuk ke Fakultas Pertanian. Sebab urusan
+pangan merupakan urusan mati hidupnya bangsa,” tutur Presiden kelima Indonesia
+Megawati Soekarnoputri dalam sambutannya saat penganugerahan gelar doctor
+honoris causa bidang politik dan pemerintahan dai Universitas Padjadjaran di bulan
+Mei 2016. Betapa pentingnya sektor pertanian bagi Presiden Sukarno hingga
+memaksa putrinya mengamnbi jurusan pertanian.
+Betapa tidak, negara kita
+tidak hanya dikenal
+sebagai negara kepulauan,
+melainkan juga tersohor
+sebagai negara yang
+memiliki kekayaan alam
+berlimpah, termasuk di
+sektor pertanian. Tak
+terhitung betapa banyak
+produk pertanian maupun
+perkebunan Indonesia.
+Mulai dari padi, kedelai,
+jagung, kacang tanah, dan
+ketela pohon. Hingga teh,
+kopi, kelapa, cengkeh, tebu, ataupun karet.
+Saat ini pun ketahanan pangan masih
+menjadi salah satu isu prioritas nasional,
+sebagaimana dimuat dalam UU Nomor 18
+tahun 2012 tentang Pangan. Salah satu
+upaya yang tengah dilakukan Pemerintah
+adalah penerapan smart farming, yakni
+penerapan dan pemanfaatan aplikasi
+teknologi informasi dan komunikasi
+modern (ICT) pada sektor pertanian.
+Hal ini dipaparkan oleh Agung Prabowo
+dari Badan Penelitian dan Pengembangan
+Pertanian, Kementerian Pertanian, dalam
+Focus Group Discussion (FGD) Food
+System Summit: Smart Farming untuk
+Ketahanan Pangan Nasional dan Potensi
+Ekonominya ke Luar Negeri, yang
+diselenggarakan Badan Pengkajian dan
+Pengembangan Kebijakan Kemlu pada
+tanggal 8 Juli 2021.
+Smart farming dinilai berpotensi menjadi
+salah satu game changer dari transformasi
+sistem pangan Indonesia dan global.
+Selain perkembangan teknologi lapangan
+pertanian (on-farm), pengembangan smart
+farming juga perlu memperhatikan
+perkembangan teknologi di sub sistem lain
+(storage, logistik, industri hilir, konsumsi).
+Terdapat tiga komponen penting smart
+farming, yakni management information
+antara lain terkait inovasi penggunaan
+benih, teknik/praktek intercropping, crop
+protection melalui bahan baku ramah
+lingkunan, dan teknologi seperti satelit,
+drone, serta sistem informasi geografis
+Dalam kaitan dengan presidensi G20
+Indonesia saat ini, Pemerintah diharapkan
+dapat memanfaatkan working group G20
+terkait agriculture sebagai sarana promosi
+smart farming Indonesia.
+Berkaca pada berbagai potensi smart
+farming Indonesia, khususnya potensi di
+luar negeri, yang terkuak dalam FGD
+tersebut, tentunya isu smart farming perlu
+didalami ole JF Diplomat Kemlu. Dalam
+kaitan ini, Pusdikat patut
+mempertimbangkan untuk menjadikan isu
+smart farming sebagai salah satu modul
+pada Diklat fungsional diplomatic
+berjenjang.
+Selain melalui pemaparan materi dan
+Tanya-Jawab, materi smart farming juga
+dapat diangkat sebagai tema studi kasus,
+Table Top Exercise, Carousel Interview,
+topik Final Project ataupun TASKAP
+peserta Diklat.
+system, precision devices for
+agriculture, dan agricultural
+automation and robotics.
+Pengembangan smart farming
+perlu dilakukan secara sektoral
+dengan memperhatikan
+kebutuhan masing-masing
+kawasan dan komoditas. Selain
+itu, diperlukan adanya jaminan
+pasar untuk meningkatkan
+motivasi petani.
+Potensi ekonomi smart farming
+Indonesia di pasar luar negeri
+Paparkan oleh Agung Prabowo dari Badan Penelitian dan Pengembangan Pertanian,
+Kementerian Pertanian, dalam Focus Group Discussion (FGD) Food System Summit: Smart
+Farming untuk Ketahanan Pangan Nasional dan Potensi Ekonominya ke Luar Negeri,
+Kontributor: Ade Setiawan
+
+Pusdiklat
+menuju
+WBBM
+
+Alamat Redaksi:
+Jl. Sisingamangaraja No.73, RT.2/RW.6, Gunung,
+Kec. Kebayoran Baru, Kota Jakarta Selatan,
+Daerah Khusus Ibukota Jakarta 12120
+Berawal dari sebuah tempat
+untuk merokok (smoking
+zone) yang dialih fungsikan,
+Taman Ilmu atau “The
+Garden of Knowledge” hadir
+dan menjadi hidden gem
+atau spot tersembunyi di
+Gedung Pusdiklat yang
+berfungsi sebagai outdoor
+classroom yang dapat
+digunakan sebagai tempat
+tutoring maupun function
+ukuran kecil.
+TAMAN ILMU

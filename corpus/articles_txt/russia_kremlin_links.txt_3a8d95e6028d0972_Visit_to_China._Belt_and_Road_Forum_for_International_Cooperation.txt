@@ -1,0 +1,39 @@
+seed_url: http://en.kremlin.ru/events/president/trips/72535/photos/73243
+final_url: http://en.kremlin.ru/events/president/trips/72535/photos/73243
+title: Visit to China. Belt and Road Forum for International Cooperation
+date: 2023-10-17
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Photos
+Visit to China. Belt and Road Forum for International Cooperation
+In Beijing, the Russian President took part in the 3
+Belt and Road Forum for International Cooperation. He spoke at the opening ceremony, and later met with President of the People's Republic of China Xi
+Jinping.
+Vladimir Putin had a series of bilateral meetings on the sidelines of the forum. He met with President of Vietnam Vo Van Thuong, Prime Minister of Hungary Viktor Orban, Prime Minister
+of Thailand Srettha Thavisin, President of Mongolia Ukhnaagiin Khurelsukh,
+President of Laos Thongloun Sisoulith, and Caretaker Prime Minister of Pakistan
+Anwaar-ul-Haq Kakar.
+Concluding his visit to China, Vladimir Putin answered the Russian media’s questions.
+October 17 − 18, 2023
+51 photos
+Geography
+People's Republic of China
+Publication status
+Published in section:
+Trips
+Publication date:
+October 17, 2023, 23:30
+Direct link:
+en.kremlin.ru/d/72535
+Text
+Photo
+Direct link
+http://en.kremlin.ru/events/president/trips/72535
+Telegram
+Copy link
+Send by email
+Last updated at
+October 19, 2023, 09:44

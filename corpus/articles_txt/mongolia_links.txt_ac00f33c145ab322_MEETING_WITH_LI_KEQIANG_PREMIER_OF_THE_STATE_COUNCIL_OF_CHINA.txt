@@ -1,0 +1,16 @@
+seed_url: https://president.mn/en/2019/04/24/meeting-with-li-keqiang-premier-of-the-state-council-of-china/
+final_url: https://president.mn/en/2019/04/24/meeting-with-li-keqiang-premier-of-the-state-council-of-china/
+title: MEETING WITH LI KEQIANG, PREMIER OF THE STATE COUNCIL OF CHINA
+date: 2019-04-24T14:27:23+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/24 10:27:23
+MEETING WITH LI KEQIANG, PREMIER OF THE STATE COUNCIL OF CHINA
+President of Mongolia Khaltmaagiin Battulga arrived today at the Beijing Capital International Airport to pay a state visit to the People’s Republic of China. The head of state of Mongolia was welcomed by D.Gankhuyag, Ambassador Extraordinary and Plenipotentiary of Mongolia to China, Kong Xuanyou, Deputy Minister of Foreign Affairs of China, and Xing Haiming, Ambassador Extraordinary and Plenipotentiary of China to Mongolia.
+In this regard, Premier of the State Council of China Li Keqiang paid a courtesy call on President Battulga today in the Diaoyutai State Guesthouse.
+At the beginning of the meeting, Premier Li Keqiang underlined how China has attached great importance to the development of friendly relations with Mongolia and said, “This year marks the 70th anniversary of diplomatic relations between China and Mongolia and the 25th anniversary of the renewal of the Treaty on Friendly Relations and Cooperation, and it is a new opportunity for us to advance bilateral cooperation.”
+For his part, President Battulga said, “My state visit to China at the invitation of President Xi Jinping holds special significance as this year marks the 70th anniversary of diplomatic relations between Mongolia and China and the 25th anniversary of the renewal of the Treaty on Friendly Relations and Cooperation. I am pleased to attend the Second Belt and Road Forum for International Cooperation. I express my gratitude towards the warm welcome.”
+President Battulga will hold official talks with President Xi Jinping tomorrow.

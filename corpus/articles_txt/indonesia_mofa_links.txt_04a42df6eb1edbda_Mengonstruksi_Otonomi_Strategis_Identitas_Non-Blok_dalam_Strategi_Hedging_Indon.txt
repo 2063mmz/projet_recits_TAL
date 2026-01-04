@@ -1,0 +1,294 @@
+seed_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/155
+final_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/155
+title: Mengonstruksi Otonomi Strategis: Identitas Non-Blok dalam Strategi Hedging Indonesia di Tengah Rivalitas AS-Tiongkok
+date: Issue Published :
+                                          December 23, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Issue
+Vol. 10 No. 2 (2025): Jurnal Hubungan Luar Negeri
+Issue Published
+December 23, 2025
+Date Log
+Submitted
+December 10, 2025
+Accepted
+December 23, 2025
+Published
+December 31, 2025
+Mengonstruksi Otonomi Strategis: Identitas Non-Blok dalam Strategi
+Hedging
+Indonesia di Tengah Rivalitas AS-Tiongkok
+https://doi.org/10.70836/b9c94e27
+Syifa Aprilia Putri
+Universitas Pembangunan Nasional Veteran Jakarta, Indonesia
+Nanda Yulfi Chairunnisa
+Widya Erti Indonesia, Indonesia
+Anggi Prastyono
+Direktorat Jenderal Bea dan Cukai RI, Indonesia
+Corresponding Author(s) : Syifa Aprilia Putri
+aprrlsyifa@gmail.com
+JURNAL HUBUNGAN LUAR NEGERI
+Vol. 10 No. 2 (2025): Jurnal Hubungan Luar Negeri
+Article Published :
+December 31, 2025
+Share on Facebook
+Share on Twitter
+Pinterest
+Email
+Telegram
+Abstract
+Cite
+References
+Authors
+Details
+Abstract
+Di tengah eskalasi persaingan kekuatan besar antara Amerika Serikat dan Tiongkok, kajian mengenai kebijakan luar negeri Indonesia cenderung didominasi oleh pendekatan realisme pragmatis yang memandang strategi
+hedging
+semata sebagai kalkulasi manfaat materiil. Perspektif ini masih mengabaikan peran fundamental identitas dalam membentuk perilaku negara. Penelitian ini bertujuan mengisi kesenjangan teoritis tersebut dengan menganalisis prinsip Non-Blok sebagai identitas yang dikonstruksi secara intersubjektif dalam strategi hedging Indonesia saat ini. Dengan menggunakan kerangka Konstruktivisme, penelitian ini menerapkan metode kualitatif deskriptif analitis melalui studi kepustakaan yang mencakup pernyataan resmi, berita, buku dan artikel ilmiah. Data tersebut kemudian dianalisis secara interpretatif untuk melacak pola narasi serta makna di balik keputusan strategis. Temuan utama menunjukkan bahwa strategi
+hedging
+Indonesia bukan sekadar taktik pragmatis sesaat, melainkan sebuah mekanisme aktif untuk mengkonstruksi otonomi strategis yang berakar pada identitas Non-Blok. Identitas ini beroperasi melalui mekanisme ganda; mempertahankan keterlibatan ekonomi dengan Tiongkok serta menjaga kerja sama keamanan dengan Amerika Serikat guna mengubah persepsi ambiguitas menjadi daya tawar nyata. Studi ini merekomendasikan agar Indonesia mengapitalisasi identitas tersebut untuk bergerak melampaui fleksibilitas diplomatik menuju kepemimpinan aktif dalam pembentukan norma di Indo-Pasifik.
+Keywords
+identitas Non-Blok
+Kebijakan Luar Negeri Indonesia
+konstruktivisme
+otonomi strategis
+strategi hedging
+Full Article
+Generated from XML file
+Mengonstruksi Otonomi Strategis: Identitas Non-Blok dalam Strategi Hedging Indonesia di Tengah Rivalitas AS-Tiongkok. (2025).
+JURNAL HUBUNGAN LUAR NEGERI
+(2).
+https://doi.org/10.70836/b9c94e27
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+References
+Adler, E. & Pouliot, V. (2011) ‘International practices’, International Theory, 3(1), pp. 1–36. doi:10.1017/S175297191000031X.
+Al-Fadhat, F. (2022) “Indonesia’s G20 presidency: neoliberal policy and au-thoritarian tendencies,” Australian Journal of International Affairs, 76(6), pp. 617–623. Available at:
+https://doi.org/10.1080/10357718.2022.2070598
+Andrena, C., 2025. Strategi Indonesia Da-lam Merespon Pelemahan Pengaruh Amerika Serikat Dan Peningkatan Pengaruh Tiongkok Dalam Bidang Ekonomi. Global Insight Journal, 10(1).
+Anwar, D.F. (2020) “Indonesia and the ASEAN outlook on the Indo-Pacific,” International Affairs, 96(1), pp. 111–129. Available at:
+https://doi.org/10.1093/ia/iiz223
+Anwar, D.F. (2023a) “Indonesia’s hedging plus policy in the face of China’s rise and the US-China rivalry in the Indo-Pacific region,” The Pacific Review, 36(2), pp. 351–377. Available at:
+https://doi.org/10.1080/09512748.2022.2160794
+Anwar, D.F. (2023b) “Indonesia’s hedging plus policy in the face of China’s rise and the US-China rivalry in the Indo-Pacific region,” The Pacific Review, 36(2), pp. 351–377. Available at:
+https://doi.org/10.1080/09512748.2022.2160794
+Aristama, F. (2023) “Emerging Middle Power dan Tantangan Perwujudan Visi Indonesia 2045 di Asia Pasifik: Systematic Review [Emerging Middle Power and Challenges on Realizing Vision of Indonesia 2045 in Asia Pa-cific: Systematic Review],” Jurnal Po-litica Dinamika Masalah Politik Dalam Negeri dan Hubungan Internasional, 13(2), pp. 298–318. Available at:
+https://doi.org/10.22212/jp.v13i2.3427
+Basundoro, A. F. (2023). Pembelian Pe-sawat Tempur Dassault Refale se-bagai Implementasi Strategic Hedging Indonesia di Indo-Pasifik. Jurnal Hub-ungan Internasional, 16(1).
+Chatterjee, S. and Kumar, A. (2024) “Ge-oeconomics, Geopolitics, and the Contemporary International Order: Some Reflections,” in Global Political Economy, Geopolitics and Interna-tional Security. Singapore: Springer Nature Singapore, pp. 35–53. Availa-ble at:
+https://doi.org/10.1007/978-981-97-2231-0_3
+Cohen, L., Manion, L., & Morrison, K. (2017). Research design and plan-ning. In Research methods in educa-tion (pp. 173-201). Routledge.Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and re-search design: Choosing among five approaches. Sage publications.
+Dzikri, N. (2020) “Kontribusi Indonesia da-lam Hubungan South-South Coopera-tion Periode 2016-2018,” Indonesian Journal of International Relations, 4(2), pp. 164–186.
+Fitriani, E. (2021) “Linking the impacts of perception, domestic politics, eco-nomic engagements, and the interna-tional environment on bilateral rela-tions between Indonesia and China in the onset of the 21 st century,” Jour-nal of Contemporary East Asia Stud-ies, 10(2), pp. 183–202. Available at:
+https://doi.org/10.1080/24761028.2021.1955437
+Frías Sánchez, C.J. (2020) “The rele-vance of nuclear weapons in the 21st century,” Araucaria, (44), pp. 427–448. Available at:
+https://doi.org/10.12795/araucaria.2020.i44.20
+Gerstl, A. (2022) Hedging Strategies in Southeast Asia. London: Routledge. Available at:
+https://doi.org/10.4324/9781003212164
+Gunn, G.C. (2022) “The Cultural Parame-ters of Indonesian Foreign Policy since 1945,” in Asian Culture, Diplo-macy and Foreign Relations, Volume II. BRILL, pp. 155–174. Available at:
+https://doi.org/10.1163/9789004508279_009
+Heriamsal, K. and Amin, A. (2024) “Kon-servasi Mangrove Sebagai Sarana Diplomasi publik Indonesia di World Water Forum 2024,” Jurnal Hubungan Luar Negeri, 9(2), pp. 157–181.
+Iksan, M. and Soong, J.-J. (2023a) “The Political Economy of Indonesia’s De-velopment Strategy under China-USA Power Rivalry and Hegemonic Com-petition: A Middle Power with Its Hedging Strategy,” The Chinese Economy, 56(4), pp. 304–320. Avail-able at:
+https://doi.org/10.1080/10971475.2022.2136696
+Iksan, M. and Soong, J.-J. (2023b) “The Political Economy of Indonesia’s De-velopment Strategy under China-USA Power Rivalry and Hegemonic Com-petition: A Middle Power with Its Hedging Strategy,” The Chinese Economy, 56(4), pp. 304–320. Avail-able at:
+https://doi.org/10.1080/10971475.2022.2136696
+Indrawan, J., Purnaningtyas, G. and Su-prayitno, D. (2023) “Kerjasama Se-latan Selatan dan Triangular Sebagai Sarana Diplomasi Indonesia Secara Global,” Jurnal Kewarganegaraan, 7(1), pp. 998–1008.
+Irawan, H.D. and Carnegie, P.J. (2025) “Different Strokes: Indonesian State-craft in the North Natuna Sea,” Jour-nal of Current Southeast Asian Affairs [Preprint]. Available at:
+https://doi.org/10.1177/18681034251347973
+Jung, S.C., Lee, J. & Lee, J.Y. (2021) ‘The Indo-Pacific Strategy and US Alliance Network Expandability: Asian Middle Powers’ Positions on Sino-US Geo-strategic Competition in Indo-Pacific Region’, Journal of Contemporary China, 30(127), pp. 53–68. doi:10.1080/10670564.2020.1766909.
+Khurshid, I. (2025) “Modi’s US Foreign Policy: Strategic Autonomy Rede-fined,” Journal of Asian and African Studies, 60(1), pp. 552–560. Available at:
+https://doi.org/10.1177/00219096231173395
+Kumaraswamy, P.R. (2024) “Challenges and Way Forward,” in Transformation of India’s Foreign Policy. London: Routledge, pp. 232–236. Available at:
+https://doi.org/10.4324/9781003539063-9
+Kusumadewi, H. and Wiswayana, W.M. (2024a) “Multilevel Hedging for Mid-dle-Regional Power: Indonesia Ascent Toward Powerhood Through Hedg-ing,” Indonesian Journal of Interna-tional Relations, 8(2), pp. 392–413. Available at:
+https://doi.org/10.32787/ijir.v8i2.591
+Kusumadewi, H. and Wiswayana, W.M. (2024b) “Multilevel Hedging for Mid-dle-Regional Power: Indonesia Ascent Toward Powerhood Through Hedg-ing,” Indonesian Journal of Interna-tional Relations, 8(2), pp. 392–413.
+Laksmana, E.A. (2021) “A Fragile Ful-crum: Indonesia-U.S. Military Rela-tions in the Age of Great-Power Competition,” Asia Policy, 16(4), pp. 106–114. Available at:
+https://doi.org/10.1353/asp.2021.0057
+Liviana, R., Dewantari, A. and Rakhmadi, R. (2023) “Eksplorasi Kontribusi Ekonomi Indonesia sebagai Negara Global South di Tingkat Global,” Jurnal Terekam Jejak, 1(1), pp. 1–22.
+McRae, D. (2019) “Indonesia’s South Chi-na Sea Diplomacy: A Foreign Policy Illiberal Turn?,” Journal of Contempo-rary Asia, pp. 1–21. Available at:
+https://doi.org/10.1080/00472336.2019.1601240
+Miles, M. B., Huberman, A. M., & Sal-dana, J. (2014). Qualitative data anal-ysis: A methods sourcebook. (No Ti-tle).
+Montolalu, R.R.K., Perwita, A.A.B. & Sudibyo (2023) ‘The operational im-pacts of the U.S.–Indonesia strategic partnership on the joint military exer-cises Garuda Shield’, Indonesian Journal of International Relations, 7(2), pp. 213–241. doi:10.32787/ijir.v7i2.459.
+Mubah A. Safril (2019a) “Indonesia’s Dou-ble Hedging Strategy toward the Unit-ed States–China Competition: Shap-ing Regional Order in the Indo-Pacific?,” Issues & Studies, 55(04), p. 1940007. Available at:
+https://doi.org/10.1142/S1013251119400071
+Mubah A. Safril (2019b) “Indonesia’s Dou-ble Hedging Strategy toward the Unit-ed States–China Competition: Shap-ing Regional Order in the Indo-Pacific?,” Issues & Studies, 55(04), p. 1940007. Available at:
+https://doi.org/10.1142/S1013251119400071
+Muhibat, S.F. (2016) “Indonesia‐U.S. Se-curity Collaboration: Still Under the Radar?,” Asian Politics & Policy, 8(1), pp. 137–154. Available at:
+https://doi.org/10.1111/aspp.12235
+Nandyatama, R.W., Ardhani, I. and Alif Alvian, R. (2025) “Indonesia’s Middle Power Diplomacy during COVID-19,” in Global Governance and The Politi-cal South. London: Routledge, pp. 180–191. Available at:
+https://doi.org/10.4324/9781003508526-15
+Nugraha, A., Madu, L., & Mulyanto, I. H. (2025). A Bridge Builder and a Voice of the Global South or a Risky Align-ment? Role Conceptions of Indone-sia's BRICS Membership. In RSF Conference Series: Business, Man-agement and Social Sciences (Vol. 5, No. 2, p. 319). Research Synergy Foundation.
+Pant, H. V (2017) “The End of Non-Alignment?,” Orbis, 61(4), pp. 527–540. Available at:
+https://doi.org/10.1016/j.orbis.2017.08.004
+PANT, H. V. and SUPER, J.M. (2015) “India’s ‘non-alignment’ conundrum: a twentieth-century policy in a changing world,” International Affairs, 91(4), pp. 747–764. Available at:
+https://doi.org/10.1111/1468-2346.12336
+Paramitha, D.I., Syabana, M.N.A. and Amin, K. (2025) “Strengthening ASEAN’s Stabilizing Role via ASEAN Outlook on the Indo-Pacific,” Nation State: Journal of International Studies, 8(1), pp. 61–79.
+Pedrason, R. (2021) ‘Indo-Pasifik dalam perspektif geopolitik dan geostrategi’, JPPI (Jurnal Penelitian Pendidikan Indonesia), 7, pp. 88. doi:10.29210/02021830.
+Pratama, A. (2020) ‘Praktik Hedging dan Dampaknya Terhadap Superpower: Dalam Konteks Asia Pasifik’, Jurnal Sentris, 1(1), pp. 50–61. doi:10.26593/sentris.v1i1.4128.50-61.
+Priamarizki, A. (2024) “Understanding the Domestic Determinants of Indonesi-ans Hedging Policy towards the Unit-ed States and China,” Contemporary Southeast Asia, 46(1), pp. 19–42. Available at:
+https://doi.org/10.1355/CS46-1b
+Putri, D.A., Anwar, S. and Sudibyo, S. (2025) “Diplomasi Pertahanan Indo-nesia di Tengah Ketidakpastian Re-gional: Antara Netralitas dan Keterli-batan Strategis (20232025),” JURNAL SYNTAX IMPERATIF: Jurnal Ilmu Sosial dan Pendidikan, 6(4), pp. 1072–1077.
+Riska, R.F.D. (2024) “China’s Belt and Road (BRI) Policy for Trade Interests in Indonesia,” Jurnal Suara Hukum, 6(1), pp. 91–107. Available at:
+https://doi.org/10.26740/jsh.v6n1.p91-107
+Rosyidin, M. (2023) Teori Hubungan In-ternasional: Dari Perspektif Klasik Sampai Non-Barat. PT. RajaGrafindo Persada-Rajawali Pers.
+Sabaruddin, S.S. and Sabariman, H. (2023) “Analisis Potensi Pasar Non-Tradisional Dalam Meningkatkan Hubungan Ekonomi Indonesia dan Namibia,” Jurnal Lemhannas RI, 11(1), pp. 1–12.
+Samosir, S.G. et al. (2024) “Indonesia’s Role on G20,” Aktivisme: Jurnal Ilmu Pendidikan, Politik dan Sosial Indone-sia, 1(3), pp. 90–100.
+Setyowati, A. (2023) “Perkembangan Karakter Kebijakan Politik Luar Negeri Indonesia Dari Masa Ke Masa,” Jurnal Multidisiplin Dehasen (MUDE), 2(4), pp. 779–784. Available at:
+https://doi.org/10.37676/mude.v2i4.4812
+Simatupang, K. H. (2025) “The US-China Competition and Indonesia’s Stance in ASEAN During Jokowi’s Leadership”, Sospol, 11(3), pp. 33–50. doi: 10.22219/jurnalsospol.v11i3.36089
+Sumarwan, A. (2024) ‘Cina tetap jadi mitra strategis kebijakan ekonomi luar negeri Indonesia’, The Conversation. Available at:
+https://theconversation.com/cina-tetap-jadi-mitra-strategis-kebijakan-ekonomi-luar-negeri-indonesia-241907
+Teo, S. (2022) “Middle Power Awkward-ness? Indonesia’s Norm Entrepre-neurship in ASEAN,” in, pp. 151–176. Available at:
+https://doi.org/10.1007/978-981-16-0370-9_6
+Trianjani, S. et al. (2025) “Evaluasi Keber-hasilan Kebijakan Politik Luar Negeri Bebas Aktif Indonesia Dalam Mem-perkuat Peran Negara Dalam Hub-ungan Internasional,” Jurnal Ilmiah Wahana Pendidikan, 11(C), pp. 233–247.
+Wardhani, B. and Dharmaputra, R. (2024) “Indonesia’s ambivalence in the Rus-sia-Ukraine war: Balancing equal sovereignty norms with a familial ap-proach,” Contemporary Security Poli-cy, 45(4), pp. 627–642. Available at:
+https://doi.org/10.1080/13523260.2024.2397926
+Wendt, A., 1995. Constructing internation-al politics. International security, 20(1), pp.71-81.
+Weyant, E. (2022) “Research Design: Qualitative, Quantitative, and Mixed Methods Approaches: by John W. Creswell and J. David Creswell, Los Angeles, CA: SAGE, 2018, $38.34, 304pp., ISBN: 978-1506386706.” Tay-lor & Francis.
+Wicaksana, I.G.W. and Yakti, P.D. (2025) “Indonesia’s New Partial Multialign-ment Strategy: A Conceptual and Empirical Analysis,” TRaNS: Trans -Regional and -National Studies of Southeast Asia, pp. 1–18. Available at:
+https://doi.org/10.1017/trn.2025.1
+Yan, K. (2023) “Navigating between China and Japan: Indonesia and economic hedging,” The Pacific Review, 36(4), pp. 755–783. Available at:
+https://doi.org/10.1080/09512748.2021.2010795
+Yoshimatsu, H. (2022) “Indonesia’s re-sponse to the Belt and Road Initiative and the Indo‐Pacific: A pivotal state’s hedging strategy,” Asian Politics & Policy, 14(2), pp. 159–174. Available at:
+https://doi.org/10.1111/aspp.1262
+Zou, Y. (2023) “China and Indonesia’s re-sponses to maritime disputes in the South China Sea: forming a tacit un-derstanding on security,” Marine Poli-cy, 149, p. 105502. Available at:
+https://doi.org/10.1016/j.marpol.2023.105502
+Read More
+References
+Adler, E. & Pouliot, V. (2011) ‘International practices’, International Theory, 3(1), pp. 1–36. doi:10.1017/S175297191000031X.
+Al-Fadhat, F. (2022) “Indonesia’s G20 presidency: neoliberal policy and au-thoritarian tendencies,” Australian Journal of International Affairs, 76(6), pp. 617–623. Available at:
+https://doi.org/10.1080/10357718.2022.2070598
+Andrena, C., 2025. Strategi Indonesia Da-lam Merespon Pelemahan Pengaruh Amerika Serikat Dan Peningkatan Pengaruh Tiongkok Dalam Bidang Ekonomi. Global Insight Journal, 10(1).
+Anwar, D.F. (2020) “Indonesia and the ASEAN outlook on the Indo-Pacific,” International Affairs, 96(1), pp. 111–129. Available at:
+https://doi.org/10.1093/ia/iiz223
+Anwar, D.F. (2023a) “Indonesia’s hedging plus policy in the face of China’s rise and the US-China rivalry in the Indo-Pacific region,” The Pacific Review, 36(2), pp. 351–377. Available at:
+https://doi.org/10.1080/09512748.2022.2160794
+Anwar, D.F. (2023b) “Indonesia’s hedging plus policy in the face of China’s rise and the US-China rivalry in the Indo-Pacific region,” The Pacific Review, 36(2), pp. 351–377. Available at:
+https://doi.org/10.1080/09512748.2022.2160794
+Aristama, F. (2023) “Emerging Middle Power dan Tantangan Perwujudan Visi Indonesia 2045 di Asia Pasifik: Systematic Review [Emerging Middle Power and Challenges on Realizing Vision of Indonesia 2045 in Asia Pa-cific: Systematic Review],” Jurnal Po-litica Dinamika Masalah Politik Dalam Negeri dan Hubungan Internasional, 13(2), pp. 298–318. Available at:
+https://doi.org/10.22212/jp.v13i2.3427
+Basundoro, A. F. (2023). Pembelian Pe-sawat Tempur Dassault Refale se-bagai Implementasi Strategic Hedging Indonesia di Indo-Pasifik. Jurnal Hub-ungan Internasional, 16(1).
+Chatterjee, S. and Kumar, A. (2024) “Ge-oeconomics, Geopolitics, and the Contemporary International Order: Some Reflections,” in Global Political Economy, Geopolitics and Interna-tional Security. Singapore: Springer Nature Singapore, pp. 35–53. Availa-ble at:
+https://doi.org/10.1007/978-981-97-2231-0_3
+Cohen, L., Manion, L., & Morrison, K. (2017). Research design and plan-ning. In Research methods in educa-tion (pp. 173-201). Routledge.Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and re-search design: Choosing among five approaches. Sage publications.
+Dzikri, N. (2020) “Kontribusi Indonesia da-lam Hubungan South-South Coopera-tion Periode 2016-2018,” Indonesian Journal of International Relations, 4(2), pp. 164–186.
+Fitriani, E. (2021) “Linking the impacts of perception, domestic politics, eco-nomic engagements, and the interna-tional environment on bilateral rela-tions between Indonesia and China in the onset of the 21 st century,” Jour-nal of Contemporary East Asia Stud-ies, 10(2), pp. 183–202. Available at:
+https://doi.org/10.1080/24761028.2021.1955437
+Frías Sánchez, C.J. (2020) “The rele-vance of nuclear weapons in the 21st century,” Araucaria, (44), pp. 427–448. Available at:
+https://doi.org/10.12795/araucaria.2020.i44.20
+Gerstl, A. (2022) Hedging Strategies in Southeast Asia. London: Routledge. Available at:
+https://doi.org/10.4324/9781003212164
+Gunn, G.C. (2022) “The Cultural Parame-ters of Indonesian Foreign Policy since 1945,” in Asian Culture, Diplo-macy and Foreign Relations, Volume II. BRILL, pp. 155–174. Available at:
+https://doi.org/10.1163/9789004508279_009
+Heriamsal, K. and Amin, A. (2024) “Kon-servasi Mangrove Sebagai Sarana Diplomasi publik Indonesia di World Water Forum 2024,” Jurnal Hubungan Luar Negeri, 9(2), pp. 157–181.
+Iksan, M. and Soong, J.-J. (2023a) “The Political Economy of Indonesia’s De-velopment Strategy under China-USA Power Rivalry and Hegemonic Com-petition: A Middle Power with Its Hedging Strategy,” The Chinese Economy, 56(4), pp. 304–320. Avail-able at:
+https://doi.org/10.1080/10971475.2022.2136696
+Iksan, M. and Soong, J.-J. (2023b) “The Political Economy of Indonesia’s De-velopment Strategy under China-USA Power Rivalry and Hegemonic Com-petition: A Middle Power with Its Hedging Strategy,” The Chinese Economy, 56(4), pp. 304–320. Avail-able at:
+https://doi.org/10.1080/10971475.2022.2136696
+Indrawan, J., Purnaningtyas, G. and Su-prayitno, D. (2023) “Kerjasama Se-latan Selatan dan Triangular Sebagai Sarana Diplomasi Indonesia Secara Global,” Jurnal Kewarganegaraan, 7(1), pp. 998–1008.
+Irawan, H.D. and Carnegie, P.J. (2025) “Different Strokes: Indonesian State-craft in the North Natuna Sea,” Jour-nal of Current Southeast Asian Affairs [Preprint]. Available at:
+https://doi.org/10.1177/18681034251347973
+Jung, S.C., Lee, J. & Lee, J.Y. (2021) ‘The Indo-Pacific Strategy and US Alliance Network Expandability: Asian Middle Powers’ Positions on Sino-US Geo-strategic Competition in Indo-Pacific Region’, Journal of Contemporary China, 30(127), pp. 53–68. doi:10.1080/10670564.2020.1766909.
+Khurshid, I. (2025) “Modi’s US Foreign Policy: Strategic Autonomy Rede-fined,” Journal of Asian and African Studies, 60(1), pp. 552–560. Available at:
+https://doi.org/10.1177/00219096231173395
+Kumaraswamy, P.R. (2024) “Challenges and Way Forward,” in Transformation of India’s Foreign Policy. London: Routledge, pp. 232–236. Available at:
+https://doi.org/10.4324/9781003539063-9
+Kusumadewi, H. and Wiswayana, W.M. (2024a) “Multilevel Hedging for Mid-dle-Regional Power: Indonesia Ascent Toward Powerhood Through Hedg-ing,” Indonesian Journal of Interna-tional Relations, 8(2), pp. 392–413. Available at:
+https://doi.org/10.32787/ijir.v8i2.591
+Kusumadewi, H. and Wiswayana, W.M. (2024b) “Multilevel Hedging for Mid-dle-Regional Power: Indonesia Ascent Toward Powerhood Through Hedg-ing,” Indonesian Journal of Interna-tional Relations, 8(2), pp. 392–413.
+Laksmana, E.A. (2021) “A Fragile Ful-crum: Indonesia-U.S. Military Rela-tions in the Age of Great-Power Competition,” Asia Policy, 16(4), pp. 106–114. Available at:
+https://doi.org/10.1353/asp.2021.0057
+Liviana, R., Dewantari, A. and Rakhmadi, R. (2023) “Eksplorasi Kontribusi Ekonomi Indonesia sebagai Negara Global South di Tingkat Global,” Jurnal Terekam Jejak, 1(1), pp. 1–22.
+McRae, D. (2019) “Indonesia’s South Chi-na Sea Diplomacy: A Foreign Policy Illiberal Turn?,” Journal of Contempo-rary Asia, pp. 1–21. Available at:
+https://doi.org/10.1080/00472336.2019.1601240
+Miles, M. B., Huberman, A. M., & Sal-dana, J. (2014). Qualitative data anal-ysis: A methods sourcebook. (No Ti-tle).
+Montolalu, R.R.K., Perwita, A.A.B. & Sudibyo (2023) ‘The operational im-pacts of the U.S.–Indonesia strategic partnership on the joint military exer-cises Garuda Shield’, Indonesian Journal of International Relations, 7(2), pp. 213–241. doi:10.32787/ijir.v7i2.459.
+Mubah A. Safril (2019a) “Indonesia’s Dou-ble Hedging Strategy toward the Unit-ed States–China Competition: Shap-ing Regional Order in the Indo-Pacific?,” Issues & Studies, 55(04), p. 1940007. Available at:
+https://doi.org/10.1142/S1013251119400071
+Mubah A. Safril (2019b) “Indonesia’s Dou-ble Hedging Strategy toward the Unit-ed States–China Competition: Shap-ing Regional Order in the Indo-Pacific?,” Issues & Studies, 55(04), p. 1940007. Available at:
+https://doi.org/10.1142/S1013251119400071
+Muhibat, S.F. (2016) “Indonesia‐U.S. Se-curity Collaboration: Still Under the Radar?,” Asian Politics & Policy, 8(1), pp. 137–154. Available at:
+https://doi.org/10.1111/aspp.12235
+Nandyatama, R.W., Ardhani, I. and Alif Alvian, R. (2025) “Indonesia’s Middle Power Diplomacy during COVID-19,” in Global Governance and The Politi-cal South. London: Routledge, pp. 180–191. Available at:
+https://doi.org/10.4324/9781003508526-15
+Nugraha, A., Madu, L., & Mulyanto, I. H. (2025). A Bridge Builder and a Voice of the Global South or a Risky Align-ment? Role Conceptions of Indone-sia's BRICS Membership. In RSF Conference Series: Business, Man-agement and Social Sciences (Vol. 5, No. 2, p. 319). Research Synergy Foundation.
+Pant, H. V (2017) “The End of Non-Alignment?,” Orbis, 61(4), pp. 527–540. Available at:
+https://doi.org/10.1016/j.orbis.2017.08.004
+PANT, H. V. and SUPER, J.M. (2015) “India’s ‘non-alignment’ conundrum: a twentieth-century policy in a changing world,” International Affairs, 91(4), pp. 747–764. Available at:
+https://doi.org/10.1111/1468-2346.12336
+Paramitha, D.I., Syabana, M.N.A. and Amin, K. (2025) “Strengthening ASEAN’s Stabilizing Role via ASEAN Outlook on the Indo-Pacific,” Nation State: Journal of International Studies, 8(1), pp. 61–79.
+Pedrason, R. (2021) ‘Indo-Pasifik dalam perspektif geopolitik dan geostrategi’, JPPI (Jurnal Penelitian Pendidikan Indonesia), 7, pp. 88. doi:10.29210/02021830.
+Pratama, A. (2020) ‘Praktik Hedging dan Dampaknya Terhadap Superpower: Dalam Konteks Asia Pasifik’, Jurnal Sentris, 1(1), pp. 50–61. doi:10.26593/sentris.v1i1.4128.50-61.
+Priamarizki, A. (2024) “Understanding the Domestic Determinants of Indonesi-ans Hedging Policy towards the Unit-ed States and China,” Contemporary Southeast Asia, 46(1), pp. 19–42. Available at:
+https://doi.org/10.1355/CS46-1b
+Putri, D.A., Anwar, S. and Sudibyo, S. (2025) “Diplomasi Pertahanan Indo-nesia di Tengah Ketidakpastian Re-gional: Antara Netralitas dan Keterli-batan Strategis (20232025),” JURNAL SYNTAX IMPERATIF: Jurnal Ilmu Sosial dan Pendidikan, 6(4), pp. 1072–1077.
+Riska, R.F.D. (2024) “China’s Belt and Road (BRI) Policy for Trade Interests in Indonesia,” Jurnal Suara Hukum, 6(1), pp. 91–107. Available at:
+https://doi.org/10.26740/jsh.v6n1.p91-107
+Rosyidin, M. (2023) Teori Hubungan In-ternasional: Dari Perspektif Klasik Sampai Non-Barat. PT. RajaGrafindo Persada-Rajawali Pers.
+Sabaruddin, S.S. and Sabariman, H. (2023) “Analisis Potensi Pasar Non-Tradisional Dalam Meningkatkan Hubungan Ekonomi Indonesia dan Namibia,” Jurnal Lemhannas RI, 11(1), pp. 1–12.
+Samosir, S.G. et al. (2024) “Indonesia’s Role on G20,” Aktivisme: Jurnal Ilmu Pendidikan, Politik dan Sosial Indone-sia, 1(3), pp. 90–100.
+Setyowati, A. (2023) “Perkembangan Karakter Kebijakan Politik Luar Negeri Indonesia Dari Masa Ke Masa,” Jurnal Multidisiplin Dehasen (MUDE), 2(4), pp. 779–784. Available at:
+https://doi.org/10.37676/mude.v2i4.4812
+Simatupang, K. H. (2025) “The US-China Competition and Indonesia’s Stance in ASEAN During Jokowi’s Leadership”, Sospol, 11(3), pp. 33–50. doi: 10.22219/jurnalsospol.v11i3.36089
+Sumarwan, A. (2024) ‘Cina tetap jadi mitra strategis kebijakan ekonomi luar negeri Indonesia’, The Conversation. Available at:
+https://theconversation.com/cina-tetap-jadi-mitra-strategis-kebijakan-ekonomi-luar-negeri-indonesia-241907
+Teo, S. (2022) “Middle Power Awkward-ness? Indonesia’s Norm Entrepre-neurship in ASEAN,” in, pp. 151–176. Available at:
+https://doi.org/10.1007/978-981-16-0370-9_6
+Trianjani, S. et al. (2025) “Evaluasi Keber-hasilan Kebijakan Politik Luar Negeri Bebas Aktif Indonesia Dalam Mem-perkuat Peran Negara Dalam Hub-ungan Internasional,” Jurnal Ilmiah Wahana Pendidikan, 11(C), pp. 233–247.
+Wardhani, B. and Dharmaputra, R. (2024) “Indonesia’s ambivalence in the Rus-sia-Ukraine war: Balancing equal sovereignty norms with a familial ap-proach,” Contemporary Security Poli-cy, 45(4), pp. 627–642. Available at:
+https://doi.org/10.1080/13523260.2024.2397926
+Wendt, A., 1995. Constructing internation-al politics. International security, 20(1), pp.71-81.
+Weyant, E. (2022) “Research Design: Qualitative, Quantitative, and Mixed Methods Approaches: by John W. Creswell and J. David Creswell, Los Angeles, CA: SAGE, 2018, $38.34, 304pp., ISBN: 978-1506386706.” Tay-lor & Francis.
+Wicaksana, I.G.W. and Yakti, P.D. (2025) “Indonesia’s New Partial Multialign-ment Strategy: A Conceptual and Empirical Analysis,” TRaNS: Trans -Regional and -National Studies of Southeast Asia, pp. 1–18. Available at:
+https://doi.org/10.1017/trn.2025.1
+Yan, K. (2023) “Navigating between China and Japan: Indonesia and economic hedging,” The Pacific Review, 36(4), pp. 755–783. Available at:
+https://doi.org/10.1080/09512748.2021.2010795
+Yoshimatsu, H. (2022) “Indonesia’s re-sponse to the Belt and Road Initiative and the Indo‐Pacific: A pivotal state’s hedging strategy,” Asian Politics & Policy, 14(2), pp. 159–174. Available at:
+https://doi.org/10.1111/aspp.1262
+Zou, Y. (2023) “China and Indonesia’s re-sponses to maritime disputes in the South China Sea: forming a tacit un-derstanding on security,” Marine Poli-cy, 149, p. 105502. Available at:
+https://doi.org/10.1016/j.marpol.2023.105502
+Author biographies is not available.
+How to Cite
+Mengonstruksi Otonomi Strategis: Identitas Non-Blok dalam Strategi Hedging Indonesia di Tengah Rivalitas AS-Tiongkok. (2025).
+JURNAL HUBUNGAN LUAR NEGERI
+(2).
+https://doi.org/10.70836/b9c94e27
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+PDF
+Statistic
+Read
+Counter :
+Download :
+Table Of Contents

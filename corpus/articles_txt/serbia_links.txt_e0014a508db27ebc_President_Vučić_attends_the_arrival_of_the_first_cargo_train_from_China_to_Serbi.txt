@@ -1,0 +1,37 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/president-vucic-attends-the-arrival-of-the-first-cargo-train-from-china-to-serbia
+final_url: https://www.predsednik.rs/en/press-center/news/president-vucic-attends-the-arrival-of-the-first-cargo-train-from-china-to-serbia
+title: President Vučić attends the arrival of the first cargo train from China to Serbia
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+24.10.2019. - 16:21
+President Vučić attends the arrival of the first cargo train from China to Serbia
+President of the Republic of Serbia Aleksandar Vučić and Vice Minister of Trade of the People's Republic of China Qian Keming attended today the arrival of the first cargo train from China to Serbia. The cargo train of the Chinese company "China Railway Express", with over 500 tons of equipment for the construction of the fast railway through Serbia, arrived at the New Belgrade railway station.
+Photo: TANJUG / Rade Prelić
+President Vučić said that it will take 30 minutes by train from Belgrade to Novi Sad if the works are completed within the stipulated deadline.
+He added that the fast railway to Subotica will be finished by 2022 and that he will talk to the Prime Minister of Hungary Viktor Orbán so that the works get expedited on their side as well.
+President Vučić emphasised that it will take merely 2.4 hours to get from Belgrade to Budapest which implies that it will take four and a half hours to Vienna which is far better than to commute by plane considering the time spent at the airports.
+„That will be a perfect connection with Europe", said President Vučić and added that Serbia is not a stop-by station for the Chinese trains anymore, but rather a destination.
+"These are the important days for us because for nearly 40 years almost nobody was using trains in passenger and cargo transportation. I think we will manage to return railway transportation through a wide gate back to our country. I am grateful to our Chinese friends for working with great attention to this project through which we confirm that we can change ourselves. Please, convey the most sincere greetings of the people of Serbia to the President of the People's Republic of China Xi Jinping. Long live the steel friendship of Serbia and China", said President Vučić.
+Photo: TANJUG / Rade Prelić
+President Vučić added that the Chinese train departed from China on the 24th September and that it traversed the 10.500 kilometres long way bringing the state-of-the-art equipment for the fast railway in Serbia which meets and exceeds all the European standards and holds all the certificates for the fast railways.
+He thanked the Chinese railways for connecting Belgrade and Budapest by a fast railway because thus we will be well connected to Central and Western Europe.
+"In this way, we also show what it is that we can do", said President Vučić and added that Belgrade is now the city of construction cranes and that the capital, as well as the entire country, keeps developing rapidly.
+President Vučić also said that back in 1837 Duke Miloš suggested the construction of a railway through Serbia towards Austria-Hungary, but that even then Serbs had the unbelievable talent to resist any progress. Thus the first 12 kilometres long narrow-gauge railway was constructed by a foreigner in 1880 who was the manager of the Majdanpek mine and only some time later the first railway Belgrade-Niš was commissioned in 1884.
+He also said that in 2011 the train from Belgrade to Novi Sad was slower than 100 years ago, which shows how large were the unconcern and negligence of the state at that time.
+Photo: TANJUG / Rade Prelić
+"My idea was to criss-cross and cover Serbia with all the modern communications, roads, railways, internet, and that thus Serbia joins in the developed economies with solved infrastructural issues", emphasised President Vučić.
+President Vučić iterated and underlined that Serbia would not be able to do all that without the help of the President of China Xi Jinping who is the great friend of our country and for which reason the Chinese companies engage in construction works across all parts of Serbia. The President asked the Vice Minister of Trade Qian Keming to convey to President Xi the most sincere greetings from him and from the Serbian people and added that he always speaks sincerely about China within the domains of the world politics.
+The Chinese Vice Minister of Trade Qian Keming said that Serbia and China foster the steel friendship and that they jointly face all the challenges, and that today's arrival of the cargo train of the company "China Railway Express" serves as evidence of the long history of friendship that connects the two countries.
+"Our two countries rely on each other, they are friends of steel who advance together through all challenges. Serbia is the first country in the Central and Eastern Europe to establish the overall and comprehensive strategic partnership relations with China", said Keming.
+Photo: TANJUG / Rade Prelić
+He emphasised that the agreements and joint efforts of President Vučić and President Xi prompt the building up of the "Belt and Road" initiative thus giving momentum to the deeper development of cooperation between China and the countries of Central and Eastern Europe.
+"Bilateral trade rapidly increases, results are being achieved in all areas and especially in the area of infrastructure", said Keming.
+The Vice Minister of Trade of the People's Republic of China Kemin reminded that at the Second high-level summit within the "Belt and Road" initiative, President Xi said that high quality "Belt and Road" should be jointly built where the accent should be placed on the mutual connection and improvement of infrastructure connections.
+"The Belgrade-Budapest railway will be realised within the 'Belt and Road' initiative. This is the first project in the area of railway transportation to be implemented by a Chinese company in Europe. It is very important for regional infrastructural inter-connection", said Keming.
+He explained that "China Railway Express" connects all the countries along the Road which at the same time represents the "bridge of friendship" that unites the people of China with the people of all the countries included in the "Belt and Road" initiative.
+"This train departed a month ago from the homeland of Confucius - the Shandong province - and today it arrived in Belgrade loaded with the material and equipment for the Belgrade-Budapest railroad. This is a signal to accelerate the section on the Serbian side", said Keming.
+The Vice Minister of Trade of the People's Republic of China Qian Keming wished a successful construction of the railway, even better cooperation between China and Serbia in the area of trade, and ended his address with the message: "Long live the friendship of China and Serbia!".

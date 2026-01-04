@@ -1,0 +1,26 @@
+seed_url: https://von.gov.ng/australia-cancels-victoria-states-belt-and-road-deals-with-china/
+final_url: https://von.gov.ng/australia-cancels-victoria-states-belt-and-road-deals-with-china/
+title: Australia cancels Victoria state's Belt and Road deals with China - Voice of Nigeria Broadcasting Service
+date: 2021-04-21T13:20:08+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+World
+Facebook
+Twitter
+Pinterest
+WhatsApp
+Australia on Wednesday said it has cancelled two deals struck by its state of Victoria with China on cooperation with Beijing’s flagship Belt and Road Initiative, a far-reaching infrastructure and soft power programme.
+Under a new process in Australia, Foreign Minister Marise Payne has the power to review deals reached with other nations by the country’s states and universities.
+Payne said she had decided to cancel four deals, including two that Victoria agreed with China in 2018 and 2019.
+“I consider these four arrangements to be inconsistent with Australia’s foreign policy or adverse to our foreign relations in line with the relevant test in Australia’s Foreign Relations (State and Territory Arrangements) Act 2020,”
+she said in the statement.
+The federal parliament granted the veto power over foreign deals by states in December amid a deepening diplomatic spat with China, which has imposed a series of trade sanctions on Australian exports ranging from wine to coal.
+Liberal Prime Minister, Scott Morrison and his predecessor Malcolm Turnbull had declined to agree to a country-level MOU with China on the Belt and Road Initiative.
+But Victoria’s Labor state premier Dan Andrews signed agreements with China’s National Development and Reform Commission to promote the initiative in 2018 and 2019.
+Belt and Road is a key project of Chinese President Xi Jinping’s government. Some countries fear the lending it entails could lead to unsustainable debt levels in developing nations, including the Pacific islands region.
+Morrison’s government has denied that its new veto power is aimed at China, Australia’s largest trading partner and biggest source of overseas universities students before the coronavirus pandemic led the country to close its borders.
+Payne said states, local governments and publicly funded universities had notified her of more than 1,000 foreign deals overall.
+Reuters

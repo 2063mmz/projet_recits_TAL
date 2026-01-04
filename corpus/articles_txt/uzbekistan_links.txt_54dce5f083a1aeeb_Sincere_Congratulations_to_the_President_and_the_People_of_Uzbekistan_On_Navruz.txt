@@ -1,0 +1,184 @@
+seed_url: https://www.president.uz/en/lists/view/5068
+final_url: https://www.president.uz/en/lists/view/5068
+title: Sincere Congratulations to the President and the People of Uzbekistan On Navruz
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Sincere Congratulations to the President and the People of Uzbekistan On Navruz
+21.03.2022
+The President of the Republic of Uzbekistan Shavkat Mirziyoyev is receiving congratulations from the heads of foreign states and governments, international organizations, prominent state, public and religious figures on Navruz – a spring holiday and the symbol of renewal. They express sincere wishes for peace, success and prosperity to the multinational people of Uzbekistan.
+The progress and success achieved by Uzbekistan in socio-economic reforms to ensure sustainable development of the country and raising a well-being of the population, strengthening the authority and position of the country on the international arena are noted in the congratulatory messages.
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Dear Mr. President!
+Let me on behalf of the Government and people of China, as well as on my own behalf, to express my sincere congratulations to You on the occasion of the Uzbek traditional holiday - Navruz.
+Recently we have jointly celebrated the 30th anniversary of the establishment of diplomatic relations between China and the countries of Central Asia. On the sidelines of the opening ceremony of the Winter Olympic Games in Beijing, we have had a productive meeting in a friendly atmosphere and reached the new agreements to deepen the bilateral relations and strengthen the joint construction of the «One Belt, One Road» and cooperation in the fight against the COVID-19.
+I attach a profound importance to the development of relations between China and Uzbekistan and I am ready to make joint efforts with You to consolidate a traditional friendship and bring bilateral ties to a qualitatively new level for the benefit of our countries and peoples.
+I wish You a sound health and great success in state endeavors!
+I wish the friendly people of Uzbekistan a happiness and prosperity!
+Xi Jinping,
+The President of the People’s Republic of China
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Esteemed Mr. President!
+I wish You and the people of Uzbekistan a warm and happy Navruz. This is a special day of peace and renewal for everyone, and this year is even more important since our countries are also celebrating the 30th anniversary of diplomatic relations.
+My Administration looks forward to working with Your country in the coming year to continue our successful efforts to combat the pandemic, deepen our strategic partnerships and strengthen security. We are pleased to support Your ongoing efforts to implement economic, political and social reforms that have helped to make Your country even more attractive for American investment.
+We are also committed to continuing the work with You through the C5+1 process in support of our shared regional goals.
+Navruz Muborak!
+Sincerely,
+Joseph Robinette Biden,
+The President of the United States of America
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Distinguished Shavkat Miromonovich!
+I sincerely congratulate You and Your compatriots on the occasion of the Nauryz holiday common to all of us.
+Embodying high moral ideals, this blessed spring festival encourages a spiritual renewal, peace and unity. Let this ancient revered Nauryz bring joy and prosperity to our close-knit fraternal states.
+I am firmly convinced that thanks to our joint efforts, the alliance of Kazakhstan and Uzbekistan based on strong friendship and good-neighborliness, shall continue to develop dynamically for the benefit of our peoples.
+Esteemed Shavkat Miromonovich, on this significant day I wish You a great success in all your good endeavors for the sake of progress and sustainable development of Your country, as well as well-being and prosperity to the fraternal people of Uzbekistan.
+Let Nauryz bring abundance and prosperity to every home!
+Sincerely,
+Kassym-Jomart Tokayev,
+The President of the Republic of Kazakhstan
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Distinguished Shavkat Miromonovich!
+I sincerely congratulate You on the Navruz holiday!
+Navruz is a great ancient holiday symbolizing good intentions, bright hopes for the future, the triumph of life and spring.
+I am confident that the multifaceted relations between the two countries will continue to deepen in the spirit of true friendship and good neighborliness.
+Esteemed Shavkat Miromonovich, I wish You a sound health, happiness and new achievements in state activity, as well as peace and prosperity to the fraternal people of Uzbekistan!
+Sincerely,
+Sadyr Japarov,
+The President of the Kyrgyz Republic
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Distinguished Shavkat Miromonovich!
+I express to You and all the people of friendly Uzbekistan our heartfelt congratulations and best wishes on the occasion of the traditional holiday of our ancestors - Navruz.
+It is gratifying that the ancient Navruz, which has acquired the status of an international holiday today, continues to serve the interests of humanity with its deep spiritual meaning.
+The universal values of the Spring Festival, embodying the high ideals of revival and creation, peace and tranquility, friendship and unity, mutual understanding and solidarity, mutual respect and support, acquire a special significance in the difficult socio-economic and geopolitical conditions of our time.
+I am convinced that the Tajik-Uzbek relations of friendship, good neighborliness and strategic partnership, following the good traditions of the blessed Navruz, shall continue to develop and expand in the future in accordance with the fundamental interests of our peoples.
+Esteemed Shavkat Miromonovich, I wish You a sound health, happiness and great success, as well as peace, stability, wellbeing and ever-increasing prosperity to the fraternal people of Uzbekistan.
+Navruz muborak!
+Sincerely,
+Emomali Rakhmon,
+The President of the Republic of Tajikistan
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Distinguished Shavkat Miromonovich!
+I have the honor to send You and all the fraternal people of Uzbekistan my heartfelt congratulations and best wishes on the occasion of the International Holiday of Novruz.
+Novruz holiday has symbolized the rebirth of nature, the triumph of life and the arrival of spring since ancient times. Having absorbed the traditions of hospitality, peacefulness, good neighborliness and lofty principles of humanism, this holiday is of particular importance in strengthening unity and friendship among peoples.
+Let this wonderful holiday be marked for You and for all the people of Your country with joy, success and prosperity!
+Most Sincerely,
+Serdar Berdimuhamedov,
+The President of Turkmenistan
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Distinguished Shavkat Miromonovich!
+On my own behalf and on behalf of the people of Azerbaijan, I cordially congratulate You and in Your person the entire Uzbek nation on the national holiday –Navruz.
+We are pleased with the important transformations taking place in the socio-political life of the brotherly Uzbekistan, the success achieved in the socio-economic sphere, and the growing international authority of the country.
+I am convinced that the further consolidation of the Azerbaijani-Uzbek interstate relations and strategic partnership, the enhancement of our cooperation bilaterally and multilaterally, based on mutual trust and support, shall continue to contribute to the well-being of our peoples.
+Dear Shavkat Miromonovich, on this remarkable day I wish You a good health, every success in Your activities, as well as lasting peace and prosperity to the brotherly people of Uzbekistan.
+Sincerely,
+Ilkham Aliyev,
+The President of the Republic of Azerbaijan
+***
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+I cordially congratulate Your Excellency, Your esteemed family members and the friendly people of Your country on the advent of the Navruz holiday, which brings joy to hearts, the rebirth of nature and the home country, marks the beginning of the new 1401 Hijri year.
+Navruz is a symbol and embodiment of a civilization based on the values of piety, love for family and peacefulness. Dear Prophet of Islam (may Allah bless and greet him, his descendants and great companions) said: «When you see a spring, recall a Judgement Day».
+To contemplate the greatness of creation and pay attention to the changes in nature is an impetus to the awakening of the soul, a means of remembering Allah, a path to progress and the elevation of humanity. The great poet Saadi Shirazi in his lines urged to appreciate the beauty of spring and nature, which are a reminder of the creative power of the Almighty.
+I hope that in the new Hijra century, the movement towards higher divine and human values will accelerate, as well as this century will bring more joyful and pure days, such as Navruz, for all people living in Your country and more lasting peace and unity for all the peoples of the region. The Islamic Republic of Iran believes that strengthening this cultural solidarity will bring peace and tranquility to the region and the world, and thus sincerely extends the hand of friendship to all countries.
+I ask Almighty Allah to grant You, Your Excellency, a sound health and success, as well as happiness and prosperity to the people of the friendly and fraternal Republic of Uzbekistan.
+Ebrahim Raisi,
+The President of the Islamic Republic of Iran
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+May the peace, mercy and blessings of God be upon you.
+We cordially welcome Your Excellency and wish You a sound health, and the people of Uzbekistan happiness and further prosperity and progress under Your wise leadership.
+We sincerely congratulate You on the Navruz holiday and wish You success in all Your endeavors for the benefit of Your country’s development. Thus, let this year be a year of kindness, happiness and joy for You and Your people.
+We would like to assure Your Excellency of our firm intentions to bring the bonds of friendship, brotherhood and partnership that unite us to new heights in various spheres in the interests of our friendly peoples.
+Happy holiday and may Allah protect you.
+Sincerely,
+Sheikh Mohammed bin Rashid Al Maktoum,
+Vice President, the Prime Minister of United Arab Emirates, Ruler of Dubai
+***
+His Excellency,
+Mr. Shavkat Mirziyoyev
+The President of the Republic of Uzbekistan
+Dear Shavkat Miromonovich!
+I cordially congratulate You on the Great holiday of Nauryz.
+Nauryz is one of the oldest values. Let this holiday, which fills everything with goodness, bring prosperity and joy to our peoples and strengthen goodwill and friendship. Highly appreciating the harmony of relations between Kazakhstan and Uzbekistan, based on common spiritual consonance, mutual support, I am convinced that the dynamic development of bilateral strategic partnership will lead our countries to a greater success.
+Esteemed Shavkat Miromonovich, at this wonderful moment I wish You and Your family a good health and success, as well as prosperity and happiness to the fraternal people of Uzbekistan.
+Sincerely,
+Nursultan Nazarbayev,
+The First President of the Republic of Kazakhstan – Elbasy
+***
+The President of the State of Palestine –
+Mahmoud Abbas.
+The Deputy Prime Minister, Minister of Interior Affairs of the United Arab Emirates –
+Sheikh Saif bin Zayed Al Nahyan.
+The Secretary-General of the Shanghai Cooperation Organization –
+Zhang Ming.
+The Secretary General of the Organization of Turkic States –
+Baghdad Amreyev.
+The Secretary General of the Economic Cooperation Organization –
+Khusrav Noziri.
+The congratulatory letters keep coming.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

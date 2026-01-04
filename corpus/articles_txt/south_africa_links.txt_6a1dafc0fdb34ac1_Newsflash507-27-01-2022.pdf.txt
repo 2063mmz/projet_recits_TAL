@@ -1,0 +1,794 @@
+seed_url: https://www.dirco.gov.za/wp-content/uploads/2023/02/Newsflash507-27-01-2022.pdf
+final_url: https://www.dirco.gov.za/wp-content/uploads/2023/02/Newsflash507-27-01-2022.pdf
+title: Newsflash507-27-01-2022.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+Issue 507 | 27 January 2022
+
+
+
+
+
+If this newsletter doesn’t load or images don’t display, please click here
+
+
+SOUTH AFRICA, ZAMBIA CEMENT BILATERAL RELATIONS
+
+
+President Cyril Ramaphosa and
+Zambian President, Hakainde
+Hichilema, have vowed to cement
+bilateral relations between the two
+countries during a meeting on
+Wednesday, 26 January 2022, at
+the Mahlamba Ndlopfu official
+residence in Tshwane.
+
+According to The Presidency, President Hichilema paid a courtesy visit to President Ramaphosa while visiting South Africa as an invited
+guest speaker at a private function.
+“President Hichilema’s courtesy call on President Ramaphosa provided an opportunity for bilateral discussions between South Africa and
+Zambia ahead of an inaugural Bi-National Commission (BNC) scheduled for later this year,” The Presidency said in a statement.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+During the meeting, the two heads of state touched on regional issues, reaffirming South Africa and Zambia’s common international
+policy of a stable and peaceful continent.
+“This shared approach includes the use of multilateral bodies to advance the African Agenda and that of the global South, and the
+collective solidarity of the SADC community in the fight against terrorism and insurgencies,” the statement read.
+President Ramaphosa also commended Zambia’s fight against the COVID-19 pandemic, reasserting that developing countries must have
+equity in developing and distributing vaccines.
+The two leaders noted progress in the establishment of facilities in Africa for the production of vaccines and other therapeutics that will
+reach populations around the continent.
+“The leaders identified the need for South Africa and Zambia to keep one another abreast of investment opportunities in each country and
+to actively encourage business to invest in areas of mutual benefit for regional development, such as in mineral beneficiation, local
+manufacturing and agriculture,” The Presidency said.
+South Africa and Zambia enjoy cordial bilateral relations, underpinned by strong historical and political bonds that date back to the era of
+the liberation struggle and apartheid colonialism.
+The two countries are expected to hold an inaugural BNC later this year.
+– Source: SAnews.gov.za
+
+
+PRESIDENT RAMAPHOSA RECEIVES LETTERS OF CREDENCE BY
+FOREIGN HEADS OF MISSION TO SOUTH AFRICA
+
+President Cyril Ramaphosa on
+Tuesday, 25 January 2022,
+received letters of credence from
+heads of mission-designate at a
+credentials ceremony in Pretoria.
+The President received 13 heads
+of mission-designate who have
+arrived in South Africa to serve
+in diplomatic missions in South
+Africa.
+
+
+
+The heads of mission-designate from the following countries will serve at missions in South Africa with the aim of advancing diplomatic
+relations:
+Republic of Malawi
+Argentine Republic
+Romania
+State of Israel
+Republic of Equatorial Guinea
+Republic of Trinidad and Tobago
+Republic of Ecuador
+Republic of Congo
+Mexico
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+Hellenic Republic
+People’s Democratic Republic of Algeria
+New Zealand
+Republic of Cuba.
+The credentials ceremony was attended by a select group of invitees, including representatives of government and media.
+
+
+SCIENCE, INNOVATION VITAL TO ECONOMIC RECOVERY: PRESIDENT
+RAMAPHOSA
+
+
+As the country strives to recover
+from the effects of the COVID-19
+pandemic, President Cyril
+Ramaphosa says science and
+technology have a key role to
+play in economic recovery.
+
+Addressing the country in his weekly newsletter, the President said science and innovation were playing a far more prominent role both in
+efforts to overcome the disease and rebuild the economy.
+Last week, the President attended the launch of a state-of-the-art vaccine manufacturing campus in Cape Town.
+The facility forms part of a multimillion rand investment by the multinational technology company, NANTWorks, which is headed by South
+African- born scientist, Dr Patrick Soon-Shiong.
+The President said South Africa already had advanced pharmaceutical manufacturing capabilities in companies like Aspen Pharmacare,
+Afrigen Biologics and Vaccine and the Biovac Institute, which is a public-private initiative.
+“These projects will greatly aid South Africa in our quest to become a hub of scientific innovation, research and development, especially
+in vaccine manufacturing for COVID-19, cancer, tuberculosis and other future pandemics.”
+Thousands of miles away, in Cape Canaveral in the United States, President Ramaphosa said the aerospace company SpaceX’s Falcon
+9 rocket successfully launched three South African-made nanosatellites into space. The satellites form part of a project to detect, identify
+and monitor shipping vessels along our coastline.
+“These are just some of the projects that demonstrate how science and technology have a key role to play in our economic recovery, in
+attracting greater levels of investment and in contributing to skills, knowledge and technology transfer to capacitate our country’s
+workforce.
+“We are, therefore, prioritising investment in science, technology and innovation to revitalise and modernise existing industries, as well as
+to create new sources of growth and stimulate industrialisation. There is huge potential in agriculture, mining, energy and manufacturing,
+among others,” he said.
+President Ramaphosa said this was an area where government had been pursuing several collaborative partnerships with the private
+sector and academia to broaden the frontiers of scientific endeavour.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+“We have, for example, undertaken projects around hydrogen, energy storage and renewable energy. We have supported emerging
+farmers through the Agricultural Bio-Innovation Partnership Programme. Government also has funding partnerships with a number of
+South African universities in the field of nanotechnology development,” he said.
+“We are looking far into space by enhancing the capabilities of the South African Square Kilometre Array radio telescope project and
+supporting a number of new discoveries using the MeerKAT telescope. At the same time, we are using science to support and guide
+municipalities to plan for and assess the risks of climate change.
+“We are looking at how to harness new technologies for development, such as using 3D printing to build houses.”
+Tech revolution
+To build on the country’s successes and forge ahead with transformation to a truly digital economy and society, the President said they
+relied on a combination of technical skill and intellectual enterprise.
+“Visiting the Biomedical Research Institute at the University of Stellenbosch last week, [in] which our government has invested R300
+million, it was not so much the impressive laboratories that inspired awe, but rather the human skills and capabilities that had enabled
+such innovative research,” he said.
+The President said there was a need for solid investment in skills development in these different industries, and a firm commitment to
+increase the number of students studying science, if South Africa is to promote scientific excellence and its attendant economic benefits.
+He said government would continue to support initiatives such as the Grassroots Innovation Programme of the Department of Science
+and Innovation, which provides support to local innovators to develop their concepts, create prototypes and commercialise their ideas.
+There is also the Imvelisi Enviropreneurs Programme, which has boot camps and business mentoring for innovators in the green
+economy, and a host of other incubation initiatives being piloted on campuses across the country in areas such as deep learning, artificial
+intelligence and data science.
+As the country strives to harness science, technology and innovation in the cause of economic growth, the President said South Africa
+provided all the necessary support to innovators and become a country that nurtures great ideas.
+“As we have demonstrated during the course of this pandemic, South Africa is more than capable of holding its own in the international
+scientific community.
+“Through the combination of our established scientific infrastructure and expertise, new investment in research and development and
+support to budding innovators, we will and are able to propel our country into the Fourth Industrial Revolution,” he said.
+Most importantly, President Ramaphosa said the country would be able to more effectively use technology to grow the economy, create
+jobs and improve people’s lives.
+– Source: SAnews.gov.za
+
+
+PRESIDENT RAMAPHOSA COMMENDS MATRIC CLASS OF 2021
+
+President Cyril
+Ramaphosa has
+commended and
+applauded the Matric
+Class of 2021 on the
+success achieved by this
+cohort of learners,
+educators and parents.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+The overall 2021 National Senior Certificate pass rate, with progressed learners included, stands at 76.4% – an improvement of 0.2%
+from last year, with 256 000 learners eligible for university entrance.
+“We applaud the multiple successes and improvements recorded by learners during the second year of challenges presented by COVID-
+19.
+“Equally commendable is the support given to learners by educators and parents who made sacrifices of their own and placed the
+interests of learners ahead of their own concerns,” the President said on Friday, 21 January 2022.
+The President has urged those who did not make it not to give up but return to school and make another effort to better their lives.
+“This is a moment for celebration for learners who have passed and a moment for other learners to return to their desks and make
+another effort to advance their education and improve their quality of life into the future.
+“Our Second Chance programme is another route to success,” he said.
+President Ramaphosa has also called on learners to celebrate responsibly and safely within the COVID-19 health protocols.
+– Source: SAnews.gov.za
+
+
+COMMEMORATION OF THE FIRST ANNIVERSARY OF THE ENTRY-INTO-
+FORCE OF THE TREATY ON THE PROHIBITION OF NUCLEAR
+WEAPONS (TPNW), 22 JANUARY 2022
+
+South Africa marked the first anniversary of the entry-into-
+force of the TPNW.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+Saturday, 22 January 2022, marked the first anniversary of the entry-into-force of the United Nations (UN) TPNW, which signals a
+progressive march forward in humanity’s endeavour to rid the world of nuclear weapons.
+Marking the entry-into-force of the TPNW, International Relations and Cooperation Minister, Dr Naledi Pandor, stated that: “Twenty-four
+years ago in 1998, President Nelson Mandela in his last address to the UN General Assembly (UNGA) asked a pertinent question,
+namely that: ‘We must ask the question, which might sound naive to those who have elaborated sophisticated arguments to justify their
+refusal to eliminate these terrible and terrifying weapons of mass destruction – why do they need them anyway!’”
+The TPNW is the culmination of that very first UNGA Resolution 76 years ago, in 1946, which sought to deal with the elimination of
+nuclear weapons and other weapons adaptable to mass destruction. While the TPNW is not the final word on nuclear weapons, it is an
+indispensable step in the advancement of the disarmament and non-proliferation architecture that is required to eventually achieve a
+world free of nuclear weapons.
+Since the catastrophic events of 1945 in Hiroshima and Nagasaki, the TPNW represents one of the most important developments in the
+area of nuclear disarmament. The TPNW complements the Nuclear Non-Proliferation Treaty and represents the highest non-proliferation
+standard that the international community must commit to.
+Minister Pandor concluded: “This occasion provides an opportunity for all states that have not yet done so, to join an instrument that
+expresses their total opposition to nuclear weapons without further delay. I take this opportunity to renew South Africa’s commitment to
+the total elimination of nuclear weapons as the only guarantee that nuclear weapons will never again be used by anyone under any
+circumstances. Nuclear weapons are immoral, unethical and they should not be allowed to exist.”
+
+
+SOUTH AFRICA CONDEMNS THE COUP D’ÉTAT IN BURKINA FASO
+
+The Government of South Africa condemns the coup d’état in Burkina Faso and calls on the
+military to return to their barracks and restore democracy.
+
+The South African Government agrees with the views of the Economic Community for West African States that soldiers should return to
+barracks and utilise dialogue with the authorities to resolve all problems. There can never be a military solution to issues of this nature;
+dialogue and negotiation are the only means of resolving conflict and arriving at lasting resolutions.
+Loss of lives must be avoided at all costs and all stakeholders should commit to dialogue.
+The South African Government strongly rejects unlawful seizure of power by any group, or individual as this reverses democracy and
+development and retards the realisation of Africa’s aspiration for a better Africa as set out in our Agenda 2063.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+PORT INVESTMENTS TO CONTRIBUTE TOWARDS SOUTH AFRICA'S
+ECONOMY
+
+
+The Minister of Transport, Fikile Mbalula, has
+unveiled critical investments that will contribute
+towards advancing South Africa’s economic interests
+through Operation Phakisa.
+
+Among others, these investments include the construction of an onshore Liquid Natural Gas (LNG) regasification facility, a liquid bulk
+operating licence to develop and operate a liquid bulk terminal and access rights for the Risk Mitigation Independent Power Producer
+Procurement Programme (RMIPPPP).
+“These ground-breaking investments will also give impetus to growing the oceans economy and the implementation of the
+Comprehensive Maritime Transport Policy, which seeks to create a nurturing environment for entrepreneurs to develop and grow their
+businesses,” the Minister said.
+Addressing the media on Monday, 24 January 2022, during his visit to the Port of Durban, he said the investments represented the
+sector’s contribution to the Economic Reconstruction and Recovery Plan.
+“To date, working closely with the Minister of Public Enterprises and the Transnet National Ports Authority, we have given a green light in
+respect of a number of investments in the ports, which will deliver tangible economic dividends and place South Africa on a sustainable
+growth path.
+“The Strategic Fuel Fund will construct an onshore LNG regasification facility at the Port of Ngqura. This investment is of national
+importance as it responds to the energy policy and energy security of the country. The total project value is estimated at US$1.5 billion,”
+the Minister said.
+Mnambithi Terminals will also develop and operate a liquid bulk terminal at the Maydon Wharf 6 at the Port of Durban.
+The investment is aimed at contributing towards sustainable job creation during the construction and operation phases of the project.
+“The construction phase will create over 1 500 temporary direct and other indirect job opportunities. The operation phase will create over
+150 skilled and semi-skilled employment opportunities.
+“This investment will significantly contribute to infrastructure development. The total construction investment is R1.5 billion. The US$26
+million maritime vessel that is part of this investment, is the first chemical tanker to be acquired by a South African company and will soon
+be flagged locally,” Minister Mbalula said.
+Hillside Aluminium Proprietary Limited will renew existing leases in the Port of Richards Bay for a bulk storage silos facility, pitch tanks
+terminal, stock yard facility and conveyor belt system effluent pipeline facility.
+“Hillside stands at the apex of South Africa’s aluminium industry and is therefore, one of the major contributors to the country’s economy.
+Their investment further supports the competitive existence of a downstream aluminium industry directly employing approximately 11 600
+people permanently, while contributing to the indirect formal employment of 28 500 people,” the Minister said.
+The direct contributions include revenue to Transnet and the Municipality of Richards Bay of R338 million per annum, local procurement
+spend of R2 billion per annum and contribution to the tax base of R1.1 billion per annum.
+“Dormac Marine Engineering will also renew existing leases, which will generate rental income for Transnet and eThekwini Municipality,
+currently standing at R17.5 million per annum.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+“Durban premises and port premises in Cape Town, currently leased from Transnet at full commercial rentals, currently generate R20.6
+million per annum for Transnet. Dormac employs 136 employees and this investment will preserve these,” the Minister said.
+The Minister affirmed government’s commitment to accelerating interventions geared towards enabling small businesses and medium
+enterprises participating in the transportation of commodities as part of promoting the development and growth of South Africa’s Ship
+Registry.
+“Plans to make our ship registry attractive and worthwhile for owners to flag ships in South Africa must be given impetus, using this
+opportunity to expand our seafarer base.
+“The private-sector participation in the sector should, among others, provide a multiplier effect to skills development and broadening
+access to learning by those previously disadvantaged,” the Minister said.
+He emphasised the importance of transforming the maritime sector by creating a nurturing environment for entrepreneurs with skills in the
+composite industry to develop and grow their own businesses.
+“The port infrastructure projects should boost the local content with increasing local supply chains and locally manufactured components
+are critical to the growth of the maritime sector,” the Minister said.
+He called on the private sector to participate in the broader agenda of developing and improving port operations.
+“Addressing the long-standing issue of high cube containers, the department is committed to prioritise addressing this burning issue by
+developing legislation that will give these the same status as double-decker buses and car carriers,” the Minister said.
+– Source: SAnews.gov.za
+
+
+TRIBUTES POUR IN FOR “CITY PRESS” JOURNALIST
+
+
+The Minister of Forestry,
+Fisheries and the Environment,
+Barbara Creecy, has expressed
+profound sadness at the
+passing of “City Press”
+journalist, Poloko Tau.
+
+Tau reportedly died at his residence in Mahikeng, in North West, on Friday afternoon, 21 January 2022.
+He was part of a team of South African journalists who covered the South African delegation at the United Nations Climate Change talks
+in Glasgow, United Kingdom, in December, where he interacted extensively with the delegation led by the Minister.
+‘’I am deeply saddened by the unexpected news of his sudden passing and I remember fondly our extensive conversations on climate
+change and the Just Transition to a low-carbon economy and society,” Minister Creecy said on Saturday, 22 January 2022.
+The Minister extended her sincere condolences to his family and colleagues in the media fraternity.
+“His important contribution to the public information debate on matters such as climate change and sustainable development will be much
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+missed by government and the fourth estate,” Minister Creecy said.
+– Source: SAnews.gov.za
+
+
+GENDER COMMISSION SENDS CONDOLENCES TO PATRICK SHAI’S
+FAMILY
+
+The Commission for Gender
+Equality (CGE) has expressed its
+heartfelt condolences to the family
+and friends of veteran actor and
+gender-based violence (GBV)
+activist, Patrick Shai.
+
+
+According to a statement released by the family, Shai passed away on Saturday morning, 22 January 2022.
+Commission chairperson, Tamara Mathebula, said the news of the passing of Shai had been met with sadness by all at the CGE.
+“He will be sorely missed by those who had embraced him as a human rights and gender activist. We have worked closely with him in
+advancing gender equality and issues of men and boys in South Africa.
+“Ntate Shai was a compassionate hero of our struggle against GBV, who would use his artistic skills to ensure that the message gets
+across to his intended audience.
+“It is through men like Ntate Shai that we are seeing a shift in the mind-set among many men, and we shall continue in the same
+trajectory to eradicate the scourge of GBV. As the commission, we mourn his passing and equally celebrate his life. He will be missed.
+May his soul rest in peace”, Mathebula said.
+Role model par-excellence
+The presiding officers of Parliament have also paid tribute to Shai, describing him as a role model par-excellence.
+National Assembly Speaker, Nosiviwe Mapisa-Nqakula, and National Council of Provinces Chairperson, Amos Masondo, said Shai was
+not just an artist, but a legend.
+“He was a legend, an inspiring figure beyond the arts fraternity, a change maker, an exemplary leader and a true activist and advocate
+against GBV.
+“We are gutted and bitterly saddened by the loss of such a titanic and incomparable talent, an outstanding human being with a humble
+personality,” the presiding officers said.
+Through his organisation, Khulumandoda, Shai partnered with Parliament in its National Men’s Parliament initiative, which brought
+together about 250 men and boys from across the country to engage them to become agents of change and integral partners in the
+prevention of, and response in tackling the spread of HIV, GBV and femicide and other social ills.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+“South Africa has lost an extraordinary human being whose role, unrivalled talent and outstanding service to society can never be
+replaced. May his soul rest peacefully,” Mapisa-Nqakula and Masondo said.
+– Source: SAnews.gov.za
+
+
+PREMIER ZIKALALA WELCOMES RETURN OF SAA, QATAR FLIGHTS
+TO KING SHAKA AIRPORT
+
+
+KwaZulu-Natal Premier,
+Sihle Zikalala, says the
+tourism sector will benefit
+significantly from the
+recent return of both
+South African Airways
+(SAA) and Qatar Airways
+to Durban’s King Shaka
+International Airport.
+
+Premier Zikalala said the move would help to further boost KwaZulu-Natal’s economic recovery.
+“Through our Economic Recovery, Reconstruction and Transformation Plan, we have stated our commitment to increasing trade, tourism
+and beneficial collaboration with the rest of the world.
+“Efficient and regular aviation services are necessary if we are to increase visits to our province, grow tourism numbers and create jobs
+up and down the value-chain,” Premier Zikalala said on Thursday, 20 January 2022.
+This followed SAA’s announcement that its first scheduled flight will take off from OR Tambo International to King Shaka International on
+4 March 2022.
+This will be the first time in almost two years since the airline exited the route.
+SAA said it would fly the route seven days per week, at least three times a day on a return service between the two cities.
+SAA’s return to King Shaka Airport follows close on the heels of the resumption by Qatar Airways of flights out of Durban. Qatar, the Gulf
+airline headquartered in Doha, resumed flying from KwaZulu-Natal on 14 January with an initial frequency of four flights a week.
+Premier Zikalala said the resumption of SAA and Qatar Air flights between Durban and Johannesburg and Durban and Doha [capital of
+Qatar] respectively, would benefit the tourism sector, which remains one of the greatest creators
+He noted that direct links to mid-hemisphere hubs, such as Doha in the Gulf region, brought the world closer by providing easy access to
+the global capitals of the world.
+“The uptick in tourism numbers, which is directly related to aviation links, can only mean that KZN is truly on the rise, and that better
+things will come in 2022. SAA is a major global brand in the aviation, travel and tourism industry, and it remains recognisable to tourists
+and visitors wanting to visit our country from all corners of the globe.”
+By returning to KwaZulu-Natal, he said, SAA would increase air links to the province by adding the number of airlines choosing to connect
+to destinations in that province.
+– Source: SAnews.gov.za
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+
+
+SALIM AND QUARRAISHA ABDOOL KARIM SCOOP ANOTHER
+INTERNATIONAL AWARD
+
+Durban scientists and
+infectious disease
+epidemiologist
+professors Salim and
+Quarraisha Abdool Karim
+have been honoured in
+Vietnam for their ground-
+breaking research on HIV
+prevention in South
+Africa.
+
+
+World-renowned Durban scientists and infectious disease epidemiologists at the Centre for the AIDS Programme of Research in South
+Africa (Caprisa), professors Salim and Quarraisha Abdool Karim, have been honoured in Vietnam as inaugural recipients of a VinFuture
+special prize for their ground-breaking research on HIV prevention in South Africa.
+The couple was awarded the VinFuture Special Prize for innovators from developing countries at a ceremony held at the Hanoi Opera
+House in Vietnam on Thursday, 20 January 2022.
+Guests included Vietnam Prime Minister, Pham Minh Chinh, and leaders of government ministries, ambassadors, Nobel laureates and
+the founders of the VinFuture prize.
+The award programme is part of the VinFuture Foundation, an independent, non-profit organisation set up by Phạm Nhật Vượng, the first
+Vietnamese billionaire and founder and Chairperson of the largest Vietnamese conglomerate, VinGroup Corporate, with his wife, Phạm
+Thu Hương, to create meaningful change in the lives of millions by recognising and rewarding transformative innovation in sci-tech.
+Almost 600 nominations across 60 countries were received for the prize. Of these, nearly 100 were for the world’s top 2% most-cited
+scientists, many of whom are themselves laureates of distinguished awards, including the Nobel Prize, Japan Prize and Tang Prize.
+“The Abdool Karims have tirelessly championed the importance of science in defining the HIV and COVID-19 response,” said Chair of the
+Caprisa board, Bongiwe Ntuli.
+“South Africa is blessed to have such world-class scientists whose research is making the world a better place.
+”The couple said the 2022 prize for scientists in developing countries was “a beacon of recognition for the many scientists in the
+developing world who toil away each day in their laboratories, clinics and libraries, that scientific excellence is achievable in the midst of
+adversity.
+“While we serve as its recipients, this prize is recognition for the dedication and commitment to excellence by a team of more than 200
+researchers in South Africa, with collaborators from five continents and thousands of volunteers who have participated in our studies over
+the past 33 years,” they said.
+The ceremony honoured the winners of the inaugural VinFuture prizes, including the US$3 million (about R45 million) VinFuture grand
+prize and three US$500 000 (about R7.5 million) special prizes for female innovators, innovators from developing countries and
+innovators with outstanding achievements in emerging fields.
+– Source: TimesLIVE
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+
+WESTERN CAPE CLAIMS THREE IN THE TOP 50 “MOST LOVED
+DESTINATIONS”
+
+
+Cape Town, Hermanus, Stellenbosch and
+Knysna were all crowned with the titles of
+“Most Loved Destinations in the World” with
+three of these Western Cape gems ranking in
+the top 50 out of 100 places globally.
+
+Cape Town stood at #54, Hermanus at #41, Stellenbosch at #23 and Knysna at #19 according to the Tourism Sentiment Index (TSI).
+The TSI is a travel data intelligence solution created by destination marketing agency Destination, which compiled the list.
+An intensive data study that analysed more than 1.6 billion online conversations and content pieces publicly available on about 21 330
+global destinations took place to unearth the “Most Loved Destinations”.
+Overjoyed with the news, Western Cape Minister of Finance and Economic Opportunities, David Manier, expressed as per Wesgro:
+“For four Western Cape towns and the Mother City to be identified in the top 100 most loved places in the world – following a global
+consumer sentiment analysis – is an outstanding achievement. The last two years will go down in history as the most challenging years
+thus far for the global tourism sector, and the rankings demonstrate that Cape Town and the Western Cape is a world-class destination
+and a firm favourite on the global travel bucket list.”
+“This announcement puts a huge pep in our step as Western Cape warriors – especially in light of tourism.”
+As Wesgro announced, domestic travellers tripled between November and December of 2021 – at a 66% recovery rate. Internationally,
+this number was at a peak in November last year at a 41% recovery rate, which unfortunately decreased in the later seasons of the year
+due to the Omicron variant scare.
+Nonetheless, the number of tourists grew by 28% compared to 2020.
+Favourite attractions included Table Mountain Aerial Cableway, Cape of Good Hope, Boulders Beach and Robben Island. Kirstenbosch
+Gardens were also able to recover about half of its 2019 figures in both November and December compared to 2019.
+– Source: www.capetownetc.com
+
+
+RAPPER NAS AND GOOGLE INVEST MILLIONS INTO SOUTH AFRICAN
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+MOBILE GAME PUBLISHER
+
+Nas and Google are
+investing over R300
+million into Cape Town-
+based mobile gaming
+publisher.
+
+
+American Rapper Nas has partnered with Google to invest over R300 million into Carry1st, a Cape Town-based mobile gaming publisher.
+Founded in 2018, Carry1st employs 32 people across 14 countries and recently raised US$20 million (over R300 million) in a financing
+round led by venture capital firm Andreessen Horowitz, with participation from such big names as Nas, Google and Riot Games.
+According to The Hollywood Reporter, as part of Andreessen Horowitz’s first investment in a company headquartered in Africa, partners
+David Haber and Jonathan Lai will join the board of Cape Town, South Africa-based Carry1st, whose games include SpongeBob: Krusty
+Cook-Off from studio Tilting Point.
+SpongeBob: Krusty Cook-Off saw immediate success upon its announcement in 2019, with the strongest pre-registration performance of
+any Nickelodeon game ever: more than 17 million players pre-registered.
+At launch, it was one of the top 10 most downloaded games on iOS in 97 countries. It achieved this in 79 countries on Google Play.
+“On the back of 96% monthly revenue growth, Carry1st will use the additional capital to expand its content portfolio, grow its product,
+engineering and growth teams, and acquire tens of millions of new users,” the statement said. “Notably, Carry1st is expanding into game
+co-development, working with leading game studios on original concepts and developing the infrastructure to support play-to-earn
+gaming.”
+“We’re excited to partner with this world-class group of investors who, in addition to capital, bring expertise across gaming, fintech, and
+web3,” said Cordel Robbin-Coker, co-founder and CEO of Carry1st. “In 2021, we launched multiple games and digital commerce
+solutions achieving really strong growth. Together, we can accelerate this growth and achieve our goal of becoming the leading
+consumer Internet company in the region.”
+– Source: www.goodthingsguy.com
+
+
+JOBURG TEEN MAKES IT INTO PRESTIGIOUS IVY LEAGUE
+
+
+Sazi Bongwe was Head of School at St John’s
+College in 2021, and achieved nine distinctions in
+his final matric exams, with an average of 95.9%.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+Johannesburg matriculant Sazi Bongwe has secured admission to Harvard University for the 2022 academic year, which kicks off in
+August.
+The 18-year-old achieved nine distinctions in his final Matric exams, with an average of 95.9% – in addition to building an impressive
+extracurricular portfolio throughout his school career. For high school students with dreams of studying at a top university abroad, Sazi’s
+journey is a masterclass in standing out to admissions officers.
+Bongwe tweeted the photo of his family by his side saying that “getting into Harvard is crazy for me but the smiles of these people on
+either side of me are all that matters.”
+The reality is that applying to study overseas is a complex process, especially for South Africans – but if you start planning early enough,
+it’s very possible for local students to realise their ambitions.
+“For me, understanding all the things that go into a well-rounded application, from academics and extracurriculars to standardised testing
+and essays, made the journey much easier,” says Sazi.
+Traditionally, Harvard has exceptionally low acceptance rates. In 2021, the university received over 57 000 applicants and only accepted
+1 968 students. While the number of applicants in prior years was lower, acceptance rates typically hover around 4%, with international
+student acceptance rates coming in even lower. Understanding the differences between applying at home and overseas can give those
+with big dreams an opportunity to turn them into a reality.
+“Top American universities, like Harvard, look for students who demonstrate academic potential and are intellectually curious, passionate,
+and innovative. For his capstone project, Sazi launched Ukuzibuza, an online platform that aims to respond to the injustices and
+challenges faced by the youth. This provided admissions officers with an insight into who he is, as well as the impact he has had and will
+have in the future,” says Rebecca Pretorius, Country Manager at global mentorship company Crimson Education, who assisted Sazi with
+the application process to Harvard, as well as Stanford and Yale.
+“My advice to other students wanting to study overseas is to think of the application as the culmination of you doing things that are
+meaningful to you. Instead of doing something because it will lead to a good application, make sure that you’re doing things that are
+meaningful and that you’re fully giving all yourself to them. The result of that will be a really impressive application,” says Sazi.
+– Source: www.goodthingsguy.com
+
+
+THE CAPE TOWN CARNIVAL RETURNS
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+The Cape Town Carnival will
+return on 19 March, since it
+was first postponed in 2020
+due to the COVID-19
+pandemic.
+
+
+Instead of floats and large crowds lining the streets, the Cape Town Carnival 2022 has been moved to five different hubs, adhering to
+COVID-19 health and safety protocols. Festival-goers will enjoy 30-minute shows and performances while exploring Cape Town's streets,
+restaurants and galleries.
+Adhering to the number of people allowed in a venue, the hubs will be sanitised before every show and visitors will be screened on entry,
+with compulsory mask-wearing in place. There will be a one-hour interval between each show for venues to be sanitised, and it will take a
+visitor about 10 to 15 minutes to enter a hub as they go through COVID-19 screening protocols and ticket check-in.
+"This year's Cape Town Carnival will move people like never before. Literally. Visitors curate their own experience as they move between
+five distinct outdoor carnival hubs across the city," explains Jay Douwes, CEO.
+On 19 March, the Cape Town Carnival 2022 will take place at five different hubs from 14:30 to 21:30 on the day: The Mountain of
+Memories at Hatfield Street Hub, the Cultural Roots at the National Gallery Hub, the Tales of Camissa at the South African Museum Hub,
+Imswenko at the Heritage Square Hub, and The Drum Era at the Green Market Hub.
+Visitors will be able to visit any or all of the differently colour-coded hubs, in any order, at a designated timeslot. Each hub has varying
+capacity depending on the size of the space, ranging between 2 000 to 4 500 attendees.
+"We're driven by the fundamental belief in the power of creativity. This inspired the Cape Town Carnival team to find a new way to bring
+joy to the city once more."
+The Cape Town Carnival has historically been a free event, but Cape Town Carnival 2022 will require pre-booked attendance with visitors
+supplying COVID-19 track-and-trace information through booking and purchasing a R10 ticket per person, per show, at the official Cape
+Town Carnival website.
+For R50, a visitor will experience five different and unique shows.
+Tickets for Cape Town Carnival 2022 will also be sold on the day at each of the five hubs, online at the official website,
+or www.webtickets.co.za
+ or at Pick n Pay. One ticket is valid for one show at one of the five hubs.
+– Source: www.news24.com
+
+
+ZOZIBINI TUNZI TO MAKE FILM DEBUT IN “THE WOMAN KING” WITH
+VIOLA DAVIS AND THUSO MBEDU
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+Former Miss South Africa and
+Miss Universe 2019, Zozibini
+Tunzi, has been cast in the
+upcoming American historical
+epic film, “The Woman King,
+written by Dana Stevens and
+directed by Gina Prince-
+Bythewood.
+
+
+It stars Viola Davis, Thuso Mbedu, Lashana Lynch and John Boyega.
+Shot on location in South Africa, other familiar faces who have signed on are Masali Baduza, Seputla Sebogodi, Thando Dlomo and
+Makgotso Monyemorathoe. Grammy Award-winner Lebo M created five original songs for the film.
+Sharing the news on Instagram, Zozibini wrote: "I am so honored and excited to announce that I have been cast for the film, The Woman
+King (@womankingmovie).
+"It is a completely new world and first time experience for me so I enter it with the utmost respect and humility. Forever grateful and
+looking forward. [sic]"
+The film is scheduled to be theatrically released by Sony Pictures releasing in September 2022.
+– Source: www.news24.com
+
+
+ADIDAS UNVEILS TSONGA-INSPIRED COLLECTION WITH SOUTH
+AFRICAN DESIGNER RICH MNISI
+
+
+Adidas has launched a vibrant collection of apparel and footwear
+in collaboration with South African contemporary fashion
+designer, Rich Mnisi.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+The new range features a line-up of bold pieces that celebrate Mnisi’s Tsonga heritage with apparel that supports a range of sports,
+including running, cycling, swimming and training.
+Alongside the performance pieces are statement streetwear looks featuring exaggerated silhouettes designed to fuse style, colour and
+function. The drop is also rounded off with Adidas footwear lines, including Superstar, UltraBoost and Forum, which have been reborn
+with Mnisi's signature prints via a series of design accents that feature throughout.
+In a statement shared by Adidas, the brand says that Mnisi’s dedication to push the dial on the celebration of identity intersects with
+Adidas’ belief that through sport, they have the power to change lives. The result is a line that pushes the boundaries of sport style, all
+with self-expression at the heart.
+Pieces in the collection fuse bright, bold animal prints, vibrant clashing colours and striking abstract patterns that come together to tell the
+exciting story of Mnisi's roots. Each piece has been designed to be worn as a standout piece or accessorised and layered for a more
+individual and expressive look.
+Reflecting heritage, self-expression and community
+Reflecting Reflecting Mnisi’s vision for celebrating community, habitat and homeland environments, hero styles and performance pieces
+have also been made in part with recycled materials and Parley Ocean Plastic, to help end plastic waste. The campaign features Mnisi's
+close circle and local community in South Africa, a line-up of inspirational figures who he believes use their identity to push culture
+forward.
+Mnisi comments on the launch saying, “I am immensely proud to present this collection in collaboration with Adidas, an iconic brand that I
+grew up seeing on people of colour that were rewriting the arts. It has been a pleasure to bring my designs to classic pieces. We have
+created a bright, unique collection that reflects my love for the idea of community and heritage, individuality and self-expression. Our aim
+was to create pieces that support life on and off the sports field.”
+“The spirit of this collection celebrates our homeland, so environment was an important aspect when looking at methods and materials
+used in the creation process. I am so pleased we’ve used Adidas advanced technology and partly recycled materials. I am truly excited
+for the world to see this collaboration come to life,” Mnisi adds.
+– Source: www.bizcommunity.com
+
+
+SOUTH AFRICAN STAR LIZELLE LEE CROWNED ICC WOMEN'S
+CRICKETER OF THE YEAR
+
+Proteas women's opening
+batter, Lizelle Lee, has been
+honoured with the 2021
+International Cricket Council
+(ICC) Women's One-Day
+International (ODI) Cricketer of
+the Year accolade.
+
+
+The right-hander scored 632 runs in the 50-over format last year, averaging a whopping 90.28 in 11 games, with five half-centuries and
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+an unbeaten ton as she helped South Africa to second spot on the ICC Women's ODI Rankings.
+Her undefeated 132 off 131 balls (16 fours, 2 sixes) against India in Lucknow in March 2021 was undoubtedly the highlight of the year for
+the 29-year-old, with the knock propelling the South African women to a six-run victory and a 2-1 series lead before they wrapped up a
+historic series win in the next game.
+Lee has remained atop the Women's ODI batting rankings on 761 points, in front of Australia's Alyssa Healy (75) and India's Mithali Raj
+(738).
+In 2022, Lee and her Proteas teammates will set their sights on the Women's Cricket World Cup to be hosted in New Zealand from 4
+March to 3 April.
+– Source: www.news24.com
+
+
+DE KOCK PROPELS PROTEAS TO MEMORABLE ODI SERIES
+WHITEWASH OVER INDIA
+
+
+Quinton de Kock's scintillating
+century steered the Proteas to a
+series whitewash following a
+win in the third and final ODI
+against India at Newlands on
+Sunday, 23 January 2022.
+
+The Proteas sealed the three-match ODI series 3-0 with a four-run win in sweltering Cape Town weather.
+Setting a record target chase at Newlands by a non-South Africa side after the hosts were bowled out for 287, India knew they had to
+make a strong start.
+De Kock brought up his 17th one-day century after the Proteas were sent to bat on what was a hot morning at Newlands Cricket Ground.
+De Kock shared a 144-run fourth-wicket partnership with batter Rassie van der Dussen to put the Proteas in the driving seat.
+Van der Dussen struck 52, while De Kock fell for a brilliant 124 off 130 balls (including 12 fours and two sixes) in quick succession.
+David Miller scored 32 before the Proteas lower order collapsed to 287 all out in 49.5 overs.
+Prasidh Krishna was the pick of the Indian bowlers as he ended with figures of three for 59 in his 9.5 overs
+– Source: www.news24.com
+
+
+DAVIDS BRACE SEALS MAGICAL MALAGA TITLE FOR BLITZBOKS
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+Selvyn Davids scored a last-gasp
+try to secure yet another Sevens
+title for the Springbok Sevens team
+when they beat Argentina 24-17 in
+the Malaga Sevens final on Sunday
+evening, 23 January 2022.
+
+
+Davids' brace of tries was two of the four tries scored by Neil Powell's side, who twice had to come back from deficits to claim the crown.
+While the final success wasn't quite the revenge for Argentina dumping them out of the 2020 Tokyo Olympic Sevens tournament, the
+Blitzboks conceded an early try, then watched Joaquin de la Vega scoring a brace that saw Argentina move from 12-5 down to lead 17-
+12.
+Davids scored South Africa’s first try to give them a 7-5 lead, from where JC Pretorius added his touchdown to give South Africa their
+five-point buffer.
+De la Vega's brace threatened to derail South Africa's title defence as he took Argentina to a 17-12 lead, but Justin Geduld levelled things
+out.
+After putting Argentina under severe breakdown pressure, the Blitzboks gradually found gaps and with the Pumas defence stretched,
+Davids burst through a gap and scored the match-winning try.
+– Source: www.news24.com
+
+
+SOUTH AFRICA’S DOMINIQUE SCOTT-EFURD RACES INTO TOP 3 IN
+HOUSTON HALF MARATHON AND BREAKS SA 20 KM RECORD
+
+
+Two-time Olympian
+Dominique Scott-Efurd
+clocked a huge personal
+best in finishing third at
+the Houston Half-
+Marathon, when she
+produced the second-
+fastest time ever by a
+South African women’s
+athlete over 21.1km and
+broke the SA 20km
+record.
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+The 29-year-old competed in the 5 000 and 10 000m at the Tokyo Olympics, but showed her quality on the road over the longer distance
+in Houston, on a chilly, windy (20km/h) morning. (She had been training in Colarado with snow next to the track so she was well
+prepared!)
+Dominique’s 67min 32sec finish split the two best times ever recorded by South Africans – Elana Meyer’s 66:44 from 1999 and Colleen
+De Reuck’s 68:38 in 1989.
+Writing on Instagram afterwards, Dominique said: “Yesterday was a good day! I think I surprised everyone with that run, even Joe and
+myself, but I felt like I was right where I belong! Thank you for all the love and support ”
+Dominique was in a group who went through the 15km mark in 47:51 (67:18 pace) and she held on courageously over the final 6km to
+carve more than three minutes off her previous best.
+She also congratulated her fellow competitors saying: “We pushed each other and elevated the game! And a big congrats to @sarahall3
+on your shiny new American Record! Was an honor running with you in your historic race.”
+Kenya’s Vicoty Chepngeno crossed the line first in Houston in 65:03, followed by American Sara Hall (67:15), which was 10 seconds off
+Molly Huddle’s American record.
+Dominique added in a new post: “South African 20km Record  Yesterday I found out that my 20km split of 64:04 broke the National
+Record!! Proud to put my name in the record books and continue the legacy of South African road running.” The previous 20km record
+was held by De Reuck.
+Dominique, who also clocked a new PB for 10km and 15km, said: “I’ve learned that running often doesn’t go our way, but hard work will
+ALWAYS be rewarded (just not always on our timeline ) If you’re going through a slump, I encourage you to keep grinding and believing.
+Your breakthrough just might be right around the corner!”
+– Source: www.sapeople.com
+
+
+SOUTH AFRICA'S UMPIRE MARAIS ERASMUS HONOURED AFTER
+REACHING 100TH ODI MILESTONE
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+South Africa's Marais Erasmus has
+officiated in his 100th One-Day
+International (ODI) as an on-field
+umpire, becoming the third South
+African to reach the milestone.
+
+
+Erasmus says he is honoured to serve the game he loves as hopes to continue to officiate the best of his ability.
+The International Cricket Council (ICC) has congratulated its award-winning umpire as he stands in the ongoing three-match ODI series
+between the Proteas and India.
+The opening ODI between the Proteas and India saw South African umpire Marais Erasmus officiating in his 100th men's ODI series as
+an on-field umpire.
+Erasmus reached the landmark at Boland Park, a ground where he played for Boland in his playing career from 1988/89 to 1996-97.
+Erasmus scored 1 913 runs and took 131 wickets in 53 first-class matches. In List A matches, he scored 322 runs and took 48 wickets.
+The 57-year-old, who won the ICC Umpire of the Year Award in 2016 and 2017, has also officiated in 70 Test matches, 35 Men's T20Is
+and 18 Women's T20Is since making his international debut in February 2006.
+Erasmus became only the third South African umpire to stand in 100 ODIs, behind Rudi Koertzen (209) and David Orchard (107).
+"It is an honour to be officiating in my 100th ODI. I have enjoyed my time as an umpire and will continue to do my best in the times to
+come," said Erasmus.
+The ICC congratulated Erasmus for officiating in his 100th ODI and he received a token before the match in Paarl on Wednesday, 19
+January 2022.
+"Marais is a very consistent umpire with a fine temperament. It is no surprise that he has reached this milestone and I am sure he will
+continue to do well in the coming years," said Adrian Griffith, ICC Senior Manager - Umpires and Referees.
+"I congratulate him on behalf of everyone at the ICC and wish him all the best for the future. He has served the game well and is a role
+model for many aspiring umpires the world over."
+– Source: www.news24.com
+
+DIRCO Electronic Newsletter
+file:///I/dfa/dircoenewsletter/newsflash507-27-01-2022.html[2023/02/17 15:41:15]
+
+
+
+Stay Connected with us
+
+For back issues of NewsFlash, visit: http://www.dirco.gov.za/department/newsflash.html

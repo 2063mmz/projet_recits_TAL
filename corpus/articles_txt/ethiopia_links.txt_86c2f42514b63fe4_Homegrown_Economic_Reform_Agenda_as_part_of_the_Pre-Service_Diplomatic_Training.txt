@@ -1,0 +1,17 @@
+seed_url: https://www.ifa.gov.et/2025/04/02/homegrown-economic-reform-agenda-as-part-of-the-pre-service-diplomatic-training-program/
+final_url: https://www.ifa.gov.et/2025/04/02/homegrown-economic-reform-agenda-as-part-of-the-pre-service-diplomatic-training-program/
+title: Homegrown Economic Reform Agenda as part of the Pre-Service Diplomatic Training Program
+date: Apr 2, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Homegrown Economic Reform Agenda as part of the Pre-Service Diplomatic Training Program
+Ethiopia’s Finance Minister H.E Ahmed Shide and State Minister of Ethiopia’s
+Ministry of Finance H..E Dr. Eyob Tekalign delivered an insightful lecture on the Homegrown Economic Reform Agenda as part of the Pre-Service Diplomatic Training Program at the Civil Service University.
+The lecture provided a comprehensive overview of HGER, outlining its key pillars aimed at ensuring macroeconomic stability, enhancing private sector investment, and fostering inclusive and sustainable growth. The discussion also addressed critical areas such as foreign exchange management, financial sector reforms, and business climate improvement—essential for Ethiopia’s long-term economic resilience.
+#HGER2
+#EconomicReform
+#DiplomaticTraining
+#SustainableGrowth

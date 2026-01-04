@@ -1,0 +1,27 @@
+seed_url: https://statehouse.gov.ng/focac-nigeria-has-benefited-over-5bn-in-projects-says-president-buhari/
+final_url: https://statehouse.gov.ng/focac-nigeria-has-benefited-over-5bn-in-projects-says-president-buhari/
+title: FOCAC: Nigeria Has Benefited Over $5bn in Projects, Says President Buhari
+date: September 4, 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Nigeria’s partnership with China through the Forum on China-Africa Cooperation (FOCAC) has resulted in the execution of vital infrastructure projects across the country, valued at over $5 billion in the last three years of the current administration.
+President Muhammadu Buhari disclosed this on Tuesday in Beijing at the FOCAC Round Table meeting, attended by African leaders and Chinese President Xi Jinping.
+Highlighting specific projects under FOCAC, the President said through the Chinese support, Nigeria has impressively addressed significant challenges in the areas of infrastructure, human capacity development, power, transport, agriculture and humanitarian assistance.
+According to him, ”For Nigeria, our partnership with China through the FOCAC platform, has resulted in the construction of the first urban rail system in West Africa. This $500 million project in Abuja was commissioned in July this year.”
+The President also cited the construction and operation of the first rail system in Africa that uses modern Chinese standards and technology.
+“This 180km rail line that connects Abuja and Kaduna was commissioned two years ago at a cost of $500 million. Today the rail line is functioning efficiently with no issues – indeed, a sign that Chinese technology is world class,” he noted.
+President Buhari said that, ”Nigeria is leveraging Chinese funding to execute $3.4 billion worth of projects at various stages of completion. These include the upgrading of airport terminals, the Lagos – Kano rail line, the Zungeru hydroelectric power project and fibre cables for our internet infrastructure.
+”Furthermore, less than 3 months ago, Nigeria signed an additional $1billion loan from China for additional rolling stock for the newly constructed rail lines as well as road rehabilitation and water supply projects”.
+The Nigerian leader said that the aforementioned projects had demonstrated the high level of consistency and commitment China has shown in boosting its relations with African countries under the umbrella of FOCAC.
+”I am optimistic that this Summit will offer new opportunities that would build on these past achievements,” he said, adding that, ”Nigeria will continue to support the FOCAC initiative and also seek to key into the Belt and Road Initiative as an additional Chinese mechanism to build further cooperation in our quest for infrastructural and economic development.”
+President Buhari dispelled insinuations about the so-called death trap by Chinese government on developing countries, insisting that Nigeria would be able to re-pay the loans.
+”These vital infrastructure projects synchronize perfectly with our Economic Recovery and Growth Plan. Some of the debts incurred are self-liquidating. Our country is able to re-pay loans as and when due in keeping with our policy of fiscal prudence and sound housekeeping,” he said.
+While applauding China for its overall commitment to the ideals of FOCAC, the President acknowledged that since the launch of the Forum in 2000, China and Africa had striven to implement the declarations and follow-up action plans for the benefit of both parties.
+President Buhari also commended President Jinping, his Government and people for successfully hosting the Beijing Summit aimed at further strengthening China-Africa partnership.
+Garba Shehu
+Senior Special Assistant to the President
+(Media & Publicity)
+September 4, 2018

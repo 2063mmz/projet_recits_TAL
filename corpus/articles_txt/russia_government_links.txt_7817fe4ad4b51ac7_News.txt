@@ -1,0 +1,60 @@
+seed_url: http://government.ru/en/news/29986/
+final_url: http://government.ru/en/news/29986/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev’s conversation with President of the People’s Republic of China Xi Jinping
+1 November 2017
+13:00
+Beijing, People's Republic of China
+Dmitry Medvedev’s statement at
+the meeting:
+Meeting with Chinese President Xi Jinping
+1 November 2017
+Meeting with Chinese President Xi Jinping
+1 November 2017
+Предыдущая новость
+Следующая новость
+Meeting with Chinese President Xi Jinping
+Mr President of the People’s Republic of China Xi Jinping,
+Colleagues,
+First of all, I would like to pass
+on the greetings and best wishes from President of Russia Vladimir Putin. We,
+of course, watched attentively the 19
+National Congress of the
+Communist Party of China, which took strategic decisions for the upcoming
+decades. We sincerely congratulate you on its conclusion.
+Visit
+Dmitry Medvedev lays a wreath at the Monument to the People's Heroes in Beijing
+Dmitry Medvedev's online news conference in Beijing
+Dmitry Medvedev’s talks with Premier of the State Council of the People's Republic of China Li Keqiang
+Dmitry Medvedev bestows Russian state awards on Chinese citizens
+22nd regular meeting of Russian and Chinese heads of government
+Dmitry Medvedev and Premier of the State Council of the People's Republic of China Li Keqiang attend the closing ceremony for the years of Russian and Chinese media
+Dmitry Medvedev meets with Chairman of the Standing Committee of the National People's Congress of the People’s Republic of China Zhang Dejiang
+We wish you and all our
+Chinese friends every success in the implementation of the approved strategy on
+building a socialist society with Chinese characteristics in the new era.
+We understand how important
+these decisions are for the development of friendly China and we hope that our
+partnership, multidimensional and strategic interaction will become even more
+functional because of these decisions. At any rate, we are ready for that.
+As you said, we met in last July
+during your visit to Moscow, which also went very well. Today in Beijing we
+held the 22
+meeting of heads of government. It is an efficient
+mechanism that covers almost all areas of our cooperation: the economy,
+investment, innovations, major energy projects, culture, and of course, the
+realisation of the leading idea of our cooperation, the synergy of interaction
+as part of the Belt and Road Initiative and the Eurasian Economic Union.
+Decisions have been made and
+important documents signed in all these areas, so we are very pleased with
+today’s results.
+Government of the Russian Federation
+http://government.ru/en/news/29986/
+Highlight selection

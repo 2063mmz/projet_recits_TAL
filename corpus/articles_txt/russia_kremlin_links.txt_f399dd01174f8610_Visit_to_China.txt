@@ -1,0 +1,69 @@
+seed_url: http://en.kremlin.ru/events/president/trips/54504
+final_url: http://en.kremlin.ru/events/president/trips/54504
+title: Visit to China
+date: 2017-05-14
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Visit to China
+May 14 − 15, 2017
+Visit abroad, 7 events
+Vladimir Putin took part
+in the opening of the Belt and Road International Cooperation Forum and in the roundtable meeting at the forum. The participants discussed aspects of integration-related interaction and development of economic partnership. During
+the visit, the President of Russia participated in a number of bilateral
+meetings: with President of China Xi Jinping, President of the Czech Republic Milos
+Zeman, Prime Minister of Greece Alexis Tsipras, and Premier of the State
+Council of China Li Keqiang. He also had brief talks with President of Turkey
+Recep Tayyip Erdogan, President of Kyrgyzstan Almazbek Atambayev and President
+of Uzbekistan Shavkat Mirziyoyev on the sidelines of the forum. After the visit
+to China, Vladimir Putin answered questions from Russian journalists.
+First day
+Belt and Road international forum
+May 14, 2017, 05:20
+Beijing
+Vladimir Putin spoke at the opening of the Belt and Road international forum in Beijing. The event
+is dedicated to China's projects – the Silk Road Economic Belt and the 21st
+Century Maritime Silk Road.
+Russian President has arrived in China on a two-day
+visit.
+Meeting with President of China Xi Jinping
+May 14, 2017, 06:50
+Beijing
+Vladimir Putin held talks with President of China Xi Jinping. The talks covered, in particular, the prospects of economic cooperation between
+Russia and China, and topical international issues.
+Meeting with President of the Czech Republic Milos Zeman
+May 14, 2017, 09:30
+Beijing
+Vladimir Putin had a meeting with President of the Czech Republic Milos Zeman. Earlier that day the two leaders participated in the opening of the Belt and Road international
+forum.
+Meeting with Prime Minister of Greece Alexis Tsipras
+May 14, 2017, 11:00
+Beijing
+Vladimir Putin had a meeting with Prime Minister of Greece Alexis Tsipras on the sidelines of the Belt and Road international forum.
+Meeting with Premier of the State Council of China Li Keqiang
+May 14, 2017, 13:40
+Beijing
+Vladimir Putin had a meeting with Premier of the State Council of China Li Keqiang at the Great Hall of the People in Beijing.
+Second day
+Roundtable meeting of leaders at Belt and Road international forum
+May 15, 2017, 08:00
+Beijing
+Vladimir Putin attended
+the first roundtable meeting of leaders at the Belt and Road international forum, which covered integration issues and the further development of economic partnership.
+Replies to journalists’ questions
+May 15, 2017, 13:20
+Beijing
+Vladimir Putin answered
+media questions following a working visit to the People’s Republic of China.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Publication status
+Published in section:
+Trips
+Direct link:
+en.kremlin.ru/d/54504

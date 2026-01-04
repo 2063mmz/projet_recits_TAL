@@ -1,0 +1,15 @@
+seed_url: https://www.ifa.gov.et/2024/12/18/ethiopias-vision-for-regional-integration-a-policy-dialogue-at-ifa/
+final_url: https://www.ifa.gov.et/2024/12/18/ethiopias-vision-for-regional-integration-a-policy-dialogue-at-ifa/
+title: Ethiopia’s Vision for Regional Integration: A Policy Dialogue at IFA
+date: Dec 18, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+On December 17, 2024, the Institute of Foreign Affairs (IFA) hosted a crucial policy dialogue titled “#Ethiopia’s #Regional Integration Efforts and #BRI’s Evolving Dynamics.”
+The event featured a keynote address by Mr. Adam Tesfaye, chief of staff from #@MoFA who emphasized the importance of a united Africa where goods, services, ideas, and people flow freely across borders.
+The dialogue also examined the #Belt and Road Initiative (BRI), initiated by #China in 2013, which seeks to enhance global trade through infrastructure development. #Ethiopia’s involvement presents both opportunities and challenges that necessitate careful #strategic #alignment.
+The event concluded with a panel discussion featuring distinguished scholars. Dr. Abdi Zenebe, Deputy Executive Director of #IFA, emphasized the need for enhanced #interagency coordination, #green development initiatives, and #strategic partnerships.
+Key presentations included insights from H.E Ambassador Teshome Toga & Amba, Negus Kebede from #MoFA, who discussed Ethiopia’s regional integration efforts and the transition to a #green economy. Scholars assessed the alignment of Ethiopia’s policies with #BRI programs, focusing on modernization in the #Horn of Africa.
+#Ethiopia#PRC #RegionalIntegration #BRI#SustainableDevelopment

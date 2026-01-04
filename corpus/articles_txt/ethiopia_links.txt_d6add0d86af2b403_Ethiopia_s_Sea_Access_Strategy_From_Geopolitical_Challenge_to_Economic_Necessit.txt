@@ -1,0 +1,101 @@
+seed_url: https://www.ifa.gov.et/2025/10/02/ethiopias-sea-access-strategy-from-geopolitical-challenge-to-economic-necessity/
+final_url: https://www.ifa.gov.et/2025/10/02/ethiopias-sea-access-strategy-from-geopolitical-challenge-to-economic-necessity/
+title: Ethiopia’s Sea Access Strategy: From Geopolitical Challenge to Economic Necessity
+date: Oct 2, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Introduction:
+From Silence to Strategy
+More than thirty years after becoming landlocked following Eritrea’s independence in 1993, Ethiopia, Africa’s second most populous country, remains without direct access to the sea.  While landmark projects like the Grand Ethiopian Renaissance Dam (GERD) have brought energy security, the absence of a coastline continues to constrain Ethiopia’s economic potential and strategic autonomy.
+For years, the topic of sea access was politically sensitive and largely avoided in public discourse. However, that has changed. The Prime Minister of Ethiopia, Abiy Ahmed, has placed the issue back at the forefront, reframing Ethiopia’s lack of maritime access not simply as a historical consequence, but as a pressing developmental and geopolitical challenge.
+With a population exceeding 126 million and projected to surpass 150 million by 2030 (World Bank, 2024), Ethiopia argues that remaining in what officials describe as a “geographic prison” is no longer sustainable. This claim is rooted not only in demographic pressures, but also in Ethiopia’s long maritime history and increasing vulnerability due to dependence on a single foreign port.
+This article provides an overview of Ethiopia’s historical maritime ties, current constraints, and emerging strategies for securing access to the sea. Drawing lessons from other landlocked nations, it outlines diplomatic options grounded in cooperation, regional integration, and international law.
+2. A Historical Turning Point
+Ethiopia’s maritime legacy stretches back to ancient times and it is well documented.  During the Axumite Empire, ports like Adulis and Massawa provided access to Red Sea trade routes. More recently, until the late 1990s, Ethiopia relied primarily on the port of Assab for its maritime commerce.
+The situation changed dramatically in 1993 when Eritrea became independent. Although Ethiopia temporarily maintained access to Eritrean ports through transitional arrangements, the 1998–2000 border war between Ethiopia and Eritrea severed these ties completely. Since then, Ethiopia has depended almost entirely on the Port of Djibouti, which now handles over 90% of its maritime trade (World Bank, 2023).
+This dependence has renewed interest in Ethiopia’s historical maritime claims and the 19th century colonial injustice.  During the colonial period, the 1884 Hewett Treaty granted Ethiopia access to the sea through a British-Egyptian agreement. Later, in 1952, the UN recognized Ethiopia’s need for port access when it federated Eritrea under Resolution 390.
+Today, these legal and diplomatic precedents are being revisited not to reclaim the past, but to secure a more stable and prosperous future.
+3. Why Sea Access Matters for Ethiopia Today?
+For Ethiopia, sea access is not merely a symbolic issue, it is vital for sustainable development. As the country expands its industrial base, with export-oriented sectors like textiles, leather goods, and agribusiness growing rapidly, efficient and affordable logistics have become essential.
+Ethiopia is also emerging as a regional energy hub, supplying electricity to neighboring countries.  This role depends on the steady import of equipment, materials, and technology, almost all of which must pass through Djibouti.
+However, this reliance on a single port comes at a steep cost with an estimated $1.5 to $2 billion annual spending on port fees and related services (UNCTAD, 2021). It also presents strategic vulnerabilities from political shifts and economic pressures to supply chain disruptions.
+Increasingly, Ethiopia’s maritime strategy is shifting from aspiration to necessity.  Diversifying access to the sea is now central to the country’s broader goals; such as joining the World Trade Organization (WTO), integrating into the African Continental Free Trade Area (AfCFTA), and positioning itself as  logistics and trade hub in the Horn of Africa.
+4. What Does International Law Say About Landlocked Countries
+International law strongly supports the rights of landlocked countries to access the sea. The United Nations Convention on the Law of the Sea (UNCLOS) guarantees the right of transit through neighboring coastal states though the implementation of these rights depends on bilateral or regional agreements.
+In Africa, the 2050 Africa’s Integrated Maritime Strategy (AIMS) reframes the conversation by replacing the term “landlocked” with “land-linked” or “landly-connected.”  This shift in language reflects a more optimistic and cooperative vision one in which countries without coastlines are still actively engaged in maritime affairs through regional partnerships.
+Ethiopia’s current sea access debate has sparked different views.  Some critics frame it as a demand for ownership of a port, while others point to the controversial way Assab was transferred to Eritrea during Ethiopia’s transitional period after the fall of the military regime.  They argue that the government at the time lacked the legal authority to make such a concession, suggesting that Ethiopia’s rights to Assab may never have been formally surrendered.
+Regardless of historical claims, international legal frameworks like UNCLOS, grants landlocked states the right of access to and from the sea through transit states. However, the practical application of this right depends on bilateral or regional agreements, allowing the countries involved to determine the “how” of these rights, meaning how they are exercised. This highlights the importance of diplomacy, mutual benefit, and regional cooperation, as legal rights alone are rarely sufficient.
+Furthermore, the Vienna Programme of Action for Landlocked Developing Countries (2014–2024), and the 2030 Agenda for Sustainable Development all emphasize the importance of cooperation, infrastructure development, and inclusive trade. The UN General Assembly Resolution A/RES/63/17 also supports the creation of transit agreements and infrastructure tailored to landlocked states.  Institutions such as UN-OHRLLS, UNECA, and AfCFTA continue to promote cross-border trade, regional integration and harmonized regional infrastructure.
+The foregoing underscore while legal rights matter, their effectiveness depends on diplomatic engagement and sustained cooperation.
+5. Regional Momentum: A Window of Opportunity
+Ethiopia’s maritime ambitions align well with wider regional trends. The African Continental Free Trade Area (AfCFTA) aims to lower trade barriers, improve infrastructure, and foster intra-African commerce. UNCTAD estimates that AfCFTA could reduce trade costs for landlocked countries by up to 11% and increase freight volumes by nearly 30%.
+Ethiopia is also nearing full WTO membership and expanding its presence in global trade.  For this, dependable maritime access is essential to attract investment and facilitate exports. Its membership to BRICS further elevates the country’s strategic profile, offering new allies and platforms for maritime negotiations, infrastructure investment, and trade corridor development.
+By framing port diversification as part of a broader African integration agenda, Ethiopia can move the conversation beyond bilateral disputes.  Pan-African platforms like AIMS 2050 (Africa’s Integrated Maritime Strategy) provide a shared roadmap for maritime cooperation, legal harmonization, and regional security.
+6. What Other Countries Can Teach Ethiopia
+Moldova: Diplomacy Over Territory
+Moldova, after losing its coastline due to border shifts, negotiated and struck a creative deal with Ukraine in 1999.  Moldova gave up a small section of land for a road and in return, Ukraine granted Moldova a 430-meter stretch along the Danube River enabling the creation of its new international free port. This model shows that maritime access can be achieved through diplomacy and this offers a precedent Ethiopia could consider.
+Morocco and the Sahel: A Shared Corridor Vision
+In 2023, Morocco launched an initiative to provide landlocked Sahel countries like Mali, Niger, and Chad with access to Atlantic ports via Moroccan infrastructure. Through the development of corridors and shared logistics platforms, Morocco has enhanced both economic ties and regional influence.
+This cooperative approach offers valuable lessons for the Horn of Africa, where a similar model could ease tensions and promote shared development.  In contrast, countries like Ethiopia and Eritrea have yet to build a coordinated port access strategy despite facing similar challenges in a volatile Red Sea region. This also informs that landlocked nations can regain maritime access through infrastructure development. It is a model Ethiopia could study closely.
+Somaliland: A Strategic but Controversial Deal
+In early 2024, Ethiopia signed a Memorandum of Understanding (MOU) with Somaliland, leasing a 20-kilometer stretch of coastline for 50 years in exchange for infrastructure investments. This signaled possible recognition of Somaliland’s autonomy. While this sparked outrage in Somalia, Ethiopia views the deal as a pragmatic move to address its maritime needs.  Though controversial, the MoU reflects a shift from symbolic politics to strategic pragmatism.
+The Belt and Road Initiative
+Another opportunity lies in China’s Belt and Road Initiative (BRI), which can provide landlocked countries with greater leverage in international negotiations. By creating alternative transit routes and connecting these countries to multiple coastal or regional gateways, the BRI helps reduce dependence on any single transit country. For instance, Ethiopia now relies on the Ethiopia-Djibouti standard gauge railway built under the BRI to access the Port of Djibouti.  This will significantly reduce transit time and cost as compared to road transport and thus lessening the risk of overreliance on a single corridor (Xinhua, 2025).
+Similarly, in Central Asia, Kazakhstan has enhanced its rail access to China and Europe via projects like the doubling of the DostykMoyynty crossing and its participation in the TransCaspian or “Middle Corridor,” which offers a strategic alternative to Russian routes (RailFreight, 2023).
+7. What Should Ethiopia Do Next?
+From Isolation to Integration
+To secure sustainable sea access, Ethiopia must adopt a multi-pronged strategy rooted in diplomacy, investment, and regional cooperation. Key actions include:
+Re-engage with Eritrea- open dialogue to negotiate mutually beneficial access to the port of Assab.
+Deepen Ties with Djibouti and improve logistics and seek more favorable trade terms.
+Operationalize the Somaliland MoU: Work with regional bodies like the African Union and IGAD to ensure legal and diplomatic backing.
+Invest in LAPSSET (Kenya): Increase participation in this strategic corridor linking Ethiopia to the Indian Ocean.
+Integrate Ethiopia’s quest for sea into Pan-African Frameworks: Align maritime strategies with AfCFTA and AIMS 2050 to attract funding and regional support.
+In summary, Ethiopia’s landlocked status is not just a geographical inconvenience; it is a developmental bottleneck. No matter how ambitious its industrial, energy, or economic reforms, the absence of reliable sea access will continue to limit progress.
+It is time to treat maritime access not as a nationalist issue, but as a regional development challenge. The path forward lies in cooperation, not confrontation. With a clear, lawful, and diplomatically coordinated maritime strategy, Ethiopia can protect its national interests while contributing to peace and integration across the Horn of Africa.
+_______________________________________________________________________________
+References :
+Addis Insight. (2024).
+https://www.reddit.com/r/Ethiopia/comments/1hbrshu
+Balkan Insight. (2021, May 19).
+https://balkaninsight.com/2021/05/19/ebrd-takes-sole-ownership-of-moldovas-giurgiulesti-port/
+Clapham, C. (2000). War and state formation in Ethiopia and Eritrea. Review of African Political Economy.
+Ethiopian News Agency (2025). Notes upcoming export of electricity to Tanzania and increasing regional connections.
+EuroChamber Ethiopia. (2025).
+http://ethiopia-pushes-forward-on-reforms-to-attract-investment-and-join-wto/
+Financial Times. (202.
+https://www.ft.com/content/c4593986-94dd-478b-96db-ac070e99861e
+Kiss, Y. (2001).
+Geopolitics and access: Moldova’s negotiations for Danube access. European Borderlands Review.
+Morocco World News. (January, 2024).
+https://new-way-to-the-ocean-king-mohammed-vi-s-initiative-for-sahel-countries-development-and-connectivity-with-the-world
+Pankhurst, R. (1961). An Introduction to the Economic History of Ethiopia. Lalibela House.
+RailFreight. 2023. “KTZ Is Building a New Line to China to Bypass Congested Almaty.”
+https://www.railfreight.com/beltandroad/2023
+The Onero Institute. (2025).
+https://www.oneroinstitute.org/content/ethiopia-brics
+UNCTAD. (2021). Transport costs and trade facilitation in landlocked developing countries
+https://unctad.org
+United Nations. (1982). United Nations Convention on the Law of the Sea (UNCLOS).
+https://www.un.org/depts/los/
+United Nations General Assembly. (2008). Resolution A/RES/63/17: Cooperation between landlocked developing countries and transit developing countries.
+https://www.un.org
+United Nations. (1952). Resolution 390 (A) V: The federation of Eritrea with Ethiopia. United Nations Digital Library.
+https://digitallibrary.un.org
+United Nations SDGs:
+THE 17 GOALS | Sustainable Development
+World Bank. (2023, July)
+https://addis-djibouti-corridor-to-get-major-upgrade-that-is-key-to-unlocking-connectivity-and-trade-for-ethiopia-afe-hoa
+World Trade Organization. (2025). Ethiopia’s WTO Accession Progress.
+https://www.wto.org/english/news_e/news25_e/igo_24apr25_e.htm
+Xinhua. 2025. “Ethiopia–Djibouti Railway Boosts Trade and Regional Cooperation.” https://english.news.cn/20250507/d916e51ed52342258fda081db3d10880/c.html.
+Image credit: The Economist
+About the author
+Seble Getachew is an Associate Researcher at the Institute of Foreign Affairs (IFA). She is a dedicated advocate for women’s empowerment and continuous personal growth. Seble has over 18 years of experience working in the UN Offices, Field Services and similar International organizations in Africa, South-East Asia and the Gulf. With her experience working in a post-conflict environment, she has deep understanding of protection of civilians including policy research and administration. Seble has an abundance of multicultural expertise and a passion for diversity. She did her post graduate studies in Global Studies with a emphasis on Peace and Security in Africa from the Leipzig University and International Relations and Development from ISS, the Hague along with Bachelor’s degree in Political Science and International Relations from Addis Ababa University. Seble has been serving the IFA since August 2024 as volunteer in the capacity of Partnership Officer and Researcher in the Multilateral Affairs Research Directorate.
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.

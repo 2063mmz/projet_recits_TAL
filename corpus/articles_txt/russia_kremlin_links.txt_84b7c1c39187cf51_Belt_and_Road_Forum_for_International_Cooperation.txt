@@ -1,0 +1,41 @@
+seed_url: http://www.en.kremlin.ru/events/president/transcripts/speeches/60378/photos
+final_url: http://www.en.kremlin.ru/events/president/transcripts/speeches/60378/photos
+title: Belt and Road Forum for International Cooperation
+date: 2019-04-26
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Photos
+Belt and Road Forum for International Cooperation
+Vladimir
+Putin attended the second
+Belt and Road
+Forum for International Cooperation
+April 26, 2019
+06:30
+Beijing
+9 photos
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 26, 2019, 06:30
+Direct link:
+en.kremlin.ru/d/60378
+Text
+Photo
+Video
+Direct link
+http://en.kremlin.ru/events/president/transcripts/speeches/60378
+Telegram
+Copy link
+Send by email
+Last updated at
+April 26, 2019, 17:30

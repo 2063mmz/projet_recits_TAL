@@ -1,0 +1,55 @@
+seed_url: http://government.ru/en/news/28283/
+final_url: http://government.ru/en/news/28283/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev holds talks with President of China Xi Jinping
+4 July 2017
+11:30
+Government Reception House, Moscow
+The agenda included current issues of bilateral cooperation in trade, investment, energy, industry, transport infrastructure and agriculture.
+Excerpts
+from the transcript:
+Meeting with President of China Xi Jinping
+4 July 2017
+Meeting with President of China Xi Jinping
+4 July 2017
+Предыдущая новость
+Следующая новость
+Meeting with President of China Xi Jinping
+Dmitry
+Medvedev:
+Mr President, your visit is yet another contribution to the
+strengthening of our strategic partnership and cooperation. I am confident  your visit will help to further improve our
+relations, which have already reached an unprecedentedly high level.
+Our governments continue to
+cooperate, and we meet regularly.
+Last year, we met in St Petersburg
+, and this year I
+hope to visit your wonderful country for intergovernmental talks.
+Jinping
+(via interpreter)
+We are pleased at the positive development of the Russian economy and
+social stability in the country.
+President Vladimir Putin
+recently visited Beijing for the Belt and Road Forum, during which we agreed to
+strengthen our relations in the new situation. We agreed to boost regional
+economic integration, the parties’ economic globalisation, openness,
+inclusiveness, common benefit, balance and mutual success in order to stand
+together against global economic problems.
+Our relations have always been
+a foreign policy priority for China. We are confident of our cooperation with
+Russia against global challenges. China and Russia should expand and deepen
+their cooperation in the spirit of mutual support and openness in order to
+create conditions for the joint development and revival of our countries and
+also to give a powerful boost towards stronger peace and stable development in
+the world as a whole.
+<…>
+Government of the Russian Federation
+http://government.ru/en/news/28283/
+Highlight selection

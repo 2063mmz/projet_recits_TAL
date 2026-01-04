@@ -1,0 +1,86 @@
+seed_url: https://president.uz/en/lists/category/5?menu_id=12&page=3&per-page=15
+final_url: https://president.uz/en/lists/category/5?menu_id=12&page=3&per-page=15
+title: Speeches
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the second "Central Asia – Germany" summit
+17-09-2024
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the “SCO Plus” meeting
+04-07-2024
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the meeting of the Council of Heads of the Member-States of the Shanghai Cooperation Organization
+04-07-2024
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Second Plenary Session of the Foreign Investors Council
+03-05-2024
+Address by President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Third Tashkent International Investment Forum
+02-05-2024
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the lanching ceremony of major joint projects in the field of green energy
+27-12-2023
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the ceremony of awarding the International Anti-Corruption Excellence Award
+19-12-2023
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the UN Climate Change Conference (COP28)
+01-12-2023
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the First Summit of the United Nations Special Programme for the Economies of Central Asia
+24-11-2023
+Address by the President of the Republic of Uzbekistan H.E. Shavkat Mirziyoyev at the 16th Summit of Economic Cooperation Organization
+09-11-2023
+Address by the President of the Republic of Uzbekistan H.E. Shavkat Mirziyoyev at the Tenth Summit of the Heads of State of the Organization of Turkic States
+03-11-2023
+Address by the President to the participants of the Second Meeting of the Secretaries of Security Councils of the Member States of the Organization of Turkic States
+20-10-2023
+Address by H.E. Mr. Shavkat Mirziyoyev,  President of the Republic of Uzbekistan, at One belt One road third international forum
+18-10-2023
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the 25th session of the General Assembly of the World Tourism Organization
+16-10-2023
+Address by the President of the Republic of Uzbekistan Mr. Shavkat Mirziyoyev at the Meeting of the CIS Heads of State Council
+13-10-2023
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

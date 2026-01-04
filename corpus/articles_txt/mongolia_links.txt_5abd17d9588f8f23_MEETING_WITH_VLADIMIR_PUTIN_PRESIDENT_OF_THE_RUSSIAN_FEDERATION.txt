@@ -1,0 +1,21 @@
+seed_url: https://president.mn/en/2023/10/18/meeting-with-vladimir-putin-president-of-the-russian-federation/
+final_url: https://president.mn/en/2023/10/18/meeting-with-vladimir-putin-president-of-the-russian-federation/
+title: MEETING WITH VLADIMIR PUTIN, PRESIDENT OF THE RUSSIAN FEDERATION
+date: 2023-10-18T10:47:39+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2023/10/18 6:47:39
+MEETING WITH VLADIMIR PUTIN, PRESIDENT OF THE RUSSIAN FEDERATION
+President of Mongolia Ukhnaa Khurelsukh met President of the Russian Federation Vladimir Putin on the sidelines of the Third Belt and Road Forum for International Cooperation in Beijing.
+President Khurelsukh emphasized the importance of reducing trade barriers and jointly implementing major development projects and programs in infrastructure and energy to deepen and enrich Mongolia-Russia Comprehensive Strategic Partnership relations.
+The Heads of State agreed to resolve the issue of reducing export tariffs on agricultural products such as wool, cashmere, meat and meat products, and leather from Mongolia to Russia at the upcoming regular meeting of the Mongolia-Russia Intergovernmental Commission in Ulaanbaatar.
+The two Presidents exchanged views on ways to improve the efficiency of Ulaanbaatar Railway JSC, a symbol of Mongolian-Russian friendship, and potential areas of collaboration on the construction of Mongolia’s east-west vertical railways.
+President Khurelsukh expressed gratitude to Russian President Vladimir Putin for his pledge to provide Mongolia with a stable supply of fuel.
+Under the bilateral cooperation for supporting Mongolia to meet its growing energy demands, the two sides agreed to conduct comprehensive research on constructing the Eg River hydropower plant in Mongolia.
+During the meeting, Russian Foreign Minister Sergei Lavrov, Deputy Prime Minister Alexander Novak, Minister of Economic Development Maxim Reshetnikov, Transport Minister Vitaly Savelyev, Russian Railways CEO Oleg Belozerov, Gazprom CEO Alexei Miller, and Rosneft CEO Igor Sechin provided information on cooperation opportunities and presented their proposals to the President of Mongolia.
+The two Heads of State concurred that joint celebration of the 85th anniversary of the victory of the Battle of the Khalkha River in 2024 would honor the memory of Mongolian and Russian soldiers and help the future generations learn about history.
+President Putin cordially accepted President Khurelsukh’s invitation to attend the historic anniversary.
+The meeting also touched upon the importance of expanding cultural, educational, and humanitarian cooperation between the two countries and strengthening people-to-people ties.

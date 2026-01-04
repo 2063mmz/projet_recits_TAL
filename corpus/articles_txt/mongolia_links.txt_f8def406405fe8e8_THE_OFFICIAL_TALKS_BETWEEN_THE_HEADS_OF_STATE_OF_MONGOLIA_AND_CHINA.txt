@@ -1,0 +1,21 @@
+seed_url: https://president.mn/en/2019/04/25/the-official-talks-between-the-heads-of-state-of-mongolia/
+final_url: https://president.mn/en/2019/04/25/the-official-talks-between-the-heads-of-state-of-mongolia/
+title: THE OFFICIAL TALKS BETWEEN THE HEADS OF STATE OF MONGOLIA AND CHINA
+date: 2019-04-25T15:55:40+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/25 11:55:40
+THE OFFICIAL TALKS BETWEEN THE HEADS OF STATE OF MONGOLIA AND CHINA
+President of Mongolia Khaltmaagiin Battulga held official talks with President of the People’s Republic of China Xi Jinping today in the Great Hall of the People.
+At the beginning of the meeting, President Xi Jinping mentioned the fact that he had met President Battulga two times before, while stressing the significance of their third meeting in bilateral relations as this year marks the 75th anniversary of diplomatic relations and the 25th anniversary of the renewal of the Treaty on Friendly Relations and Cooperation between the two countries.
+For his part, President Battulga noted that the meeting was important for defining the achievements of the last 70 years as well as future goals and visions and expressed his pleasure with paying a state visit to China and attending the Second Belt and Road Forum for International Cooperation at the invitation of President Xi Jinping.
+The
+sides acknowledged how bilateral relations have reached the level of comprehensive strategic partnership as a result of consistent cooperation in the past years and agreed to continue to develop this partnership on all levels and intensify mutually beneficial cooperation.
+Within the frames of bilateral trade and economic cooperation, it was agreed that the two sides will pay close attention to productive and immediate implementation of the works funded by non-refundable aid and loans granted to Mongolia by China and give priority to the increase of export of value-added products, especially agricultural products, and not just mining products.
+For instance, President Xi Jinping expressed willingness to work towards progress, by establishing a working group, in regard to proposals of President Battulga concerning ban on meat export from the western region of Mongolia to China and facilitating conditions for exporting agricultural products from the western and eastern regions of the country to China.
+Moreover, President Xi Jinping also expressed China’s supportive position towards the Northeast Asian Super Grid project and establishment of a coordinating organization, initiated by President Battulga.
+In addition to this project, the official talks covered a wide range of issues pertaining to bilateral trade and economic cooperation, cultural educational, regional and international matters as well as trilateral cooperation, including the natural gas pipe connecting Russia with China, the agreement on transit transport by rail, and extension of the working hours of some ports.
+Following the official talks, President Battulga participated in a wreath-laying ceremony at the Monument to the People’s Heroes in the Tiananmen Square.

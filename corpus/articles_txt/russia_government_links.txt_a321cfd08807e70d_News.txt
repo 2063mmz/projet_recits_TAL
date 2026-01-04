@@ -1,0 +1,69 @@
+seed_url: http://government.ru/en/news/53003/
+final_url: http://government.ru/en/news/53003/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+07:40
+Islamabad, Islamic Republic of Pakistan
+The meeting took place on the sidelines of the SCO heads of government summit.
+Mikhail
+Mishustin’s address:
+Mr Li Qiang, Mr Oyun-Erdene, colleagues,
+I am delighted to have this opportunity to take part
+in the first trilateral meeting of the heads of government of Russia, China and Mongolia and to discuss the prospects of our practical interaction.
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+Mikhail Mishustin with Premier of the State Council of the People's Republic of China Li Qiang
+16 October 2024
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+16 October 2024
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang and Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+President Vladimir Putin pointed out in Samarkand two years ago that
+“the Russia-China-Mongolia format is of special importance
+as an effective supplement to bilateral cooperation that ensures
+high added value for all three countries.”
+A large package of basic documents and mechanisms has
+been created since our leaders met for the first time in Dushanbe 10 years ago.
+We are using it to carry out our multifaceted cooperation.
+Its key areas have been set out in a roadmap, which
+covers all spheres, including politics, the economy, science and technology,
+education and culture.
+We have approved a programme for creating a China-Mongolia-Russia economic corridor aimed at strengthening our cooperation
+in transport infrastructure, customs administration, industry, investment and environmental protection, as well as border and interregional cooperation, of course.
+As our head of state noted, “all these agreements are
+being successfully implemented and are yielding us practical dividends.”
+The range of issues we need to discuss and coordinate
+continues to grow. In addition to contacts between relevant agencies, the first
+consultations on strategic security were held in Moscow in September 2023 and a meeting of our foreign ministers was convened in Astana in July 2024.
+The importance of effective regional cooperation is
+growing now that a new multipolar architecture is taking shape. Our trilateral
+format is a relevant example. I am confident that its alignment with the development of the Eurasian Economic Union and the implementation of China’s
+Belt and Road Initiative and Mongolia’s Steppe Road Initiative are in our
+common interests. It is extremely important to align the implementation of these initiatives with the development of a Greater Eurasian Partnership
+proposed by President Putin.
+Colleagues,
+The strengthening of friendly relations and mutually
+beneficial cooperation with the People’s Republic of China and Mongolia, which
+are our close neighbours and strategic partners, is a foreign policy priority
+for Russia. We are ready to work together to enhance the prosperity of our
+nations and the quality of our citizens’ lives. I have no doubt that the agreements we reach today will provide a reliable foundation for this.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/53003/
+Highlight selection

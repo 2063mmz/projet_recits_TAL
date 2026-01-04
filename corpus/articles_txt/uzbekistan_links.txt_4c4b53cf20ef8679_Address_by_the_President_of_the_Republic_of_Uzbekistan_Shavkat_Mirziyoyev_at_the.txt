@@ -1,0 +1,130 @@
+seed_url: https://president.uz/en/lists/view/6457
+final_url: https://president.uz/en/lists/view/6457
+title: Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Meeting of the Heads of the Member-States of the Shanghai Cooperation Organization
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Meeting of the Heads of the Member-States of the Shanghai Cooperation Organization
+04.07.2023
+Distinguished Chairman!
+Dear heads of delegations!
+I am sincerely glad to welcome all participants of this Summit of the Shanghai Cooperation Organization.
+I echo the words of gratitude expressed today to the Honorable Prime Minister of the Republic of India Narendra Modi for organizing our meeting. We note India's successful first SCO presidency.
+I would like to underscore with satisfaction the dynamic development of our multifaceted cooperation in accordance with agreements of the Samarkand Summit. We have embarked on the practical implementation of the adopted decisions on further expanding and reforming of our Organization.
+I take this opportunity to join congratulations to President of Iran H.E. Mr. Ibrahim Raisi on the completion of all procedural issues and accession of the Islamic Republic of Iran to the Shanghai Cooperation Organization.
+Uzbekistan also fully supports the decision on the commitments of the Republic of Belarus to obtain the status of the SCO member-state.
+Dear participants of the meeting!
+We are all experiencing dramatic changes in the system of international relations.
+Unfortunately, we are witnessing increasing geopolitical tensions and escalation of conflicts, the emergence of new risks and threats to global security and sustainable development, increasing challenges to environment, food and energy security. There is an obvious urgent need to establish a constructive and trusted dialogue.
+Uzbekistan takes a principled position on the central role of the United Nations in the settlement of disputes and conflicts, in the search and adoption of compromise solutions in order to ensure peace and stability.
+It is worth noting that in order to strengthen dialogue and trust we launched last year the Samarkand Solidarity Initiative for Common Security and Prosperity.
+Together with the United Nations and other high-profile international partners, we plan to launch a permanent platform of this Initiative to discuss the most acute problems of the global agenda, assess its impact on our vast region and elaborate joint proposals.
+Dear colleagues!
+In developing and strengthening multilateral and multifaceted cooperation within the SCO, today we understand that the success of the Organization is ensured by strict adherence to its core principles. This includes the non-aligned status, firm commitment to openness, equality, and consensus-based decision-making.
+Most importantly, our cooperation is based on a mutual respect and a constructive perception of the different interests, positions, views and cultural differences of the member-states.
+At this stage of the development of the SCO we consider it crucial to maintain and strengthen the leading role of the Organization as an effective international structure in addressing the most pressing issues on the regional agenda.
+In this regard, we consider it expedient to carry out the inventory of adopted agreements and decisions, audit of the activities of institutions and cooperation mechanisms, acceleration of the implementation of agreements on the modernization of our Organization.
+We also propose to implement a joint research project on the SCO development prospects as part of the Expert Forum, which would bring together national think tanks.
+We could consider the outcomes of such work during our next summit.
+Distinguished participants of the meeting!
+Taking into account the agenda of our meeting, I would like to present our specific proposals on the further development of cooperation within the SCO.
+First.
+We consider the consolidation of unity and mutual understanding within the Organization in line with the "Shanghai Spirit" to be a key task.
+We put forward an initiative to develop the SCO Code of Good Neighborliness, Trust and Cross-Border Partnership. The adoption of the Code will enable us to identify priority tasks, elaborate common approaches and comprehensive measures for further strengthening multilateral cooperation in the new circumstances.
+Second.
+The SCO region is a space of vast economic opportunities, a platform and a resource base for the long-term sustainable development of all the countries of our Organization.
+The SCO accounts for approximately one-third of the global GDP by purchasing power parity, about 27 percent of foreign direct investments, and up to 20 percent of global trade.
+The SCO member-states are leaders in industrial and innovative development and possess enormous intellectual potential, abundant energy, and agricultural resources.
+In this context, the initiative to establish a common space for increasing inter-regional trade and industrial-technological cooperation has never been more relevant.
+I propose to instruct our governments and agencies to work out the issue of adopting the SCO New Economic Dialogue Program, covering such areas as innovative development, digitalization and robotics, artificial intelligence, biotechnology, pharmaceuticals, and other industries of the future.
+In order to promote these projects, we intend to hold an Innovation Partnership Week of the SCO Member-States Regions in Uzbekistan, with the organization of a joint exhibition of high technologies.
+Third.
+It is important to take comprehensive measures to strengthen transport and communication connectivity in the SCO space.
+To date, we are actively promoting a number of strategic projects to develop North-South and East-West corridors. In this context, we note the start of practical work on the China-Kyrgyzstan-Uzbekistan railway project. We are developing multimodal transport along this route, as well as through Afghanistan to the ports of Iran and Pakistan, with access to the markets of South Asia and the Middle East.
+According to experts, the implementation of these projects will make it possible to increase the volume of freight traffic and reduce transport costs by third.
+We consider it expedient to develop a unified map of transport connectivity of the SCO states. This will help to determine the “bottlenecks” and “gaps” and outline priority actions and projects to create a common, integrated transport and transit system.
+We propose to consider these issues in detail at the next extended meeting of our countries' transport ministers, with broad participation in the discussion big transport and logistics companies, operators and expeditors, analysts and industry specialists.
+We are also counting on our partners' support for our initiative to create an Interregional connectivity center in Uzbekistan under the auspices of the United Nations.
+Fourth.
+I would like to highlight the issues of the Green Agenda. Today, all our countries are doing a lot in this direction.
+However, we need closer coordination and practical cooperation within the SCO on adaptation to climate change, decarbonization and implementation of clean technologies, development of smart agriculture and water conservation.
+We support the declaration of the next year as the Year of ecology in our Organization.
+We propose to develop a Joint action plan to support regional environmental projects and the introduction of "green" technologies as part of the Green Belt Program. This work could be organized on the basis of the Central Asian University of Environment and Climate Change, which is being established in Uzbekistan.
+Fifth.
+Given the growing risks of the food security we are planning to hold jointly with FAO UN an International conference on this issue in Uzbekistan this September.
+A special session of this event will be devoted to the cooperation of the SCO states in order to develop common principles and approaches for practical contribution to resolving this issue at the global level.
+We invite the delegations of your countries to take an active part in the work of this Conference.
+Sixth.
+The cooperation in the sphere of tourism is one of the key priorities.
+The shortage of high quality, affordable and regional tourism products is particularly acute.
+We welcome the intensification of contacts among tourism administrations, leading operators and air companies in the Year of Tourism Development in the SCO region.
+We propose to hold on the basis of the International University of Tourism and Cultural Heritage "Silk Road" in Samarkand a joint scientific-practical conference on the development of tourism industry of the SCO as part of the anniversary session of the General Assembly of the World Tourism Organization in October this year.
+Seventh.
+The SCO countries have rich cultural and humanitarian potential.
+We believe that a coordinated policy in this area will bring our countries and peoples even closer.
+In this connection, we propose to put into practice the formation of an annual Calendar of Intensive Cultural Exchange. This will include joint exhibitions of the rich historical heritage of our peoples, concerts, theater tours, forums, film festivals and presentations, including on the basis of digital platforms.
+It is essential to expand scientific and educational programs, to carry out systematic work on the translation and publication of literary treasures of our peoples in the languages of the Organization's countries.
+Moreover, we take the initiative to prepare a program to expand youth exchanges called "The SCO is a space of creative ideas and initiatives of the future".
+Eighth.
+The sustainable development of our countries is closely linked to ensuring comprehensive and indivisible security in the region.
+I am pleased to note my colleagues' support for initiatives to step up the activities of the SCO Regional Anti-Terrorist Structure.
+We are in favor of continuing the practice of holding on-site meetings of the RATS Council, which will increase the capacity of this structure to respond swiftly to contemporary threats.
+We also consider it necessary to speed up the preparation and adoption of major multilateral documents – the Convention on Cooperation against Cybercrime and the Joint Program to Combat Extremist Ideology.
+The practical implementation of these documents should become an adequate response to the challenges of radicalization and neutralize the attempts of destructive forces to spread their ideology, especially among the youth.
+Dear colleagues!
+There is another topical issue on our agenda, which is the ongoing difficult situation in Afghanistan.
+Unfortunately, the problem of this country and the tragedy of the Afghan people have receded into the background of the international agenda. All the steps that have recently been taken at the international level have not led to the expected results. The deteriorating social conditions of the population of Afghanistan bear witness to this. At the same time, the amount of humanitarian aid has decreased significantly.
+We believe that the only way out is through constructive dialogue with the Afghan authorities within the framework of the United Nations.
+This depends in large part on the political will of the SCO states, which are Afghanistan's immediate neighbors and are most interested in a lasting political solution.
+In this regard, we consider it appropriate to resume joint work and consultations in the format of the SCO-Afghanistan Contact Group.
+Distinguished heads of delegations!
+Dear friends!
+In conclusion, I would like to add my congratulations and best wishes to the President of the Republic of Kazakhstan Kassym-Jomart Tokayev on assuming the presidency of the Shanghai Cooperation Organization.
+We are ready to work closely together to implement the major program you have announced.
+I am also sincerely grateful to you for your kind words and best wishes for success in the upcoming presidential elections in Uzbekistan.
+I am convinced that the results of our meeting, the initiatives put forward today, the important decisions adopted will serve to further develop multifaceted partnership in the SCO region, deepen mutual understanding and consolidate friendship between our peoples.
+Thank you for attention.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

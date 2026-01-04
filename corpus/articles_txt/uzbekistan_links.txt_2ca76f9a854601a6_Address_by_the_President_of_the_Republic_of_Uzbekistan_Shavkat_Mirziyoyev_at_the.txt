@@ -1,0 +1,125 @@
+seed_url: https://president.uz/en/lists/view/6354
+final_url: https://president.uz/en/lists/view/6354
+title: Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Central Asia-China Summit
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Central Asia-China Summit
+19.05.2023
+Dear Heads of Delegations!
+Once again, I'm sincerely glad to see you.
+I would like to join my colleagues in expressing the words of gratitude to President Xi Jinping for the initiative to hold the first face-to-face meeting in the Central Asia-China format and for the traditionally warm and cordial welcome.
+I would also like to thank the President of China for organizing this meeting in beautiful city of Xi'an, one of the ancient cities in the world and the capital of great Chinese empires.
+Being a major scientific, cultural and economic center, for many centuries it served as the starting point of the Great Silk Road – a caravan route that has become a key factor in civilizational development, connectivity and progress throughout the Eurasian continent.
+And I am glad that in the 10th anniversary of the Belt and Road Initiative, it is here, in Chang'an, renowned city in the East, we are reviving these good traditions and laying a solid foundation for the common prosperity of our countries in a new era.
+Dear participants of the meeting!
+Today, in a complex international environment, our Summit has a particular importance.
+Having overcome the difficulties of the pandemic, our countries have faced the negative consequences of a global crisis of confidence.
+The serious gaps in sustainable transport and logistics chains, which is especially sensitive for Central Asia, food and energy security challenges, the risks of social tension against the backdrop of growing import of inflation and other pressing problems require us to have closer coordination and practical interaction.
+The insightful speeches of my colleagues and their resolute commitment to cooperation reflect cardinal changes in the region.
+Today, Central Asia is different - it is united and strong, open to dialogue and full-scale partnership.
+Last year, we together celebrated the 30th anniversary of the establishment of diplomatic relations between the countries of the region and China. We have achieved a “mature” cooperation based on trust, respect and consideration of each other's interests.
+The volume of mutual trade and investment has increased hundreds of times, we have many successful examples of business cooperation and humanitarian exchange.
+I will say more: our countries are time-tested, real friends of China "beyond the Yangguan Pass."
+Dear summit participants!
+We support the agenda of the meeting and the main provisions of the Xi'an Declaration.
+I believe that the initiatives and proposals voiced today will certainly be practically implemented.
+In this regard, I share the opinion on the importance of establishing the effective interaction mechanisms in the main areas of regional cooperation. We are talking primarily about trade, investment, transport, and humanitarian ties.
+Along with this, I believe it is vital to develop a long-term agenda, long-range plans and tasks for multifaceted cooperation for decades ahead.
+In my opinion, special attention should be paid to the development of joint work of the leading "think tanks" of our countries.
+The analytical institutions, scientists and specialists need to develop strategic approaches, comprehensive recommendations and solutions, "breakthrough" projects of a regional and global scale.
+We are ready to provide a discussion platform and hold the First International Expert Conference in Samarkand next year on adjoining our national strategies of development.
+Dear colleagues!
+I would like to share our vision of the most pressing issues of regional cooperation.
+First of all, this is the creation of conditions for the sustainable development of our countries and the region as a whole.
+Here we pay major attention to improving the living standards of the population and the efficiency of poverty reduction.
+Active use of the advanced Chinese practice in our relevant national program helped to remove last year alone more than one million of our citizens from the category of people in need.
+Yesterday, the distinguished President of the People's Republic of China and I agreed to continue working together to achieve the main goal of the Global Development Initiative.
+I am confident that the adoption and implementation of a joint program with specific tasks to improve living standards and local growth, especially in rural areas, will be supported by our peoples and it will become a common contribution to the achievement of the Global Goals and 2030 Agenda for Sustainable Development.
+We stand for the establishment of a new economic dialogue and strengthening the interconnectedness of our countries.
+We consider it quite achievable to double the trade turnover of the countries of the region with China by 2030, primarily through:
+- balanced growth of mutual supply of industrial goods and agricultural products;
+- formation of an efficient trade and logistics infrastructure, modern wholesale and distribution networks;
+- introduction of the system of "green" and express corridors, creation of common e-commerce platforms.
+We note the importance of holding annual export and import exhibitions, business and investment forums in our countries, and the creation of the Business Council of Central Asia and China.
+In order to create favorable conditions and the necessary legal framework, we propose to consider the possibility of adopting a multilateral Agreement on Promotion of Mutual Trade and Investments.
+The issues of deepening industrial cooperation, attracting digital technologies and introducing innovations, especially in agriculture, can be effectively resolved through direct interregional contacts with the provinces of China.
+I propose to hold this year in Uzbekistan a Forum and an exhibition of cities and regions of our countries this year in order to develop practical cooperation, strengthening sister city and partnership relations.
+The development of safe and shortest transport corridors connecting China with our region, with the access to Europe, Middle East and South Asia is of strategic importance.
+The priority project for the revival of the "Great Silk Road" is the Trans-Eurasian Highway, the key components of which will be the China-Kyrgyzstan-Uzbekistan automobile and railroad.
+We have already been moving to the stage of practical work together with our Chinese and Kyrgyz partners.
+In the future, the implementation of this project and the construction of the Trans-Afghan Corridor will allow to connect China with the countries of South Asia by alternative ways within the Belt and Road Initiative.
+We also consider it a top priority to ensure the integration of national programs for the development of transport communications and, on this basis, to develop a single long-term Strategy.
+I propose to pay special attention to cooperation on the climate agenda and green energy.
+Unfortunately, the pace of energy infrastructure development in Central Asia doesn’t match the pace of industrialization and urbanization, as well as demographic growth.
+Today, this is indeed a very serious challenge to the long-term sustainable development of our countries.
+Taking into account the technological leadership of China in the field of solar, wind and hydropower, as well as the existing financial instruments to support projects, we consider it necessary to expand scientific and practical partnership in alternative energy.
+We are also ready for productive cooperation in solving the environmental problems of the Aral Sea region, protecting biodiversity, preserving glaciers and soil, and introducing water-saving technologies.
+Dear participants of the meeting!
+We highly appreciate the current level of regional dialogue on stability and security. We adhere a principled position on the issues of independence, sovereignty and territorial integrity of our countries.
+Uzbekistan supports China's global initiative based on the principles of indivisibility of security and peaceful development in accordance with the UN Charter.
+We propose to develop close cooperation between the intelligence and law enforcement agencies of the Central Asian states and China in the fight against the forces of three evils, drug trafficking, cross-border and cybercrime.
+We consider it essential to fully use the dialogue platforms of the Contact Group within the framework of the Shanghai Cooperation Organization and Afghanistan’s neighbor-states to develop a coordinated position and prevent a humanitarian catastrophe in that country.
+As you noted yesterday, Mr. Xi Jinping, "it is important to jointly promote issues related to assisting to build an inclusive political system in Afghanistan, to establish full-scale counter-terrorism cooperation between our countries.”
+We also count on the support of our initiative to establish a high-level international group under the auspices of the United Nations to develop an algorithm for fulfilling the mutual obligations of the world community and the current Afghan authorities.
+For regular comparing notes we propose to launch a mechanism for meetings of secretaries of security in our format.
+Dear friends!
+Our countries and peoples have a huge civilizational potential and great opportunities for mutual enrichment of national cultures.
+Another evidence of that was the bright concert held yesterday as part of the opening of the Year of Culture and Arts and the Youth Festival of Central Asia and China.
+I consider it important to continue a good tradition of the regular holding of humanitarian exchanges, various exhibitions, concerts and tours, joint sports events with the wide involvement of young people.
+We propose next year to hold together the Forum of Young Talents of our countries.
+I express my gratitude to the Chinese side for the major initiatives and joint programs in the field of traditional medicine, eye disease treatment and education.
+Dear colleagues,
+Heads of Delegations!
+Our countries are strategic partners and reliable friends.
+Our long-term cooperation, based on the principles of trust, respect and consideration of each other's interests, has never depended on the political situation.
+Today, in the face of increasing confrontation and unpredictability in international relations, we provide mutual support and build together a prosperous future for our peoples.
+A clear confirmation of such special relations is the effective assistance of our countries to each other during the pandemic.
+In this regard, I would like to support the strategic initiative of the Chinese side to hold our meetings regularly in order to strengthen friendship and partnership between the states of Central Asia and China.
+Mr. President Xi Jinping, You are the wise leader of great China and a sincere supporter of security, stability and prosperity in our region and in the world as a whole. Our meetings are clear evidence of this.
+I am confident that the fruitful outcomes of today's Summit will serve to strengthen good-neighborly relations and comprehensive cooperation, and to the prosperity of our countries and peoples.
+Thank you for your attention.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

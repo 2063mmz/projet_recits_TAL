@@ -1,0 +1,51 @@
+seed_url: https://statehouse.gov.ng/president-bola-tinubu-meets-chinese-president-xi-jinping-nigeria-and-china-elevate-ties-to-comprehensive-strategic-partnership/
+final_url: https://statehouse.gov.ng/president-bola-tinubu-meets-chinese-president-xi-jinping-nigeria-and-china-elevate-ties-to-comprehensive-strategic-partnership/
+title: President Tinubu Meets Chinese President Xi Jinping; Nigeria and China Elevate Ties to Comprehensive Strategic Partnership
+date: September 3, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President Bola Tinubu and Chinese President Xi Jinping, on Tuesday in Beijing, China, announced the elevation of Nigeria-China ties to that of a comprehensive strategic partnership.
+The leaders also agreed to build a high-level Nigeria-China community with a shared future.
+This was the outcome of talks between the two leaders during President Tinubu’s official visit to China.
+President Tinubu’s official visit precedes his participation in the 2024 Summit of the Forum on China-Africa Cooperation, scheduled to hold from September 4-6, 2024.
+”This is an important visit for Nigeria and the rest of Africa, as I arrive in my capacity as the Chairman of ECOWAS. I thank you for the high-level of honour accorded to us.
+”Relations between China and Nigeria have indeed lasted for over half a century and should be further strengthened to advance our trade and economic development programmes.
+”Nigeria holds great potential as the country with the largest population in Africa and is the biggest economy with a very young population that can drive economic growth and cross-sectoral programmes.
+”We have upgraded the relationship to more than what is just strategic — but a comprehensive developmental partnership.
+”This comprehensive strategic partnership should result in robust development, stability, and security in the West African sub-region. This is very crucial,” President Tinubu said.
+On economic reforms in Nigeria, President Tinubu told his Chinese counterpart that his administration remains committed to sustainable growth through the effective implementation of ongoing economic reforms.
+”We believe that President Xi has demonstrably reformed the Chinese economy, and our reform programme in Nigeria is on a similar course. I am a reformer with verifiable antecedents.
+”We have recognized the need to reform our economy, and we are doing so diligently across tax and tariff reviews, to various other segments of our nation’s economy.
+”Trading and investment partners will have easy access to bring in their investments and seamlessly take their resources out,” the President stated.
+In his remarks, President Xi noted the strong mutual understanding between Nigeria and China since the establishment of diplomatic ties over the past 50 years.
+”We have found the path of seeking collective strength, through unity, and win-win cooperation.
+”China and Nigeria, as major developing countries, strengthening strategic coordination, will inject fresh impetus to China-Africa relations in the new era and spearhead common progress among Global South countries,” President Xi said.
+According to the Chinese leader, the 2024 FOCAC Summit provides an opportunity to reflect on mutual friendships and advance the consolidation of China-Africa relations.
+He pledged that China and Nigeria would continue to work closely within the FOCAC framework as a model of cooperation between nations.
+During the meeting, both presidents witnessed the signing of several Memoranda of Understanding (MOUs) on various areas of mutual interest:
+(1) Cooperation plan between Nigeria and China on jointly promoting the Belt and Road Initiative
+(2) Memorandum of Understanding on cooperation in the peaceful application of Nuclear Energy
+(3) Memorandum of Understanding on strengthening cooperation on Human Resource Development under the Global Development Initiative
+(4) Memorandum of Understanding on Media Exchange and Cooperation
+(5) Memorandum of Understanding between China Media Group and the Nigerian Television Authority
+Earlier, on Monday in Beijing, President Tinubu visited the China Railway Construction Corporation (CRCC), during which he acknowledged the company’s role as a reliable partner in Nigeria’s infrastructure development programme, commending its ongoing railway projects in the country.
+”It is equally very important that we give assurances to the Nigerian people across our local communities that the Ibadan-Abuja-Kaduna-Kano railway segments will be completed and done to the satisfaction of Nigeria and West Africa at large.
+”We will support your investment in solid minerals and other ventures in Nigeria. I am here to assure you that Nigeria is ready to do business with you,” the President said during a meeting with the Chairman of CRCC, Mr. Dai Hegen, following a tour of the CRCC and China Civil Engineering Construction Corporation (CCECC) office in Beijing.
+Mr. Hegen informed the President that CRCC has been involved in Nigeria for 43 years, implementing over 300 projects and training over 100,000 local workers.
+”The Abuja-Kaduna Railway and Lagos-Ibadan Railway have transported approximately 9 million passengers and 180 tonnes of cargo. The Lagos blue line has transported over 1.6 million passengers,” he said.
+In a separate engagement, President Tinubu visited Huawei Technologies’ Beijing Research Centre, where the company announced the launch of DigiTruck, a mobile ICT classroom aimed at enhancing digital literacy in underserved Nigerian communities.
+During the President’s meeting with Huawei’s leadership, led by Mr. Liang Hua, Chairman of the Board of Directors, the company said the initiative would operate in 10 states annually, training at least 3,000 students each year.
+Acknowledging the ongoing efforts by Nigeria’s Ministry of Communications, Innovation and Digital Economy to train 3 million technical talents (3MTT) and equip the country’s young population with the skills necessary for present and future economic opportunities, Huawei’s leadership said the DigiTruck initiative will complement the programme.
+Mr. Hua praised the President’s Renewed Hope Agenda for identifying digital technology as a critical driver of economic growth.
+“This is very encouraging for us. Huawei is fully prepared to offer its ICT expertise and become a reliable partner of the Nigerian government to support the country in achieving its policy objectives and furthering its digital, intelligent, and low-carbon development.”
+Also speaking, Mr. Chris Lu, Chief Executive Officer of Huawei Nigeria, expressed support for Nigeria’s National Talent Export Programme (NATEP), an initiative that seeks to position Nigeria as a hub for talent outsourcing in Africa.
+“In the future, we hope to continuously develop the NOC and expand its capacity so that it can meet the requirements of more African markets, thus facilitating more Nigerian technology talents in serving more overseas’ markets and helping to achieve the goal of NATEP,” Mr. Lu said
+During the tour of the Huawei Research Centre’s exhibition hall, President Tinubu and his delegation were introduced to Huawei’s latest innovations in e-government, smart education, smart grid, and solar power, demonstrating their potential to enhance public services, digital governance, and Nigeria’s inclusive development agenda.
+As part of the efforts to achieve the aforementioned goals, Huawei also plans to establish a joint PV test lab with Nigeria’s Rural Electrification Agency (REA).
+Chief Ajuri Ngelale
+Special Adviser to the President
+(Media & Publicity)
+September 3, 2024

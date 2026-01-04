@@ -1,0 +1,19 @@
+seed_url: https://president.mn/en/2024/09/07/meeting-with-han-zheng-vice-president-of-the-peoples-republic-of-china/
+final_url: https://president.mn/en/2024/09/07/meeting-with-han-zheng-vice-president-of-the-peoples-republic-of-china/
+title: MEETING WITH HAN ZHENG, VICE PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+date: 2024-09-07T08:21:21+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2024/09/07 4:21:21
+MEETING WITH HAN ZHENG, VICE PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+Vice President of the People’s Republic of China Han Zheng, who visited Mongolia at the invitation of the Government of Mongolia paid a courtesy call on President of Mongolia Ukhnaa Khurelsukh on September 7, 2024, at the State Palace.
+President of Mongolia Ukhnaa Khurelsukh expressed pleasure at the active development of relations and cooperation between Mongolia and China.
+President Khurelsukh highlighted that at the meeting with President of PRC Xi Jinping during the Third Belt and Road Forum for International Cooperation,  held last year in Beijing, the Presidents reached mutual understandings on numerous issues and President Khurelsukh asked to convey his greetings to President Xi Jinping.
+President Ukhnaa Khurelsukh noted that the visit of Vice President of the PRC Han Zheng  to Mongolia at a time when the two countries are marking the historic anniversaries, was the expression of aspirations of the two eternal neighbouring countries to deepen the  Comprehensive Strategic Partnership between our two countries.
+The President underscored that relevant organizations of Mongolia and China should actively work on realizing cooperation decisions agreed upon between the Heads of State of the two countries, particularly boosting the bilateral trade to USD 20 billion, improving the infrastructure connection between the two countries, intensifying the implementation of projects and programs that will be implemented with soft loans and irrevocable aids, activating cooperation in renewable energy, and strengthening cooperation in sectors, including culture, education, and tourism.
+Vice President of the PRC Han Zheng expressed his gratitude to President of Mongolia Ukhnaa Khurelsukh for receiving him and conveyed the greetings from President Xi Jinping.
+The Vice President highlighted that 2024 marks the 75th anniversary of diplomatic relations between Mongolia and the People’s Republic of China, the friendly neighbours, connected with rivers and mountains, the 30th anniversary of the Treaty on Friendship and Cooperation between Mongolia and China, and the 10th anniversary of establishing the Comprehensive Strategic Partnership.
+Vice President of the PRC Han Zheng expressed China’s readiness to steadily develop China-Mongolia relations, bolstering friendship and mutual trust with Mongolia and deepening mutually beneficial cooperation, based on crucial shared understandings agreed by the Heads of State of the two countries.

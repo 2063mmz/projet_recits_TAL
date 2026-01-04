@@ -1,0 +1,29 @@
+seed_url: https://statehouse.gov.ng/president-buharis-remarks-at-the-opening-ceremony-of-the-high-level-dialogue-between-chinese-and-african-leaders-and-business-representatives/
+final_url: https://statehouse.gov.ng/president-buharis-remarks-at-the-opening-ceremony-of-the-high-level-dialogue-between-chinese-and-african-leaders-and-business-representatives/
+title: President Buhari’s Remarks at the Opening Ceremony of the High-Level Dialogue between Chinese and African Leaders and Business Representatives
+date: September 3, 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Protocols:
+On behalf of the Government and people of the Federal Republic of Nigeria and the Authority of Heads of State and Government of the Economic Community of West African States (ECOWAS), I wish to express our appreciation to the Government and people of the People’s Republic of China for the warm hospitality extended to our delegations since our arrival in China.
+The participation of so many Heads of State and Government of ECOWAS at this High-Level Dialogue between Chinese and African Leaders and Business Representatives is a demonstration of the excellent relations between China and ECOWAS.
+We are happy to welcome to the FOCAC family, two Member States of ECOWAS; the Republics of The Gambia and Burkina Faso as well as São Tomé and Principe.
+It is therefore worthy of note that for the first time, all ECOWAS Member States are participating in a FOCAC Summit.
+Excellencies, Ladies and Gentlemen.
+The ECOWAS region accounts for some 30% of Africa’s population and GDP.
+ECOWAS Member States are presently embarking on policies and strategies to stabilise and strengthen internal growth. Our Member States are making efforts at diversifying their economies and developing specific policies targeting the most vulnerable groups, in order to ensure more inclusive growth. In this regard, Member States will continue to encourage Chinese State-owned companies and entrepreneurs to invest in our sub-region.
+I take this opportunity to convey the appreciation of ECOWAS Member States for China’s increasing investment in our sub-region with the aim of building a prosperous and shared future. China is today, the largest investor in the sub-region in both private and public sectors covering areas such as infrastructure, energy, agriculture, mining, healthcare. China also provides significant assistance in emergency humanitarian aid and response to climate change.
+Various construction projects are now ongoing in the sub-region, including the construction of railway projects, power infrastructure, airports and numerous roads through Chinese financing.
+While it is pertinent to mention that Member States of ECOWAS are at different stages of development, President Xi Jinping’s recent visit to our sub-region has highlighted the need for even closer collaboration to enable more Chinese investment to support the cause of regional integration and development.
+We should also realise that while China’s help is vital, the main push to transform our economies must come from our own efforts and commitment.
+ECOWAS also welcomes more Chinese tourists to visit West Africa. This will enhance people-to-people exchanges, especially now that Member States are getting involved in the Belt and Road Initiative. Our sub-region is endowed with enormous tourism potentials. With China’s support, tourism related infrastructure should be developed to empower our citizens, create more employment opportunities among the teeming population and eliminate poverty.
+We would also request visa facilitation for our businessmen and women, and students who seek to visit China.
+ECOWAS Member States will continue to pay emphasis on encouraging more foreign direct investment in the sub-region. To this end, Member States are looking at the opportunities that the China International Import-Export initiative will offer our exporters to gain market access for their goods and services in China. Such an opportunity will help in diversifying the economy of our sub-region from over reliance on primary agricultural and mineral products and subsequently correct the huge trade imbalance between China and the ECOWAS sub-region on a win-win basis for both parties.
+Excellencies, while expressing our appreciation for the strong engagement of China with the ECOWAS sub-region, I also wish to thank President Xi Jinping for the pledge to build a befitting Secretariat for the Commission.
+Distinguished Ladies and Gentlemen.
+Let me reiterate the commitment of ECOWAS Member States to deepening and strengthening institutions in the sub-region, through good governance, the fight against corruption, combating terrorism, violent extremism and organised crime. These are necessary actions if the right conditions for sustainable economic growth in West Africa are to be achieved.
+Finally, on behalf of the Authority of Heads of State and Government of the ECOWAS, I wish the High-Level Dialogue and Conference successful deliberations and a fruitful outcome.
+I thank you all for your attention.

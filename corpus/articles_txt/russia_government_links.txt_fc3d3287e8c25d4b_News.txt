@@ -1,0 +1,30 @@
+seed_url: http://government.ru/en/news/48559/
+final_url: http://government.ru/en/news/48558/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin lays a wreath at the Monument to the People’s Heroes in Beijing
+24 May 2023
+09:15
+Beijing, People’s Republic of China
+Михаил Мишустин возложил венок к Памятнику народным героям в Пекине
+24 May 2023
+Михаил Мишустин возложил венок к Памятнику народным героям в Пекине
+24 May 2023
+Памятник народным героям в Пекине
+24 May 2023
+Mikhail Mishustin and Premier of the State Council of People’s Republic of China Li Qiang
+24 May 2023
+Михаил Мишустин возложил венок к Памятнику народным героям в Пекине
+Предыдущая новость
+Следующая новость
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/48558/
+Highlight selection

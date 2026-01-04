@@ -1,0 +1,192 @@
+seed_url: http://government.ru/en/news/42102/
+final_url: http://government.ru/en/news/42102/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Extended meeting of the Eurasian Intergovernmental Council
+30 April 2021
+11:00
+The participants discussed topical matters related to the activities of the Eurasian Economic Union.
+Mikhail Mishustin’s remarks at the meeting
+Documents signed following the meeting of the Eurasian Intergovernmental Council
+List of heads of delegations attending the meeting of the Eurasian
+Intergovernmental Council
+Acting Prime Minister of the Republic of Armenia
+Nikol Pashinyan;
+Prime Minister of the Republic of Belarus
+Roman Golovchenko;
+Prime Minister of the Republic of Kazakhstan,
+Chairman of the Eurasian Intergovernmental Council Askar Mamin;
+Prime Minister of the Kyrgyz Republic
+Ulukbek Maripov;
+Prime Minister of the Russian Federation Mikhail
+Mishustin;
+Chairman of the Board of the Eurasian Economic
+Commission Mikhail Myasnikovich
+The Eurasian Economic Union’s observer
+states
+Prime Minister of the Republic of Uzbekistan
+Abdulla Aripov;
+Prime Minister of the Republic of Cuba Manuel
+Marrero Cruz (
+speaking
+via videoconference
+Ambassador Extraordinary and Plenipotentiary of the Republic of Cuba
+to the Russian Federation
+Julio Garmendia Peña;
+Acting Prime Minister of the Republic of Moldova Aurel
+Ciocoi (
+speaking
+via videoconference
+Ambassador Extraordinary and Plenipotentiary of the Republic of Moldova
+to the Russian Federation
+Vladimir Golovatyuk
+Invited guests:
+Prime Minister of the Republic of Tajikistan
+Kohir Rasulzoda
+Deputy Prime Minister of Turkmenistan,
+Chairman of the Supreme Control Chamber of Turkmenistan Serdar
+Berdimuhamedov
+Extended meeting of the Eurasian Intergovernmental Council
+Mikhail Mishustin’s remarks:
+Good afternoon, colleagues,
+Dear friends, I am delighted to welcome you to the Russian Federation and Kazan. This wonderful city always receives
+guests in the warmest and most hospitable manner. It may be symbolic, but one
+of its central streets is named in honour of the First President of Kazakhstan
+Nursultan Nazarbayev who, in effect, became the architect of Eurasian
+integration.
+It is important that our association is developing
+successfully and is becoming a regional centre of economic attraction. And we
+are open to mutually beneficial and equitable cooperation. Observer states,
+namely, Cuba, Moldova and Uzbekistan, are attending our meeting. Uzbek partners
+and the Eurasian Economic Commission have managed to launch systemic dialogue
+over a short time period. Today, we will attend the signing ceremony for the
+memorandum of cooperation between Uzbekistan and the Eurasian Economic
+Commission. An action plan for implementing it in the next three years will
+also be signed.
+I would like to separately welcome Prime Minister of
+Tajikistan and Deputy Prime Minister of Turkmenistan, the esteemed Mr Kohir
+Rasulzoda and Mr Serdar Berdimuhamedov. I would like to thank them for coming
+and attending our meeting today as guests. I am convinced that they will find
+our meeting interesting and informative.
+Other countries are also becoming interested in the
+Union. We have received over 50 proposals on signing preferential trade
+agreements. This opens up additional opportunities for speeding up economic
+growth, in the first place.
+The COVID-19 response effort remains one of our
+priorities, all the more so as some states, primarily European states, are
+facing an expanding third wave of the pandemic. We need joint systemic measures
+that will make it possible to contain the infection. As we have repeatedly
+noted, the user-friendly and reliable mobile app called Travelling without COVID-19
+has already been launched. Negative COVID-19 test results are uploaded from
+certified laboratories. Our citizens can therefore show these test results when
+entering any specific country. So far, Armenia, Belarus, Kyrgyzstan and Russia
+are actively involved in the project. We hope that Kazakhstan will join us
+soon. It is important to expand the app by including vaccination data. I
+believe that its wide-scale use will make it possible to more quickly resume the
+safe passenger traffic that our citizens need.
+We are working in difficult times and facing the
+pandemic, regional crises and trade wars. These problems are aggravated by
+Western interference in the domestic affairs of other states, as well as by
+powerful political and economic pressure. Even in these conditions, we are
+making effective decisions in order to strengthen the common market and lift
+restrictions on the movement of the workforce, goods, services and capital.
+Our joint projects aim to facilitate economic growth
+and raise the well-being of our citizens, as noted by President of the Russian
+Federation Vladimir Putin in his Federal Assembly Address last week.
+We will have to work hard. First of all, we have to
+implement strategic long-term Eurasian integration guidelines up to 2025. We
+have already approved an action plan aiming to draft over ten international
+treaties and 60 regulatory documents for the Union. It is also necessary to
+modify the current Treaty on the Eurasian Economic Union.
+We are also completing preparations for some events.
+There are plans to sign an agreement on the procedure for exchanging credit histories
+within the Union before the year is out. Our citizens and legal entities will
+be able to take out loans in all five member states. Consequently, banks will
+be able to check borrowers’ data.
+We will continue to create a common digital platform
+and to implement joint healthcare initiatives and those in other fields. We
+will do our best to overcome the consequences of the pandemic and to attain
+sustainable economic growth in our countries and the entire Union.
+Some aspects require special attention. First of all,
+this includes efforts to remove obstacles in the Union’s domestic market. Not
+all barriers and restrictions have been lifted yet. But we have launched system-wide
+work, and we continue to actively search for optimal solutions. We will also expand
+cooperation to increase the safety of goods being supplied within the Eurasian
+Economic Union. We will jointly work to prevent the spread of new dangerous
+plant viruses in the Union. This issue is also included in the meeting agenda.
+It is important to expand co-production arrangements
+that will expedite import substitution programmes needed by all our countries
+and the entire Union. And, of course, they will strengthen the economic
+security of our countries.
+There are substantial opportunities for expanding
+cooperation in the field of space exploration. Quite recently, on 12 April, the
+world marked the 60
+anniversary of the first manned space mission of
+Yuri Gagarin. His spacecraft lifted off from Baikonur and landed on the banks
+of Russia’s great Volga River. We believe that our interstate programme has
+serious prospects in this field. In the next five years, we will develop a
+joint space system. This calls for merging our countries’ satellite clusters,
+setting up a joint database that would contain the joint space system’s orbital
+photos and upgrading ground-based data acquisition and processing facilities. This
+grouping will operate as a common space system. This will make it possible to
+observe a larger territory and to quickly obtain all the required data.
+I would like to single out another topic. The
+coronavirus pandemic has seriously affected global markets. National
+governments should coordinate intra-Union export regulation measures to curb
+consumer prices. Of course, this mostly concerns agricultural produce and raw
+materials. This is a sensitive issue for the citizens of our countries.
+Colleagues, the Eurasian Economic Union is a powerful
+organisation which is always open to cooperation. Our Union should become the
+main link in building the Greater Eurasian Partnership. Regardless of the
+global situation, we have to expand contacts with our nearest partners,
+primarily the Commonwealth of Independent States, the Shanghai Cooperation
+Organisation and BRICS. We are interested in conducting constructive dialogue
+with the European Union on equitable terms and principles of mutual respect.
+And, of course, it is important to continue jointly implementing major and
+economically sound projects with other states, including those aiming to merge
+with the China’s Belt and Road Initiative. Thank
+you.
+Documents
+signed following the meeting of the Eurasian Intergovernmental Council
+Instruction
+regarding the issue Implementing Instruction No. 6 of the Eurasian Intergovernmental
+Council dated 31 January 2020
+Instruction regarding the issue Standardising
+the Rates of Export Customs Duties
+Instruction regarding the issue Standardising
+the Rates of Export Customs Duties
+Instruction
+regarding the issue Measures to Protect the Agricultural Produce Market of the
+Eurasian Economic Union from Dangerous Plant Viruses
+Decision
+regarding the issue Amending Decision No. 2 of the Eurasian Intergovernmental
+Council dated 10 April 2020
+Directive
+Providing Equal Opportunities for Participating in the Programme of Purchasing
+Farming Machinery and Equipment in the Republic of Kazakhstan for Producers of
+the Eurasian Economic Union and Third Countries
+Instruction
+regarding the issue Results of Consultations on Measures of Economic Pressure Exerted
+by Third Parties on Member States of the Eurasian Economic Union
+Decision
+regarding the issue Industrial Cooperation Guidelines within the Eurasian
+Economic Union up to 2025
+Directive Submitting the Candidacy of a Member of the Council of the
+Eurasian Economic Commission to the Supreme Eurasian Economic Council
+Directive Submitting the
+Candidacy of a Member of the Board of the Eurasian Economic Commission to the
+Supreme Eurasian Economic Council
+Directive Submitting the
+Candidacy of a Member of the Board of the Eurasian Economic Commission to the
+Supreme Eurasian Economic Council
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/42102/
+Highlight selection

@@ -1,0 +1,62 @@
+seed_url: http://government.ru/en/news/48559/
+final_url: http://government.ru/en/news/48553/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s meeting with representatives of the Russian business community
+23 May 2023
+12:30
+The meeting was timed to coincide with the Russian-Chinese Business Forum and took place during the official visit of the Prime Minister of Russia to the People's Republic of China.
+Mikhail Mishustin’s meeting with representatives of the Russian business community
+23 May 2023
+Mikhail Mishustin’s meeting with representatives of the Russian business community
+23 May 2023
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin’s meeting with representatives of the Russian business community
+Mikhail Mishustin’s opening remarks:
+Dear colleagues,
+Once again, I welcome you all to the Russian-Chinese forum. A large
+delegation has arrived from Russia, with over 1,200 people taking part in the event.
+These are representatives of a large number of companies, both public and private. And this is good news. Our relations with China are growing stronger,
+they are old and fraternal, and are built on historical roots, mutual respect
+and friendship. I would also like to take this opportunity to thank our Chinese
+friends for the traditional Chinese hospitality, including, first of all,
+President Xi Jinping and Premier Li Qiang, as well as Minister of Commerce Wang
+Wentao and He Lifeng, Vice Premier of the State Council, who organised this
+forum.
+Visit
+Mikhail Mishustin’s meeting with BRICS New Development Bank President Dilma Rousseff
+Mikhail Mishustin visits Shanghai Research Institute of Petrochemical Technology at Sinopec Corporation
+Mikhail Mishustin takes part in the Russian-Chinese Business Forum
+Our relations are developing progressively and systematically. Look at our mutual trade, it has grown to $190 billion. I am confident that this year
+we will reach $200 billion, the figure that Russian President Vladimir Putin
+and Chinese President Xi Jinping have set out. And of course, we will attain
+other, even larger, figures and volumes in the near future.
+Our mutual development is the basis for bilateral relations between companies, government agencies, and development
+institutions. And I cannot but mention the interaction in a number of industries. This includes research work. Today we visited Sinopec, which produces
+deep processing products and petrochemicals, and interacts with a number of our
+companies. In particular, cooperation is developing with the Amur Gas Chemical Plant
+producing polymers. There are several other examples. We also cooperate on energy,
+transport, transport engineering, aircraft manufacturing, agriculture, and sports. Today we talked, for example, about a new event that we are going to hold in Kazan next year – Games of the Future, eSports.
+I cannot fail to mention our ties in the field
+of culture and history. Chinese people love Russia, they sing our songs, and we
+learn a lot from Chinese history and culture. This cannot but catalyse our good
+relations and cooperation in this area. Holding joint exhibitions,
+participating in the Years of Culture, exchanging students – and we are going
+to visit a university in Beijing tomorrow and talk with the students – all
+these are elements of fraternal interaction between the two countries, of a comprehensive strategic partnership, as our presidents called it.
+I am sure that here you will find a large
+number of partners and opportunities to hold fruitful discussions and thereby
+strengthen our mutual relations with China and enhance our economic, financial
+and industrial sovereignty.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/48553/
+Highlight selection

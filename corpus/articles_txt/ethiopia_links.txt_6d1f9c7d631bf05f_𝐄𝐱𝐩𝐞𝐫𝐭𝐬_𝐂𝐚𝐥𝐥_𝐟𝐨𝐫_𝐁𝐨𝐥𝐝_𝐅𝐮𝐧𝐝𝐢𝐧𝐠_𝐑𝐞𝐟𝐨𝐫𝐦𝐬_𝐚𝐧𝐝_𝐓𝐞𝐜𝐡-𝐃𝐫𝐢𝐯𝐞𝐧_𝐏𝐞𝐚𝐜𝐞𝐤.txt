@@ -1,0 +1,15 @@
+seed_url: https://www.ifa.gov.et/2025/12/01/%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%81%F0%9D%90%A8/
+final_url: https://www.ifa.gov.et/2025/12/01/%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%81%F0%9D%90%A8/
+title: 𝐄𝐱𝐩𝐞𝐫𝐭𝐬 𝐂𝐚𝐥𝐥 𝐟𝐨𝐫 𝐁𝐨𝐥𝐝 𝐅𝐮𝐧𝐝𝐢𝐧𝐠 𝐑𝐞𝐟𝐨𝐫𝐦𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡-𝐃𝐫𝐢𝐯𝐞𝐧 𝐏𝐞𝐚𝐜𝐞𝐤𝐞𝐞𝐩𝐢𝐧𝐠 𝐚𝐭 𝐇𝐨𝐫𝐧 𝐃𝐢𝐚𝐥𝐨𝐠𝐮𝐞 𝐒𝐞𝐫𝐢𝐞𝐬 𝐈𝐕
+date: Dec 1, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The Horn Dialogue Series IV continued on Monday with a dynamic third panel titled “Innovation, Financing, and Emerging Challenges in Future Peacekeeping,” bringing together leading experts to explore how Africa can secure sustainable financing and harness technology for more effective peace operations.
+The session, moderated by Henok Getachew, featured Prof. Kasaija Phillip Apuuli, Bitania Tadesse, Abdirahman Aynte, and Dr. Dawit Yohannes.
+Panelists tackled pressing questions: How will hybrid funding models such as UNSCR 2719 reshape African peace support operations? What alternative mechanisms can ensure predictable and sustainable financing for African-led missions? And how can innovation—from AI and digital tools to drones and data systems—strengthen the future of peacekeeping while guarding against disinformation and cyber threats?
+Prof. Kasaija Phillip Apuuli emphasized that real transformation begins with strengthening homegrown approaches. “African solutions to African problems must be backed by African initiatives, African financing, and African leadership,” he said. He urged AU member states to contribute to peace operations according to their GDP or level of economic development, ensuring both ownership and accountability.
+Discussions also underscored the need for smarter partnerships, institutional adaptation, and tech-enabled systems to modernize peacekeeping across the Horn of Africa and beyond.
+The panel forms part of the two-day Horn Dialogue Series IV, organized to chart pathways for peacekeeping “with an African reality” beyond 2025.

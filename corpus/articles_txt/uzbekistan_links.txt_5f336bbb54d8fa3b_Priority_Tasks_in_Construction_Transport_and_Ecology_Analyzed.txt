@@ -1,0 +1,91 @@
+seed_url: https://president.uz/en/lists/view/7002
+final_url: https://president.uz/en/lists/view/7002
+title: Priority Tasks in Construction, Transport and Ecology Analyzed
+date: January 1, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Priority Tasks in Construction, Transport and Ecology Analyzed
+29.01.2024
+On January 29, President Shavkat Mirziyoyev chaired a videoconference meeting on priority tasks in housing and communal services, construction, transport and ecology.
+Major efforts are underway to ensure decent conditions and quality of life in these areas. Last year, more than 1,000 infrastructure facilities and some 2,000 housing units were built in the regions. Roads, water and heating networks have been built. New buses and planes have been introduced to improve transport services.
+However, there are still many shortcomings in implementing modern standards and ensuring quality in the construction industry. The cost of drinking water and losses in water supply networks have not been reduced. The frequency of domestic flights is two to three times lower than required. Freight transportation by rail takes a significant amount of time. The problem of traffic congestion in the city of Tashkent is growing. Insufficient measures are being taken to prevent air pollution.
+The critical meeting began with an analysis of the causes and factors contributing to these problems. Disciplinary measures were taken against a number of responsible officials for shortcomings in their work.
+It was decided to introduce Key Performance Indicators (KPIs) in the activities of all ministers and deputy governors responsible for construction, housing and communal services, transport and ecology.
+As part of the investment programme, the construction of 1,637 infrastructure facilities is planned for this year. The Head of State emphasized the need for effective use of budgetary resources and ensuring the quality of construction.
+A resource-based approach underpins existing design and construction practices. Design organizations tend to inflate the cost of projects. There have been cases of embezzlement and theft during construction.
+In this context, it has been decided to reorganize all processes from design to handover of the facility for operation. From January 1 the following year, the resource-based method will be replaced by the volume-based method for the preparation of project cost estimates, construction and acceptance.
+This procedure will be implemented from July 1 this year for road construction projects, drinking water supply facilities and bridges. In order to eliminate corruption in these areas, all subcontractors will be digitized and the work performed by subcontractors will be financed solely on the basis of the electronic invoice submitted to the tax authority. The process of acceptance of facilities will be digitized and acceptance certificates will be approved through the national information system "Shaffof Qurilish". This system will also be used to select subcontractors for projects costing more than 10 billion Uzbek soums.
+This procedure will also be applied to projects involving international financial organizations, and a system will be created to monitor online where and how much money is spent on construction materials.
+It is emphasized that all calculations and cost-saving measures must be incorporated at the project development stage. To this end, a project office will be established at the Ministry of Construction and Housing and Communal Services. The office will assess the justification, safety and energy efficiency of projects costing more than 10 billion Uzbek soums. The office will also develop standard projects for schools, kindergartens, medical facilities, roads, drinking water and heating facilities on an annual basis. From now on, project documents will not be accepted for state appraisal without the recommendation of the Project Office.
+The responsible officials have been instructed to update construction standards based on international experience, to crack down on the black economy in the construction materials sector, and to introduce an electronic classifier for these materials. It has also been decided that from January 1, 2025, all purchases financed by the budget will be made through the "E-Ombor" platform of the Fiscal Committee.
+This year, new projects worth US$2.5 billion will be launched in cooperation with international organizations. It was noted that from now on the feasibility study of such projects will also be subject to mandatory expertise.
+The system for implementing projects through external borrowing will also change. In this case, the project evaluation report and the feasibility study will be combined into a single project document, which will reduce the approval process to 8-9 months. Debt financing will not be allowed for projects whose feasibility study has not been approved.
+Shortcomings in urban planning were highlighted during the meeting. Due to the lack of a systematic approach, not all cities have evenly developed social infrastructure, services and employment opportunities. In some cases, haphazard construction is allowed without considering the architectural look of the streets.
+In this context, the need to strengthen legislation regulating unauthorized and illegal construction and to create a new control system involving the relevant authorities was emphasized.
+The task was set to develop master plans for 170 towns and settlements this year and at least 300 next year. The "Mening Hududim" platform will be launched for this purpose, and each master plan will be discussed with the population, with public supervision of its implementation.
+The Head of State specifically addressed the issue of the high cost of new housing due to the lack of access to finance for construction companies. In this context, the creation of a mortgage support Fund was proposed.
+The goal for this year is to build 1,8 thousand houses with 80 thousand apartments and to increase the number of "New Uzbekistan" residential complexes to 45.
+During the analysis of the municipal sector, it was found that apartment buildings have high energy losses. Therefore, a special energy saving programme will be implemented in residential buildings. A differentiated approach will be taken in the choice of heating systems for apartment blocks - central, local or individual - and some boiler houses will be converted to combined heat and power. This will save 600 thousand gigacalories of thermal energy and 2.5 billion kilowatt-hours of electricity in 2024 alone.
+In recent years, 25 drinking water projects have attracted US$2.5 billion from international financial organizations. Last year alone, a total of 8 trillion Uzbek soums from all sources was allocated for this purpose. This year, an additional 1.5 million people are to be provided with centralized drinking water.
+The responsible officials have been instructed to update and implement uniform quality standards for drinking water in all water supply facilities, modernize pumps and reduce supply costs.
+It was also noted that, as an experiment, private partners will be involved in the water supply of 5 cities - Kagan, Shirin, Yangiyer, Bekabad and Yangiyul.
+The issue of repairing multi-storey buildings and renting out their cellars has also been addressed. Relevant data will now be digitized and made available to residents and entrepreneurs in the "Mening Uyim" system.
+Measures to repay loans and reduce the debts of management companies and associations have also been identified.
+In general, it is stated that it is time to introduce a unified billing system for electricity, gas, water, heating, waste and tax payments.
+In the transport sector, particular attention is being paid to increasing the coverage of public transport. Instructions have been given to procure new buses and to move urban passenger transport to a gross contract financing system.
+The high level of black economy in road construction and the weak performance of the Transport Inspectorate responsible for this issue were underscored. The responsible officials have been instructed to bring more than 40 road construction standards and norms into line with the requirements of the International Federation of Consulting Engineers.
+The importance of increasing rail transport on international routes and boosting the production of freight and passenger cars is emphasized. It was decided to transfer the management of Kokand, Samarkand and Tashkent railway stations and Andijan and Urgench airports to the private sector. The airfields at Shahrisabz, Sariosiyo and Kokand will also be repaired and domestic civil aviation will be organized there.
+Instructions have also been given to find a solution to the problem of traffic congestion and to modernize the drainage system in the city of Tashkent.
+Healthy ecology is one of the most pressing issues of our time.
+Since 2020, 22 thousand new industrial enterprises have been set up in our country. In total, industrial enterprises and transport emit over 2 million tonnes of pollutants into the atmosphere. In many cases, construction projects are carried out without environmental expertise.
+In this regard, it has been decided that from April 1, an air, water and environmental pollution rating will be introduced for each region.
+The task has been set to start installing automatic air monitoring stations in the cities of Tashkent and Nukus, regional centres and 20 industrial zones.
+Modern gas purification and dust collection equipment will be installed in large-scale production and all cement plants, replacing old equipment. Building materials, energy and metallurgy companies will create a 5-hectare "green belt" around themselves, with a total of 10 million trees planted.
+Over the next five years, 3,000 hectares of green belts and 200 hectares of parks will be created in Tashkent city and neighbouring districts of the Tashkent region.
+Boards and monitors will be installed in Tashkent city to display the air quality index on a regular basis. The movement of heavy vehicles and passenger cars older than 10 years will be gradually restricted on the streets of the capital. From January 1, 2025, the issue of phasing out "AI-80" petrol will be resolved.
+Tashkent's public transport system will be electrified and gasified, and the number of metro cars will be increased. In order to support "green energy", prevent environmental problems and mitigate harmful consequences, a system will be implemented to encourage the population to switch to electric vehicles.
+Finally, deputy prime ministers, ministers and khokims reported on their work plans for the current year.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

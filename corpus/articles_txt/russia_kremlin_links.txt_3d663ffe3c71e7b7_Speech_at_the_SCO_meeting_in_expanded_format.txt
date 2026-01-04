@@ -1,0 +1,108 @@
+seed_url: http://en.kremlin.ru/events/president/transcripts/54739
+final_url: http://en.kremlin.ru/events/president/transcripts/54739
+title: Speech at the SCO meeting in expanded format
+date: 2017-06-09
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Speech at the SCO meeting in expanded format
+Vladimir Putin spoke at an expanded format meeting of the Council of Heads of State of the Shanghai
+Cooperation Organisation with the participation of heads of delegations of the SCO observer countries and international organisations.
+June 9, 2017
+11:30
+Astana
+President of Russia Vladimir Putin
+: Colleagues, friends,
+I would like to congratulate you all
+on the 15
+anniversary of the Shanghai Cooperation Organisation Charter
+and the 10
+anniversary of the Treaty on Long-Term Good-Neighbourliness,
+Friendship and Cooperation.
+These two documents have laid a reliable foundation for the effective work of the SCO on the principles of equality, mutual respect and consideration for each other’s interests.
+Once again, I would like to welcome
+Mr Narendra Modi and Mr Nawaz Sharif. Today, the Shanghai Cooperation Organisation
+will be expanded with its new full members.
+The decision to launch the admission
+process for these countries was made at the Ufa summit during the Russian Presidency
+of the SCO in 2015. In less than two years, India and Pakistan have met all the conditions and completed all the necessary procedures. Now our task is to help our
+new partners to integrate into the multifaceted work carried out by the SCO.
+The expansion of the Shanghai Cooperation Organisation will help it become more powerful and influential in the political, economic and humanitarian spheres.
+The expansion of the Shanghai
+Cooperation Organisation will undoubtedly help it become more powerful and influential in the political, economic and humanitarian spheres.
+The President of Kazakhstan, Mr
+Nazarbayev, has already quoted figures that speak for themselves. Additional
+opportunities are opening up to exert a greater influence on the processes underway
+in the region we live in and on the international arena.
+Colleagues,
+The SCO has always rightly prioritised
+security and stability on the external borders of its member states.
+An unprecedented surge in terrorism
+and extremism all over the world has given this task special importance. I have
+said many times that it is only possible to defeat this evil by joining honest
+and constructive efforts of all countries in strict compliance with
+international law.
+The SCO has
+always rightly prioritised security and stability on the external borders of its member states.
+The fight against terrorism should
+be system-wide and uncompromised. Along with eliminating social and economic causes
+of terrorism and extremism we must do our best to neutralise the terrorist
+ideology.
+In this context, the role of the SCO
+Regional Anti-Terrorist Structure takes on added significance. An important
+step towards setting a legal framework of its activity is the Convention on Counteracting Extremism, which we will sign today.
+I believe that together we will
+boost efforts to provide a political and diplomatic settlement of regional
+conflicts, first of all, in the Middle East, and particularly in Syria.
+I would like to note that there are certain
+encouraging developments in the settlement of the Syrian crisis. They are
+related to the launch of a series of regular international meetings here, in Astana, the capital of Kazakhstan, with the mediation of Russia, Turkey and Iran. The most crucial achievements are the ceasefire between the government
+troops and armed opposition groups and the creation of de-escalation zones in Syria.
+The most crucial
+achievements are the ceasefire between the government troops and armed
+opposition groups and the creation of de-escalation zones in Syria.
+There is now a real opportunity to strengthen
+Syrian ceasefire and give an impetus to the intra-Syrian talks in Geneva.
+The developments in Afghanistan are
+certainly of key importance for regional stability. Obviously, the reliance on a military solution to the Afghan conflict is a dead-end policy. Russia, like
+all its partners in the SCO, consistently supports a political resolution of the conflict through agreements reached by the Afghans.
+The Shanghai Cooperation
+Organisation could be working more actively in this direction. We propose to resume the work of the SCO-Afghanistan Contact Group, which was suspended in 2009.
+Amid the continued increase in the production and export of Afghan drugs, it would make sense to increase the interaction of the SCO with specialised UN agencies and relevant international
+organisations. We are all interested in forming a broad anti-drug security belt
+in the region.
+We are all
+interested in forming a broad anti-drug security belt in the region.
+As for the economic aspects, I believe
+we must focus on combining efforts, on coordinating national strategies and multilateral projects across the SCO members.
+Our goal is to combine the potentials of the EAEU, the SCO, the Association of Southeast Asian Nations, and China’s One Belt, One Road Initiative. Just recently in Beijing, we took part
+in a major international event initiated by the Chinese President, which was a great success, I should note.
+The plans to converge the various integration
+projects in Eurasia will be discussed in detail at the Eastern Economic Forum
+in Vladivostok in September, as well as at the High-Level Conference on Trade
+and Economic Cooperation in the SCO in Moscow and the Small Business Forum of the regions of the SCO and BRICS member-states in the Russian city of Ufa. I would
+like to take this opportunity to invite all our partners to attend.
+Our goal is to combine the potentials of the EAEU, the SCO, the Association of Southeast Asian
+Nations, and China’s One Belt, One Road Initiative.
+In conclusion, allow me to thank Mr
+Nazarbayev once again for Kazakhstan’s successful presidency of the SCO. I would also like to tell the President of the People's Republic of China, Mr Xi
+Jinping, that our Chinese friends can count on any possible assistance on Russia’s
+part during their SCO chairmanship.
+Thank you.
+See also
+Shanghai Cooperation Organisation summit
+June 9, 2017
+Additional
+Visit to Kazakhstan. SCO summit
+June 8 − 9, 2017
+Publication status
+Published in section:
+Transcripts
+Publication date:
+June 9, 2017, 11:30
+Direct link:
+en.kremlin.ru/d/54739
+Text version

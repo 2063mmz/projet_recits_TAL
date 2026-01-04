@@ -1,0 +1,181 @@
+seed_url: http://government.ru/en/news/48037/
+final_url: http://government.ru/en/news/48037/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s meeting with President of China Xi Jinping
+21 March 2023
+12:35
+Government House, Moscow
+The meeting was held as part of President of China Xi Jinping’s state visit to Russia.
+Excerpts from the transcript:
+Mikhail Mishustin’s meeting with President of China Xi Jinping
+21 March 2023
+Mikhail Mishustin’s meeting with President of China Xi Jinping
+21 March 2023
+Mikhail Mishustin’s meeting with President of China Xi Jinping
+21 March 2023
+Andrei Belousov at the meeting with President of China Xi Jinping
+21 March 2023
+Tatyana Golikova at the meeting with President of China Xi Jinping
+21 March 2023
+Denis Manturov at the meeting with President of China Xi Jinping
+21 March 2023
+President of China Xi Jinping
+21 March 2023
+Mikhail Mishustin at the meeting with President of China Xi Jinping
+21 March 2023
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin’s meeting with President of China Xi Jinping
+Mikhail Mishustin:
+Welcome,
+Mr Xi Jinping. I am glad to meet you. Welcome to the Government House of the
+Russian Federation.
+First of all, I would like to
+congratulate you on being re-elected President of the People’s Republic of
+China and sincerely thank you for the considerable personal attention you devote
+to the development of friendship and partnership between Russia and China.
+It is important that your first foreign
+visit after being re-elected is to Russia. This proves the special nature of
+Russian-Chinese relations, which are entering a new era.
+Your talks with President of the Russian
+Federation Vladimir Putin will take place in the Kremlin today. It is planned
+to make a number of important decisions on the development of Russian-Chinese
+cooperation in the medium term, up to 2030.
+The Russian and Chinese governments must ensure
+coordinated work on the implementation of all agreements that will be reached
+at the highest level.
+I would like to use this occasion, Mr Xi
+Jinping, to pass on my warm-hearted and sincere congratulations to the new Premier
+of the State Council of China, Mr Li Qiang. I am confident that we will
+establish constructive and comradely joint work with him.
+Russia is sincerely interested in
+further strengthening its comprehensive partnership and strategic cooperation
+with China.
+Our relations have reached the highest level ever in
+their entire centuries-old history and impact the formation of the global
+agenda in the logic of multipolarity.
+Most members of the Russian Government are present at
+our meeting: my deputies, heads of ministries and agencies. All of them
+interact directly with their Chinese colleagues and promote joint projects in
+the areas they supervise in real time.
+Our common work is coordinated by the
+mechanism of regular meetings between the Russian and Chinese heads of
+government. This is a unique format with five intergovernmental commissions and
+more than 80 subcommittees and working groups.
+It is important that, despite the unfavourable
+external situation, turbulence in global markets and increasing sanctions from
+the collective West, trade and economic cooperation between Russia and China is
+developing successfully.
+Last year, mutual trade increased almost
+by a third and approached $190 billion.
+I believe that this year we will fulfil
+the task set by you and Russian President Vladimir Putin: to bring our mutual
+trade to $200 billion.
+We prioritise investment cooperation.
+The portfolio of the Intergovernmental Investment Commission includes 79
+projects worth over $165 billion in total.
+Our energy partnership, which covers all areas of industry,
+is of a strategic nature. These are natural gas, oil, oil products, coal,
+electricity and peaceful nuclear energy.
+Joint major energy projects such as Yamal
+LNG, Arctic LNG 2, the Amur Gas Chemical Plant and the Ust-Luga gas processing
+complex are being successfully implemented.
+I would like to highlight cooperation in
+high-tech areas, such as aircraft manufacturing, mechanical engineering, machine
+tool building, space research, as well as end-to-end technologies designed to
+create innovative products and services.
+I am absolutely convinced that the
+expansion of innovative cooperation will strengthen the technological
+sovereignty of Russia and China.
+In agriculture, we focus on ensuring our countries’
+food security. We support the project of a new land grain corridor, which will
+ensure the supply of grain, legumes and oilseeds from the Siberian and Far
+Eastern regions of Russia to the Chinese market.
+The importance of transport and
+logistics corridors, which are based on the development of cross-border
+infrastructure, is growing in the new geopolitical conditions. Last year,
+traffic opened on automobile and railway crossings across the Amur River. New
+projects are in the works that would significantly increase shipping along the
+Trans-Siberian and Trans-Asian routes.
+And, of course, we value the strong
+cultural and humanitarian ties that unite Russia and China. They are based on
+the historical traditions of friendship and mutual respect between our peoples,
+and are future oriented in the interests of the young generations of Russians
+and Chinese people, as stated in an article by President of Russia Vladimir
+Putin, in the People’s Daily newspaper, published ahead of your state visit to
+Russia.
+Mr Xi Jinping, I am ready to discuss the most
+important issues of cooperation between Russia and China with you.
+Jinping
+retranslated)
+Prime
+Minister Mishustin, I am very happy to meet you.
+Owing to the pandemic of the past
+few years, you and I were unable to visit each other’s countries for several
+years. I am extremely pleased to visit friendly Russia again three years later.
+Yesterday, we had an informal
+meeting with President Putin. During the meeting, he noted that, ten years ago
+when I was elected President of China for the first time, I had also chosen
+Russia as the country for my first foreign visit. The memory of this remains in
+my heart.
+I said that we had chosen Russia
+as the country for the Chinese leader’s first foreign visit. This follows
+historical logic because we are major neighbouring powers for each
+other, and we are also all-round strategic partners.
+Our relations have repeatedly
+passed stress tests for many years. Consequently, I had no doubts about
+choosing Russia as the destination for my first foreign visit, following my
+re-election.
+Yesterday, I also officially
+invited President Putin to visit China at any convenient time. This year, China
+will host the 3
+Belt and Road Forum for International Cooperation.
+President Putin took part in the first two forums. The Belt and Road Initiative
+is an important aspect of cooperation between China and Russia. This is why I invited
+President Putin to take part in the 3
+Belt and Road Forum for
+International Cooperation.
+During this visit, President
+Putin and I will thoroughly sum up the achievements in our bilateral relations,
+and we will also chart a plan for future cooperation. In reality, we have
+already obtained many practical results, while implementing this plan, and we
+are expecting even greater success.
+China has recently hosted the
+successful 20
+Congress of the Communist Party of China, and the
+work of the two sessions has also been completed. The new leadership of the
+party and governing bodies has been elected. This highlights the unprecedented
+cohesion of the state, the party and the people.
+You have just mentioned the new State
+Council Premier, Li Qiang; Mr Li Keqiang was his predecessor. The State Council
+Premier, Mr Li Qiang, will continue to prioritise comprehensive strategic
+partnership between China and Russia, and he will also focus on establishing
+close working contacts with you.
+We must continue our tradition,
+specifically, the mechanism of regular meetings between heads of government.
+Moreover, we must step up the work of other mechanisms throughout 2023.
+Consequently, we have a lot of work to do. Thanks to these mechanisms, we will
+jointly accomplish more goals during cooperation between our countries, and we
+will achieve new results. Mr Prime Minister, in this connection, I am also
+inviting you to visit China at any convenient time.
+We have just spoken briefly. I
+would like to note that it is necessary to resume the work of the mechanism of
+regular meetings between our prime ministers. I am inviting you to visit China
+as soon as possible, so that you would establish close ties with the new State
+Council Premier, Li Qiang.
+Today, I am very happy to meet
+with your colleagues, leaders and members of the Government of Russia. I am
+ready to exchange opinions with you later on.
+Thank you.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/48037/
+Highlight selection

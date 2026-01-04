@@ -1,0 +1,108 @@
+seed_url: http://en.kremlin.ru/events/president/news/72529
+final_url: http://en.kremlin.ru/events/president/news/72529
+title: Russian-Chinese talks
+date: 2023-10-18
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Russian-Chinese talks
+Vladimir Putin and President of the People’s Republic of China Xi Jinping held talks in Beijing.
+October 18, 2023
+09:55
+Beijing
+The meeting was held in an expanded format with the participation of the delegations. After the meeting, the international consultations continued in the working breakfast format.
+Earlier that day, the President of Russia took part in the opening
+ceremony
+of the Third Belt and Road Forum for International Cooperation.
+* * *
+Beginning of Russian-Chinese talks
+President of China
+Jinping
+Xi Jinping
+President of People's Republic of China
+(retranslated)
+Mr Putin, my dear friend, welcome to China
+for the Third Belt and Road Forum for International Cooperation. Participation
+in each other’s major international events is a good long-term tradition for our countries.
+Mr President, it is your third visit to the Belt and Road Forum for International Cooperation, which demonstrates Russia’s
+support for this initiative.
+During my
+visit
+, at your invitation, to Russia in March – this was my first visit after the re-election – we set a landmark for the development of bilateral relations and held a meaningful exchange of views on a number of current international and regional issues.
+I am pleased to note that the governments, ministries and agencies, as well as regions of China and Russia have been working hard to implement the important agreements we have reached.
+Mutual trust in our political relations is steadily growing. Close and effective strategic collaboration is being maintained. Bilateral trade has
+achieved historic records and is approaching the target of $200 billion we have
+set.
+Mr President, during the ten years since 2013, the two of us have held 42 meetings and established good business-like relations
+and a strong personal friendship.
+Next year marks the 75
+anniversary
+of diplomatic relations between China
+and Russia.
+The Chinese side is ready, together
+with Russia, with keen understanding of the trajectory of history and following
+the currents of world development, to invariably rely on the fundamental
+interests of the peoples of the two countries, to continuously enrich bilateral
+cooperation with the content necessary for the sake of the two countries’ development
+and prosperity in this new era; exercise a sense of responsibility as great
+powers, contribute to international justice and impartiality, and promote the common development of the whole world.
+Thank you.
+President of Russia
+Vladimir Putin:
+Xi Jinping, dear friend,
+See also
+All news about the visit to China
+I am happy we are having this new meeting. Allow me once again, this
+time personally, to congratulate you and all our Chinese friends on the 74
+anniversary of the establishment of the People’s Republic of China.
+Next year will be an anniversary year for both your country and the diplomatic relations between our countries. On October 2, 1949, the next day
+after the establishment of the PRC, the USSR was the first to recognise new
+China.
+As you have just said, your state visit to Russia took place in March,
+the first foreign visit after your re-election. We understand that this is a special sign indicating the level and nature of relations between the People’s
+Republic of China and Russia.
+One and a half years after my last
+visit
+, all of us, our large
+delegation, are in Beijing again. We can see that the city is developing and prospering,
+and we are very glad for our Chinese friends.
+Your idea of promoting wide-ranging cooperation between the countries of the historical Silk Road, which was put forward ten years ago, has gained
+momentum.
+As I just said in my remarks at the forum, each country leader, when
+planning something in the area of economy or development, seeks to implement
+the plans that have been devised. Yet, we are never 100-percent sure how this
+will turn out. But our Chinese friends, China under your leadership, and you
+personally are highly successful in your endeavours. We are very glad for you
+and for all those involved in this wide-ranging collaboration, because everyone
+gains advantages from it.
+You have just outlined a very strong and extensive programme to further
+promote your road and destiny idea intended to benefit, in effect, as you say
+yourself, the whole of humankind. We sincerely wish you success in this noble
+undertaking.
+Under the difficult present-day conditions, it is particularly relevant
+to maintain close foreign policy coordination, something we are doing now.
+Today, we will discuss all of this, including, and primarily, our bilateral
+relations.
+You have just mentioned our bar – our objective of reaching $200 billion
+in trade this year. If we look at the year-on-year figures – we analysed this yesterday
+evening – the 200-billion target was reached between this day a year ago and today, and this bar will certainly be exceeded by the end of the calendar year.
+Therefore, we are advancing very confidently on the bilateral plane as well.
+Thank you.
+<…>
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+October 18, 2023, 09:55
+Direct link:
+en.kremlin.ru/d/72529
+Text version

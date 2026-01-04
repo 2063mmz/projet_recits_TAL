@@ -1,0 +1,30 @@
+seed_url: https://statehouse.gov.ng/still-at-3rd-bri-forum-vp-shettima-present-as-naseni-chinese-firms-sign-2bn-mous/
+final_url: https://statehouse.gov.ng/still-at-3rd-bri-forum-vp-shettima-present-as-naseni-chinese-firms-sign-2bn-mous/
+title: Still at 3rd BRI Forum: VP Shettima Present as NASENI, Chinese Firms Sign $2bn MoUs
+date: October 19, 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+**Nigeria, China Harbour sign Lekki Deep Blue Seaport contract*
+As Nigeria continues to reap heaps and bounds of dividends from the 3rd Belt And Road Initiative (BRI), the National Agency for Science and Engineering Infrastructure (NASENI) and three Chinese partners have signed Memoranda of Understanding (MoU) for new projects valued at $2 billion.
+Another $4 billion is the worth of letters of intent for new projects and investments.
+This is just as the Federal Ministry of Works also signed an MoU with China Harbour Engineering Company Ltd for the construction of the Lekki Blue Seaport contract at the Lekki Free Trade Zone in Lagos.
+Vice President Kashim Shettima, who is representing President Bola Ahmed Tinubu at the Belt And Road Initiative Forum in Beijing, China, today witnessed the event, which also had the Ministers for Foreign Affairs, Power, Works and other top government officials present.
+The Vice President who commended all stakeholders and their Chinese counterparts said Nigeria has never been this ripe and ready for businesses to thrive in.
+He said with the painstaking efforts by the Tinubu administration to ensure a level playing ground for all investors following the removal of all bottlenecks, the coast is now clear for deepened economic and trade collaborations.
+Khalil Halilu, Executive Vice Chairman and Chief Executive Officer (EVC/CEO) of NASENI, said the crystallisation of the agreements was a fulfillment of NASENI’s commitments towards boosting Foreign Direct Investment (FDI) drive of the Tinubu administration.
+“This is a very important day for us at the National Agency for Science and Engineering Infrastructure because it is a day to show the results of some of the work that we have been doing in the last six weeks since I assumed the leadership of NASENI,” the Executive Chairman said.
+The MOUs to partner NASENI for investments in Nigeria were listed in a release by NASENI to include: i. Shanghai Launch Automotive Technical Co Ltd – an MOU to establish a new energy automobile facility for the production of new energy electric vehicles.
+ii. .China Great Wall Industry Corporation – an MOU for the turnkey delivery of Unmanned Aerial Vehicles (UAV) assembly line projects.
+iii. Newway Power Technology Company Ltd – an MOU for the transfer of technology on lithium batteries, electric vehicles and allied technologies.
+The ten Chinese firms who presented Letters of Intent to the Vice President to pull together 4 billion US Dollars in investments are TBEA (solar products); DongFeng Vehicles Co. (vehicle design and production) and HiLong Energy (CNG, LNG, methanol)
+Others are Space Star Technology (Drone technology transfer); ENRIC (clean energy utilization technology); and Hidier Group (development of new industrial park), China State Construction Company (building technology and materials); CIMC (natural gas infrastructure delivery); Value Platform International Services Ltd (vocational training) and Acadia Technologies (Shenzhen) Co. Ltd. (smart grids and microgrids).
+During the signing of the MoU on the construction of the Deep Blue Sea Port at the Lekki Free Trade Zone, the Minister of Works, Engr. Dave Umahi, said the massive project was yet another indication that Nigeria still remains an industrial haven for many investors.
+The event which was held at the Nigerian Embassy in Beijing later saw the Vice President meeting with several communications, tech, railway, power and construction giants.
+They include the China National Electric Engineering Co. Ltd, China Civil Engineering Construction Corporation (CCECC), China Electronics Technology Group Corporation (CETC), China Railway Construction Corporation ( CRCC), China Communications Construction Co. Ltd (CCCC), HUAWEI Technologies, Senteng International Company Nigeria Limited, China National Electric Engineering Co. Ltd and Zhejiang Dahua Technology Co. Ltd.
+*Stanley Nkwocha*
+*Senior Special Assistant to the President on Media and Communications*
+*(Office of the Vice President)*
+*19th October, 2023*

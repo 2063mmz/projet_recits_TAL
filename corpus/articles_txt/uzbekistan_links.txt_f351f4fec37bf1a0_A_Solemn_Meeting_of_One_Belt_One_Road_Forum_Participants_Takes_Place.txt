@@ -1,0 +1,57 @@
+seed_url: https://president.uz/en/lists/view/6771
+final_url: https://president.uz/en/lists/view/6771
+title: A Solemn Meeting of “One Belt, One Road” Forum Participants Takes Place
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+A Solemn Meeting of “One Belt, One Road” Forum Participants Takes Place
+17.10.2023
+The National People’s Congress in Beijing hosted the official welcome of the heads of delegations participating in the “One Belt, One Road” third international forum.
+The President of the Republic of Uzbekistan Shavkat Mirziyoyev and his spouse were solemnly welcomed by the President of the People’s Republic of China Xi Jinping and his spouse.
+The ceremony was also attended by the UN Secretary-General António Guterres, the Russian President Vladimir Putin, the President of Kazakhstan Kassym-Jomart Tokayev, the Hungarian Prime Minister Viktor Orban, Acting Prime Minister of Pakistan Anwaar-ul-Haq Kakar, the National Leader of the Turkmen people, Chairman of the Halk Maslakhaty Gurbanguly Berdimuhamedov, as well as Heads of states and governments of other countries. A joint photo ceremony took place.
+A theatrical concert program was performed for the distinguished guests.
+The main events of the forum will take place tomorrow, on October 18.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

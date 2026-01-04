@@ -1,0 +1,28 @@
+seed_url: https://www.ifa.gov.et/front_page/
+final_url: https://www.ifa.gov.et/front_page/
+title: Announcement
+date: January 1, 2026
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Skip to content
+Announcement
+You missed
+Policy Brief
+Ethiopia’s Diplomatic Transition during António Guterres’s UN Tenure (2017–2025): From Security Posture to Regional Convening
+January 1, 2026
+No Comments
+Policy Brief
+Ethiopia’s Posture and Policy Architecture for the 2025 G20 Johannesburg Summit
+December 30, 2025
+No Comments
+Policy Brief
+Ethiopia’s Digital Sovereignty and the 2030 Economic Horizon: A Policy Analysis of Regulatory Reform and Infrastructure Scaling
+December 29, 2025
+No Comments
+Policy Brief
+𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐢𝐧𝐤 𝐢𝐧 𝐁𝐑𝐈𝐂𝐒 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: 𝐓𝐡𝐞 𝐍𝐞𝐞𝐝 𝐟𝐨𝐫 𝐑𝐨𝐛𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦𝐬
+December 29, 2025
+No Comments

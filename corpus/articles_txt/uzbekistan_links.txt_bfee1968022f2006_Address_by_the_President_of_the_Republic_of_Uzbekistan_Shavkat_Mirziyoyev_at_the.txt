@@ -1,0 +1,110 @@
+seed_url: https://president.uz/en/lists/view/8231
+final_url: https://president.uz/en/lists/view/8231
+title: Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Second “Central Asia – China” Summit
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the Second “Central Asia – China” Summit
+17.06.2025
+Distinguished heads of delegations!
+I would like to echo the words of gratitude to the President of Kazakhstan, H.E. Kassym-Jomart Tokayev, for the warm welcome and the excellent organization of the Second Central Asia-China Summit.
+I thank the President of the People's Republic of China, H.E. Xi Jinping, for his firm commitment to strengthening friendship and cooperation with the countries of the region.
+I fully support your words that “China and Central Asian countries are linked by centuries-old ties of friendship and partnership based on mutual respect, mutual trust and mutual assistance, the desire for close relations and the development of high-quality cooperation”.
+I would also like to join in with the heartfelt congratulations and good wishes on your recent birthday.
+Dear colleagues!
+I support today's meeting agenda and the prepared documents, including the Astana Declaration.
+I welcome the launch of joint centres to prevent desertification, promote collaboration on education and poverty eradication, as well as the establishment of a seamless trade platform between Central Asia and China. These mechanisms will undoubtedly contribute to expanding practical engagement among our countries. Uzbekistan is committed to actively participating in organizing and developing their activities.
+Esteemed heads of delegations!
+As the Chinese saying goes, “He who goes forward with friends will achieve more”.
+Since our historic first summit in Xi'an, we have achieved notable results. As mentioned, a Secretariat has been set up to ensure the multi-level coordination of cooperation. Effective mechanisms are in place for ministerial and expert meetings and conferences in various areas, and a legal framework for comprehensive cooperation is being developed.
+The analysis shows the growth in total trade turnover between the Central Asian countries and China. This year, it is estimated to reach nearly 100 billion dollars. The number of joint ventures and projects will also exceed ten thousand.
+In our view, cooperation in this format is fostered by the profound transformation processes in Central Asia itself, which has become a space of trust, good neighborliness and partnership. On the other hand, China's leadership is firmly committed to developing friendly relations with neighboring states and promoting the “Belt and Road” global concept.
+In this regard, I would like to outline our vision for the further development of multilateral cooperation.
+Our meeting is taking place against the backdrop of a severe deterioration in the international situation.
+Destructive conflicts are gaining new momentum, and there is increasing mutual distrust between global and regional powers. Growing rivalry leads to escalating tensions, emergence of new challenges and threats to security and sustainable development.
+We believe that the use of force to resolve contentious international issues and conflicts is unjustifiable and inadmissible.
+I fully agree with your words, esteemed Chairman Xi Jinping, that there will be no winners in the ongoing conflicts and wars.
+I am convinced that all disputes and disagreements must be resolved exclusively through diplomatic means – at the negotiating table – based on the principles of respect for sovereignty, the norms of international law, and the United Nations Charter.
+It is noteworthy to emphasize that in such unpredictable circumstances, the importance and role of regional mechanisms capable of uniting countries to ensure a more resilient system of international relations are significantly increasing.
+In this regard, I believe that today’s adoption of the Treaty on Eternal Good-Neighborliness, Friendship, and Cooperation among our countries is a historic milestone. This document will serve as a joint contribution to ensuring regional stability. In order to follow up on the Treaty, it is essential to adopt a Concept of our long-term partnership that incorporates specific mechanisms and projects.
+Trade, investment, and technological cooperation serve as a powerful driving force in the implementation of socio-economic development strategies across all Central Asian countries.
+Allow me to cite just one example. Based on China’s advanced experience, dozens of major projects have been implemented in our country – aimed at boosting industrial capacity, developing social infrastructure, and creating jobs in various regions of the country.
+I would like to underline that aligning the growing potential of Central Asian countries with China’s industrial leadership should lead to the creation of a Common Space of Vast Opportunities – with effective mechanisms for knowledge exchange and technology transfer.
+I am confident that the early adoption of the Program for New Economic Partnership will be another practical step in this direction. In order to flesh up this Program with specific components and form a portfolio of projects that will expand mutual trade and investment, we propose to establish an Interregional Council for Trade and Investment at the level of Deputy Prime Ministers of our countries. We are ready to host the first meeting in Uzbekistan before the end of this year.
+To further facilitate trade relations, we suggest the creation of a multilateral trading platform – the “Electronic Silk Road” – as part of the Digital Belt and Road.
+I also see strong relevance in establishing a Regional Center for Industrial Standardization and Certification in Tashkent, which will operate on harmonizing regulations and standards, and certifying export products in accordance with Chinese requirements.
+I also propose to adopt a dedicated Technology Transfer Roadmap, involving the private sector, leading research institutions, and R&D centers.
+Strengthening industrial and infrastructural connectivity will significantly serve to unleash the economic potential of our countries. To this end, I propose to develop a long-term strategy Central Asia – China Industrial and Infrastructure Belt. It is about creating a system of interconnected industrial clusters, technology parks and logistics hubs with the involvement of Chinese investments, technological and scientific solutions.
+In addition, our Ministers of energy should carefully study the issues of aligning the energy systems of Central Asian countries and China, including the implementation of the mega-project to build
+a high-voltage power transmission line.
+Implementation of effective financial instruments capable of supporting major projects of regional importance is becoming particularly relevant. I would like to note that while the current international mechanisms undoubtedly play an important role, they do not fully cover the region’s investment needs. According to experts, the shortage in capital investments in the infrastructure development of Central Asia amounts to hundreds of billions of dollars.
+In this regard, it seems appropriate to consider establishing a “Central Asia – China” Development Fund, which could become an effective platform for promoting infrastructure initiatives.
+Another priority area is the development of transport connectivity between Central Asia and China. We believe that launching the construction of the China – Kyrgyzstan – Uzbekistan railway is an important component of the new system of transport and transit communications in the Eurasian space.
+We hope for support in the implementation of the Trans-Afghan Railway project, which will open up vast opportunities for all our countries and connect China with South Asia through our region.
+To develop a common vision in this strategic area, I consider it necessary to instruct our transport authorities to form expert groups to conduct field studies, explore the possibilities of modernizing the logistics infrastructure and implement pilot projects for cargo transportation along alternative corridors.
+Based on the results of their work, specific and well-justified proposals for the formation of a Single Map of Transport Corridors and Modern Transit Infrastructure should be developed by our next meeting.
+Climate change poses one of the major challenges to the sustainable development of all our countries.
+I am convinced that the widespread implementation of China’s best practices in the region will reduce risks and significantly increase the effectiveness of measures in the area of the green agenda and environmental protection.
+In this regard, it is important to accelerate the early adoption and start the implementation of the Green Development Program 2030.
+We also propose establishing an Environmental Alliance in our format for dialogue and partnership in combating desertification, restoring degraded lands, and improving bio-ecological sustainability in arid and desert zones.
+I would like to note that using Chinese experience and methodology, we can implement pilot projects in the region, including comprehensive greening and creation of nurseries, development of bioengineering, biomonitoring stations, as well as social and awareness programs.
+I would like to highlight the opportunities for cooperation in the field of artificial intelligence and digital technologies. These are the very areas that today act as drivers of long-term growth, determining the competitiveness of national economies.
+China has traditionally been at the forefront in this area, leading in the development of intelligent systems. I am convinced that establishing a Network of Mutually Integrated Big Data Banks and Processing Centers, powered by artificial intelligence and seamless cross-border electronic channels, will enable the formation of a sustainable digital infrastructure for economic interaction.
+We believe that development of the "Central Asia – China" Fiber-Optic Digital Corridor along key energy and transportation routes is also of high relevance.
+This will create a framework for further advancing online trade, smart logistics, cloud technologies, and AI – all core components of the digital agenda outlined in the Xi’an Declaration.
+Our invaluable asset is the shared commitment to mutual cultural enrichment and bringing our peoples closer together. The Initiative for Facilitating Mutual Travel and the Program of Cultural and Humanitarian Events, which are to be adopted today, target these very objectives.
+Building on the principle of respecting cultural diversity, our cooperation unfolds new opportunities for intercultural exchange to millions of people.
+We propose creating a Single Digital Portal “Cultural Heritage of the Silk Road”. It will bring together the historical and cultural resources of Central Asian countries and China, providing access to researchers, students, tourists, and members of the creative industries.
+It is also advisable to create a Common Scientific and Educational Platform by developing a program of cooperation in professional education, organizing rectors’ forums and meetings of the presidents of Academies of Sciences and research centers.
+Security cooperation must remain among key priorities. I propose launching active multilateral mechanisms for information exchange among special services and security councils to combat terrorism, extremism, radicalization, drug trafficking, illegal migration, and cybercrime.
+We are deeply concerned by the international community’s declining attention to the problems facing Afghanistan, a country that is not just our neighbor, but an integral part of our shared historical, cultural and economic space.
+I believe that China and the Central Asian countries, as Afghanistan’s traditional partners with rich experience of cooperation, have extensive opportunities to support its reconstruction and integration into regional processes.
+In this regard, we propose to establish a High-Level Group within our framework to address these issues and to hold its meeting in the border city of Termez with the participation of Afghan representatives.
+Distinguished colleagues!
+I would like to take this opportunity to extend my best wishes to Mr. Sun Weidong, the representative of the People’s Republic of China, in his role as Secretary-General of the Secretariat of our dialogue.
+In conclusion, I would like to emphasize that Uzbekistan is committed to open dialogue and the expansion of pragmatic and mutually beneficial cooperation within the framework of the “Central Asia – China” format.
+I am confident that such a partnership will promote the welfare and prosperity of our nations and peoples.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

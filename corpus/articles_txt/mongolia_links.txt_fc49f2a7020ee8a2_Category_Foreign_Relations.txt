@@ -1,0 +1,27 @@
+seed_url: https://president.mn/en/category/foreign_relations/page/17/
+final_url: https://president.mn/en/category/foreign_relations/page/17/
+title: Category : Foreign Relations
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2023/10/19 6:55:41
+MEETING WITH XI JINPING, PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+President of Mongolia Ukhnaa Khurelsukh met President of the People’s Republic of China Xi Jinping on the sidelines of the
+2023/10/19 6:35:50
+STATEMENT AT THE THIRD BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+STATEMENT BY H.E. MR. UKHNAA KHURELSUKH AT THE DISCUSSION ON ‘CO-BUILDING A GREEN SILK ROAD TO PROMOTE HARMONIOUS COEXISTENCE BETWEEN
+2023/10/18 6:47:39
+MEETING WITH VLADIMIR PUTIN, PRESIDENT OF THE RUSSIAN FEDERATION
+President of Mongolia Ukhnaa Khurelsukh met President of the Russian Federation Vladimir Putin on the sidelines of the Third Belt
+2023/10/14 5:40:50
+THE STATE VISIT BY THE PRESIDENT OF MONGOLIA TO THE FRENCH REPUBLIC
+President of Mongolia Ukhnaa Khurelsukh with his spouse Luvsandorj Bolortsetseg arrived in Paris, France for a State Visit on October
+2023/09/21 4:32:03
+STATEMENT AT THE GENERAL DEBATE OF THE 78TH SESSION OF THE UNITED NATIONS GENERAL ASSEMBLY
+STATEMENT BY H.E. MR. UKHNAA KHURELSUKH, PRESIDENT OF MONGOLIA, AT THE GENERAL DEBATE OF THE 78TH SESSION OF THE UNITED
+2023/09/16 11:11:30
+THE STATEMENT AT THE SUMMIT OF THE GROUP OF 77 AND CHINA ON ‘CURRENT DEVELOPMENT CHALLENGES: THE ROLE OF SCIENCE, TECHNOLOGY AND INNOVATION
+STATEMENT BY H.E. MR. UKHNAA KHURELSUKH, PRESIDENT OF MONGOLIA, AT THE SUMMIT OF THE GROUP OF 77 AND CHINA  ON

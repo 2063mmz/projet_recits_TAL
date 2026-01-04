@@ -1,0 +1,12 @@
+seed_url: https://www.ifa.gov.et/2025/04/16/ethiopia-advocates-for-a-sudanese-led-peace-process-and-enhanced-international-support-at-the-london-conference/
+final_url: https://www.ifa.gov.et/2025/04/16/ethiopia-advocates-for-a-sudanese-led-peace-process-and-enhanced-international-support-at-the-london-conference/
+title: Ethiopia Advocates for a Sudanese-Led Peace Process and Enhanced International Support at the London Conference
+date: Apr 16, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Ethiopia Advocates for a Sudanese-Led Peace Process and Enhanced International Support at the London Conference
+At the London Sudan Conference, Ethiopia underscored the critical need for a Sudanese-led peace process, a sustained ceasefire to safeguard civilians, and a robust increase in international support for humanitarian assistance and rfugee aid.
+Ethiopia remains steadfast in its leadership, driving efforts to facilitate coordinated relief and foster lasting peace in Sudan amidst the ongoing crisis.

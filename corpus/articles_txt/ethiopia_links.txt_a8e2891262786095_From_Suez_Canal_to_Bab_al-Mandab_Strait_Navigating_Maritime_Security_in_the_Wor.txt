@@ -1,0 +1,17 @@
+seed_url: https://www.ifa.gov.et/2025/11/02/from-suez-canal-to-bab-al-mandab-strait-navigating-maritime-security-in-the-worlds-busiest-maritime-trade-corridor/
+final_url: https://www.ifa.gov.et/2025/11/02/from-suez-canal-to-bab-al-mandab-strait-navigating-maritime-security-in-the-worlds-busiest-maritime-trade-corridor/
+title: From Suez Canal to Bab al-Mandab Strait: Navigating Maritime Security in the World’s Busiest Maritime Trade Corridor
+date: Nov 2, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The article “From Suez Canal to Bab al-Mandab Strait: Navigating Maritime Security in the World’s Busiest Maritime Trade Corridor” by Abebe Yirga and Gashaw Ayferam examines the growing maritime insecurities and geopolitical rivalries affecting one of the world’s most vital trade corridors.
+Using a sustainable maritime security framework, the authors argue that the Red Sea region—from the Suez Canal to the Bab al-Mandab Strait—has become a contested space for military presence and power projection among global and regional actors.
+The article contends that post-pandemic maritime insecurity has worsened due to military buildups, port competition, piracy, terrorism, and Houthi attacks. These interrelated threats span political, economic, environmental, and social sectors, each reinforcing the other.
+Politically and economically, the authors note that rival maritime strategies, infrastructural vulnerabilities, and vessel attacks have disrupted global trade, raised shipping costs, and destabilized supply chains.
+Environmentally and socially, the study highlights pollution from oil spills, human and arms trafficking, and seafarer casualties as major security challenges. Such issues, the article argues, exacerbate climate risks and feed back into political and economic instability.
+The authors conclude that achieving sustainable maritime security requires enhanced cooperation among littoral states, stronger regional institutions, and diplomatic efforts to resolve broader conflicts—particularly the Israel-Gaza and Iran-Israel crises—whose spillover effects threaten Red Sea stability.
+Find the complete article here:
+https://doi.org/10.47932/ortetut.1744422

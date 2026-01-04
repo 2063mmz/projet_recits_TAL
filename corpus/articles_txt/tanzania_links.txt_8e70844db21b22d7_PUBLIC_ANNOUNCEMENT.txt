@@ -1,0 +1,18 @@
+seed_url: https://www.foreign.go.tz/index.php/resources/view/public-announcement
+final_url: https://www.foreign.go.tz/resources/view/public-announcement
+title: PUBLIC ANNOUNCEMENT
+date: 07 Nov 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Press Release
+PUBLIC ANNOUNCEMENT
+07 Nov 2018
+Press Release
+1080
+PUBLIC ANNOUNCEMENT The Ministry of Foreign Affairs and East African Cooperation of the United Republic of Tanzania wishes to remind the General Public and All People in need of Certification of Documents to be used outside the country, that; (1) Certification services will be done at the Ministry’s offices in Dodoma LAPF Building, Makole Road sixth Floor. (2) All payments for Certification of Documents shall be made via CRDB bank account number 0150275408200 Foreign Collection Account and the bank slip should be submitted to the Ministry. Cost for Certification remains Tanzania Shillings Fifteen Thousand only (Tshs.15, 000) Per Copy. (3) Any client who has documents pertaining to divorce, marriage, marital status, birth announcement, death certificate should first submit the said document to the Registration, Insolvency, Trusteeship Agency- RITA) Dar es Salaam for verification. (4) Before any document is brought to the Ministry for certification, it has to be first verified by the issuing authority in Tanzania for authentication. In case of documents issued by foreign Authorities the document should first be verified by the Embassy or High Commission accredited to/ of the Country from which it was issued. (5) Any client who has documents pertaining to employment in a foreign Country should ensure that the agreement has been submitted to the Tanzania Employment Services Agency (TAESA). (6) Any client who brings documents in any language that is not Kiswahili or English should translate the said document to English or swahili language. The translated document should be accompanied by the original document, which was translated. All translations should be done by BAKITA, BAKWATA and any institution recognized by the Government. (7) Any client who wishes to have a Power of Attorney and Deed Poll certified should ensure that, it has been registered at the Ministry of Lands, Housing and Human Settlement Development. (8) Any copy of a document requiring certification should accompanied by the original document. (9) After complying with the directive provided herein above, the applicant must write a letter to the Permanent Secretary, Ministry of Foreign Affairs and East African Cooperation requesting for certification of the documents. The said letter must be accompanied with copies of all the documents to be certified after being firstly verified by the issuing authority. (10) Be further that, before effecting any payment, the documents to be certified, should be submitted to the Legal Unit of the Ministry for further verification. KINDLY BE INFORMED THAT, DOCUMENTS CERTIFICATION SERVICE IS AVAILABLE ONLY ON TUESDAY AND THURSDAY FROM 0900HRS TO 1200HRS.
+Downloads File
+Public Announcement
+[160 KB]

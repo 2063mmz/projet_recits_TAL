@@ -1,0 +1,18 @@
+seed_url: https://www.ifa.gov.et/2025/09/26/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC/
+final_url: https://www.ifa.gov.et/2025/09/26/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚’𝐬 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐢𝐧 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐄𝐧𝐞𝐫𝐠𝐲 𝐟𝐨𝐫 𝐏𝐞𝐚𝐜𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐬
+date: Sep 26, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+As Ethiopia continues its journey toward sustainable
+energy solutions, the nation is making significant strides in acquiring nuclear energy for peaceful purposes. Prime Minister Abiy Ahmed is set to participate in the Global Atomic Forum in Moscow from September 25 to 28, alongside Russian President Vladimir Putin. This forum represents a pivotal opportunity for Ethiopia to engage with global leaders on advancements in nuclear energy.
+Joining the discussions will be officials from Egypt and Niger, as well as leaders from Belarus, Myanmar, Armenia, and more. This diverse participation underscores the global commitment to harnessing nuclear technology for peaceful applications, including energy production, medical advancements, and agricultural development.
+Ethiopia’s ambitions in this field reflect broader goals of enhancing energy security and fostering economic growth. It is essential to recognize the potential benefits and challenges associated with nuclear energy development.
+@sputnik_africa
+#Ethiopia
+#NuclearEnergy
+#PeacefulPurposes
+#GlobalAtomicForum

@@ -1,0 +1,362 @@
+seed_url: http://government.ru/en/news/29971/
+final_url: http://government.ru/en/news/29971/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev's online news conference in Beijing
+31 October 2017
+13:30
+Beijing, People's Republic of China
+The Prime Minister answered questions via the online edition of the People's Daily Online (Renminwang).
+Online conference in Beijing
+Visit
+Dmitry Medvedev lays a wreath at the Monument to the People's Heroes in Beijing
+Dmitry Medvedev’s talks with Premier of the State Council of the People's Republic of China Li Keqiang
+Dmitry Medvedev bestows Russian state awards on Chinese citizens
+22nd regular meeting of Russian and Chinese heads of government
+Dmitry Medvedev and Premier of the State Council of the People's Republic of China Li Keqiang attend the closing ceremony for the years of Russian and Chinese media
+Dmitry Medvedev meets with Chairman of the Standing Committee of the National People's Congress of the People’s Republic of China Zhang Dejiang
+Dmitry Medvedev’s conversation with President of the People’s Republic of China Xi Jinping
+Dmitry Medvedev’s online news
+conference with Chinese internet users took place at the headquarters of the People’s
+Daily Online, part of the People’s Daily Group (Renmin Ribao). The news
+conference was broadcast on the Rossiya Segodnya International Information
+Agency website for Russian users.
+This format was chosen to mark
+Dmitry Medvedev’s conference that took place ten years ago at the Rossiya
+Segodnya headquarters (then RIA Novosti) in Moscow, partnered by the Chinese
+media holding, Renmin Ribao.
+Dmitry Medvedev’s online conference
+Excerpts from the transcript:
+Dmitry Medvedev’s online conference in Beijing
+Online conference in Beijing
+Anchor
+(via
+interpreter)
+: China and Russia are good neighbours, friends
+and partners. Ten years ago, on 2 February 2007 Mr Medvedev (then the First
+Deputy Prime Minister of the Russian Government) talked from Moscow with
+Chinese internet users through our website. Now, ten years on, Prime Minister
+Medvedev is our guest and will talk to our internet users about the deepening of
+relations between China and Russia as well as the consolidation of our
+friendship. Welcome Mr Prime Minister.
+Dmitry Medvedev
+: Good
+afternoon.
+Anchor
+: We thank you
+for being our guest again. The announcement about this event has evoked
+interest from our users. Right now we have collected 1,200 questions. Our users
+are very active. Today’s interview will be broadcast live with the help of our
+venue – website Renminwang. The Rossiya Segodnya Russian news agency will also
+broadcast live the event. Let’s see the questions.
+Here is a question about the 19
+congress. The 19
+Congress of the Communist Party of China ended quite recently. It was a big
+event. Xi Jinping was reelected General Secretary of the Central Committee of
+the Communist Party of China. You sent him greetings on this occasion. He set
+forth a new thesis about the start of a new era of socialism with Chinese
+specific characteristics. One of our users asked about your opinion of the
+results of this congress.
+Dmitry Medvedev
+: I would like to say a very good
+afternoon to everyone who is watching this meeting. I am glad to have this
+opportunity to talk with you, dear friends, at the offices of the People’s
+Daily media holding and its online platform, People’s Daily Online or
+Renminwang.
+Regarding the first question I have received, the 19th Congress of the
+Communist Party of China is a vastly important event in the life of the People’s
+Republic of China. More than that, it is an event that surpasses the scale of
+China because it is a very special congress that has been convened to map out
+the development of China’s future. We in Russia watched it very closely and
+took note of its results.
+Russia and China maintain very good and I would even say special relations
+not only at state level, where our relations can be
+described as strategic partnership and cooperation, but also at the level of
+our parties. When Mr Xi Jinping was re-elected General Secretary of the Central
+Committee of the
+Communist Party of China, United Russia, which I have the honour to chair,
+immediately sent its greetings to the President of China. I was happy to do
+this, especially considering that our parties have been fostering dialogue and
+cooperation over the past 12 years, and that we maintain interaction not only
+at state level but also between our parties.
+Speaking about the results of the 19th Congress, I would like to say that
+we have taken note of their strategic nature as well as of the consolidation of
+Chinese society around the Central Committee of the Communist Party of China
+and the leader of the People’s Republic of China. It is obvious that it will
+take a very long time to implement the prospects opened at the congress, in
+particular, the transitioning to a new stage in social development, which is
+referred to as socialism with Chinese characteristics. We are aware of the
+importance of these statements and goals. We strongly hope that these goals
+that have been set out at the congress will be achieved. We wish our Chinese
+friends, the leaders of the Communist Party of China and President of the
+People’s Republic of China Mr Xi Jinping every success in the implementation of
+the decisions taken at the congress.
+Anchor:
+Thank you for your kind words. You have said that you followed the 19
+Congress. What part of it was especially important for you?
+Dmitry Medvedev:
+Several moments were important for us. It is clear that we would like to
+continue the course we have been pursuing in recent years by developing a
+multi-faceted dialogue, an equal dialogue between our countries, as well as
+strategic partnership. The decisions of the Congress, as I see them, are the
+best confirmation of that, because there is continuity in the goals which were
+set last time, as well as new horizons. Of course, we also see the decisions of
+the Congress from the perspective of the development of Russia-China relations.
+We believe that all is well in this sense, and the prospects outlined by the
+Congress inspire us.
+Anchor:
+Let’s turn to other issues. We have a question from a user who talked to
+you 10 years ago. He would like to know, what are the most significant changes
+in today’s China compared to what you saw 10 years ago?
+Dmitry Medvedev:
+I see changes every time I visit China. I remember my first visit, which
+took place in 2000, when I visited the capital, Beijing, for the first time,
+and I can compare it to this year. The People’s Republic of China, all the
+places I’ve visited, continue to shock me, in a good way, because they show
+very rapid and large-scale development on all fronts. Wherever I go – the
+capital or various provinces I’ve visited recently (these were very interesting
+places where various events were held, and some have a very historical character
+and some are large cities that were recently constructed) – all these places
+have inspired me with their development rates and the improvement which can be seen
+throughout the whole of China. The development of transport arteries, the construction
+of modern buildings, both residential and commercial, and the development of
+general infrastructure – all of that cannot help but inspire and gladden. I
+think these are major achievements which have taken place during these years
+and which you can be proud of. It is really a very good, very inspiring
+example.
+At the same time, a lot of attention is paid to historic landmarks. When we
+were holding a joint conference on the internet and I met with Chinese President Xi Jinping
+in Wuzhen, I could not help admiring the beauty of this small but very nice
+historical town, where you can get a taste of Chinese history. At the same
+time, it is a very good and modern tourism centre. In this sense, I discover
+something new every time I visit the People’s Republic of China. Even today,
+while I was going through the streets of Beijing, I saw new buildings as well
+as some elements of a new atmosphere of this large city, although I had been here
+just recently.
+So, I think the
+changes are significant, but, at the same time, you managed to preserve your
+best traditions.
+More and more Chinese tourists are coming
+to Russia, and they all have a question on a very specific topic: is Russia
+thinking about easing visa requirements for Chinese tourists?
+Dmitry
+Medvedev
+Last year, some 1.2 million Chinese tourists visited Russia, and in the first
+six months of 2017 we saw an increase of about 20 percent.
+We recently provided new visa
+options. One of them is to enter Russian territory through Russia’s Far East,
+in Vladivostok, by using an electronic visa. Instead of visiting various
+agencies and queuing, all you have to do to obtain a visa is to fill out a
+form. This visa is valid for 30 days with a period of stay of up to eight days.
+There is another option currently
+in place as well whereby a person can arrive without a visa, if travelling with
+a tourist group of five or more people and staying in Russia for up to two
+weeks.
+We intend to expand this option in
+the near future. The Russian Government is currently reviewing a document
+reducing the size of the group (three tourists or more) and extending the
+period of stay to three weeks.
+These are special provisions for
+Chinese tourists, and nobody else.
+Anchor
+: Russia will host the
+FIFA World Cup next year. We have a question from one of our users: will there
+be any benefits for football fans?
+Dmitry
+Medvedev
+We are now hard at work preparing for the World Cup. This is not an easy task,
+since it will take place in a number of cities. This is a major project that is
+about to be completed.
+Russia hosted the FIFA Confederations
+Cup not that long ago as a prelude to the World Cup. It can be viewed as a mini
+World Cup, since there are fewer host cities involved. We are ready.
+Football fans will be able to move
+from one World Cup host city to another without any restrictions or problems
+using their Fan IDs. This identification document serves multiple purposes,
+starting from entering Russia. Its holders will be able to enter Russia 10 days
+before the World Cup actually begins, throughout the tournament and 10 days
+after it ends. No visas will be required. All that people have to do is go
+through the registration process for obtaining a Fan ID. After that, they will
+be entitled to a package of services, which include among other things, free
+public transit in the World Cup host cities, including fixed route taxis.
+To a certain extent, we have taken
+an unprecedented step, considering that Russia is a large country and even
+World Cup host cities are far and wide apart: we will launch special trains to
+enable football fans to follow their team from one city to another. These
+trains will be free too. Only one requirement is needed and that’s to fill out the
+relevant forms to get a ticket.
+I’m not even going to bother to mention
+any of the more trivial services like of course free WiFi, and the many other
+benefits that football fans will be entitled to.
+Anchor
+: What Chinese technologies and investments does Russia welcome?
+Dmitry Medvedev
+: We have very strong investment cooperation with our
+Chinese colleagues. Recently, we have established a special format, which is an
+investment commission headed by the first deputy prime ministers of our
+countries. A large number of projects which are worth tens of billions of
+dollars have been selected. They focus primarily on high technology and digital
+economy. In this sense, we are following a common path, trying to develop the
+latest and innovative spheres of our life.
+Speaking about online services, a
+significant portion of such services, including e-commerce and online commerce,
+is related to products that are made in China, in particular, the services are
+used which are provided from your country. Now, we need to think about how to
+develop the logistics, how to make it more convenient for large numbers of
+customers, because the market for such services is growing every day across the
+world. The online market in Russia is measured in trillions of roubles, but
+this is still only a small fraction of what can be obtained in the future.
+There are a
+number of areas related to high technology where we enjoy advanced cooperation,
+including nuclear energy, space and aircraft construction. We have good
+projects and enjoy significant successes. I hope that all our plans will come
+to fruition.
+This area is
+currently one of the most important areas of our cooperation.
+Speaking about
+cooperation with China in the sphere of economy, this cooperation has picked up
+a fairly good pace in recent years. Even despite the economic crisis of 2008
+and the recent issues in the global economy, this cooperation is still on the
+rise. Compared to last year when we observed an increase in mutual trade by
+about 4 percent, our trade is up by 35 percent for the first eight months of
+this year. This is a very good figure. We hope that these figures will continue
+into the future. These figures mean jobs, services and goods that we deliver
+from Russia to China and from China to Russia. In fact, this is what economic
+growth is all about.
+Anchor:
+If Chinese
+investment comes to Russia, what benefits will it enjoy?
+Dmitry
+Medvedev:
+In the past few years we have been trying to encourage foreign
+investment, including from our big friend and neighbour – the People’s Republic
+of China ­­ –  in particular to the
+Russian Far East (not only to the Far East but understandably it is in close
+contact with nearby Chinese provinces). This is why we are using a number of
+new forms of cooperation – technology parks, agro-industrial parks and
+technology clusters that we are forming to develop cooperation in high-tech
+areas.
+There is
+yet another form that we have recently introduced, incorporating, among other
+things, the experience of China and some other Asia-Pacific countries. I am
+referring to priority socio-economic development areas. We are forming them in
+the Far East and some other parts of the country. They have preferential tax
+treatment. For instance, in these areas we do not levy tax on profit which is
+paid to the federal budget.  This zero
+rate is valid for five years. We have substantially reduced part of the tax on
+profit which is paid to regional budgets. The rate of social payments there has
+been reduced four times, and there are practically zero rates on property and
+many other benefits. So we invite all companies to invest in these areas. A
+fairly large number of investment projects with China are currently at the
+implementation stage, both in the Far East and other parts of this country.
+These are
+projects in the conventional power industry (oil and gas) and new areas of our
+cooperation, including agro-industrial cooperation, high technology and housing
+construction. There are good projects in all of these areas. We hope more
+projects will be launched in the next few years.
+Anchor
+: What do you expect from our relations and cooperation during the next
+stage?
+Dmitry Medvedev
+: In recent years, our relations have reached a level
+where they are to some extent even free from the outcome of the elections. This
+is a strategic relationship geared towards the future, future generations. I am
+confident that after the elections, during the next political cycle in our
+country, these relations will remain unchanged. They will follow an ascending
+trajectory precisely because both our countries are interested in these
+relations.
+Perhaps,
+our relations with China are now at their all-time high. These are equal and
+friendly relations based on non-interference in each other's domestic affairs,
+respectful dialogue, partnership, and interaction on all issues, including the
+economy and international issues. So, I am absolutely confident that these
+relations will continue to develop.
+Anchor
+: With regard to the alignment of the Belt and Road initiative and the
+Eurasian Economic Union, what do you expect from the realisation of this idea?
+Dmitry Medvedev
+: We, of course, expect that this will result in
+economic dividends and bring a solution to a number of economic issues, both in
+the sphere of infrastructure and other areas of investment. Acting within the
+framework of contacts that exist at the level of the heads of state and heads
+of government, we strive to establish proper cooperation between China and the
+Eurasian Economic Union. This opens up additional opportunities, including for
+Chinese investment and for promoting China’s cooperation not only with Russia
+but also with other countries that are members of the Eurasian Economic Union.
+Speaking about
+the Belt and Road platform, it is a strategic project implemented by China in a
+collaborative effort with other countries. We use this project to discuss the most
+diverse forms of aligning economic projects and, of course, the social
+consequences of this cooperation.
+Anchor:
+President Xi
+Jinping gave guidelines on China’s development until the middle of this
+century. What is your vision of China in 2050?
+Dmitry
+Medvedev:
+I am sure that China will be a prosperous, well-organised modern
+country, which will be comfortable for its citizens to live in.
+Anchor:
+What do you think
+Russia will be like by that time?
+Dmitry
+Medvedev:
+We also believe that we will be able to do as much as we can during
+these years to ensure the development of our country, so that it can become
+stronger, modern and prosperous, so that people in our country can feel as
+comfortable as possible, and all the tasks that we are working on now, including
+in education, healthcare and social security, can be accomplished.
+The world
+does not stand still, so it is hard to guess what it will be like by 2050 or
+any other date, for that matter. Clearly, it will be more reliant on high
+technology, with artificial intelligence being used everywhere. I think we
+could also strengthen our cooperation in this area, in the sectors where modern
+artificial intelligence is used in one form or another, and we can also lay a
+foundation to build upon in the future. I mean driverless cars, which are
+gradually appearing in the world. This is also about the future, and we should
+also cooperate in this area given the potential for technological development
+that we possess.
+Most
+importantly, we must retain good and friendly relations between our countries
+and our peoples, the atmosphere of trust which has invariably been typical of
+our cooperation in recent years. Our countries can influence many things at
+international venues, our countries are very important global players, they are
+permanent members of the UN Security Council and simply have friendly feelings
+towards each other. That is why we will strengthen our relations with the
+People’s Republic of China in the international arena as well.
+Anchor:
+What role will China
+and Russia be playing in the international arena by that time?
+Dmitry
+Medvedev:
+I strongly believe that jointly with the People’s Republic of China we
+will play a significant role in making the most vital decisions for the
+development of our countries and the promotion of intergovernmental and
+international cooperation. Our countries are bearing great responsibility. The
+People’s Republic of China is one of the world’s largest economies. I do not
+think it would be an exaggeration to say that in the near future China will
+obviously become the world’s largest economy, and this of itself is a major
+factor of development. Our country is also a major participant in the global
+dialogue of the international community. We are permanent members of the
+Security Council and take decisions in very difficult situations as we are
+responsible for peace on the planet. I believe we will be able to continue
+cooperating like this.
+Anchor:
+What song would
+you recommend to our internet users both for singing and simply listening?
+Dmitry
+Medvedev
+: I think acquaintance with Russia should start with famous songs. For
+instance, Katyusha is a song from a certain historical period. It is well known
+in Russia, China and other countries. By the way, Katyusha is also the name of
+a new channel which is about to start broadcasting for the Chinese audience. So I
+invite everyone to watch it.
+Government of the Russian Federation
+http://government.ru/en/news/29971/
+Highlight selection

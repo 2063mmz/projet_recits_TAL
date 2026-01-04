@@ -1,0 +1,35 @@
+seed_url: http://en.kremlin.ru/events/president/news/60373
+final_url: http://en.kremlin.ru/events/president/news/60373
+title: Vladimir Putin arrived in China
+date: 2019-04-25
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Vladimir Putin arrived in China
+Vladimir Putin arrived in Beijing for a working visit, where he will attend the second Belt and Road International Forum.
+April 25, 2019
+15:50
+Beijing
+Arrival in Beijing.
+The Russian President will also hold
+talks with President of the People’s Republic of China Xi Jinping to discuss the further development of Russian-Chinese comprehensive partnership and strategic
+cooperation, as well as current regional and international affairs.
+In addition to this, a number of bilateral meetings
+are planned between the President of Russia and the leaders of the countries
+taking part in the forum.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in section:
+Publication date:
+April 25, 2019, 15:50
+Direct link:
+en.kremlin.ru/d/60373
+Text version

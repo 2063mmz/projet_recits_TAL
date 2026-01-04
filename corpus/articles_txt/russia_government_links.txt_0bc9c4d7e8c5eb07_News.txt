@@ -1,0 +1,94 @@
+seed_url: http://special.government.ru/en/news/56714/
+final_url: http://special.government.ru/en/news/56714/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Alexei Overchuk’s address to the summit of APEC economies
+31 October 2025
+10:20
+Gyeongju, Republic of Korea
+Alexei Overchuk’s address to the summit of APEC economies
+31 October 2025
+Alexei Overchuk’s address to the summit of APEC economies
+31 October 2025
+Предыдущая новость
+Следующая новость
+Alexei Overchuk’s address to the summit of APEC economies
+Deputy Prime Minister Alexei Overchuk, who led the Russian delegation at the APEC forum, addressed the APEC summit.
+Excerpts
+from the transcript:
+Mr Chair, heads of state and government, colleagues.
+We would like to express our gratitude for a hospitable welcome accorded to us by the Republic of Korea.
+The current situation in the global and regional
+economies calls for a collective response to global challenges. We are
+witnessing the disruption of global links and production chains, and the destruction of the fundamentals of the multilateral trade system in the form of the WTO, including the most favoured nation regime. Unilateral sanctions and tariffs are threatening the stability of regional markets, jobs and incomes. Of course, new supply chains are being created, new investment flows are
+initiated, and business is adapting to new conditions. But this entails
+material costs.
+We must not allow these destructive trends to undermine the positions of this region as a global economic driver. We should
+revive the spirit of multilateralism and solidarity as a counterbalance to the logic of confrontation.
+We should learn to better understand each other. This
+also concerns Ukraine. We cannot accept the fact that people are being killed
+because they want to speak Russian. We cannot accept the fact that people are
+being killed because they want their school-age children to have an opportunity
+to study in the Russian language. We cannot accept the fact that people are
+being killed because they want to go to the Russian Orthodox Church. We cannot
+accept the fact that security of some is ensured at the expense of others. We
+believe that the current conflict can be settled and a durable peace can be
+established if the root causes of that conflict are eliminated, and we are
+conducting diplomatic negotiations on this topic.
+On the other hand, we believe that if our countries
+work together, this will create more opportunities than risks. Russia is making
+its contribution to regional dynamics. Our economy has demonstrated resistance
+to modern challenges and is developing. We are strengthening the national
+production base. We are advocating the open Greater Eurasian Partnership
+initiative, which is consonant with the APEC’s vision. It is based on the idea
+of integrating integrations, enhancing connectivity, harmonising regulatory
+systems, lifting barriers and creating better competitive conditions for our
+producers.
+We are trying to improve business climate in Greater
+Eurasia. We are considering a network of free trade agreements as an instrument, and we are using it together with our partners in the Eurasian
+Economic Union.
+APEC, which has been created as a platform for boosting
+trade and investment, should focus on the comprehensive connectivity of institutions, regulatory functions, and human contacts.
+We are working in this context to improve our Far
+Eastern rail infrastructure and Pacific ports. We are also building up
+possibilities for using the Northern Sea Route, the shortest route between this
+region and Europe.
+We are improving the connectivity of the Eurasian
+space on the East-West track, where we are working together to align Eurasian
+integration with China’s Belt and Road Initiative, as well as on the North-South track.
+Colleagues,
+The transformation of the global economy is connected
+to transitioning to a new technological paradigm. Artificial intelligence is
+playing a key role here. It is imperative to use this instrument for enhancing
+the well-being of the people and to prevent it from being used to create new
+threats and digital divides. Russia is relying on the relevant UN mechanisms to ensure a more efficient use of the AI potential and to minimise risks. APEC has
+an important role to play as a platform for exchanging best practices and implementing projects.
+AI development has significantly increased energy
+demand. All types of energy resources, including natural gas and nuclear
+energy, should be used for this purpose on the principles of technological
+neutrality.
+We welcome the APEC’s resumption of realistic energy
+development scenarios this year, with emphasis on energy security and affordable energy.
+We support the idea of creating non-discriminatory trade
+conditions in the APEC region. This year, the forum’s member countries have
+clearly spoken for the uninterrupted delivery of vital goods and services, in particular, in agriculture and healthcare.
+Our business community is making a substantial
+contribution to the development of our ties. The experience of our joint
+cooperation within APEC allows us to shape a clear view of the future and to adapt to it.
+We believe that the success of these efforts is
+assured by our mood for constructive cooperation, for adopting decisions based
+on consensus, and our focus on the substantive topics of the forum.
+In conclusion, I would like to once again express our
+gratitude to the Republic of Korea for the brilliant organisation of the summit.
+Thank you.
+Person:
+Alexei Overchuk
+Government of the Russian Federation
+http://special.government.ru/en/news/56714/
+Highlight selection

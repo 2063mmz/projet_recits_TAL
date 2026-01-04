@@ -1,0 +1,193 @@
+seed_url: http://special.government.ru/en/news/46350/
+final_url: http://special.government.ru/en/news/46350/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Expanded meeting of Eurasian Intergovernmental Council
+26 August 2022
+09:30
+The participants discussed topical matters related to achieving deeper integration within the EAEU, including efforts to create a shared natural gas market, industrial cooperation financing, promoting integration-oriented transport projects, and regulating the alcohol market.
+Mikhail Mishustin’s remarks at
+the meeting
+Signed documents
+Delegation heads taking part in an expanded meeting of the Eurasian Intergovernmental Council:
+Prime Minister of the Republic of Armenia Nikol Pashinyan;
+Heads of delegations participating in the meeting of the Eurasian Intergovernmental Council
+26 August 2022
+Mikhail Mishustin at the expanded meeting of the Eurasian Intergovernmental Council. Deputy Prime Minister of the Russian Federation Alexei Overchuk
+26 August 2022
+Mikhail Mishustin at the expanded meeting of the Eurasian Intergovernmental Council
+26 August 2022
+Предыдущая новость
+Следующая новость
+Heads of delegations participating in the meeting of the Eurasian Intergovernmental Council
+Prime Minister of the Republic of Belarus Roman Golovchenko;
+Prime Minister of the Republic of Kazakhstan Alikhan Smailov;
+Chairman of the Cabinet of
+Ministers, Chief of Staff of the Presidential Executive Office of the Kyrgyz
+Republic and Chair of the Eurasian Intergovernmental Council Akylbek Japarov;
+Prime Minister of the Russian Federation Mikhail Mishustin;
+Prime Minister of the Republic of Cuba Manuel Marrero Cruz (via video link-up);
+Prime
+Minister of the Republic of Uzbekistan Abdulla Aripov;
+Prime
+Minister of the Republic of Azerbaijan Ali Hidayat oglu Asadov;
+Chairman of the Board of the Eurasian Economic Commission Mikhail Myasnikovich.
+Mikhail Mishustin’s remarks at the meeting:
+Japarov, colleagues.
+would like to join those who have already thanked our colleagues in Kyrgyzstan
+for their traditionally warm welcome and for the wonderful arrangements at this
+event.
+Let
+me also convey my special welcome to Prime Minister of Uzbekistan Abdulla
+Aripov and the special guest, Prime Minister of Azerbaijan Ali Asadov, as well
+as representatives of observer states and our distinguished guests who are all
+taking part in this meeting.
+The
+situation has been changing rapidly since the last time we met in Minsk. The
+collective West has been building up its sanctions pressure on Russia and
+Belarus, even though those who initiated this policy have already felt its
+negative consequences. It has destabilised the international economy and trade,
+disrupting the usual links and processes.
+However,
+the Eurasian Economic Union has proven its effectiveness, as demonstrated by
+its key indicators. In the first quarter of 2022, the EAEU’s GDP increased 3.5
+percent. In the first six months of the year, agricultural output has been
+growing. Industrial output was up by almost 2 percent. Importantly, within our
+union, unemployment declined by a third (34 percent) during this period.
+The transition to national currencies in mutual
+settlements is underway and has reached 75 percent. We urge our colleagues to adopt
+our own international financial mechanisms as soon as possible.
+In the current conditions it is crucial to maintain
+the momentum and minimise the negative impact of sanctions on the member
+states, and to ensure the wellbeing of our citizens.
+To this end, it is necessary to jointly respond to new
+challenges and threats. As President of Russia Vladimir Putin emphasised at a
+meeting of the Supreme Eurasian Economic Council in May, a closer integration
+will allow our economies to become stronger and significantly reduce our
+dependence on external conditions, including the political environment.
+The range of measures aimed at improving the
+sustainability of the economies of the EAEU member states serves this purpose
+as well. It covers the four key areas: the customs, customs tariff and
+non-tariff regulation, the domestic market and cooperation, financial and
+foreign exchange markets, as well as international cooperation with third
+countries and integration associations. It is important to continue the
+consistent work to implement these measures.
+Entrepreneurs require special attention. The decision
+to reduce import customs duties to zero has allowed them to save significant
+resources and use them for development, and also to provide uninterrupted
+imports of priority goods that our people need.
+There will be another mechanism to assist businesses;
+we agreed on it yesterday and discussed it in detail. It is the Eurasian
+Reinsurance Company; we have agreed to establish it. The organisation will
+provide insurance support for mutual and foreign trade, boost the development
+of investment cooperation and provide for export loans and interaction with
+credit agencies and insurers.
+Plans include issuing our own securities and funding
+projects. I want to emphasise that the company is open to new international
+partners.
+Another goal is to strengthen industrial cooperation
+and develop our own production facilities more actively. We also spoke about this
+in detail yesterday.
+The EAEU Industrialisation Map provides good
+opportunities in this area. The map contains information about more than 150
+investment projects; 27 of them have already been implemented in the
+automobile, chemical, metal, medical, pulp and paper and other industries.
+Thirteen of the projects are Russian. We are ready to supply our friends and
+partners with contemporary and competitive goods manufactured as part of these
+projects.
+Let me say a few words about food
+security. The Western states are trying to shift the blame for the global food
+crisis onto our country. At the same time, they are well aware of the fact that
+it is their actions which have caused the current situation. The illegitimate
+sanctions against Russia have exacerbated the negative global trends.
+International financial corporations, logistics companies and banks stopped
+funding, insuring and servicing transactions to sell food and fertiliser coming
+from Russia. Foreign port terminals have been blocked.
+In this regard, the five EAEU
+members have a clear advantage. We have reached a high level of
+self-sufficiency in terms of the main agricultural products. The Eurasian
+Economic Union is the world’s largest agricultural exporter, and we stand ready
+to perform our obligations in full and on time.
+During the May meeting of the
+Supreme Eurasian Economic Council, President of Russia Vladimir Putin said that
+Russia, as well as other EAEU members have been contributing in meaningful ways
+to addressing the food security issue and have been acting with a sense of
+utmost responsibility.
+I am calling on my colleagues to
+stay on course and to do everything to develop agriculture and protect our own producers.
+Of course, we also need to move consistently towards establishing a common
+agricultural market by making the appropriate decisions.
+We need to inject more momentum
+into ensuring the free movement of goods, services, capital and labour. In the
+first six months of this year, we removed five barriers, two obstacles and one
+exemption, with about 50, or 48 to be more precise, to go.
+In order to promote deeper trade
+and economic cooperation within the EAEU and with our external partners, we
+need to continue building a single transport space and fulfilling the union’s
+transit potential.
+In this regard, carrying out the
+priority integration projects to develop transport infrastructure will be an
+important step. This will help us develop the East-West and North-South
+corridors, including as part of the effort to promote connectivity with the
+Belt and Road Initiative.
+Colleagues, over the past months
+we have been paying a lot of attention to the union’s internal agenda. At the
+same time, the EAEU has been stepping up its constructive dialogue with other
+countries and organisations.
+We believe expanding ties with
+our partners in the Commonwealth of Independent States to be a major priority.
+These are our closest neighbours, friends, and allies. Considering the
+adjustment of logistics chains and routes, we stand for promoting constructive
+cooperation with countries in the Asia-Pacific, the Middle East, Latin America
+and Africa. It is important that in doing so we rely on the experience we have
+in working with China, Egypt, India, and Iran, as well as regional
+associations, such as the SCO and ASEAN.
+I am certain that this approach will
+create the necessary conditions for promoting our goods on the global markets,
+and will reinforce the Eurasian Economic Union’s standing on the international
+stage.
+Colleagues,
+The trust and mutual respect that
+bind together the five EAEU countries have enabled us to be effective in our
+joint efforts when addressing the most challenging issues even against the
+backdrop of unprecedented sanctions and restrictions.
+Importantly, our people support
+integration, as confirmed by the interest in the CIS and EAEU Youth Forum,
+which is held for the first time here, in Kyrgyzstan, these days. I strongly
+believe that it will emerge as a major platform for bringing together proactive
+young people from our countries. They are the ones who can offer a fresh
+perspective on integration, and offer new ideas and approaches. This is what
+all associations need in order to accelerate their development and become
+stronger. We stand ready to support initiatives of this kind.
+Documents
+signed following the meeting of the Eurasian Intergovernmental Council:
+Directive on “Financing industrial cooperation in the Eurasian Economic Union”
+Instruction on “Drafting the agreement on alcohol market regulation within the
+Eurasian Economic Union”
+Instruction on “Drafting the protocol on amendments to the Treaty on the
+Eurasian Economic Union dated 29 May 2014 regarding the procedure for
+collecting indirect taxes on the online sales of goods to individuals”
+Statement on the “Draft agreement establishing the Eurasian Reinsurance Company”
+Instruction on “Drafting an agreement establishing the Eurasian Reinsurance Company”
+Directive on the “List of priority integration projects for transport
+infrastructure in the Eurasian Economic Union member states”
+Directive on “Further efforts to expand the use of national currencies of the
+Eurasian Economic Union member states when performing settlements in mutual
+trade”
+Directive on “The time and place of the Eurasian Intergovernmental Council
+meeting”
+Directive on “Submitting a candidate for membership of the Council of the
+Eurasian Economic Commission to the Supreme Eurasian Economic Council”
+Directive on “Submitting a candidate for membership of the Board of the
+Eurasian Economic Commission to the Supreme Eurasian Economic Council.”
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://special.government.ru/en/news/46350/
+Highlight selection

@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2025/10/13/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%80%F0%9D%90%9D%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AC-2/
+final_url: https://www.ifa.gov.et/2025/10/13/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%80%F0%9D%90%9D%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AC-2/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐬 𝐆𝐚𝐬 𝐚𝐧𝐝 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐭𝐨 𝐁𝐨𝐨𝐬𝐭 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐧𝐝 𝐅𝐨𝐨𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
+date: Oct 13, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+H.E. Prime Minister Abiy Ahmed Ali inaugurated the first phase of the
+Ogaden Liquefied Natural Gas (LNG) Project and laid the foundation for the Gode Urea Fertilizer Plant and Gode Oil Refinery in the Somali Region. These initiatives reinforce Ethiopia’s commitment to energy security, industrial transformation, and food self-sufficiency.
+The 1,000-megawatt LNG project will significantly enhance industrial and agricultural productivity, while the transition of public transport in Addis Ababa to gas-powered vehicles is expected to reduce operational costs and promote sustainable urban mobility.
+Through strategic incentives and regulatory measures, Ethiopia continues to foster investment in sustainable energy and industrial projects, advancing its broader vision of inclusive economic growth, resilience, and regional cooperation.

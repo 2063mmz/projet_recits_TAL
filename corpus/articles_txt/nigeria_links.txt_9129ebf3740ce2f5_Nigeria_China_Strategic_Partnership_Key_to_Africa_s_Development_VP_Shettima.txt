@@ -1,0 +1,27 @@
+seed_url: https://statehouse.gov.ng/nigeria-china-strategic-partnership-key-to-africas-development-vp-shettima/
+final_url: https://statehouse.gov.ng/nigeria-china-strategic-partnership-key-to-africas-development-vp-shettima/
+title: Nigeria, China Strategic Partnership Key to Africa’s Development– VP Shettima
+date: October 17, 2023
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+**Says President Tinubu’s foreign policy drive boosting investors’ confidence*
+Vice President Kashim Shettima said today that Nigeria’s strategic partnership with China needs to be scaled up, as it remains key to Africa’s development.
+This, he assured, is in progress on the part of Nigeria, just as he said since assuming office, President Bola Ahmed Tinubu has strategically tinkered with the country’s foreign policy to drive and boost investors’ confidence.
+To augment this, the Vice President noted that President Tinubu has walked the talk by creating levellers for the ease of doing business in Nigeria.
+The Vice President who is representing President Tinubu at the ongoing Belt And Road Initiative Forum in Beijing, China, stated this when he was hosted by his People’s Republic of China counterpart, Vice President Han Zheng, at the Diaoyutai State Guest House, Beijing.
+He expressed profound gratitude for the warm reception accorded his delegation, noting that Nigeria and China, having celebrated 50 years of diplomatic relations in 2021, must now take their destinies into their own hands.
+Declaring that the rest of Africa stands to gain from a successful Nigeria, VP Shettima said, “Our mutually beneficial relationship will be further enhanced and upgraded to a comprehensive strategic partnership.
+“Nigeria is China’s second-largest trading partner in Africa; it is the largest economy in Africa and the most populous country in the African continent. The Belt and Road Initiative is a big beautiful concept that can be deployed to achieve this”.
+The Vice President drew attention to the burgeoning relationship between Nigeria and China, stating that both countries stood to gain mutually from their friendship.
+On his part, Vice President Zheng assured his Nigerian counterpart of continued partnership with Nigeria, hinting that President Jinping’s meeting with VP Shettima would enhance political mutual trust, advance practical cooperation and better develop the bilateral relation between the two countries.
+Vice President Shettima was later a guest at the State Banquet hosted by President Jinping and his wife, Madame Peng Liyuan.
+In the meantime, attention and focus would shift to the opening ceremony of the Belt and Road Initiative Forum at the Great Hall in Beijing billed for tomorrow.
+VP Shettima is expected to proceed to the National Convention Centre to deliver his Paper titled, “Digital Economy As A New Source Of Growth”.
+A bilateral meeting with the Chinese President and Prime Minister of Pakistan is also on the VP’s itinerary, just as he and other members of his delegation will be presiding over meetings with management of top construction, technology, finance and communication giants in China.
+*Stanley Nkwocha*
+*Senior Special Assistant to the President on Media & Communications*
+*(Office of the Vice President)*
+*17th October, 2023*

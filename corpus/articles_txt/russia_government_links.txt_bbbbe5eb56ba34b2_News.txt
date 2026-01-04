@@ -1,0 +1,95 @@
+seed_url: http://government.ru/en/news/49881/
+final_url: http://government.ru/en/news/49881/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s meeting with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+25 October 2023
+18:30
+The meeting took place on the sidelines of the SCO heads of government summit.
+Mikhail Mishustin with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+25 October 2023
+Mikhail Mishustin with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+25 October 2023
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin with Prime Minister of Mongolia Luvsannamsrain Oyun-Erdene
+Excerpts from
+the transcript:
+Mikhail
+Mishustin:
+Mr Oyun-Erdene, greetings! First of all, please
+convey best wishes to President of Mongolia Mr Khurelsukh from
+President of the Russian Federation Vladimir Putin, and from me personally.
+I fondly recall my meeting with the President in December 2021 during his visit to Russia.
+Mongolia is our strategic partner. Our relations are based on centuries-old friendship, cooperation, and mutual support of the peoples of Russia and Mongolia.
+We also value our traditions of military brotherhood –
+next year we will celebrate the 85th anniversary of our joint victory in the battle on the Khalkhin Gol River.
+Over 10,000 soldiers and commanders of the Red Army gave their lives for the freedom and independence of Mongolia
+in that decisive battle with militarist Japan.
+And we faithfully preserve the memory of the support
+that Mongolia
+provided to our country during the Great Patriotic War.
+The Russian side gives priority attention to expanding
+trade and economic cooperation with Mongolia and implementing strategic
+projects in energy, industry, transport and culture.
+Last year, our trade grew by 41 percent to 180 billion
+Russian roubles, or 8 trillion Mongolian tugriks.
+Not long ago, the 25
+meeting of the Joint
+Commission on Trade and Economic Cooperation took place with Viktoria
+Abramchenko visiting hospitable Ulan-Bator to participate in it.
+Education is high on our list of cooperation projects.
+Over 60,000 Mongolian students have successfully completed their studies at Russian universities and secondary education institutions. We will continue to expand the government quota for Mongolian students to study at Russian
+universities. The tuition will be covered from the federal budget.
+Our nations are united by extensive cultural ties. In May, the Russian House in Ulan-Bator hosted an exhibition from the Russian
+National Museum of Music commemorating the 150
+anniversary of the birth of outstanding Russian composer Sergei Rachmaninoff.
+Esteemed Mr Oyun-Erdene, we have an extensive agenda
+to cover, and I am pleased to invite you to be our next speaker.
+Visit
+Meeting of the CIS Council of Heads of Government
+Meeting of the Eurasian Intergovernmental Council
+Meeting of the SCO Heads of Government Council
+Mikhail Mishustin’s meeting with First Vice President of the Islamic Republic of Iran Mohammad Mokhber
+Mikhail Mishustin’s meeting with Premier of the State Council of the People's Republic of China Li Qiang
+Briefing by Alexei Overchuk following the meetings of the Eurasian Intergovernmental Council, the CIS Council of Heads of Government and the SCO Council of Heads of Government
+Luvsannamsrai Oyun-Erdene
+via
+interpreter
+): Esteemed Prime Minister of the Russian Federation, Mr Mishustin, this meeting is taking place
+following the meeting between the presidents of our countries during the Belt
+and Road summit in China.
+As you rightly noted, we have recently held a meeting of the intergovernmental
+commission. It is profoundly symbolic that we are now meeting to discuss
+bilateral cooperation.
+To commemorate the centenary of diplomatic relations,
+we had a telephone conversation where I offered my congratulations on that
+significant milestone.
+We also celebrated the centenary of our People's
+Revolution and our nation's independence. The 100-year history of our
+sovereignty and independence is closely tied to our friendly relations and cooperation with Russia.
+As we are entering the 101
+year of our
+relations, regrettably, we have encountered shared challenges, such as the Covid-19 pandemic and aggravated geopolitical situation.
+However, it is important to note that during this
+century of partnership and friendly ties, we have achieved remarkable feats,
+including the victory at Khalkhin Gol. We will commemorate the 85
+anniversary of joint victory in the Battle of Khalkhin Gol next year.
+I heard your grandfather took part in that battle. As you accurately pointed out, and the President of the Russian Federation also noted that
+10,000 Red Army soldiers laid down their lives for our country’s independence
+and sovereignty. Mongolian soldiers stood side by side with your soldiers to defend our shared interests.
+I would like to take this opportunity to reiterate my readiness to share a meal of borscht with you in Moscow.
+Mikhail
+Mishustin
+: We can consider doing so in Bishkek as well.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/49881/
+Highlight selection

@@ -1,0 +1,21 @@
+seed_url: https://president.mn/en/2019/05/28/meeting-with-ambassadors-of-the-european-union-and-its-member-states-2/
+final_url: https://president.mn/en/2019/05/28/meeting-with-ambassadors-of-the-european-union-and-its-member-states-2/
+title: MEETING WITH AMBASSADORS OF THE EUROPEAN UNION AND ITS MEMBER STATES
+date: 2019-05-28T13:18:43+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/05/28 9:18:43
+MEETING WITH AMBASSADORS OF THE EUROPEAN UNION AND ITS MEMBER STATES
+President of Mongolia Khaltmaagiin Battulga received ambassadors of the European Union (EU) and its member states accredited to Mongolia today.
+The meeting of resident and non-resident ambassadors of the EU member states to Mongolia has been regularly organized in Ulaanbaatar since 2009. The 11th meeting takes place on May 28-29.
+Present at this meeting were, Ambassador Extraordinary and Plenipotentiary of the EU to Mongolia, Mr. Traian Laurentiu Hristea, 20 ambassadors, and representatives of six missions.
+At the beginning of the meeting, President Battulga expressed his pleasure with meeting the ambassadors and delegates again and extended greetings on the occasion of the 30th anniversary of diplomatic relations between Mongolia and the EU. President Battulga spoke in detail about the policies and activities that are being implemented in Mongolia.
+The ambassadors raised questions concerning the President’s state visit to the People’s Republic of China, the Belt and Road initiative, and recent developments in the domestic legal system and discussed in depth about the diversification of the Mongolian economy.
+For instance, President Battulga highlighted the announcement made by President Xi Jinping during his visit that China was looking to develop as an importer nation, while expressing his view that it would create an opportunity of increased export for neighboring Mongolia. President Battulga shared his vision on Mongolia’s export potentials, especially in the sectors of agriculture and tourism, and the possibility of exporting value-added products originating from these sectors to China and the surrounding region.
+President Battulga spoke about the substantial opportunities for Mongolia to export goods to the EU market and its neighbor countries by promoting cooperation based on not only agriculture, the traditional economic sector of Mongolia, but also the processing industry, and introducing and adopting advanced technology, know-how, and expertise from European countries.
+The ambassadors expressed their readiness to explore the possibilities of broadening cooperation in these areas. In this regard, the sides discussed and reached an understanding on the matter of organizing an extended-format joint meeting with entities next fall, with the purpose of improving connectivity between Mongolian companies and EU entities and investors and increasing export opportunities.
+The ambassadors expressed interest in and discussed the Northeast Asia Energy Super Grid Project, an initiative of President Battulga.
+At the end of the meeting, President Battulga expressed his confidence that the ambassadors will pay close attention to the strengthening of bilateral relations and cooperation and wished success in their duties.

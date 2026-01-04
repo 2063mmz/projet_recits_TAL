@@ -1,0 +1,407 @@
+seed_url: http://government.ru/en/news/25191/
+final_url: http://government.ru/en/news/25191/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev’s interview with China Central Television
+4 November 2016
+17:00
+Dmitry Medvedev spoke with Global Watch host Shui Junyi ahead of a meeting between the heads of government of Russia and China.
+Dmitry Medvedev’s interview with China Central Television
+Shui Junyi
+(via interpreter)
+We are in the Moscow residence of the Prime
+Minister of Russia, and we have an opportunity to interview and exchange
+opinions with Prime Minister Dmitry Medvedev.
+My first question concerns your 21
+regular meeting with Premier of the State Council Li Keqiang. What do you expect from the upcoming visit of Mr
+Li Keqiang? Bilateral trade is expected to reach $200 billion in 2020. How far are we from achieving this goal and
+what can be done to promote bilateral trade?
+Dmitry Medvedev:
+The situation in the global economy and our national economies is changing. Some 10 years ago, our goal was to achieve $100
+billion in mutual trade. We reached this goal by 2014.
+At the same time, we must bear in mind that the situation in our countries
+depends on domestic and international conditions.
+Our trade, which plunged by about one-third during the 2008-2009 economic
+crisis, soared to a very high level in 2014,
+when we practically reached the goal set 10 years ago.
+We have set ourselves a new goal now, to increase bilateral trade to
+$200 billion. How can we achieve this goal?
+Our economies are on the rise. The Russian economy is hindered by several
+negative processes which have an impact
+on our economic development, but we also see some positive prospects. At
+this point, we are working to overcome the consequences of several negative
+factors. One of the negative factors that
+affected our trade was the weakening of the rouble, which resulted in a
+decrease of our imports. Logically, this
+affected our trade statistics last year.
+We have improved bilateral trade this year thanks to the cooperative
+efforts of our countries, leaders, governments, ministries, agencies and
+business communities. I am confident that if
+we carry on in this spirit we will definitely reach the $200 billion mark.
+However, this calls for focusing on the key spheres of our cooperation,
+where we have laid substantial groundwork. I am referring to the energy
+industry, which has been growing at a commendable pace and where several large
+projects are being implemented, such as the Power of Siberia gas pipeline. The
+construction of its eastern route was launched in 2015. Other projects concern oil deliveries via the
+Skovorodino-Mohe pipeline and the construction of large facilities such as the
+second phase of the Tianwan nuclear power station. There
+are also new projects to create new technology, including a wide-body aircraft
+and a heavy-lift helicopter, as well as several other high-tech projects.
+I believe that if we work to diversify mutual trade, the goal we set
+ourselves several years ago will be well within our reach. I hope our countries
+will be acting in this spirit. That was my answer to the first part of your
+question.
+As for Premier Li Keqiang’s visit to Russia, we very much look forward
+to it. It will be a traditional meeting of the
+Russian and Chinese heads of government, which is held alternatively in China
+and Russia. This time, we will host it in St
+Petersburg, my home town, as we agreed with Mr Li Keqiang. I hope that this time it will be not just a
+productive meeting but also a memorable event for our Chinese friends.
+Shui Junyi
+via interpreter
+You mentioned the bright prospects for Russia-China trade. I hope
+that the St Petersburg meeting will be instrumental in achieving the stated
+objectives.
+Fairly
+constructive meetings took place during the G20 summit in Hangzhou in
+September, where the participants discussed ways to reinvigorate international
+trade and investment. What do you think about the protection measures that are
+currently applied within the WTO? What solutions could Russia offer?
+Dmitry Medvedev:
+The G20 countries account for about 80 percent of international trade and about
+90 percent of the global GDP. In fact, the issues that the G20 members discuss
+are relevant for the entire global economy. Among other issues, the summit
+participants discussed protectionism.
+Protectionism is not something new.
+It has always been a response to external challenges. But in the context of
+globalisation, protectionism is to some extent the reverse side of the
+globalised growth of national economies and the global economy in its entirety.
+As you may recall, not so long ago, there always were groups of self-proclaimed
+anti-globalists at the G8 and G20 summits who claimed that they were against
+the trend toward globalisation. We see less of that now, because there are more
+actual challenges to deal with, such as migration and the economic crisis. The
+anti-globalisation sentiment is still there nonetheless. Admittedly, it is
+shared not only by protestors with placards, but also a number of politicians,
+including members of national governments. Hence, the desire to close off
+markets, turn their backs on international partners and maintain, in every possible
+way, the status quo on their respective domestic markets.
+This
+is not as simple as it may seem, because any national government is interested
+in supporting domestic producers and, in this sense, in one way or another, is
+forced to consider measures to protect its market. However, such measures taken
+by national governments in different countries should not contradict general
+provisions governing international trade, including the ones set forth by the
+World Trade Organisation.
+the way, it took us a while, just like our friends from China, to join the WTO.
+Remember how much time we spent in the waiting room, both Russia and China? No
+country spent more time waiting to be admitted to the WTO than our countries.
+And now they are telling us, “you know, the WTO is obsolete, it’s time to
+create new trade alliances.” We disagree. We must make full use of all the
+agreements that we reached as WTO members. Of course, the WTO has its share of
+problems and, probably, is not an absolutely all-purpose regulator, but that’s
+all we have. Any attempt to replace the WTO with some surrogates is a dangerous
+proposition.
+Various
+protectionist solutions often conceal a desire to destroy the World Trade
+Organisation and to replace it with something else. We oppose this. We, the WTO
+members, should be guided by the international trade principles that are
+incorporated in the WTO, even if these principles are not always good for the
+particular situation at hand. We should share the spirit of the World Trade
+Organisation to make correct decisions. Therefore, it will always be fairly
+complicated to coordinate the interests of domestic producers while maintaining
+competition, but we must find the golden mean in this regard.
+The
+Russian Federation is willing to do so. We are promoting our trade relations
+with all countries. With our Chinese friends, we are trying to develop
+extensive relations, not only bilateral, but also multilateral, given our
+capabilities. We will send a message to all other partners to act accordingly,
+rather than to sacrifice the WTO principles and modern principles of
+international trade just for the sake of certain political interests or
+programmes.
+Just
+look at the political battles and debates in the United States and some other
+countries. They focus on issues such as “how do we close our market” to Chinese
+or other foreign-made goods. Those who adopt the toughest position often
+receive extra points. I think that in this regard we should try to adhere to a
+reasonable and balanced policy and act in a consolidated manner in order to
+promote the principles of international trade.
+Shui Junyi
+(via interpreter)
+You mentioned
+the election campaign in the United States. Have you noticed that both nominees
+very often mention our countries, Russia and China, in their polemics?
+Dmitry Medvedev:
+These are their domestic
+elections, not elections in China or Russia. In theory, they should be speaking
+about their domestic problems rather than resorting to some horror stories.
+Shui Junyi
+(via interpreter)
+Yes. Now let’s turn to the One Belt, One Road (OBOR) initiative. You said
+Russia and other EAEU countries will be able to benefit from this Chinese
+initiative. What benefits and opportunities will they receive? And what is the
+plan for aligning this initiative with the EAEU?
+Dmitry Medvedev:
+In fact, this is a
+continuation of the answer to the previous question because to develop our
+economies we should use not only bilateral opportunities but also broader
+integration platforms. One of such projects is designed to align the OBOR idea
+and concept with the EAEU.
+Our presidents agreed to do this last year. Now our governments are
+studying ways of uniting the benefits of the two models. I think this is fairly
+realistic. We have common interests and common areas of work.
+Thus, it is important to understand that the EAEU countries, including
+the Russian Federation, are enormous transit zones. The alignment of the two
+projects may directly lead to cargo transportation from China to Western Europe
+via their territory. We believe these transport corridors and their logistics
+are a very important and interesting area of focus. Now experts are considering
+quite a few bright ideas in this regard.
+This is just one area. There are also others, including the use of
+opportunities offered by the national markets and elaboration of proposals on
+high technology and development of new production lines. We have many projects
+that we will try to carry out with our colleagues.
+Therefore, I think this is a good idea that can be successfully
+implemented in our economies, especially now that many countries are trying to
+establish large economic alliances. Needless to say, we are not against them.
+There is nothing bad about them, but it is important to make sure that this is
+done on the basis of transparent rules and the WTO principles I mentioned.
+I am referring to the Transatlantic Trade and Investment Partnership and
+the Trans-Pacific Partnership Agreement. Let other countries go for such
+economic projects and integration, and we will develop our own integration
+projects. Eventually, this alignment may turn into a project of fully fledged
+trade and economic partnership between the People’s Republic of China and the
+Eurasian Economic Union with free trade areas and some other elements of
+economic cooperation, on which we are also working now.
+Shui Junyi
+(via interpreter)
+Mr Prime
+Minister, this morning I had a cup of coffee at the hotel where I am staying
+and paid for it with a UnionPay card. I received a confirmation message on my
+cell phone, saying that I had paid a bill at a hotel in Russia and that the
+rouble equivalent of the bill was converted into Chinese yuan. I thought that
+this was very convenient. I am sure that you also know that there are plans for
+the yuan to enter the Russian market. In the context of our wide-ranging trade
+and economic ties, I would like you to comment on the prospects for the yuan
+being used on the Russian market.
+Dmitry Medvedev:
+Everything began probably in 2008, when we, as well as our Chinese partners and
+other countries, were confronted with a global crisis and the question of
+whether the world currency system, which is based on one or maybe two
+currencies, could be trusted. These are primarily the dollar and partially the
+euro. We came to the conclusion that to ensure the smooth operation of the
+global economy the currency system should be based on multiple currencies. And
+one element of this multi-currency system, a more stable system, in my opinion,
+is the use of the yuan as a reserve currency. The quality of it as a reserve
+currency corresponds to the level of China’s economic development, and this is
+recognised by international financial institutions. We are pleased with this. I
+also have in mind, naturally, the possibility to invest a part of our reserves
+not only in dollar or euro instruments (securities and other financial
+instruments) but also in instruments denominated in the Chinese national
+currency. This is good because this makes the financial situation in the world
+more stable. This also opens new prospects for our relations. This also
+includes the national currency swap arrangements that exist between your
+National Bank and the Central Bank of the Russian Federation. Add to this the
+possibilities for direct settlements in national currencies, the yuan and the
+rouble, as well as the possibilities you just mentioned – in other words,
+opportunities for a great number of people to use the advantages of national
+payments systems, when your UnionPay card can be used to make payments in
+Russia.
+the way, we are currently considering ways of harmonising our national payments
+system and the card that we are going to issue, the Mir (World) card, on the
+one hand, and the UnionPay system, on the other hand. We believe that this
+would enhance the reliability of financial settlements. After all, what should
+we be guided by in building a modern financial system in China and in Russia?
+We should build a modern, well protected and at the same time sufficiently
+independent financial system that would be less exposed to political risks.
+know that in today’s world, under various circumstances, countries try to use
+all sorts of tools to exert political pressure. There is no hiding the fact
+that, for example, US financial institutions, financial authorities
+periodically fine European banks. They say: We will take 10 billion euros from
+a French bank and 7 billion euros from a German bank. Our European partners
+agree with that. I am not even talking about the nature of these disputes but
+the fact that we should protect our financial systems: the Chinese should
+protect their system while Russia should protect its own system. In this
+respect, this kind of cooperation is very useful because in this situation no
+one will be able to block the development of financial traffic. At any rate,
+this is something to look to, taking into account that at present all financial
+institutions are going through a new wave of development and the use of the
+most advanced financial technologies, including the much-touted blockchain
+technology and everything that is related to it, is just around the corner. If
+these technologies are put into financial practice then, to all appearances,
+many regulating tools will disappear, including those that we have actively
+discussed until recently and that are widely used today, for example, SWIFT
+notices, among other things. This is the future but we all need to prepare for
+this. So I believe that the use of the yuan in mutual settlements, the use of
+positions opened in yuan and roubles, mutual financial transaction technologies,
+and the use of co-branding cards – all of this is very useful for our
+countries.
+Shui
+Junyi
+(via interpreter)
+Speaking
+about Western sanctions against Russia, you have said that this is a road to
+nowhere, that you cannot use the policy of force and pressure against Russia.
+The last time we talked the economic situation in Russia and the world was
+good, but since then the price of oil has plummeted. These factors affect the
+Russian economy. What is the situation in Russia now, considering the global
+financial challenges?
+Dmitry Medvedev’s interview with China Central Television
+Dmitry Medvedev:
+Last
+time we met was in 2011, if memory serves. It was a time of economic recovery,
+when the global economy resumed growth, and this was also true for the Russian
+economy. The situation is more complicated now, for reasons that everyone
+knows. One of the biggest of them is low energy prices. Russia still has some
+problems connected with the structure of its economy. Sanctions are having an
+effect, too, but it should be remembered that sanctions affect both parties.
+Sanctions are a double-edged sword: those who adopt sanctions endanger their
+own businesses. I would like to remind you that sanctions were slapped on the
+Soviet Union about a dozen times in the 20
+century, and they did
+not achieve their goals. On the contrary, in some cases they resulted in the
+breakthrough growth of several technologies and industries, thereby
+strengthening the country’s focus on certain areas.
+Therefore, I view the current situation as normal on the whole. We
+expect this phase of GDP decline will be replaced with a growth phase as soon
+as this year, which is very good. We have already registered growth in a number
+of economic sectors and industries. In particular, our agriculture has reported
+unprecedented annual growth rates for the Soviet and post-Soviet periods –
+about 3 or even 4 percent. Russia has become the world’s largest grain
+exporter, and we are also making great strides in livestock production. By the
+way, we expect to develop full-scale trade in agricultural products with China,
+which is a large country and a huge market that needs a great amount of
+products.
+Our chemical and pharmaceutical industries are developing at a fast
+pace, and we are also implementing several large industrial projects. Life is
+not without problems, of course, but I believe that the macroeconomic situation
+has stabilised. It is a major achievement that we have slowed the inflation
+rate to about 5.5 percent this year. We expect to reduce it to 4 percent next
+year, which will allow us to adopt a lending policy that will be easier on the
+business community.
+This is what the situation is now. We are not overoptimistic, and we are
+not closing our eyes to problems, primarily structural problems in the national
+economy. We are set to deal with them, including in cooperation with our
+Chinese friends. Speaking about cooperative projects, I believe that we should
+join hands to develop the Russian Far East, where Chinese investors have
+decided to contribute to many investment projects worth tens of billions of
+roubles. I hope these projects will succeed; at least, the Russian Government
+is working towards this end, including with the help of China’s experience. We
+have adopted a programme of priority development areas and a corresponding law,
+and we have created many such areas based on the experience of other countries,
+including China.
+Shui Junyi
+via interpreter
+Following the global financial
+crisis, certain countries, such as the United Kingdom and the United States,
+put forward new industrialisation concepts. Please discuss how Russia thinks
+about this strategy and whether there are any specific steps to promote
+industrialisation.
+Dmitry Medvedev:
+we know, the world is going through the “post-industrial” phase of development.
+We live in a post-industrial economy and society. Therefore, innovative ideas
+have come to the forefront, including the concept of re-industrialisation, or
+new industrialisation. We believe that this is an objective process occurring
+not only in the United States and Great Britain, but also China and Russia. The
+question is how to go about it. As you may recall, at some point our countries
+successfully industrialised our respective economies and took them to the next
+level, leaving behind backwardness. However, the world does not stand still,
+and economies don’t stand still either, and now it really makes sense to focus
+on a new phase of industrialisation. What might this mean? First, this is not
+the same kind of industrialisation as in the 20
+century. This is
+industrialisation associated with the development of an innovation-driven
+economy and innovation-based, primarily IT-based, industries. The IT industry
+itself has morphed into a standalone engine of progress, an important industry
+in its own right. Therefore, when we say “industrialisation”, we are not
+talking simply about building new production plants to make machines or
+equipment. What we are referring to is the comprehensive development of
+industry and agriculture, because agriculture has also become an industry.
+order to create a new economy and take the economy to the next level, we have
+adopted a number of government programmes designed to expand industrial
+manufacturing. We have created a special industrial development fund. The total
+amount of funds to support the industry stands at about 200 billion roubles
+this year, which is a fairly significant amount for our budget. This is just
+state support, I am not talking about private investment now.
+have created a series of new tools, such as a special investment contract,
+which we offer to foreign investors as well, and provide guarantees that the
+terms and conditions under such a contract will remain unchanged over a long
+period of time. We engage in import substitution. In fact, this is also
+reindustrialisation, or a new wave of industrialisation, because we are forced
+to create production facilities which we did not have before. This is related
+to the sanctions and our current economic needs. New industries came to life as
+a result. This includes the pharmaceutical industry, a portion of the
+petrochemical industry, and, of course, the high-tech IT industry which I
+mentioned earlier. All services associated with using the IT industry and
+programming have, in fact, become a part of the import substitution programme
+and, therefore, represent a new wave in industrialising our economy.
+Last
+but not least, we're working every day according to the plan approved by our
+Government in order to stimulate additional sources of growth, to create new
+points of growth in our economy, and to spur our growth rates. It is important
+for everyone. It is important for our country, especially since we dipped into
+recession some time ago. It is important for the European and the US economies,
+which do not have high growth rates, let alone the Japanese economy. This is
+likewise important for the Chinese economy, which has been growing at a very
+fast pace in recent years but has slowed down lately as well. Everyone is
+following these developments closely, because the Chinese economy is a crucial
+factor in global economic growth. Of course, we are interested in seeing the
+Chinese economy grow in a predictable manner, and in this sense we are
+interested in working with our Chinese partners.
+Shui Junyi
+(via interpreter)
+Prime Minister, I know that you like the work of Lao-Tzu and his treatise
+Tao Te Ching.
+And I know that you are
+fond of Leo Tolstoy’s
+War and Peace
+This has prompted my question about war and peace and the Syrian crisis. Are
+the Syrian crisis and the relevant US-Russian talks likely to get out of hand?
+What could further developments be like?
+Dmitry Medvedev:
+The
+problems in our world have not changed much since the time when Lao-Tzu wrote
+his treatise
+Tao Te Ching.
+In fact, I
+always read this work with much interest, the more so that there are more than
+a dozen translations into Russian, as well as into other languages, and each
+translation differs from the other. I am sure that the modern Chinese
+understand Lao-Tzu’s dicta in their own way.
+for your question about the situation in Syria, the Russian Federation’s
+position is well known. It has been repeatedly formulated by the Russian
+President and, as is natural, has been translated into Russia’s foreign policy.
+The underlying premise is that there is no military solution to the Syrian
+problem. The forces that want peace in Syria should sit down at the negotiating
+table and come to terms on Syria’s future and the future political system. This
+is unrelated to the fate of individual leaders, although, of course, they
+cannot be dropped from the context. This is unrelated to the discussion of a
+personal theme connected with Bashar al-Assad, although he is the incumbent
+President, a legitimate President and should take part in this. The most
+important thing is to put peaceful settlement on track, where all constructive
+forces would be involved. But this is
+precisely where we have the main problem – how to separate those who want peace
+and adhere to constructive positions from openly terrorist groups. This issue
+is being debated, rather heatedly. We are locked in a debate with the United
+States and the Europeans. But the main thing is to make sure that Syria has a
+predictable future and can exist as a self-sufficient, independent state rather
+than disintegrate into a number of terrorist enclaves, something that,
+regrettably, has happened to Libya and some other countries in the Middle East.
+That is our goal. We honour our agreements with the Syrian Government to
+maintain the military balance and participate in a number of military operations
+aimed primarily at destroying the terrorist nest in Syria and at not letting
+the terrorist forces spread from Syria to other countries. Among other things,
+this is related to the fact that there are people hailing from the Russian
+Federation and some other post-Soviet countries that joined ISIS and a number
+of other terrorist groups affiliated with ISIS in Syria that are likely to come
+back home some time later and continue their terrorist activities. This is why
+President Putin has taken the decision to help the Syrian Government to bring
+peace to this country. We will, naturally, abide by our agreements with them
+but will be guided by the national interests of the Russian Federation.
+Government of the Russian Federation
+http://government.ru/en/news/25191/
+Highlight selection

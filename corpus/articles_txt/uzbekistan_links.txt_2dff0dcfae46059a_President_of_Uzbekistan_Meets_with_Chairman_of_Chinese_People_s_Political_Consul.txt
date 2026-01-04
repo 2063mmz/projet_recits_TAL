@@ -1,0 +1,59 @@
+seed_url: https://president.uz/en/lists/view/6779
+final_url: https://president.uz/en/lists/view/6779
+title: President of Uzbekistan Meets with Chairman of Chinese People’s Political Consultative Conference National Committee
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President of Uzbekistan Meets with Chairman of Chinese People’s Political Consultative Conference National Committee
+18.10.2023
+As a part of working visit to China, the President of Republic of Uzbekistan Shavkat Mirziyoyev met with the Chairman of the Chinese People's Political Consultative Conference National Committee Wang Huning.
+The Chinese side expressed great appreciation for the important initiatives proposed by the Head of our State during the Third Belt and Road International Forum.
+The sides discussed the prospects for further expanding and strengthening the Uzbek-Chinese friendship, as well as the multifaceted strategic partnership.
+The current level of constructive political dialogue and mutual support within international organizations was particularly welcomed.
+The agreements reached during the summits in Samarkand and Sian are being gradually implemented.
+Trade, economic, and investment cooperation has a positive dynamic. Inter-regional contacts have been stepped up. Only in recent months, Uzbekistan received the delegations of the Xinjiang Uygur Autonomous Region, as well as the provinces of Shandong, Shanxi, Jiangsu, and Jiangxi.
+The particular emphasis was placed on stimulating cultural, humanitarian and educational exchanges.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

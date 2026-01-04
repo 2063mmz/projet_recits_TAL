@@ -1,0 +1,519 @@
+seed_url: http://en.kremlin.ru/events/president/news/72508
+final_url: http://en.kremlin.ru/events/president/news/72508
+title: Interview to China Media Group
+date: 2023-10-16
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Interview to China Media Group
+October 16, 2023
+07:00
+The Kremlin, Moscow
+Wang Guan
+(retranslated)
+Mr.
+President!
+First of all, please accept
+my greetings on the occasion of your Birthday you have recently celebrated. How
+was it?
+Vladimir Putin
+Thank you very much. I celebrated it with my friends and family. It was fine.
+Wang Guan
+: I must
+say that you are in a great shape. Do you manage to carve out time for physical
+exercises?
+Vladimir Putin
+Thanks God I do. I think that this is necessary, first and foremost, in order
+to be able to work hard. Exercises are not an objective in itself. But they
+provide a means to achieve really important goals, an opportunity to work hard
+in a way that would make it possible to achieve the necessary results.
+Wang Guan
+: We have
+gone through some information materials and we have seen that somewhere in 2015 – 2017 you had hockey drills and learnt to play hockey. You actually did well
+and scored a lot.
+Vladimir Putin
+Yes, I started skating just ten years ago. Before that, I had not been able
+even to stand up on skates. But ten years ago I tried, then started to play,
+and I’m still at it. And I enjoy it. Team sports are always interesting and exciting; they grab your attention and allow you a break from the routine.
+Wang Guan
+: So you
+mean that you learnt to skate and play hockey, all at once?
+Vladimir Putin
+Of course. It was just the same thing for me. I hope that sports cooperation
+with our Chinese friends will also actively evolve. Wushu is very popular in Russia. I hope
+it will grow even more so; and we would also like to show our Chinese friends
+our national martial arts, as we call them, such as sambo wrestling (unarmed
+self-defense). I will certainly discuss this issue with your President during
+my visit, suggest we cooperate on a mutual basis, and ask him to support
+initiatives of young people, athletes, in order to expand collaboration in sports.
+Wang Guan
+: So, let’s
+start our interview.
+Vladimir Putin
+Please go ahead.
+Wang Guan
+: Mr.
+President!
+First of all, let me thank
+you for agreeing to give interview to the China Media Group. I know this is the first time you give interview to a Chinese TV channel over the past two years.
+In March 2023, a joint
+Russian-Chinese statement was adopted, which stressed that relations between
+the two countries were at their strongest level ever.
+Indeed, you said at the recent Valdai Discussion Club that Russian-Chinese cooperation was as an important stabilizing factor in global affairs. Could you please elaborate on your assessment of Russian-Chinese relations as well as their prospects for development?
+Vladimir Putin
+Relations between Russia and China – you know, I am telling you what immediately comes to my mind after you asked
+your question – have not been shaped to suite the current global environment;
+nor are they the result of a short-term political opportunism. Russian-Chinese
+relations have been shaped for twenty years in a careful, phased-out manner. At each step, the Russian and Chinese sides have both guided themselves by their
+own national interests as they understood them. While encouraging the other
+side to take the next step, both have always taken into account each other’s
+opinions and interests. We have always tried to reach a compromise, even on complicated issues inherited from the old days.
+Our relations have always
+been driven by goodwill. It helped us solve the border delimitation issues that
+had remained outstanding for 40 years. Our shared desire to remove all possible
+obstacles to our joint progress in future was so huge that we managed to compromise in a mutually acceptable way. And then we
+began to develop economic cooperation, also gradually, filling the niches that
+were once owned by other countries in our relations, but were not as effective
+as our mutual cooperation in a particular area. For instance, in the area of energy that has a special place in our relations. Russia
+now ranks first among Chinese partners in the supply, for example, of energy to China
+in value terms.
+China progressively became Russia’s
+first trade partner in terms of trade turnover, and Russia
+gradually rose to the sixth place among China’s trade and economic
+partners.
+What would I note? We had
+different ratios for exports and imports at different times. For our part, we
+have tried to cover the needs of the Chinese economy, and our Chinese friends
+have never ignored our views as regards some imbalances, particularly in trade
+in manufactured goods. We have been gradually, step by step and year by year increasing
+and improving this trade balance. That is the way we are advancing in almost
+every area.
+Not to mention the role that
+Russian-Chinese relations play in ensuring stability in the world. Relation
+between Russia and China are a fundamental factor.
+All of this together leads
+us to believe that we are moving in the absolutely right direction and in the interests of both the Chinese and Russian peoples.
+Wang Guan
+: Mr.
+President!
+You have just mentioned
+trade and economic cooperation between Russia
+and China.
+Earlier, a goal was put forward to reach the target of 200 billion US dollars
+in trade turnover by 2024. In fact, in 2022, the two parties basically approached
+this target and we could feel many of the changes.
+This time I came to Moscow and saw that the streets and stores, including online trading platforms, were increasingly
+filled with Chinese brands. At the same time, Russian gas is supplied to the homes of Chinese consumers and Russian meat and dairy products, for example,
+are becoming more and more common in Chinese stores.
+What is our assessment of the prospects for trade and economic ties between the two countries?
+Vladimir Putin
+Our economic relations diversify from year to year.
+Indeed, as I have said, we
+have an extensive scope of cooperation in the field of, say, energy, and it is
+very diverse. This is not only the supply of oil and gas. In the field of oil,
+a pipeline is operating steadily, and pumping volumes are increasing.
+The same goes for the Power
+of Siberia gas pipeline. Now we have good prospects, we have already signed an agreement on the Far Eastern route, and one more route, the Power of Siberia 2
+that goes through Mongolia,
+is being worked out.
+The amount of coal and electricity supplied is increasing and we continue to build nuclear units. And not only to build units at two plants, but we are working on a fast neutron
+reactor, which will provide us with an entirely new way of building relations
+in this high-tech energy sector as it creates conditions for a closes cycle
+and, in fact, there will be virtually no waste.
+We do have a very good
+prospect in other industries. These are automobile construction, shipbuilding,
+aircraft construction, and electronics. I have mentioned automobile
+construction. Look, just yesterday I talked to some people who could well be
+called car enthusiasts with a great and long experience. And in all sincerity,
+not knowing that we were going to have an interview today, my interlocutors
+told me: you know, Chinese cars are settling in our market not simply because
+others are becoming fewer, this is not the only reason. The quality is
+improving. The quality of Chinese cars is getting better, so our consumers,
+particularly in terms of quality/price ratio, are happily turning towards
+products of Chinese manufacturers.
+You have mentioned
+agriculture. Yes, our cooperation is expanding here as well. There are certain
+issues related to the supply of meat products and so on, but the work is
+continuing. We are aware of the Chinese
+consumers’ interest not only in agricultural products, but also in the supply
+of some products that the People’s Republic of China itself needs to produce
+there agricultural products on its own territory.
+We are working on and we are
+developing a significant number of industries, and this number has been
+constantly growing, especially recently, because of our cooperation on high-tech.
+Wang
+Guan
+: We are confident that we will reach the $200 billion target this year,
+what do you think?
+Vladimir
+Putin
+: I have no doubts, or, let us be more cautious, I am almost certain. In the previous period, we had 32 per cent growth in trade, which is a very good
+one. There is every reason to believe that we will reach $200 billion mark by the end of the year.
+Wang
+Guan
+: Mr. President, with regard to the Belt and Road Initiative, I would
+now like to talk about energy. We are cooperating in areas such as renewable
+energy, combating climate change and the UN climate agenda.
+What do you think is the impact of our cooperation in these areas for the whole world, for mankind?
+Vladimir
+Putin
+: You know, when we talk about the UN Sustainable Development Goals,
+there is more than one, two or three of them, I believe there are 17 actually.
+The struggle for the environment and the fight against climate change both are
+very important areas, but they are not the only ones.
+One should not forget, for example, the fight against poverty. How can you say to people in African
+countries: you will get no oil, you will get no petroleum products, you will
+have to rely on renewable energy sources exclusively – on wind and solar
+energy, for example, and so on. Those are largely out of reach for developing
+countries. So, people are going to starve or what? So there should be a balance; all decisions should be balanced.
+In this context, when we talk
+about President Xi Jinping’s Belt and Road Initiative – I believe, it was some
+ten years ago when he formulated the idea – I think it was very timely and is
+developing well, because the focal point of this idea is an attempt to unite
+the capabilities of many countries to achieve common development goals.
+Today, in one way or another, President Xi Jinping’s ideas have involved you know, how many? Some
+147 countries, two-thirds of the world’s population. So I think this is already
+a success, this is a good, correct and technologically organized initiative
+that is developing.
+Yes, we see that some people
+consider it an attempt by the People’s Republic of China to put someone under its
+thumb, but we see otherwise, we just see desire for cooperation. Our own ideas
+on the development of the Eurasian Economic Union, for example, on the construction of a Greater Eurasia, fully coincide with the Chinese ideas
+proposed within the framework of the Belt and Road Initiative.
+Look, our countries, the Eurasian Economic Union, have received $24 billion in investments as a result
+of our cooperation. What is wrong with that? At the same time, each country
+chooses for itself, within the framework of bilateral or multilateral formats,
+what is favourable or unfavourable for it, no one imposes anything. But it
+stimulates and creates conditions for development.
+The same applies to the development of logistics and infrastructure facilities. We have recently built
+two bridges over the Amur River with China. I think this is good for people –it increases the number of them communicating with each other, and it
+is good for business because it allows us to increase trade.
+So we welcome this
+initiative by President Xi Jinping, we are working together, we are ready and we will continue to work together.
+Wang
+Guan
+: Mr. President, you also said that aligning the EAEU and the Belt
+and Road is a very important project, the so-called integration of integrations. You are to take part in the Belt and Road Summit. What do you
+expect from it?
+Vladimir
+Putin
+: I think we will think of something…I have already said that the countries of the Eurasian Economic Union have already secured $24 billion in investments by working together on the Belt and Road Initiative. But this
+volume is growing because the number of mutually beneficial projects is
+increasing. They are not only beneficial to the countries that receive some
+loans under this initiative. They are also beneficial to the People’s Republic
+of China,
+because it also receives products from the implementation of these projects and gets conditions for better and greater development. All this is done on the basis of mutual benefit.
+We have joint projects.
+Perhaps it is too early to dwell upon it, but I am sure that contracts will be
+signed; new contacts will be established between economic actors; heads of governments, various ministries and departments cooperating directly will meet.
+I am not going through all of it now. I have familiarised myself with the Russian government’s proposals in various areas. They are running over several
+tightly printed pages, and each project may represent something we will work on for more than a year, perhaps a decade. Thus I have the best expectations,
+including from contacts with my colleagues.
+Wang
+Guan
+: We have also seen that the international community has different
+opinions about the Belt and Road Initiative. What do you think are the benefits
+of the Belt and Road Initiative, which in 10 years has gone from being a kind
+of initiative to a realistic, implemented project that brings benefits to all
+mankind?
+Vladimir
+Putin
+: You know, it seems to me that the main advantage of the concept of cooperation proposed by the Chinese side is that nobody imposes anything on anybody in the framework of this work. Everything is done within the framework
+of finding not only acceptable solutions, but such projects and such ways of achieving a common goal that are acceptable to all. This is what makes China today,
+under the leadership of President Xi Jinping, unique in building relations with
+others: no one imposes anything on anyone; no one forces anything on anyone,
+but only gives them opportunity. And, as I said, if there are difficulties,
+compromises are sought and always found. In my view, this is what distinguishes
+the Belt and Road Initiative proposed by the Chinese President from many others
+that countries with a heavy colonial legacy are trying to implement in the world.
+Wang
+Guan
+: Our bilateral relations also involve many interests and joint
+projects, including in the humanitarian sphere and sports. To cite but one
+example, according to the Ministry of Education of the Russian Federation,
+the number of Russian students taking the Unified State Examination in Chinese
+has doubled. More recently, Russian literature and music have undoubtedly
+influenced several Chinese generations.
+We have also been following
+the young Russian skaters – Trusova, Valieva, Shcherbakova – with bated breath.
+They have a large fan community in the Chinese internet segment, and Chinese
+internet users even call them fairies who have no equal but each other.
+Do you think that
+humanitarian and sports cooperation is of great value for our friendship?
+Vladimir
+Putin
+: Indeed it is. Sports cooperation as part of humanitarian cooperation
+is very important because it establishes direct people-to-people contact. It is
+no surprise that our athletes have fans in China, because they are true stars.
+We also follow the success of Chinese athletes with great respect, always
+looking at how the work is organized.
+Wang
+Guan
+: Are there any athletes or sports that you follow with special
+interest?
+Vladimir
+Putin
+: Certainly, we know about Chinese athletes. We know about gymnasts, for example, and other sports. It is important that China has brought the work in high-performance sports to a good professional level.
+No doubt, it is equally
+important to establish contacts at other, more modest levels. I refer to cooperation in PE, contacts between the regions, competitions between
+universities, and between Chinese provinces and constituent entities of the Russian Federation.
+I think we should think of it as well. I suppose it would be very interesting. In fact, as far as I know,
+this is what is being done within the interregional cooperation. My colleagues
+are also paying the necessary attention to this. I am sure that it will go on this way, continue in this vein.
+You know what is important?
+That our sports cooperation is devoid of any political or economic conjuncture.
+Unfortunately, modern
+international sport is more and more immersed in commerce. We have nothing of this sort in our sports relations and I hope we never will.
+Wang Guan
+: Mr. President, you once said that if you had
+not practiced judo, your life might have taken a completely different path. Why
+do you say so?
+Vladimir Putin
+: Everyone knows and it’s
+not a secret that I come from a simple working-class family, and in the past I had a lot of time to spend in the yard. I don’t know how my life would have
+turned out if I hadn’t taken an interest in sports. It doesn’t really matter
+what kind of sports I did, it’s important that I paid a lot of attention to it.
+And immediately there appeared priorities to assert myself not in the yard, not
+in some, let’s say, not very disciplined youth environment, but to assert
+myself on sports grounds, in my case, on tatami. Immediately certain views on relations with other people appeared: on how to build these relations, how to treat partners with respect, how to avoid anything that could somehow undermine
+relations between people, and so on. Sport is educative, and this is very
+important.
+Therefore,
+the development of our cooperation in this field is extremely important, and in today’s world, where there are so many threats that come from the Internet,
+from the illegal spread of drugs, and so on, sports activities for young people
+are an extremely important thing in the formation of character and correct,
+strong life attitude.
+Wang Guan
+: Mr. President, recently at the Valdai Discussion
+Club, you mentioned fair multipolarity, that there is a need for it. You also
+mentioned such a phenomenon as hegemonism in the field of morality and ethics,
+in the value system. You also said that rule-based order is a manifestation of colonial thinking. Why do you think so?
+Vladimir Putin
+: You have just said
+“rule-based order”. Have you ever seen those rules? No, you haven’t, because no
+one has agreed on them with anyone. So how can one talk about order based on rules that no one has ever seen? In terms of common sense, it’s nonsense. But
+it is beneficial to those who promote this approach. Because if no one has seen
+the rules, it only means that those who talk about them are making them up
+themselves from time to time to their own advantage. That is the colonial
+approach.
+Because
+colonial countries have always believed that they are first-rated people. After
+all, they have always talked about bringing enlightenment to their colonies,
+that they are civilized people who bring the benefits of civilization to other
+nations, whom they consider second-rate people. No surprise today’s political
+elite, say, in the United States, talks about its exceptionalism. This
+is the extension of this colonial mindset, meaning that when they consider
+themselves exceptional in the United States, it means that other people, all the people in fact, are just some second-rate people. How else could one understand
+it? Those are mere vestiges of colonial thinking, nothing else.
+Our
+approach is quite different. We proceed from the fact that all people are
+equal, all people have the same rights; the rights and freedoms of one country
+and one nation end where the rights and freedoms of another person of an entire
+state appear. This is the way in which a multipolar world should be evolving
+gradually. This is exactly what we are striving for, and this is the basis of our interaction with China
+on the international stage.
+Wang Guan
+: BRICS has recently expanded from five to 11
+countries. What historical process do you think the BRICS expansion reflects?
+In addition, Russia
+will take presidency of BRICS in 2024. In your opinion, what role will Russia play in BRICS in the future and during its presidency?
+Vladimir Putin
+: First of all, I want to say that the expansion itself was quite uneasy. It was a challenging, I would
+even say difficult dialogue. But largely due to the efforts of our Chairperson,
+the President of the Republic of South Africa, Cyril
+Ramaphosa (I want to emphasize his role once again), we managed to come to this
+consensus and to reach an agreement.
+What
+is at the core of the expansion process? This process is based on objective
+reality. The multipolar world is creating by itself, as a matter of fact. We
+can speed up this process or someone can try to slow it down and maybe even
+achieve some kind of reduction in the pace of building a multipolar world.
+Anyway, its creation is inevitable. It is happening on its own because of the growing potential of many countries, including, not least, the growing
+potential of the People’s Republic of China. India
+is growing in Asia, Indonesia
+is also growing, many other nations in Latin America like Brazil, and Russia is getting back on its feet
+and gaining strength. Our countries do have their problems, and what countries
+don’t? There are always problems of some kind. But it’s not about that, it’s about
+growing our potential, and this growth is evident, including in the economic
+sphere.
+As for BRICS, at the time of the Johannesburg
+summit, the ratio of the G7 and BRICS economies was already in favour of BRICS
+in terms of purchasing power parity.
+After
+six members had joined BRICS, this ratio shifted even more in favour of the BRICS countries. Once again, this is a manifestation of the objective process
+of forming a multipolar world.
+This
+means that all those who have joined BRICS support the idea and concept of forming a multipolar world. No one wants to play second fiddle to some
+sovereign, everyone wants equal rights. And when they join BRICS, they see that
+we can achieve this goal by joining efforts within the framework of expansion
+and strengthening of such a format.
+Wang Guan
+: Mr. President, you are very familiar with history.
+In fact, you are the one who makes history. There is an opinion, you know, that
+some models of interstate relations, such as realism, have not helped at all to solve the problems that humanity faces in terms of development.
+In your opinion, how important are Mr. Xi Jinping’s ideas about building a community of common destiny for mankind, as well as his initiatives in the field of global development, global security, global civilization initiative,
+and what values do they represent at such a historic crossroads?
+Vladimir Putin
+: Thank you for bringing
+this up. As far as I understand, these ideas were first formulated in general
+terms in about 2013 during President Xi Jinping’s visit to Moscow, where he spoke at the Moscow State
+Institute of International Relations and brought this up for the first time.
+Of course, this is a global approach to human history. For sure, everything is
+interconnected. And today, with the formation of a multipolar world, these
+ideas have become even more relevant. He spoke about it in 2013, and today
+these ideas are actually being realized. This is extremely important.
+Once
+again, I want to go back to the start: we all, and Mr. Xi Jinping in particular,
+are not guided by opportunistic considerations of the current moment; we try to assess the situation in a comprehensive manner and look into the future. You see, he spoke here about the formation of a global world and the interconnection between the destinies of all countries
+on the planet in 2013, and then he launched the Belt and Road Initiative. This
+is the practical realization of what he talked about in theory.
+occurs to me that being consist and moving towards common goals while realizing
+the essence of what is going on is what distinguishes President Xi Jinping and the PRC’s policy.
+Wang Guan
+: Mr. President, you have seen Xi Jinping 40
+times. What kind of person, what kind of leader do you think Mr. Xi Jinping is?
+Could you share with us any stories you have in common?
+Vladimir Putin
+: The thing is that
+President Xi Jinping calls me his friend, and I call him my friend, too. We
+have a saying here: tell me who your friend is and I’ll tell you who you are.
+So if I praise President Xi Jinping now, I would feel uncomfortable, as if I was praising myself. So I will try to be objective. He undoubtedly is one of the recognized world leaders.
+is good that you recalled his speech at MGIMO in 2013 and I connected it with
+the Belt and Road Initiative. I will repeat it for the third time, but it is
+very important: he is a leader who does not make momentary decisions on the basis of some current situation, but he assesses the situation, analyzes it and looks into the future. This is very important. This is exactly what
+distinguishes a world leader from people whom we call “timeservers” who are
+there for a brief moment just to show off on the international stage, and then
+they are gone.
+Of course, President Xi Jinping is absolutely
+different. He is attentive to detail, cool-headed, business-minded and a reliable partner – that is what I wanted to underline. If we agree on something, we can be sure that both sides will keep their end of the bargain.
+As for our meetings, yes, we have had plenty, which is
+good. You have probably counted, I do not remember how many exactly – maybe
+about 40 meetings. Once – I do not remember the year, I think it was at an APEC
+meeting, probably in Indonesia, – I had my birthday and we celebrated it together. Later, an event in Dushanbe coincided with
+his birthday, and we celebrated it in the course of our joint work.
+We had a great trip during President Xi Jinping’s
+visit to Russia, when we
+went to St. Petersburg and visited the cruiser
+Aurora, took a boat ride down the Neva River and had a very
+lengthy, in-depth, absolutely neutral and friendly discussion about bilateral
+relations and the world situation. It was a most friendly atmosphere, where we
+spoke to our hearts content, went through all the issues, all the problems,
+discussed everything. It was very substantive, very calm and amiable, an ambiance that makes you feel at home. As you know, he most recently visited us
+in March. It was also a very good, business-like visit, of great significance
+for the future development of our relations. I hope that, with the next meeting
+planned in China,
+we will uphold this tradition.
+Wang Guan
+: As regards the Ukrainian issue: Mr. President, what is your opinion on the prospects of a peaceful settlement of the Ukrainian crisis? When will peace
+prevail?
+You have also mentioned the Chinese document outlining
+a political solution for the Ukrainian crisis settlement. What do you think
+about it?
+Vladimir Putin
+: We
+are thankful to our Chinese friends for trying to think about ways to end this
+crisis. However, I would like to remind you that hostilities in Ukraine did not
+start with our special military operation, but way before – in 2014, when the Western countries, after having volunteered as guarantors of the agreements
+between President Yanukovich and the opposition, forgot about those guarantees
+in a matter of days and – worse still – supported a coup d’état. United States
+Administration officials even acknowledged spending big money on it – five
+billion, they said, if memory serves me, – and now we have what was bound to happen.
+I am not going to dwell on whether it was a revolution
+or whether it was a colour revolution, but it was anyway a coup d’état. Yes, it
+had to do with mistakes made by the then leadership, but those mistakes needed
+to be remedied through democratic procedures, rather than by means of militants
+in the streets. But Western countries chose otherwise – to support a coup
+d’état. And then, essentially by proxy of the Kiev
+regime, they started hostilities in the south-east of Ukraine, in Donbass, and continued those hostilities for eight years, killing women and children. The West paid no attention to that or pretended not to notice.
+Even when agreements were signed in Minsk,
+Belarus, known as the Minsk
+Agreements, Russia
+did everything to follow this path towards settling the conflict. They did not
+let us do that, either.
+Moreover, Ukraine’s leaders ultimately said
+that they simply did not like those Minsk Agreements and they were not going to fulfil them.
+This was aggravated by the United States’ attempts to drag Ukraine into NATO, which led to the escalation of the conflict.
+Let me remind you that, when Ukraine gained
+independence – or proclaimed its independence – it was the Declaration of Independence that served as the fundamental document laying the basis for Ukrainian independence. The main principle enshrined in this Declaration of Independence was that Ukraine
+is a neutral state.
+Yet in 2008, for no good reason – there was no crisis
+in sight – they announced that they would welcome Ukraine in NATO. Why? Still no one
+understands. And thus, year by year, they would heighten the tensions. Then,
+finally, the 2014 crisis hit, the hostilities broke out. This took the escalation to a new level. Therefore, the start of the special military
+operation was not the start of a war, but an attempt to end it.
+As for what needs to be done and how it needs to be
+done in order to end the conflict by peaceful means: we have never been against
+this. Moreover, we reached an agreement in Istanbul
+confirming that we were ready for this, provided that – I emphasize – the legitimate security interests of Russia are respected. The Ukrainian
+side put forward very strict demands in terms of security, and we almost
+accepted them. However, as soon as we pulled our troops back from the Ukrainian
+capital, Kiev,
+the Ukrainian side committed all the arrangements to flames. Those same
+arrangements that were initialled on paper by the heads of the negotiating
+parties – not the package itself, but the memorandum on those
+arrangements. They announced that they would seek to defeat Russia and secure a victory on the battlefield,
+to inflict a strategic defeat on Russia. They launched an active
+military operation, the so-called counter-offensive. It has continued since 4
+June. No results achieved so far, only massive losses. The losses are simply
+huge, at a ratio of one to eight.
+Of course, we know the proposals of our Chinese
+friends. We highly value those proposals. I think they are absolutely realistic
+and could lay the foundation for peace arrangements. But, unfortunately, the opposing side does not want to enter into any negotiations. In fact, the President of Ukraine has even issued a decree prohibiting everyone – including
+himself – to conduct any negotiations with us. How can we conduct negotiations
+if they are not willing to and even issued a regulation prohibiting such
+negotiations?
+So if the Ukrainian side is willing to, I guess the first thing to do is to revoke the decree and express the readiness for the negotiations. We are ready, including on the basis of the proposals by our
+Chinese friends.
+Wang Guan
+: Mr. President, China
+has always articulated its interest in building shared, common and indivisible
+security. Is there any chance to reconcile the positions on the Ukrainian
+issue?
+Vladimir Putin
+: Yes,
+we have always said that, too. We said that security of one group of states
+cannot be built at the expense of security of other states. Security needs to be the same for everyone.
+In this context, it is extremely important for us that
+Ukraine
+stays outside any blocs. We were told as far back as 1991 – by the then US
+Administration – that NATO would not expand further east. Since
+then, there have been five waves of NATO expansion, and every time we expressed
+our concerns. Every time we were told: yes, we promised you not to expand NATO
+eastwards, but those were verbal promises – is there any paper with our
+signature on it? No paper? Good-bye.
+You see, it is very difficult to engage in a dialogue
+with people like that. I have already cited the example of the Iranian nuclear
+programme. The negotiations on the Iranian nuclear programme were very, very
+lengthy. An agreement was reached, a compromise found, and documents signed.
+Then came a new Administration and threw everything in the trash, as if those
+arrangements never existed. How can we agree on anything if every new
+Administration starts from scratch – begin each time from the centre of the playing field?
+The same goes for any issue, any topic, including the one we are discussing. That is why one of the key points is to ensure equal
+security for everyone, and Russia
+is entitled to that, just as any other state. If we believe that NATO poses
+threats to us through Ukraine,
+we want our concerns to be heard.
+Wang Guan
+: Thank
+you very much for the interview. Thank you.
+Vladimir Putin
+: It
+was a pleasure for me to do this for Chinese viewers, listeners. I would like
+to thank you from the bottom of my heart and extend my best wishes to the citizens of our friendly neighbour, the People’s Republic of China.
+Thank you.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Media
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+October 16, 2023, 07:00
+Direct link:
+en.kremlin.ru/d/72508
+Text version

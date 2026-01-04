@@ -1,0 +1,26 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/president-vucic-visits-works-on-construction-of-a-part-of-the-belgrade-budapest-high-speed-railway
+final_url: https://www.predsednik.rs/en/press-center/news/president-vucic-visits-works-on-construction-of-a-part-of-the-belgrade-budapest-high-speed-railway
+title: President Vučić visits works on construction of a part of the Belgrade - Budapest high-speed railway
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+30.05.2020. - 12:36
+President Vučić visits works on construction of a part of the Belgrade - Budapest high-speed railway
+President of the Republic of Serbia Aleksandar Vučić visited earlier today the construction works on the part of the Belgrade-Budapest high-speed railway from Belgrade to Stara Pazova. The railway is being built according to European standards and will be our state-of-the-art railway.
+Photo: Presidency of Serbia /Dimitrije Goll
+President Vučić said he was satisfied with the dynamics of the works and that it would be essential, in addition to another section en route to Budapest - from Novi Sad to Subotica - to build a high-speed railway from Belgrade to Niš. That section would be designed for speeds of up to 200 kilometres per hour, while the section from Niš to Preševo - for the speed of 160 kilometres per hour. He stated that the topic is already being discussed with Chinese companies and Russian railways, which are building a part of the high-speed railway from Stara Pazova to Novi Sad.
+"We are also considering the Belgrade-Niš section, which would mean a lot for passenger traffic from Europe to Serbia, but also our freight." We must not leave out the south of Serbia. Then we would have the entire line of a high-speed railway from Subotica to Novi Sad, Belgrade and Niš", President Vučić said and announced that the works on the railway from Belgrade to Stara Pazova will be completed by the end of the year and that the railway will be commissioned by the end of March the following year.
+Photo: Presidency of Serbia /Dimitrije Goll
+President Vučić stated that the works on the part of the railway from Stara Pazova to Novi Sad will be completed in August 2021 and that the railway will be opened to traffic in September 2021.
+"Then we will hurry up to complete the last section through Serbia, from Novi Sad to Subotica, which could be completed in 2024. The Hungarians will complete their section by the end of 2024 or the beginning of 2025," said President Vučić and pointed out that from March 2025, we will be able to travel by train from Belgrade to Budapest in two hours and 40 minutes, and then from there to Vienna in another hour and 40 minutes.
+Photo: Presidency of Serbia /Dimitrije Goll
+"It's important for our relations, and it will increase the living standard of citizens and the flow of goods, which is extremely important for our economy. These are the things that we will remain behind us, revolutionary things that you do not believe in until you see them. Thank you to our Chinese partners for their hard work, efforts and engagement. Thank you to Serbian and Chinese workers for their arduous work", said President Vučić and emphasised that in Serbia, in addition to the railway, four highways are currently under construction.
+Photo: Presidency of Serbia /Dimitrije Goll
+The project of a high-speed railway from Belgrade to Budapest has been agreed between Serbia, China and Hungary within the global initiative of the People's Republic of China -
+Belt and Road
+The total value of the construction of the Belgrade-Budapest railway through Serbia is about two billion dollars, and the railway on our side will be about 184 kilometres long.
+Stara Pazova,
+30th May 2020

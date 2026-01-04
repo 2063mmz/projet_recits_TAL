@@ -1,0 +1,331 @@
+seed_url: http://government.ru/en/all/34600/
+final_url: http://government.ru/en/news/25196/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+The 21st regular meeting of Russian and Chinese heads of government
+7 November 2016
+13:30
+St Petersburg
+The meeting focused on key aspects of Russian-Chinese cooperation in trade, the economy, investment, energy, inter-regional and border projects, as well as humanitarian cooperation.
+Dmitry Medvedev’s conversation with Premier of the State Council of China Li Keqiang
+Dmitry Medvedev’s remarks at the 21
+regular meeting of Russian and Chinese heads of government
+Signed documents
+News conference with Dmitry Medvedev and Li Keqiang following the 21st
+regular meeting of the Russian and Chinese heads of government
+Dmitry Medvedev’s conversation with Premier of the State Council of China Li Keqian
+Excerpts from the transcript:
+Dmitry Medvedev's meeting with Premier of the State Council of China Li Keqiang
+7 November 2016
+Dmitry Medvedev's meeting with Premier of the State Council of China Li Keqiang
+7 November 2016
+The 21st regular meeting of Russian and Chinese heads of government
+7 November 2016
+The 21st regular meeting of Russian and Chinese heads of government
+7 November 2016
+Signing documents following the 21st regular meeting of Russian and Chinese heads of government
+7 November 2016
+News conference by Dmitry Medvedev and Li Keqiang
+7 November 2016
+Closing review ceremony of the joint project Ten Masterpieces of Chinese Literature in Russia and Ten Masterpieces of Russian Literature in China
+7 November 2016
+Closing review ceremony of the joint project Ten Masterpieces of Chinese Literature in Russia and Ten Masterpieces of Russian Literature in China
+7 November 2016
+A visit to the State Hermitage Museum
+7 November 2016
+A visit to the State Hermitage Museum
+7 November 2016
+A visit to the State Hermitage Museum
+7 November 2016
+A visit to the State Hermitage Museum
+7 November 2016
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev's meeting with Premier of the State Council of China Li Keqiang
+Dmitry Medvedev:
+Russia and China are bound by strategic partnership and
+cooperation. We are truly friends. We share a common approach to many global issues,
+take part in multilateral meetings, including such important platforms as the
+UN, G20, the Shanghai Cooperation Organisation and BRICS, and implement large
+projects, including the alignment of the Eurasian Economic Union and the Silk
+Road Economic Belt.
+Li Keqiang
+(via interpreter)
+China and Russia are large
+neighbouring countries and all-round strategic partners. Regular meetings of
+Russian and Chinese heads of government have never been discontinued in the
+past 21 years and are always held according to a schedule. It proves the stable
+and rapid development of China-Russia relations. In international affairs, we
+also maintain contact and coordinate with each other. As permanent members of
+the UN Security Council, we together defend the United Nations Charter and
+support stability and peace in the region.
+<…>
+Dmitry
+Medvedev’s remarks at the 21
+regular meeting of Russian and
+Chinese heads of government
+Excerpts from the transcript
+The 21st regular meeting of Russian and Chinese heads of government
+These regular meetings between
+the Russian and Chinese heads of government are really quite original in the
+sense that we have no such mechanism in place with any other country. They
+fulfil the very important function of giving concrete substance to our
+relations and offer us the opportunity to discuss promising projects as part of
+our comprehensive partnership and strategic cooperation. This work always
+includes reports from our government colleagues and from the four
+intergovernmental commissions.
+We have decided to establish a
+fifth intergovernmental commission that will be responsible for cooperation in
+the Russian Far East and northeast China. This is evidence of just what extent
+our practical cooperation has.
+The global economic situation
+is far from straightforward today, and this has affected our bilateral balance
+too, though it has improved this year.
+We have prepared a large
+package of documents that reflect the current state of relations in our
+partnership and signal new stages in developing the trade, economic, social and
+humanitarian ties between our countries.
+At the conclusion of the 21
+regular meeting of the Russian and Chinese heads of government, the following
+documents were signed:
+Signing documents following the 21st regular meeting of Russian and Chinese heads of government
+- Joint
+communiqué of the 21
+regular meeting of the Russian and Chinese
+heads of government
+Signed by: Russian Prime Minister Dmitry
+Medvedev and Premier of the State Council of the People's
+Republic of China Li Keqiang
+- Joint
+statement by the Russian and Chinese governments on the results of the first
+joint inspection of the Russian-Chinese state border
+Signed by: Russian Prime Minister Dmitry
+Medvedev and Premier of the State Council of the People's
+Republic of China Li Keqiang
+- Joint
+statement by the Russian and Chinese heads of government on the development of
+strategic cooperation in the peaceful use of nuclear power
+Signed by: Russian Prime Minister Dmitry
+Medvedev and Premier of the State Council of the People's
+Republic of China Li Keqiang
+- Protocol
+of the 20
+meeting of the Russian-Chinese Commission for the
+Preparation of Regular Heads of Government Meetings
+Signed by: Russian Deputy Prime Minister Dmitry
+Rogozin and Vice Premier of the State
+Council of the People's Republic of China Wang Yang
+- Protocol
+of the 17
+meeting of the Russian-Chinese Commission for
+Humanitarian Cooperation
+Signed by: Russian Deputy Prime Minister Olga Golodets
+and Vice Premier of the State Council
+of the People's Republic of China
+Liu
+Yandong
+- Protocol
+to the Agreement between the Russian Government and the Government of the
+People Republic of China on the Creation and Organisational Principles of the
+Mechanism of Regular Heads of Government Meetings of 27 June 1997
+Signed by: Russian Deputy Prime Minister and
+Presidential Plenipotentiary Representative to the Far Eastern Federal District
+Yury Trutnev and Vice Premier of the State
+Council of the People's Republic of China Wang
+Yang
+- Protocol
+between the Russian Government and the PRC Government on the Results of the
+First Joint Inspection of the Russian-Chinese State Border
+Signed by: Russian Deputy Foreign Minister Igor
+Morgulov and Chinese Foreign Minister Wang Yi
+- Protocol
+on Introducing Amendments to an Additional Protocol to the Agreement between
+the Russian Government and the Government of the People Republic of China on
+the Creation and Organisational Principles of the Mechanism of Regular Heads of
+Government Meetings of 27 June 1997
+Signed by: Head of Federal Archive Agency
+Andrei Artizov and Chinese Foreign Minister
+Wang Yi
+Memorandum between the Federal Customs Service (Russia) and the Chinese Chief
+Customs Directorate of Cooperation in Combating Violations of Customs Procedure
+Singed by: Federal Customs Service Head
+Vladimir Bulavin and Chinese Foreign Minister
+Wang Yi
+Memorandum of Understanding Between the Russian Economic Development Ministry,
+the Russian Industry and Trade Ministry, the Chinese Ministry of Commerce and
+the People's Government of Heilongjiang Province on the Fourth Russian-Chinese
+EXPO
+Signed by: Russian Minister of Industry and
+Trade  Denis Manturov, Deputy Minister of
+Economic Development Alexei Gruzdev, and Chinese Minister of Commerce Gao
+Hucheng
+- Protocol
+on Introducing Amendments to the Memorandum of Understanding Between the
+Russian Economic Development Ministry and the Chinese Ministry of Commerce on
+Cooperation in the Small and Medium-Sized Business Sector of 6 November 2007
+Signed
+by:
+Russian Deputy Minister of Economic
+Development Alexei Gruzdev and Chinese Minister of Commerce Gao Hucheng
+Memorandum of Understanding Between the Russian Ministry of Science and
+Education and the Chinese Education Ministry on Cooperation on the Project to
+Establish the Moscow Institute of Arts at the Weinan Normal University
+Signed by: Russian First Deputy Minister of
+Science and Education Natalya Tretyak and Chinese Vice Minister of Education  Hao Ping
+- General
+Agreement on Cooperation in the Construction of an Industrial Complex in the
+Kabardino-Balkarian Republic
+Signed by: Kabardino-Balkarian Republic Head
+Yury Kokov and China Kunlun
+Contracting and Engineering
+Corporation CEO Zhou Huatang
+Cooperation Agreement between Russian Railways and Yingkou Port Group Co., Ltd
+Signed by: Russian Railways President Oleg
+Belozyorov and Yingkou Port Group
+Co., Ltd President Li Hezhong
+Agreement Between Gazprom and China
+National Petroleum Corporation on Cooperation in the Mutual Recognition
+of Standards and Conformity Assessment Results
+Memorandum Between Gazprom and China
+National Petroleum Corporation on Studying Opportunities for Cooperation on Gas
+Motor Fuel
+Signed by: Gazprom CEO Alexei Miller and Vice President of China National
+Petroleum Corporation Xu Wenrong
+Memorandum of Understanding Between Gazprom and China Development Bank on Possible
+Financing Projects
+Signed by: Gazprom CEO Alexei Miller and China Development Bank President Zheng
+Zhijie
+Agreement on Trade Financing in Yuan between VTB Bank and China Development
+Bank for a three-year term
+Agreement on Trade Financing in Yuan between VTB Bank and China Development
+Bank for a five-year term
+Signed by: VTB Bank President and Chairman Andrei
+Kostin and China Development Bank
+President Zheng Zhijie
+Framework Agreement Between Vnesheconombank State Corporation and China
+Development Bank
+Signed by: Vnesheconombank Chairman Sergei
+Gorkov and China Development Bank
+President Zheng Zhijie
+Agreement Between Rosneft and Beijing Gas Group on Cooperation in the Gas
+Sector, including the acquisition of a 20 percent stake in
+Verkhnechonskneftegaz
+Signed by: Rosneft CEO Igor Sechin and Beijing
+Gas Group President Li Yalan
+Memorandum of Understanding Between the Glonass Non-commercial Partnership and
+China North Industries Corporation on a Project to Develop a Russian-Chinese
+Chipset
+Signed by: Glonass Executive Director Alexander
+Bondarenko and China North Industries Corporation President Wen
+Gang
+Framework Agreement on the Sale of a Stake in Sibur Holding to the Chinese Silk
+Road Fund and China Development Bank International Holdings Ltd.
+Signed by: Sibur Holding CEO Leonid Mikhelson,
+Silk Road Fund President Wang Yanzhi and China
+Development Bank International Holdings Ltd. Director General Meng
+Tianshan
+News conference with Dmitry Medvedev and Li Keqiang following the 21st
+regular meeting of the Russian and Chinese heads of government
+Excerpts
+from the transcript:
+News conference by Dmitry Medvedev and Li Keqiang
+Dmitry
+Medvedev:
+We have discussed practically all key issues of
+economic, investment and social cooperation between our countries.
+I think that
+the format of regular meetings of the Russian and Chinese heads of government
+has established a good track record.
+The balance
+of trade looks relatively good despite a certain decline in the past year. This
+year, bilateral trade has already exceeded $40 billion.
+We will step
+up our efforts to gradually reach the target figures outlined several years ago
+– $200 billion in trade in the next three to seven years.
+China
+remains our biggest trade partner.
+We agreed to
+take a number of practical steps in the bilateral format and as regards our
+integration initiatives. I am referring to drawing the Eurasian Economic Union
+and the Silk Road Economic Belt closer together.
+In the
+longer term, there are other areas of integration, including the possibility of
+a preferential trade regime.
+We have
+focused on over 60 large and extremely large investment projects, including the
+Power of Siberia pipeline, a LNG plant on Yamal, and preparation for
+construction of new nuclear power units and a high-speed network. These mega
+projects run into billions and even dozens of billions of US dollars. We also
+agreed to create a new format for joint measures to support small and medium
+business and make additional efforts to boost cooperation in agriculture.
+consider very important to increase the role of national currencies in
+bilateral trade. Today the yuan has already become a reserve currency, which
+opens up more opportunities for our currency positions and the issue of
+instruments that would be denominated in yuans, with preserving transactions in
+roubles or in both currencies. The latter’s share may be also growing.
+Russian-Chinese
+cooperation also includes an enormous number of diverse humanitarian and social
+projects where we have made significant progress in the past decade.
+Li Keqiang:
+Regular meetings
+of the heads of government have already been held for 20 years without a single
+interruption. This shows that Chinese-Russian relations are dynamically and
+consistently moving ahead.
+China and Russia are
+major neighbouring countries and permanent members of the UN Security Council.
+We observe the UN Charter. We have always considered each other’s development
+as a unique opportunity for progress and our cooperation.
+We must
+make a new breakthrough in our cooperation and uncover new potential.
+understand that we have prospects for humanitarian cooperation in the Russian
+Far East as well.
+achieved practical results during this regular meeting.
+Dmitry Medvedev
+: The Far East is
+important for our cooperation for obvious reasons as an area where the
+interests of many countries overlap. For us it is extremely important to
+develop its infrastructure. Recently we have adopted large programmes for the
+development of the Far East and its social
+sphere. China is one of the
+largest potential investors in different areas of the Far
+East.
+We adopted a special law on priority
+development areas, which give many advantages to investors if they provide
+long-term funding to projects on the territory of a particular region.
+Chinese investors have already
+displayed much interest in the Far East.
+Projects for this area cover a wide range, starting with agriculture and ending
+with high-tech production facilities. The
+total amount of contracted investment in the Far East
+exceeds a trillion roubles. Investors from the People’s Republic of China made a
+fairly substantial contribution to this sum.
+The formation of new trade platforms
+both in the West and the East, like the TPP (Trans-Pacific Partnership) or the TTIP (Transatlantic Trade and
+Investment Partnership) marks a
+significant departure from the concepts of the World Trade Organisation,
+resulting in a certain degree of fragmentation in international trade.
+If we agree to further
+integrate our economies we should think of how this would affect not only our
+economies but also the situation in the world.
+In 2015 we decided to link two
+concepts – the approach underlying the Eurasian Economic Union and the One
+Belt, One Road
+concept of the People’s Republic of China. At present we are blending
+these ideas at the scale of our economies. It is necessary to display caution
+in this respect, especially when it comes to changes in tariff policy, for
+instance repealing tariffs in many cases. We do not rule out that this may lead
+to the formation of a trade area and preferential regimes. As we make these
+decisions, it is necessary to consider all sensitive issues and potential
+problems. We will monitor future developments but our countries are fully committed
+to following this road.
+We believe this idea has a
+bright future.
+Government of the Russian Federation
+http://government.ru/en/news/25196/
+Highlight selection

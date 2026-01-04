@@ -1,0 +1,178 @@
+seed_url: http://government.ru/en/news/23837/
+final_url: http://government.ru/en/news/23837/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+11th ASEM Summit
+15 July 2016
+04:00
+Ulaanbaatar, Mongolia
+Dmitry Medvedev has spoken at the plenary session of the ASEM Summit, “Promoting ASEM partnership for greater connectivity”.
+11th ASEM Summit
+15 July 2016
+11th ASEM Summit
+15 July 2016
+11th ASEM Summit
+15 July 2016
+11th ASEM Summit
+15 July 2016
+Dmitry Medvedev’s conversation with the Prime Minister of the Grand Duchy of Luxembourg Xavier Bettel
+15 July 2016
+Dmitry Medvedev’s conversation with the Prime Minister of the People's Republic of Bangladesh Sheikh Hasina
+15 July 2016
+Dmitry Medvedev’s conversation with the President of the Swiss Confederation Johann Schneider-Ammann
+15 July 2016
+Dmitry Medvedev’s conversation with the Chancellor of the Federal Republic of Germany Angela Merkel
+15 July 2016
+Dmitry Medvedev’s conversation with the Premier of the State Council of the People’s Republic of China Li Keqiang
+15 July 2016
+A concert as part of the nomad festival Naadam
+15 July 2016
+A concert as part of the nomad festival Naadam
+15 July 2016
+Dmitry Medvedev’s conversation with the Prime Minister of the Kingdom of the Netherlands Mark Rutte
+15 July 2016
+Meeting with President of Cyprus Nicos Anastasiades
+16 July 2016
+Conversation with President of the Czech Republic Milos Zeman
+16 July 2016
+Предыдущая новость
+Следующая новость
+11th ASEM Summit
+The Asia-Europe Meeting (ASEM) was formally
+established at the first ASEM Summit in March 1996 in Bangkok, Thailand. ASEM currently
+has 53 partners, including 31 European members (28 EU member states plus
+Norway, Switzerland and the European Commission) and 22 Asian members (10 ASEAN
+economies plus Australia, Bangladesh, China, Japan, India, Kazakhstan,
+Mongolia, New Zealand, Pakistan, Russia, South Korea and the ASEAN
+Secretariat).
+Russia joined ASEM at the eighth summit in Brussels in
+October 2010.
+The Asia-Europe Meeting (ASEM) is an informal
+interregional process of dialogue for cooperation that addresses political,
+security, financial, economic, social and cultural issues.
+The biennial ASEM summits of the heads of state and
+government are held alternately in Asia and Europe.
+Dmitry Medvedev’s
+remarks at a plenary session of the 11
+ASEM Summit:
+11th ASEM Summit
+Chairperson, colleagues. I would like to begin by offering condolences to
+France over the horrible terrorist attack in Nice and to all the victims and
+their families. Terrorism has no borders and is a common challenge for both
+Europe and Asia. According to available information, 80 people, including
+children and many tourists, have died in the attack. The media report that
+there are EU and Russian citizens among the dead.
+It is a mournful event, and all
+of us must join forces to find common responses to such challenges as this one.
+We must also demonstrate solidarity, and make every effort to fight terrorism. Force
+is all terrorists and their sponsors understand, and that is what we must use.
+Visit
+Dmitry Medvedev answers journalists’ questions following the 11th ASEM Summit
+Dmitry Medvedev’s conversation with President of the Czech Republic Milos Zeman
+Dmitry Medvedev’s meeting with President of Cyprus Nicos Anastasiades
+Dmitry Medvedev’s conversation with the Prime Minister of the Kingdom of the Netherlands Mark Rutte
+Dmitry Medvedev’s conversation with Premier of the State Council of the People’s Republic of China Li Keqiang
+Dmitry Medvedev’s conversation with the Chancellor of the Federal Republic of Germany Angela Merkel
+Dmitry Medvedev’s conversation with the President of the Swiss Confederation Johann Schneider-Ammann
+Dmitry Medvedev’s conversation with the Prime Minister of the People's Republic of Bangladesh Sheikh Hasina
+Dmitry Medvedev’s conversation with the Prime Minister of the Grand Duchy of Luxembourg Xavier Bettel
+Meeting with President of Mongolia Tsakhiagiin Elbegdorj
+Meeting with Chairman of the State Great Hural of Mongolia Miyeegombyn Enkhbold
+Meeting with Prime Minister of Mongolia Jargaltulga Erdenebat
+I would like to express gratitude
+to Mongolia for its hospitality and this well-organised event.
+Russia is a unique country in
+that it is located both in Europe and in Asia. ASEM is a perfect venue for
+offering a common agenda. The geographic scope of this forum allows us to
+implement the most ambitious projects and find additional sources for
+individual growth and development in our cooperation. Therefore, we should use
+the ASEM platform to develop common rules of conduct for Eurasia. The issue
+concerns our common home and our common future. The tragedy that happened in
+France today has shown that our home is fragile and that we need to work
+together to create a new system of relations that would be in line with modern
+realities.
+What does this mean in practice? Experience
+shows that regular contacts and closer cultural, trade and economic cooperation
+is the best foundation for strengthening our interconnection. We firmly stand
+for harmonising integration processes in the ASEM area, which includes Europe,
+Asia and Asia Pacific. It is a fact that Europe has moved the farthest along
+this path. Asian countries are also actively creating a system of free trade
+agreements. Over a hundred such agreements have been signed, and it is obvious
+that their number will further increase.
+Working together with its
+partners – Armenia, Belarus, Kazakhstan and Kyrgyzstan, Russia has been
+promoting an integration project called the Eurasian Economic Union. It is a
+new market with standardised rules of competition and common duties, without trade
+barriers and with good investment opportunities. And lastly, the EAEU’s
+operation is fully in keeping with WTO principles.
+There will be other regional
+initiatives of this kind and they must not contradict international norms.
+Their task is to complement rather than replace the international trade system.
+However, integrational
+associations are not enough anymore. The member states of the Eurasian Economic
+Union are aware of this and are therefore open to cooperation with other
+alliances. A year ago, we signed a free trade agreement with Vietnam, and now
+we are holding consultations on preferential trade agreements with several, or
+more precisely, several dozen other countries.
+China is one of our leading
+partners in this respect. We have launched talks on a trade and economic
+agreement between the EAEU and China. We are also working to develop a broad
+economic partnership based on the EAEU and China’s Silk Road Economic Belt
+initiative.
+This idea was supported by Southeast Asian
+leaders at the ASEAN-Russia summit, which was held in Sochi two months ago. Moreover,
+it has been decided that the Shanghai Cooperation Organisation, including its prospective
+members – India and Pakistan – will join this project.
+However, the effect of this cooperation would
+have been larger had our EU partners joined in. I
+am convinced that our future lies in a common economic space from the Atlantic
+to the Pacific Ocean. We could begin by launching full-scale dialogue between
+the Eurasian Economic Union and the EU. We hope for a positive consensus within
+the EU on this issue. The sooner we start, the less time will be lost.
+Considering the high importance
+of these issues, we believe it would be wise to resume ASEM economic ministers’
+meetings, which have not been held for 10 years, but first making every effort
+to very carefully craft the agenda.
+Economic interconnectivity will
+not be effective without a reliable transport link. There is more to do in this
+area that in any other area of ASEM cooperation. It includes the development of
+the logistics of cargo transportation between Asia and Europe, cross-border
+corridors and transit security.
+As a country with a huge
+territory, Russia has been working to plot the best possible Eurasian routes
+and is modernising its railway system. We will continue doing this, and our
+plans include creating a modern and convenient logistics hub in the Russian Far
+East.
+I hope we will benefit from this
+project, if we coordinate our plans in advance.
+Russia supports ASEM’s activities
+in education. This year, for the first time, we will host the Summer University
+of the Asia-Europe Foundation. Students and researchers from many countries
+will meet in Vladivostok, Irkutsk and Chita, visiting Russian universities and
+meeting with business and public leaders to establish contacts. I hope this
+will promote the development of fruitful relations between our countries.
+I would like to say that all of
+us are satisfied with the results of the UN Climate Change Conference in Paris,
+which successfully concluded negotiations that have lasted for many years. The
+Paris Climate Change Agreement, which was signed in New York in April, covers
+accords reached on this issue between developed and developing countries. Now
+our common task is to formulate a package of decisions so that the Paris
+Agreement can come into force in the near future. Russia plans to limit greenhouse
+gases emissions to 70 percent of the baseline figure by 2030.
+Colleagues, this summit also
+marks 20 years since ASEM’s establishment. Over this period, ASEM has become
+firmly established as a major regional forum. We possess considerable potential
+for promoting cooperation between Europe and Asia. Russia intends to further
+contribute to ASEM’s development. I am confident that the results of this
+summit and the declarations that have been drafted, with due regard for the
+latest tragic events, will have a positive impact on our cooperation.
+Thank you.
+Government of the Russian Federation
+http://government.ru/en/news/23837/
+Highlight selection

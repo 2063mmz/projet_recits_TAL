@@ -1,0 +1,11 @@
+seed_url: https://www.ifa.gov.et/2025/09/08/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%8F%F0%9D%90%8C-%F0%9D%90%80%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%B2-%F0%9D%90%80/
+final_url: https://www.ifa.gov.et/2025/09/08/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%8F%F0%9D%90%8C-%F0%9D%90%80%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%B2-%F0%9D%90%80/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚’𝐬 𝐏𝐌 𝐀𝐛𝐢𝐲 𝐀𝐡𝐦𝐞𝐝 𝐏𝐫𝐨𝐩𝐨𝐬𝐞𝐬 𝐋𝐚𝐮𝐧𝐜𝐡 𝐨𝐟 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐂𝐥𝐢𝐦𝐚𝐭𝐞 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐂𝐨𝐦𝐩𝐚𝐜𝐭 𝐭𝐨 𝐃𝐫𝐢𝐯𝐞 𝐕𝐢𝐬𝐢𝐨𝐧𝐚𝐫𝐲, 𝐍𝐨𝐭 𝐀𝐢𝐝-𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐭, 𝐆𝐫𝐨𝐰𝐭𝐡
+date: Sep 8, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+In a bold move to reshape Africa’s approach to climate challenges, Prime Minister Abiy Ahmed proposed the launch of an African Climate Innovation Compact at the Second Africa Climate Summit today. This initiative aims to unite universities, research institutions, startups, rural communities, and innovators across the continent.
+Under the theme “Accelerating Global Climate Solutions: Financing for Africa’s Resilient and Green Development,” the three-day summit seeks to amplify Africa’s voice on global climate platforms and turn challenges into opportunities for shared prosperity.

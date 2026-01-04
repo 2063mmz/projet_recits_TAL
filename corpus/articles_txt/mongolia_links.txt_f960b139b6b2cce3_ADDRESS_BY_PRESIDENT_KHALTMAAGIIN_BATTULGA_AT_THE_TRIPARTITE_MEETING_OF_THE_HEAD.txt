@@ -1,0 +1,64 @@
+seed_url: https://president.mn/en/2019/06/14/address-by-president-khaltmaagiin-battulga-at-the-tripartite-meeting-of-the-heads-of-state-of-mongolia-russia-and-china/
+final_url: https://president.mn/en/2019/06/14/address-by-president-khaltmaagiin-battulga-at-the-tripartite-meeting-of-the-heads-of-state-of-mongolia-russia-and-china/
+title: ADDRESS BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE TRIPARTITE MEETING OF THE HEADS OF STATE OF MONGOLIA, RUSSIA, AND CHINA
+date: 2019-06-14T10:46:18+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/06/14 6:46:18
+ADDRESS BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE TRIPARTITE MEETING OF THE HEADS OF STATE OF MONGOLIA, RUSSIA, AND CHINA
+“Your Excellencies, the
+President of the Russian Federation, Mr. Vladimir Vladimirovich Putin, and the
+Chairman of the People’s Republic of China, Mr. Xi Jinping,
+Ladies and Gentlemen,
+My greetings to you!
+I am absolutely delighted to be
+participating in and chairing the Fifth Tripartite Meeting of the Heads of
+State of Mongolia, the Russian Federation, and the People’s Republic of China.
+Developing friendly and good neighborly
+relations as well as promoting mutually beneficial cooperation with Russia and
+China are priority directions of Mongolia’s foreign policy. I am satisfied with
+the vigorous development of our cooperation with Russia and China at the
+strategic partnership level and within all social spheres.
+In the margins of the 70th anniversary of
+diplomatic relations between Mongolia and China, I paid a successful state
+visit to China and attended the Second Belt and Road Forum for International
+Cooperation in Beijing last April. The preparations for the visit of President
+Vladimir Putin to Mongolia are underway, and I am confident that the visit will
+be successful and the joint celebration of the 80th historic anniversary of the
+Battles of Khalkhin Gol will be splendid.
+The Mongolian people are pleased with the active development of
+cooperation between Russia and China, our eternal neighbors. I would like to
+congratulate President Xi Jinping on the recent successful state visit to
+Russia.
+The high-level and stable development of bilateral cooperation
+between our three nations is creating a favorable environment for advancing
+trilateral cooperation.
+As a result of mutual efforts, the trilateral cooperation mechanism
+has been set up, the legal foundation was solidified, spheres of cooperation
+were expanded, and progress was observed in some sectors in recent years. Special
+progress was made in the sphere of transit transport, and the fact that the
+number of freight trains passing through Mongolia from China in the directions
+of Russia and Europe increased by 500 percent between 2016 and 2018 is a
+shining example of the benefits that can be gained from improved trilateral coordination.
+However, I am sure Your Excellencies will agree that the
+progress and developments in trilateral cooperation haven’t reached the level
+that we desire. It is very unsatisfactory that there hasn’t been a launch of
+any project that will leave positive impact on the livelihood of our people and
+the economic developments of our three countries in the last three years since
+the signing of the Mongolia-Russia-China Economic Corridor Program. Despite of
+existing feasibility studies that are acceptable by each side, we find
+ourselves in lack of a project.
+Therefore, at the conclusion of this meeting, we have to give
+instructions the corresponding institutions of the three countries with regard
+to the responsibilities towards intensifying trilateral cooperation, including an
+objective with a due date. In particular, I would like to have a practical
+discussion with Your Excellencies on ways to accelerate the implementation of
+the priority projects within the Economic Corridor Program.
+Moreover, I propose the establishment of a joint working group
+that is designated to study the feasibility of the project on construction of
+natural gas pipes, which has been on the trilateral agenda for many years, and
+to issue instructions based on their assessment.
+I would also like to propose the establishment of a multilateral organization for the Northeast Asian Energy Super Grid Project.”

@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2024/10/23/pm-abiy-arrives-in-kazan-to-participate-in-brics-summit-in-russia/
+final_url: https://www.ifa.gov.et/2024/10/23/pm-abiy-arrives-in-kazan-to-participate-in-brics-summit-in-russia/
+title: PM Abiy arrives in Kazan, to participate in BRICS summit in Russia
+date: Oct 23, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+PM Abiy arrives in Kazan, to participate in BRICS summit in Russia
+Prime Minister Abiy Ahmed arrived in Kazan, Russia, today to participate in the 16th BRICS Summit. He was received at the Kazan International Airport by the President of Tatarstan, Rustam Minnikhanov, according to a statement from the Tatarstan president’s office.
+Ethiopia became a member of BRICS on January 1, 2024, following a decision at the 15th BRICS Summit in Johannesburg in August 2023. This year’s summit in Kazan is the first that will include Ethiopia, along with other new members such as Egypt, Iran, Saudi_Arabia, and the UAE.
+Scheduled from 22 October to 24, the summit is part of Russia’s chairmanship of the group. Leaders from over 30 countries, including India, Iran, and the UAE, are expected to attend.

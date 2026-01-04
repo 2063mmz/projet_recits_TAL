@@ -1,0 +1,59 @@
+seed_url: https://president.uz/en/lists/view/543
+final_url: https://president.uz/en/lists/view/543
+title: President of Uzbekistan received Deputy Prime Minister of Turkey
+date: 18 November 2016
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+President of Uzbekistan received Deputy Prime Minister of Turkey
+25.05.2017
+On 25 May President of the Republic of Uzbekistan Shavkat Mirziyoyev received Deputy Prime Minister of the Republic of Turkey Yıldırım Tuğrul Türkeş, who is in our country within the frameworks of the fourth meeting of the Inter-governmental commission on trade-economic cooperation.
+The Head of State, welcoming the guest, stressed with satisfaction the intensification of contacts and bilateral cooperation in political, trade-economic, investment and cultural-humanitarian cooperation spheres.
+It was underscored that the productive meetings at the highest level, held during the visit of President of Turkey Recep Tayyip Erdoğan to Samarkand on 17-18 November 2016 and within the Belt and Road international forum in Beijing on 14 May of this year have given a strong impetus and opened new opportunities for further development of full-scale and mutually beneficial cooperation between the two countries.
+A specific attention was paid to the issues of enhancing practical cooperation with leading Turkish companies – joint implementation of concrete projects on establishing in Uzbekistan modern high-tech production facilities in textiles, leather, chemical and pharmaceutical spheres, production of construction materials, on deep processing of agricultural products and other areas, including at the “Urgut” free economic zone.
+The available significant potential for interaction in the tourism industry, including creation of modern tourist infrastructure, promotion of joint travel products, as well as training of qualified specialists in this sphere were highlighted.
+The parties noted with satisfaction the results of the meeting of the Uzbekistan-Turkey intergovernmental commission and investment forum in Tashkent with participation of companies and enterprises of Uzbekistan and Turkey, during which prospective directions and business projects for approximately 2 billion US dollars have been determined.
+Yıldırım Tuğrul Türkeş expressed gratitude to President of our country Shavkat Mirziyoyev for a warm welcome and conveyed the words of deep respect and best wishes of President of Turkey Recep Tayyip Erdoğan. On behalf of the leadership of Turkey, the Deputy Prime Minister thanked the Uzbek side for the support and created favourable conditions for the activity of Turkish companies in our country and reaffirmed the willingness to further develop full-scale bilateral cooperation.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

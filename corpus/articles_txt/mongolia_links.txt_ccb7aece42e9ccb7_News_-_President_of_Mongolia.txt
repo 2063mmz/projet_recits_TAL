@@ -1,0 +1,52 @@
+seed_url: https://president.mn/en/news/page/96/
+final_url: https://president.mn/en/news/page/96/
+title: News - President of Mongolia
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2025.06.04
+UN General Assembly Adopts Draft Resolution on “World Horse Day”
+2019/05/15 2:38:59
+GREETINGS OF CHIEF OF STAFF Z.ENKHBOLD TO THE ACADEMIC CONFERENCE DEDICATED TO THE 65TH ANNIVERSARY OF DIPLOMATIC RELATIONS BETWEEN MONGOLIA AND VIETNAM
+Chief of Staff to the President Z.Enkhbold extended greetings to the academic conference themed Mongolia-Vietnam Relations: History and New Era,
+Дэлгэрэнгүй
+2019/05/14 6:37:57
+PRESIDENT VETOES PACKAGE LAW ON TAXATION
+Today, President of Mongolia Khaltmaagiin Battulga put a veto on the General Taxation Law, the Law on Corporate Income Tax,
+Дэлгэрэнгүй
+2019/05/14 3:47:31
+OPENING SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE CONSULTATION ON THE VALUE OF FAMILY
+President of Mongolia Khaltmaagiin Battulga delivered an opening speech at the consultation on the Value of Family, which was held
+Дэлгэрэнгүй
+2019/05/09 11:07:58
+CHIEF JUSTICE OF THE SUPREME COURT APPOINTED
+Today, President of Mongolia Khaltmaagiin Battulga issued a decree (No.74) on appointing Batsuren Khukhiisuren to the position of Chief Justice
+Дэлгэрэнгүй
+2019/05/07 9:24:31
+MEETING WITH REPRESENTATIVES OF EIGER BIOPHARMACEUTICALS, INC.
+Today, President of Mongolia Khaltmaagiin Battulga met representatives of U.S. based Eiger BioPharmaceuticals, Inc., including David A. Cory, President and
+Дэлгэрэнгүй
+2019/05/07 5:25:20
+REMARKS BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE GROUNDBREAKING CEREMONY FOR THE MONGOLIAN NATIONAL FILM STUDIO
+Today, a groundbreaking ceremony for the Mongolian National Film Studio took place at the site of the Maidar EcoCity Project,
+Дэлгэрэнгүй
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+187

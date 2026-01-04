@@ -1,0 +1,16 @@
+seed_url: https://www.ifa.gov.et/2025/04/02/hon-dr-tesfaye-bejigu-and-h-e-jafar-bedru-engaged-with-young-diplomats-in-a-dynamic-training-session/
+final_url: https://www.ifa.gov.et/2025/04/02/hon-dr-tesfaye-bejigu-and-h-e-jafar-bedru-engaged-with-young-diplomats-in-a-dynamic-training-session/
+title: Hon. Dr. Tesfaye Bejigu and H.E. Jafar Bedru engaged with young diplomats in a dynamic training session,
+date: Apr 2, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Hon. Dr. Tesfaye Bejigu and H.E. Jafar Bedru engaged with young diplomats in a dynamic training session, fostering insightful discussions on diplomacy, the philosophy of Medemer, and the challenges ahead. A thought-provoking exchange shaping the future of Ethiopia’s diplomacy.
+H.E. Jafar Bedru delivered a profound lecture on the philosophy of Medemer at the Pre-Service Diplomatic Training Program, Civil Service University. At its core, Medemer is a philosophy of synthesis—uniting Ethiopia’s diverse society by focusing on commonalities rather than divisions.
+It serves as both a diagnosis and a remedy for the fragmentation within the state, addressing governance challenges and legitimacy crises.
+Medemer promotes the reintegration of political, economic, and social structures—offering a systematic approach to nation-building.
+By fostering unity in diversity, Medemer envisions an Ethiopia strengthened by collaboration, shared history, and collective aspirations.
+This philosophy is more than an idea; it’s a blueprint for sustainable governance and inclusive progress.
+#Medemer #Ethiopia #Leadership

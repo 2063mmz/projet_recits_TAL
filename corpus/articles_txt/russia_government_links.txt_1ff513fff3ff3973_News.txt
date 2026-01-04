@@ -1,0 +1,27 @@
+seed_url: http://government.ru/en/news/1048/
+final_url: http://government.ru/en/news/57466/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Denis Manturov meets with First Deputy Prime Minister of Belarus Nikolai Snopkov
+30 December 2025
+17:50
+Government House, Moscow
+Denis Manturov meets with First Deputy Prime Minister of Belarus Nikolai Snopkov
+Denis Manturov met with First Deputy Prime Minister of Belarus Nikolai Snopkov.
+First Deputy Prime Minister of Russia Denis Manturov
+met with First Deputy Prime Minister of Belarus Nikolai Snopkov.
+During the meeting, they discussed current issues of industrial
+cooperation, summed up the results of collaboraton in 2025, and outlined plans
+for the future. The ministers paid special attention to promoting advantageous
+cooperation projects in engineering.
+Person:
+Denis Manturov
+Government of the Russian Federation
+http://government.ru/en/news/57466/
+Highlight selection

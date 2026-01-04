@@ -1,0 +1,53 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5583&keywords=
+final_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5583&keywords=
+title: Belt and road : A Chinese world order | Kementerian Luar Negeri
+date: 2018
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Text
+Belt and road : A Chinese world order
+China's Belt and Road strategy is acknowledged to be the most ambitious geopolitical initiative of the age. Covering almost seventy countries by land and sea, it will affect every element of global society, from shipping to agriculture, digital economy to tourism, politics to culture. Most importantly, it symbolizes a new phase in China's ambitions as a superpower: to remake the world economy and crown Beijing as the new center of capitalism and globalization.
+Contents:
+1. What is the belt and road?
+2. Nuts and bolts
+3. The belt and road and the world economy
+4. The belt and road and world politics
+5. The world after the belt and road.
+Ketersediaan
+2024-2814
+338.91 Mac b
+Perpustakaan Diplomasi
+Tersedia
+Informasi Detail
+Judul Seri
+No. Panggil
+338.91 Mac b
+Penerbit
+New Brunswick
+Hurst & Company
+2018
+Deskripsi Fisik
+v, 228 pages ; 23 cm
+Bahasa
+English
+ISBN/ISSN
+978-178-738-002-8
+Klasifikasi
+338.91
+Tipe Isi
+Tipe Media
+Tipe Pembawa
+Edisi
+Subjek
+Chinese
+world order
+Info Detail Spesifik
+Pernyataan Tanggungjawab
+Bruno Macaes
+Versi lain/terkait
+Tidak tersedia versi lain
+Komentar
+Anda harus masuk sebelum memberikan komentar

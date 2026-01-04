@@ -1,0 +1,108 @@
+seed_url: http://government.ru/en/news/41002/
+final_url: http://government.ru/en/news/41002/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+25th regular meeting of Russian and Chinese heads of government
+2 December 2020
+12:00
+The meeting was held via videoconference.
+Prime Minister of the Russian
+Federation Mikhail Mishustin and Premier of the State Council of China Li
+Keqiang discussed a range of relevant issues on the expansion of Russian-Chinese
+relations, comprehensive partnership and strategic cooperation. Particular
+attention was paid to cooperation in investment, industry, energy, agriculture
+and transport, and the need to intensify scientific, educational, cultural and
+humanitarian contacts.
+From the transcript:
+25th regular meeting of Russian and Chinese heads of government
+Mikhail Mishustin
+: Mr Li Keqiang, my
+Chinese friends,
+I am delighted to
+welcome you to the 25th meeting of Russian and Chinese heads of government. We
+are videoconferencing this year because of the coronavirus pandemic and I know
+that this format does not fully meet our needs. Our bilateral agenda is too packed
+and requires person-to-person contact.
+At the same time,
+even in this difficult situation, our dialogue has not been interrupted. This
+confirms the special and unique nature of the all-embracing partnership and
+strategic cooperation that links Russia and China.
+For a quarter of a
+century, this mechanism of regular meetings has ensured the coordination of our
+hands-on cooperation in all areas and helped find the best solutions to the
+tasks we face. This opportunity to compare notes on key issues in a timely
+manner really makes a difference, at all levels. Today we will discuss what has
+been done in the past year and outline our plans for the future.
+Our relationship
+is based on strong traditions of neighbourly interaction and mutual respect
+and, of course, a centuries-old common history. Last year, we marked 70 years of
+our diplomatic relations. In 2020, we have marked the 75th anniversary of the
+Victory. We celebrate together because indeed, during the Second World War, our
+peoples fought shoulder to shoulder against a common enemy. Now that the world is
+dealing with the threat of the novel coronavirus infection, we are also supporting
+each other – we send humanitarian aid, medical specialists, and organise the
+production of vaccines and modern medicines. I would like to thank our partners
+for their support. I believe that China's success in the fight against
+coronavirus deserves the highest praise.
+Russia sees China not only as a longtime friend but as
+its largest trading partner. The People’s Republic of China accounts for about
+17 percent of Russia’s foreign trade. Unfortunately, mutual trade volumes have
+decreased somewhat, due to the coronavirus pandemic. I am confident that, given
+the pace and dynamics of Russian-Chinese cooperation, we will quickly return to
+growth in mutual trade, all the more so as the leaders of our countries,
+namely, President of Russia Vladimir Putin and President Xi Jinping, have set
+an ambitious goal, that is, expanding mutual trade volumes to $200 billion.
+We need to intensify joint efforts to overcome the negative
+economic consequences of the coronavirus pandemic. For this purpose, we need to
+enhance cooperation in all areas, including industry, agriculture and
+transport. We have to expand cooperation in the field of digitalisation and to
+find new promising forms and areas of cooperation.
+It is necessary to expand investment interaction.
+Today, we are actively implementing 90 important investment projects, mostly in
+the area of energy, industrial production, agriculture and the infrastructure.
+The Russian Government is ready to provide all necessary support for their
+implementation.
+It goes without saying that cooperation between our
+countries is not limited to trade and investment. We actively expand cultural and
+humanitarian ties, as well as inter-regional interaction. The Years of
+Russia-China Inter-Regional Cooperation have been held successfully. They
+provided a good impetus for expanding contacts at a local level. We are now
+holding the Years of Russia-China Science and Technological and Innovation
+Cooperation.
+This will help expand cooperation between our
+countries in fundamental and applied research, state-of-the-art technologies
+and innovations, to broaden the scale of joint research projects and improve
+their efficiency. We consider the expansion of humanitarian exchanges to be
+particularly important. They strengthen the traditions of friendship,
+cooperation and neighbourliness.
+I would like to congratulate you and the entire
+Chinese nation on the successful landing of the Chang’e 5 probe on the Moon.
+This is a landmark achievement of the Chinese space programme. I am convinced
+that Russian-Chinese cooperation in the area of space exploration will continue
+to develop dynamically.
+And one more aspect. Our countries consider it
+important to expand cooperation between the Eurasian Economic Union and China,
+including efforts to merge the Belt and Road Initiative and the Eurasian
+Economic Union. During such cooperation, we need to start establishing a system
+of digital corridors between the five Union member countries and China, to
+create favourable conditions for introducing electronic certification in mutual
+trade, as regards a number of goods, and to launch dialogue on the foreign
+trade policies of the Eurasian Economic Union and China. All this will provide
+new opportunities for joint work and will make it possible to conduct mutually
+beneficial cooperation. Colleagues, we have a large agenda today. After
+introductory remarks by Mr Li Keqiang, we will discuss the most important
+matters that define the main areas of Russian-Chinese cooperation, we will hear
+reports by the co-chairs of five intergovernmental commissions, which are part
+of the mechanism of regular meetings between heads of government.
+<…>
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/41002/
+Highlight selection

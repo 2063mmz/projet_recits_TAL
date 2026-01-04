@@ -1,0 +1,46 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5658&keywords=
+final_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=5658&keywords=
+title: The belt and road initiative | Kementerian Luar Negeri
+date: 2019
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Text
+The belt and road initiative
+The Belt And Road Initiative (English Edition) takes part of the speech Work Together to Build the Silk Road Economic Belt made by President Xi Jinping in Nazarbayev University of Kazakhstan in September 2013 as the starting chapter and part of the speech made by President Xi Jinping on the opening of the eighth ministerial conference of the China-Arab States Cooperation Forum (CASCF) as the closing chapter. It includes 42 scripts of building the Belt and the Road Initiative made by President Xi Jinping, with approximately 130,000 Chinese characters.
+Ketersediaan
+2024-2898
+330.951 Jin b
+Perpustakaan Diplomasi
+Tersedia
+Informasi Detail
+Judul Seri
+No. Panggil
+330.951 Jin b
+Penerbit
+China
+Foreign Languages Press
+2019
+Deskripsi Fisik
+308 pages ; 24 cm
+Bahasa
+English
+ISBN/ISSN
+978-7-119-11998-4
+Klasifikasi
+330.951
+Tipe Isi
+Tipe Media
+Tipe Pembawa
+Edisi
+Subjek
+China--Economic conditions
+Info Detail Spesifik
+Pernyataan Tanggungjawab
+Xi Jinping
+Versi lain/terkait
+Tidak tersedia versi lain
+Komentar
+Anda harus masuk sebelum memberikan komentar

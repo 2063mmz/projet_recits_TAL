@@ -1,0 +1,106 @@
+seed_url: http://en.kremlin.ru/events/president/transcripts/74046
+final_url: http://en.kremlin.ru/events/president/transcripts/74046
+title: Beginning of the conversation with President of China Xi Jinping
+date: 2024-05-16
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Beginning of the conversation with President of China Xi Jinping
+May 16, 2024
+07:00
+Conversation with President of China Xi Jinping. Photo: Konstantin Zavrazhin
+Xi Jinping
+Xi Jinping
+President of People's Republic of China
+(retranslated)
+Esteemed President Putin and ministers of Russia!
+Esteemed President
+Putin, my great friend, I welcome you on your state visit to China.
+Several days
+ago, you took the oath of office and officially started your fifth presidential
+term. I would like to congratulate you and, through you, the entire Russian
+people on this once again. I am convinced that you will certainly lead Russia
+to great achievements in national development and revival.
+The current year is marked by the 75
+anniversary of China-Russia
+diplomatic relations. In the past three quarters of the century, these
+relations have tempered in hard conditions, stood the test of the volatile
+international situation and become a model of ties between large powers and neighbours. They are distinguished by mutual respect, trust and friendship, and reciprocal benefits.
+During
+these years, we met at least 40 times. Such close ties allow us to map out
+strategic areas for preserving the stable and rapid dynamics of growing
+Sino-Russian relations. This was a hard job and therefore, these relations
+require utmost care.
+Sustainable
+development of Sino-Russian relations not only meets the vital interests of our
+two countries and peoples but also benefits the cause of peace and prosperity
+in the region and the rest of the world. In the new period, we intend, as always,
+to be good neighbours, trusted friends and reliable partners with Russia. We are
+going to consistently strengthen the centuries-long friendship between our peoples,
+promote together national development and revival, and uphold international
+equality and justice by concerted efforts.
+Thank you!
+See also
+Russian-Chinese talks
+May 16, 2024
+President of Russia Vladimir Putin
+: Your Excellency Mr Xi Jinping, my dear friend,
+I am sincerely delighted to return to China and enjoy its hospitality, meet my friends here and have a meeting with you six
+months after my previous visit.
+I would like to thank you for sending me a message congratulating me on my re-election as President of the Russian
+Federation.
+And thank you so much for your invitation to visit.
+By the same token, your visit to Moscow in March 2023 took place immediately after your election as President of the People’s Republic of China. We have thus forged this positive and commendable tradition
+of paying each other our first foreign visits upon our election. It serves as a testament to the unwavering commitment of both Moscow and Beijing to expand
+their bilateral relations within the framework of their comprehensive
+partnership and strategic cooperation.
+As you have just said, we will be marking a major milestone, an anniversary. On October 1, we will celebrate 75 years since
+the establishment of the People’s Republic of China, and the very next day, on October 2, our two countries established diplomatic relations. The Soviet Union
+was the first country to recognise the new China.
+Moscow and Beijing have built a solid track
+record in terms of their practical cooperation. In 2023, bilateral trade
+increased by almost 25%, reaching $227 billion, which was quite a positive result.
+China is Russia’s main trade and economic
+partner. Last year, Russia became the PRC’s fourth largest trading partner,
+which is attributable, in part, to the adoption following your March 2023 visit
+to Moscow of a development plan spanning the key sectors of Russia-China
+economic cooperation until 2030.
+Our priorities include energy, manufacturing,
+agriculture (and we have already touched upon this topic on our way here), as well as cooperation in high technology, innovation, infrastructure,
+construction and transport.
+We have also expanded our scientific and cultural cooperation, and will hold the cross years of Russian and Chinese
+culture in 2024 and 2025 just as we agreed.
+It is of fundamental significance that
+relations between Russia and China do not depend on short-term considerations
+and are not directed against anyone. Today, our cooperation in global affairs
+is one of the main stabilising factors on the international stage. We are
+acting jointly to uphold the principles of justice and a democratic world order
+that reflects multipolar realities and is based on international law.
+Russia and China have been effective in working
+together within the United Nations, BRICS, the SCO, as well as the G20. We
+reaffirm our commitment to taking further steps to harmonise integration
+processes across the Eurasian space and align EurAsEc potential with the Belt
+and Road Initiative you are promoting, my dear friend. I do hope that this
+visit injects even greater momentum into our efforts to expand our bilateral
+cooperation in all its aspects.
+Once again, I would like to emphasise that I am
+delighted to come to China and to see you.
+Thank you very much.
+<…>
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Persons
+Xi Jinping
+Publication status
+Published in section:
+Transcripts
+Publication date:
+May 16, 2024, 07:00
+Direct link:
+en.kremlin.ru/d/74046
+Text version

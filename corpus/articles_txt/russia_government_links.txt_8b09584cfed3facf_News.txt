@@ -1,0 +1,419 @@
+seed_url: http://government.ru/en/news/4462/
+final_url: http://government.ru/en/news/4462/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev’s Interview With Vladimir Pozner of First Channel Television
+4 June 2012
+16:00
+Transcript:
+Vladimir Pozner:
+Welcome to “Pozner.” My guest is Prime Minister and Chairman of the United Russia party Dmitry Medvedev. Good evening!
+Dmitry Medvedev:
+Good evening!
+Vladimir Pozner:
+First of all, I’d like to thank you for coming. You’ve surprised me three times. First, I did not expect you to come at all, particularly for a live broadcast, not at all! And, finally, I was surprised that nobody asked me to provide the questions in advance. So that’s three surprises. This does not happen to me often, so thank you.
+Dmitry Medvedev:
+Now the main thing is to make our conversation interesting as well.
+Vladimir Pozner:
+Yes, I’ll do my best…
+Dmitry
+Medvedev
+Me too.
+Vladimir Pozner:
+I’d like to ask you several questions about your life, if I may. When you met with university students in St. Petersburg, you told them about your beginnings. You said that you even worked as a street cleaner and made 120 roubles a month plus 50 roubles from a scholarship.
+Dmitry Medvedev:
+I made 120 roubles with a bonus, otherwise I made 80.
+Vladimir Pozner:
+You said this was a decent sum – enough to live on and even to have some fun. That’s how you recalled those times. In general, do you have fond memories from this period in your life? Were you happy then?
+Dmitry
+Medvedev
+Of course, your childhood and student years are probably the most exciting period in anyone’s life and leave the strongest impressions. Everything is happening for the first time. There are so many new emotions. I loved this period of my life.
+Vladimir Pozner:
+You once admitted that you had no ambition to work in government. You lived your own life and did your own thing. You like it and thought that you even managed to achieve something. And how did all this happen then? You didn’t dream of it, you didn’t want it, but you not only went into public service, you became president of this country. How could you get to that position without the desire?
+Dmitry Medvedev:
+As the saying goes, “Never ask for anything, it will be offered to you anyway.” It appears that there was a combination of certain factors  – some of my traits that my colleagues were familiar with, on the one hand, and a confluence of circumstances, on the other. Indeed, I did not strive to attain any particular position. I lived a normal life as a teacher, a practicing lawyer, a corporate lawyer. I just tried to live a normal life and make enough money for my family, but things worked out differently. In 1999, I received a phone call from Mr Sechin who said: “Mr Medvedev, the prime minister wants to talk to you…”
+Vladimir Pozner:
+Did you know Mr Sechin back then?
+Dmitry Medvedev:
+Of course, I did. I knew all of them. We have all known each other since 1991. After we talked, Mr Putin invited me to come to Moscow and discuss the future. I could imagine that I’d be offered something, and I was, in fact, offered an interesting position – to head the commission on securities. I was interested. I studied this subject as a researcher and dealt with it in practice. I gave it some thought and agreed – plus it was in Moscow…
+Vladimir Pozner:
+And you never looked back.
+Dmitry Medvedev:
+That’s right. But I never became head of that securities commission, though. Life took me in a different direction. I began by working as the deputy chief of government staff and then as the deputy to the presidential chief of staff. And after Vladimir Putin was elected president, I was appointed first deputy chief of staff to the president and, later, chief, and then I went to the government. I met with you during that period to discuss various things.
+Vladimir Pozner:
+We did, yes.
+Dmitry Medvedev:
+Well, some time later I was elected president. And now I’m prime minister.
+Vladimir Pozner:
+I cannot help wondering whether you regret at all having served just one four-year presidential term?
+Dmitry Medvedev:
+You see, I feel that being president is very exciting, but it’s extremely demanding, too, because the president of a nation is at the very top and is responsible for everything. Being prime minister may also be quite interesting, as well as multifaceted, so from the point of view of self-fulfillment both positions offer a lot of possibilities.
+As for what I’ve done or haven’t done, sure, there are things yet to be done. Life goes on, so I’m positive I’ll catch up. Perhaps I could have done more, but such is life.
+Vladimir Pozner:
+There was a period when you were in charge of the presidential staff. Do you know what people called you in those days?
+Dmitry Medvedev:
+No.
+Vladimir Pozner:
+Wazir. You didn’t know that?
+Dmitry  Medvedev:
+I read something about that somewhere, but I’ve honestly never heard that nickname before. No one would have greeted me by saying: “Hi, Wazir!”
+Vladimir Pozner:
+Why do you think you were called that?
+Dmitry Medvedev:
+It’s hard to say. I think it stems from my confidential relationship with Mr Putin, who was president at the time. That kind of a relationship may have suggested the nickname.
+Vladimir Pozner:
+Your appointment as
+the curator of so-called national projects was taken by many as a signs of an imminent promotion. Why don’t we hear anything about them these days? There’s just no talk about this. Moreover, the phrase “affordable housing” to this day remains pure rhetoric. How would you comment on that fact that 86% of the respondents of an Internet survey conducted by the newspaper
+Argumenty i Fakty
+do not think that any of those projects has really improved what they were meant to improve? Are all those people wrong? What do you think?
+Dmitry  Medvedev:
+First of all, any sampling is subjective by definition. Its representativeness, to use a sociological term, is a whole other matter. Secondly, I’m proud of my work administering these national projects and, modesty aside, we came quite a long way, I think. Not in every area. But agriculture, for example, has been transformed dramatically in the past five to seven years, and any person involved in this sector would tell you the same.
+As for housing, the issue is a complicated one. We discussed it earlier today. The amount of dilapidated housing included in the programme has been on the rise. It was 7 million square metres initially, and now the figure has grown to 10 million. We are trying to resolve this problem, but residential buildings are getting older and fall into the category of structurally deficient and unsafe structures.
+Secondly, no one is ever satisfied with his or her housing conditions. This is a need people strive to meet throughout their lives, but we’ve got the appropriate mechanisms in place.
+And finally, it’s not true that we’ve neglected them. There are special bodies attending to them, and the president and the prime minister regularly hold related events. National projects continue to be financed, with some of the funding now allocated as part of state programmes. It’s tens of billions of roubles. So the projects live on. It’s just that they’ve become less visible, which is only natural given that they were launched six years ago.
+Vladimir Pozner:
+I’d like to ask you why you change your point of view every now and then. Speaking of direct gubernatorial elections, you said in 2009 that you saw nothing to make you change your mind, not even in a hundred years. Yet two years on, you said it was realistic to restore direct elections in 10-15 years. Direct elections were ultimately reinstated just one year later. Admittedly, there are certain filters to pass through, but the elections are direct again. Why such a U-turn on that? And why has your stance on some other issues changed dramatically as well?
+Dmitry  Medvedev:
+You’re asking why? Because I’m a politician and, hopefully, a sensible person, who follows the evolution of the political system, drawing on information from a variety of sources. I’ve explained this repeatedly. I watch TV, but I’m also a big Internet user, you know. Along with wires carrying reports about events in this country, I rely on many other sources as well. Society changes, and my point of view changes accordingly. I see nothing wrong with this. I said sincerely – and maybe a bit overemotionally – that we needn’t wait a hundred years. I thought so then. But my position has changed since then because I can now see how much it matters. This isn’t about a change in public sentiment. It’s just that in the past two or three years I’ve become convinced that people really want to elect their regional leaders on their own. This is the main thing that made me change my mind. And that’s the right thing to do, I think. Every politician, every leader should be responsive to the needs of the public. Otherwise they will become inflexible and make the wrong decisions.
+Vladimir Pozner:
+Do you think they didn’t want this in the past?
+Dmitry Medvedev:
+No, they didn’t, because, first of all, there was less of a demand for elections some time ago. Second (there is nothing to conceal) our society is very complicated and the state is very complicated. And in a federated state possessing various tendencies including separatism (I mean our big problems, such as terrorism) this decision situation was not an easy one given the situation – a decision to embrace a different system of delegating authority. This system worked for a while, it did what it was designed to do – it made it possible to strengthen the country, but it ran its course at some point. And the task of the leaders of the country and my task as president in that period was to recognise when the time had come to say: “That’s enough, we must embrace a different system.” They supported me, the deputies supported me, and most importantly, people supported me. They said: “Yes, we want this.”
+Vladimir Pozner:
+However you thought it necessary to have some sort of filter and you think…
+Dmitry Medvedev:
+My attitude to this is not that straightforward. I think that a political system should develop not by leaps and bounds but gradually.
+Concerning filters, the law that came into force on June 1 has no filters in terms of terminology. There are two options. The first option is for the president to hold consultations, but only if he wants to and believes they are advisable, although their legal outcome will be completely uncertain. The president has no right of veto in this area. And the second option that arose during the discussions is to win the municipal deputies’ vote for the candidate. Such a system exists in other countries, such as France, and it brings politics closer to the people. But we remember the 1990s when people came in with teams of political experts and, as a result, regions got governors that had nothing to do with these regions. Sometimes they were talented, sometimes not, sometimes hard workers, sometimes idlers. But using various technical tricks they achieved the necessary results. I think that the support of the deputies will mean that the candidate is acceptable at the municipal level.
+Vladimir Pozner:
+In my previous programme, my question to you had to do with the United Russia’s convention. I will get back to you with these questions later, but now I would like to move on to questions related to your government, which now has 75% of new members. That’s a major turnover. What many find so interesting is not just the new faces in the government, but the fact that most of the former influential government officials moved to offices in the presidential executive office. I will quote
+The Wall Street Journal
+as one of such sources. This is what they write: “Mr Putin named seven of the ex-ministers to advisory posts in his presidential administration, positioning them as counterweights to their cabinet successors.” They go on to say this looks very much like a parallel government making real decisions in the shadow, whereas your government will bear the responsibility for all the failures. This is what they are saying. So, where is the genuine executive power positioned: in the Kremlin or in the Russian government building? For example, the office of the much criticised Minister of Healthcare and Social Development Tatyana Golikova is now filled by her deputy and Ms Golikova has been appointed a presidential advisor. Who has more power, she or her former deputy?
+Dmitry Medvedev:
+I became deputy chief of staff on December 31, 1999. That was a long time ago. Like I mentioned earlier, I was deputy chief of staff, first deputy chief of staff, chief of staff and then president for four years. In other words, the presidential executive office was my workplace. I can tell you this with absolute authority as someone who knows the situation from the inside: the presidential executive office is an important body that provides support for the president’s work. It’s a corps of aides. However, from all my experience with the presidential executive office, I can’t remember anyone in the executive office ever controlling the government. There is only one person who can issue direct instructions. I’m sure you know who I am referring to.
+Vladimir Pozner:
+Yes, of course.
+Dmitry Medvedev:
+That’s the president. All the other people act as advisors. That’s my first point. My second point is that the officials who went to work in the presidential executive office are all highly skilled professionals and my colleagues. I recommended some of them to ministerial positions in the government led by Vladimir Putin.  They will all have their own areas of responsibility that have nothing to do with the decisions being made by the government. This was explicitly stated in an explanatory note issued by the executive office. They operate within their respective areas of responsibility and fulfil specific assignments. That’s the way it has always been, and I can’t remember things ever being any different.
+Vladimir Pozner:
+In other words, you have nothing to worry about in this regard?
+Dmitry Medvedev:
+Absolutely not. Not only do I not have anything to worry about here, but unlike the people from The Wall Street Journal or other people who find it hard to understand us, I know how things really work in the presidential executive office and the cabinet. It cannot be any different no matter who sits in the prime minister’s chair.
+Vladimir Pozner:
+Now I would like to ask you this: are you 100 percent satisfied with the government you are now heading? Does it have all the people you wanted to see as part of the team? Did you compromise on anything and had to take on somebody on some one else’s advice or under pressure, to put it mildly? More specifically, there were some appointments that many found surprising, for example, the choice of Mr Medinsky for Minister of Culture. Was that your decision?
+Dmitry Medvedev:
+I am not going to surprise you here. My answer is simple: he was my choice. Second, President Vladimir Putin endorsed the entire list of government candidates I had submitted to him, 100 percent. There are no people in the government that made it there by some other means. To be honest, he and I discussed many candidates before his inauguration, when he was President-elect and I was the outgoing President. That is absolutely normal. We had an open and sincere discussion on all these matters and his position was simple: he was ready to back any recommendations made by the Prime Minister if only because whoever he nominated as Prime Minister had the right to form his own team. It was the same four years ago when Vladimir Putin formed his government. This is an absolutely normal situation.
+Vladimir Pozner:
+Does your answer mean that you are absolutely satisfied?
+Dmitry Medvedev:
+I did not say I am absolutely satisfied because one can feel absolute certainty only when there are positive results. However, it is a fact that the government is composed exclusively of the people I recommended. I believe this government has great potential, and the reason for that is exactly what you said. On the one hand, the government is made up of 75% new people, and on the other hand, it has no members who are entirely new to the state system. That is very important. I also had my illusions when I joined the civil service. I was a successful young man, 34 years old at the time. And I thought that if I was a success, for example, in business, if I could manage a board of directors, I would also be able to run the government machine. But it was nothing of the kind. The work is completely different. It is very important that the new ministers do not get sidetracked now that they are part of the government, but do the work they feel they must do. This explains why some deputy ministers have been promoted to ministerial posts. I think it is a good way to show that these people have great potential.
+Vladimir Pozner:
+Speaking of particular appointments, there are two people who are attracting great attention around the country. One is Mr Nurgaliyev, whom you have replaced. Is this to be understood as his failure to implement the reform of the Interior Ministry, a job you were personally engaged in? On the other hand, Mr Serdyukov, who is also involved with reforms, has stayed on. Does this mean you are satisfied with the way he has been executing the reform of the armed forces?
+Dmitry Medvedev:
+I will answer your question, but first I’d like to get back to something I didn’t respond to earlier. I am a fairly scrupulous person in this respect.  You asked me about Mr Medinsky.
+Vladimir Pozner:
+Yes, you said he was your choice.
+Dmitry Medvedev:
+That’s right, he was my choice. It is just that no question must be left unanswered.
+Vladimir Pozner:
+You’ve answered it.
+Dmitry Medvedev:
+I believe him to be a person of great potential, but the main thing about Mr Medinsky is that he has a great deal of energy.  I have been getting bored with ministers who sometimes doze off at cabinet meetings.
+Vladimir Pozner:
+Energy can go different ways.
+Dmitry Medvedev:
+Well, let us hope his will be put to constructive purposes and used for peaceful aims. And if any problems crop up, I am sure you will tell me about them.
+Vladimir Pozner:
+Absolutely. Agreed.
+Dmitry Medvedev:
+Good. Now about the two ministers you have mentioned, Rashid Nurgaliyev and Anatoly Serdyukov. The former interior minister did his job honestly and conscientiously. That does not mean he succeeded in everything. The Interior Ministry has its problems and is undergoing a reform. That is point one. Point two is that the ministry is under the closest and most critical attention of civil society. Any misstep, a single wrong wave of a road baton, let alone serious abuses or offences, reflect directly on the minister. Of course, this is a great challenge for anyone, but Minister Nurgaliyev was the one who launched the Interior Ministry reform. Naturally, it is for the public and decision-makers to judge what was achieved and where he has failed. And I think that he has been successful in some areas, whatever people say. We have new rules and new legislation, and a raft of outdate practices are now things of the past.
+Vladimir Pozner:
+Yet he did not keep his seat on the government.
+Dmitry Medvedev:
+Yes, because it is high time a new person took over the process, brought his individuality to it and, I hope, achieved greater success.
+Now about Mr Serdyukov.
+Vladimir Pozner:
+Yes.
+Dmitry Medvedev:
+It so happened that the situation at the Defence Ministry is now perhaps under less public scrutiny and people are not as concerned as about the Interior Ministry – this is the way life goes.
+Vladimir Pozner:
+Yes, but people are still concerned.
+Dmitry Medvedev:
+Not as much as they were in the past. Incidentally, the situation began to alter when the Defence Ministry kicked off its reforms. The length of military service was two years at the time, and that entailed one type of situation. Now it has been reduced to one year and results in a different outlook. My belief is that Anatoly Serdyukov, no matter what people said about him or how they criticised him (that is absolutely normal), is a successful minister. Over the past several years, say four to five, he has done more for the reform than anyone else before him. Today we have entirely different armed forces. I was personally involved in this effort as Commander-in-Chief and consider myself to be knowledgeable in this area.
+Vladimir Pozner:
+Could you please say a few words about the criteria you use when making personnel decisions? What is more important for you: professionalism or personal loyalty? After all, both factors play a certain role.
+Dmitry Medvedev:
+I can’t believe that you expect me to say I value personal loyalty above all, and professional qualities play no part in the matter.
+Naturally, professionalism comes first. A professional must be able to work steadily, without making abrupt turns all the time. Yes, professionalism certainly comes first.
+Vladimir Pozner:
+Did any candidates decline your offer to join the government?
+Dmitry Medvedev:
+No, nobody declined because when I made my offer I knew that it would be accepted. When I am aware that someone does not want to work in a particular position, then I will never make the offer, so as not to put him or her, or myself for that matter, in an awkward position. Everyone discussed it with joined the government.
+Vladimir Pozner:
+During Vladimir Putin’s presidency, it was widely believed that the prime minister is an auxiliary figure with little independence. In this sense, the Russian prime minister is different from his French counterpart who is a powerful figure. In some cases, the French prime minister is a member of the opposition party. This leads to the collaboration of two extremely powerful figures. The situation in Russia is different. Do you have any concerns that you will be viewed as a nominal prime minister, who is not supposed to express some of his views?
+Dmitry Medvedev:
+Actually, it’s not the prime minister’s job to express his views...
+Vladimir Pozner:
+Yes, I agree.
+Dmitry Medvedev:
+His job is to manage the economy, the social sector and to implement reforms.
+This is the first thing. Second, let me make a simple point by giving you a list. This may surprise you, but here is what I will say. Vladimir Putin, Mikhail Kasyanov, Mikhail Fradkov, Viktor Zubkov and Vladimir Putin again – these were all prime ministers I have known and have worked with personally. None of them were, as you say, a nominal prime minister because there can be no such thing as a nominal prime minister. Only a person who has worked in this capacity can make competent decisions as to what needs be done and how. I’m talking about a standard situation. Every day, the prime minister – and I came into my office today – signs dozens of government decisions, resolutions and executive orders, which have a direct impact on the lives of millions of people. Incidentally, the prime minister signs more documents than the president. The president has a lot of responsibilities but some of them are just nominal. And all these decisions directly influence the economic situation. Their weight is colossal. Do you really think that any one of the prime ministers I have named would place a call to someone and asked what they should do before signing such documents? A person who signs something always assumes the responsibility for it. Always! Consequently, this post can never be purely nominal in Russia.
+Vladimir Pozner:
+Tell me please, were you a member of the Soviet Communist Party?
+Dmitry Medvedev:
+Yes, I was, just like you, Mr Pozner.
+Vladimir Pozner:
+Yes, that’s right, just like me.
+Dmitry Medvedev:
+But
+I spent less time in the Communist Party.
+Vladimir Pozner:
+But I’m older.
+Dmitry Medvedev:
+That’s true.
+Vladimir Pozner:
+Yes. And now you have joined United Russia.
+Dmitry Medvedev:
+Yes, I have.
+Vladimir Pozner:
+So let’s talk about
+United Russia.
+Dmitry Medvedev:
+Let’s talk about it.
+Vladimir Pozner:
+When you agreed to become the leader of United Russia, did you stipulate any conditions? Did you say you would take the post only if certain conditions were fulfilled?
+Dmitry Medvedev:
+I have known United Russia, including its leaders, for a long time. I did not decide overnight that I must join the party in order to bring about change. Frankly, it was a matter of choice for me because for a while many former members of the Soviet Communist Party had the feeling that it wasn’t necessary to join the party for the second time. Later I reassessed this situation in an entirely different context, as a person whose job it is to promote democratic development in Russia. It turns out that I’m the first prime minister who has joined a political party.
+Vladimir Pozner:
+In Russia?
+Dmitry Medvedev:
+In Russia over the past few years.
+Vladimir Pozner:
+Yes.
+Dmitry Medvedev:
+And this is absolutely as it should be. This is what democracy is all about because political parties cannot develop if you always remain above the competition. This concerns a party with controlling interest and other parties. The prime minister should represent a certain political movement, and he should work from the inside, rather than from above. This involves certain risks, but, at the same time, it is an honest stance. This is why I made this decision.
+Now, about my conditions. You know, it is probably wrong to set conditions when you are invited to join an organisation. However, I did stipulate certain things, and this is obvious. I stipulated the need to implement major reforms
+in the party. To be honest, I believe that any party should do this every 10 to 12 years in any country and in any political system. This is also true of Russia because people become tired of seeing the same faces, the same organisations and so on. Consequently, the party should be transformed on a regular basis. The party is an instrument.
+Vladimir Pozner:
+Is that so?
+Dmitry Medvedev:
+It is an instrument. Therefore, United Russia must be renewed. This does not mean that we must reject all that has been done. Many useful things have been accomplished with the help of United Russia, which made decisions on all important aspects of the country’s life. But the party needs a new driving force, it needs to be renewed, and it needs new people. The party needs competitive membership. All future decisions should first be discussed at grassroots level, rather than imposed from above. In this sense, I am well aware of United Russia’s previous and current shortcomings.
+Vladimir Posner:
+Look, three quarters of the government have been replaced, but can you say that any of the United Russia leadership has been updated?
+Dmitry Medvedev:
+No, of course not.
+Vladimir Posner:
+It’s still the same people?
+Dmitry Medvedev:
+Well, not all of them. There’s someone new sitting across from you...
+Vladimir Posner:
+Yes, almost. The man at the very top [is new].
+Dmitry Medvedev:
+Yes, the man at the top, no less.
+Vladimir Posner:
+Agreed. But what about others?
+Dmitry Medvedev:
+If you read the United Russia charter, you’ll see that the party chairman has enormous powers – that’s the first point.
+Secondly, I’ve only just started working. And thirdly…
+Vladimir Posner:
+Do you mean that there will still be changes?
+Dmitry Medvedev:
+Yes, absolutely. Because it’s not the central committee or political council that makes the party strong, but its grassroots organisations. We will need to replace 85,000 heads of various party management agencies in the near future.
+Vladimir Posner:
+Including at the top?
+Dmitry Medvedev:
+Yes, including at the top. We will use rotation and competitive elections. And this will entail a huge number of elections. Given that we have over 80,000 grassroots organisations, the work will be challenging and on a system-wide level, and it will have to be implemented based on new principles. I cannot say that everyone will like it, but it has to be done.
+Vladimir Posner:
+Kommersant-Vlast
+magazine asked various people “What should Dmitry Medvedev do with United Russia?” Cosmonaut Georgy Grechko replied that you should “improve the party’s image otherwise his own image will suffer. United Russia is currently seen as a party whose members say that the parliament is not a suitable place for debates. On the other hand, Medvedev should not have joined the party at all; he should have created some other kind of front.” Do you think that you have taken on the leadership of a party that is seriously ill and that it will be a very difficult task for you to change it?
+Dmitry Medvedev:
+First of all, I don’t think so and cannot think so, because the party is not critically ill. Secondly, for some reason this brings to mind a certain episode in the life of the Communist Party.
+Vladimir Posner:
+Yes?
+Dmitry Medvedev:
+It’s true that the Communists were criticised. Personally, I even thought that one day the Communists would disappear from the political stage. But this has not happened, they are alive and kicking and doing reasonably well, even though their problems were much more serious than those of United Russia.
+Thirdly, regarding parties and fronts. You have to understand, we need to develop a culture of creating political parties – not party associations, but political parties proper. A desire to avoid explaining something, to hide somewhere ultimately doesn’t help strengthen democracy. Only the full spectrum of political parties expressing various political interests, from right to left, are capable of synthetically processing the positions of a huge number of people. They are the mechanism or transmission belt of democracy. So I think what we need to do in the coming years is to focus on party building. I am not only talking about myself, but am calling on all the party leaders – the leaders of existing parties and also those who have been preparing documents for registering their parties with the Justice Ministry these past few weeks.
+Vladimir Posner:
+You wrote in your blog in November 2010 about the development of Russia’s political system. I quote: “It is no secret that for some time now signs of stagnation have begun to appear in our political life and stability has threatened to turn into stagnation. And such stagnation is equally damaging for both the ruling party and opposition forces. If the opposition has no chance at all of winning a fair fight it degrades and becomes marginal. If the ruling party never loses a single election, it is just coasting. Ultimately, it too degrades, like any living organism which remains static.” Is the party coasting?
+Dmitry Medvedev:
+I really couldn’t have put it any better! I am ready to repeat what I said then word for word.
+Vladimir Posner:
+So, is the party coasting or not?
+Dmitry Medvedev:
+There are problems and it is coasting, a little. I have never said that the party is perfect. It needs to be nudged onto a completely new path, but in so doing we should remember that it has travelled a long road. That doesn’t mean we have to create a new political structure to accommodate every change in life or every new project. That’s not what they do abroad, is it? They change their leaders and certain policy provisions, they point out that something is relevant, something else isn’t relevant and they hold dramatic events. That’s what United Russia should do too, and I think that what I said then is completely applicable to the current situation.
+Vladimir Posner:
+Mr Medvedev, I’ve noticed that these references to other countries… We only make them when it suits us, but not when it doesn’t suit us. There are many things they do abroad which we don’t do, for example…
+Dmitry Medvedev:
+Like what?
+Vladimir Posner:
+For example, they hold elections differently. Do you agree?
+Dmitry Medvedev:
+What do you mean?
+Vladimir Posner:
+I am referring to the complete transparency of elections, for example, the recent elections in France. Everyone saw how they proceeded and not a single French citizen thought that something was wrong.
+Dmitry Medvedev:
+Agreed, this is a serious matter, but it doesn’t mean that we are not making references to foreign experiences in this case. I’m prepared to refer to what goes on in other countries. Please let’s make use of their experience.
+Vladimir Posner:
+Yes, let’s.
+Dmitry Medvedev:
+That’s the first point. And secondly, they have election traditions. How old are their democracies? They are very old, while our democracy is only just in its infancy. I said it before, and was even criticised for doing so, but I want to say it again: in the 1990s, many people were completely indifferent to what happened to their votes and the results of elections. It’s true: many people voted on autopilot. But the situation has changed. Everyone, and this includes the authorities and the big political forces, should take note of this. People do care about what happens to their votes, and that’s as it should be.
+Vladimir Posner:
+It’s a good thing.
+Dmitry Medvedev:
+I agree.
+Vladimir Pozner:
+Yes. I have one last question about the party. You would presumably agree that the most important principle of democracy is elections which feature a variety of candidates and are held using a secret ballot. However, you were the only candidate at the 26 May party convention, and it was an open vote. As far as I understand, I was told there was someone who did not support you, but this wasn’t shown on television.
+Dmitry Medvedev:
+There was no such person. Otherwise he would have been singled out and punished.
+Vladimir Pozner:
+There you go. But this cannot be right, can it? How do you explain being the only candidate and the ballot not being secret? Even the Soviet Communist Party used a secret ballot for its Central Committee elections.
+Dmitry Medvedev:
+I can explain this Mr Pozdner.
+Vladimir Pozner:
+Please do.
+Dmitry Medvedev:
+It is quite simple.
+Vladimir Pozner:
+Okay.
+Dmitry Medvedev:
+The most important rule in life is to follow the rules. Once you start breaking the rules, you back yourself into a corner. Allow me to remind you what happened during the elections. Firstly, the current party leader recommended voting for the new chairman…
+Vladimir Pozner:
+Yes.
+Dmitry Medvedev:
+…as part of the existing procedure spelled out in the party statutes which were in force at the time. There were no other options. It was I, the newly elected leader, who proposed changing this system, and my proposal was supported by the convention. I can tell you frankly now that, when I came to the first consultation with the party, I was not sure whether my ideas would be fully supported. People are people and many were satisfied with their own positions. But they supported me. They said they were ready to hold party primaries and compete. Although they all stand the risk of losing, they still agreed to compete at all levels of the party leadership, and ultimately the same must apply to the party leader.
+Vladimir Pozner
+Well, there are some other questions that don’t fit into any particular category. It is a fact that many people were outraged by the way you and Mr Putin announced your job swap, using what is now popularly described as a chess term, a “castling move,” with you taking over Mr. Putin's job as prime minister and he your role as president. I know many people who felt humiliated by this. Many people are saying that certain protest sentiments that were brooding in society were quickly elevated to full-fledged protests. This is a “what if” question: if you had known that this would happen, would you have announced it in a different manner?
+Dmitry Medvedev:
+No.
+Vladimir Pozner
+You wouldn’t?
+Dmitry Medvedev:
+No. That was an honest position and I have since tried to explain it on many occasions. Let me try again now. We never said that Medvedev and Putin agreed to swap jobs. This is a completely wrong interpretation of what we said. We said that, considering the current political situation and our chances of success, we ask the United Russia party and then the entire nation to vote for this option. We asked all Russians, please, if you think this arrangement acceptable then say so by voting for United Russia and for Putin. If you think it unacceptable, please vote differently. And so they voted, and we know the position of the majority and it must be respected.
+Vladimir Pozner
+But does it not surprise you that it led to these protest rallies? Do you understand why people felt humiliated?
+Dmitry Medvedev:
+I can understand their emotions. But I cannot see any legal grounds for protest because there are none. From the legal and, more importantly, moral point of view, our actions were honest and legitimate. But that’s life. People may like one political hero and dislike another. Some think about the future, others don’t want the president to serve several terms, and still others may simply be tired of the current political structure. This is completely normal. I know that it eventually became the catalyst that sparked public activity into life, and frankly speaking, that’s a good thing. We should have planned for this from the beginning.
+Vladimir Pozner
+While we’re on the topic of the recent rallies. Do you believe the government’s response was the correct one? I am referring to the tightening of punishment – the enormous increase in fines – for possible violations during protests? Was what happened on May 6 interpreted correctly? What is your position on this?
+Dmitry Medvedev:
+I am watching this situation closely, as head of the government and leader of the ruling party. You know, we are following our own path here, sometimes we make mistakes and sometimes we make the right moves. All I can say for certain is this: the political culture of all political forces needs to be different. This applies to those who protest and make demands of the government as well as those who enforce the law and ensure security. It also concerns those who make policy decisions.
+Is it right to impose enormous fines? No. But penalties need to be sufficiently high. Suppose someone commits a public order offence, pays a fine of 500 roubles, and then goes out and does exactly the same thing – that’s simply not acceptable. Perpetrators need to bear tangible financial responsibility. On the other hand, I believe, as I said before, that arrests and long detentions are excessive measures. I think that serving the usual 15-day term is too much. We need a more flexible scale of punishments for administrative offences, with lighter and tighter options. This isn’t criminal responsibility.
+Vladimir Pozner:
+Not so long ago, you were interviewed by five TV channels…
+Dmitry Medvedev:
+That was quite a while ago.
+Vladimir Pozner:
+To me it seems like just the other day. An interviewer asked you why representatives of the so-called non-system opposition were given airtime on the Dozhd Internet TV channel but never appeared on the federal channels. You said: Because you people don’t invite them. Do you really think that my colleagues and I from the federal channels do not want to invite them and that is why they are not here? Is that your honest opinion?
+Dmitry Medvedev:
+Of course it is. You, for one, did invite me, didn’t you? And so I came.
+Vladimir Pozner:
+You know, I was told that this would be your exact answer.
+Dmitry Medvedev:
+But it’s true.
+Vladimir Pozner:
+Is it?
+Dmitry Medvedev
+: The first thing you told me was that you had three surprises.
+Vladimir Pozner:
+Yes.
+Dmitry Medvedev:
+I won’t deny that I wanted to say where I stand on the new government and the events surrounding the party. But you promptly came up with a proposal that I couldn’t help accepting.
+Vladimir Pozner:
+Do you mean to say that there will be no problems, if I for example invite some member or other of the opposition?
+Dmitry Medvedev:
+I can vouch for the government and for the United Russia party.
+Vladimir Pozner:
+Very good. I accept that. We have very little time left and so I can ask you just one…
+Dmitry Medvedev:
+Time flies, that’s true.
+Vladimir Pozner:
+Yes, it’s already flown, you could say. But I simply have to ask you about this: What is your opinion of the current activities of the Russian Orthodox Church? I mean, to what extent is Article 14 – The Separation of the Church from the State – being complied with? I’d call it rather aggressive penetration on the part of the church into different areas. Many people are asking questions. What do you think?
+Dmitry Medvedev:
+Our views will possibly diverge somewhat here.
+Vladimir Pozner:
+That’s possible.
+Dmitry Medvedev:
+And it’s normal. I don’t think there is any aggressive penetration on the part of the Russian Orthodox Church or any other church for that matter into the life or the pores of society. Yes, the church, different churches, hold an appropriate position in the life of our state and society. But it’s separated off from decision-making and I know this better than anyone else. We never had a situation where representatives of one particular faith tried to impose something on us or said that this or that was unacceptable. There has been nothing like that during my entire period of involvement in politics, including my time on the presidential staff, my presidency, or any time thereafter. But, to my mind, the fact that the church as an institution has regained some of the standing it lost during the Soviet period is perfectly normal.
+Vladimir Pozner:
+Let’s discuss public television. You signed a decree stating that the general director shall be appointed by the President of the Russian Federation. You know, there are public television networks in 50 or so countries; they are different everywhere but they have two features in common: they are totally independent from private capital, from advertising, from any master whatsoever and of course from the authorities. In this case we have a direct dependence on the authorities: inasmuch as I can be appointed, then I can be dismissed as well. That means I am dependent on the authorities. So we have something that is very like public television but in actual fact isn’t.
+Dmitry Medvedev:
+Mr Pozner, this is a mistaken interpretation of what public television is. Look at France and the U.K.
+Vladimir Pozner:
+Yes?
+Dmitry Medvedev:
+The top positions on their public television networks, be it the BBC or French TV, are filled on the basis of decisions passed by the prime minister or the president, respectively. This is why the decree I’ve signed is to a large extent a reproduction of European practice. I know some time ago you discussed public television with your colleague during a private TV broadcast…
+Vladimir Pozner:
+Do you follow the subject so closely?
+Dmitry Medvedev:
+What do you expect? Of course I do! I can tell you, I don’t agree with you. I think we have every chance of creating public television and making it a discussion platform of interest to those who want to hear various political debates. I am under no illusions about the position public television takes in people’s TV preferences. People don’t want to listen to politicians all the time, that’s boring. They should be given some positive information and therefore public television may possibly not be the most influential resource, but that is how it is in other countries.
+Vladimir Pozner:
+The BBC is a very influential resource, as you know.
+Dmitry Medvedev:
+The BBC is not just a public television network as we understand it.
+Vladimir Pozner:
+Yes.
+Dmitry Medvedev:
+What we expect from public television are sharp political stories.
+Vladimir Pozner:
+Yes, I understand.
+Dmitry Medvedev:
+Another thing I didn’t mention is this. Public television today is to a large extent being diluted by the Internet. This is also true. Some of the reactions to my decree which I read said: “So what? Good for him that he’s announced it. But he should have done it five years ago. What difference does it make now? We can see everyone online, including Vladimir Pozner, if the TV reception isn’t good enough.”
+Vladimir Pozner:
+My old friend Marcel Proust asked me to make sure to ask you a number of questions.
+Dmitry Medvedev:
+I won’t ask you who he is, okay?
+Vladimir Pozner:
+Unlike some other guests in this studio before you? Here’s the first question. Do you lie?
+Dmitry
+Medvedev
+I always try to tell the truth. One wise professor – unfortunately, he’s no longer with us – said something at lectures that I’ll remember forever: “The desire to tell the truth is a natural quality. It is inherent.”
+Vladimir Pozner:
+What do you most regret?
+Dmitry Medvedev:
+How short
+life is. There are only 24 hours in a day, which isn’t enough time for anything.
+Vladimir Pozner:
+What do you consider to be your greatest weakness?
+Dmitry Medvedev:
+It’s hard to talk about your own weaknesses. But perhaps I’m sometimes too tough in how I answer questions of my colleagues. Sometimes I give a blunt answer and offend someone, and later I regret it. But nobody’s perfect.
+Vladimir Pozner:
+What is your defining characteristic?
+Dmitry Medvedev:
+I think I’m persistent.
+Vladimir Pozner:
+Who are your three favorite writers?
+Dmitry Medvedev:
+Anton Chekhov, Fyodor Dostoyevsky and Vladimir Nabokov.
+Vladimir Pozner:
+What quality do you most admire in people?
+Dmitry Medvedev
+: Honesty. Fidelity.
+Vladimir Pozner:
+What human weakness would you be most likely to forgive?
+Dmitry Medvedev:
+The kind that doesn’t hurt anyone else, for instance, eating too much, gluttony.
+Vladimir Pozner:
+What can you never forgive?
+Dmitry Medvedev:
+Lie and betrayal.
+Vladimir Pozner:
+Your favorite composer?
+Dmitry Medvedev:
+Pyotr Tchaikovsky, Ludwig van Beethoven to a lesser degree.
+Vladimir Pozner:
+When you appear before God, what will you say to him?
+Dmitry Medvedev:
+I’m a believer, so I will ask his forgiveness for everything I have done.
+Vladimir Pozner:
+My guest today has been Dmitry Medvedev. Thank you very much.
+Dmitry
+Medvedev
+Thank you.
+Government of the Russian Federation
+http://government.ru/en/news/4462/
+Highlight selection

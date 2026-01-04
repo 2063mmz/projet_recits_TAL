@@ -1,0 +1,64 @@
+seed_url: https://www.ifa.gov.et/2025/11/24/%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6-%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7/
+final_url: https://www.ifa.gov.et/2025/11/24/%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6-%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7/
+title: 𝐅𝐫𝐨𝐦 𝐇𝐞𝐠𝐞𝐦𝐨𝐧 𝐭𝐨 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐨𝐫—𝐨𝐫 𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐁𝐞𝐭𝐰𝐞𝐞𝐧? 𝐖𝐡𝐚𝐭 𝐑𝐞𝐚𝐥𝐥𝐲 𝐃𝐫𝐢𝐯𝐞𝐬 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚’𝐬 𝐏𝐨𝐬𝐭-𝟐𝟎𝟏𝟖 𝐅𝐨𝐫𝐞𝐢𝐠𝐧 𝐏𝐨𝐥𝐢𝐜𝐲?
+date: Nov 24, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Background: Reform, Rupture, and Continuity
+Since 2018, Ethiopia has undergone a profound foreign policy recalibration shaped by domestic political transition, ideological reorientation, and changing regional geopolitics. The ascent of Prime Minister Abiy Ahmed marked the end of an era dominated by security-first diplomacy and highly centralized coalition governance. At the same time, the Horn of Africa experienced escalating instability Sudan’s political crisis, Somalia’s fragile state-building trajectory, Eritrea’s shifting alignments, and intensifying competition over the Red Sea corridor. Against this backdrop, Ethiopia’s foreign policy evolved through a hybrid approach that combines reformist and economic diplomacy with the understanding of the definition of interest as national and common which shift from the predominant definition of national interest as a guiding policy of state. This briefing examines the structural drivers of Ethiopia’s post-2018 foreign policy, the contradictions emerging from this transition, and key implications for regional engagement.
+Ethiopia’s foreign policy shift cannot be understood without considering the broader political reconfiguration after 2018. Abiy’s early outreach particularly the normalization of relations with Eritrea signaled a departure from the EPRDF’s threat-driven security doctrine (Abbink, 2019). His government framed this transformation through the philosophy of
+Medemer
+, which emphasizes synergy, reconciliation, and interdependence (Abiy, 2019). High-profile state visits to Djibouti, Eritrea, Kenya, Somalia, South Sudan, and Sudan embodied a diplomatic offensive grounded in soft-power engagement and regional integration.
+Yet, these openings unfolded alongside deep domestic turbulence, including the 2020–2022 war in northern Ethiopia, rising ethno-nationalist contestation, and widening political fragmentation. These internal dynamics frequently undermined external commitments, revealing the limits of early optimism (Clapham, 2021). Thus, Ethiopia’s post-2018 foreign policy reflects both reformist aspirations and structural continuities rooted in domestic instability.
+Key drivers of Ethiopia’s evolving Horn policy
+Ethiopia’s evolving Horn of Africa policy is shaped by several interrelated drivers. First, the ideological influence of Medemer (Abiy, 2019) introduced a vision of cooperative regional engagement built on partnership, connectivity, and economic interdependence. This orientation informed Ethiopia’s renewed commitment to IGAD, its push for cross-border infrastructure, and its “neighborhood first” diplomatic posture. Although this framework aimed to shift Ethiopia’s image from security hegemon to regional integration champion, limitations in institutional capacity have reduced its transformative potential.
+Second, Ethiopia’s foreign policy has been increasingly driven by economic imperatives, particularly market liberalization, infrastructure expansion, and the structural challenge of landlockedness. Diversifying sea access, reducing overreliance on Djibouti, and strengthening transport and energy linkages with Kenya, Sudan, and South Sudan have become core priorities (World Bank, 2020). The renewed maritime access debates of 2023–2024 underscored Ethiopia’s need to secure cost-effective and politically sustainable trade routes, elevating economic diplomacy as a central tool of external engagement.
+Third, intensifying geopolitical competition in the Red Sea has significantly shaped Ethiopia’s strategic environment. Egyptian activism over the GERD, rivalry among Gulf States, Turkey’s expanding footprint, and the growing presence of both the United States and China have created a more complex regional landscape (International Crisis Group, 2023). These dynamics constrain Ethiopia’s choices but also provide opportunities for selective alignment. Ethiopia’s revived naval ambitions and renewed maritime focus reflects its effort to maintain strategic relevance in an increasingly militarized Red Sea corridor.
+Fourth, evolving alliances and regional mistrust have further complicated Ethiopia’s diplomatic trajectory. Relations with Eritrea deteriorated following the Pretoria Agreement, with Asmara’s continued use of internal proxies as part of its foreign policy; the 2024 MoU with Somaliland triggered a diplomatic rupture with Somalia; and tensions with Sudan over al-Fashaga remain unresolved (Lefort, 2022). Many of these tensions arise from the intersection of Ethiopia’s domestic political dynamics and regional concerns about its long-term strategic intentions.
+Challenges Undermining the Neighborhood First Policy
+Ethiopia’s “neighborhood first” policy, despite its cooperative ambitions, continues to be undermined by deep-rooted structural and political challenges across the Horn of Africa. The region remains characterized by a persistent trust deficit shaped by decades of historical grievances, unresolved border disputes, and divergent security priorities among neighboring states. These long-standing tensions have made it difficult for Ethiopia’s recent diplomatic overtures to gain full credibility, as states continue to interpret its actions through the lens of past rivalries and asymmetrical power relations. Differences in political worldviews and governance models further complicate regional engagement, creating ideological distance between Ethiopia and some of its neighbors.
+The debate over sea access has intensified these anxieties. While Ethiopia’s pursuit of reliable maritime outlets reflects a fundamental economic necessity and concerns related to state survival, many neighboring countries perceive this quest with suspicion due to historical reasons, unworthy reasoning, and purposive misunderstanding. Nationalist political narratives across the region especially in Somalia and Eritrea frame Ethiopia’s maritime aspirations as potential precursors to renewed hegemonic behavior or territorial encroachment which will not help actually for integration and cooperation and mislead the rationality. These fears, often amplified by domestic politics and media discourse, have constrained opportunities for constructive negotiation, making even economically rational proposals vulnerable to political backlash. The result is a regional environment where cooperative intent is easily overshadowed by entrenched mistrust and competing strategic narratives.
+Conclusion
+Ethiopia’s foreign policy trajectory since 2018 has evolved into a hybrid model ambitious in its strategic vision, increasingly institutionalized and consistently challenged by internal vulnerabilities and regional pressures. The shift toward cooperation, regional connectivity, and economic diplomacy represents a marked departure from the historically security-centered and militarized approach that dominated Ethiopia’s engagement with its neighbors for decades. This reorientation reflects a recognition that long-term stability and growth depend on mutually beneficial partnerships, integrated markets, and reduced geopolitical frictions within the Horn of Africa.
+Bridging the gap between the aspirational ideals of
+Medemer
+and the complex realities of Horn of Africa politics therefore requires deliberate and sustained efforts. Ethiopia must further re-institutionalize its foreign policy apparatus, build predictable diplomatic channels, and invest in long-term trust-building with its neighbors. Only through such a coherent and confidence-enhancing approach can Ethiopia secure its strategic interests such as diversified sea access, regional stability, and economic integration while contributing meaningfully to a more peaceful and cooperative Horn of Africa.
+References
+Abiy, A. (2019).
+Medemer
+. Addis Ababa: Ethiopian Press.
+Abbink, J. (2019). The Ethiopian revolution of 2018 and the dilemmas of reform.
+Northeast African Studies
+, 19(2), 1–15.
+Clapham, C. (2021). The Horn of Africa: Regional politics and the end of the TPLF era.
+African Affairs
+, 120(479), 463–482.
+de Waal, A. (2021).
+New political marketplace dynamics in the Horn of Africa
+. World Peace Foundation.
+International Crisis Group. (2023).
+A shifting Red Sea security order: Implications for the Horn of Africa
+. Brussels: ICG.
+International Crisis Group. (2024).
+Ethiopia and the new Red Sea dynamics
+. Brussels: ICG.
+Lefort, R. (2022). Ethiopia’s crisis and regional implications.
+Journal of Eastern African Studies
+, 16(3), 457–479.
+Vaughan, S. (2020). Elite politics and the restructuring of the Ethiopian state.
+Africa Spectrum
+, 55(1), 56–75.
+World Bank. (2020).
+Horn of Africa regional infrastructure integration project
+. Washington, DC: World Bank.
+About the author
+Gizachew Asrat (Ph.D.)
+, Senior Researcher, Director General of the African Affairs Research Department, and Chief of Staff at IFA.
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.

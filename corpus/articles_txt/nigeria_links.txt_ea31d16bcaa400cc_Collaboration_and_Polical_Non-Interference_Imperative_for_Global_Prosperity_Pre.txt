@@ -1,0 +1,38 @@
+seed_url: https://statehouse.gov.ng/collaboration-and-polical-non-interference-imperative-for-global-prosperity-president-tinubu-at-focac/
+final_url: https://statehouse.gov.ng/collaboration-and-polical-non-interference-imperative-for-global-prosperity-president-tinubu-at-focac/
+title: Collaboration and Polical Non-Interference Imperative for Global Prosperity, President Tinubu at FOCAC
+date: September 5, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Chinese President Pledges $50 Billion for Africa
+President Bola Tinubu on Thursday in Beijing, China, emphasized the importance of global collaboration in achieving shared progress and prosperity.
+Speaking at the opening ceremony of the 2024 Summit of the Forum on China-Africa Cooperation (FOCAC) at the Great Hall of the People in Beijing, President Tinubu highlighted the success of the China-Africa partnership as a model for sustainable development and shared prosperity.
+He noted that the partnership is driven by a bold vision for the future and that by working together, Africa and China can unlock unprecedented levels of growth and development for their nations.
+The President said cooperation is key to solving global challenges and that the China-Africa partnership is built on trust, mutual respect, and the pursuit of common goals.
+President Tinubu called for the sustenance of the momentum of cooperation and emphasized the need for peaceful dialogue, transparent business practices, and diplomatic conflict resolution in deepening the bond between Africa and China.
+He expressed optimism that the partnership will continue to benefit both regions as it is driven by a bold collective vision for the future.
+“The success of FOCAC and our broader partnership emphasizes the important truth that global progress is not a zero-sum game. By working together and joining hands and looking for win-win solutions, we create opportunities for sustainable development and shared prosperity. Our joint efforts reinforce a vision for a multi-polar world where diverse perspectives are embraced, and where cooperation is key to solving global challenges.
+“At the heart of China-Africa relations is a foundation built on trust, mutual respect, and the pursuit of common goals. As we look to the future, it is crucial that we maintain the momentum. Peaceful dialogue, transparent business practices, and diplomatic conflict resolution remain at the forefront of our efforts.
+“These values will ensure that the bond between Africa and China continues to deepen and benefit both regions for the generations yet to come. The partnership is not only about shared history. It is driven by a bold collective vision for the future.
+“Together, we join hands by pulling our strength and resources together. We can unlock an unprecedented level of growth and development for our nations,” the President said.
+President Tinubu congratulated earlier speakers, particularly the co-chair of FOCAC, President Bassirou Diomaye Faye of Senegal, for their contributions to the partnership.
+The President highlighted the defining moments of the partnership, including China’s consistent commitment to Africa through financial and developmental support, cultural exchanges, and the establishment of FOCAC in 2000.
+He said the partnership has stood firm despite global challenges, offering a powerful example of what can be achieved through respect for sovereignty and non-interference in the internal politics of other nations.
+The President also highlighted the flourishing economic partnership between Africa and China, with trade reaching an estimated $280 billion, and expressed optimism about the alignment of China’s Belt and Road Initiative with Africa’s infrastructure goals.
+In his remarks, President Xi Jinping announced $50 billion in financial support for the continent, in addition to military aid.
+President Xi said China appreciates its ties with African nations and that China and Africa should rally their populations together to become a powerful force and write a new chapter in global peace, prosperity, and progress.
+The Chinese leader also pledged another $280 million in aid to African countries while proposing partnership actions to jointly advance modernization with Africa.
+According to President Xi, the 10 actions, to be implemented in the next three years, cover areas of mutual learning among civilizations, trade prosperity, industrial chain cooperation, connectivity, development cooperation, health, agriculture and livelihoods, people-to-people and cultural exchanges, green economic development and common security.
+“To implement the 10 partnership actions, the Chinese government will provide RMB360 billion yuan of financial support through the next three years.
+”This breaks down into RMB210 billion yuan of credit line, RMB80 billion yuan of assistance in various forms, and at least RMB70 billion yuan of investment in Africa by Chinese companies.
+”In addition, China will encourage and support Africa in issuing panda bonds in China to enhance our results-oriented cooperation in all areas,” he said.
+The Chinese leader proposed that the overall characterization of China-Africa relations be elevated to an all-weather China-Africa community with a shared future for the new era.
+”Thanks to nearly 70 years of tireless efforts from both sides, the China-Africa relationship is now at its best in history.
+”With its future growth in mind, I propose that bilateral relations between China and all African countries be elevated to the level of strategic relations, and that the overall characterization of China-Africa relations be elevated to an all-weather China-Africa community with a shared future for the new era,” President Xi stated.
+Chief Ajuri Ngelale
+Special Adviser to the President
+(Media & Publicity)
+September 5, 2024

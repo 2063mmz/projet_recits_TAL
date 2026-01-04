@@ -1,0 +1,27 @@
+seed_url: https://president.mn/en/category/video/page/20/
+final_url: https://president.mn/en/category/video/page/20/
+title: Category : Video
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/26 11:45:32
+THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION COMMENCES
+The Second Belt and Road Forum for International Cooperation officially commenced on April 26 at the China National Convention Center
+2019/04/25 7:04:59
+PRESIDENT BATTULGA GREETED BY HIS CHINESE COUNTERPART
+President of Mongolia Khaltmaagiin Battulga, who is paying a state visit to the People’s Republic of China, was greeted by
+2019/04/24 10:27:23
+MEETING WITH LI KEQIANG, PREMIER OF THE STATE COUNCIL OF CHINA
+President of Mongolia Khaltmaagiin Battulga arrived today at the Beijing Capital International Airport to pay a state visit to the
+2019/04/19 4:10:45
+MEETING WITH MONGOLISTS
+Under the auspices of the President of Mongolia, the fourth international scientific conference themed The Cultural Heritage of Mongolia: Collection
+2019/04/17 8:36:22
+PRESIDENT ANNOUNCES 2019-2020 AS YEAR OF CHILD DEVELOPMENT AND PROTECTION, MEETS AUTHORITIES OF GOVERNMENT INSTITUTIONS
+President of Mongolia Khaltmaagiin Battulga met authorities of government institutions and held a discussion on child safety on April 17,
+2019/04/05 4:10:40
+MEETING WITH DELEGATION OF THE UNICODE CONSORTIUM
+The Unicode Consortium and the Communications and Information Technology Authority of Mongolia co-organized the 3rd Unicode Mongolian Working Group Meeting

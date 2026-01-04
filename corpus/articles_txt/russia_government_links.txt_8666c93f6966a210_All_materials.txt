@@ -1,0 +1,246 @@
+seed_url: http://government.ru/en/all/19375/
+final_url: http://government.ru/en/all/19375/
+title: All materials
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Medvedev visits Kuril Islands
+22 August 2015
+06:30
+Iturup Island, Sakhalin Region
+The Prime Minister inspected a new airport on the Iturup Island and the Reidovo Fish Processing Plant, and visited the Kuril Port Centre and the House of Culture and Sport, which is currently under construction.
+Dmitry Medvedev inspected a new airport on the Iturup Island
+Dmitry Medvedev inspected the Reidovo Fish Processing Plant
+Dmitry Medvedev
+visited the Kuril Port Centre
+Dmitry Medvedev
+visited the House of Culture and Sport, which is
+currently under construction
+Iturup National Youth Educational Forum
+Excerpts from Dmitry Medvedev’s remarks at a meeting with participants at the Iturup National Youth Educational Forum
+Dmitry Medvedev’s statement
+for the press on his trip to the Amur Region and the Kuril Islands
+Dmitry Medvedev visits Kuril Islands
+22 August 2015
+Inspection of the Kuril Port Centre
+22 August 2015
+Tour of the airport on Iturup, one of the Kuril Islands. With Acting Governor of the Sakhalin Region Oleg Kozhemyako
+22 August 2015
+Visit to the Iturup Island. With Acting Governor of the Sakhalin Region Oleg Kozhemyako and Minister for the Development of the Russian Far East Alexander Galushka
+22 August 2015
+Dmitry Medvedev visits Kuril Islands
+22 August 2015
+A model of the House of Culture and Sport in Kurilsk. With Acting Governor of the Sakhalin Region Oleg Kozhemyako
+22 August 2015
+Visit to the House of Culture and Sport, which is currently under construction
+22 August 2015
+Visit to a grocery store in Iturup, the Kuril Islands. With Minister for the Development of the Russian Far East Alexander Galushka
+22 August 2015
+Visit to the Reidovo Fish Processing Plant. With Acting Governor of the Sakhalin Region Oleg Kozhemyako, Minister for the Development of the Russian Far East Alexander Galushka and Deputy Prime Minister and Presidential Plenipotentiary Envoy to the Far Eastern Federal District Yury Trutnev
+22 August 2015
+Visit to the Reidovo Fish Processing Plant. With Acting Governor of the Sakhalin Region Oleg Kozhemyako
+22 August 2015
+Tour of the airport on Iturup Island, the Greater Kuril Ridge. With Acting Governor of the Sakhalin Region Oleg Kozhemyako and Minister for the Development of the Russian Far East Alexander Galushka
+22 August 2015
+Iturup National Youth Educational Forum. With Head of the Federal Agency for Youth Affairs Sergei Pospelov, Minister of Education and Science Dmitry Livanov and Acting Governor of the Sakhalin Region Oleg Kozhemyako
+22 August 2015
+Iturup National Youth Educational Forum. With Head of the Federal Agency for Youth Affairs Sergei Pospelov
+22 August 2015
+Iturup National Youth Educational Forum
+22 August 2015
+Iturup National Youth Educational Forum
+22 August 2015
+Iturup National Youth Educational Forum
+22 August 2015
+Iturup National Youth Educational Forum
+22 August 2015
+Visit to the command observation post of the 49th Machine Gun and Artillery Regiment
+22 August 2015
+Visit to the command observation post of the 49th Machine Gun and Artillery Regiment
+22 August 2015
+Предыдущая новость
+Следующая новость
+Dmitry Medvedev visits Kuril Islands
+Iturup airport was built
+under the Federal Targeted Programme Social and Economic Development of the
+Kuril Islands (Sakhalin Region) for 2007-2015. The airport features a total of
+56 facilities with a 2.3-kilometre-long and 42-metre-wide artificial surface
+runway. It has been receiving regular flights since September 2014.
+The Reidovo Salmon Processing Plant in Olya Bay began
+operation in 2008. Its annual rearing capacity is 56 million salmon younglings.
+The plant is equipped with an artificial water supply system with controlled
+temperature levels, from which viable younglings are released into the wild.
+The fish processing complex features a deep-water pier, a 3,500-tonne
+refrigerator, a processing shop, administrative buildings, as well as a logistics
+system for transferring raw fish from watercraft. Raw fish processing capacity
+is 400 tonnes per day, which translates into 350 tonnes of final product.
+Visit to the House of Culture and Sport, which is currently under construction
+The Kuril Port Centre is located in Kitovy Bay. It
+operates year-round, and features seven berths with an annual capacity of
+75,000 tonnes. The annual passenger capacity is 6,000.
+Construction on the House of Sport and Culture began
+in 2014, with the expected completion date in December 2015. Under the project,
+a three-track, 25-metre swimming pool, a sports hall, a gymnastics hall and a
+gym will be built. The centre will also have open-air sports grounds for children.
+It will be used as a tennis and basketball court in the summer, and as a hockey
+pitch in the winter.
+In accordance with the instruction of the Russian
+President, the Federal Agency for Youth Affairs and the Civic Chamber are
+holding, from 12 to 24 August, the Iturup National Youth Educational Forum on
+the Iturup Island in the Sakhalin Region.
+The forum is held in two sessions taking place from 12
+to 17 August and from 17 to 24 August. It brings together 200 (100 per session)
+young people aged 21 to 35 from all over Russia. They include young scientists,
+postgraduate students, lecturers in social sciences from Russian universities,
+members of search teams and patriotic organisations, and documentary film
+makers, whose interests in art and science are related to the development of
+the Far East, its economy, international cooperation, interethnic dialogue and
+cooperation with other regions.
+Iturup National Youth Educational Forum
+The forum will feature among its major topics: “The Russian
+East: Development Paths”; “The Russian Civilization: Culture, History and
+Language”; “The Russian World. Russia in the World”; “The Economy of Knowledge”;
+and “Human Capital: Russia’s Development Potential.”
+The educational focus will be placed on forging the
+Russian identity in its cultural, historical, geographical and linguistic aspects
+among young people. The forum is organised around an activity game which will
+involve its participants in developing ideas that can shape the country's
+future. The best projects and designs will be redirected to the Far East executive
+bodies, and relevant agencies and ministries.
+Excerpts from Dmitry Medvedev’s remarks at a meeting
+with participants at the Iturup National Youth Educational Forum
+On the development of Russia’s Far East
+Iturup National Youth Educational Forum
+The Kuril Islands are perhaps one
+of the most burgeoning Russian regions, and one of the most beautiful places in
+the country, while at the same time requiring special attention and improvement
+from the Government. I visited the Kuril Islands not that long ago. Everything
+was different; there was nothing but dirt roads, not a single kilometre of
+pavement. But now development has come to the region.
+The Government has made the
+development of the Russian Far East one of its priorities. We are determined to
+make it one of the most appealing territories in Russia. This region has great
+potential, its possibilities are limitless. It will generate huge revenue. The
+development of the Far East is expected to be underpinned by its traditional
+industries, such as mineral extraction and fishing, as well as by exploring new
+opportunities, among other things, in culture and tourism.
+It is clear where the development
+of the Russian Far East will come from: the petrochemical industry,
+aquaculture, mariculture and tourism. There are producers on the Kuril Islands
+already, even on Iturup. And regarding the fisheries industry, it is up to
+today’s standards. The production and processing are in line with global best
+practices. This is what feeds Russia, as we face issues with food supply,
+including fish. To be honest, fish output in Russia has so far been low, including
+aquaculture. Moreover, Russia’s retaliatory measures are in place. All in all,
+this is a very important aspect of development along with tourism. In order to
+promote tourism you need hotels, people-friendly roots, good roads and
+naturally, communications with the mainland.
+Population decline remains a relevant
+issue for the Russian Far East.
+Only few years ago there was no
+flight service to the Kuril Islands, they could only be reached by sea and were
+thus isolated from the mainland. Unsurprisingly, people tended to leave. The
+quality of life was even worse than on Sakhalin. There wasn’t a movie theatre
+or even basic amenities, let alone the swimming pool that was built recently.
+All this goes to say that we need to create a framework for supporting people
+in the Far East. All these projects cannot be implemented in the Far East
+unless there are people here willing to contribute.
+Of course, the legal and economic framework must be
+modern and offer reasonably accommodating and preferential terms and
+conditions. We have created priority development areas. The day before
+yesterday, I signed five documents on creating new such areas, two in the Amur
+Region, one in the Primorye Territory, one in Chukotka and one in Yakutsk. We
+have discussed with the governor of the Sakhalin Region the idea of creating a
+priority development area on the Kuril Islands, primarily, Iturup and Kunashir,
+focusing on the tourism and fishing industries. I hope this will
+start working.
+On t
+Far
+Eastern
+biotechnology
+cluster
+The nature of the Russian Far East, with its unique
+environment and full compliance with all the environmental standards, is
+perfect for creating a biotech cluster. Proper funding – both private and
+public – should be allocated to it, and there should be people who will do this
+work. Biotechnology is the future of the Russian Far East.
+On a free port in the Far East
+We regard the Far East as a kind of a testing ground
+for new legal and economic models. We have adopted a special law on a porto
+franco or a free port. This is truly unique for the Russian Federation – we
+haven't had anything like this in the past. This free port in the Primorye Territory
+(in the Far East) should be a test for development models for other ports,
+considering the benefits of visits by foreign ships and the servicing of our
+vessels.
+We are utilising many new legal and economic
+structures in the Far East. I’m referring to the priority development
+territories and the free port. We’ll continue offering models that would
+attract investment and highly skilled specialists to the Far East.
+On the Okhotsk Sea shelf
+have signed a resolution that establishes the Russian border on the continental
+shelf of the Okhotsk Sea, that is, right here. This means that we can start
+working on our shelf, which boasts vast amounts of raw materials and energy.
+This is an important document, because it was adopted following consultations
+with the UN Commission on the Limits of the Continental Shelf and was agreed
+upon `with our neighbours, including our Japanese colleagues. As a result, our
+offshore area has expanded by over 50,000 sq. km.
+On Vostochny
+Space Centre
+The
+town of Tsiolkovsky that is currently under construction is, in fact, an offshoot
+of the space centre. It’s a company town, and it's completely clear that the
+town and the space centre are a single unit. It's crucial that the space centre
+remain relevant. Civilian launches should be based on commercial principles. We
+must capitalise on them, because there are space research programmes – in fact,
+fundamental research that needs funding – and there are commercial space
+programmes. When it comes to space launches, the commercial factor is of great
+importance. The construction of the space centre is almost finished, and it
+will be ready for launches soon. Initially, there will be regular launches, but
+then we will start conducting manned programmes. Vostochny is the world’s
+largest and most sophisticated space centre. Vostochny mostly uses Russian
+designs, because, first, it’s dual-purpose technology, but also – most
+importantly – because there are certain things that only we can do, we have the
+proper expertise, along with a small number of other countries.
+must keep our leading positions in space exploration, because we are a major
+global player along with the United States, the EU and China.
+The
+space centre should be open for guided tours. This is an absolutely normal
+thing to do, because people enjoy watching spacecraft launches.
+On alternative
+energy
+Hydrogen
+energy is among the most promising areas of scientific research and renewing
+the energy disbalance. So far, it’s been more on the side of research, although
+at a fairly advanced stage. I believe it’s imperative to invest in research of
+this kind.
+We need
+to create a truly working mechanism. Whether it will be referred to as a
+national project or otherwise, is not really important. Hydrogen energy and
+alternative energy in general can become such an area of research.
+Our
+alternative energy is hostage to hydrocarbon energy. Why develop the former
+when we already have so much? However, we must develop it, because in the event
+that any new ground is broken in this area, we will be left out and unprepared.
+Preferably, we shouldn’t be doing it alone, but with our APEC partners and
+other consultation-based mechanisms, such as BRICS, our largest partners and
+the leading powers of the global economy. They are engaging in this kind of
+research on their own, so there’s much we can do together. Therefore, it is imperative
+to draft a programme based on public-private partnership and implement this
+programme in conjunction with our partners from other countries.
+On the Silk Road project
+The Silk Road economic belt project is not a
+competitive project for us, but rather, a partnership project, about which we
+and our Chinese comrades agreed. We have also agreed to combine the
+opportunities of this project with those offered by our common market with
+Kazakhstan, Belarus, Kyrgyzstan and Armenia, that is, to unite this belt with
+the common market of the Eurasian Economic Union. We hope this will bring
+economic benefits to our country and our partners in the Eurasian Union and, of
+course, China and other participants in the project, because it embraces the
+entire continent.
+Government of the Russian Federation
+http://government.ru/en/all/19375/
+Highlight selection

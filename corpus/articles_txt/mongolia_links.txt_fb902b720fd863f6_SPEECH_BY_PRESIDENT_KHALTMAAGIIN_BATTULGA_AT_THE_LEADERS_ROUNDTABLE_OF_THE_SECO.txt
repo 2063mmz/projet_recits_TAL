@@ -1,0 +1,31 @@
+seed_url: https://president.mn/en/2019/04/27/speech-by-president-khaltmaagiin-battulga-at-the-leaders-roundtable-of-the-second-belt-and-road-forum-for-international-cooperation/
+final_url: https://president.mn/en/2019/04/27/speech-by-president-khaltmaagiin-battulga-at-the-leaders-roundtable-of-the-second-belt-and-road-forum-for-international-cooperation/
+title: SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE LEADERS’ ROUNDTABLE OF THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+date: 2019-04-27T14:52:57+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/27 10:52:57
+SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE LEADERS’ ROUNDTABLE OF THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+Your Excellency President Xi Jinping,
+Esteemed Heads of Delegations,
+Ladies and gentlemen,
+I would like to express my gratitude to President Xi Jinping and the people of China for their successful organization of the Second Belt and Road Forum for International Cooperation, and congratulate on the 70th anniversary of the founding of the People’s Republic of China.
+In the days preceding this Forum, I successfully concluded a state visit to the People’s Republic of China. Mongolia is one of the first countries that established diplomatic relations with China, and it is my pleasure to highlight that this year also marks the 70th anniversary of our bilateral diplomatic relations.
+Past seven decades, in particular the 40 years of reform and development, transformed China into the second-largest economy in the world. Considering the war-torn conditions prior to the founding of the People’s Republic of China, this is a remarkable achievement. I welcome the Belt and Road Forum’s principles of “extensive consultation, joint contribution, and shared benefits,” as it is a testament to how China is willing to share from its economic success. Surely, these principles are in harmony with the spirit of our times.
+Economies around the world are adopting the recent technological advancements faster than ever, facilitating people-to-people connectivity at an unprecedented level. Studies show that economies will become ever more interdependent with each other, and this process will continue at a much faster pace.
+The interconnected people, who share information and knowledge at a lightning speed across all our countries, demand us—leaders—to act responsibly, create inclusive economic growth, alleviate poverty, and grow our economies at a faster pace.
+The future expects us to be connected with each other through both the hard and soft infrastructures of the Belt and Road. I believe that the implementation of the Belt and Road Forum’s principle of “shared benefits” will help us to improve the livelihood of every citizen of our respective countries.
+In the past few years, Mongolia has achieved substantial results by developing its domestic soft and hard infrastructures. Specifically, we have successfully connected all the provinces of our country through energy transmission lines, internet communication networks, and around 6,000 kilometers of paved road. Starting from this year, we will start intensifying the building of our railroads. Utilizing our own resources to build our own infrastructure is a significant challenge to us as Mongolia is the least densely populated country in the world that accounts two persons per square kilometer.
+With regard to our external environment, in terms of building connectivity with our regional economies, Mongolia has reached understandings on cooperation, and concluded agreements with a number of countries. Mongolia-China-Russia Economic Corridor is a concrete example of cooperation with our two neighbors. Last year, during the Fourth Trilateral High-Level Meeting, three of us—President Xi, President Putin, and I—agreed to accelerate the implementation of this Economic Corridor.
+For the landlocked countries, transit shipment is one of the key factors that impact their economic competitiveness. I invite landlocked regional countries to utilize Mongolia’s improving infrastructure to gain access to the Northeast Asian market.
+Ladies and Gentlemen,
+Taking this opportunity, I would like to share the following proposals within the framework of our discussion:
+Firstly, the United Nations and its agencies produce regular reports on the progress of the Sustainable Development Goals in the region and put forward recommendations on advancing their implementation. For instance, the Sustainable Development Goal 8 sets to boost decent work and economic growth. However, because the implementation has seen a little progress in the Asia and the Pacific regions, I would like the Belt and Road Initiative to direct more of our concerted efforts toward the realization of this goal.
+Secondly, I seek your support and collaboration in establishing an organization in Ulaanbaatar to jointly implement and coordinate the Northeast Asia Energy Super Grid Project. The project gives to the countries in our region an opportunity to reach an optimal solution to share the peak-hour pressure and achieve effective resource utilization. Although many countries in the Northeast Asian region agree on the economic benefits of this project, there is a need to coordinate the individual efforts of our countries. I hope that the countries in the Northeast Asia will support this proposal and the establishment of this coordinating organization.
+This energy super grid can serve as the best solution for Northeast Asian countries to optimally manage their energy production, consumption, and peak-hour demand. In addition, this project is in line with the Sustainable Development Goals to increase the production of renewable energy and to promote low carbon emission. The Northeast Asia Energy Super Grid Project will create a boost to the economies in the region, and most importantly, it will enable the people of the participating countries to have access to affordable and accessible energy.
+I seek your active support and collaboration on this regional public-private partnership initiative.
+Wishing a successful roundtable discussion.
+Thank you for your attention.

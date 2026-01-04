@@ -1,0 +1,1708 @@
+seed_url: https://kemlu.go.id/files-service/storage/repositori/56577/whats%20on%20edisi%20februari%202022_rev%205.pdf
+final_url: https://kemlu.go.id/files-service/storage/repositori/56577/whats%20on%20edisi%20februari%202022_rev%205.pdf
+title: whats%20on%20edisi%20februari%202022_rev%205.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+Project Based Learning is
+F-U-N 01
+Mengasah Strategic Planning dan
+Strategic Thinking  Pegawai
+melalui Project Based Learning 05
+Diplomats as Writers – Marrying
+the Arts and Diplomacy 09
+Wujudkan Pelayanan Prima
+Seperti Disneyland 11
+Making
+Indonesian
+Diplomats 4.0
+
+Catatan
+Kapusdiklat
+i
+Dr. Yayan G.H. Mulyana
+Kepala Pusat Pendidikan dan Pelatihan
+Penanggung Jawab :
+--------------------
+• Yayan G.H Mulyana
+Dewan Redaktur :
+-----------------
+• Bharata
+• Mariskha Theresia Risa WS
+Wardhani
+Penyunting/Editor :
+-------------------
+• Tri Herminanto
+• Yudhi
+• Intan Kartika Sari
+Sekretariat :
+------------
+• Sukaryadi
+• Prajoko
+• Rohmani
+• Ita Sudjiarti
+• Endang Ratnaningsih
+• Endang Supriyadi
+• Nina Yurina
+ii
+Kontributor :
+------------
+• Hanung Nugraha
+• Ifan Mahdiyat Sofiana
+• Radea Fauzi Hidayat
+• Ade Setiawan
+• Rizki Jaya Putra
+• Emmi Lathifah
+Puji syukur ke hadirat Tuhan Yang Maha Esa yang telah melimpahkan begitu banyak rahmat-
+Nya sehingga majalah What’s On In Pusdiklat Edisi Februari 2022 dapat terselesaikan. Sesuai
+dengan salah satu prinsip ISO 9001:2015, yakni Continual Improvement, majalah What’s On In
+Pusdiklat terus mengalami transformasi, khususnya dari segi konten.
+Liputan utama tetap difokuskan pada berbagai isu terkait pendidikan dan pelatihan. Kami
+tetap akan berbagi kisah mengenai berbagai upaya pengembangan kompetensi Sumber Daya
+Manusia Kementerian Luar Negeri yang diselenggarakan oleh Pusdiklat.
+Tema yang menjadi sorotan utama dalam edisi Februari 2022 adalah Project Base Learning
+(PBL), salah satu metode pembelajaran yang dinilai sangat tepat bagi pelatihan pegawai.
+Redaksi What’s On In Pusdiklat mencoba mengulas secara mendalam terkait pemanfaatan
+PBL, baik di tingkat pendidikan formal maupun dalam pelatihan bagi pegawai, termasuk di
+lingkup Pusdiklat.
+Perubahan mendasar di edisi kali ini adalah mulai dirintisnya rubrik Out of the Box, yang
+diharapkan akan terus mewadahi opini maupun masukan dari pegawai Kementerian Luar
+Negeri, yang memiliki soft spot terhadap pengembangan SDM. Dalam edisi Februari 2022 ini,
+terdapat 2 artikel pada rubrik tersebut, yaitu “Taksonomi Bloom dan Penerapan Prinsip
+Andragogi pada Diklat Diplomatik”,serta “Transformasi Pusdiklat Menjadi BIONA”.
+Kami juga mengundang para pembaca untuk mengirimkan surat pembaca baik mengenai
+majalah What’s On in Pusdiklat, maupun berkaitan dengan penyelenggaraan berbagai
+pelatihan oleh Pusdiklat.
+Akhir kata kami berharap berbagai inovasi yang dilakukan dapat mengubah majalah What’s
+On In Pusdiklat menjadi bacaan ringan namun tetap berbobot dan bermanfaat bagi
+pengembangan kapasitas SDM Kementerian Luar Negeri. Salam sehat selalu bagi Anda,
+pembaca setia What’sOn In Pusdiklat.
+Desain Graﬁs/Fotografer :
+-------------------------
+• Muhammad Yusup Ismail
+• Riyanta
+• Septian Bagus
+
+iviii
+Seputar Pusdiklat
+Diplomats as Writers – Marrying
+the Arts and Diplomacy 09
+Wujudkan Pelayanan Prima
+Seperti Disneyland 11
+DAFTAR
+ISI
+Galeri Foto Pusdiklat 29
+Laporan Utama
+Project Based Learning is
+F-U-N 01
+Mengasah Strategic Planning  dan
+Strategic Thinking  Pegawai
+melalui Project Based Learning 05
+12
+06
+Canda Sisingamangaraja 73 31
+Taksonomi Bloom dan Penerapan
+Prinsip Andragogi pada Diklat Diplomatik 14
+Transformasi Pusdiklat Menjadi BIONA 19
+Out of the Box
+01
+Laporan Utama Out of the Box
+14
+Kalender Tentatif Pelatihan
+Februari-Maret 2022 30
+Selamat PDDN dan PPNPN Pusdiklat
+Teladan Periode Juli-September 2021 23
+
+“PBL is F-U-N! You get to learn lots of cool
+stuff. It’s not about one boring thing. You
+get to learn about topics across subjects.
+You don’t have to work on four subjects at
+four different times. You can combine your
+learning. It’s less stressful. I felt like I
+learned more about the topic through a
+project than doing worksheets. The social
+studies test at the end of the unit was easy
+for me. Guess what? I knew more than the
+test! Our whole class passed the test. We
+knew the facts but we also learned how to
+connect those facts and think things
+through.”
+emikian pendapat Lauren, siswa
+Grade 5 Novi Community Schools
+District Michigan, Amerika Serikat,
+mengenai Project Based Learning (PBL)
+yang ia ikuti di sekolah, sebagaimana
+dilansir situs my.pblworks.org. PBLWorks
+adalah lembaga yang memfokuskan diri
+pada pengembangan kapasitas guru dalam
+mendesain PBL maupun kemampuan
+kepala sekolah dalam menciptakan budaya
+penerapan PBL di sekolah.
+Konsep PBL sendiri berawal dari John
+Dewey, salah satu scholar terkemuka AS di
+abad 19. Pria yang diabadikan dalam
+koleksi perangko Prominent American
+Series US Postal Service di tahun 1968 ini,
+D
+0201
+Laporan Utama
+menyampaikan idenya tentang learning by
+doing dalam buku In My Pedagogical
+Creed (1897). "the teacher is not in the
+school to impose certain ideas or to form
+certain habits in the child, but is there as a
+member of the community to select the
+influences which shall affect the child and
+to assist him in properly responding to
+these”. Guru tidak diharapkan untuk
+memaksakan ide ataupun membentuk
+kebiasaan tertentu, melainkan memilih
+beberapa faktor yang dapat
+mempengaruhi murid serta memandu para
+murid dalam merespon faktor-faktor
+tersebut. Oleh karenanya Dewey mendo-
+satu muridnya, William Heard Kilpatrick,
+melalui konsep Project Method. satu
+muridnya, William Heard Kilpatrick, melalui
+konsep Project Method.
+Di Indonesia, PBL telah diimplementasikan
+dalam berbagai tingkatan pendidikan
+formal. "Makanya saya ingin pembelajaran
+semua Project Based Learning. Saya ingin
+di kuliah Project Based Learning, di sekolah
+Project Based Learning. Jadi buat pemicu
+kemandirian, kolaborasi, dan kreativitas“,
+kata Mendikbudristek Nadiem Makarim
+dalam siaran langsung instagram
+@unicefindonesia, tanggal 15 Januari 2021
+lalu. PBL merupakan metode pembelajaran
+yang menggunakan proyek atau kegiatan
+sebagai media. Peserta didik melakukan
+eksplorasi, penilaian, interpretasi, sintesis,
+dan informasi untuk menghasilkan
+berbagai bentuk hasil belajar.
+Model pembelajaran PBL berpusat pada
+siswa untuk melakukan suatu investigasi
+yang mendalam terhadap suatu topik.
+Siswa secara konstruktif melakukan
+pendalaman pembelajaran dengan
+pendekatan berbasis riset terhadap
+permasalahan dan pertanyaan yang
+berbobot, nyata, dan relevan. PBL sudah
+menjadi lumrah diimplementasikan di
+sekolah di era penuh persaingan karena
+perkembangan teknologi.
+Pembelajaran berbasis proyek dianggap
+penting dalam pengembangan karakter
+siswa karena memberikan kesempatan
+kepada siswa untuk belajar melalui
+pengalaman (experiential learning).
+“Mereka mengalami sendiri bagaimana
+bertoleransi, bekerja sama, saling menjaga,
+dan lain-lain, juga mengintegrasikan
+kompetensi esensial dari berbagai disiplin
+ilmu”, tutur Supriyatno Pelaksana Tugas
+Kepala Pusat Perbukuan Kemendikbud
+ristek sebagaimana dikutip dalam situs
+Republika, 18 Januari 2021.
+Sejumlah sekolah telah menerapkan PBL.
+Ibnu Nafis, Plt Kepala SMK Negeri 1 Sragi,
+Pekalongan mengatakan, Project based
+learning atau pembelajaran berbasis proyek
+mulai diterapkan di sekolah ini. “Sebagai
+upaya agar siswa bisa siap di dunia kerja,
+Project Based Learning is
+F-U-N
+rong perlunya serangkaian aktivitas
+tertentu yang bersifat ekspresif dan
+konstruktif. Ide John Dewey tersebut terus
+dikembangkan menjadi metodologi
+pembelajaran PBL, antara lain oleh salah
+
+English Language Teaching (2021),
+memperlihatkan bahwa mayoritas
+responden yang merupakan mahasiswa
+microteaching memiliki persepsi positif
+terhadap penerapan PBL. Implementasi
+PBL dinilai memotivasi siswa untuk belajar
+dan aktif dalam mengikuti pembelajaran.
+PBL juga dipandang mampu meningkatkan
+kemampuan komunikasi dan kolaborasi
+siswa maupun kemampuan time
+management.
+Namun demikian penelitian tersebut juga
+menunjukkan sejumlah kendala penerapan
+PBL. Antara lain peserta didik yang
+memiliki kelemahan dalam pengumpulan
+data kesulitan mengikuti proses PBL,
+adanya peserta didik yang kurang aktif saat
+melaksanakan kerja kelompok, serta
+keterbatasan waktu pelaksanaan proyek.
+Selain itu ditengarai PBL memerlukan
+biaya/anggaran yang cukup signifikan
+serta masih banyak tenaga pengajar yang
+merasa nyaman dengan kelas tradisional,
+dimana guru memegang peran utama di
+kelas.
+kami mulai menerapkan pembelajaran
+berbasis proyek. Ini merupakan model
+pembelajaran yang berpusat pada siswa
+untuk melakukan pendalaman pembelaja-
+ran dengan pendekatan berbasis riset
+sampai menjadi bisa diaplikasikan ke
+masyarakat,” sebagaimana dirilis situs
+Inews tanggal 21 Desember 2021.
+Ibu Nafis menyebutkan bahwa jurusan
+yang sudah menggunakan pembelajaran
+berbasis project adalah jurusan teknik
+komputer dan jaringan. “Siswa sejak kelas
+10 mulai dikenalkan metode pembelajaran
+berbasis project tersebut,” katanya. Melalui
+metode tersebut, siswa jurusan teknik
+komputer dan jaringan dituntut untuk
+membuat proyek pemasangan jaringan
+internet sampai bisa digunakan oleh klien
+atau konsumen.
+Jonathan Haryono, siswa kelas 6 SD
+Mawar Syarat Kristian berbagi pengalaman
+paling berkesan dan menarik sewaktu
+melaksanakan FBL yaitu membuat filter air.
+“Praktek yang paling menarik saat
+membuat filter yang mencampurkan
+adonan tepung dengan air. Setelah itu kami
+harus memisahkan mereka secara murni,
+dan itu melewati beberapa proses
+pemfilteran dan membutuhkan waktu yang
+lumayan lama,” ujar siswa yang biasa
+dipanggil Jojo tersebut.
+Jojo juga menjelaskan bahan-bahan yang
+digunakan seperti kertas filter yang harus
+dibentuk menjadi kerucut, serta saringan
+yang terbuat dari botol untuk memisahkan
+tepung dengan air.
+“Project ini salah satu mata pelajaran
+sains. Di mana kita bisa mempelajari dalam
+satu hal dari praktek ini, yaitu setiap hal
+ada plus minusnya ada hal yang baik dan
+hal yang tidak baik.
+Nah kita harus memilah mana yang baik
+dan mana yang tidak baik. Dan kita bisa
+melakukan yang baik, bukan melakukan
+yang tidak baik. Itu pelajaran yang bisa
+Kontributor : Ade Setiawan
+0403
+diambil dari PBL memisahkan tepung terigu
+dengan air melalui filter,” imbuhnya.
+Annabelle, siswi kelas 2 SD Charis National
+Academy menuturkan pengalamannya
+terkait praktek PBL. Sama halnya seperti
+Jojo, Annabelle juga membuat proyek
+pemfilteran air menggunakan water filter,
+ini untuk membersihkan air. Jadi air kotor
+yang ada di desa-desa itu bisa bersih
+dengan menggunakan water filter,”ujarnya.
+Hasil penelitian yang dilakukan oleh
+Annisya Amelia Alyani dan Ratmanida
+Ratmanida, dari Universitas Negeri Padang,
+sebagaimana dimuat dalam Journal of
+Quote
+“The mediocre teacher tells.
+The good teacher eplains.
+The superior teacher demonstrates
+The great teacher inspire“
+(William A. Ward)
+namun dengan instrumen yang berbeda.
+Water filter yang digunakan Annabelle
+bahan-bahannya terbuat dari kapas, batu
+putih, arang pasir dan di atasnya dibubuhi
+batu kerikil.
+“Menurut Annabelle sendiri proyek ini
+bermanfaat karena berguna untuk
+kehidupan sehari-hari seperti orang-orang
+di desa yang masih terpencil. Mereka bisa
+menggunakan alat water filter sederhana
+
+Mengasah Strategic Planning dan
+Strategic Thinking Pegawai
+melalui Project Based Learning
+ada bulan April 2021, pemberitaan
+terkait pernyataan Mendikbudristek
+untuk mendorong penerapan metode
+Project Based Learning (PBL) di pendidikan
+formal pada berbagai tingkatan cukup
+menarik perhatian. Meskipun PBL sendiri
+bukanlah barang baru di dunia pendidikan.
+Konon PBL sudah dirintis di negeri Paman
+Sam sejak abad 19 oleh John Dewey.
+PBL merupakan metode pembelajaran yang
+menitikberatkan pada kemandirian siswa,
+sehingga siswa dilatih untuk membuat
+hipotesis serta memecahkan masalah yang
+dihadapinya sendiri. Melalui PBL
+diharapkan pembelajaran memberikan
+pengalaman belajar lebih berkesan, karena
+peserta didik diajak untuk terjun langsung
+dalam menghasilkan sebuah karya, bukan
+hanya sekedar mendengarkan atau
+membaca materi. Salah satu contoh hasil
+PBL di Indonesia yang fenomenal adalah
+mobil Esemka, hasil karya jurusan otomotif
+dari SMK Negeri 1 Krucuk, Klaten Jawa
+Tengah.
+Usut punya usut, PBL ternyata dinilai efektif
+untuk diterapkan dalam pendidikan dan
+pelatihan bagi pegawai di perusahaan atau
+organisasi. Artikel penelitian Iryna Lytov-
+P
+Laporan Utama
+chenko, Olena Terenko dan Olena Ogienko
+yang dimuat dalam Journal of Intercultural
+Management (2017), secara khusus
+menyoroti penerapan PBL sebagai action
+learning di sejumlah Corporate University
+(CORPU) di AS dan Kanada. Implementasi
+PBL dalam pelatihan pegawai dinilai
+memiliki dua sisi, yakni terfokus pada
+perkembangan pegawai sebagai peserta
+pelatihan maupun perusahaan. Melalui PBL
+peserta pelatihan mendapatkan kesem-
+Shell Project Academy bahkan memiliki
+program manajemen proyek yang
+terakreditasi dan banyak menelurkan
+proyek yang tidak hanya bermanfaat bagi
+Shell Corporation, melainkan juga untuk
+perusahaan-perusahaan lain di sektor
+Migas internasional.
+Dunia pelatihan pegawai di Indonesia,
+khususnya pelatihan bagi Aparatur Sipil
+Negara pun tidak ketinggalan dalam pene-
+0605
+patan untuk terlibat dalam proses
+perencanaan strategis perusahaan
+sekaligus mengembangkan kemampuan
+berpikir strategis (strategic thinking).
+Salah satu contoh CORPU yang dikenal
+luas dalam implementasi PBL adalah Shell
+Academy.
+rapan PBL. Hal ini terungkap dari hasil
+penelitian yang dilakukan oleh Mustofa
+Kamal, Widyaiswara Madya BPKP, terkait
+pelaksanaan PBL dalam pembelajaran audit
+internal Diklat JFA Ahli Polri (2018) dan
+pembelajaran audit internal CPNS BPKP
+(2019).
+Penelitian pada Diklat JFA Polri yang dimuat
+dalam Jurnal Akuntansi Maranatha (2018)
+tersebut memperlihatkan bahwa berdasar-
+kan hasil pre-test dan post-test peserta
+diklat, efektivitas PBL terbukti dimana nilai
+rata-rata peserta mengalami peningkatan
+sebesar 36,46. Hasil survei terhadap
+peserta juga memperlihatkan bahwa 58%
+peserta berpendapat bahwa PBL sangat
+membantu mereka dalam memahami
+materi pelatihan.
+Hasil tersebut relatif konsisten dengan
+penelitian lanjutan yang dilakukan oleh
+Mustofa Kamal terhadap pembelajaran
+audit internal CPNS BPKP, sebagaimana
+dimuat dalam Jurnal Inovasi Aparatur
+(2019). Hasil penelitian menunjukkan
+bahwa peserta Diklat aktif dan mampu
+menyusun projek Program Kerja Audit dan
+Kertas Kerja Audit. Sementara capaian
+kuantitatif memperlihatkan peningkatan
+nilai rata-rata post-test jika dibandingkan
+dengan pre-test sebesar 39,57. Hasil survei
+kepada peserta juga menunjukkan bahwa
+59,1% peserta berpendapat proses
+pembelajaran telah meningkatkan
+pemahaman audit internal dan 52,38%
+peserta memberikan saran agar metode
+PBL terus dipergunakan.
+Juli 2021, TTX Belt and Road Initiative RRT dan
+Peningkatan Konektivitas ASEAN dengan
+Memanfaatkan,Sesparlu Angkatan Ke-68
+Maret 2021, TTX, Strategic Leadership  Sesparlu
+Angkatan ke-67
+Januari 2021 RPSP Sesparlu Angkatan Ke-66
+Juli 2021, TTX Build Back Better World (B3W)
+Initiatives,Sesparlu Angkatan Ke-68
+
+Metode PBL sendiri juga diterapkan oleh
+Lembaga Administrasi Negara (LAN) dalam
+Pelatihan Dasar (Latsar) maupun Pelatihan
+Kepemimpinan Nasional (PKN) yang dulu
+dikenal dengan Prajab dan Diklat PIM.
+Dalam kesempatan visitasi kesiapan
+penyelenggaraan Pelatihan Kepemimpinan
+Nasional (PKN) II ke Pusdiklat Tenaga
+Administrasi Badiklat Kementerian Agama
+20 Januari 2022, Deputi Bidang Kebijakan
+Pengembangan Kompetensi ASN
+Muhammad Taufiq menjelaskan bahwa
+Desain Pembelajaran Aktualisasi
+Kepemimpinan Smart Governance (Project
+Based Learning) yaitu pembelajaran
+individu dan kolektif dalam suatu
+organisasi berbasis pada pelaksanaan
+proyek untuk mengembangkan program/
+produk yang mendukung pencapaian misi
+organisasi. Konsep serupa juga dijalankan
+dalam Latsar CPNS, melalui program
+aktualisasi di tempat kerja yang diakhiri
+dengan pembuatan rancangan tindak lanjut
+hasil aktualisasi yang diujikan dalam
+seminar.
+Konsep PBL pun sudah dilaksanakan di
+sejumlah pelatihan yang diselenggarakan
+Pusdiklat, khususnya di Diklat diplomatik
+berjenjang. Pada Diklat Sesparlu, salah
+satu materi yang mengarah pada
+penerapan PBL adalah Table-Top Exercise
+(TTX). TTX merupakan kegiatan simulasi, di
+mana peserta menjalankan roleplay
+sebagai pejabat Kemenlu, K/L lain maupun
+pemangku kepentingan lainnya terkait
+suatu isu.
+Masing-masing kelompok diharapkan
+dapat menyusun suatu rekomendasi
+kebijakan untuk didiskusikan antar satu
+sama lain dan pada akhirnya disusun
+sebagai rekomendasi angkatan. Materi
+yang diangkat dalam TTX seringkali adalah
+isu-isu terkini yang terkait dengan
+Kementerian Luar Negeri, mulai dari isu
+Palestina sampai dengan masalah
+infrastruktur diplomasi.
+Kegiatan Diklat Sesparlu lainnya yang
+menerapkan PBL adalah Final Project.
+Melalui kegiatan ini peserta terbagi dalam
+beberapa kelompok dan diminta untuk
+menyelenggarakan suatu kegiatan
+bekerjasama dengan unit kerja Kemenlu
+terkait tugas dan fungsi unit kerja tersebut,
+mulai dari tahap perencanaan sampai
+dengan pelaksanaan. Sasaran sesi dengan
+alokasi waktu 28 JP ini adalah peserta
+dapat merancang kegiatan diplomasi
+kreatif yang memiliki nilai tambah sekaligus
+memperkuat kepemimpinan serta
+memaksimalkan social capital masing-
+masing.
+Sama seperti halnya kegiatan aktualisasi
+Latsar CPNS, Diklat Sesparlu dan Sesdilu
+juga memiliki flagship program sejenis,
+yakni Rancangan Proyek Strategis
+Perorangan (RPSP) di Diklat Sesparlu dan
+Rancangan Proyek Inovatif Perorangan
+(RPIP) di Diklat Sesdilu. Dalam RPSP dan
+RPIP, peserta Diklat diminta untuk
+menyusun rancangan suatu kegiatan yang
+akan membawa dampak positif pada pelak-
+0807
+sanaan tugas dan fungsi unit kerja
+masing-masing.
+Sementara salah satu bentuk PBL yang
+sempat diterapkan di Sekdilu angkatan 40,
+bahkan manfaatnya tidak kalah dengan
+program Corporate Social Responsibility
+(CSR) perusahaan. Di tahun 2018 Sekdilu
+angkatan 40, bekerja sama dengan UPT
+Sekdilu, dalam kesempatan kunjungan
+lapangan ke Lombok, Nusa Tenggara Barat,
+melaksanakan program mengajar dan
+penggalangan dana yang diserahkan dalam
+bentuk bantuan peralatan sekolah di
+sejumlah sekolah di Lombok yang
+terdampak gempa.
+Melalui penerapan PBL tersebut setidaknya
+opini miring bahwa Diklat disalah-
+gunakan untuk mendapatkan kesempatan
+rehat sejenak dari kesibukan di kantor,
+setidaknya dapat terkikis. Sebaliknya
+keaktifan para peserta selama Diklat,
+khususnya dalam sesi bermuatan PBL,
+justru dapat berkontribusi pada Kemenlu
+secara keseluruhan, khususnya unit kerja
+peserta. Dengan upaya continuous
+improvement oleh Pusdiklat, bukan tidak
+mungkin suatu saat nanti penerapan PBL di
+Pusdiklat akan setara dengan Shell Project
+Academy, khususnya dalam hal kontribusi
+yang dihasilkan proyek-proyek yang
+dilaksanakan. Bukan hanya untuk Kemenlu
+ataupun NKRI, melainkan juga bagi
+masyarakat dunia.
+Kontributor : Radea Hidayat
+
+Demikian salah satu tema
+webdebate yang digelar lembaga
+Diplo di tahun 2017. Tujuan dari seminar
+tersebut adalah membedah apakah
+diplomasi dapat disandingkan dengan
+kesenian. Proyek Through the Diplomatic
+Looking Glass yang dilakukan Duta Besar
+Stefano Baldi dan Pasquale Baldocci
+mengungkapkan bahwa sejak tahun 1946
+tercatat 1.130 literatur yang merupakan
+karya 300 diplomat Italia. 12% diplomat
+Italia adalah penulis yang rata-rata telah
+menghasilkan lebih dari tiga buku.
+Tidak hanya itu, Dubes Baldi juga
+menekankan bahwa sejauh ini terdapat
+delapan orang diplomat yang telah
+memenangkan hadiah Nobel di bidang
+Literatur. Tiga di antaranya berhasil
+memperolehnya sebagai diplomat karir,
+yakni Alexis Leger (Saint-John Perse), Ivo
+Andrić, dan Gheorghios Seferiadis
+(Gheorghios Seferis). Hal tersebut
+memperlihatkan arti penting kemampuan
+menulis bagi seorang diplomat. Hal
+tersebut tentunya sejalan dengan salah
+satu dari lima fungsi utama diplomat, yakni
+Reporting.
+Hal ini yang menjadi dasar pertimbangan
+bagi UPT Sesparlu untuk secara khusus
+menggandeng B/NDL Studio, untuk menga-
+sah soft skills peserta Diklat melalui mata
+Diklat Opinion Writing sebagai bagian dari
+modul “Strategic Communication and
+Presentation” mulai Diklat Sesparlu
+angkatan ke-69. Lembaga yang
+sebelumnya dikenal dengan nama The
+Jakarta Post Writing Center, tersebut
+menawarkan sejumlah program pelatihan
+menulis dan komunikasi serta presentasi,
+termasuk penulisan komik, desain grafis,
+dan publishing buku.
+Mata Diklat Opinion Writing memiliki tujuan
+untuk meningkatkan kemampuan peserta
+Diklat dalam menulis opini di media massa
+dalam Bahasa Inggris. Sebagai pejabat
+Penilaian dilakukan terhadap dua tugas,
+yaitu outline dan tulisan opini. “Dari dua
+penilaian itu, nilai dari tulisan opini bisa
+menjadi tolok ukur kemampuan peserta,”
+terang Mia Rubianti dari B/NDL dalam
+evaluasi yang dilaksanakan secara daring
+pada 14 Januari 2022. Ia mengobservasi
+bahwa para peserta pada dasarnya
+memiliki banyak ide dan pengalaman,
+namun mayoritas terkesan kebingungan
+saat merangkainya dalam bentuk tulisan.
+“Namun tulisan opini ini sifatnya masih first
+draft, karena itu para peserta perlu untuk
+terus mengasah kemampuan menulisnya,”
+pungkasnya.
+Peserta Diklat Sesparlu Angkatan ke-69
+menanggapi positif kerja sama antara UPT
+Sesparlu dengan B/NDL. “Kalau bisa, sesi
+dengan B/NDL agar ditambah,” ujar salah
+1009
+Seputar Pusdiklat
+Diplomats as Writers –Marrying
+the Arts and Diplomacy
+D
+Dokumentasi UPT Sesparlu: Kegiatan workshop B/NDL pada Diklat Sesparlu Angkatan ke-69, Oktober 2021.
+publik para peserta Diklat Sesparlu
+diharapkan mampu mengkomunikasikan
+kebijakan Pemerintah secara tepat kepada
+publik, khususnya untuk kebijakan yang
+bersifat strategis.
+Metode pembelajaran yang diterapkan
+meliputi brainstorming dan pembuatan
+outline. Evaluasi terhadap hasil karya
+peserta dilakukan antar peserta dalam sesi
+peer learning. Di bawah supervisi Tim
+B/NDL, para peserta saling belajar satu
+sama lain dan berbagi pendapat mengenai
+hasil karya masing-masing. “Tone
+penulisan opini, tidak perlu selalu kaku,”
+ujar Fiona Erlita, salah satu
+instruktur.
+Disampaikan pula bahwa artikel opini dapat
+menggunakan bahasa populer, meskipun
+topik yang diangkat merupakan
+permasalahan serius.
+
+para pelanggan perlu memiliki kejujuran,
+emosi baik, kepercayaan diri, tanggung
+jawab, kepatuhan pada kode etik pelayanan,
+dan integritas diri untuk pelayanan
+berkualitas.
+Pelayanan pelanggan yang etis
+mencerminkan bagaimana perusahaan
+berurusan dengan pelanggan melalui tata
+kelola bisnis yang sehat dan berbudaya. Hal
+ini akan tercermin dari ketersediaan standar
+pelayanan, budaya pelayanan, nilai-nilai
+kerja, kebijakan, dan etos kerja yang
+diharapkan untuk menjadi perilaku
+pelayanan yang etis. Mengembangkan
+lingkungan kerja yang berorientasi kepada
+pelayanan yang etis, baik untuk pelanggan
+eksternal maupun internal, akan menjadi
+keunggulan kompetitif perusahaan.
+Prinsip-prinsip dan nilai-nilai yang
+menggambarkan standar perilaku
+pelayanan yang etis; akan menghasilkan
+customer service yang berorientasi pada,
+kebutuhan pelanggan melalui perilaku yang
+profesional, sabar, tenang, jujur, hormat,
+berintegritas, terpercaya, dan patuh pada
+panduan kode etik pelayanan perusahaan.
+Wujudkan Pelayanan Prima Seperti
+Disneyland
+well. Do it so well that when people see you
+do it, they will want to come back and see
+you do it again, and they will want to bring
+others and show them how well you do
+what you do.”
+Jargon Disney tersebut menggambarkan
+secara gamblang prinsip dari pelayanan
+prima kepada pelanggan. Yakni
+memberikan pelayanan terbaik kepada
+pelanggan, yang akan mendorong mereka
+untuk kembaIi, bahkan mengajak orang lain
+untuk menikmati pelayanan tersebut.
+Pelayanan prima atau service excellent
+sendiri berkaitan erat dengan Customer
+External & Customer Internal. Customer
+external adalah para pelanggan, sementara
+customer internal adalah para karyawan,
+khususnya yang bertugas melayani
+pelanggan.
+Pelayanan prima akan terwujud apabila
+perusahaan atau organisasi berupaya
+semaksimal mungkin menjunjung tinggi
+etika pelayanan, yakni perilaku dalam
+memberikan pelayanan yang etis sesuai
+janji dan komitmen. Untuk itu segenap
+pegawai dalam memberikan pelayanan
+1211
+Seputar Pusdiklat
+anyak orang mengidentikkan Walt
+Disney Company, yang lebih
+tersohor dengan nama Disney, sebagai
+produsen film keluarga, Mickey Mouse dan
+taman hiburan Disneyland. Namun ternyata
+perusahaan yang berdiri sejak tahun 1923
+B
+satu peserta Diklat Djatu Riyanda Primadini.
+“Kemampuan menulis opini ini sangat
+penting, agar kita bisa mengkomunikasikan
+hal atau kebijakan penting kepada publik
+dengan benar,” tambah peserta Diklat
+lainnya. Muhammad Yusuf. Sementara para
+instruktur dari B/NDL menyampaikan kesan
+bahwa para peserta Diklat Kemenlu memi-
+Dokumentasi UPT Sesparlu: Kegiatan workshop B/NDL pada Diklat Sesparlu Angkatan ke-69, Oktober 2021.
+liki semangat belajar yang tinggi. “Di
+samping tulisan, para peserta juga
+menyampaikan opini masing-masing secara
+lisan dan dibahas bersama dalam
+workshop. Para peserta sangat asyik
+berdiskusi, sehingga seringkali waktu dirasa
+kurang”, sebut Mia Rubianti yang diamini
+oleh Fiona Erlita.
+Kontributor: Rizki Jaya Putra
+ini dikenal kalangan akademisi dan praktisi
+manajemen sebagai perusahaan yang
+mengedepankan customer experience dan
+customer service. Salah satu mantra peru
+sahaan ini adalah kata bijak pendirinya
+yakni Walt Disney, “Whatever you do, do it
+Dokumentasi Bidang PPN: Pelatian Pelayanan Prima Kementerian Luar Negeri 5-7 November 2021.
+
+Sumber Daya Manusia, yang merupakan
+pelanggan internal. Pada tanggal 6-7
+November 2021, Pusdiklat telah
+melaksanakan pelatihan Pelayanan Prima
+yang diselenggarakan secara hybrid.
+Pelatihan diikuti oleh lebih dari 200 orang
+pegawai Kemlu, baik Pejabat Fungsional
+Umum dan Pejabat Fungsional Tertentu
+(Non PDLN), maupun Pegawai Pemerintah
+Non Pegawai Negeri (PPNPN) serta staf
+Pelayanan Publik dari Perwakilan.
+Dalam pelatihan tersebut, Pusdiklat
+menggandeng Lembaga Pelatihan Mitra
+Training Indonesia (MTI). Selama dua hari
+kegiatan pelatihan, para peserta dibimbing
+oleh 2 orang praktisi komunikasi, yakni Dra.
+Indah Soekotjo, MA, MSc dan Ayu Suryo
+Prayogo, S. Kom. Materi pelatihan
+mencakup Konsep Pelayanan Prima;
+Service with HEART; Rantai Layanan;
+Keterampilan Interaksi Layanan Prima;
+Standard of Service with HEART; Role Play;
+Pola Pikir Penanganan Komplain; hingga
+Keterampilan Penanganan Komplain.
+Kementerian Luar Negeri, baik unit kerja
+Pusat maupun Perwakilan, tidak terlepas
+dari pelayanan publik. Khususnya terkait
+pelayanan kekonsuleran, pelindungan WNI,
+ataupun fasilitas diplomatik. Perwujudan
+pelayanan publik yang prima pun menjadi
+salah satu prioritas Pemerintah, sesuai
+ketentuan dalam Undang-Undang No. 25
+Tahun 2009 tentang Pelayanan Publik. Hal
+ini pun menjadi sorotan Presiden Joko
+Widodo dalam sambutannya di acara
+penyampaian laporan kinerja Ombudsman
+RI pada tanggal 8 Februari 2021,
+“Pelayanan publik adalah wajah konkret
+kehadiran negara dalam kehidupan
+masyarakat sehari-hari. Negara disebutkan
+hadir jika mampu menyelenggarakan
+pelayanan publik yang prima, cepat,
+profesional, berkeadilan”
+Oleh karena itulah berbagai upaya
+dilakukan oleh Kementerian Luar Negeri.
+untuk dapat mewujudkan pelayanan publik
+yang prima tersebut. Di antaranya adalah
+pengembangan kompetensi dan kapasitas
+Kontributor: Emmi Lathifah
+1413
+Dokumentasi Bidang PPN: Pelatian Pelayanan Prima Kementerian Luar Negeri 5-7 November 2021.
+Taksonomi Bloom dan Penerapan
+Prinsip Andragogi pada Diklat
+Diplomatik
+“The truth is that any good modern rifle
+is good enough. The determining factor
+is the man behind the gun.”
+emikian ungkap Theodore
+Roosevelt, Presiden ke-26 Amerika
+Serikat. Kutipan tersebut memperlihatkan
+peran vital Sumber Daya Manusia dalam
+suatu organisasi, termasuk bagi
+Kementerian Luar Negeri. Apabila
+diplomasi dianalogikan sebagai sebuah
+mesin Vespa, maka diplomat merupakan
+piston penggerak mesin tersebut.
+Alhasil laju diplomasi sebuah negara
+sangat bergantung pada ketajaman
+diplomatnya. Oleh karenanya masa depan
+diplomasi Indonesia sangat bergantung
+pada pengelolaan sumber daya manusia
+yang dilakukan saat ini, khususnya JF
+Diplomat. Merujuk pada Permenlu Nomor 6
+tahun 2021 tentang Organisasi dan Tata
+Kerja Kementerian Luar Negeri, tanggung
+jawab pengelolaan SDM, termasuk
+pengembangan kompetensinya, diamanat-
+kan pada Biro Sumber Daya Manusia, Pusat
+Pendidikan dan Latihan serta Pusat
+Pembinaan Jabatan Fungsional.
+D
+Secara sederhana, Biro SDM bertanggung
+jawab untuk memetakan jumlah dan
+kualitas diplomat Indonesia; Pusdiklat
+berperan melengkapi mereka dengan
+kapasitas yang diperlukan; sementara
+Pusbinjabfung menguatkan hal-ikhwal
+keprofesian diplomat sebagai mesin utama
+diplomasi Indonesia.
+Khusus terkait pengembangan kompetensi
+JF Diplomat, Pusdiklat hingga saat ini telah
+menghasilkan setidaknya 42 generasi
+diplomat Indonesia. Pendidikan bagi
+diplomat tersebut dilakukan secara
+berjenjang, mulai dari tahap pembentukan
+sampai dengan pendalaman. Secara
+esensi, Pusdiklat telah memiliki banyak
+pengalaman dalam membangun sumber
+daya manusia yang direkrut oleh Biro SDM
+menjadi diplomat Indonesia.
+Pada ranah pembentukan, layaknya
+Sekolah Perwira Prajurit TNI yang
+mengubah warga sipil sarjana menjadi
+seorang tentara ataupun Sekolah Inspektur
+Polisi Sumber Sarjana yang mengubah
+warga sipil sarjana menjadi seorang Polisi,
+Sekolah Dinas Luar Negeri (SEKDILU)
+mengubah warga sipil berlatar belakang
+Out of the Box
+
+sarjana S1 dan S2 menjadi seorang
+Diplomat. Jika dibandingkan, ketiga
+lembaga pendidikan tersebut memiliki
+kemiripan dalam hal lamanya Pendidikan,
+yaitu kurang lebih 6-7 bulan. Dengan masa
+pendidikan yang relatif sama, peningkatan
+kapasitas para peserta didik pasca Diklat
+secara logis tentunya sepadan.
+Keberhasilan transformasi seorang peserta,
+yang semula orang awam, menjadi seorang
+diplomat perlu dilihat dari indikator
+peningkatan kapasitasnya. Tiga indikator
+utama yang secara universal diukur
+sebagai hasil sebuah proses pembelajaran
+adalah pengetahuan, kecerdasan
+emosional dan tingkah laku atau biasa
+disebut dengan kognitif, afektif dan
+psikomotorik, yang lebih kesohor dengan
+istilah Taksonomi Bloom. Ukuran mening-
+katnya kapasitas peserta didik pasca Diklat
+dapat dioperasinalisasi dan dievaluasi
+dengan sebuat alat yang disebut kurikulum.
+Kurikulum merupakan dokumen panduan
+kerja baik bagi para penyelenggara Diklat
+maupun bagi pesertanya. Kurikulum
+memiliki beberapa komponen utama yang
+harus senantiasa dipenuhi, antara lain
+tujuan pembelajaran, strategi pembelajaran
+dan alat evaluasi.
+Tujuan pembelajaran merupakan komponen
+yang maha penting dalam sebuah
+kurikulum. Tujuan pembelajaran adalah
+hasil akhir yang ingin dicapai dari sebuah
+rancangan pembelajaran dengan berbagai
+pertimbangan logis yang mencakup waktu
+pembelajaran, kemampuan peserta, alat
+bantu belajar yang tersedia, anggaran,
+kemampuan pengajar dan lain-lain. Tujuan
+1615
+harus dirumuskan terlebih dahulu sebelum
+proses penyusunan rancangan yang lain
+dimulai. Dalam penyelenggaraan Diklat
+diplomatik, analisis kebutuhan SDM yang
+dipetakan oleh Biro SDM mutlak harus
+menjadi rujukan utama penjabaran tujuan
+pembelajaran. Seluruh hal tersebut telah
+diatur dalam Permenlu Nomor 9 Tahun
+2020 tentang Pelatihan Fungsional
+Diplomat.
+Pada Diklat diplomatik, tujuan
+pembelajaran harus menjabarkan secara
+logis dan terperinci tiga pilar Taksonomi
+Bloom yang harus dimiliki oleh diplomat.
+Ketiga pilar tersebut akan memunculkan
+keunikan profesi diplomat dari profesi lain.
+Formulasi tujuan pembelajaran seharusnya
+tidak menitik-beratkan pada salah satu dari
+pilar saja.
+Jika tujuan pembelajaran hanya kognitif,
+maka seorang diplomat akan sulit
+dibedakan dari seorang akademisi atau
+peneliti. Sementara apabila tujuan
+pembelajaran hanya afektif, seorang
+diplomat tidak bisa dipisahkan dari seorang
+birokrat. Demikian halnya apabila hanya
+aspek psikomotorik yang dikedepankan,
+maka seorang diplomat bisa jadi akan
+sama seperti seorang marketing
+perusahaan multinasional.
+Diplomat adalah profesi yang menuntut
+seseorang untuk memiliki pengetahuan dan
+tentunya ketertarikan terhadap isu-isu
+politik luar negeri; menjadi patriot yang
+sangat mencintai tanah airnya; dan memili-
+Untuk itu, peningkatan kecakapan dalam
+berkomunikasi dengan berbagai kalangan,
+kemampuan intelijen, kemahiran problem-
+solving serta kemampuan berpikir strategis
+harus menjadi bagian kompetensi utama
+yang perlu dicapai selama masa
+pembelajaran Diklat pembentukan diplomat
+yang berlangsung selama 6-7 bulan
+tersebut.
+Dengan mempertimbangkan usia, tingkat
+kedewasaan dan tingkat pendidikan para
+peserta Diklat diplomatik, prinsip-prinsip
+dasar pembelajaran orang dewasa atau
+andragogi tentunya perlu senantiasa
+diterapkan. Oleh karena itu, seluruh proses
+pembelajaran yang dirancang dalam Diklat
+tersebut harus senantiasa didasari
+setidaknya 4 prinsip dasar sebagaimana
+ki kemampuan untuk mengincorporate
+keterlibatan semua konstituen—akademisi,
+birokrat, kalangan akar rumput, kalangan
+swasta, masyakat madani, dll—ke dalam
+sebuah strategi pencapaian kepentingan
+nasional yang dijalankan secara rahasia.
+Alexander Karagiannis, seorang diplomat
+senior AS, dalam forum Ted talk yang
+diadakan oleh Indiana University di tahun
+2016 menyatakan “Diplomacy is a means
+by which we prevent, pre-empt, contain,
+manage, and solve problems… We
+convince people to do things with and
+for us in such a fashion that they
+believe it was their idea. Foreign policy
+is open and public but diplomacy is
+confidential.”
+
+disadur dari buku “Ilmu dan Apliasi
+Pendidikan Bagian II Ilmu Pendidikan
+Praktis” terbitan Tim Pengembang Ilmu
+Pendidikan FIP – UPI, tahun 2012, sebagai
+berikut:
+• Peserta didik dewasa adalah individu
+yang memiliki konsep diri, mampu
+membuat keputusan dan menghadapi
+risikonya secara mandiri. Untuk
+meningkatkan pengetahuan, peserta
+harus memiliki ruang untuk menemukan
+data dan informasi secara mandiri.
+Pendekatan pembelajaran kelas secara
+tradisional dengan presentasi seorang
+narasumber di depan kelas serta sesi
+tanya jawab yang terbatas, mungkin
+bukan pendekatan yang paling efektif
+bagi peserta didik dewasa. Riset secara
+mandiri jauh lebih efektif bagi peserta
+didik dewasa untuk meningkatkan
+pengetahuannya.
+• Peserta didik dewasa memiliki
+akumulasi pengalaman yang akan
+mempengaruhi bagaimana ia merespon
+setiap kondisi yang dihadapi. Pengajar
+harus mampu menciptakan aktivitas
+kelas yang menstimulasi para peserta
+untuk menjelajahi dan menghubungkan
+pengalamannya dengan konteks yang
+sedang dibahas. Untuk itu para peserta
+memerlukan ruang dan waktu yang
+cukup untuk menyampaikan analisisnya
+berdasarkan pengalaman pribadi pada
+sesi pembelajaran kelas.
+• Peserta didik dewasa cenderung ingin
+segera dapat memanfaatkan hasil
+belajarnya dalam pekerjaannya sehari-
+hari. Untuk itu, materi ajar harus
+berupa ilmu yang dapat menstimulasi
+para peserta untuk mencoba
+menerapkan secara mandiri di luar
+kelas—misalnya teknik elisitasi atau
+strategi cipta kondisi sebagai bagian dari
+modul pelatihan intelijen.
+• Pembelajaran akan lebih efektif jika
+melibatkan aktivitas mental dan fisik.
+Peserta didik dewasa dapat menentukan
+apa yang akan dipelajari, dimana dan
+bagaimana cara mempelajarinya serta
+kapan melakukan kegiatan belajar. Oleh
+karena itu, kejelasan setiap sasaran
+belajar harus difahami masing-masing
+peserta di awal setiap proses
+pembelajaran. Hal ini mutlak harus
+dilakukan pada setiap awal sesi kelas
+oleh penyelenggara Diklat atau fasilitator.
+Sementara itu, kepada setiap pengajar atau
+fasilitator, perlu ditanamkan pemahaman
+bahwa mengajar tidak sama dengan
+sekedar presentasi, berpidato atau bercerita,
+meskipun ketiganya dapat digunakan
+sebagai opsi pendekatan pembelajaran.
+Mengajar adalah kegiatan yang dipandu
+oleh rencana pembelajaran dengan target
+capaian yang jelas bagi para pesertanya
+yang akan dievaluasi dan dikuatkan
+(reinforced) pada akhir rangkaian proses
+pembelajaran tersebut.
+Indikator keberhasilan proses belajar para
+peserta dilihat dari hasil evaluasinya.
+1817
+Namun demikian, penyelenggara
+Diklat perlu mencermati banyaknya
+miskon- sepsi tentang proses evaluasi
+yang sering kali dimanifestasikan dalam
+bentuk ujian tertulis maupun lisan. Evaluasi
+dapat dilakukan dalam berbagai cara.
+Misalnya, untuk mengukur keberhasilan
+seorang peserta Diklat diplomatik dalam
+menyerap kemampuan dasar elisitasi,
+evaluasi dapat dilakukan dalam bentuk
+projek dengan tolok ukur keberhasilan;
+informasi yang diperoleh dari hasil praktik
+elisitasi kepada objek yang ditugaskan.
+Hal terpenting dalam evaluasi adalah
+bahwa rancangan evaluasi harus disiapkan
+sejak dini segera setelah tujuan
+pembelajaran tuntas dirumuskan.
+Komponen evaluasi yang mutlak harus ada
+adalah skala capaian pembelajaran, cara
+evaluasi serta rencana proses penguatan
+(reinforcement).
+Definisi paling sederhana dari proses
+penguatan adalah keterlibatan peserta
+"Education is what survives when what
+has been learned has been forgotten."
+Kontributor : Ifan Mahdiyat Sofiana, (Diplomat
+Madya/Kabag Dukungan Pimpinan, Kertas Kerja,
+Korespondensi Diplomatik, dan Analisis Pelayanan
+Publik, Setditjen Protkons).
+dalam pembahasan hasil evaluasi dan
+pengukuran skala keberhasilan secara
+terbuka. Contoh proses penguatan adalah
+membahas setiap jawaban ujian tulis
+bersama para peserta dengan tujuan
+masing-masing peserta akan melanjutkan
+proses pembelajaran dan menginternalisasi
+materi ajar. Dengan demikian hasil
+pembelajaran dapat menstimulasi lifelong
+learning. Hal ini sejalan dengan pernyataan
+salah seorang psikolog terkemuka B.F.
+Skinner di tahun 1964 sebagai berikut:
+
+2019
+Transformasi Pusdiklat Menjadi
+BIONA
+IONA adalah nama lembaga riset
+berteknologi canggih yang meneliti
+para superhuman dalam serial Netflix
+Raising Dion. Serial yang mulai mengudara
+sejak tahun 2019 ini mengangkat kisah
+Niole seorang single mom membesarkan
+Dion, putranya yang ternyata memiliki
+kekuatan supernatural. Nicole berupaya
+menyembunyikan kekuatan Dion tersebut
+dari orang lain.
+Akibatnya Dion ditempatkan di lingkungan
+yang menuntutnya menjadi orang lain,
+menjadi “normal” seperti kebanyakan
+orang. Dion menghadapi pertentangan
+batin karena ada saat-saat tertentu dimana
+ia merasa bisa berkontribusi lebih besar
+dengan “kemampuan super” nya, namun
+B
+lingkungan tidak dapat menerimanya.
+Hingga pada suatu titik, Dion pun frustrasi.
+Krisis identitas Dion tersebut bisa jadi
+dihadapi oleh sederet JF Diplomat yang saat
+ini menduduki jabatan struktural Eselon 3
+dan 4 di unit kerja yang menangani
+Infrastruktur Diplomasi. Terlebih lagi saat
+yang bersangkutan mendapatkan “giliran”
+mengikuti pelatihan, khususnya Diklat
+fungsional diplomatik berjenjang.
+Betapa tidak, formulasi pembelajaran selalu
+dititikberatkan pada knowledge serta
+terkesan stereotyping bahwa kompetensi
+utama diplomat adalah diplomat yang
+terampil di ruang sidang multilateral.
+Sementara sebagaimana kita pahami
+bersama, jumlah Perwakilan multilateral
+Out of the Box
+hanya sekitar 5% dari total 131 Perwakilan
+RI. Alhasil berbagai aktivitas pembelajaran
+seperti tidak relevan dengan tugas yang
+diampu sehari-hari.
+Betapa tidak, formulasi pembelajaran selalu
+dititikberatkan pada knowledge serta
+terkesan stereotyping bahwa kompetensi
+utama diplomat adalah diplomat yang
+terampil di ruang sidang multilateral.
+Sementara sebagaimana kita pahami
+bersama, jumlah Perwakilan multilateral
+hanya sekitar 5% dari total 131 Perwakilan
+RI. Alhasil berbagai aktivitas pembelajaran
+seperti tidak relevan dengan tugas yang
+diampu sehari-hari.
+Hal lain yang mengemuka adalah Diklat
+seolah-olah tidak dijalankan untuk
+mengembangkan kompetensi, melainkan
+lebih difokuskan pada penilaian dan
+pemeringkatan seluruh peserta. Label
+peringkat dan nilai tersebut, entah disadari
+atau tidak, akan melekat sepanjang karir
+para peserta. Hal ini tentunya patut
+disayangkan karena penilaian “sesaat” di
+Diklat tersebut cenderung mengabaikan
+prestasi kerja pegawai.
+Kondisi ini jauh panggang dari api jika kita
+sandingkan dengan teori Strategic Human
+Resource Management (HRM) yang
+disampaikan oleh Gary Dessler, dalam
+bukunya Human Resource Management
+(2013): “strategic human resource
+management means formulating and
+executing human resource policies and
+practices that produce the employee
+competencies and behaviors the company
+needs to achieve its strategic aims.”
+Dalam buku yang banyak menjadi referensi
+bagi para akademisi dan praktisi HRM
+tersebut, Dessler menyatakan bahwa
+potensi yang dimiliki seorang pegawai
+merupakan modal dasar, namun
+optimalisasi modal tersebut sangat
+tergantung pada pengalaman (professional
+experience) SDM di lingkungan kerja.
+Pengalaman tersebut dapat berupa
+pengalaman langsung di tempat kerja,
+coaching and mentoring, rotasi dan mutasi,
+diversifikasi dan intensifikasi pekerjaan
+(promosi), serta pengembangan
+kompetensi melalui program Training and
+Development (Pelatihan dan
+Pengembangan).
+Keseluruhan proses perolehan pengalaman
+pegawai tersebut akan mengkristal menjadi
+suatu set kompetensi yang kemudian
+dipetakan oleh organisasi sebagai salah
+satu dasar pengambilan keputusan “seleksi
+dan suksesi”. Dengan demikian, organisasi
+yang kuat adalah organisasi yang mampu
+menyiapkan dan mengembangkan SDM
+menjadi berarti, karena dihargai dan
+dioptimalkan “kemampuan super” nya
+sehingga mampu mengemban tanggung
+jawab kepemimpinan di masa depan.
+Sementara proses “seleksi dan suksesi”
+menjadi bagian integral dari pelaksanaan
+tugas pegawai. Keseluruhan proses
+tersebut diistilahkan oleh Dessler sebagai
+berikut “Talent management is the goal
+Sumber : filmyhype.com
+
+oriented and integrated process of
+planning, recruiting, developing, managing,
+and compensating employees.”
+Kembali ke Dion, si bocah berkekuatan
+super. Dion mulai menemukan jati dirinya
+ketika “ditemukan” dengan BIONA, lembaga
+yang mengapresiasi “kekuatan super” nya.
+Bahkan BIONA pun memberikan ruang dan
+asistensi kepada Dion untuk memahami
+dan mengoptimalkan “kekuatan super”nya.
+Dalam kaitan dengan pengembangan SDM
+Kemenlu, peran BIONA itulah yang perlu
+dijalankan oleh Pusdiklat. Dimana
+Pusdiklat menjadi tempat bagi para talenta
+Kemlu untuk dapat memahami “diri” dan
+mengoptimalkan “kekuatan” yang dimiliki,
+tentunya agar berkontribusi optimal dalam
+mencapai tujuan Kemenlu.
+Pusdiklat perlu berganti baju, dari sekedar
+lembaga judging talenta menjadi
+pusat pengembangan talenta Kemlu
+dengan mengusung prinsip “human
+resources development for all”.
+Pendekatannya tidak lagi menambah
+“value” SDM unggul atau mereka yang
+sudah memenuhi standar kompetensi
+belaka. Melainkan juga mengedepankan
+program-program khusus bagi SDM yang
+belum mencapai standar kompetensi yang
+diharapkan untuk menjalankan fungsinya.
+Pusdiklat harus menjadi ruang terbuka
+buat semua SDM Kemlu untuk
+mengembangkan talentanya sehingga
+dapat berkontribusi maksimal ke
+organisasi.
+Oleh karena itu, penyusunan Human
+Capital Development Plan (HCDP) harus
+menjadi bagian penting dari manajemen
+SDM Kemlu, untuk memastikan
+keselarasannya dengan visi dan misi
+organisasi. Sudah saatnya pengembangan
+SDM menjadi bagian integral dari tata
+kelola organisasi, tidak hanya sekedar
+menjadi tempelan pemanis. Kemlu perlu
+menjadi kesatuan sekian banyak talenta
+“super” yang menjalankan perannya
+masing-masing untuk tercapainya tujuan
+organisasi.
+Tanpa pengembangan talenta dengan baik
+dan terarah, SDM Kemenlu bisa jadi
+mengalami demotivasi dan membawa
+semangat negatif untuk organisasi. Jika
+hal ini diabaikan, berbagai talenta itu akan
+mengendap atau bahkan mati. Sama
+halnya dengan Dion, tanpa peran BIONA
+dan bantuan Nicole yang memberikan
+pendampingan dan pengembangan
+talentanya, bisa jadi menjadi “boogey man”
+seperti Pat Rolling yang menyimpan energi
+negatif dan hanya bisa dikalahkan dengan
+kemurnian jiwa dan cinta keluarga Dion.
+Untuk dapat melakukan itu semua,
+Pusdiklat tidak perlu menjadi Pusdiklat 4.0,
+karena Pusdiklat bukanlah sebuah industri.
+Pusdiklat hanya perlu menegaskan
+jatidirinya sebagai “kawah candradimuka”
+untuk menjadikan SDM “super” menjadi
+lebih “super” dan relevan untuk organisasi.
+Pusdiklat perlu selalu relevan sebagai
+penjuru peningkatan engagement pegawai
+karena pada dasarnya manusia selalu
+“excited”untuk belajar menjadi lebih baik
+sesuai kapasitasnya.
+Di sisi lain perlu dipertimbangkan
+dihilangkannya “tag” peringkat Diklat yang
+selalu menjadi rujukan “value” SDM.
+Penilaian kompetensi harus dilakukan
+dengan metode penilaian yang terstandar
+melalui assessment centre dan penilaian
+kesenjangan kinerja SDM yang
+bersangkutan.
+Tentunya pendekatan dan metode baru
+sesuai perkembangan zaman tetap
+diperlukan namun orientasi utama Pusdiklat
+adalah internal servis untuk
+mengoptimalkan seluruh talenta Kemenlu.
+Bak anomali kekuatan super Dion, Pusdiklat
+wajib mengembangkan pelayanan
+pengembangan SDM yang terintegrasi
+dengan manajemen talenta organisasi,
+melalui sistem yang adaptif dan resilient
+terhadap perubahan.
+Betapa super pengelolaan SDM di Kemenlu,
+jika seusai Diklat fungsional, Pusdiklat
+mampu menyampaikan secara terperinci
+potensi dan talenta dari setiap individu
+peserta kepada para pemangku
+kepentingan HRM di Kemlu. Bisa jadi di
+momen itu Kapusdiklat akan mengutip
+ucapan Mark, mendiang ayah Dion kepada
+Nicole, "I'm telling you, those kids... there's
+something special."
+Kontributor : Hanung Nugraha
+(Diplomat Madya/Kabag Keuangan
+BSKLN)
+2221
+
+untuk membantu pekerjaannya, mulai dari
+aplikasi-aplikasi kinerja, aplikasi keuangan
+dan lain-lain”,ungkap Tri.
+Alhasil tawaran tersebut diterimanya di
+masa itu, Tri bekerja nyaris 24 jam setiap
+harinya. Di waktu jam kerja, melaksanakan
+tugas-tugasnya di Pusdiklat, sementara di
+malam hari, mengerjakan berbagai tugas di
+Perwakilan itu. “Setiap bulan saya bantu dan
+kerjanya malam hari, karena ada perbedaan
+waktu. Sementara paginya saya kerja di
+pusdiklat. Karuan saat di kantor saya suka
+ngantuk dan sering tidur dulu 1 jam”.
+Meski demikian Tri tidak keberatan
+menjalaninya. Bagaimana tidak, ia tidak
+bekerja cuma-cuma. “Setiap bulan selalu
+transfer uang ke saya, seolah-olah saya
+memang staf Perwakilan itu”, tuturnya. Hal
+itu bahkan berlangsung selama 2,5 tahun
+lamanya. Rekan Tri pun “terselamatkan”.
+Yang bersangkutan tetap bertugas di
+Perwakilan sampai masa penugasannya
+selesai. Tak hanya dari segi materi, Tri pun
+merasa bersyukur atas kesempatan
+tersebut. “Saya jadi paham pekerjaan
+seorang BPKRT di Perwakilan”,jelasnya.
+Meski demikian, terdapat serangkaian
+kesempatan yang ia lewatkan. Salah
+satunya saat peluang untuk mendaftar
+sebagai BPKRT di tahun 1998. “Waktu itu
+ada perekrutan BPKRT khusus untuk
+pegawai Kemlu, itu kesempatan yang tidak
+saya ambil karena saya masih kuliah.
+Sayang sekali itu, saya pikir ada kesem
+patan ke dua. Ternyata tidak ada. Hal itu
+2423
+Selamat PDDN dan PPNPN
+Pusdiklat Teladan Periode Juli-
+September 2021
+ngkapan Lane Kiffin, salah seorang
+pelatih American Football ternama,
+sedikit banyak menggambarkan perjalanan
+karir Tri Herminanto, peringkat kedua
+PDDN teladan Pusdiklat periode Juli-
+September 2021. Alumnus Universitas
+Terbuka jurusan ekonomi manajemen ini
+U
+When God Gives You a
+Second Chance. It’s not
+Something You Take for
+Granted
+bergabung dengan keluarga besar
+Pusdiklat sejak tahun 1991. Pada awalnya,
+ia bertugas di bagian inventaris selama 7
+tahun dengan tugas utama berkaitan
+dengan pengelolaan inventaris. Tri
+berpindah tugas ke bagian keuangan
+selama 9 tahun. Alhasil ia pun sangat
+mengenal proses penyusunan SPM, SAS,
+revisi anggaran sampai dengan pengusulan
+anggaran RKAL. Tri pun sempat menjabat
+sebagai PPK Pusdiklat selama 1 (satu)
+tahun. Namun ia memutuskan untuk
+mengundurkan diri karena beratnya
+tanggung jawab yang diemban.
+Pria yang kerap berkendara sepeda motor
+ini juga memiliki pengalaman bertugas di
+Perwakilan RI, yakni KBRI Islamabad,
+selama satu bulan pada tahun 2009 dalam
+rangka pembenahan arsip perwakilan. Tak
+hanya itu, Tri pun memiliki pengalaman
+unik untuk bertugas secara tidak langsung
+sebagai pegawai Perwakilan RI secara
+online. Saat itu ia sempat diminta salah
+satu rekannya yang tengah menjabat
+sebagai BPKRT (Penata Kanselerai-red) di
+salah satu Perwakilan, yang saat itu tengah
+terancam dimutasi kembali ke Pusat karena
+dipandang tidak berkinerja dengan baik.
+“Dia sudah hampir dipulangin karena dia
+tidak bisa bekerja di perwakilan. Saat
+kebetulan yang bersangkutan mendapatkan
+penugasan ke Jakarta, dia secara khusus
+datang ke rumah, lalu meminta tolong saya
+
+2625
+sangat saya sesali, karena itu kesempatan
+yang luar biasa”, ungkapnya. Peluang
+mengubah nasib kedua yang ia lewatkan
+adalah rekrutmen Petugas Komunikasi
+(PID- red) di tahun 2007, “Ijazahnya belum
+keluar sehingga saya tidak bisa ikuti tes,”
+ungkap Tri.
+Belajar dari pengalamannya itu, Tri pun
+berpesan, “Kalau ada satu kesempatan
+jangan berharap ada kesempatan kedua.
+Jika ada kesempatan gunakan kesempatan
+itu dengan sebaik-baiknya”.
+Tri pun sempat diterima dalam rekrutmen
+pegawai setempat di KJRI Shanghai pada
+tahun 2016. Namun ia memutuskan tetap
+bertugas di Pusdiklat, mengingat adanya
+tawaran untuk mengisi jabatan Kepala
+Subbidang Perencanaan Bidang PPE.
+Akibat adanya restrukturisasi Pusdiklat,
+dengan dihilangkannya sejumlah jabatan, di
+awal tahun 2022 Tri pun berpindah menjadi
+Kasubbid Pengembangan.
+Menilik kembali pengalamannya selama
+bertugas di Pusdiklat, Tri mengungkapkan
+betapa pesatnya perkembangan di
+Pusdiklat, terutama dari segi sarana dan
+prasarana. “Perkembangan Pusdiklat di
+masalah fisik yang paling terasa dan
+terlihat, khususnya dari segi gedung dan
+sarana prasarana pelatihan lainnya
+yangmengalami perubahan signifikan,
+terlebih jika dibandingkan dengan kondisi
+saat pertama kali saya bergabung,” tutur
+Tri. Ia pun merasa nyaman bekerja di
+Pusdiklat, mengingat suasana kerja
+Syifa Sang Penyintas
+Kerja Kerja Tifus
+Pembaca What’s On in Pusdiklat yang
+kebetulan pernah mengikuti program tugas
+belajar maupun short course yang diadakan
+Pusdiklat dalam kurun waktu 8 tahun
+terakhir, pasti setidaknya pernah
+mendengar nama Syifa. Gadis yang
+bernama lengkap Ashri Nashirotusyifa ini
+bergabung dengan keluarga besar Pusdiklat
+sebagai PPNPN sejak April 2014, dan sejak
+awal penugasannya berada di bidang Kerja
+Sama Pendidikan dan Pelatihan atau KSPP
+(sebelumnya bernama bidang Diklat
+Struktural dan Kerjasama Lembaga Diklat /
+DSKLD- red).
+Tidak sedikit orang yang salah sangka,
+mengira Syifa sebagai JF Diplomat.
+Bagaimana tidak, Ia memiliki pengetahuan
+dan pengalaman segudang terkait isu
+dan hubungan baik dengan jajaran
+Pusdiklat, mulai dari level Pimpinan sampai
+dengan tingkat paling bawah, “Mungkin ada
+beberapa orang yang kurang baik. Itu wajar
+lah.. tapi secara umum pegawai Pusdiklat
+kooperatif”. Mengakhiri sesi wawancaranya
+dengan redaksi Majalah What’s On, Tri
+menyampaikan harapannya untuk
+Pusdiklat, “Kalau penilaian dari saya sudah
+bagus ya. Pusdiklat perlu tetap
+mempertahankan kinerjanya yang sudah
+baik ”.
+Kontributor :Ade Setiawan
+Bidang KSPP lainnya, ia harus berjibaku
+mengikuti rapat, persiapan dan
+pelaksanaan penandatanganan MoU,
+mengelola pelatihan Bahasa Indonesia
+untuk diplomat asing, sampai dengan
+pemesanan konsumsi rapat maupun
+pelatihan.
+Sambil menahan geli, PPNPN yang dikenal
+periang dan gesit dalam bekerja ini
+menuturkan, “Kayaknya waktu itu tuh
+nggak ada hari libur deh. Meski udah
+diusahakan supaya kerjaan kelar sebelum
+weekend, tapi kadang tetep aja weekend
+tuh harus nyambi kerja juga. Untungnya
+tetap diberi kesehatan”. Kondisi yang ia
+alami tersebut, jika meminjam ungkapan
+anak milenial, tak lain dan tak bukan “Kerja,
+kerja, Tifus”.
+Flashback ke masa awal bergabung
+dengan Pusdiklat, Syifa menceritakan
+bahwa saat menjalani magang di tahun
+2013, meski jangka waktu magang
+seharusnya hanya selama 1 bulan, ternyata
+ia mendapatkan tawaran dari Kabid DSKLD
+saat itu, Ibu Ermawati, untuk
+memperpanjang masa magangnya.
+Gayung bersambut, Syifa menerima
+tawaran itu dengan tangan terbuka.
+“berhubung kelas kuliah sudah kosong, dan
+ya memang tinggal nyusun skripsi,
+ditambah lagi dari Pusdiklat juga mau
+memberikan ganti uang transport, yaa
+waktu itu saya terima aja jadinya”, ujarnya.
+Keasyikan bekerja di Pusdiklat, nyaris
+membuat skripsinya terbengkalai, sampai
+substansi Bidang KSPP. Mulai dari urusan
+administrasi, MoU Kerja Sama, pelatihan
+bagi diplomat asing dalam kerangka kerja
+sama teknis, sampai dengan tugas belajar
+dan short course.
+Tak hanya itu, meski ternyata cukup banyak
+pegawai Pusdiklat yang mengenal nama
+lengkapnya, Syifa sering kali dilibatkan
+dalam pelaksanaan berbagai kegiatan
+Pusdiklat yang ada di bawah wewenang UT
+maupun Bidang/Bagian Pusdiklat lainnya.
+Entah sebagai petugas protokol, penerima
+tamu sampai dengan MC, misalnya
+dalam kegiatan penutupan Diklat Sekdilu,
+Sesdilu, dan Sesparlu.
+Kembali ke kiprah alumni SI Hubungan
+Internasional UIN Syarif Hidayatullah ini di
+KSPP, ia pun sempat menjalankan peran
+super multi-tasking. Di penghujung tahun
+2018, Kepala Bidang KSPP tengah
+mengikuti rangkaian kegiatan orientasi
+penempatan di Perwakilan RI. Sementara
+seluruh jabatan eselon 4 Bidang KSPP kala
+itu belum terisi. Alhasil Syifa pun kejatuhan
+durian runtuh.
+“Waktu itu ya, rasanya tuh kayak jadi Kabid
+sama jadi Kasubid di saat yang sama,
+soalnya untuk posisi Kasubid bener-bener
+kosong, dan ga ada sama sekali pajabat
+fungsional Diplomatnya, ditambah lagi
+Kabid KSPP juga waktu itu sedang
+persiapan untuk penempatan di luar negeri
+(Perwakilan RI-red), jadi bisa dong di
+bayangin gimana repotnya KSPP waktu
+itu”. Bayangkan saja, bersama dengan staf
+
+suatu saat ia diingatkan oleh dosen
+pembimbingnya. “Kayaknya kalo waktu itu
+dosen pembimbing saya enggak nanyain
+soal skripsi, kemungkinan besar saya bakal
+lulus lebih lama deh, soalnya udah asik
+kerja juga, dan ternyata susah juga yaa
+buat fokus skripsian sambil kerja”, ujarnya
+sambil tertawa. Akhirnya dengan berat hati,
+Syifapun memutuskan untuk mengajukan
+permohonan pemberhentian kegiatan
+magangnya.
+Namun ibarat sudah berjodoh, tidak lama
+setelah lulus kuliah, tawaran untuk kembali
+berkarya di Pusdiklat pun ia terima. “Jadi
+waktu itu kalo nggak salah beberapa bulan
+setelah saya lulus, tiba-tiba dapat telepon
+gitu dari Pak Yudi Alamin (Kabag TU
+Pusdiklat saat itu), nah di situ beliau
+nanya-nanya soal kuliah saya, udah
+beres atau belom, Kalo udah dan sekiranya
+mau kerja di Pusdiklat, kirim aja langsung
+lamarannya” ungkap Syifa. Pucuk dicinta
+ulam pun tiba, tawaran itu pun ia ambil.
+“Buat mahasiswa yang baru lulus, terus
+langsung dapat tawaran kerja kan seneng
+banget yaa, lagian cari kerja nggak
+gampang juga”lanjutnya.
+Tak terasa sudah hampir 8 tahun menjadi
+anggota keluarga besar Pusdiklat,
+perempuan dengan hobi memasak ini
+merasa telah mendapatkan berbagai
+pengalaman yang sangat luar biasa. Belum
+lagi suasana kekeluargaan yang begitu
+hangat dan memberikan rasa nyaman
+untuk tetap bekerja di Pusdiklat.
+2827
+Pada pemilihan pegawai teladan Pusdiklat
+periode Juli-September 2021, Syifa
+berhasil memperoleh suara terbanyak.
+Syifa yang sempat menjabat sebagai
+Kepala Biro Seni dan Budaya BEM FISIP
+UIN Syarif Hidayatullah periode 2012-2013
+ini mengaku merasa terhormat atas
+kepercayaan yang diberikan sebagai
+pegawai teladan. Menurut Syifa,
+penghargaan yang ia terima tentunya tidak
+terlepas dari hasil bimbingan dari para
+pimpinan, senior dan juga rekan-rekan
+kerjanya.
+Mengakhiri sesi wawancara dengan
+Majalah What’s On, Syifa menyampaikan
+harapannya untuk Pusdiklat, “Kalo dari
+saya sih tentunya berharap semoga
+Pusdiklat bisa menjadi centre of excellence
+sebagaimana yang dicita-citakan dan
+semoga Pusdiklat juga bisa selalu menjadi
+rumah yang nyaman bagi seluruh staf
+Kemlu”.
+Kontributor : Radea Fauzi Hidayat
+GALERI FOTO PUSDIKLAT
+2. Diklat Toefl Bagi Pegawai
+ASN Kemlu
+3. Pelatihan Teknik Negosiasi
+dan Perundingan G20 untuk
+KPK
+1. Kegiatan Diklat Bahasa
+Spanyol Tingkat Pemula
+bagi ASN Kemlu dan
+Kementerian/ Lembaga
+Terkait T.A. 2022 Diklat
+Bahasa Spanyol pada
+tanggal 27 Januari 2022
+secara Online
+
+3029
+6. Pelatihan Drafting and
+Document Development bagi
+Tim Sherpa Presidensi G20
+Indonesia T.A. 2022
+tanggal15 – 17 Februari
+2022
+Kalender Tentatif Pelatihan
+Februari-Maret 20224. Kegiatan Diklat Bimbingan
+Teknis Conference Officer
+EDM-CSWG Persidensi G20
+Kementerian Lingkungan
+Kehidupan dan Kehutanan
+tanggal 17 – 19 februari 2022
+5. Kegiatan Pelatihan Confe-
+rence Officer bagi Pegawai
+KESDM dalam rangka
+persiapan Presidensi
+Indonesia pada G20 Energy
+Transition Working Group
+(ETWG) secara hybrid
+Tanggal 24-26 Februari 2022
+NO UPT/BIDANG NAMA DIKLAT TANGGAL DIKLAT PESERTA
+1.
+Bidang
+Pendidikan
+dan Pelatihan
+Teknis
+Diklat
+Penjurubahasaan
+(3 bahasa asing)
+1 kali
+(Februari 2022)
+15 orang
+Pembekalan TOEFL
+Tahap I - III
+Maret dan Juli
+2022)
+90 orang,
+dengan 30
+orang per
+kegiatan
+Workshop on Editing
+and Polishing English
+Writing I - III
+(Februari, Mei
+dan Agustus
+2022)
+45 orang,
+dengan 15
+orang per
+kegiatan
+Diklat Bahasa Spanyol
+I-III
+3 kali
+(Februari- April
+dan April-Juni,
+Juli-September
+2022)
+60 orang,
+dengan 20
+orang per
+kegiatan
+Workshop Penguatan
+Diplomasi Ekonomi
+Tahap I-IV
+4 kali
+(Februari, April,
+Juli dan Oktober
+2022)
+180 orang,
+dengan 45
+orang per
+kegiatan
+Bimbingan Teknis
+Diplomasi dan
+Hubungan Luar Negeri bagi
+Kementerian/Lembaga
+Terkait dan
+Pemerintah Daerah
+(Pemda)
+12 Kali
+(Januari -
+November 2022)
+300 orang,
+dengan 30
+orang per
+kegiatan
+2.
+Bidang
+Pendidikan
+dan Pelatihan
+Non
+Diplomatik
+Diklat Peningkatan
+Kompetensi / IHT PK
+Gelombang I dan II
+Gel. I:
+14 Februari –30
+April)
+30 orang per
+kegiatan
+Diklat Peningkatan
+Kompetensi Fungsional
+Arsiparis
+Maret/April 2-3 Pejabat
+Fungsional
+Arsiparis/
+Diklat
+3.
+Bidang
+Kerjasama
+Pendidikan
+dan Pelatihan
+Webinar – Knowledge And
+Skills Enhancement Series
+Januari -
+Desember 2022
+Pelatihan Dasar CPNS
+Kementerian Luar Negeri
+Golongan III
+Juli-September
+2022
+
+Canda Sisingamangaraja 73
+Sumber: pinterest seinfield
+Sumber: reddit
+3231
+Sumber: endlessorigami.com
+Sumber: Facebook
+Sumber: 1cak.com
+Sumber: Twitter Sumber: Funnyjunk
+Sumber: wookiepedia
+Sumber: pinterest
+Sumber: pinterest
+
+Making Indonesian Diplomats 4.0

@@ -1,0 +1,40 @@
+seed_url: https://www.predsednik.rs/en/press-center/news/section-surcin-obrenovac-ceremonially-opened
+final_url: https://www.predsednik.rs/en/press-center/news/section-surcin-obrenovac-ceremonially-opened
+title: Section Surčin - Obrenovac ceremonially opened
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+18.12.2019. - 17:32
+Section Surčin - Obrenovac ceremonially opened
+The President of the Republic of Serbia Aleksandar Vučić said today that the Belgrade-Čačak highway, which was completed today with the opening of the last section Surčin-Obrenovac, brings a future for Serbia in the economic and in every other sense.
+Photo: Presidency / Dimitrije Goll
+At the opening of the Surčin-Obrenovac section, President Vučić said that all citizens of Serbia should be content with this day because in the coming decades they will be proud of having taken part in the construction of the most important roads for Serbia.
+"(The citizens should be proud of taking part) in the endeavours that bring future in the economic and every other aspect, in what will revive Central and Western Serbia, in the efforts that will bring new value and a new quality of life", said President Vučić.
+He said that Belgrade and Čačak awakened today and decided to start walking towards each other, to become closer, thus making all the places along that road and that part of Serbia members of one big close family.
+"Only yesterday, Čačak and Belgrade were two and a half hours away, and today - only an hour. Anyone who travels will save one hour of time, and thanks to that will be able to spend more time with family or at work. Today, the Serbian people have become richer in more time, more jobs and more factories," said President Vučić.
+Photo: Presidency / Dimitrije Goll
+He emphasised that this is the best gift to Serbia after many years of anguish, transition, devastated factories.
+I cannot recover to you, the citizens, the time we lost for the roads in the past all due to negligence, indolence, inertness... But today we can make sure that you get more time so that we all mind the future together," said President Vučić.
+Visiting the new highway and the magnificent bridge near Obrenovac over the Sava and Kolubara rivers, President Vučić talked with the representatives of the Chinese company
+CCCC
+also engaged in the construction of the section from Preljina to Požega, where he was promised by the company Director Zhang Xjaoyun that the road will be completed by the end of 2021.
+President Vučić said that in precisely two years, citizens will be taking the highway from Belgrade to Požega and that they will no longer have troubles in driving through the Ovčar-Kablar Gorge.
+Photo: Presidency / Dimitrije Goll
+He also said that the development plan will be presented on the 28th December that will not be only the list of nice wishes.
+"That will be a plan with a very strong reform agenda appertaining the growth of 6 and more per cent until the year 2025. We seek to take the top position in Europe in the economic growth rate," stressed the President.
+Ambassador of China to Serbia, Chen Bo, said today that the opening of the Surčin-Obrenovac section represents a huge event in the development of Serbia as well as in the cooperation development between China and Serbia. She also wished for the steel friendship of the two countries to progress even further in the coming years.
+"We, the Chinese, say that construction of roads is the first step towards wealth," said Chen at the ceremonial opening of the "Miloš the Great" highway section.
+Photo: Presidency / Dimitrije Goll
+She added that she feels pleased when seeing that Serbia has achieved great results in the field of infrastructure in recent years, and especially because the Chinese companies gave their contribution to it.
+Ambassador Chen pointed out that the cooperation in the area of infrastructure remains to be an important part of relations between Serbia and China as well as a significant chapter of the "Road and Belt" initiative.
+She added that the commissioned sections of the "Miloš the Great" highway were constructed by Chinese companies also engaged in other projects such as the construction of the Belgrade bypass, hi-speed railway Belgrade-Budapest and construction of the Preljina-Požega section.
+"Nothing is far away anymore," said Ambassador Chen.
+Photo: Presidency / Dimitrije Goll
+As the Surčin-Obrenovac section is the first major project in the last few years to be completed before the deadline, Chen thanked for the trust put in the Chinese companies and the Chinese workers who showed the quality and efficiency to Serbia and the whole of Europe.
+Ambassador Chen wished everyone a happy family saint day, Saint Nicholas, as well as the New Year, wishing that the steel friendship between Serbia and China will continue to advance in the coming year.
+The 17.6 kilometres section of the "Miloš the Great" highway that was opened today, completes the Belgrade-Čačak highway in the length of 120 kilometres. By the completion of this part of the "Miloš the Great" highway, it will be possible to travel from Belgrade to Čačak in about one hour.
+The new highway has a total of 12 bridge structures, with spans ranging from 11 to 1,581 meters, as well as two large loops - Surčin and Obrenovac.
+Photo: Presidency / Dimitrije Goll

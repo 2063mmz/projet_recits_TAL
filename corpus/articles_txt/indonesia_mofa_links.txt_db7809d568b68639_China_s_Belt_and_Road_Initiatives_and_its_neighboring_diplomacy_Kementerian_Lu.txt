@@ -1,0 +1,45 @@
+seed_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=3671&keywords=
+final_url: https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=3671&keywords=
+title: China's Belt and Road Initiatives and its neighboring diplomacy | Kementerian Luar Negeri
+date: 2016
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Text
+China's Belt and Road Initiatives and its neighboring diplomacy
+This book studies China's Belt and Road Initiatives and the country's neighboring diplomacy. The Belt and Road Initiatives proposed by Chinese President Xi Jinping in 2013 consist of two main components, the land-based "Silk Road Economic Belt" and ocean-going "Maritime Silk Road". China has implemented the initiatives by establishing Asian Infrastructure Investment Bank and Silk Road Fund. This book focuses on analysis of the initiatives and the responses from the major powers, neighboring countries and regions.
+Ketersediaan
+2024-0436
+337.51 Jie c
+Perpustakaan Diplomasi
+Tersedia
+Informasi Detail
+Judul Seri
+No. Panggil
+337.51 Jie c
+Penerbit
+Singapore
+World Scientific Publishing
+2016
+Deskripsi Fisik
+xvi, 298 pages ; 22 cm
+Bahasa
+English
+ISBN/ISSN
+978-981-3140-20-2
+Klasifikasi
+337.51
+Tipe Isi
+Tipe Media
+Tipe Pembawa
+Edisi
+Subjek
+Info Detail Spesifik
+Pernyataan Tanggungjawab
+Zhang Jie
+Versi lain/terkait
+Tidak tersedia versi lain
+Komentar
+Anda harus masuk sebelum memberikan komentar

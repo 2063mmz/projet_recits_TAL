@@ -1,0 +1,157 @@
+seed_url: http://government.ru/en/news/30366/
+final_url: http://government.ru/en/news/25170/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the SCO Council of Heads of Government
+3 November 2016
+09:00
+Bishkek, Kyrgyzstan
+Dmitry Medvedev: Our countries have a huge transit potential which is not being utilised in full. Special attention should be paid to the renovation of railways, creation of international logistics centres and the integration of advanced technologies in infrastructure.
+Dmitry Medvedev’s statement at the meeting of the SCO Council of Heads of Government
+Documents signed following the meeting
+Heads
+of delegations from Shanghai Cooperation Organisation member states:
+Group photo of the heads of delegations of SCO member states
+3 November 2016
+Meeting of the SCO Council of Heads of Government
+3 November 2016
+Meeting of the SCO Council of Heads of Government
+3 November 2016
+Meeting of the SCO Council of Heads of Government with Kyrgyz President Almazbek Atambayev
+3 November 2016
+Signing of documents after an SCO Council of Heads of Government meeting
+3 November 2016
+Предыдущая новость
+Следующая новость
+Group photo of the heads of delegations of SCO member states
+Prime
+Minister of Kazakhstan Bakhytzhan Sagintayev;
+Premier
+of the State Council of China Li Keqiang;
+Acting
+Prime Minister of Kyrgyzstan Sooronbay Jeenbekov;
+Prime
+Minister of Russia Dmitry Medvedev;
+Prime
+Minister of Tajikistan Kokhir Rasulzoda;
+First
+Deputy Prime Minister of Uzbekistan Rustam Azimov.
+From
+Dmitry Medvedev’s statement at the meeting of the SCO Council of Heads of
+Government:
+The Shanghai Cooperation
+Organisation has been working for 15 years now. Its member countries set the
+goal of raising the level of security and trust in the region, and we can see
+today that they have reached this goal.
+The values that formed the
+foundation of the SCO have been implemented in practice, despite the current
+international situation and economic difficulties. Together, we resolve a large
+number of domestic and international issues, including tasks of great
+importance for the region such as ensuring security, the joint fight against
+crime and drug trafficking and addressing important economic infrastructure
+tasks.
+The SCO has become a full-format and effective
+organisation. Other countries are seeking to join it. It has a wide-ranging
+agenda and has developed multilateral cooperation mechanisms.
+Most important, we have a
+vision of the future, reflected in the strategy for developing the SCO until
+2025, and in the action plan. We will add to these documents today by approving
+a list of measures to promote project activities within
+the SCO for 2017 – 2021. This will add a range of important new areas to
+our work, such as innovative development of our economies.
+In today’s world, we need to
+develop all possibilities for economic cooperation, establish favourable
+conditions for the movement of goods, labour, services and investment, form
+added-value chains and enter markets abroad – in each other’s countries and
+beyond.
+The transition to a
+preferential trade regime within the SCO is a complicated matter given that any
+preferential regime always requires renunciation of internal decisions of one
+kind or another. We have agreed to continue our work in this area. All member
+countries’ business and financial communities should be fully involved in this
+work, primarily through the SCO Business Council and Interbank Association.
+Our countries have an
+excellent transit potential that is not being fully utilised today. Russia is
+ready for practical implementation of the agreement on international road
+transport signed in 2014, and we hope that work on the SCO road development
+programme will soon be complete. Particular attention should go to modernising
+mainline railways, developing a network of international logistics centres and
+spreading modern technology solutions in the infrastructure sector. We should
+also start discussing new trans-border routes. This is something that countries
+with which we share trade ties hope to see from us.
+Russia holds the energy club’s
+presidency this year. The particular nature of Russia’s economy means our
+country is especially attentive to energy issues. I invite everyone to take
+part in the international conference on energy efficiency and energy
+conservation that will take place in Moscow on 15–16 November.
+Our countries play an active
+role in developing integration and promoting big projects in the Eurasian
+region. It is important that we make use of the opportunities this creates for
+the SCO’s benefit. What we are looking at here is a broad partnership between
+the biggest Eurasian integration organisations. The number of such
+organisations has grown and we need to ensure that we coordinate our efforts in
+the best way possible. Involving the SCO observer countries and dialogue
+partners in this work would provide greater balance to our plans and ideas.
+The Tashkent summit approved
+the programme for developing cooperation in the tourism sector. The agreement
+on establishing an SCO university is actually ready for signing now.
+The SCO family will soon be
+joined by India and Pakistan. The accession of new members not only expands our
+organisation’s geographical reach but also enriches the organisation’s
+political and economic potential.
+Documents signed following the meeting
+Signing of documents after an SCO Council of Heads of Government meeting
+A number of
+documents have been signed following a meeting of the SCO Council of Heads of
+Government, including:
+Decisions of the
+SCO Council of Heads of Government (prime ministers) regarding:
+- The
+report of the SCO Secretariat on the implementation of the SCO Programme of
+Multilateral Trade and Economic Cooperation;
+Retrospective
+Meeting of the SCO Council of Heads of Government, 15 December 2015
+Meeting of the SCO Council of Heads of Government, 15 December 2014
+Meeting of the Council of SCO Heads of Government, 29 November 2013
+Meeting of the Council of SCO Heads of Government, 5 December 2012
+- The
+report on the execution of the SCO 2015 Budget;
+- The SCO
+Budget for 2017;
+- The
+report of the External Audit Commission on the external audit of the SCO
+permanent bodies’ financial and economic operation;
+- Further
+work to create the SCO Development Bank and Special Account;
+- The list
+of measures to promote project activities within the SCO for 2017–2021;
+- The
+concept of research and technological cooperation within the SCO;
+- The plan
+of measures to implement the SCO intergovernmental agreement on research and
+technical cooperation for 2016–2020;
+- The draft
+programme for road improvement within the SCO.
+These decisions
+have been signed by Prime Minister of Kazakhstan Bakytzhan Sagintayev, Premier
+of the State Council of China Li Keqiang, Acting Prime Minister of Kyrgyzstan
+Sooronbay Jeenbekov, Prime Minister of Russia Dmitry Medvedev, Prime Minister
+of Tajikistan Kohir Rasulzoda and First Deputy Prime Minister of Uzbekistan
+Rustam Azimov.
+Joint Communique
+on the Results of the SCO Council of Heads of Government (prime ministers)
+meeting
+Signed by Prime
+Minister of Kazakhstan Bakytzhan Sagintayev, Premier of the State Council of
+China Li Keqiang, Acting Prime Minister of Kyrgyzstan Sooronbay Jeenbekov,
+Prime Minister of Russia Dmitry Medvedev, Prime Minister of Tajikistan Kohir
+Rasulzoda and First Deputy Prime Minister of Uzbekistan Rustam Azimov.
+Government of the Russian Federation
+http://government.ru/en/news/25170/
+Highlight selection

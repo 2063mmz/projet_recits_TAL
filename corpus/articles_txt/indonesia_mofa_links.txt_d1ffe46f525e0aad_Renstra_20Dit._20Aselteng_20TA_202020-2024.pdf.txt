@@ -1,0 +1,2063 @@
+seed_url: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Aselteng%20TA%202020-2024.pdf
+final_url: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Aselteng%20TA%202020-2024.pdf
+title: Renstra%20Dit.%20Aselteng%20TA%202020-2024.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+RENCANA STRATEGIS
+DIREKTORAT ASIA
+SELATAN DAN TENGAH
+2020-2024
+2020-2024
+KEMENTERIAN LUAR NEGERI  DIREKTORAT JENDERAL
+ASIA PASIFIK DAN AFRIKA
+
+KATA PENGANTAR
+uji syukur kita panjatkan kehadirat Tuhan Yang Maha Kuasa atas rahmat dan hidayah-Nya,
+sehingga penyusunan Rencana Strategis (Renstra) Direktorat Asia Selatan dan Tengah
+tahun 2020-2024 dapat diselesaikan dengan baik dan tepat waktu. Rencana Strategis ini
+merupakan perwujudan komitmen organisasi terhadap pelaksanaan tata kelola pemerintahan yang
+baik di lingkungan Kementerian Luar Negeri.
+Penyusunan Renstra Direktorat Asia Selatan dan Tengah Tahun  2020-2024 mengacu pada
+Peraturan Presiden No. 29 Tahun 2014 tentang Sistem Akuntabilitas K inerja Instansi Pemerintah,
+dan tentang Rencana Strategis Kementerian Luar Negeri tahun 2020-2024.
+Selaras dengan Visi Kementerian Luar Negeri tahun 20 20-2024 yakni “Memimpin diplomasi yang
+aktif dan efektif untuk mewujudkan Indonesia Maju yang Berdaulat, Mandiri, dan Berkepribadian
+berlandaskan Gotong Royong”, maka Visi Direktorat Asia Selatan dan Tengah adalah " Memimpin
+diplomasi yang aktif dan efektif di Kawasan Asia Selatan dan Tengah untuk mewujudkan
+Indonesia Maju yang Berdaulat, Mandiri, dan Berkepri badian berlandaskan Gotong Royong"
+yang dijabarkan ke dalam misi, tujuan, dan sasaran strategis beserta target yang akan dicapai dalam
+jangka waktu menengah lima tahun yang akan datang.
+Renstra Direktorat Asia Selatan dan Tengah ini diharapkan dapat memberikan gambaran yang jelas
+terhadap rencana pencapaian kinerja Direktorat Asia Selatan dan Tengah pada tahun 20 20-2024
+dalam mengelola hubungan luar negeri Indonesia di kawasan Asia Selatan dan Tengah.
+Ucapan terima kasih dan penghargaan disampaikan ke pada semua pihak atas tenaga, waktu dan
+pikirannya sehingga Renstra ini dapat disusun dengan baik dan tepat waktu.  Kami berharap
+Renstra ini dapat diimplementasikan sebaik-baiknya untuk mendukung pelaksanaan visi dan misi
+Kementerian Luar Negeri, khususnya di Kawasan Asia Pasifik dan Afrika.
+Jakarta,     Januari 2021
+Direktur Asia Selatan dan Tengah
+
+
+
+      Jatmiko Heru Prasetyo
+
+P
+
+Direktorat Asia Selatan dan Tengah merupakan Unit Eselon II dibawah Satuan Kerja Direktorat
+Jenderal Asia Pasifik dan Afrika. Berdasarkan Peraturan Menteri Luar Negeri RI Nomor 2 Tahun
+2016 tentang Organisasi dan Tata Kerja Kementerian Luar Ngeri, Direktorat Jenderal Asia Pasifik
+dan Afrika mempunyai tugas menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang
+penyelenggaraan hubungan luar negeri dan politik luar negeri pada lingkup bilateral, intrakawasan,
+dan antar kawasan di Asia Pasifik dan Afrika.  Berkenaan dengan hal tersebut , Direktorat  Asia
+Selatan dan Tengah  mempunyai tugas merumuskan dan melaksanakan kebijakan di bidang
+penyelenggaraan hubungan luar negeri dan politik luar negeri pada lingkup bilateral di kawasan
+Asia Selatan dan Tengah.
+Untuk menjalankan tugas pokok sebagaimana tersebut di atas, Direktorat Asia Selatan dan Tengah
+menyelenggarakan fungsi sebagai berikut:
+a. Penyiapan perumusan kebijakan di bidang penyelenggaraan hubungan luar negeri dan
+pelaksanaan politik luar negeri pada lingkup bilateral dengan negara -negara di kawasan Asia
+Selatan dan Tengah;
+b. Pelaksanaan kebijakan di bidang penyelenggaraan hubungan luar negeri dan politik luar
+negeri pada lingkup bilateral dengan negara-negara di kawasan Asia Selatan dan Tengah;
+c. Penyiapan perumusan norma, standar, pr osedur, dan kriteria di bidang penyelenggaraan
+hubungan luar negeri dan pelaksanaan politik luar negeri pada lingkup bilateral dengan
+negara-negara di kawasan Asia Selatan dan Tengah;
+d. Penyiapan pelaksanaan pemberian bimbingan teknis dan supervise di bidan g
+penyelenggaraan hubungan luar negeri dan pelaksanaan politik luar negeri pada lingkup
+bilateral dengan negara-negara di kawasan Asia Selatan dan Tengah;
+e. Penyiapan pelaksanaan pemantauan, evaluasi dan pelaporan di bidang penyelenggaraan
+hubungan luar neg eri dan pelaksanaan politik luar negeri pada lingkup bilateral dengan
+negara-negara di kawasan Asia Selatan dan Tengah dan’; f. Pelaksanaan urusan tata usaha
+Direktorat.
+
+Kawasan Asia Selatan dan Tengah, yang meliputi 15 negara, yaitu: Afghanistan, Azerbai jan,
+Bangladesh, Bhutan, India, Iran, Kazakhstan, Kyrgyzstan, Maladewa, Nepal, Pakistan, Sri Lanka,
+Tajikistan, Turkmenistan, Uzbekistan. Dari 15 negara tersebut yang memiliki Kantor Perwakilan RI
+sebanyak 9 pos, yaitu: India, Pakistan, Sri Lanka, Banglade sh, Iran, Afghanistan, Uzbekistan,
+Kazakhstan, dan Azerbaijan; 6 (enam) negara rangkapan, yaitu Maladewa, Nepal, Bhutan,
+Tajikistan, Kyrgyzstan, dan Turkmenistan. Pemerintah RI juga memiliki Konsulat Jenderal di
+Karachi, Pakistan  dan di Mumbai , India  sehingga total terdapat 15 Perwakilan RI di kawasan
+tersebut.
+
+BAB I
+ANALISIS SWOT
+DIREKTORAT ASIA SELATAN DAN TENGAH
+
+Kawasan As ia selatan dan tengah merupakan kawasan strategis yang berpotensi besar sebagai
+target pasar potensial RI di bidang ekonomi perdagangan, investasi dan  pariwisata. Sebagai
+gambaran, Kawasan Asia Selatan memiliki luas wilayah 4.491.473 m 2 dan total populasi sebanyak
+hampir sebanyak 2 miliar orang. Sementara itu, Kawasan Asia Tengah dengan luas wilayah sebesar
+6.392.682 m2 dan total populasi sebanyak 184.522.791 orang. Selain itu, Sejumlah negara di
+kawasan ini memiliki GDP per kapita yang tinggi, termasuk Kazakhstan (US$ 12.276),
+Turkmenistan (US$ 9.031), Maladewa (US$ 8.624), Azerbaijan (US$ 7.884), dan Iran (US$ 5.292).
+Total Gross Domestic Product (GDP) kawasan Asia Selatan dan Tengah mencapai  sebesar USD 4,5
+trilyun (IMF, 2019), serta total perdagangan dengan Indonesia yang mencapai lebih dari 20 miliar
+USD per tahunnya.
+
+Secara umum, Indonesia memiliki hubungan bilateral yang kokoh dengan 15 negara di kawasan
+Asia Selatan dan Tengah. Dalam kaitan ini, Direktorat Asia Selatan dan Tengah menjalankan fungsi
+strategis dalam mengemban misi politik luar negeri RI di kawasan ini, yakni sebagai ujung tombak
+pelaksaan kebijakan luar negeri RI di kawasan dalam bidang politik dan keamanan, serta dalam
+meningkatkan kerja sama ekonomi, perdagangan, investasi, sosial budaya, interaksi antar
+masyarakat (people-to-people).
+
+Negara-negara di kawasan Asia Selatan dan Tengah memiliki arti penting dalam diplomasi
+Indonesia tidak hanya karena eratnya hubungan ekonomi sebagai pasar ekspor Indonesia yang
+prospektif, melainkan juga karena adanya hubungan sejarah, kebudayaan, dan perd agangan yang
+sudah terjalin sejak ribuan tahun  lamanya. Dalam perjalanan sejarah, Indonesia telah menyerap
+aspek budaya India, antara lain serapan bahasa sansekerta ke dalam bahasa Indonesia dan
+pengaruh epos India Ramayana dan Mahabarata di dalam budaya I ndonesia. Agama-agama utama
+di Indonesia juga disebarkan oleh para pedagang dari Asia Selatan dan Persia. Selain itu, India
+adalah salah satu  negara yang paling awal mendukung dan mengakui kemerdekaan Republik
+Indonesia. Bahkan sebelum kemerdekaan Indonesi a, Muhammad Ali Jinnah (Pendiri Pakistan),
+yang pada waktu itu adalah Presiden dari Liga Muslim seluruh India, mendorong tentara muslim
+India yang bertugas di Ketntaraan Kolonial Inggris untuk bergabung dan membantu perjuangan
+Indonesia melawan Belanda.
+
+Selanjutnya, Indonesia bersama Pakistan, Ceylon (Sri Lanka), India dan Burma (Myanmar),
+menyelenggarakan Konferensi Asia Afrika (KAA) di tahun 1955 sebagai bentuk kerja sama ekonomi
+dan budaya negara-negara di Asia dan Afrika dan dalam menghapuskan kolonialisme di muka bumi.
+Pertemuan KAA merupakan cikal bakal terbentuknya kerja sama Gerakan Non -Blok. Selanjutnya,
+dalam memperjuangkan kepentingan bersama, Indonesia juga melaksanakan kerja sama dengan
+negara-negara Asia Selatan dan Tengah pada forum Perserikatan Bangsa-Bangsa, Organisasi Kejra
+Sama Islam, Developing-8, G-20, G-77, APEC, IORA, dan sebagainya.
+
+Di masa modern seperti saat ini,  arti Penting Kawasan Asia Selatan dan Tengah tercermin dari
+hubungan ekonomi yang erat dengan  Indonesia di mana Kawasan ini merupakan mitra dagang
+utama dan sumber wisatawan asing bagi  Indonesia. Di Asia Selatan terdapat India, Pakistan, dan
+Bangladesh yang merupakan  negara-negara yang menyumbang surplus neraca perdagangan
+dengan Indonesia serta menyumbang jumlah wisatawan mancanegara yang cukup signifikan. Sifat
+perdagangan RI dengan dengan India, Pakistan, Bangladesh, dan Sri Lanka  yang bersifat
+
+komplementer perlu terus didayagunakan untuk memacu perdagangan dengan negara -negara
+tersebut. Selain itu, Indonesia juga dapat memanfaatkan kawasan ini sebagai  salah satu alternatif
+pintu gerbang (hub) transportasi dan promosi produk -produk RI ke Timur Tengah, Eropa, Afrika,
+dan Tiongkok.
+
+Sementara di Kawasan Asia Tengah terdapat negara-negara yang tenga h membangun dengan
+dukungan hasil migas . Cadangan minyak dan gas yang  sangat besar di Kawa san ini  dapat
+dikerjasamakan untuk mendukung ketahanan energ i Indonesia di masa mendatang . Selain itu,
+dengan pendapatan per Kapita yang juga relatif tinggi  di Asia Tengah, maka k ebutuhan terhadap
+produk household consumption negara-negara di Kawasan ini cukup  tinggi sehingga dapat
+dimanfaatkan sebagai peluang penetrasi pasar ekspor Indonesia.
+
+Guna mendayagunakan potensi ekonomi di Kawasan Asia Selatan dan Tengah, Politik Luar Negeri
+Indonesia memiliki prioritas pada diplomasi 4+1 di mana salah satunya adalah diplomasi ekonomi,
+dengan fokus pada bidang perdagangan, pariwisata dan investasi (Trade, Tourism, and
+Investment). Dalam kaitan ini, Di samping memper tajam dan memperluas hubungan Indonesia
+dengan negara -negara mitra utama seperti AS, Eropa, dan RRT , diplomasi Indonesia juga terus
+diupayakan untuk mengeksplorasi terbukanya peluang baru menembus pasar di negara -negara
+prospektif, khususnya ke negara-negara Asia Selatan seperti Bangladesh dan Sri Lanka dan negara-
+negara Asia Tengah seperti Kazakhstan, Uzbekistan, dan Azerbaijan. Sebagai gambaran,
+perdagangan RI dengan sebagian besar negara -negara Asselteng dalam lima tahun terakhir
+menyumbang surplus bagi Indonesia, antara lain dengan India (surplus tertinggi terjadi di tahun
+2017, yakni US$ 10 miliar 2017), Pakistan, Bangladesh, Sri Lanka, Maladewa, Nepal, Afghanistan,
+Kyrgyzstan, Tajikistan, Turkmenistan, dan Bhutan.
+
+Saat ini fokus upaya peningkatan volume perdagangan dan perluasan akses pasar produk ekspor
+Indonesia telah dilakukan dengan Pakistan melalui implementasi Indonesia -Pakistan Preferential
+Trade Agreement (IP-PTA) dan negosiasi Trade in Goods Agreement (TiGA) untuk seluruh pos tarif
+yang berjalan positif sebagai pendalaman IP-PTA; dengan Bangladesh melalui negosiasi Indonesia-
+Bangladesh PTA; serta penjajakan peluang pembentukan PTA dengan India, FTA dengan Eurasian
+Economic Union; dan melanjutkan negosiasi PTA dengan Iran sebagai upaya peningkatan hubungan
+dagang kedua negara di tengah sanksi ekonomi kepada Iran.
+
+Secara umum, tantangan yang dihadapi negara -negara di Asia Selatan dan Asia Tengah masih
+banyak terfokus di bidang politik keamanan antara lain seperti ancaman terorisme, separatisme,
+dan integrasi wilayah, konflik perbatasan penyelundupan narkoba, pemberantasan korupsi,
+pengembangan demokrasi serta dinamika politik  dan kemanan  di Afghanistan  dan Iran . Dalam
+menghadapi tantangan di kawasan tersebut  serta untuk mengatisipasi dampaknya terhadap
+Indonesia dan sekaligus memperkuat penjagaan kepentingan Indonesia di kawasan, Indonesia
+tetap aktif dalam pengembangan kerja sama di bidang polhuka m maupun pendekatan kerja sama
+teknik dengan negara -negara Asia Selatan d an Tengah. Seyogyanya, t antangan-tantangan dan
+hambatan yang ada tersebut justru dapat dijadikan peluang kerja sama oleh Indonesia untuk
+berkontribusi dalam p emeliharaan perdamaian sekaligus juga memperluas terobosan di bidang
+ekonomi dan perdagangan.
+
+Kawasan Asia Selatan dan Tengah juga memiliki potensi kerawanan terhadap konflik mengingat
+dinamika politik keamanan yang tinggi di beberapa negara seperti Afghan istan serta adanya
+persaingan politik negara -negara besar baik di dalam mapupun di luar kawasan seperti India -
+Pakistan, India-RRT, Isu Rakhine State di Bangladesh -Myanmar, Nagorno -Karabakh antara
+Azerbaijan dan Armenia, dan Stabilitas Kawasan pasca mundurnya AS dari JCPOA Iran.
+
+Peran aktif Indonesia di berbagai forum regional, multilateral dan internasional serta bekerja sama
+dengan negara -negara di kawasan Asia Selatan dan Tengah akan turut membantu menjaga
+kestabilitasan dan perdamaian di kawasan serta penyelesai an konflik di kawasan maupun di
+tingkat internasional. Pendekatan soft power diplomacy  banyak diusung Indonesia di kawasan ini
+mengingat penerimaan yang tinggi dari negara -negara berkonflik terhadap Indonesia yang
+dianggap netral dan merupakan negara mayoritas Muslim terbesar.
+
+Dukungan terhadap proses perdamaian di Afghanistan terus dilak sanakan khususnya melalui
+bantuan-bantuan kerja sama teknik dari Indonesia baik untuk SDM maupun infrastruktur serta
+pemajuan nilai -nilai Islam moderat antara lain melalui proses pembangunan Indonesian Islamic
+Center di Kabul yang dilakukan saat kunjungan Presiden RI ke Afghanistan tanggal 27 Januari 2018,
+Dialog Ulama Trilateral tahun 2018, Inaugurasi Afghanistan Indonesia Women Solidarity Network
+tahun 2020 dan Afghanistan peace negotiation tahun 2020 . Dalam tiga tahun kedepan, Indonesia
+juga telah berkomitmen untuk memberikan bantuan sebesar 5 juta dollar dengan fokus pemajuan
+nilai-nilai Islam moderat dan penguatan peran perempuan di Afghanistan, termasuk melalui
+mekanisme kerja sama trilateral dengan negara mitra.
+
+Pada tahun 2020, Dunia mengalami perub ahan yang sangat signifikan dengan adanya pandemi
+covid-19.  Agar dapat berkontribusi, diplomasi Indonesia dituntut untuk Anticipative; Adaptive; dan
+Agile. Untuk itu, pada tahun 2020 telah dilakukan refoccussing prioritas diplomasi guna
+mengakomodir tuntutan tersebut, yakni pertama, memperkuat pelindungan WNI. Kedua,
+mendukung upaya mengatasi pandemi, baik dari aspek kesehatan maupun dampak sosial ekonomi;
+dan Ketiga, terus berkontribusi bagi perdamaian dan stabilitas dunia.
+
+Sebagaimana telah dijelaskan sebelumnya, secara umum, negara -negara di kawasan Asia Selatan
+memiliki arti penting bagi Indonesia dilihat dari perspektif potensi ekonomi sebagai pasar utama
+dan prospektif serta adanya kedekatan hubungan sejarah dan budaya. Sedangkan negara-negara di
+kawasan Asia Tengah juga memiliki potensi untuk mendukung ketahanan energi dan pangan bagi
+Indonesia. Walaupun memiliki potensi ekonomi dan sumber daya alam yang luar biasa, kawasan
+Asia Selatan dan Tengah merupakan wilayah yang masih banyak  diwarnai oleh konflik
+berkepanjangan.
+
+Oleh karena itu, keberhasilan mengelola hubungan bilateral dengan Kawasan ini secara langsung
+akan bermanfaat dalam meningkatkan kualitas pembangunan nasional dan secara paralel akan
+memperkuat peran Indonesia sebag ai bridge builder di Kawasan Asia Selatan dan Tengah.  Guna
+mewujudkan hal tersebut , Politik Luar Negeri Indonesia perlu untuk secara terus -menerus
+ditatakelola dengan baik, mengingat banyaknya isu-isu sensitif yang merupakan konsekuensi logis
+dari dinamika politik, keamanan dan ekonomi di Kawasan.
+
+Dalam menjalankan peranannya serta untuk menghadapi tantangan ke depan dan memenuhi
+harapan para stakeholders  dalam pelaksanaan Politik Luar Negeri , Direktorat Asia Selatan dan
+Tengah perlu memiliki gambaran per masalahan, tantangan, peluang dan potensi yang dimiliki
+dalam sebuah analaisis SWOT (Strengths, Weaknesses, Opportunities & Threats) sebagai dasar untuk
+menentukan strategi perencanaan lima tahun mendatang.  Adapun Analisis SWOT Direktorat Asia
+Selatan dan Tengah selengkapnya dapat dilihat dari tabel berikut:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S1. Kualitas SDM yang  kompeten
+S2. Jangkauan diplomasi yang meningkat dan
+meluas  ditandai dengan bertambahnya
+hubungan diplomatik serta jumlah
+perwakilan RI di kawasan Asia Selatan dan
+Tengah
+S3.  Memiliki Jejaring yang luas di antara
+pemangku kepentingan dalam mendukung
+pelaksanaan kebijakan luar negeri di kawasan
+Asia Selatan dan Tengah
+S4. Pengelolaan kerja sama bilateral yang semakin
+kuat
+
+
+
+O1. Kawasan Asia Selatan dan Tengah yang
+potensial bagi peningkatan kerja sama
+bilateral dan regional
+O2. Peluang yang ada di kawasan untuk
+melakukan diplomasi ekonomi dan maritim
+O3. Peran dan pengaruh Indonesia yang semakin
+diperhitungkan oleh negara mitra dan dalam
+forum kerja sama di kawasan Asia Selatan
+dan Tengah
+04. Meningkatnya kerja sama dengan mitra
+strategis di kawasan
+O5. Potensi ekonomi Indonesia dan meningkatnya
+minat kerja sama TTI dari negara-negara
+kawasan Asia Selatan dan Tengah ke
+Indonesia
+06. Kawasan Asia Selatan dan Tengah yang cepat
+pulih ekonominya dalam menghadapi
+dampak pandemi Covid-19
+
+Strengths (S)
+
+W1. Penempatan SDM yang belum sesuai
+dengan kompetensi
+W2. SDM belum sesuai kebutuhan dengan
+adanya formasi jabatan yang belum terisi.
+W3. Pranata yang mengatur infrastruktur
+diplomasi masih dalam proses
+penyempurnaan
+W4. Sarana dan prasarana yang belum
+menunjang khususnya IT
+W5. Anggaran yang belum memadai
+
+
+
+T1. Dinamika konstelasi ekonomi politik negara,
+kawasan dan global yang berdampak negatif
+terhadap Indonesia dan kawasan.
+T2. Meningkatnya kapabilitas negara kompetitor
+dalam persaingan pasar di kawasan
+T3. Lemahnya komitmen dan ketidaksiapan
+pemangku kepentingan terkait dalam
+menindaklanjuti kesepakatan di kawasan
+Asia Selatan dan Tengah
+T4. Kecenderungan menguatnya praktek para-
+diplomasi (diplomasi yang dilakukan oleh
+Pemda dan K/L di luar Kemlu)
+T5. Perbedaan Posisi Kebijakan dengan negara-
+negara di Kawasan Asia Selatan dan Tengah
+yang menyebabkan penyeesaian
+perundingan terhambat
+Opportunities (O)
+Weaknesses (W)
+Threats (T)
+Internal
+S
+u
+p
+p
+o
+r
+t
+Barrier
+r
+i
+er
+Eksternal
+
+Kesimpulan Analisa Faktor Internal (KAFI)
+
+
+Kesimpulan Analisa Faktor Eksternal (KAFE)
+No Faktor Internal Bobot Rating Score
+(3x4)
+Kesimpulan
+(Prioritas)
+(1) (2) (3) (4) (5) (6)
+  Kekuatan (Strength)
+1 Kualitas SDM yang  kompeten 20 4 80 I
+2 Jangkauan diplomasi Direktorat Asia Selatan dan
+Tengah yang meningkat dan  meluas  ditandai
+dengan bertambahnya  hubungan diplomati k
+serta jumlah perwakilan RI di kawasan Asia
+Selatan dan Tengah
+10 3 30 VI
+3 Jejaring yang luas di antara pemangku
+kepentingan dalam mendukung pelaksanaan
+kebijakan luar negeri di kawasan Asia Selatan dan
+Tengah
+10 4 40 III
+4 Pengelolaan kerja sama bilateral yang semakin
+kuat
+10 3 30 V
+  Kelemahan (Weakness)
+1 Penempatan SDM yang belum  sesuai dengan
+kompetensi
+10 3 30 IV
+2 SDM belum sesuai kebutuhan dengan adanya
+formasi jabatan yang belum terisi.
+20 2 40 II
+3 Pranata yang mengatur infrastruktur diplomasi
+masih dalam proses penyempurnaan
+5 2 10 VII
+4 Sarana dan prasarana yang belum menunjang
+khususnya IT
+5 2 10 VIII
+5 Anggaran yang belum memadai 10 3 30 IX
+No Faktor Internal Bobot Rating Score
+(3x4)
+Kesimpulan
+(Prioritas)
+(1) (2) (3) (4) (5) (6)
+  Opportunities (Strength)
+1 Kawasan Asia Selatan dan Tengah yang potensial
+bagi peningkatan kerja sama bilateral dan
+regional
+10 4 40 I
+2 Peluang yang ada di kawasan untuk melakukan
+diplomasi ekonomi dan maritim
+10 3 30 III
+
+Keterangan :
+Bobot didasarkan pada dampak yang ditimbulkan pada keberhasilan kini dan kedepan dengan nilai
+total 100.
+Rating adalah setiap faktor yang menggunakan pendekatan skala 1 sampai dengan 4 dengan
+keterangan 1 (paling tidak menonjol), 2 (tidak menonjol), 3 (menonjol), 4 (sangat menonjol).
+3 Peran dan pengaruh Indonesia yang semakin
+diperhitungkan oleh negara mitra dan dalam
+forum kerja sama di kawasan Asia Selatan dan
+Tengah
+10 4 40 II
+4 Meningkatnya kerja sama dengan mitra strategis
+di kawasan
+10 3 30 IV
+5 Potensi ekonomi Indonesia dan meningkatnya
+minat kerja sama TTI dari negara -negara
+kawasan Asia Selatan dan Tengah ke Indonesia
+10 3 30 V
+6 Kawasan Asia Selatan dan Tengah  cepat pulih
+ekonominya dalam menghadapi dampak
+pandemi Covid-19
+10 2 20 VIII
+ Threats (T)
+1 Dinamika konstelasi ekonomi politik  negara,
+kawasan dan  global yang berdampak negatif
+terhadap Indonesia dan kawasan.
+10 2 20 IX
+2 Meningkatnya kapabilitas negara kompetitor
+dalam persaingan pasar di Kawasan
+5 2 10 X
+3 Lemahnya komitmen dan ketidaksiapan
+pemangku kepentingan terkait dalam
+menindaklanjuti kesepakatan di kawasan Asia
+Selatan dan Tengah
+10 3 30 VI
+4 Kecenderungan menguatnya praktek para -
+diplomasi (diplomasi yang dilakukan oleh Pemda
+dan K/L di luar Kemlu)
+5 2 10 XII
+5 Perbedaan Posisi Kebijakan dengan negara-
+negara di Kawasan Asia Selatan dan Tengah yang
+menyebabkan penyeesaian perundingan
+terhambat
+10 3 30 VII
+
+ANALISIS TOWS
+KAFI
+
+
+
+
+
+
+
+
+KAFE
+Kekuatan (Strength)
+1. Kualitas SDM yang kompeten
+2. Jangkauan diplomasi Direktorat Asia
+Selatan dan Tengah  yang meningkat
+dan meluas ditandai dengan
+bertambahnya hubungan diplomati k
+serta jumlah perwakilan RI di
+Kawasan Asia Selatan dan Tengah
+3. Jejaring yang luas di antara
+pemangku kepentingan dalam
+mendukung pelaksanaan kebijakan
+luar negeri di kawasan Asia Selatan
+dan Tengah
+4. Pengelolaan kerja sama bilateral
+yang semakin kuat
+Kelemahan (Weakness)
+1. Penempatan SDM yang belum
+sesuai dengan kompetensi
+2. SDM belum sesuai kebutuhan
+dengan adanya formasi jabatan
+yang belum terisi.
+3. Pranata yang mengatur
+infrastruktur diplomasi masih
+dalam proses penyempurnaan
+4. Sarana dan prasarana yang belum
+menunjang khususnya IT
+5. Anggaran yang belum memadai
+Peluang (Opportunity)
+1. Kawasan Asia Selatan dan Tengah
+yang potensial bagi peningkatan
+kerja sama bilateral dan regional
+2. Peluang yang ada di kawasan untuk
+melakukan diplomasi ekonomi dan
+maritim
+3. Peran dan pengaruh Indonesia yang
+semakin diperhitungkan oleh negara
+mitra dan dalam forum kerja sama di
+kawasan Asia Selatan dan Tengah
+4. Meningkatnya kerja sama dengan
+mitra strategis di kawasan
+5. Potensi ekonomi Indonesia dan
+meningkatnya minat kerja sama TTI
+dari negara -negara kawasan Asia
+Selatan dan Tengah ke Indonesia
+6. Kawasan Asia Selatan dan Tengah
+cepat pulih ekonominya dalam
+menghadapi dampak pandemi Covid-
+19
+Asumsi Strategi
+Strength VS Opportunity
+1. Penggunaan SDM yang kompeten
+dapat meningkatkan peran Indonesia
+yang semakin meningkat dalam
+berbagai forum bilateral maupun
+regional.
+2. Fungsi Direktorat Asia Selatan dan
+Tengah sebagai koordinator
+hubungan luar negeri di Kawasan
+Asia Selatan dan Tengah  dapat
+dimanfaatkan untuk meningkatkan
+hubungan kerjasama dengan negara
+mitra yang semakin baik.
+3. Jejaring yang luas  dapat
+dimanfaatkan untuk mendukung
+kepentingan Indonesia
+Asumsi Strategi
+Weakness VS Opportunity
+1. Terpenuhinya SDM DIt. Asselteng
+akan lebih meningkatkan
+kepemimpinan dan peran
+Indonesia di dalam berbagai
+forum bilateral maupun regional.
+2. Integrasi implementasi sistem
+manajemen kinerja, sarana dan
+prasarana, serta sistem
+penyimpanan dan pengelolaan
+data dan dokumen yang memadai
+dapat meningkatkan efektivitas
+diplomasi Indonesia.
+Tantangan (Threats)
+
+1. Dinamika konstelasi ekonomi politik
+negara, kawasan dan global yang
+berdampak negatif terhadap
+Indonesia dan kawasan.
+2. Meningkatnya kapabilitas negara
+kompetitor dalam persaingan pasar
+di Kawasan
+3. Lemahnya komitmen dan
+ketidaksiapan pemangku
+kepentingan terkait dalam
+menindaklanjuti kesepakatan di
+kawasan Asia Selatan dan Tengah
+4. Kecenderungan menguatnya praktek
+para-diplomasi dan ego sectoral
+(diplomasi yang dilakukan oleh
+Pemda dan K/L di luar Kemlu)
+5. Perbedaan Posisi Kebijakan dengan
+negara-negara di Kawasan Asia
+Selatan dan Tengah yang
+menyebabkan penyeesaian
+perundingan terhambat
+Asumsi Strategi
+Strength VS Threats
+
+1. Fungsi Direktorat Asia Selatan dan
+Tengah sebagai koordinator
+hubungan luar negeri di Kawasan
+Asia Selatan dan Tengah  dapat
+menanggulangi/menjembatani
+praktek para-diplomasi, ego sectoral,
+serta perbedaan posisi kebijakan
+dalam mendukung upaya diplomasi.
+2. Penggunaan SDM yang kompeten
+dapat mengantisipasi kompetisi yang
+tinggi terkait pembukaan akses pasar
+internasional yang prospektif, dan
+kondisi geo-politik dan geo -ekonomi
+global yang berdampak negatif
+terhadap pelaksanaan kebijakan luar
+negeri Indonesia.
+Asumsi Strategi
+Weakness VS Threats
+
+1. Terpenuhinya SDM Direktorat
+Asia Selatan dan Tengah  akan
+mengantisipasi kompetisi yang
+tinggi terkait pembukaan akses
+pasar internasional yang
+prospektif, dan kondisi geo -
+politik dan geo -ekonomi global
+yang berdampak negatif terhadap
+pelaksanaan kebijakan luar
+negeri Indonesia.
+2. Pengelolaan sistem penyimpanan
+serta pengelolaan data dan
+dokumen akan mendukung
+Direktorat Asia Selatan dan
+Tengah dalam mengelola dampak
+negatif ego sectoral dan para -
+diplomasi Kementerian/Lembaga
+dalam mendukung upaya
+diplomasi.
+
+II.1. VISI
+Guna mewujudkan Visi Kementerian Luar Negeri Tahun 2020 – 2024 “Memimpin
+diplomasi yang aktif dan efektif untuk mewujudkan Indonesia Maju yang Berdaulat, Mandiri, dan
+Berkepribadian berlandaskan Gotong Royong”, maka ditetapkanlah Visi Direktorat Asia Selatan
+dan Tengah sebagai berikut:
+“Memimpin diplomasi yang aktif dan efektif di Kawasan Asia Selatan dan Tengah untuk
+mewujudkan Indonesia Maju yang Berdaulat, Mandiri, dan Berkepribadian berlandaskan
+Gotong Royong”,
+
+II.2. MISI
+ Dalam upaya mencapai visi tersebut, Direktorat Jenderal Asia Pasifik dan Afrika telah
+menetapkan 5 (lima) misi yang akan dilaksanakan selama kurun waktu 2020 -2024, sebagai
+berikut:
+a. Memberikan nilai manfaat ekonomi yang optimal melalui hubungan luar  negeri di Kawasan
+Asia Selatan dan Tengah untuk mendukung struktur ekonomi yang produktif, mandiri dan
+berdaya saing
+b. Memberikan Dukungan dan komitmen nasional atas kebijakan luar negeri dan kesepakatan
+internasional di Kawasan Asia Selatan dan Tengah yang tinggi
+c. Meningkatkan infrastruktur diplomasi Direktorat Asia Selatan dan Tengah untuk mendukung
+peningkatan kualitas manusia Indonesia.
+d. Diplomasi Ekonomi, Sosial, dan Budaya yang Kuat di Kawasan Asia Selatan dan Tengah  yang
+kuat
+e. Diplomasi Maritim dan Polkam yang Kuat di Kawasan Asia Selatan dan Tengah yang kuat
+
+II.3 TUJUAN/SASARAN STRATEGIS
+Tujuan/Sasaran Strategis dari Direktorat Asia Selatan dan Tengah pada rencana strategis periode
+2020-2024 adalah:
+
+a. Nilai manfaat diplomasi ekonomi  yang optimal melalui hubungan luar negeri di
+Kawasan Asia Selatan dan Tengah
+
+BAB II
+VISI, MISI, TUJUAN/SASARAN STRATEGIS
+DIREKTORAT ASIA SELATAN DAN TENGAH
+
+Nilai manfaat diplomasi ekonomi  adalah jumlah nominal manfaat yang dihasilkan oleh
+berbagai kerja sama dan promosi perdagangan, investasi dan pariwisata
+
+Optimal adalah paling baik, tertinggi, dan paling menguntungkan
+
+Hubungan luar Negeri adalah setiap kegiatan yang menyangkut aspek bilateral, regional dan
+internasional yang dilakukan oleh Pemerintah di tingkat Pusat dan daerah, atau Lembaga -
+lembaganya, Lembaga, badan usaha, organisasi-organisasi, Lembaga swadaya masyarakat, atau
+warga negara Indonesia.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target sampai
+dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis Indikator Kinerja Utama
+Target
+2020 2021 2022 2023 2024
+Nilai manfaat diplomasi
+ekonomi yang optimal
+melalui hubungan luar
+negeri di Kawasan Asia
+Pasifik dan Afrika
+
+Jumlah negara akreditasi di
+Kawasan Asia Pasifik dan
+Afrika dengan peningkatan
+nilai perdagangan dengan
+Indonesia minimal 3%
+3 5 6 7 8
+Jumlah negara akreditasi di
+wilayah Asia Pasifik dan
+Afrika dengan peningkatan
+nilai investasi asing ke
+Indonesia minimal 3%
+3 1 5 5 5
+Jumlah negara akreditasi di
+wilayah Asia Pasifik  dan
+Afrika dengan peningkatan
+jumlah wisatawan manca
+negara ke Indonesia minimal
+5%
+3 3 5 6 8
+
+b. Dukungan dan komitmen nasional atas kebijakan luar negeri dan kesepakatan
+internasional di Kawasan Asia Selatan dan Tengah yang tinggi
+Dukungan adalah sokongan/bantuan
+Komitmen adalah (upaya) perjanjian (keterikatan) untuk melakukan sesuatu
+Tinggi adalah (mendukung) secara penuh
+  Kebijakan luar negeri  adalah sikap dan langkah Pemerintah Republik Indonesia yang
+diambil dalam melakukan hubungan dengan negara lain, organisasi internasional, dan subyek
+hukum internasional lainnya dalam rangka menghadapi masalah internasional guna
+mencapai tujuan nasional.
+  Kesepakatan internasional adalah perjanjian dalam bentuk dan sebutan apa pun, yang
+diatur oleh hukum internasional dan dibuat secara tertulis oleh Pemerintah Republik
+
+Indonesia dengan subyek hukum internasional, serta menimbulkan hak dan kewajiban pada
+Pemerintah Republik Indonesia yang bersifat hukum publik.
+  Tinggi adalah mendukung secara penuh dalam konteks dukungan.
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target
+sampai dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran Strategis Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Dukungan dan komitmen
+nasional atas kebijakan luar
+negeri dan kesepakatan
+internasional di Kawasan Asia
+Selatan dan Tengah
+
+Persentase kesepakatan
+kerja sama  bilateral di
+Kawasan Asia Selatan
+dan Tengah  yang
+ditindaklanjuti
+stakeholders dalam
+negeri
+50% 80% 85% 85% 90%
+
+c. Infrastruktur Diplomasi yang kuat di Direktorat Asia Selatan dan Tengah
+
+Infrastruktur Diplomasi adalah seluruh sumber daya, sarana dan prasarana yang digunakan
+untuk pelaksanaan diplomasi dan hubungan luar negeri.
+
+Kuat adalah mempunyai keunggulan/tidak mudah goyah.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target
+sampai dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis
+Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Infrastruktur
+Diplomasi yang
+kuat di Direktorat
+Asia Selatan dan
+Tengah
+
+Nilai Akuntabilitas
+Kinerja Instansi
+Pemerintah (AKIP)
+Direktorat Asia
+Selatan dan Tengah
+78 (BB) 78 (BB) 78 (BB) 80
+(BB) 81 (A)
+
+d. Diplomasi Ekonomi, Sosial, dan Budaya yang Kuat di Kawasan Asia Selatan dan Tengah
+yang kuat
+
+Diplomasi ekonomi adalah pemanfaatan alat politik internasional untuk mencapai tujuan-
+tujuan ekonomi melalui berbagai kerja sama seperti pembangunan, energi, perdagangan,
+keuangan, dan pangan.
+
+Diplomasi Sosial dan Budaya adalah pemanfaatan alat politik internasional untuk mencapai
+tujuan-tujuan sosial melalui berbagai kerja sama seperti pembangunan (termasuk kesehatan,
+Pendidikan, gender), lingkungan hidup, kebudayaan, Ilmu pengetahuan dan teknologi.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target
+sampai dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis
+Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Diplomasi
+Ekonomi, Sosial,
+dan Budaya yang
+Kuat di Kawasan
+Asia Selatan dan
+Tengah
+Jumlah kesepakatan
+hasil perundingan di
+bidang ekonomi ,
+sosial dan budaya  di
+Kawasan Asia Selatan
+dan Tengah
+3 6 6 7 8
+Persentase data
+economic intelligence
+negara atau wilayah
+akreditasi di Kawasan
+Asia Selatan dan
+Tengah yang
+ditindaklanjuti
+stakeholders dalam
+negeri
+50 100 100 100 100
+Jumlah promosi Trade
+Tourism and
+Investment (TTI) di
+Kawasan Asia Selatan
+dan Tengah
+3 5 7 8 10
+
+e. Diplomasi Maritim dan Polkam yang Kuat di Kawasan Asia Selatan dan Tengah  yang
+kuat
+
+Diplomasi maritim adalah negosiasi atau perundingan yang dilakukan oleh dua negara atau
+lebih mengenai kerja sama kemaritiman.
+Diplomasi Polkam adalah negosiasi atau perundingan yang dilakukan oleh dua negara atau
+lebih mengenai kerja sama di bidang politik dan keamanan.
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target
+sampai dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis
+Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Diplomasi Maritim
+dan Polkam yang
+Kuat di Kawasan
+Asia Selatan dan
+Tengah
+Jumlah kesepakatan
+hasil perundingan di
+bidang maritim,
+polkam dan
+perbatasan di
+Kawasan Asia Selatan
+dan Tengah
+4 6 7 8 9
+
+Lampiran 1: Matriks Arah Kebijakan dan Strategi
+Lampiran 2:  Matriks Target Kinerja
+
+LAMPIRAN
+Lampiran 1: Matriks Arah Kebijakan dan Strategi Direktorat Asia Selatan dan Tengah
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+1. Peningkatan
+optimalisasi
+nilai manfaat
+diplomasi
+ekonomi
+melalui
+hubungan luar
+negeri
+1. Memanfaatkan pasar
+domestik sebagai daya
+tawar untuk menjalin kerja
+sama ekonomi yang saling
+menguntungkan di tingkat
+bilateral maupun regional.
+1. Meningkatkan komunikasi secara
+berkala dengan para stakeholders
+dalam negeri guna menindaklanjuti
+business inquiries dari Perwakilan RI di
+Kawasan Asia Pasifik dan Afrika untuk
+membantu pemberdayaan potensi di
+daerah dengan memanfaatkan event-
+event promosi di luar negeri.
+1. Meningkatkan komunikasi secara
+berkala dengan para stakeholders
+dalam negeri guna menindaklanjuti
+business inquiries dari Perwakilan RI di
+Kawasan Selatan dan Tengah untuk
+membantu pemberdayaan potensi di
+daerah dengan memanfaatkan event-
+event promosi di luar negeri.
+2. Memperkokoh kerja sama
+ekonomi yang strategis
+dan saling menguntungkan
+dengan pasar utama dan
+langkah terobosan untuk
+menembus pasar
+potensial.
+1. Penyelesaian kerja sama bilateral di
+bidang  ekonomi yang akan memberi
+manfaat bagi kepentingan nasional.
+1. Penyelesaian kerja sama bilateral di
+bidang  ekonomi dengan negara-negara
+di Kawasan Asia Selatan dan Tengah
+yang akan memberi manfaat bagi
+kepentingan nasional.
+2. Mengamankan Pasar Tradisional
+Industri/komoditas strategis
+Indonesia di Asia Pasifik dan Afrika
+seperti sawit dan batu bara.
+1. Mengamankan Pasar Tradisional
+Industri/komoditas strategis Indonesia
+seperti sawit dan batu bara dengan
+negara-negara di Kawasan Asia Selatan
+3. Mengadakan Forum kerja sama
+ekonomi konkret.
+
+1. Mengadakan Forum kerja sama
+ekonomi dengan negara-negara di
+Kawasan Asia Selatan dan Tengah
+4. Mengintensifkan dialog dan lobi untuk
+mengatasi hambatan-hambatan
+perdagangan dalam berbagai forum
+pertemuan bilateral
+1. Mengintensifkan dialog dan lobi untuk
+mengatasi hambatan-hambatan
+perdagangan dalam berbagai forum
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+pertemuan bilateral dengan negara –
+negara di Kawasan Asia Selatan Tengah
+5. Mendorong konektivitas dengan
+negara-negara di kawasan Asia Pasifik
+dan Afrika guna meningkatkan akses
+pasar dan investasi, serta
+meningkatkan kunjungan wisatawan
+dari kawasan Asia Pasifik dan Afrika
+ke Indonesia, Termasuk implementasi
+konektivitas dan infrastruktur  Aceh
+dan Andaman & Nicobar melalui 6
+area kerja sama, yaitu perdagangan,
+investasi, perhubungan udara dan laut,
+kelautan yang sustainable dan people-
+to-people relations.
+1. Mendorong implementasi konektivitas
+dan infrastruktur Aceh dan Andaman &
+Nicobar melalui 6 area kerja sama, yaitu
+perdagangan, investasi, perhubungan
+udara dan laut, kelautan yang
+sustainable dan people-to-people
+relations.
+6. Mengupayakan koridor perjalanan
+untuk bisnis esensial, dinas, dan
+diplomatik.
+1. Mengupayakan koridor perjalanan
+untuk bisnis esensial, dinas, dan
+diplomatik dengan negara-negara di
+Kawasan Asia Selatan dan Tengah
+3. Mengintegrasikan promosi
+perdagangan dan investasi
+yang lebih terarah dan
+memberikan hasil yang
+konkret
+1. Menyusun pemetaan prioritas
+perdagangan dan investasi di kawasan
+Asia Pasifik dan Afrika, bekerja sama
+dengan para pemangku kepentingan di
+dalam negeri, termasuk BUMN,
+pemerintah daerah, pelaku usaha
+nasional dan diaspora Indonesia.
+1. Menyusun pemetaan prioritas
+perdagangan dan investasi di kawasan
+Asia Selatan dan Tengah, bekerja sama
+dengan para pemangku kepentingan di
+dalam negeri, termasuk BUMN,
+pemerintah daerah, pelaku usaha
+nasional dan diaspora Indonesia.
+2. Mendorong keikutsertaan pelaku
+usaha dalam negeri dalam berbagai
+kegiatan promosi perdagangan dan
+1. Mendorong keikutsertaan pelaku usaha
+dalam negeri dalam berbagai kegiatan
+promosi perdagangan dan investasi
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+investasi yang difasilitasi oleh Ditjen
+Aspasaf dan Perwakilan RI di kawasan
+Asia Pasifik dan Afrika
+yang difasilitasi oleh Ditjen Aspasaf dan
+Perwakilan RI di kawasan Asia Selatan
+dan Tengah
+3. Mendorong keikutsertaan
+pengusaha/perusaahaan dari negara
+mitra dalam kegiatan-kegiatan
+promosi perdagangan dan investasi di
+dalam negeri.
+1. Mendorong keikutsertaan
+pengusaha/perusaahaan dari negara
+mitra di Kawasan Asia Selatan dan
+Tengah dalam kegiatan-kegiatan
+promosi perdagangan dan investasi di
+dalam negeri.
+4. Bekerja sama dengan pemerintah
+Daerah menyelenggarakan kegiatan
+diplomatic tour untuk kepala
+perwakilan negara mitra di Indonesia
+1. Bekerja sama dengan pemerintah
+Daerah menyelenggarakan kegiatan
+diplomatic tour untuk kepala
+perwakilan negara-negara di Kawasan
+Asia Selatan dan Tengah di Indonesia
+4. Meningkatkan keterlibatan
+pelaku usaha daerah
+1. Memfasilitasi para pemangku
+kepentingan dengan melakukan link
+and match atas permintaan pasar,
+termasuk melakukan diseminasi
+informasi dan memberdayakan
+potensi daerah dengan memanfaatkan
+kegiatan promosi di kawasan dan
+forum regional di kawasan Asia Pasifik
+dan Afrika
+1. Memfasilitasi para pemangku
+kepentingan dengan melakukan link and
+match atas permintaan pasar, termasuk
+melakukan diseminasi informasi dan
+memberdayakan potensi daerah dengan
+memanfaatkan kegiatan promosi di
+kawasan dan forum regional di kawasan
+Asia Selatan dan Tengah
+2. Mendorong partisipasi aktif asosiasi
+pengusaha dalam kerangka forum
+kerja sama regional dan sub-regional
+di kawasan Asia Pasifik dan Afrika.
+1. Mendorong partisipasi aktif asosiasi
+pengusaha dalam kerangka forum kerja
+sama regional dan sub-regional di
+kawasan Asia Selatan dan Tengah.
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+5. Mendorong, memetakan
+potensi dan memfasilitasi
+investasi dari luar negeri
+(inbound investment) pada
+sektor-sektor prioritas
+bagi Indonesia dan
+outbond investment ke luar
+negeri yang sinergis
+dengan kepentingan
+ekonomi nasional.
+1. Mendorong pemanfaatan data
+economic/market intelligence oleh
+stakeholders dalam negeri untuk
+mendorong outbond invesrment ke
+negara-negara potensial di kawasan
+Asia Pasifik dan Afrika.
+ Mendorong pemanfaatan data
+economic/market intelligence oleh
+stakeholders dalam negeri untuk
+mendorong outbond invesrment ke
+negara-negara potensial di kawasan
+Asia Selatan dan Tengah.
+2. Mendorong dan mengawal relokasi
+investasi asing dari negara mitra di
+Kawasan Asia Pasifik dan Afrika ke
+Indonesia.
+ Mendorong dan mengawal relokasi
+investasi asing dari negara mitra di
+Kawasan Asia Selatan dan Tengah ke
+Indonesia.
+3. Mendorong partisipasi BUMN dan
+Lembaga terkait, serta kalangan
+swasta nasional pada proyek
+pembangunan strategis di Kawasan
+Asia Pasifik dan Afrika.
+ Mendorong partisipasi BUMN dan
+Lembaga terkait, serta kalangan swasta
+nasional pada proyek pembangunan
+strategis di Kawasan Asia Selatan dan
+Tengah.
+6. Memfasilitasi perundingan
+dan mendukung
+percepatan penyelesaian
+penyusunan Perjanjian
+Promosi dan Perlindungan
+Penanaman Modal (P4M)
+bilateral untuk melindungi
+investasi Indonesia di luar
+negeri.
+1. Menyelenggarakan dan mendorong
+pembahasan Perjanjian Promosi dan
+Perlindungan Penanaman Modal
+(P4M) dengan negara mitra di
+kawasan Asia Pasifik dan Afrika.
+ Menyelenggarakan dan mendorong
+pembahasan Perjanjian Promosi dan
+Perlindungan Penanaman Modal (P4M)
+dengan negara mitra di kawasan Asia
+Selatan dan Tengah.
+2. Menyelenggarakan dan mendorong
+pembahasan Perjanjian Penghindaran
+Pajak Berganda dengan negara mitra
+di kawasan Asia Pasifik dan Afrika,
+untuk memperkuat Perjanjian
+Promosi dan Perlindungan
+Penanaman Modal (P4M).
+ Menyelenggarakan dan mendorong
+pembahasan Perjanjian Penghindaran
+Pajak Berganda dengan negara mitra di
+kawasan Asia Selatan dan Tengah, untuk
+memperkuat Perjanjian Promosi dan
+Perlindungan Penanaman Modal (P4M).
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+7. Mempromosikan
+pengembangan industri
+halal Indonesia ke luar
+negeri.
+1. Menyusun mapping mengenai industri
+halal Indonesia bekerja sama dengan
+pemangku kepentingan di dalam
+negara.
+ Menyusun mapping mengenai industri
+halal Indonesia yang potensial
+dipasarkan ke negara-negara di
+Kawasan Asia Selatan dan Tengah
+bekerja sama dengan pemangku
+kepentingan di dalam negeri
+2. Menyelenggarakan promosi industri
+halal nasional dan mendorong
+keikutsertaan para pelaku usaha
+industri halal dari negara mitra di
+Kawasan Asia Pasifik dan Afrika.
+ Menyelenggarakan promosi industri
+halal nasional dan mendorong
+keikutsertaan para pelaku usaha
+industri halal dari negara-negara di
+Kawasan Asia Selatan dan Tengah.
+3. Mendorong keikutsertaan pelaku
+usaha industri halal di dalam negeri
+pada kegiatan promosi industry halal
+di negara mitra di Kawasan Asia
+Pasifik dan Afrika.
+ Mendorong keikutsertaan pelaku usaha
+industri halal di dalam negeri pada
+kegiatan promosi industry halal di
+negara mitra di Kawasan Asia Selatan
+dan Tengah.
+8. Mendorong kerjasama
+dengan negara-negara
+mitra untuk produksi dan
+pengadaan alat kesehatan
+serta obat-obatan di
+Indonesia.
+1. Mengamankan komitmen-komitmen
+suplai vaksin dari negara mitra di
+Kawasan Asia Pasifik dan Afrika.
+ Mengamankan komitmen-komitmen
+suplai vaksin dari negara mitra di
+Kawasan Asia Selatan dan Tengah.
+2. Menindaklanjuti dan
+mengimplementasikan kerja sama
+pengembangan vaksin.
+ Menindaklanjuti dan
+mengimplementasikan kerja sama
+pengembangan vaksin dengan negara
+mitra di Kawasan Asia Selatan dan
+Tengah
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+3. Mengintensifkan diplomasi guna
+memenuhi kebutuhan alat Kesehatan
+maupun obat-obatan.
+ Mengintensifkan diplomasi dengan
+negara mitra di Kawasan Asia Selatan
+dan Tengah guna memenuhi kebutuhan
+alat Kesehatan maupun obat-obatan.
+4. Mendorong kerja sama industri
+farmasi dengan negara mitra di
+kawasan dan forum regional Asia
+Pasifik dan Afrika.
+ Mendorong kerja sama industri farmasi
+dengan negara mitra di kawasan Asia
+Selatan dan Tengah.
+5. Mendorong kerja sama pemenuhan
+sarana dan prasarana fasilitas
+kesehatan dan rumah sakit di kawasan
+dan forum regional Asia Pasifik dan
+Afrika.
+ Mendorong kerja sama pemenuhan
+sarana dan prasarana fasilitas
+kesehatan dan rumah sakit dengan
+negara mitra di Kawasan Asia Selatan
+dan Tengah.
+9. Mendorong produk
+unggulan yang
+berorientasi ekspor serta
+mendukung pembiayaan
+proyek infrastruktur dan
+industri strategis ke luar
+negeri.
+1. Mendorong terbentuknya kesepakatan
+business to business dalam berbagai
+kegiatan promosi serta kesepakatan
+bilateral.
+ Mendorong terbentuknya kesepakatan
+business to business dalam berbagai
+kegiatan promosi serta kesepakatan
+bilateral dengan negara-negara di
+Kawasan Asia Selatan dan Tengah.
+2. Mendorong keikutsertaan lembaga
+pembiayaan untuk mendukung proyek
+infrastruktur dan industri strategis di
+Kawasan Asia Pasifik dan Afrika.
+ Mendorong keikutsertaan lembaga
+pembiayaan untuk mendukung proyek
+infrastruktur dan industri strategis di
+Kawasan Asia Selatan dan Tengah
+10. Menolak berbagai tindakan
+diskriminatif yang
+ditujukan kepada
+1. Melakukan pendekatan dan lobi
+melalui mekanisme pertemuan
+bilateral guna memastikan
+diberlakukannya kebijakan non-
+ Melakukan pendekatan dan lobi melalui
+mekanisme pertemuan bilateral guna
+memastikan diberlakukannya kebijakan
+non-diskriminatif terhadap komoditas
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+komoditas unggulan
+Indonesia.
+diskriminatif terhadap komoditas
+unggulan Indonesia.
+unggulan Indonesia di negara mitra di
+Kawasan asia selatan dan tengah.
+2. Melakukan pendekatan dan lobi
+melalui mekanisme pertemuan
+bilateral dan regional guna
+memastikan diberlakukannya
+kebijakan non-diskriminatif terhadap
+komoditas unggulan Indonesia.
+ Melakukan pendekatan dan lobi dengan
+negara mitra di Kawasan asia selatan
+dan tengah melalui mekanisme
+pertemuan bilateral dan regional guna
+memastikan diberlakukannya kebijakan
+non-diskriminatif terhadap komoditas
+unggulan Indonesia.
+11. Memanfaatkan
+perkembangan teknologi
+informasi dan komunikasi
+untuk mendorong industri
+digital, ekonomi kreatif,
+dan pengembangan SDM
+Indonesia untuk
+mendukung pencapaian
+visi Indonesia 4.0.
+1. Mendorong ekspansi start-up
+Indonesia ke negara-negara di
+Kawasan Asia Pasifik dan Afrika.
+ Mendorong ekspansi start-up Indonesia
+ke negara-negara di Kawasan Asia
+Selatan dan Tengah.
+12. Mendorong perumusan
+rekomendasi dan prakarsa
+terkait pengelolaan
+perundingan berbagai
+kerja sama ekonomi
+seperti Preferential Tariff
+Agreement (PTA), Free
+Trade Agreement (FTA),
+Comprehensive Economic
+Partnership Agreement
+(CEPA) termasuk Regional
+Comprehensive Economic
+1. Mendorong finalisasi perundingan
+Preferential Tariff Agreement (PTA),
+Free Trade Agreement (FTA),
+Comprehensive Economic Partnership
+Agreement (CEPA) termasuk Regional
+Comprehensive Economic Partnership
+(RCEP) dengan negara-negara di
+Kawasan Asia Pasifik dan Afrika.
+
+
+ Mendorong finalisasi perundingan
+Preferential Tariff Agreement (PTA),
+Free Trade Agreement (FTA), dengan
+negara-negara di Kawasan Asia Selatan
+dan Tengah.
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+Partnership (RCEP) sesuai
+dengan kepentingan
+nasional.
+
+13. Mendorong tercapainya
+kerja sama ekonomi
+Preferential Tariff
+Agreement (PTA)
+Indonesia dengan negara-
+negara pasar non-
+tradisional di berbagai
+kawasan dunia.
+1. Mendorong tercapainya kerja sama
+ekonomi Preferential Tariff Agreement
+(PTA) Indonesia dengan negara-
+negara pasar non-tradisional di
+kawasan Asia Pasifik dan Afrika.
+ Mendorong tercapainya kerja sama
+ekonomi Preferential Tariff Agreement
+(PTA) Indonesia dengan negara-negara
+pasar non-tradisional di kawasan Asia
+Selatan dan Tengah.
+14. Memanfaatkan kekuatan
+Indonesia sebagai basis
+produksi industri
+manufaktur, antara lain
+baterai lithium,
+petrokimia, otomotif dan
+suku cadang, besi baja, dan
+tekstil, dalam memperluas
+pasar ke kawasan negara-
+negara yang terbatas atau
+tidak memiliki basis
+produksi industri
+manufaktur tersebut.
+1. Meningkatkan promosi dagang untuk
+produk industri manufaktur ke
+kawasan Asia Pasifik dan Afrika.
+ Meningkatkan promosi dagang untuk
+produk industri manufaktur ke kawasan
+Asia Selatan dan Tengah.
+2. Memperluas akses pasar di negara-
+negara Kawasan Asia Pasifik Afrika
+untuk produk industri manufaktur
+dengan memanfaatkan perjanjian
+dagang yang telah disepakati.
+ Memperluas akses pasar di negara-
+negara Kawasan Asia Selatan dan
+Tengah untuk produk industri
+manufaktur dengan memanfaatkan
+perjanjian dagang yang telah disepakati.
+3. Menarik investasi di bidang industri
+manufaktur dari negara-negara mitra
+di kawasan Asia Pasifik dan Aspasaf ke
+Indonesia.
+ Menarik investasi di bidang industri
+manufaktur dari negara-negara mitra di
+kawasan Asia Selatan dan Tengah ke
+Indonesia.
+15. Memanfaatkan instrumen
+kebijakan dari negara-
+negara/wilayah akreditasi
+1. Memanfaatkan instrumen kebijakan
+negara-negara di kawasan Asia Pasifik
+dan Afrika, seperti kebijakan Belt and
+Road Initiative (RRT), New Southbound
+Policy (Taiwan), New Southern Policy
+ Memanfaatkan instrumen kebijakan
+negara-negara di kawasan Asia Selatan
+dan Tengah, seperti Indo-Pacific Ocean
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+untuk kepentingan
+ekonomi RI.
+
+(RoK), Specified Skilled Workers
+(Jepang), Australian Infrastructure
+Financing Facility for the Pacific /
+AIFFP (Australia), Indo-Pacific Ocean
+Initiative/IPOI (India), dan Tanfeedh
+(Oman) untuk kepentingan ekonomi
+RI.
+Initiative/IPOI (India), untuk
+kepentingan ekonomi RI.
+2 Peningkatan
+pengaruh
+kepemimpinan
+dan peran
+Indonesia
+dalam kerja
+sama
+internasional
+1. Memperkuat diplomasi
+dalam mendorong upaya
+penyelesaian konflik di
+kawasan Asia Pasifik dan
+Afrika, antara lain konflik
+di Rakhine State, Myanmar,
+konflik Palestina-Israel
+serta peacebuilding di
+Afghanistan melalui forum
+bilateral, regional, dan
+multilateral.
+
+1. Menegaskan dan melanjutkan
+dukungan konsisten kepada Palestina
+pada berbagai tingkatan, forum, dan
+bidang.
+ Menegaskan dan melanjutkan dukungan
+konsisten kepada Palestina pada
+berbagai tingkatan, forum, dan bidang
+dengan negara-negara di Kawasan Asia
+Selatan dan Tengah.
+2. Mengedepankan constructive
+engagement terhadap Myanmar,
+dalam upaya mencari penyelesaikan
+permasalahan di Rakhine State, dan
+dalam upaya Myanmar untuk
+mewujudkan perdamaian, stabilitas,
+demokrasi serta pembangunan
+berkelanjutan. Selain itu, mendorong
+peran aktif ASEAN untuk memfasilitasi
+repatriasi secara sukarela, aman dan
+bermartabat
+ Melibatkan Bangladesh dalam upaya
+mencari solusi pengungsi Rohingya
+3. Mengawal proses perdamaian di
+Afghanistan agar sejalan dengan
+prinsip Afghan-owned and Afghan-led
+yang mementingkan manfaat bagi
+rakyat Afghanistan.
+ Menjadi fasilitator / mediator proses
+perundingan damai Afghanistan antara
+lain melalui konferensi ulama,
+pertemuan Afghanistan Indonesia
+Women Solidarity Network, dan
+memberikan bantuan pembangunan
+kapasitas
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+  3. Meningkatkan kerja sama
+dan trust-building di
+kawasan Indo-Pasifik yang
+terfokus pada
+pengembangan kerja sama
+kemaritiman, konektivitas
+dan infrastruktur, serta
+pembangunan.
+
+1. Meningkatkan upaya advokasi dan
+penerjemahan ASEAN Indo-Pacific
+Outlook (AOIP) di kawasan dan forum-
+forum Asia Pasifik dan Afrika
+ Meningkatkan upaya advokasi dan
+penerjemahan ASEAN Indo-Pacific
+Outlook (AOIP) di Kawasan  dan forum-
+forum Asia Selatan dan Tengah
+3. Penguatan
+integritas NKRI
+dan diplomasi
+politik
+keamanan
+1. Meningkatkan kerja sama
+bilateral, regional dan
+internasional dalam
+pemeliharaan perdamaian
+dan keamanan
+internasional.
+
+ Mengkombinasikan upaya pemagaran
+kedaulatan dengan peningkatan kerja
+sama di bidang yang menjadi prioritas
+kawasan Pasifik a.l. di bidang SDGs,
+perikanan dan kelautan, lingkungan,
+konektivitas dan keamanan.
+ Mengkombinasikan upaya pemagaran
+kedaulatan dengan peningkatan kerja
+sama di bidang yang menjadi prioritas
+kawasan Asia Selatan dan Tengah a.l. di
+bidang SDGs, perikanan dan kelautan,
+lingkungan, konektivitas dan keamanan.
+ Meningkatkan peran aktif Indonesia
+dalam penyelesaian konflik di
+kawasan Asia Pasifik dan Afrika,
+seperti konflik di Rakhine State,
+Myanmar, konflik Palestina-Israel
+serta peacebuilding di Afghanistan
+melalui forum bilateral, regional, dan
+multilateral.
+
+ Meningkatkan peran aktif Indonesia
+dalam penyelesaian konflik di kawasan
+Asia Selatan dan Tengah, seperti konflik
+di Rakhine State, Myanmar, serta
+peacebuilding di Afghanistan melalui
+forum bilateral, regional, dan
+multilateral.
+
+2. Meningkatkan kerjasama
+penanggulangan terorisme
+melalui pendekatan soft-
+power/deradikalisasi
+1. Mendorong terbentuknya kesepakatan
+bilateral mengenai penanggulangan
+terorisme dengan negara-negara di
+Kawasan Asia Pasifik dan Afrika, serta
+ Mendorong terbentuknya kesepakatan
+bilateral mengenai penanggulangan
+terorisme dengan negara-negara di
+Kawasan Asia Selatan dan Tengah, serta
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+dengan cara peningkatan
+kapasitas pencegahan dan
+deradikalisasi, serta
+kerjasama hukum dengan
+negara mitra.
+mengawal implementasi kesepakatan
+bilateral tersebut.
+mengawal implementasi kesepakatan
+bilateral tersebut.
+2. Meningkatkan kerjasama
+penanggulangan terorisme dengan
+negara-negara di kawasan Asia Pasifik
+dan Afrika, termasuk dengan
+pemberian bantuan teknis dan
+peningkatan kapasitas.
+ Meningkatkan kerjasama
+penanggulangan terorisme dengan
+negara-negara di kawasan Asia Pasifik
+dan Afrika, termasuk dengan pemberian
+bantuan teknis dan peningkatan
+kapasitas.
+3. Mendorong implementasi dan
+advokasi Resolusi Pertemuan Tahunan
+APPF ke-28 tahun 2020, tentang
+penanggulangan radikalisme pada
+forum parlemen lainnya baik di
+Kawasan Asia Pasifik dan Afrika
+maupun tingkat global.
+ Mendorong implementasi dan advokasi
+Resolusi Pertemuan Tahunan APPF ke-
+28 tahun 2020, tentang penanggulangan
+radikalisme pada forum parlemen
+lainnya baik di Kawasan Asia Selatan
+dan Tengah maupun tingkat global.
+3. Mendukung kerja sama
+pertahanan di lingkup
+bilateral, regional dan
+internasional pada aspek
+hukum dalam rangka
+penguatan integritas NKRI
+dan peningkatan
+kemampuan industri
+pertahanan Indonesia.
+1. Mendorong terbentuknya kesepakatan
+bilateral mengenai pertahanan dengan
+negara-negara di Kawasan Asia Pasifik
+dan Afrika, serta mengawal
+implementasi kesepakatan bilateral
+tersebut.
+
+ Mendorong terbentuknya kesepakatan
+bilateral mengenai pertahanan dengan
+negara-negara di Kawasan Asia Selatan
+dan tengah, serta mengawal
+implementasi kesepakatan bilateral
+tersebut.
+
+2. Meningkatkan promosi industri
+pertahanan Indonesia di Kawasan Asia
+Pasifik dan Afrika.
+ Meningkatkan promosi industri
+pertahanan Indonesia di Kawasan Asia
+Selatan dan Tengah.
+4. Mengintensifkan kerja
+sama bilateral, regional
+1. Mendorong terbentuknya kesepakatan
+bilateral mengenai penanggulangan
+ Mendorong terbentuknya kesepakatan
+bilateral mengenai penanggulangan
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+dan internasional
+termasuk kerja sama
+penegakan hukum dalam
+menanggulangi kejahatan
+transnasional, seperti:
+korupsi, terorisme,
+penyelundupan manusia,
+perdagangan orang,
+perdagangan gelap
+narkoba, perompakan
+perdagangan senjata ilegal,
+illegal fishing.
+
+kejahatan transnasional dengan
+negara-negara di Kawasan Asia Pasifik
+dan Afrika, serta mengawal
+implementasi kesepakatan bilateral
+tersebut.
+kejahatan transnasional dengan negara-
+negara di Kawasan Asia Selatan dan
+Tengah, serta mengawal implementasi
+kesepakatan bilateral tersebut.
+2. Meningkatkan mekanisme information
+sharing antar institusi penegakan
+hukum dengan negara mitra di
+Kawasan Asia Pasifik dan Afrika.
+ Meningkatkan mekanisme information
+sharing antar institusi penegakan
+hukum dengan negara mitra di Kawasan
+Asia Selatan dan Tengah.
+3. Mendorong pembentukan dan
+implementasi kesepakatan mandatory
+consular notification dengan negara-
+negara di Kawasan Asia Pasifik dan
+Afrika.
+ Mendorong pembentukan dan
+implementasi kesepakatan mandatory
+consular notification dengan negara-
+negara di Kawasan Asia Selatan dan
+Tengah.
+4. Meningkatkan kerja sama kepolisian
+dalam tanggulangi tantangan
+terorisme.
+ Meningkatkan kerja sama kepolisian
+dengan negara mitra di Kawasan asia
+selatan dan tengah dalam tanggulangi
+tantangan terorisme.
+5. Mengembangkan kerja sama
+pembangunan kapasitas dan berbagi
+pengalaman dan sumber daya institusi
+keamanan
+ Mengembangkan kerja sama
+pembangunan kapasitas dan berbagi
+pengalaman dan sumber daya institusi
+keamanan dengan negara mitra di
+Kawasan asia selatan dan tengah
+5. Meningkatkan kerja sama
+konektivitas kawasan
+melalui IORA, APEC,
+ASEAN, ASEM, FEALAC.
+1. Mendorong organisasi regional di
+kawasan untuk dapat mengangkat
+tema mengenai pembangunan
+ Mendorong organisasi regional di
+kawasan Asia Selatan dan tengah untuk
+dapat mengangkat tema mengenai
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+ infrastruktur guna menunjang
+konektivitas
+pembangunan infrastruktur guna
+menunjang konektivitas
+6. Mendorong peningkatan
+kerja sama dalam bidang
+keamanan dan
+keselamatan laut, serta
+search and rescue,
+penanganan bencana di
+laut, serta perlindungan
+lingkungan laut.
+1. Mendorong terbentuknya kesepakatan
+bilateral mengenai keamanan dan
+keselamatan laut, serta search and
+rescue, penanganan bencana di laut,
+serta perlindungan lingkungan laut
+dengan negara-negara di Kawasan
+Asia Pasifik dan Afrika, serta
+mengawal implementasi kesepakatan
+bilateral tersebut.
+ mengawal implementasi kesepakatan
+bilateral (MoU) Maritime Safety and
+Security dengan India.
+  7. Meningkatkan upaya
+penyelesaian penetapan
+batas Indonesia dengan
+negara tetangga, termasuk
+penegasan batas darat
+dengan 3 negara dan
+penetapan batas maritim
+dengan 10 negara
+tetangga, serta pembuatan
+perjanjian penetapan
+batas, pemberlakuan dan
+pendaftarannya ke PBB.
+1. Meningkatkan intensitas perundingan
+untuk mendorong finalisasi
+perjanjian penetapan batas Indonesia,
+baik batas maritim maupun batas
+darat, dengan negara-negara di
+kawasan Asia Pasifik dan Afrika.
+ Meningkatkan intensitas perundingan
+untuk mendorong finalisasi perjanjian
+penetapan batas maritim Indonesia
+dengan India.
+4. Peningkatan
+dukungan dan
+komitmen
+nasional atas
+kebijakan luar
+1. Memantapkan peran
+Kementerian Luar Negeri
+sebagai penjuru dalam
+perumusan kebijakan luar
+negeri dan sebagai fungsi
+1. Meningkatkan koordinasi dengan
+kementerian/Lembaga teknis melalui
+pertemuan interkementerian.
+ Meningkatkan sinergi dan koordinasi
+dengan kementerian/Lembaga teknis
+terkait Kerjasama dengan negara mitra
+di Kawasan asia selatan dan tengah
+melalui pertemuan interkementerian.
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+negeri dan
+kesepakatan
+internasional
+koordinator dalam
+penyelenggaraan
+hubungan luar negeri.
+
+2. Mendorong dimasukkannya kegiatan
+implementasi kesepakatan bilateral
+dan regional di Kawasan Aspasaf
+dalam perencanaan kinerja
+Kementerian/Lembaga teknis dan
+Pemerintah Daerah
+ Mendorong agar kegiatan implementasi
+kesepakatan bilateral dan regional di
+Kawasan Asia Selatan dan Tengah
+masuk dalam perencanaan kinerja
+Kementerian/Lembaga teknis dan
+Pemerintah Daerah
+5 Peningkatan
+infrastruktur
+diplomasi
+berbasis
+teknologi
+informasi
+1. Melakukan penataan
+organisasi yang adaptif
+sesuai dinamika tuntutan
+polugri, peningkatan
+kualitas perencanaan serta
+monitoring dan evaluasi
+kinerja, dan tata kelola
+Kementerian Luar Negeri
+dan Perwakilan RI.
+
+1. Mengimplementasikan SOTK baru
+dengan memekarkan Direktorat Asia
+Timur dan Pasifik menjadi Direktorat
+Asia Timur dan Direktorat Pasifik
+ Mengimplementasikan SOTK baru
+Kemlu di Direktorat Asia Selatan dan
+Tengah
+2. Meningkatkan kualitas perencanaan
+serta monitoring dan evaluasi kinerja,
+serta tata kelola Direktorat Jenderal
+Asia Pasifik dan Afrika
+ Meningkatkan kualitas perencanaan
+serta monitoring dan evaluasi kinerja,
+serta tata kelola Direktorat Asia Selatan
+dan Tengah
+    3. Membuka perwakilan baru pada
+negara-negara kunci di Kawasan Asia
+Pasifik dan Afrika, seperti China dan
+India.
+ Mendorong pembukaan perwakilan RI
+baru di Chennai, India
+  2. Mewujudkan manajemen
+SDM Kementerian Luar
+Negeri yang berbasis
+merit, akuntabel, kredibel,
+dan transparan.
+1. Mewujudkan manajemen SDM Ditjen
+Asia Pasifik dan Afrika yang berbasis
+merit, akuntabel, kredibel dan
+transparan
+ Mewujudkan manajemen SDM di
+Direktorat Asia Selatan dan Tengah
+yang berbasis merit, akuntabel, kredibel
+dan transparan
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+  3. Meningkatkan anggaran
+Kementerian Luar Negeri
+dan memperkuat sistem
+penganggaran berbasis
+kinerja.
+
+1. Meningkatkan anggaran Ditjen Asia
+Pasifik dan Afrika serta memperkuat
+sistem penganggaran berbasis kinerja
+ Meningkatkan pengelolaan anggaran
+Direktorat Asia Selatan dan Tengah
+serta memperkuat sistem penganggaran
+berbasis kinerja
+  4. Memperkuat
+pengarusutamaan gender
+dalam organisasi,
+khususnya penganggaran
+yang mengadopsi
+pengarusutamaan gender,
+dalam rangka membangun
+sistem manajerial dan
+infrastruktur yang
+responsif terhadap isu
+pengarusutamaan
+tersebut.
+1. Melaksanakan sistem perencanaan
+dan penganggaran yang berbasis
+gender.
+ Melaksanakan sistem perencanaan dan
+penganggaran yang berbasis gender di
+direktorat asia selatan dan tengah.
+  5. Meningkatkan kualitas
+sarana, prasarana, aset dan
+barang guna meningkatkan
+kinerja Kementerian Luar
+Negeri.
+1. Meningkatkan kualitas sarana,
+prasarana, aset dan barang guna
+meningkatkan kinerja Ditjen Asia
+Pasifik dan Afrika
+ Meningkatkan kualitas sarana,
+prasarana, aset dan barang guna
+meningkatkan kinerja Direktorat Asia
+Selatan dan Tengah
+  6. Meningkatkan
+akuntabilitas pengelolaan
+anggaran dan aset negara
+serta kepatuhan terhadap
+peraturan perundangan.
+1. Meningkatkan akuntabilitas
+pengelolaan anggaran dan aset negara
+serta kepatuhan terhadap peraturan
+perundangan di Ditjen Asia Pasifik dan
+Afrika
+ Meningkatkan akuntabilitas
+pengelolaan anggaran dan aset negara
+serta kepatuhan terhadap peraturan
+perundangan di Direktorat Asia Selatan
+dan Tengah
+
+No
+Arah
+Kebijakan
+Kementerian
+Luar Negeri
+No Strategi Kementerian
+Luar Negeri
+No Strategi Unit Organisasi Ditjen Asia
+Pasifik dan Afrika
+No Strategi Direktorat Asia Selatan dan
+Tengah
+7. Meningkatkan tata kelola
+pengawasan intern
+berbasis risiko.
+1 Meningkatkan pelaksanaan Sistem
+Pengendalian Internal Pemerintah
+(SPIP) di Direktorat Jenderal Asia
+Pasifik dan Afrika
+ Meningkatkan pelaksanaan Sistem
+Pengendalian Internal Pemerintah
+(SPIP) di Direktorat Asia Selatan dan
+Tengah
+
+LAMPIRAN 2:
+MATRIK TARGET KINERJA DIREKTORAT ASIA PASIFIK DAN AFRIKA
+Program/Kegiatan Sasaran Program/Indikator
+TARGET ALOKASI ANGGARAN (JUTA RUPIAH)
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+Program:
+Diplomasi dan Kerja
+Sama Internasional
+Nilai manfaat diplomasi ekonomi
+yang optimal di Kawasan Asia
+Selatan dan Tengah
+
+1,800 2,375 3,375 4,000 4,500
+ 1. Jumlah Negara akreditasi  di
+Kawasan Asia Selatan dan
+Tengah yang mencapai target
+peningkatan nilai perdagangan
+dengan Indonesia
+3 5 6 7 8
+
+ 2. Jumlah Negara akreditasi di
+Kawasan Asia Selatan dan
+Tengah yang mencapai target
+peningkatan nilai investasi
+dengan Indonesia
+3 1 5 5 5
+
+ 3. Jumlah negara akreditasi di
+kawasan Asia Selatan dan
+Tengah yang mencapai target
+peningkatan jumlah wisatawan
+mancanegara ke Indonesia
+3 3 5 6 8
+
+ 4. Persentase Kesepakatan
+Kerjasama Bilateral di Kawasan
+Asia Selatan dan Tengah yang
+ditindak lanjuti oleh
+Stakeholder dalam Negeri
+50 80 85 85 90
+
+ 5. Jumlah Kesepakatan hasil
+perundingan di Bidang
+Ekonomi, Sosial dan Budaya di
+3 6 6 7 8
+
+Program/Kegiatan Sasaran Program/Indikator
+TARGET ALOKASI ANGGARAN (JUTA RUPIAH)
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+kawasan Asia Selatan dan
+Tengah
+ 6. Persentase Data Economic
+Intelligence dari kawasan Asia
+Selatan dan Tengah yang
+Ditindaklanjuti Stakeholders
+dalam Negeri
+50 100 100 100 100
+ 7. Jumlah Promosi  TTI di
+Kawasan Asia Selatan dan
+Tengah
+3 5 7 8 10
+ 8. Jumlah Kesepakatan Hasil
+Perundingan di Bidang
+Kemaritiman, Polkam dan
+Perbatasan di Kawasan Asia
+Selatan dan Tengah
+4 6 7 8 9
+ 9 Nilai Akuntabilitas Kinerja
+Instansi Pemerintah  (AKIP)
+Direktorat Asia Selatan dan
+Tengah
+78
+(BB)
+78
+(BB)
+79
+(BB)
+80
+(A)
+81
+(A)

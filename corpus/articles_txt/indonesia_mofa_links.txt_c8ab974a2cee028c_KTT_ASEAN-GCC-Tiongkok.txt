@@ -1,0 +1,27 @@
+seed_url: https://setnasasean.kemlu.go.id/news/ktt-asean-gcc-tiongkok
+final_url: https://setnasasean.kemlu.go.id/news/ktt-asean-gcc-tiongkok
+title: KTT ASEAN-GCC-Tiongkok
+date: May 27, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+May 27, 2025
+183 kali
+KTT ASEAN-GCC-Tiongkok
+Kuala Lumpur, Malaysia – Untuk pertama kalinya dalam sejarah, ASEAN, Gulf Cooperation Council (GCC), dan Republik Rakyat Tiongkok menyelenggarakan Konferensi Tingkat Tinggi (KTT) Trilateral ASEAN-GCC-Tiongkok pada 27 Mei 2025 di Kuala Lumpur. Pertemuan ini mengusung tema
+“Synergising Economic Opportunities Towards Shared Prosperity”
+sebagai upaya memperkuat kerja sama lintas kawasan di tengah meningkatnya ketidakpastian global.
+KTT ini digagas oleh Malaysia dalam kapasitasnya sebagai Ketua ASEAN 2025. Indonesia diwakili oleh Menteri Luar Negeri Sugiono, sementara delegasi Tiongkok dipimpin oleh Perdana Menteri Li Qiang. Pertemuan menghasilkan
+Joint Statement of ASEAN-GCC-China Summit
+yang menegaskan komitmen tiga pihak untuk memperkuat kolaborasi di sektor-sektor strategis, termasuk konektivitas ekonomi, perdagangan, integrasi rantai pasok, energi bersih, ekonomi digital, hingga industri halal.
+Selain memperkokoh kerja sama, pertemuan ini juga menyuarakan sikap bersama terkait dinamika global. ASEAN, GCC, dan Tiongkok menegaskan pentingnya sentralitas ASEAN, komitmen terhadap multilateralisme, serta seruan kuat untuk menghentikan kekerasan di Gaza dengan mendorong solusi dua negara demi perdamaian berkelanjutan.
+Perdana Menteri Li Qiang menekankan bahwa kolaborasi trilateral ini berpotensi membentuk “lingkaran ekonomi dinamis” sebagai mesin pertumbuhan regional berbasis keterbukaan, integrasi lintas peradaban, dan kerja sama pembangunan. Kesepakatan juga mencakup sinergi di bawah kerangka
+Belt and Road Initiative (BRI)
+, dengan fokus pada konektivitas, perdagangan, pertanian, energi, keuangan, dan ekonomi digital.
+Dalam sambutannya pada KTT ASEAN sehari sebelum pertemuan trilateral, Presiden Republik Indonesia Prabowo Subianto menegaskan keyakinannya bahwa KTT ASEAN-GCC-Tiongkok akan memperkuat peran sentral ASEAN dalam tatanan dunia. Ia menyampaikan bahwa kemitraan ini menjadi peluang besar bagi ASEAN, GCC, dan Tiongkok untuk saling melengkapi dalam membangun ketahanan ekonomi lintas kawasan.
+KTT ASEAN-GCC-Tiongkok pertama ini menjadi tonggak baru diplomasi kawasan, yang bukan hanya mempererat hubungan ekonomi, tetapi juga menghadirkan arsitektur kerja sama regional yang inklusif, inovatif, dan berorientasi masa depan
+Sumber: Kementerian Luar Negeri / Sekretariat Nasional ASEAN
+Share this article:
+Tweet

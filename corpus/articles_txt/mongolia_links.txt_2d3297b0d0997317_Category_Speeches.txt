@@ -1,0 +1,30 @@
+seed_url: https://president.mn/en/category/speeches/page/10/
+final_url: https://president.mn/en/category/speeches/page/10/
+title: Category : Speeches
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/05/15 2:38:59
+GREETINGS OF CHIEF OF STAFF Z.ENKHBOLD TO THE ACADEMIC CONFERENCE DEDICATED TO THE 65TH ANNIVERSARY OF DIPLOMATIC RELATIONS BETWEEN MONGOLIA AND VIETNAM
+Chief of Staff to the President Z.Enkhbold extended greetings to the academic conference themed Mongolia-Vietnam Relations: History and New Era,
+2019/05/14 3:47:31
+OPENING SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE CONSULTATION ON THE VALUE OF FAMILY
+President of Mongolia Khaltmaagiin Battulga delivered an opening speech at the consultation on the Value of Family, which was held
+2019/05/07 5:25:20
+REMARKS BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE GROUNDBREAKING CEREMONY FOR THE MONGOLIAN NATIONAL FILM STUDIO
+Today, a groundbreaking ceremony for the Mongolian National Film Studio took place at the site of the Maidar EcoCity Project,
+2019/05/06 3:59:26
+OPENING SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE DISCUSSION ON SECURITY OF MEAT AND VEGETABLE SUPPLY
+President of Mongolia Khaltmaagiin Battulga delivered an opening speech at the discussion themed Security of Meat and Vegetable Supply that
+2019/04/27 10:52:57
+SPEECH BY PRESIDENT KHALTMAAGIIN BATTULGA AT THE LEADERS’ ROUNDTABLE OF THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION
+Your Excellency President Xi Jinping,
+Esteemed Heads of Delegations,
+Ladies and gentlemen,
+I would like to express my gratitude to President Xi Jinping
+2019/03/26 11:19:08
+PRESIDENT KHALTMAAGIIN BATTULGA ATTENDS PLENARY SESSION OF THE PARLIAMENT
+Within his power stated in Section 1 of Article 26 of the Constitution of Mongolia, President of Mongolia Khaltmaagiin Battulga

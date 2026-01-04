@@ -1,0 +1,95 @@
+seed_url: http://government.ru/en/news/30366/
+final_url: http://government.ru/en/news/16122/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the SCO Council of Heads of Government
+15 December 2014
+10:00
+Astana, Republic of Kazakhstan
+Dmitry Medvedev: “Russia attaches great importance to strengthening the economic cooperation between our countries. The key objective in this respect is to ensure that the programme for multilateral trade and economic cooperation until 2020 and the initiatives aimed at promoting project implementation until 2016 are results-driven.”
+Excerpts from Dmitry Medvedev’s remarks:
+The official portrait ceremony of the heads of government of SCO member states
+15 December 2014
+Meeting between President Nursultan Nazarbayev of Kazakhstan and the Heads of Government of the SCO Member States
+15 December 2014
+Meeting between President Nursultan Nazarbayev of Kazakhstan and the Heads of Government of the SCO Member States
+15 December 2014
+Expanded meeting of the SCO Council of the Heads of Government
+15 December 2014
+Group photo of SCO Council of Heads of Government and Heads of the Delegations of the SCO Observer States
+15 December 2014
+Предыдущая новость
+Следующая новость
+The official portrait ceremony of the heads of government of SCO member states
+Our meeting is
+taking place amid a growing crisis in the global economy. There are problems
+related to politics, there are problems concerning security, including in our
+region. The entire SCO security space is facing this challenge. We need to
+develop joint efforts for further cooperation in all areas – economy, security,
+and, of course, to maintain the overall socioeconomic stability in our
+countries.
+Russia will preside over the Shanghai Cooperation
+Organisation during the next year and attaches great importance to
+strengthening the economic cooperation between our countries through a new
+quality of project activity within the Organisation.
+The key objective in this respect is to ensure that
+the programme for multilateral trade and economic cooperation until 2020 and
+the initiatives aimed at promoting project implementation until 2016 are
+results-driven. They should be revised in accordance with actual needs and the
+actual situation. Certainly, the business community, including the SCO Business
+Council and the SCO Interbank Consortium, could also contribute to this
+process.
+We are planning to hold the Business
+Summit of the Shanghai Cooperation Organisation in June 2015 as part of the
+annual St Petersburg International Economic Forum. I hope that a package of concrete
+proposals will also be formulated after the forum.
+SCO projects should be backed by financial
+tools that we need to create. This is an essential condition for successful
+project implementation. Therefore the countries concerned should complete their
+consultations on establishing this mechanism in the near future. They should
+decide on the format and on an agency serving as the foundation for this work.
+Regardless of whether this is the Eurasian Development Bank or some new agency,
+we need to make this decision.
+The creation of a common transport space
+is another promising aspect of our joint work. I believe that the agreement on
+international road haulage, signed in September 2014, will increase the interconnectivity
+of SCO countries. Next, we’ll implement a programme for the coordinated
+development of roads, now being assessed by the agencies of SCO counties.
+Our partners are also currently reviewing
+several documents in the area of information and telecommunications technology.
+One of them stipulates reduced prices and rates for roaming services, and the
+second document deals with data exchanges for verifying electronic signatures.
+The Energy Club is facing new
+opportunities, with due consideration for current price fluctuations on global commodity
+markets, primarily oil and gas. We should more actively use this platform for
+reviewing energy security issues and for merging the stances of all market
+participants. From the very outset, we should, of course, focus on modern and
+mutually beneficial contracts in this area.
+Expanded contacts with multilateral
+organisations and forums, including the APEC economies and ASEAN, will help
+strengthen our organisation. I hope that the Shanghai Cooperation Organisation
+will obtain additional dividends by establishing cooperation with the Eurasian
+Economic Union that will start functioning in 2015.
+The future of the Shanghai Cooperation
+Organisation is inseparably linked with expanded contacts between individuals
+and with youth projects. We have implemented the successful Shanghai
+Cooperation Organisation University project uniting almost 70 education
+institutions. We expect to sign an intergovernmental agreement on establishing
+a SCO University next year.
+We should expand cooperation in the area
+of healthcare in order to prevent the most dangerous diseases, such as the
+Ebola virus. I am urging you to more actively implement the programme for
+distributing information about the epidemiological status caused by infectious
+diseases, in SCO countries.
+Russia
+will do its outmost to achieve the goals of our organisation during its
+presidency.
+Government of the Russian Federation
+http://government.ru/en/news/16122/
+Highlight selection

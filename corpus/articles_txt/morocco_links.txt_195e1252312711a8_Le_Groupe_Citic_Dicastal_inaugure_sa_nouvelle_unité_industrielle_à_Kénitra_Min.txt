@@ -1,0 +1,43 @@
+seed_url: http://www.mcinet.gov.ma/fr/content/le-groupe-citic-dicastal-inaugure-sa-nouvelle-unit%C3%A9-industrielle-%C3%A0-k%C3%A9nitra
+final_url: https://www.mcinet.gov.ma/fr/content/le-groupe-citic-dicastal-inaugure-sa-nouvelle-unit%C3%A9-industrielle-%C3%A0-k%C3%A9nitra
+title: Le Groupe Citic Dicastal inaugure sa nouvelle unité industrielle à Kénitra | Ministère de l’Industrie et du Commerce
+date: 2025-12-24T12:00:00Z
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Le Groupe Citic Dicastal inaugure sa nouvelle unité industrielle à Kénitra
+Le Groupe CITIC DICASTAL a inauguré, le mercredi 26 juin 2019, sa première unité industrielle spécialisée dans la production de jantes en Aluminium au Maroc au sein de l’Atlantic Free Zone de Kenitra, en présence du Ministre de l’Industrie, de l’Investissement, du Commerce et de l’Economie Numérique, M. Moulay Hafid Elalamy. Cette usine à la pointe de la technologie, construite en 8 mois sur un terrain d’environ 24 hectares, comprend une unité de production de 30 000 m² pour la première phase.
+Le Maroc et le groupe chinois CITIC DICASTAL ont conclu, un accord-cadre et une convention d’investissement pour l’implantation d’une unité de production de jantes en aluminium à l’Atlantic Free Zone -Kenitra, d’une capacité de production annuelle de 6 millions d’unités. Le projet DICASTAL MOROCCO AFRICA fait partie à la fois de l’initiative « One Road, One Belt » lancée par la Chine et le Plan d’Accélération Industrielle du secteur de l’automobile au Maroc.
+A cette occasion, M. Moulay Hafid Elalamy, Ministre de l’Industrie, de l’Investissement, du Commerce et de l’Economie numérique, s’est félicité de l’inauguration de cette usine dont le lancement de l’activité et des travaux d’extension ont été actés lors de la cérémonie d’inauguration par Sa Majesté le Roi Mohammed VI, que Dieu L’assiste, de l’écosystème PSA. Et d'ajouter qu'"avec cet investissement à forte valeur ajoutée, Dicastal introduit au Maroc une spécialité pionnière, une expertise avérée et un savoir-faire à fort contenu technologique, à la faveur d’une industrie automobile compétitive et performante."
+Le groupe CITIC DICASTAL est leader mondial, spécialisé dans le moulage d’aluminium et la production de pièces automobiles en aluminium, notamment les jantes en aluminium et les composants en fonte d’aluminium des blocs moteurs et châssis..
+Avec plus de 17 000 emplois, le groupe dispose de 30 unités de production, réparties en Europe, en Amérique du Nord et en Chine. Sa capacité de production annuelle est de 60 millions de jantes et 110 000 tonnes de composants moteurs et châssis.
+DICASTAL fournit la majorité des constructeurs automobiles tels que, Volkswagen, BMW, Renault-Nissan, Fiat, Chrysler Automotive, Peugeot, GM, Toyota, Audi, etc.
+Le démarrage de la construction de l’usine DICASTAL Maroc a eu lieu en Septembre 2018. La production en série a débuté, le 25 Mai 2019,avec la réalisation de la première jante aluminium qualifiée "Made in Morocco" en un temps record comparativement à tous les sites de CITIC en Overseas.
+Aujourd’hui, l’entreprise emploie 420 personnes. A terme, Le projet devrait permettre la création d’environ 1200 emplois. Pour un investissement global de 350 millions d’euros. La formation étant au centre de préoccupation du groupe, près de 140 Ingénieurs, Techniciens et opérateurs ont été envoyés en Chine pour des périodes de formations intenses pouvant aller jusqu’à 3mois dans des technologies nouvelles spécifiques au domaine d’expertise de Citic Dicastal, et commencer à développer cette expertise dans les différents centres de formation pour les prochaines recrues.
+DICASTAL Maroc proposera une industrie à forte valeur ajoutée à la pointe de la technologie, ainsi qu’un centre d’ingénierie qui permettra de développer localement ses produits.
+Quelques dates clés :
+-	11 Décembre 2017 	: Signature du contrat cadre – écosystème PSA
+-	26 Juillet 2018 : Signature de la Convention d’investissement.
+-	24 Septembre 2018 : Démarrage des travaux de construction.
+-	25 Mai 2019 : Production de la première jante qualifiée.
+-	20 Juin 2019 : Présentation des premiers produits « made in Morocco » lors de l’inauguration de l’écosystème de PSA devant Sa Majesté le Roi Mohammed VI, que Dieu L’assiste.
+-	26 Juin 2019 : Inauguration du 1er site Maroc.
+Partager cet article
+Lire Aussi
+24 Décembre 2025
+Pose de la première pierre du projet de la société EUWEN TEXTILES, filiale du groupe chinois SUNRISE, au sein de la zone industrielle de Bensouda à Fès
+Monsieur Ryad MEZZOUR, Ministre de l’Industrie et du Commerce accompagné de Monsieur Karim ZID...
+IMM: Somasteel procède à l’inauguration de l’extension de son unité industrielle
+La société Somasteel, spécialisée dans le laminage à chaud des aciers bas carbone pour la prod...
+Marrakech accueille une retraite ministérielle africaine pour consolider la position africaine à l’OMC
+La retraite ministérielle, tenue, le 11 décembre 2025, à Marrakech, en marge de la deuxième éd...
+Vidéos
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+Signature d’une convention de partenariat et lancement du programme ALTEN BRIDGE
+Inauguration à Kénitra d’une 3ème unité industrielle du groupe chinois Citic Dicastal
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.

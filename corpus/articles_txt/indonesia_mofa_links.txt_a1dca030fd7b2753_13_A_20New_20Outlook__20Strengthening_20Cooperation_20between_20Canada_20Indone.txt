@@ -1,0 +1,2042 @@
+seed_url: https://kemlu.go.id/files/repositori/56594/13_A%20New%20Outlook_%20Strengthening%20Cooperation%20between%20Canada,%20Indonesia%20and%20ASEAN%20in%20the%20Indo-Pacific.pdf
+final_url: https://kemlu.go.id/files/repositori/56594/13_A%20New%20Outlook_%20Strengthening%20Cooperation%20between%20Canada,%20Indonesia%20and%20ASEAN%20in%20the%20Indo-Pacific.pdf
+title: 13_A%20New%20Outlook_%20Strengthening%20Cooperation%20between%20Canada,%20Indonesia%20and%20ASEAN%20in%20the%20Indo-Pacific.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+The authors of this document have worked independently and are solely
+responsible for the views presented here. The opinions are not necessarily those
+of the Macdonald-Laurier Institute, its Directors or Supporters, or those of the
+Foreign Policy Strategy Agency.
+Copyright © 2021 Foreign Policy Strategy Agency and Macdonald-Laurier Institute.
+May be reproduced freely for non-profit and educational purposes.
+Cover photo credits: Unsplash / Wikimedia Commons
+
+Contents
+Foreword
+Jonathan Berkshire Miller and Ben Perkasa Drajat  ................................................ 4
+The rise of Asia and the ASEAN Outlook on the Indo-Pacific
+Siswo Pramono  ................................................................................................................... 7
+Europe and the Indo-Pacific
+Rizal Sukma ........................................................................................................................ 17
+Canada’s engagement in the Indo-Pacific
+Jonathan Berkshire Miller  .............................................................................................. 21
+Reinvigorating a Canadian-Indonesia partnership in the Indo-Pacific
+Abdul Kadir Jailani  .......................................................................................................... 23
+Indonesia and the pursuit of cooperation in the Indo-Pacific
+Shafiah F. Muhibat  ........................................................................................................... 33
+Strengthening Canadian economic engagement in the Indo-Pacific
+Daniel Schwanen  ............................................................................................................. 40
+ASEAN outlook on the Indo-Pacific and the economic opportunity for Canada
+Leonard F. Hutabarat  ..................................................................................................... 46
+Strengthening the bilateral connectivity of Indonesia and Canada through
+the ASEAN outlook on the Indo-Pacific
+Ben Perkasa Drajat  ......................................................................................................... 53
+Papua as the gateway to trade and tourism activities in the Pacific
+Melyana R. Pugu  .............................................................................................................. 59
+
+4
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Foreword
+Jonathan Berkshire Miller and Ben Perkasa Drajat
+I
+ndonesia and Canada have enjoyed nearly seven decades of diplomatic rela-
+tions. Both states have also been increasing areas of convergence in recent
+years, both bilaterally and through multilateral forums. As Canada looks to tilt
+its outlook more purposely in the Indo-Pacific, it is only natural that a part -
+nership with Indonesia – as one of the biggest democracies and the founding
+member of the Association of South East Asian Nations (ASEAN) – should be
+enhanced.
+This compendium of articles is an inaugural collaboration between Indone -
+sia’s Foreign Policy Strategy Agency (known before as Policy Analysis and De -
+velopment Agency) and Canada’s Macdonald-Laurier Institute. The volume,
+the first of its kind, is aimed at two objectives. First, to highlight national
+views in both Indonesia and Canada of their respective strategies for engag -
+ing in the Indo-Pacific region. Second, and perhaps most importantly, these
+essays also outline the importance of the bilateral relationship between Jakar-
+ta and Ottawa, contextualized under the strategic rubric of the Indo-Pacific
+partnership.
+Indonesia has been a leader within ASEAN in promoting the development of
+the ASEAN Outlook on the Indo-Pacific (AOIP), which underscores for the first
+time some of the organization’s shared values and norms in the context of the
+Indo-Pacific. AOIP is the way in which ASEAN envisions the Indo-Pacific and
+the guiding principles for cooperation in the Indo-Pacific region.
+This is not an insignificant development. With cooperation and partnership
+as key principles of AOIP , it adds weight to the growing consensus that there
+is room both for ASEAN as the region’s central hub and regional architecture
+alongside the need to view the interlinkages between states in the broader
+Indo-Pacific.
+For Canada, the traditional lens to look at such engagement has been through
+the Asia-Pacific framing – defining the region largely through our experience
+
+5
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+in the multilateral architecture. Canada was a founding member of the Asia-Pa-
+cific Economic Cooperation (APEC) in 1990 and has been a dialogue partner
+in the ASEAN Regional Forum since its formation in 1994. Aside from these
+two main vehicles, Canada has been active in the international development
+space over the years and is a member of the Asian Development Bank, and
+more recently joined – while not before considerable internal debate – the
+Chinese-led Asian Infrastructure Investment Bank in 2017.
+Yet, despite having key interest in a stable and rules-based region, Canada
+seems late to both the Indo-Pacific game and in clearly and thoroughly ar -
+ticulating its rationale to invest in the region compared with other middle
+powers.
+It’s time for a paradigm shift, and for Canada – along with its traditional part -
+ners and allies – to assertively and unapologetically promote its interests in
+the Indo-Pacific region. The amity between Canada and ASEAN should be an
+ace card for Canada to use in the game as it is a testament to the recognition
+of ASEAN centrality. The volatility in the region underpins the need for Cana -
+da to work with our key democratic partners to push forward the rules-based
+liberal order. There is not an option to stay on the sidelines. Canada can and
+should play a role here to promote and stand for a free and open Indo-Pacific
+vision to promote these shared interests.
+It is our hope that this booklet will stimulate more discussions and thoughts
+in both countries on the importance of Indonesia and Canada to work togeth-
+er in the region for years to come.
+Jonathan Berkshire Miller is the Director of the Indo-
+Pacific Program at the Macdonald-Laurier Institute.
+
+Ben Perkasa Drajat is Director and Head of the Centre
+for Policy Analysis and Development of the American
+and European Region at the Ministry of Foreign Affairs
+of the Republic of Indonesia.
+
+6
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Part I:
+Indo-Pacific and the
+Geopolitical Context
+
+7
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+The Rise of Asia and
+the ASEAN Outlook
+on the Indo-Pacific
+Siswo Pramono
+T
+his essay will discuss the rise of Asia and the ASEAN Outlook on the In -
+do-Pacific (AOIP). While the increasing US-China rivalry has influenced
+the way strategists from the Association of Southeast Asian Nations (ASEAN)
+have crafted the AOIP , many have also anticipated the potential and prospects
+that the geo-economic shift to Asia offers. AOIP is part of the ASEAN contribu -
+tion in shaping the geopolitical shift to Asia.
+The rise of Asia is real
+In 2010, we saw an early sign of Asia’s rise. To be clear, I do mean the rise of
+Asia as a whole, and not just the rise of China. For that reason, I am including
+countries like Indonesia, India, and ASEAN member states, along with China.
+We also need to pay attention to the strategically important role of developed
+economies in the region, such as Japan, South Korea, Australia, and New
+Zealand.
+I will begin with a few statistics, specifically, the development of the G20’s
+combined GDP-Purchasing Power Parity (PPP) from 2000 to 2020, along with
+the projection to 2030. In 2000, Asian members made up 28 percent, North
+America made up 30 percent, and the European Union made up 30 percent
+of the G20’s total GDP . In 2020, 45 percent of the G20’s GDP was generated
+by Asian countries. The portion of the G20’s GDP that comes from North
+America has shrunk to 23 percent, and the portion from the European Union
+
+8
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+to 20 percent. Ten years from now, in 2030, Asia’s portion of GDP for the G20
+is projected to be 51 percent.
+Asia’s growing portion of the G20’s GDP is sustained by China, but also relies
+on the developing economies of India, Indonesia, and other ASEAN countries.
+However, the contributions of the developed economies of Asia-Oceania, such
+as Japan, South Korea, Australia, and New Zealand, are equally important.
+Converging towards open-regionalism
+What is particularly interesting is the level of Asian-Oceanian convergence.
+To prove that this convergence exists, we need to compare, for instance, the
+situation in 1990 with the one in 2019 – a span of about 30 years (Figure 1)
+FIGURE 1: ASIAN CONVERGENCE: ASEAN IS “CATCHING UP” WITH
+AUSTRALIA
+Figure 1 uses Australia as a benchmark; it is the most stable country in the
+region and its economy is also highly advanced. This exercise looks at the
+ratio of GDP per capita (PPP) of every country in the region and compares it
+with Australia’s at any given time (in this case 1990 and 2019). In so doing, it
+demonstrates how economies like ASEAN members, China, Japan, and South
+Korea have successfully “caught-up” with the Australian economy. As such, it
+Source: GDP per capita PPP Asia Oceania 1990 – 2019, Oxford Economics Global Data Workstation, 2021, processed by PADA MoFA.
+
+9
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+is evidence of economic convergence in East Asia and Oceania.
+The 45-degree line in Figure 1 is a guide that positions each country’s GDP
+per capita ratio to Australia’s in 1990 as compared to 2019. By comparing
+each country’s position, one can observe whether their GDP per capita ratio
+has increased or decreased in relation to Australia’s. Thus, for example, in
+1990, the GDP per capita of Brunei Darussalam was almost three times that
+of Australia’s, while in 2019 it decreased to only 1.5 times that of Australia’s.
+So, in 2019, the position of Brunei was relegated into a commensurate point
+located below the 45-degree line. The same interpretation applied to Japan.
+Meanwhile, ASEAN countries (including Indonesia), as well as China and
+South Korea have improved their GDP per capita ratio compared to Austra -
+lia’s between 1990 and 2019. For example, Singapore’s GDP per capita ratio
+was 1.25 times Australia’s in 1990, and improved to 1.90 times in 2019. As
+such, Figure 1 shows Singapore in 2019 positioned in a commensurate point
+above the 45-degree line.
+The more economies are located on the 45-degree line or above it, the more
+convergence is shown. When such a condition exists, the region is ready for
+open regionalism. The Regional Comprehensive Economic Partnership, or
+RCEP (a free trade agreement among Australia, Brunei, Cambodia, China,
+Indonesia, Japan, Laos, Malaysia, Myanmar, New Zealand, the Philippines,
+Singapore, South Korea, Thailand, and Vietnam), which was concluded in
+November 2020, is a good case in point. With the level of convergence among
+its members that Figure 1 describes, RCEP could potentially become the larg -
+est trading bloc in the world.
+This level of complexity is why we should not reduce the rise of Asia to the rise
+of China. With the level convergence described, the rise of Asia also means
+the rise of India (even though India is currently not a party to RCEP), ASEAN
+(Indonesia in particular), and many others.
+Economic cooperation is the mantra of ASEAN
+In East Asia – and in particular in ASEAN – the animo (or deep affection)
+among the member countries has always existed in the economy and busi -
+ness. From the day that ASEAN was established, the 1967 Bangkok Declara -
+tion clearly mentioned that the focus of ASEAN cooperation was the economy
+and culture. Political and security cooperation came much later.
+At the time, due to tensions stemming from the Cold War, discussions about
+possible political cooperation would have been deemed too sensitive. Only
+four years later, however, ASEAN declared the region to be a “Zone of Peace,
+Freedom and Neutrality,” which was meant to allow ASEAN member states to
+preserve their independence and economic development.
+
+10
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Political and security cooperation are strategically important, but because
+most ASEAN member states are developing nations that are struggling for
+economic advancement, the people of ASEAN – the middle class in particular
+– are keen to engage in economic and business deals. This bias was confirmed
+by a poll taken in 2018, the year that ASEAN formulated the ASEAN Outlook
+on the Indo-Pacific (AOIP). One of the poll results was that a majority of re -
+spondents considered the economy to be the biggest contributor to a sense of
+community among ASEAN citizens, overriding variables such as values, com -
+mon vision, politics, or even geography (ASEAN Secretariat 2019).
+In 2003, about 10 years after the establishment of the ASEAN Free Trade Area,
+ASEAN launched the ASEAN Business Advisory Council (ASEAN-BAC). This
+council’s mandate is to provide corporate feedback and guidance to strength -
+en ASEAN’s efforts to promote economic integration. The establishment of
+the council emphasizes that role of the private sector is becoming increasing -
+ly important in Southeast Asia and beyond.
+Corporations as determining actors in new
+international relations
+Of the 100 largest economic revenue generators in the world today, 29 of
+them are states and 71 are corporations (see Babic, Heemskerk, and Fichtner
+2018). Among the 71 largest companies, 25 are Asian, and this number is
+growing quite rapidly. At the present, those Asian companies are mostly from
+Japan, China, and South Korea. I anticipate that in the near future, big com -
+panies from India, Indonesia, and Malaysia will also be on the list.
+Through the pillar of the ASEAN Economic Community, ASEAN has intensified
+its promotion of small and medium-sized enterprises (SMEs), start-ups, and
+the attempts to incorporate them in the digital economy.
+Economic and business aspects aside, as ASEAN member countries – and East
+Asia more generally – are becoming more affluent, and as the region has been
+able to remain relatively stable, the level of national resilience has also been
+steadily improving. Of course some countries, like Myanmar and the Philip -
+pines, are still working hard to improve their economic performance. Hope -
+fully their attempts produce good results.
+The Fragile State Index and the Human Development
+Index
+The Fragile State Index (FSI) is a tool that measures national resilience. In
+general, the national resilience of Southeast Asian countries has improved
+between 2006 and 2019. Stronger national resilience can strengthen regional
+resilience. This positive development can be inferred from the annual Frag -
+ile State Index that the Fund for Peace, a Washington-based research centre,
+
+11
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+produces.
+The Fragile State Index empirically assesses the level of a state’s fragility as
+measured by 12 indicators. The index is a useful tool to measure national
+resilience among ASEAN member states (Figure 2).
+If the Fragile State Index curve slopes down (from a higher point into a lower
+point) the particular country is moving away from a fragile condition into a
+less fragile one. Conversely, if the curve slopes upwards, then a jurisdiction’s
+level of resilience is worsening. On the resilience score, the curves of most
+ASEAN countries tend to be sloping downwards, which means they are rela -
+tively better off than they were 15 years ago.
+A few countries are worth highlighting. The Philippines, for instance, went
+from a total score of 77 to 83 (the curve slopes up overall). At the top of
+the index for the entire 15-year period, Myanmar is the most fragile ASEAN
+country. Singapore, already in the strongest position at the bottom of the
+index in 2006, has improved its score further in the intervening years. The
+red, upward-facing arrow points to a worsening resilience while the green
+downward-facing arrow indicates an improving resilience.
+FIGURE 2: IN THE LAST 15 YEARS, ASEAN MEMBER COUNTRIES HAVE
+DEVELOPED REGIONAL RESILIENCE
+On the human development index (HDI), all ASEAN countries have been im -
+proving in the last 20 years. The HDI gives us a good picture of economic de -
+velopment, in particular how a country is progressing on economic welfare.
+In the case of ASEAN, all member states have improved their ranking on the
+HDI, as depicted in Figure 3.
+Source: Fund for Peace 2018, processed by PADA MoFA.
+
+12
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+FIGURE 3: ASEAN HUMAN DEVELOPMENT INDEX 2000-2018
+So, in the last 50 years of ASEAN development, we see that economic and
+business cooperation has been progressing well. However, as an association
+of developing countries, ASEAN still needs advanced economies as partners
+for development.
+ASEAN needs to develop strategic ties with both the
+US and China
+ASEAN has established free trade agreements (FTAs) among themselves (AFTA
+or the ASEAN Free Trade Area). While the AFTA has improved intra-trade
+among ASEAN members, it’s not effective enough to attract foreign direct
+investment. That is why ASEAN needs to enhance economic cooperation with
+other partners in the region and other advanced economies. The need to
+improve its strategic partnership with advanced economies, such as China
+and the US, despite the animosity between the latter two, has always been
+important for ASEAN.
+As such, since 2015 Asia’s rise has been coupled with the increasing strategic
+rivalry between the United States and China. The animosity materialized into
+a trade war, and has now become a technological war as well. The rivalry was
+made more complicated with the fragile situation in the East China Sea and
+the South China Sea. Specifically, the US increased freedom of navigation op -
+erations (FONOPs) in these two seas and China deployed missiles to the Para-
+cel Islands and established military facilities on some of the islands it claims
+as its territory. Military brinkmanship contributed to several incidents involv -
+ing US and Chinese warships. Worse, China refused to accept the Permanent
+Court of Arbitration’s ruling on its dispute with the Philippines. The region is
+also bedevilled by other crises, including the Indonesia-China stand-off over
+Source: UNDP Human Development Report 2020, processed by PADA MoFA.
+
+13
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+the Natuna Islands and the Vietnam-China stand-off over Vanguard Bank (the
+longest stand-off in the last decade).
+However, despite the increasing number of crises, regional economic con -
+vergence has safeguarded economic cooperation in the region, as previously
+discussed. Statistics show that total trade and inflows of foreign direct invest -
+ment (FDI) from China, South Korea, and other developed economies to the
+region have not been affected by these regional incidents.
+China and the US need ASEAN more than ever
+Interestingly, the flow of foreign direct investment to China has ceased – and
+in fact has turned negative. Even before the 2018 trade war with the US, the
+influx of FDI to China had long been decreasing, likely due to the increasing
+price of labour on the mainland. This has meant that China needs the region -
+al market to compensate for the lack of FDI.
+Coupled with the speculation (or calculation) that the US-China strategic
+rivalry – the trade war in particular – would turn from bad to worse, big
+corporations are under pressure to decide whether they are going to stay
+in China or diversify their value chain by investing in neighbouring regions
+and beyond. Their options include, among others: to relocate from China, to
+stay in China while opening a production branch outside China, or simply to
+reduce their production in China while increasing their production at their
+subsidiaries outside of China.
+The trend of diversifying away from China was made partly for economic
+reasons, including the increasing salary of China’s workforce. Further, the
+outbreak of COVID-19 in China has revealed the vulnerability of the current
+global value chain, which has also pushed companies to consider relocating
+their businesses.
+As such, while majority of American companies would likely to continue do -
+ing business in China, a 2018 poll shows that those who wish to relocate
+would likely move to ASEAN member countries rather than to other regions
+(Hayat 2019). ASEAN is a good choice for a diversified global value chain due
+to its improvement in regional resilience (i.e., political stability), large and
+growing market (i.e., the regional economic progress), and the fact that the
+regional economy is increasingly convergent.
+All the above developments were among those considered in the delibera -
+tions during the formulation of the ASEAN Outlook on the Indo-Pacific (AOIP)
+in 2018. The AOIP was adopted in June 2019, a short two years later.
+
+14
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Underlining the reasons for an inclusive AOIP
+2018-2019 were crucial years for the formulation of ASEAN’s vision of the
+Indo-Pacific:
+• The US-China strategic rivalry intensified under President Donald Trump.
+The two major powers “raced to the bottom” as the rhetoric of “American
+First” became a policy of Chinese containment and evolved into a trade
+war. This resulted in more FONOPs in the East and South China Seas,
+alongside China’s increasing assertiveness and bullying towards its small -
+er neighbours.
+• Power projection by these major powers toward the Pacific Ocean and
+Indian Ocean have intensified. Brinksmanship and military posturing in
+the East and South China Seas run the risk of miscalculation that can lead
+to unexpected incidents.
+• Indonesia and ASEAN member states are located in the fulcrum of In -
+do-Pacific, but are struggling to maintain their autonomy.
+• For Indonesia and ASEAN, choosing between the US and China would
+violate the longstanding principles of the Zone of Peace, Freedom and
+Neutrality (ZOPFAN) and the Treaty of Amity and Cooperation. Worse,
+such a choice is deeply prejudicial to the strategic needs of development
+partners.
+• As an economic community, ASEAN’s main interest is to promote econom-
+ic development, of which strategic partnerships with the US, China, and
+other partners must be maintained at least, and improved if possible.
+• The debates on AOIP were not immune from the strategic development
+of 2018-2019, namely, the rise of Asia, which has been cemented with
+the conclusion of the ASEAN-based Regional Comprehensive Economic
+Partnership (RCEP). RCEP has the potential to develop into the world’s
+largest trading bloc. Indonesia and its ASEAN counterparts will likely see
+the Indo-Pacific from this outlook.
+• AOIP , as a practical vision, must be able to help transform ASEAN into
+a competitive production base and an indispensable part of the global
+value chain.
+The Indo-Pacific as part of ASEAN’s vision
+The AOIP promotes four clusters of cooperation, each focusing on business
+and economic cooperation:
+
+15
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+• Since the realm of the Indo-Pacific is the “seascape” of the Pacific and In -
+dian Oceans, maritime cooperation should be the main priority.
+• As reinforcing the master plan of ASEAN Connectivity 2025 is a prerequi -
+site for transforming ASEAN into a competitive production base and an
+essential part of the global value chain, connectivity should be a focus of
+cooperation.
+• With ASEAN embarking on green and sustainable development, coopera -
+tion on Sustainable Development Goals  should be another priority.
+• Last but not least, economic cooperation  that can address development
+gaps in ASEAN is also important. Such cooperation encompasses, among
+other things, small and medium-sized enterprises, the digital economy,
+and preparing the region for the fourth industrial revolution.
+Conclusion
+We understand the anxiety about the Indo-Pacific among the major and mid -
+dle powers in North America and Europe. The nagging question for them is
+whether Asia’s rise is going to change the rules of the game as we know them
+today. What will happen with the liberal world order?
+Asia, particularly the group of developing countries in ASEAN, cannot survive
+alone. We need the world. In recent Asian history, the so-called Asian Tigers
+were the beneficiaries of the liberal world order. Partnership with Europe
+and North America has always been strategically important for cooperation in
+technology, finance, and investment.
+It is a fact that a reform of the world order is needed so that the global com -
+munity can keep up with strategic change, geopolitical and otherwise. That
+is why the UN, the WTO, and other international agencies representing the
+current global order and architecture have reform on their agendas. But all
+the reforms must be rules-based, inclusive, and be part of the spirit of alliance
+of multilateralism.
+Ultimately, the message emerging from both the rise of Asia and the ASEAN
+Outlook on Indo-Pacific is that the region needs to have more constructive di-
+alogue, more cooperation, and more partnerships with the rest of the world.
+Siswo Pramono is Director General/Head of Foreign
+Policy Strategy Agency (Policy Analysis and Development
+Agency) at the Ministry of Foreign Affairs of the Republic
+of Indonesia.
+
+16
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+ASEAN Secretariat. 2019. Poll on ASEAN Awareness 2018 . PoAA Report. ASE -
+AN Secretariat. Available at https://asean.org/asean2020/wp-content/up -
+loads/2021/01/Poll-on-ASEAN-Awareness-2018-Report.pdf.
+Babic, Milan, Eelke Heemskerk, Jan Fichtner. 2018. “Who is More Powerful
+– States or Corporations?” The Conversation , July 10. Available at https://the -
+conversation.com/who-is-more-powerful-states-or-corporations-99616.
+Fund for Peace. 2018. Fragile States Index. Fund for Peace. Available at https://
+fragilestatesindex.org.
+Hayat, Raphie. 2019. Leaving China: Which Countries Might Benefit from
+a Relocation of Production?  RaboResearch, August 8. Available at https://
+economics.rabobank.com/publications/2019/august/leaving-china-coun -
+tries-might-benefit-from-relocation-production
+Oxford Economics Global Data Workstation, 2021, https://data.oxfordeco -
+nomics.com
+United Nations Human Development Programme. 2021. Human Develop -
+ment Report 2020: The next frontier: Human development and the Anthro -
+pocene. United Nations Human Development Programme. Available at http://
+hdr.undp.org/en/2020-report.
+
+17
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Europe and the
+Indo-Pacific
+Rizal Sukma
+A
+s we enter the third decade of the 21st century, the shift in the world’s
+centre of gravity from West to East has become a key characteristic of
+global politics. That shift has been primarily due to, and shaped by, the rise
+of China. As the shift has also led to more competitive relationships among
+major powers, global and regional powers have begun to re-assess and re -
+conceptualize the strategic space where such competitive relationships take
+place. That space is no longer confined to East Asia. It has expanded to
+include the wider Indo-Pacific region; a region that integrates two strategic
+oceans – the Pacific and Indian Oceans – as a single strategic unit.
+Within that context, confining their role to only within the East Asian region
+no longer makes any strategic sense for global, major, and regional players.
+They began to articulate their views and strategy on how they want to shape
+the new strategic space of engagement: the Indo-Pacific regional order. For
+example, the US, China, India, Japan, and Australia have all come up with
+their own vision of how the region should be restructured. The Association
+of Southeast Asian Nations (ASEAN), at the 34th ASEAN Summit in June 2019
+in Bangkok, also articulated its own collective view, one called “the ASEAN
+Outlook on Indo-Pacific” or AOIP . The participants agreed, in light of the on -
+going strategic changes in the region, that ASEAN needs its own vision about
+the future of the regional order – one that represents ASEAN’s distinct view
+and voice.
+Key European countries have also taken a deep interest in the Indo-Pacific
+region and have begun to incorporate the growing importance of the re -
+gion into their foreign and security policies and strategies. Three countries
+have articulated their vision for the region: France (which calls it a strategy),
+
+18
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Germany (which calls it guidelines) and the Netherlands (which calls it a
+non-paper). The fact that three key EU members have made the case for a
+common EU approach toward the Indo-Pacific within such a short time is
+commendable, and the EU has recently adopted an official common view in
+fall 2021 Another European power, the United Kingdom, which just exited
+the EU, has also formalized its approach towards the Indo-Pacific with the
+launching of its “Integrated Review of Security, Defense, Development and
+Foreign Policy” in March 2021.
+Why are European countries interested in the Indo-
+Pacific?
+The recent surge of interest among key European powers in Indo-Pacific
+affairs clearly reflects the growing importance of the region. Even though
+the EU has played its role primarily as a civilian or normative power in the
+Asia-Pacific, it does have wide-ranging interests here. In fact, countries like
+France and Great Britain can even be considered “resident” powers, as they
+still maintain a physical presence and historical ties in the region. British
+Indian Ocean Territory, for example, is part of Britain’s overseas territories
+in the Indo-Pacific. Around 1.7 million British citizens live across the region.
+Many countries in the region are part of the Commonwealth, and Britain also
+maintains a military presence through military assets and facilities in Oman,
+Bahrain, Singapore, and Brunei. France also has overseas territories in the
+region, and around 1.5 million French citizens live across the Indo-Pacific. It
+also has 8000 French soldiers stationed there (Nouwens and Mohan 2021).
+There are at least five reasons why the Indo-Pacific has become attractive
+to the EU and the UK. First, there are geopolitical reasons. This European
+“pivot” to the Indo-Pacific, as mentioned earlier, reflects the growing under -
+standing in Europe that the world’s geo-economic and geopolitical centre of
+gravity has shifted from West to East. The future of Europe’s prosperity and
+security increasingly depends on the geopolitical and geo-economic dynam -
+ics of the Indo-Pacific. More importantly, the Indo-Pacific also serves as an
+emerging arena where great powers, especially the US and China, will define
+the future and the nature of their bilateral relationship. That, in turn, will
+affect the interests of many other countries.
+Second, economic interests and opportunities abound in the region, and
+Europe wants to tap the benefits. Asia accounted for more than 60 percent
+of global economic growth in 2018 and 2019 according to the International
+Monetary Fund. German exports to the Indo-Pacific rose by 7 percent in re -
+cent years. About a fifth of all Dutch imports comes from Asia. The Indo-Pa -
+cific is also important to Britain’s economic interests. Britain has growing
+bilateral trade relations with all key economies in the region, especially with
+China, Japan, South Korea, India, and ASEAN. Britain is also one of the larg -
+est sources of foreign direct investment in the region. European countries
+
+19
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+realize that they could benefit immensely from close economic cooperation
+with the Indo-Pacific countries.
+Third, the growing awareness of the geopolitical and economic importance
+of the Indo-Pacific is reflected in the third reason for Europe’s interest in
+deepening its engagement in the region, namely, the desire to maintain a
+rules-based order and preserve the importance of multilateral arrangements,
+both in political-security and trade. Members of the EU, especially Germany,
+France, and the Netherlands, have strategic interests in “the defence of mul -
+tilateralism” and “freedom of trade and access to the common spaces that are
+essential to [their] security and prosperity’” (Esteban and Armanini 2021).
+The EU and the UK both believe that their interests can be better served if the
+region continues to be open, inclusive, and rules-based, where multilateral
+institutions remain the main platform for cooperation.
+Fourth, Europe’s pivot to the Indo-Pacific is also driven by reasons of security,
+especially maritime security. Keeping shipping routes safe will be crucial to
+Europe’s trade with the region and beyond. About 90 percent of global trade
+is conducted by sea, with two-thirds of it passing through the Indo-Pacific. It
+is estimated that between 8 and 12 percent of all trade by the UK, Germany,
+and France passes through the South China Sea.
+In this context, European countries also see that keeping the Indian Ocean
+and the Pacific Ocean “free and open” is in their interests. This clearly sug -
+gests that the two oceans are crucial transport lanes between Europe and
+East Asia that ensure the supply of energy, food, and commodities. Histori -
+cally, maritime trade has been of paramount importance for Europe, where
+the annual value of trade between the EU and Asia in 2019 amounted to 1.5
+trillion. More importantly, 50 percent of the EU’s total maritime trade passes
+through the Indian Ocean (Iuppa 2020, 7).
+The fifth reason is the imperative of diversification. As Europe’s economic
+relationship with China grew rapidly and substantially, excessive reliance on
+China has also become a concern in many capitals of EU member states. Po -
+sitioning itself as a power that engages with the entire Indo-Pacific region
+would give the EU a better platform to expand and deepen its relationship
+with other regional powers. This is why the EU and the UK want to strength -
+Europe’s pivot to the Indo-Pacific
+is also driven by reasons of security,
+especially maritime security.
+
+20
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+en their relations and cooperation with India, Japan, and the middle powers
+in the Indo-Pacific (especially Australia, South Korea, and ASEAN member
+states).
+The characteristics of the European approach
+While individual European countries might have different views regarding
+the Indo-Pacific, they do share several characteristics. First, present in all
+visions and understandings of the Indo-Pacific is the emphasis on the rules-
+based international order. It implies that the rise of China somehow will
+have profound impacts on the existing (liberal) international order. What
+those impacts are is not very clear, and a few European countries might have
+different views on this issue. Yet, the EU pivot to the Indo-Pacific is the con -
+sequence of the rise of China as a great power. Deeper engagement with the
+Indo-Pacific reflects the recognition that the EU needs to respond and shape
+the changes taking place in the area.
+Second, the EU tends to embrace an “inclusive” approach, not too dissim -
+ilar from the ASEAN’s approach to the Indo-Pacific. The EU is cautious and
+clearly aware of the sensitivity surrounding the concept and seemingly wants
+to avoid any unnecessary misperceptions regarding its approach to the In -
+do-Pacific. The EU does not want to alienate China. In fact, it wants to strike
+a balanced approach. For example, it will “work with China on climate and
+stand up to China on human rights.” The question, however, is whether Bei -
+jing will welcome this approach. How the EU resolves the tension in such an
+approach remains to be seen.
+Third, at the same time, the desire to be inclusive means that this approach
+lacks clarity. If the EU’s goal is to contribute to stability in the Indo-Pacific by
+positioning itself as a bridge, it is not clear how it can play that role. The key
+issue in the Indo-Pacific is the growing Sino-US strategic rivalry. What is EU’s
+role here? Can and will the EU support the US? Or will the EU build a third
+force that tries to mitigate and moderate the rivalry? If so, how will the EU do
+that? These are the key crucial questions that need to be answered, not only
+by the EU but by other powers as well.
+Conclusion
+Key European countries have declared that they want to intensify and deep -
+en cooperation and engagement with Indo-Pacific countries. We have heard
+this sort of declaration many times before. However, the question remains
+whether Europe is really interested in the Indo-Pacific as a strategic region.
+There have been suggestions that it is only interested in China. Therefore, in
+order to remove this doubt, the EU needs to address the issue as it imple -
+ments its strategy. It needs to demonstrate and convince the regional coun -
+tries that Europe’s commitment to an inclusive, open, and free Indo-Pacific
+
+21
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+is real and genuine.
+Two unique challenges face the EU’s outlook and policy on the Indo-Pacif -
+ic. The first is the challenge of convincing China that the EU’s pivot to the
+Indo-Pacific is not meant to contain a rising China. Second, the EU will do
+well if it works with ASEAN member states to reconcile its own vision and
+approach on the Indo-Pacific with that of the ASEAN Outlook on Indo-Pacific.
+After all, both the EU and ASEAN emphasize the importance of inclusiveness
+and multilateralism in their respective visions of the regional order in the
+Indo-Pacific.
+Rizal Sukma is a Senior Fellow at the Centre for Stra -
+tegic and International Studies, Jakarta. From 2016
+to 2020 he was Indonesia’s Ambassador to the United
+Kingdom, Ireland, and the International Maritime Or -
+ganization (IMO) in London, England.
+
+22
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+Esteban, Mario, and Ugo Armanini. 2021. “European Indo-Pacific Strategies:
+Convergent Thinking and Shared Limitations.” Elcano Royal Institute, March
+10. Available at http://www.realinstitutoelcano.org/wps/portal/rielcano_en/
+contenido?WCM_GLOBAL_CONTEXT=/elcano/elcano_in/zonas_in/asia-pa -
+cific/ari30-2021-esteban-armanini-european-indo-pacific-strategies-conver -
+gent-thinking-and-shared-limitations.
+Iuppa, Giulia. 2020. An ‘Indo-Pacific Outlook’ for the European Union. Brief -
+ing Paper, July. European Institute for Asian Studies.
+Nouwens, Veerle, and Garima Mohan. 2021. “Europe Eyes the Indo-Pacific,
+But Now It’s Time to Act.” War on the Rocks, June 24. Available at https://
+warontherocks.com/2021/06/europe-eyes-the-indo-pacific-but-now-its-time-
+to-act/.
+
+23
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Canada’s
+engagement in the
+Indo-Pacific
+Jonathan Berkshire Miller
+T
+he Indo-Pacific is a pivotal region that has arguably become the world’s
+centre of geo-economic and geostrategic gravity. Indeed, the true litmus
+test for the rules-based order will be its ability to evolve and withstand the
+challenges in the Indo-Pacific in the coming years. The COVID-19 crisis has
+only heightened these challenges and proven the need for Canada to develop
+a robust, comprehensive, and multipronged approach to the region.
+This region, which connects the vast oceans of the Pacific and the Indian
+along with the states in between, is not a new geostrategic concept. Indeed,
+scholars and practitioners in the region have been using the idea of a broader
+geographic region – rather than more traditional subsets such as East Asia,
+South Asia, or the more expansive Asia-Pacific – for more than a decade. An
+Indian naval captain began using the concept in geopolitical terms over a
+decade ago, but the terminology has not been limited to scholars in Delhi.
+Japan’s former Prime Minister Shinzo Abe, back during his first stint as prime
+minister in 2007, spoke to India’s parliament about his country’s vision for
+the Indo-Pacific. During that visit, he noted a “confluence of the two seas” and
+pressed for a need to transcend the traditional frameworks that had often
+separated or minimized the geopolitical connections between South Asia and
+the Indian Ocean region with that of East Asia and the Pacific.
+While other countries have since developed Indo-Pacific approaches, it is cru -
+cial to remember that the intellectual origins of this kind of strategic thinking
+
+24
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+came from the region itself – especially from policy-makers and officials from
+Japan, India, and Australia – and will largely continue to evolve based on the
+strategic interests and resulting policy approaches from regional states. That
+said, other states invested in the Indo-Pacific have also been developing ap -
+proaches to the region in recent years, including the United States, Germany,
+France, the United Kingdom, the Netherlands, and others. These approach -
+es, while not identical and obviously premised on unique national interests,
+largely converge on a range of shared pillars – principally the need to main -
+tain a rules-based system in the region that prioritizes the peaceful settlement
+of disputes and follows international law. These approaches also underscore
+the importance of open and transparent infrastructure development in the
+region so as not to burden donor-recipient countries with heavy debt for in -
+frastructure projects that don’t serve their long-term interests.
+The importance of understanding the regional origins of the Indo-Pacific con -
+cept, including its articulation as a Free and Open Indo-Pacific (FOIP) first
+introduced by Japan, is essential for modifying an incorrect (yet often stated)
+framing of the FOIP – that is merely a hard stick created by the United States
+to curtail China’s rise. This narrative, which is often spun by detractors of
+Canada following through on an Indo-Pacific strategy of its own, misses the
+complexities of other states in the region and their shared interest in the FOIP
+principles that are often aligned, but not completely congruent, with those
+of the United States.
+Indeed, the rules-based liberal international order in the Indo-Pacific now
+faces serious challenges on a number of fronts: the rise of protectionism
+and widespread authoritarianism, the growing skepticism about liberal val -
+ues, and the malfunctioning of international institutions. These concerns are
+symptoms rather than a cause of the current stress on the international sys -
+tem. In the developed economies, there has been a widening income dis -
+parity gap and, consequently, disenfranchisement from citizens who are not
+benefitting from the financial successes of globalization. This has partially led
+to the growth of populist rhetoric and new political voices aimed at securing
+this “lost” part of the electorate in a range of countries in the West and be -
+yond.
+These economic tensions and dissatisfaction with the inequities of current in -
+stitutions have been inflamed by simultaneous challenges in the geopolitical
+landscape, with growing strategic rivalries and the marginalization of interna -
+tional law as a means of solving disputes. Helping to magnify these divisions
+even more is the rapid growth of digital tools and the intentional misuse of
+these capabilities – such as social media or cyber tools being used for misin -
+formation campaigns and to launch influence and interference operations.
+Advances in digital technologies have radically improved convenience across
+all aspects of society, from state administration and industry to individual
+
+25
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+lifestyles, and they have already reached an irreversible level. At the same
+time, however, negative phenomena such as cyberattacks against various tar -
+gets, fake news, interference in the elections of other countries, and national
+surveillance and data hoarding by authoritarian states have been adversely
+affecting the international order. The only peaceful way forward is for the in -
+ternational community to construct common rules compatible with advances
+in digital technologies.
+Moreover, the international rules-based order is also adapting to a rapidly
+evolving security environment with a host of territorial disputes, growing
+strategic rivalries, and the development of cutting-edge military technologies.
+The Indo-Pacific, in particular, is facing a host of shared security challenges,
+from maritime piracy and crime to heated territorial disputes. In this vast
+maritime space – stretching from East Africa to the Pacific Island chains – the
+foundations of regional commerce and security are achieved through free -
+dom of navigation and secure sea lines of communication. The governance
+of the region, which can’t be limited to a maritime framework, relies on se -
+cure supply chain connectivity and sustainable development that is done in a
+transparent and equitable way.
+There is significant economic opportunity in the region, especially given the
+large economies and diverse, fast-paced growth in many middle-sized econ -
+omies. The Indo-Pacific is now home to a growing web of important trade
+agreements that signal greater economic integration. Most importantly, there
+is the Comprehensive and Progressive Agreement for Trans-Pacific Partner -
+ship (CPTPP) – a highly ambitious trade deal involving 11 economies in re -
+gion, including Canada. In addition, the Regional Comprehensive Economic
+Partnership (RCEP) features other large economies not represented in the
+CPTPP , such as China, South Korea, Indonesia, and Thailand. Both agree -
+ments reassert the centrality of Southeast Asia as a trading hub and centre for
+regional integration. Alongside this economic growth is a large demand for
+infrastructure development in the region – some estimate the need for more
+than US$4 trillion in such developments over the next 20 years. Several pow -
+ers that have the ability to do so could fill this void by working with states in
+the region to fund these projects sustainably, based on fair-lending, transpar -
+ent institutions, and long-term planning.
+The imperative to diversify to our
+like-minded partners in the Indo-
+Pacific has never been stronger.
+
+26
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Yet, there remain a number of key challenges to the rules and order that
+have underpinned security and prosperity for states in the Indo-Pacific. In the
+South China Sea, Beijing continues to undercut international law and aims
+to subjugate its neighbours through extensive land reclamation, the impo -
+sition of military equipment and infrastructure, and the diplomatic splitting
+of states in the Association of Southeast Asian Nations (ASEAN). Meanwhile,
+Beijing also continues to raise regional concerns from its constant incursions
+into the maritime and airspace surrounding Japan’s Senkaku Islands in the
+East China Sea. China has also been ramping up its belligerence against its
+other neighbours, including increasing tensions at an alarming rate with In -
+dia along its disputed borders, and raising its coercion tactics against Taiwan.
+An increasingly confident and assertive China, in addition to other regional
+challenges such as North Korea’s growing nuclear weapons capabilities, have
+amplified a number of tripwires in the region that could, depending on their
+resolution, stall or upend the trajectory of the Indo-Pacific’s transformation.
+While the Indo-Pacific concept is not new to many states in the region, the
+discussion of it and its convergence with Canada remains at a nascent stage.
+Indeed, Canada’s traditional regional lens has long been framed in terms of
+the “Asia-Pacific” or “East Asia,” rather than from an Indo-Pacific angle. Con -
+textualizing this framing is important. Up until this point, the focal points
+of Canadian engagement have been premised on the multilateral forums
+through which it is engaged. Examples of this include Canada being a found -
+ing member of the Asia-Pacific Economic Cooperation (APEC) and the Asian
+Development Bank (ADB). Canada also is a long-standing Dialogue Partner
+with ASEAN and a member of the ASEAN Regional Forum. More recently, Can-
+ada has joined other organizations, including the Asian Infrastructure Invest -
+ment Bank (AIIB).
+To date, for the past several decades this multilateral underpinning of Can -
+ada’s engagement has been decidedly “Asia-Pacific” in its focus. Yet it has
+become increasingly clear that, while many forums in which Canada tradi -
+tionally engages remain relevant, its approach to the region is antiquated
+and in need of significant policy evolution. Some detractors might argue that
+Canada should not look at developing an Indo-Pacific approach because it
+would betray our commitment and experience to organizations and partner -
+ships centred around the Asia-Pacific, such as ASEAN and its related bodies.
+The short answer to these critics, however, is that the development of an In -
+do-Pacific approach in line with FOIP principles is not mutually exclusive or
+meant to replace our traditional engagement in the region. To the contrary,
+the development of an Indo-Pacific approach – which Ottawa is currently un -
+dertaking – would complement Canada’s current strategy by clearly outlining
+the stakes and interests Canada has in this pivotal region.
+A frequent critique from stakeholders and officials in the region is that Can -
+ada must take a more consistent and comprehensive approach that demon -
+
+27
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+strates an investment of time and capital that goes beyond mere trade and
+investment. Specifically, there is a need and desire – at least from most states
+– for a strong Canadian voice on political-security developments in the region,
+be it maritime security, nuclear non-proliferation, or the plethora of non-tra -
+ditional security challenges facing the region. This is where the tenets, rules,
+and values that form the basis of the emerging Indo-Pacific frameworks will
+help Canada better serve its interests and promote its role.
+Canada must become more engaged in the region in order to both profit
+from the region’s economic dynamism but also ensure that its interests in the
+Indo-Pacific are protected by enhanced participation on political and securi -
+ty issues. As Canada’s former foreign minister, John Baird, once noted: “We
+cannot afford to be a spectator. We know we have a contribution to make in
+shaping the future of Asia and Canada’s role in it. We know that Canada must
+take an active role in this part of the world. It’s simply not a choice; it’s not
+an option; it’s a national imperative” (Baird 2012). In sum, an antiquated
+“trade-first” strategy that downplays security challenges in the region is no
+longer tenable.
+Canada is not alone in grappling with these challenges and it will be impera -
+tive for the country to work ever more closely with such partners as the Unit -
+ed States, Australia, New Zealand, Japan, South Korea, the UK, and the EU, as
+well as with emerging partners India, ASEAN, and so on. Canada often under -
+estimates itself and its ability to build resiliency away from non-transparent
+markets, such as that in China. The imperative to diversify to our like-minded
+partners in the Indo-Pacific has never been stronger. This challenging period
+has also brought clarity of purpose and it should be seen as an awakening
+that will enable Canada to reorient and rethink about the nature of its part -
+nerships and priorities in the Indo-Pacific, and build an appropriate strategy
+to underpin this shift.
+Up until this point, successive Canadian governments have failed to lay out
+a clear strategy for how Canada can develop a robust role in the Indo-Pacific.
+Yet this crucial region will likely shape the world’s future. On the one hand,
+the Indo-Pacific contains four of the world’s five largest economies and over
+half of global GDP . On the other, it also plays host to some of the most signif-
+icant challenges to the rules-based international order, including managing
+China’s increasingly assertive behaviour, North Korea’s nuclear weapons pro -
+gram, tensions between India and Pakistan, conflicts over freedom of the seas,
+and much more. The threats and opportunities emanating from the region
+present Ottawa with a compelling need to engage the region more substan -
+tively. Through stronger collaboration with allies and partners, there is an
+opportunity for Canada to transform its role.
+Jonathan Berkshire Miller is the Director of the Indo-
+Pacific Program at the Macdonald-Laurier Institute.
+
+28
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+Baird, John. 2012. “ Address by Minister Baird to Canadian Council of Chief
+Executives,” Foreign Affairs Canada, September 24. Available at https://www.
+canada.ca/en/news/archive/2012/09/address-minister-baird-canadian-coun -
+cil-chief-executives-933829.html.
+
+29
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Reinvigorating a
+Canada-Indonesia
+Partnership in the
+Indo-Pacific
+Abdul Kadir Jailani
+A
+decade ago, the term “Indo-Pacific” was almost absent from the dis -
+course of international relations. But today the term is widely used to
+describe a geopolitical construct. It refers to the dynamic between the Indian
+and Pacific Oceans in which major powers, wealthy economies, and advanced
+regional blocs are trying to redefine their strategic visions, particularly as they
+relate to each other.
+Indeed, the region continues to experience geopolitical and geostrategic
+shifts. The game-changer is quickly becoming the rise of China. Triggered by
+the Belt and Road Initiative (BRI) unveiled in 2013 by China’s President Xi Jin-
+ping, the Trump administration subsequently announced the Free and Open
+Indo-Pacific (FOIP) initiative to counter China’s global strategy.
+According to the US, the BRI constitutes a grand strategic vision to seek he -
+gemony in the region, rather than being merely a series of infrastructure
+projects with smaller developing nations. Against this backdrop, the FOIP
+assumes that China’s economic and military rise is an international challenge
+that should be dealt with collectively. There is a shared belief that the growing
+influence of China challenges the international “liberal” rules-based order.
+Therefore, protecting this rules-based order should be at the heart of FOIP .
+
+30
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Furthermore, anchored in the logic of containing Chinese power, FOIP is in -
+herently imbued with an exclusionary and militaristic approach.
+Indonesia, however, believes that cooperation in the Indo-Pacific should not
+be framed merely under the logic of containment. At the same time, coopera -
+tion should not exclude a formal partnership that helps to solidify US military
+predominance in the region. For Indonesia, in a region that needs leadership,
+rivalry should not consume space for collaboration. This is particularly im -
+portant as the geopolitical interplay comes at a time when the Indo-Pacific is
+still grappling with various traditional and non-traditional security challenges,
+particularly the COVID-19 pandemic.
+Moreover, as one of the founding members and key players in the Association
+of Southeast Asian Nations (ASEAN), Indonesia believes ASEAN centrality is
+paramount as “the manager of regional affairs.” ASEAN must not be seen as
+passive and at a standstill when it comes to the dynamics of the region. To
+that end, Indonesia has played a leading role in encouraging ASEAN to face
+the security challenges of the region.
+Indonesia has called for ASEAN member states to develop a strategic commit -
+ment to cope with the Indo-Pacific as a geopolitical reality, and requests that
+every matter pertaining to it is best addressed through ASEAN mechanisms.
+To begin, ASEAN first needs to understand and identify how the regional bloc
+can leverage and adjust the competing visions of the Indo-Pacific. In this spir -
+it, at Indonesia’s initiative, in June 2019 ASEAN adopted the ASEAN Outlook
+on the Indo-Pacific (AOIP).
+The AOIP reflects ASEAN’s collective will to sign up to neither a China-centric
+order nor to a US-led strategic confrontation with China. Instead, it seeks a
+third way of managing differences through rules, non-coercion, and regional
+diplomatic institutions centred on ASEAN. Its inclusive character means that
+the AOIP  emphasizes engagement with all states in the region without excep -
+tion. Such an inclusive vision will make ASEAN the only acceptable platform
+for external powers to engage with in this pivotal region.
+Canada’s way forward
+The AIOP is essentially a strategic outlook that embraces “middle players” –
+key countries that are neither China nor the United States. In this context, it
+offers tremendous opportunity for a country like Canada to become more
+visibly engaged by playing a more active and consistent role in the region.
+Throughout its history, Canada’s diplomatic, military, cultural, and econom -
+ic orientation has focused on the North Atlantic. It is now time for Canada
+to start realigning itself to reflect a new reality – that the world’s centre of
+geo-economic and geostrategic gravity has moved from the North Atlantic to
+
+31
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+There is ample room for Canada to
+build greater synergy and closer
+collabo ration with Indonesia.
+the Indo-Pacific.
+By increasing its engagement in the Indo-Pacific, Canada can benefit from the
+region’s economic dynamism while also ensuring its interests are protected. A
+robust strategy for dealing with the political, security, strategic, and economic
+aspects of the Indo-Pacific region is becoming necessary, if not inevitable.
+Subsequently, Canada should also look for opportunities to become more
+intertwined with the growing regional groupings in the Indo-Pacific. In this
+regard, a strengthened strategic collaboration with ASEAN is clearly the most
+viable option. Canada can best accomplish this collaboration by recognizing
+ASEAN’s centrality and leadership within the Indo-Pacific. Any collaboration
+should continue to promote the two sides’ shared interests through existing
+ASEAN mechanisms, in which Canada has been very active.
+Canada’s Indo-Pacific approach must complement the AIOP and be done
+in a manner that advances the country’s national interest. It also needs to
+embrace the AIOP principle of inclusivity. A “normative alignment,” by com -
+mitting to the non-competitive regional order in Indo-Pacific, clearly offers
+valuable opportunities for Canada.
+Canada can build upon its excellent bilateral relations with Indonesia by hav -
+ing a more intensive engagement in the implementation of the AOIP . Not only
+has Indonesia played a pivotal role in the development of the AOIP , but it is
+also in a good position to support Canada’s accession to the East Asia Sum -
+mit, which will serve as the principal platform to address issues related to the
+AOIP’s implementation.
+Canada can contribute by helping to strengthen regional governance and
+rules of law as well as addressing common challenges such as climate change,
+water security, and illegal, unreported and unregulated fishing. Such engage -
+ment will also help reinforce Canada’s presence in the region.
+There is ample room for Canada to build greater synergy and closer collabo -
+ration with Indonesia, namely, by expediting the realization of an ASEAN-Can-
+ada free trade agreement, mitigating the consequences of the COVID-19
+pandemic, and boosting the digital economy at a regional level, to name a
+few. If successful, the Indonesia-Canada partnership would serve as a good
+
+32
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+global example of the way in which countries can accelerate the post-pan -
+demic economic recovery.
+A reinvigorated Indonesia-Canada partnership can offer positive and con -
+structive solutions to various challenges in this dynamic region. Such coop -
+eration will also further emphasize the excellent bilateral relations the two
+countries have had for almost seven decades. A stronger Indonesia-Canada
+partnership will not only enable both countries to stand the tests of our time
+and emerge stronger together, but also reinforce ASEAN’s centrality within
+the Indo-Pacific.
+Abdul Kadir Jailani is Director General for Asia Pacific
+and African Affairs at the Ministry of Foreign Affairs of
+the Republic of Indonesia.
+
+33
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Indonesia and the
+Pursuit of Cooperation
+in the Indo-Pacific
+Shafiah F. Muhibat
+I
+ndonesia’s place in the wider world has evolved profoundly since the end
+of Cold War. The country is now facing new actors, or actors with changed
+characteristics, new threats, new institutions, new platforms of engagement,
+and new arenas for state competition and cooperation. Many of these chang -
+es are courtesy of technological advancement.
+Amidst the ongoing international changes, Indonesia has become quite com -
+fortable relying on the status quo for its foreign policy. Historically, Indone -
+sia’s foreign policy doctrine, “ bebas aktif” or “free/independent and active,”
+has served as a permanent compass to guide the country’s foreign affairs
+since its independence (Hatta 1953). This overarching doctrine has translat -
+ed to a number of distinct policies, including the establishment of the Associ -
+ation of Southeast Asian Nations (ASEAN).
+ASEAN remains Indonesia’s traditional diplomatic vehicle. It is true that Indo -
+nesia has adapted its foreign policy in various ways – by introducing narratives
+such as the moderate Muslim-majority democracy rhetoric in the 2000s, the
+zero-enemies-thousand-friends slogan, and the much covered Global Mari -
+time Fulcrum. Yet none of these narratives have changed Indonesia’s inclina -
+tion for the status quo, which has kept the country loyal to its core principle
+of bebas aktif.
+Now the question is: has that approach allowed Indonesia to be sufficiently
+
+34
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+adaptive and flexible so it can effectively face the latest international and re -
+gional challenges?
+Indonesia and the Indo-Pacific
+Although the Indonesian lexicon has long recognized the connectedness of
+the Pacific Ocean and the Indian Ocean, the discussion about the “Indo-Pacific”
+per se started to readjust the existing narrative with the current great-power
+competition that began in the 2000-2010s. During his presidential campaign
+in 2014, Joko Widodo moved the discussion forward when he introduced his
+vision of the Global Maritime Fulcrum. He described Indonesia as being the
+fulcrum of the Indian Ocean and Pacific Ocean, thus portraying his country as
+a significant geostrategic player in the Indo-Pacific.
+In November 2014, after he became president, Widodo went on to share his
+Global Maritime Fulcrum with regional counterparts at the 9th East Asian
+Summit. The term “Indo-Pacific” was used for the first time in the Indonesian
+Foreign Ministry’s five-year strategic plan published in April 2015. Following
+this, Jakarta then hosted the Indian Ocean Rim Association’s High-Level Fo -
+rum in the first trimester of 2017.
+Coincidentally, the Indo-Pacific soon became a buzzword for the region. The
+United States made a relevant introduction of the term at the Asia-Pacific Eco -
+nomic Cooperation (APEC) CEO Summit in Da Nang, Vietnam, at the end
+of 2017; this event coincided with the release of the US National Security
+Strategy (NSS), which outlined the US Indo-Pacific Strategy (IPS). Japan and
+Australia (to name a few countries) followed the lead of the US IPS by using
+the Indo-Pacific term, which had a significant impact on Southeast Asia.
+In response to this trend, Indonesia opted to push for a collective outlook on
+the Indo-Pacific – one that could help address the gravity of the challenged
+posed by great power politics. In the ASEAN Foreign Ministers’ Retreat in
+2018, Indonesia conveyed its intention to work collaboratively on a collective
+outlook for the Indo-Pacific.
+I have previously discussed that Indonesia’s involvement in the Indo-Pacific
+narrative is to an extent a response to the increasing tension stemming from
+great power rivalry (Muhibat 2019). Southeast Asia has been on the receiving
+end of competing narratives on the Indo-Pacific driven by major actors. The
+concern, however, has been that the competing narratives have not really
+served Southeast Asia’s interests, yet are increasingly shaping the geopolitical
+dynamic of the region.
+In particular, Indonesia sees the US Indo-Pacific approach, which in the 2017
+NSS implicitly portrayed the Indo-Pacific region as a main battleground with
+its so-called adversaries and competitors, as a threat to ASEAN centrality.
+
+35
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Moreover, the Quad narrative, which was presented as a potential strategic
+coalition (consisting of the US, India, Japan, and Australia), sent a strong sig -
+nal that it might contest ASEAN centrality when the time is appropriate. This
+pushed Indonesia to respond by initiating talks with its regional counterparts
+on adjusting its geostrategic environment.
+On the other hand, since China introduced its Belt and Road Initiative (BRI),
+that country has been the major player in infrastructure projects in South -
+east Asia. Southeast Asian states have different relations with China, including
+with regards to BRI. Some are more welcoming than others, but there are
+general concerns about over-dependence on China. This is, to be fair, also the
+case with how Southeast Asian states view other major powers’ connectivity
+strategies (Muhibat and Kharisma 2020).
+Moral values that have many different interpretations – such as democracy
+and human rights, as promoted by the Indo-Pacific narratives of the great
+powers – could also be inferred as one of the driving forces for Indonesia’s
+eagerness to have a regional collective outlook. There is an emerging belief
+that such values could be used to stifle the engagement of certain Indo-Pacific
+countries that do not uphold the same standard as the great power.
+Working through ASEAN and the ongoing challenges
+On June 23rd 2019, the ASEAN Summit adopted the ASEAN Outlook on In -
+do-Pacific (AOIP). It has four key elements: the integration of the Asia-Pacific
+and Indian Ocean regions; the promotion of dialogue and cooperation in -
+stead of rivalry; development and prosperity of all; and the importance of the
+maritime domain in the regional architecture (Parameswaran 2019). Areas of
+collaboration include maritime cooperation, connectivity, sustainable devel -
+opment, and the economy.
+According to the AOIP , the regional architecture is envisioned to include con-
+cepts such as “inclusivity,” “collective leadership,” “ballast for the current dy -
+namism,” “inclusiveness,” alongside an effort to “liberate” ASEAN from the
+views of competing great powers. The AOIP , to some extent, is also seen as
+an effort to connect with and empower other potential partners. As this is a
+regional document, ASEAN fully intends to recognize the presence of non-
+ASEAN-led mechanisms and non-ASEAN countries through a region-to-region
+approach. It manifests in the point where AOIP looks for “cooperation with
+other regional and sub-regional mechanisms in the Asia-Pacific and Indian
+Ocean regions.”
+While it has been applauded as an important breakthrough, AOIP has also
+disappointed many of those who had high expectations of the strategy. AOIP
+does not explain what measures it will take in response to any escalation of
+conflict in the region, even though regional peace and stability are deemed
+
+36
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+necessary to guarantee this region’s sustainable growth. In addition to that,
+the AOIP should be understood as the way ASEAN guards its members and
+the region from the growing competition now evident between great powers.
+To quote a review critical of AOIP: it is “less as a security-driven phenomenon
+and more as an economic and connectivity-linked construct” and like “old
+wine in a new bottle” (Ha 2019).
+Two years after its conception, the promotion of AOIP is no longer as grand as
+it was in the past. Identification of the existing and forthcoming hot spots are
+necessary before differences in the Indo-Pacific region can be bridged. These
+hot spots include, among others, the South China Sea, the Indian Ocean, and
+the Korean Peninsula. The issues vary and range from traditional challenges
+– building overseas military bases, the race for potential regional submarines,
+nuclear warheads, increasing freedom of navigation operations by the great
+powers – to non-traditional ones.
+Seeking more cooperation
+We see several trends in the geopolitical “downturn,” i.e., dwindling trust
+towards multilateral forums, unilateral and populist foreign policy, and de -
+creasing global leadership. On the first point, there is apparent dissatisfaction
+with the way international organizations have dealt with newer challenges.
+In 2021, COVID-19 has intensified these trends. States are preoccupied with
+managing the outbreak in their respective countries, thus giving less priority
+and fewer resources to international issues because all are exhausted dealing
+with issues related to the pandemic. Moreover, restriction of movement has
+decreased interaction among states; countries have closed their borders and
+meetings and negotiations have been put on hold.
+During the pandemic, especially in its early phase, there was international
+outcry over how the World Health Organization handled the health crisis.
+Perhaps as a backlash to this, more states have opted for unilateral measures
+in foreign policy and have promoted populist policies. In the last few years,
+the role of being the provider of public goods and the sponsor of collective
+efforts appears to have diminished, especially for the state(s) with the capac -
+ity to do so, like the United States.
+What does this say about the Indo-Pacific? Indonesia sees the Indo-Pacific
+through a particular lens – specifically, its need for a stable order in the re -
+gion to maintain the life and growth of the state and its people, as well as to
+ensure that its borders and sovereign rights are respected by others. That is
+why its aim is eventually an Indo-Pacific that has less competition and rivalry,
+and more cooperation.
+
+37
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Of course, any Indo-Pacific regional architecture for Indonesia cannot and
+should not undermine ASEAN’s centrality in regional affairs. The Indo-Pacific
+constructs and mechanisms can co-exist with Indonesia’s own preference for
+multilateral institution building. From Indonesia’s point of view, emphasiz -
+ing ASEAN’s centrality in the regional architecture is necessary to establish a
+rules-based order and prevent extra-regional powers from shaping the region.
+But back to our original question: is this sufficient to allow Indonesia to adapt
+to current international and regional challenges? The answer is no. The In -
+do-Pacific is important, and Indonesia made the right move to shift focus to
+the larger Indo-Pacific. However, it will need a more comprehensive and in -
+novative strategy to face the current challenges. Now, in 2021, the Indo-Pacific
+is a different arena for state competition and cooperation than when ASEAN
+was first developed.
+Shafiah F. Muhibat is the Head of Department of
+International Relations at the Centre for Strategic and
+International Studies (CSIS) Indonesia.
+
+38
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+Ha, Hoang Thi. 2019. “ ASEAN Outlook on the Indo-Pacific: Old Wine in New
+Bottle?” Perspective. ISEAS Yushof Ishak Institute, June 25. Available at https://
+www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_51.pdf.
+Hatta, Mohammad. 1953. “Indonesia’s Foreign Policy.” Foreign Affairs, 31, 3
+(April): 441-452.
+Muhibat, Shafiah F. 2019. Indonesia and Indo-Pacific: Seeking the Proper Re -
+sponse to Great Power Politics. SWP Working Paper, Research Division Asia /
+BCAS 2019, November. Available at https://www.swp-berlin.org/publications/
+products/projekt_papiere/BCAS_2019_Muhibat_Indonesia_and_Indo-Pacific.
+pdf.
+Muhibat, Shafiah F., and M. Waffaa Kharisma. 2020. “Connecting the In -
+do-Pacific: ASEAN Amidst Compating Connectivity Strategies.” In Bart Gaens,
+Meghan Sharma, and Patrick Ruppel, eds, Responding to the Geopolitics of
+Connectivity: Asian and European Perspectives. Konrad-Adenauer-Stiftung
+Singapore.
+Parameswaran, Prashanth. 2019. “ Assessing ASEAN’s New Indo-Pacific Out -
+look.” The Diplomat, June 24. Available at https://thediplomat.com/2019/06/
+assessing-aseans-new-indo-pacific-outlook/.
+
+39
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Part II:
+Indo-Pacific and
+the Economic and
+Development Context
+
+40
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Strengthening
+Canadian economic
+engagement in the
+Indo-Pacific
+Daniel Schwanen
+I
+n coming years, Canada and countries of the Indo-Pacific region will seek to
+recover from the damage brought by the COVID-19 pandemic, by investing
+in and facilitating economic activities that can raise their respective peoples’
+standards of living.
+During the pandemic, technological change accelerated worldwide, some
+elements of global supply chains as well as domestic social infrastructure
+have been exposed as fragile, and concerns for environmental sustainability
+remained at the forefront of public agendas. At the same time, geopolitical
+tensions and economic rivalries among leading powers, and disenchantment
+with globalization in some countries experiencing slow increases in stan -
+dards of living, have led to the rise of more nationalistic economic policy
+approaches.
+In this context, a strengthening of ties between Canada and the rising “middle
+power” countries of the Indo-Pacific – and for simplicity’s sake I will concen -
+trate here on Association of Southeast Asian Nations (ASEAN) economies at
+the core of the Indo-Pacific region – can benefit both parties, by affording
+each more ways to navigate the shoals and benefit from tremendous tech -
+nology-led economic opportunities post-COVID, and in general giving each
+
+41
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+country more options and room to manoeuvre to chart its specific develop -
+ment course.
+Given these common interests, there is a lot of room for the development of
+mutually beneficial ties. Canada and ASEAN economies each have comple -
+mentary strengths in natural resources, agri-food, other manufacturing, and
+services such as tourism, logistics, software, and finance as Dan Ciuriak and
+I noted elsewhere ( Schwanen and Ciuriak 2020 ). Trade in medical devices,
+pharmaceuticals, as well as digital trade, and the development of related tech-
+nologies, seem particularly ripe for growth given the circumstances of the
+past two years.
+For all this bilateral trade potential, it would be a mistake to limit our thinking
+to how much more we can export bilaterally to each other. The focus must
+be on how Canadian investors, talent and skills, resources, and providers of
+services can work together with partners in the Indo-Pacific to better access
+and succeed together in world markets, not just in our respective domestic
+markets.
+Be it through a new Canada-ASEAN agreement, currently being mooted, or
+even bilateral agreements with countries interested in “going deeper” in facil -
+itating these interactions, or through new countries joining the Comprehen -
+sive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), Canada
+and countries of the Indo-Pacific could enhance their respective global com -
+petitive positions by working together more closely and purposefully.
+What’s holding us back? It would be fair to say, unfortunately, that Canadian
+engagement with the region, in the sense of a continued and prioritized polit-
+ical and commercial attention, has been sporadic. This attitude has bedevilled
+Canada’s approach to the Asia-Pacific more generally, despite efforts of some
+think tanks and good diplomatic relations. For example, Canada was very late
+in entering the type of economic arrangements that its competitors in the
+region, like the United States, the European Union, or Australia, embraced
+with more gusto.
+The cause of that sporadic attention is surely Canada’s natural focus on the
+United States, which is the market for nearly 70 percent of its exports of
+goods and services. That focus is unsurprising given Canada’s geography, its
+Canada and countries of the Indo-Pacific
+could enhance their respective global
+competitive positions by working together.
+
+42
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+comparative advantage in natural resources (alone of the G7 economies), the
+long-standing integration of both countries’ manufacturing, and the (pre-pan-
+demic) ease of movement of skilled and business people between the two
+countries.
+Canadians have encountered many successes in the US market in sectors en -
+compassing financial, educational, cultural, and transportation services, as
+well as exports of research and development, in addition to more traditional
+agriculture and manufacturing trade. Canada boasts a highly educated pop -
+ulation and its tech sector has been growing by leaps and bounds – the per -
+centage increase in the stock value of Canadian tech companies on Toronto’s
+stock exchange has risen as fast as that of the six US-based “big tech” compa -
+nies since 2016. Canada is also a significant net source of direct investment
+capital around the world.
+Despite these successes, Canada does not grow enough small companies
+into bigger ones, which hurts the country’s productivity performance overall.
+More Canadian companies need to seek growth outside of the North Amer -
+ican or European markets if Canada is to benefit from areas of likely higher
+growth opportunities globally. This is, or should be, a major incentive for
+Canada to strengthen its links with the Indo-Pacific, in addition to wanting to
+level the playing field in the region with traditional competitors.
+Conversely, the strong Canada-US links should be a major incentive for econ -
+omies in the Indo-Pacific to strengthen trade and investment relations with
+Canada. While two ASEAN member states – Singapore and Vietnam – already
+have freer trade with Canada through the CPTPP , a Canada-ASEAN agreement
+would help build a more resilient, flexible, and competitive platform for firms
+from Canada and ASEAN countries to access regional and global markets.
+Through their negotiating experience with Australia and New Zealand, and
+now with the European Unions, ASEAN member states would already have
+dealt with a range of sensitive issues with economies and societies roughly
+comparable to Canada’s. At the same time, a Canada-ASEAN agreement may
+offer a fresh opportunity to deepen bilateral trade rules with Canada on ar -
+eas of specific interest, such as digital trade or the temporary movement of
+workers.
+Such agreements open doors, but businesses need to walk through those
+doors to see how they can take advantage of them in practice. To capture the
+potential benefits of more open trade and investment between them, Canada
+and the ASEAN economies would need to facilitate the way for companies
+and institutions to take advantage of new opportunities.
+While Canada can boast hundreds of thousands of residents whose country of
+birth is the Philippines or Vietnam, let alone China or the major economies of
+
+43
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+South Asia, it does not have anywhere near the same links with other major
+ASEAN economies proportionately to their population. This can be a disad -
+vantage in developing stronger trade links.
+Yet common grounds for dialogue abound. For example, Canada has much
+more in common with Indonesia than is often realized – think vast and
+dispersed geography and populations, the role of provinces in economic
+governance, cultural diversity, the challenge of managing, developing, and
+exporting natural resources, or even health policy challenges.
+A specific Canada-Indonesia series of exchanges could help build beneficial
+business and institutional links around finding solutions to common prob -
+lems or working together on a common vision of the opportunities in sectors
+such as transportation, communications, and other services, or infrastructure
+investments. In the past, Canadian businesses have found doing business in
+Indonesia tough, but both countries could learn from each other to make
+the regulatory environment more predictable. Notably, Canadians would be
+interested in knowing more about the recently passed Omnibus Law on job
+creation in Indonesia, which would help foster bilateral links.
+Canada could similarly foster bilateral approaches with other countries in the
+Indo-Pacific, focused on practical matters that would be key to benefitting
+from future agreement. The focus would include:
+Fostering business-to-business linkages : Facilitate and track growth in joint
+business and/or research ventures and trade in commercial services includ -
+ing digital trade and movement of skilled personnel. These collaborations,
+investments, and exchanges should be seen as indicators that Canada and its
+partners are building more robust and competitive economies together.
+Encouraging small and growing businesses : Reduce trade, information, fi -
+nancing, and technology adoption costs for small businesses and foster a wel -
+coming environment for micro-multinationals. Taking these steps will foster
+growth in small businesses, which is essential to raising living standards in
+the diverse economies of Canada, Indonesia, or the Philippines.
+Collaborating on infrastructure, tourism and sustainable resources : Inno -
+vate around new goods and services and sustainable activities based on our
+Canada could similarly foster
+bilateral approaches with other
+countries in the Indo-Pacific.
+
+44
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+respective resources and adapt our logistics and infrastructure to take advan -
+tage of new post-COVID trends in demand, including demands for safety and
+security and public services.
+Seeking to share and jointly develop leading-edge technologies and skills
+and their beneficial applications : Sponsor fairs and virtual marketplaces
+around specific themes such as health, clean energy, and the use of artificial
+intelligence. Open these initiatives to businesses, research institutions, and
+professionals operating in Canada or ASEAN member states.
+In short, common interests and joint economic potential abound. During the
+strains on global trade in recent years, and during the COVID crisis in par -
+ticular, we have seen how Canada can collaborate with like-minded partners,
+including those in the Indo-Pacific, to maintain a rules-based international
+system that is as open as possible – a goal vital to future economic progress
+of so many of our economies.
+Building on this experience, Canada and countries of the Indo-Pacific need
+to foster stronger economic linkages between them. These links would help
+them realize not only their hoped-for rebound post-COVID, but also strength-
+en their competitive positions globally, and provide safety and reliability to
+each other as customers in an age that is lacking both.
+Daniel Schwanen is Vice-President of Research at the
+C.D. Howe Institute.
+
+45
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+References
+Schwanen, Daniel and Dan Ciuriak. 2020. “Canada and ASEAN Trade Agree -
+ment can Foster Economic Recovery, Development and Well-being.” CD Howe
+Institute, August 25. Available at https://www.cdhowe.org/intelligence-mem -
+os/schwanen-ciuriak-–-canada-and-asean-trade-agreement-can-foster-eco -
+nomic-recovery.
+
+46
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+ASEAN Outlook
+on the Indo-Pacific
+and the economic
+opportunity for
+Canada
+Leonard F. Hutabarat
+E
+conomic engagement and the need to boost trade relations between Can-
+ada, Indonesia, and the Association of Southeast Asian Nations (ASEAN)
+remain an important endeavour. Canada could engage Southeast Asia in an
+economic framework by establishing a regional trade agreement or increased
+bilateral trade with a particular country in the region. ASEAN, as a leading
+regional organization, could propose to have a regional free trade agreement
+(FTA) with Canada, especially in light of its position as one of Canada’s im -
+portant trade partners. Meanwhile, as the biggest market in Southeast Asia,
+Indonesia could also suggest the negotiation of a bilateral trade agreement
+with Canada.
+Canada’s engagements in a regional trade agreement
+It is very crucial for Canada and Indonesia, as well as ASEAN, to have a vision
+for the next five-year partnership. The way Canada engages with ASEAN coun-
+tries today can be seen in the Comprehensive and Progressive Agreement
+for Trans-Pacific Partnership (CPTPP). This trade agreement connects Canada
+
+47
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+to ASEAN member’s countries, such as Vietnam, Malaysia, Brunei, Singapore,
+and other major Canadian partners in the region, including Japan.
+In addition to the CPTPP , Canada also plays a role in the United States-Mex -
+ico-Canada Trade Agreement (USMCA), which replaced the North American
+Free Trade Agreement (NAFTA). This agreement is a formal and established
+way for Canada to penetrate big markets in the North American region. As
+well, Canada engages European Union (EU) countries under the Compre -
+hensive Economic and Trade Agreement (CETA), through which both parties
+enjoy reduced tariffs and which makes it easier to export goods and services,
+thereby benefitting people and businesses in both the EU and Canada.
+Since the CPTPP agreement entered into force, Canada became the only G7
+nation to have free trade access to North America, Europe, and the Asia-Pa -
+cific. Canada is thus able to easily engage with this triad of regional groups.
+The CPTPP creates a framework for trade that enables greater market access
+between member states. Ever since the agreement was ratified, the elimina -
+tion of tariffs abroad has stimulated Canadian foreign business activities. As a
+result, Vietnam has become Canada’s largest trade partner in ASEAN and one
+of Canada’s top 10 import countries alongside the US, China, Mexico, Germa-
+ny, Japan, South Korea, Italy, UK, and Brazil (Table 1). In 2020, the trade value
+between Vietnam and Canada reached almost US$9 billion. In the same year,
+the trade balance between Canada and many of its ASEANS partners such as
+Thailand, Vietnam, and Malaysia (except for Singapore) – all three also mem -
+bers of the CPTPP – showed a deficit on Canada’s side (Table 2).
+TABLE 1: MAIN EXPORTER COUNTRIES TO CANADA (IN US$ THOUSANDS)
+Country 2016 2017 2018 2019 2020 Jan - July 2020 Jan - July 2021 %
+United States 3,740,203 3,915,062 4,159,089 5,266,238 6,084,601 109.792.559 134.741.194 22,7
+China 2,377,630 2,543,369 2,749,382 2,820,403 2,635,067 29.366.280 36.486.323 24,2
+Mexico 1,956,616 2,146,102 2,301,598 2,145,732 2,274,700 11.853.047 15.034.205 26,8
+Germany 1,222,975 1,332,843 1,358,459 1,368,114 1,203,500 7.196.565 8.805.794 22,3
+Japan 897,010 996,390 1,138,210 1,284,968 1,126,372 5.406.240 7.519.996 39,0
+Korea, South 1,023,241 1,072,328 1,118,999 1,208,123 885,755 3.880.615 4.721.111 21,6
+Italy (incl. Vatican
+City State) 746,375 774,727 981,494 924,849 878,984 3.613.385 4.747.638 31,3
+Vietnam 62,135 93,595 101,273 137,834 130,381 2.933.454 4.261.237 45,2
+United Kingdom 19,337 24,191 50,397 35,854 22,561 3.421.754 3.790.660 10,7
+Brazil 1,571 4,167 5,807 296 1,379 2.653.197 3.207.773 20,9
+Sub-total 12,047,092 12,902,774 13,964,707 15,192,411 15,243,299 180.117.101 223.315.936 24,0
+Others 390,451,029 419,915,911 445,939,858 438,237,455 388,999,175 41.407.079 52.548.700 27,0
+Total All Countries 402,498,121 432,818,685 459,904,565 453,429,866 404,242,474 221.524.181 275.864.636 24.5
+Source: Canada 2021
+
+48
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+TABLE 2: ASEAN–CANADA TRADE BALANCE (IN US$ THOUSANDS)
+Approximately 70 percent of Canada’s worldwide imports comes from the US
+and Mexico. Canada’s other import partners include, from Europe, Germany,
+Italy, and the UK, and from the Asia-Pacific, China, Japan, and South Korea.
+Canada’s major import partners in Southeast Asia are Vietnam, Thailand, and
+Malaysia (Table 3); the CPTPP agreement helps facilitate economic partner -
+ships between Canada and these countries as compared to Indonesia, which
+is outside the agreement.
+Given these facts, it is important for Canada to consider Indonesia as a po -
+tential market – especially given its large population of 270 million and its
+position as one of Asia’s emerging markets. Indeed, in the long run, it would
+be very beneficial for both countries to have a bilateral trade agreement with
+each other. 1 The start of Indonesia-Canada Comprehensive Economic Part -
+nership Agreement (ICA-CEPA) negotiations is expected to give Indonesian
+and Canadian business leaders the confidence to forge mutually beneficial
+business deals.
+Which countries will be Canada’s main export partners? According to Statis -
+tics Canada, among the top 10 exporters to Canada are the United States, Chi-
+na, Japan, Mexico, and South Korea. This fact underscores the relationship
+Canada has with its trade partners.
+Apart from China, most of these countries already have a trade agreement
+with Canada. In the investment sector specifically, most of Canada’s interna -
+tional investments are in North America, with the remainder spread across
+Country 2016 2017 2018 2019 2020 Jan - July 2020 Jan - July 2021 %
+United States 3,740,203 3,915,062 4,159,089 5,266,238 6,084,601 109.792.559 134.741.194 22,7
+Indonesia -122,271 -1,496 298,740 85,120 128,825 94,934 233,972 146.5%
+Singapore 217,304 230,388 -54,081 223,775 42,401 52,404 53,816 2.7%
+Brunei Darussalam 7,511 -1,704 -811 6,316 5,508 2,220 2,186 -1.5%
+Laos -10,683 -19,468 -47,754 -33,711 -20,654 -13,457 -13,527 -0.5%
+Myanmar -32,812 -63,017 -74,508 -98,593 -91,005 -53,819 -44,109 18.0%
+Philippines -550,482 -423,545 -362,570 -659,676 -219,521 -39,053 -80,929 -107.2%
+Cambodia -865,856 -956,742 -1,077,683 -1,229,769 -1,103,695 -569,544 -727,952 -27.8%
+Malaysia -1,420,957 -1,592,714 -1,696,413 -1,540,653 -1,606,983 -726,613 -1,312,788 -80.7%
+Thailand -1,697,278 -1,980,732 -2,146,656 -2,155,707 -2,039,889 -1,101,345 -1,402,028 -27.3%
+Vietnam -3,341,641 -3,104,694 -3,325,116 -4,517,350 -5,540,833 -2,604,975 -3,941,836 -51.3%
+Sub-total -7,817,165 -7,913,724 -8,486,853 -9,920,248 -10,445,845 -4,959,248 -7,233,196 -45.9%
+Others -4,621,753 -4,363,652 -459,089 3,108,093 -4,472,704 -2,777,654 13,670,198 592.1%
+Total All Countries -12,438,918 -12,277,375 -8,945,942 -6,812,155 -14,918,549 -7,736,903 6,437,002 183.2%
+Source: Canada 2021
+
+49
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Europe and Latin America, and with just a small number in Asia. Indonesia’s
+Ministry of Investment notes that around 90 percent of Canada’s investment
+in the country is concentrated in the mining sector. Indonesia should find
+ways to develop investment relations with Canada to benefit both countries,
+including by exploring potential investment in other sectors.
+TABLE 3: MAIN ASEAN EXPORTER COUNTRIES TO CANADA (IN US$
+THOUSANDS)
+Future Canadian engagement in Southeast Asia
+Canada is a strong believer in fair trade and plays an active role in maritime
+trade. With this in mind, what would be the best way for Canada to engage
+with ASEAN? Indonesia and Canada share common interests in health care
+technology, renewable energy, infrastructure, connectivity logistics or trans -
+portation, and the digital economy.
+It is also important for Indonesia to consider promoting investment oppor -
+tunities to a Canadian audience. Most Canadian investors are not aware that
+Indonesia has abundant natural resources and many investment projects. The
+Indonesian government should have clear and simple procedures and regula -
+tions for foreign investors to follow. Doing so would attract more foreign in -
+vestment to Indonesia. In addition, it is also important for Indonesia to know
+what factors will attract Canadian investors. For example, Canadian investors
+are interested in investment projects with a fast payback and a Return on In -
+vestment (ROI) calculation above 25 percent in a 20-year period.
+No. Countries 2016 2017 2018 2019 2020 January - July
+2020
+January - July
+2021 %
+1 Vietnam 3,740,203 3,915,062 4,159,089 5,266,238 6,089,343 2,933,454 4,261,237 45.26
+2 Thailand 2,377,630 2,543,369 2,749,382 2,820,403 2,634,791 1,442,819 1,822,971 26.35
+3 Malaysia 1,956,616 2,146,102 2,301,598 2,145,732 2,274,616 1,153,893 1,743,356 51.08
+4 Indonesia 1,222,975 1,332,843 1,358,459 1,368,114 1,203,542 683,761 846,176 23.75
+5 Cambodia 897,010 996,390 1,138,210 1,284,968 1,127,122 582,234 748,754 28.6
+6 Philippines 1,023,241 1,072,328 1,118,999 1,208,123 885,864 452,357 604,181 33.56
+7 Singapore 746,375 774,727 981,494 924,849 878,984 573,014 471,243 -17.76
+8 Myanmar 62,135 93,595 101,273 137,834 130,632 68,985 58,589 -15.07
+9 Laos 19,337 24,191 50,397 35,854 22,559 14,181 16,748 18.1
+10 Brunei Darussalam 1,571 4,167 5,807 296 1,379 1,112 356 -67.91
+Sub-total 12,047,092 12,902,774 13,964,707 15,192,411 15,248,832 7,905,814 10,573,617 33.74
+Others 390,451,029 419,915,911 445,939,858 438,237,455 389,218,761 213,618,366 265,291,018 24.19
+Total All Countries 402,498,121 432,818,685 459,904,565 453,429,866 404,467,593 221,524,181 275,864,636 24.53
+Source: Canada 2021
+
+50
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+Canada also has strength in health care technology and renewable energy,
+in line with Indonesia’s national investment priorities. Therefore, Indonesia
+should consider investing in health care technologies such as medical iso -
+topes for hospitals given that Canadian companies that manufacture medical
+isotopes are the main players in the world for this product. Indonesia could
+also consider developing green technology for renewable energy from Can -
+ada.
+Despite the various trade agreements, Canada and its partners in Asia con -
+tinue to face hundreds of trade or non-tariff barriers. If we could eliminate
+these barriers, cooperation in the future could move quickly in the short- and
+medium-term. Canada’s Ambassador to Indonesia, Cameron MacKay (2021),
+has already agreed to possible free trade agreements with both Indonesia
+and ASEAN. Canada should consider the sizeable market offered by the entire
+ASEAN region, not only for trade but also for investment.
+Such agreements focus not only on engagement among diplomats or govern -
+ment officials; they also promote multi-track diplomacy. They are not limited
+to naval, defence, or army-related engagement; they are also a means to pro -
+vide trade investment and economic cooperation. Ultimately, it is important
+for both regions to engage business players and communities since they will
+be the backbone of future cooperation.
+If negotiations for an ASEAN-Canada Free Trade Agreement prove difficult
+given the need for consensus among ASEAN members, Indonesia and Canada
+could negotiate a bilateral agreement.
+Indonesia is considered the heart of ASEAN and plays a key role in shaping
+the regional economy. Likewise, Indonesia and Canada are fellow members of
+the G20 and a comprehensive economic partnership between the two coun -
+tries will facilitate the strategic cooperation between the two economic pow -
+ers. It seems that Canada has found it difficult to avoid the influence of both
+China and the United States. As such, Canada’s engagement in the ASEAN
+region, and specifically with Indonesia, could prove beneficial.
+Economic and trade engagement are not only about connecting two business
+partners. Canada has a strong expertise in logistics and transportation, which
+are important for building the maritime connectivity needed for business and
+Indonesia is considered the heart of
+ASEAN and plays a key role in shaping
+the regional economy.
+
+51
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+investment. Canada is also well advanced in energy-related infrastructure,
+which the ASEAN region, including Indonesia, needs. These areas of poten -
+tial cooperation are crucial for developing the economy and for the sake of
+the common future.
+Many factors could attract Canada to forge a trade alliance with the ASEAN
+region. By doing so, Canada could diversify its partners – not only partners in
+the US and Mexico, but partners in the wider Asia-Pacific region.
+The ongoing FTA negotiation between ASEAN and Canada, or even the bilat -
+eral FTA between Indonesia and Canada, will be a historical breakthrough in
+Canada’s engagement in the Indo-Pacific.
+Leonard F. Hutabarat has been the Consul General of
+the Republic of Indonesia in Toronto since 2018.
+
+52
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+Canada. 2021. Report - Trade Data Online . [Customized search.] Govern -
+ment of Canada. Available at https://www.ic.gc.ca/app/scr/tdst/tdo/crtr.html.
+MacKay, Cameron. 2021. “ASEAN Outlook on the Indo-Pacific and Economic
+Opportunities.” Statement during Focus Group of Discussion. Policy Plan -
+ning and Development Agency, Ministry of Foreign Affairs, Republic of Indo -
+nesia, April 7.
+Endnotes
+1 Indonesia and Canada recently agreed to start negotiations on the Com -
+prehensive Economic Partnership Agreement (CEPA). The agreement
+to begin negotiations was formalized with the virtual signing of a joint
+statement on June 20, 2021, between the Indonesian Minister of Trade,
+Muhammad Lutfi, and the Canadian Minister of Small Business, Export
+Promotion and International Trade, Mary Ng. The agreement became a
+milestone in the bilateral relationship between Indonesia and Canada,
+particularly by establishing closer and comprehensive economic cooper -
+ation.
+
+53
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Strengthening the
+bilateral connectivity
+of Indonesia and
+Canada through the
+ASEAN outlook on the
+Indo-Pacific
+Ben Perkasa Drajat
+W
+ith the region’s rapidly shifting geo-economic and geopolitical dynam-
+ics, Southeast Asia has become a strategic hub for major powers and a
+focus of their potential frictions. For this reason, leaders of the Association of
+Southeast Asian Nations (ASEAN) officially endorsed and adopted the ASEAN
+Outlook on the Indo-Pacific (AOIP) at the 34th ASEAN Summit in Bangkok in
+2019.
+AOIP’s main objective is to create an environment that will foster peace and
+stability in the region by addressing security challenges and promoting pros -
+perity through closer economic cooperation. AOIP also reinforces ASEAN’s
+ongoing efforts to advance cooperation – through existing mechanisms – with
+other countries. As such, AOIP plays an important role in strengthening ASE -
+AN relations with its key partners, including Canada. Indeed, it guides ASEAN
+and Canada as they work to enhance cooperation in key priority areas such
+
+54
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+as achieving sustainable development goals by 2030 (SDGs 2030), enhancing
+economic cooperation, and contributing to greater regional integration.
+Integration and interconnections among the countries of the Indian Ocean
+and the Pacific Ocean will not happen unless all parties make an effort to
+build a sound connectivity infrastructure, including physical, institutional,
+and people-to-people linkages. This article focuses on how Indonesia and
+Canada can use trade, within the framework of AOIP , to strengthen their con-
+nectivity.
+Bilateral economic relations between Indonesia and
+Canada
+In 2020, trade between Indonesia and Canada totaled US$2.4 billion. Indo -
+nesian imports from Canada have continued to grow in the past five years. In
+fact, Indonesia is Canada’s largest export market in Southeast Asia (Govern -
+ment of Canada 2019).
+TABLE 1: THE INDONESIA-CANADA TRADE BALANCE, 2016-2020
+(US$ THOUSANDS)
+To better enhance economic cooperation, Indonesia’s Policy Analysis and De -
+velopment Agency developed a composite index to identify Indonesia’s 30
+top markets and 30 potential markets. The index is built using the following
+six indicators: the average value of imports from partner countries; the aver -
+age value of exports to partner countries; the average market share/contri -
+bution to non-oil and gas exports to partner countries; Indonesia’s average
+market share in partner countries; the trends in imports from Indonesia’s
+partner countries; and the trends in Indonesia’s exports to partner countries.
+Based on this index, Canada is Indonesia’s 12th top market, and its second in
+the Americas. However, the trade figures between the two countries does not
+reflect the real potential.
+Using various measuring instruments, we are able to gain a better sense of
+market complementarity and can better identify products that Indonesia
+Description 2016 2017 2018 2019 2020 Trend,
+2016 – 2020 (%)
+Total Trade 2,115,477 2,374,859 2,754,638 2,696,923 2,404,510 3.91
+Export 732,447 821,233 913,889 858,206 789,050 1.95
+Import 1,383,029 1,553,625 1,840,749.5 1,838,717 1,615,460 4.91
+Trade Balance 650,582 -732,392 -926,860 -980,511 -826,410 -8.01
+Source: Ministry of Trade, Republic of Indonesia 2020.
+
+55
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+could potentially and more competitively export to Canada. These include
+items like telephones for cellular networks, data processing machines, and
+communications apparatus, all of which could potentially strengthen the bi -
+lateral connectivity between the two countries.
+While most of the industries that have export potential are still dominated
+by natural resources products, several strategic industries, including those
+producing electrical machines, vehicles, and optical apparatus, are on the
+rise; focusing on those areas could enhance connectivity between the two
+countries in the long-term.
+Encouraging SMEs to cooperate in the pursuit of
+economic growth
+ASEAN believes that everyone should cooperate in the quest for economic
+growth and that no one should be left behind. That’s why ASEAN places a
+heavy emphasis on the principle of inclusivity in the AOIP , which means that
+all stakeholders must be involved, including small and medium-sized enter -
+prises (SMEs) as the key drivers of inclusive growth.
+SMEs represent 99.9 percent of all businesses in Indonesia and 99.8 percent
+of businesses in Canada. They contribute to 61.1 percent of GDP in Indonesia
+and 55.3 percent of GDP in Canada. Further, SMEs account for 97 percent of
+employment in Indonesia and 68.8 percent of total employment in Canada.
+In an increasingly integrated global economy, the extent to which SMEs are
+participating and benefitting from economic cooperation will determine the
+strength of the relationship between Indonesia and Canada.
+In this regard, showcasing and implementing each country’s best practices for
+SME policy will send a strong policy signal that both countries are committed
+to cooperate on trade and investment. Because SMEs are the majority busi -
+ness stakeholders in both countries, successfully linking SMEs in Indonesia
+with those in Canada would also ensure that the trade agenda is inclusive and
+sustainable.
+Despite their pivotal role, SMEs are more likely to be resource constrained
+than larger firms when they seek to take advantage of the benefits from trade
+and investment liberalization. Based on a 2018 survey by Canada’s Asia-Pacific
+Foundation, SMEs in Indonesia face a wide range of issues. Most (70 percent)
+cited lack of access to financing as their main barrier to growth. Micro and
+small enterprises in particular rely heavily on family for financing; they pur -
+sue formal financing only as a secondary option as the barriers to attaining
+such financing are high.
+Another significant barrier to growth in Indonesia is human capital (identified
+by 32 percent of survey recipients). Indonesia ranks 65th out of 130 countries
+
+56
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+assessed in the Global Human Capital Index. The ability to attract and retain
+talent remains the biggest challenge for human capital development in the
+country.
+While these factors present challenges, they could serve as a good starting
+point for cooperation with Canada. Canada could provide capacity-building
+assistance for SMEs, which could be done through the following key avenues:
+Joint Canada-OECD projects to assist ASEAN SMEs . Previously, the govern -
+ment of Canada and the OECD initiated the “Canada-OECD Projects on ASE -
+AN SMEs,” which was designed to help empower SMEs in ASEAN member
+countries. Through the project, Canada sought to encourage ASEAN SMEs to
+formulate policies and programs that would enable them to enter the global
+supply chain.
+Digital economy (e-commerce for SMEs) . The digital transformation has
+opened up a range of opportunities for SMEs in both countries. It has con -
+tinued to enable them to innovate with their products and services, improve
+their market intelligence, ease their access to talent, more easily secure fi -
+nancing, and enhance their competitiveness in local and global markets.
+However, before SMEs can take advantage of the many digital opportunities
+that abound, they must also have increasing mobile device penetration and
+better infrastructure.
+The industry is currently growing in an incredible speed. This year revenue
+in the eCommerce market is projected to reach US$38.2 billion in Indone -
+sia and US$32.4 billion in Canada. Revenue is expected to show an annual
+growth rate of 10.2 percent in Indonesia and 5.6 percent in Canada. In Indo -
+nesia, mobile user penetration will be 57.4 percent in 2021 and is expected
+to hit 77.0 percent by 2025. Meanwhile, in Canada, user penetration will be
+72.5 percent in 2021 and is expected to hit 77.6 percent by 2025. The aver -
+age annual revenue per user is expected to be US$240.75 in Indonesia and
+US$1,175.93 in Canada.
+In addition, greater access to financing needs to be prioritized. This can be
+done in the following ways:
+The digital transformation has
+opened up a range of opportunities
+for SMEs in both countries.
+
+57
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Improving access to micro loans/low-interest loans and grants, and pro -
+moting a user-friendly online information portal . Such measures will help
+address information barriers and allow greater sharing of market and busi -
+ness-related information. Social media platforms, traditional media, crowd -
+funding applications, peer-to-peer lending, among other means, could help
+policy-makers raise awareness of funding opportunities.
+Expanding cross-border SME financing . Lack of financing, particularly trade
+and supply chain financing, is a key constraint to the internationalization of
+SMEs. Therefore, facilitating the cross-border flows of financing and financial
+instruments (e.g., credit, credit guarantees, and particularly trade and supply
+chain finance) is especially important to encourage SMEs to go international.
+Conclusion
+The bilateral connections between Indonesia and Canada could be strength -
+ened by further encouraging trade and investment between the two. SMEs
+are indispensable to the economic growth of both countries and their in -
+volvement should be promoted within the framework of AOIP in order to
+ensure that both countries foster inclusive economic cooperation. As the
+e-commerce sector in both countries continues to grow, it will become one of
+the areas most appropriate for potential further development.
+Ben Perkasa Drajat is Director and Head of the Centre
+for Policy Analysis and Development of the American
+and European Region at the Ministry of Foreign Affairs of
+the Republic of Indonesia.
+
+58
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+References
+Government of Canada. 2019. “Canada-Indonesia Relations.” Government
+of Canada, May. Available at https://www.canadainternational.gc.ca/indone -
+sia-indonesie/bilateral_relations_bilaterales/canada-indonesia-indonesie.as -
+px?lang=eng.
+
+59
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Papua as the gateway
+to trade and tourism
+activities in the Pacific
+Melyana R. Pugu
+T
+he Pacific region is in demand by many major countries as a destination
+for economic activities, especially trade and investment, and serves as a
+cross-border route between major countries such as China, the United States,
+India, and Australia, among others. With its generally favourable geopolitical
+and geoeconomic conditions, the Pacific is currently an area of significant
+interest for many countries in the world, including Indonesia.
+There is no denying that Indonesia has not paid enough attention to the
+Pacific region, especially when it comes to seeing the small countries in the
+South Pacific as attractive economic cooperation partners. Is it because these
+countries are too small and will not provide economic benefits for Indonesia?
+Indeed, some of these countries’ income per capita is about the same as the
+regional income in Indonesia. However, Indonesia should not discount the
+potential for good neighbourly relations with this region. Engagement will
+certainly prove beneficial when connectivity or connectedness occurs, espe -
+cially if accompanied by economic improvement and investment growth as
+well as social and cultural activities across communities.
+Similarly, Papua – one of the biggest provinces in Indonesia with a majority
+Melanesian population – is located very close to the Pacific region, especially
+the South Pacific countries of Australia and New Zealand, but so far the prov -
+ince has not enjoyed the benefits of its proximity to the economic trade flows
+and especially connectedness with the Pacific region. Geographically, Papua
+
+60
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+is directly adjacent to Papua New Guinea, with land borders located in five
+regencies in the province, namely Jayapura City, Keerom Regency, Bintang
+Mountains Regency, Merauke Regency, and Boven Digul Regency. There are
+also sea borders with Papua New Guinea in Jayapura City and in Merauke, as
+well as with Palau state in Supiori Regency.
+Given those facts, could Papua province become Indonesia’s gateway to trade
+and investment activity with the broader Indo-Pacific region and what chal -
+lenges can be expected? The following discussion will seek to answer these
+important questions.
+Theoretical framework
+As Indonesia’s easternmost region and populated by its ethnic Melanesian
+population, Papua province has become a source of strength for Indonesia
+when building trade, investment, and tourism relationships with Pacific coun -
+tries, including India, Australia, New Zealand, and the United States. For our
+analysis, it is useful to turn to liberalism in the study of international relations,
+which is firmly rooted in classical analysts such as John Locke, Hugo Grotius,
+and Immanuel Kant. The basic assumptions of classical thinkers that inspired
+many liberal theories include beliefs about the rational qualities of individu -
+als/people; beliefs about possible progress in social life; and the belief that
+human beings, despite their own interests, are also able to work together and
+build a more peaceful and harmonious society. Liberal scholars further trans -
+fer these basic assumptions into the context of the international community.
+According to liberal theory, the success of the international order depends on
+at least four main factors: (1) the role of international institutions; (2) inter -
+national norms and rules for regulating the conduct of countries; (3) increase
+in economic interdependence between countries; and (4) technological de -
+velopments and the growth of global communications. Connections among
+these four factors will lead to cooperation, trust between countries, and a
+greater reliance on negotiations to resolve disputes between countries. While
+not ignoring the importance of high politics, liberalism pays more attention
+to low-politics issues such as economic, social, and environmental issues as
+priorities on the international agenda.
+Based on this theory of liberalism, Indonesian diplomacy can help facilitate
+economic cooperation and the opening of connectivity with the Indo-Pacific
+region. In that formulation, Papua can serve as a gateway for connectivity – by
+facilitating sea and air transportation, trade with the broader region, and by
+providing a significant source of economic and cultural cooperation.
+
+61
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+Indonesia’s challenges and expectations for the Indo-
+Pacific
+Geopolitically, Indonesia is located in the Indo-Pacific between Asia and the
+Pacific, bordered by the Indian and Pacific Oceans. This region is the world’s
+most important trade route and also serves as a confluence of cultures and
+civilizations. It is rich with abundant natural resources but has become a tar -
+get of large countries who recognize its political and economic importance.
+Papua has 28 regencies and one city, with a total population of 4.3 million
+people in 2021. Geographically, Papua is the closest Indonesian province to
+the Pacific region, not notably the South Pacific countries. So far, Indone -
+sian cooperation with surrounding countries has largely focused on technical
+cooperation. A good example is with Fiji, with which it cooperates on agri -
+culture and training. Similarly, Indonesia also cooperates with Papua New
+Guinea on agriculture and infrastructure assistance. Indonesia has not coop -
+erated much with the wider region in other sectors.
+Papua’s potential to become the gateway to Indonesia’s trade activities in
+the eastern region can be seen in a number of ways. First, the province’s
+geographic proximity to the Pacific region is vitally important. An open sea
+border connecting Jayapura in Papua with Pacific countries will shorten the
+shipping routes between Indonesia and Indo-Pacific countries, which will
+lower costs of production and other trade costs. Papua is quite close to the
+countries of the three large Pacific island groupings: Melanesia (Papua New
+Guinea, Solomon Islands, Vanuatu, New Caledonia, Fiji, Australia), Polynesia
+(Samoa, Tonga, Cook Islands, Niue, Tuvalu, New Zealand, French Polynesia),
+and Micronesia (Marshall Islands, Federated States of Micronesia, Kiribati, Na-
+uru, Palau). Major countries such as Australia, New Zealand, Japan, and India
+are also nearby. Given this close proximity and the possibility of connectivity,
+Papua has the potential to become a gateway of economic activity to the Pacif-
+ic region within the Indo-Pacific corridor.
+Second, given its ethnic Melanesian population, Papua has much in common
+culturally with the surrounding countries in the South Pacific. That similarity
+opens up the possibility of facilitating economic and cultural cooperation
+between Indonesia and the Pacific while encouraging cooperation in other
+fields. In so doing, it would help encourage investment growth, trade, and
+development both in Papua and the wider Pacific region.
+Third, it can be used as a transit point for ships from Indo-Pacific countries,
+which will facilitate trade activities in the region. Those activities will provide
+economic benefits for Indonesia and especially Papuans, such as the absorp -
+tion of Papuan labour and the increase of tourism between Papua and Pacific
+countries. For example, Indonesia could work with Fiji, which has become
+the centre for global communication and transportation routes (shipping and
+
+62
+A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN CANADA,
+INDONESIA AND ASEAN IN THE INDO-PACIFIC   |  OCTOBER 2021
+air travel) in the South Pacific region. With access to Fiji market, companies
+could take advantage of low import duties to export their products to other
+island nations.
+Fourth, focusing on increasing cooperation and connectivity with Papua
+might reduce the political debate and tensions between Indonesia and other
+countries in the Indo-Pacific. After all, development and connectivity could
+reduce their suspicions about human rights, poverty, and other issues in Pap -
+ua.
+There are still a number of challenges that may need to be overcome: the
+readiness to make Papua the eastern gateway of trade and investment; the
+skilled labour required in Papua for it to become the centre of economic and
+trade activity; and security factors that often challenge economic and invest -
+ment activities in the region. The Indonesian government and the local gov -
+ernment of Papua province need to address these challenges to ensure that
+Papua can emerge as a trading gateway to the Pacific region.
+Conclusion
+Indonesia has an opportunity to make Papua province the eastern gateway
+to economic and cultural trade connectivity. This would provide economic,
+political, and cultural benefits for Indonesia, for Papua, and for Indo-Pacific
+countries as a whole. In addition to providing economic benefits for Indo -
+nesian and Papuans themselves, it could minimize the issues of separatism,
+human rights, and poverty in Papua in international forums.
+Melyana R. Pugu is Senior Lecturer at Cenderawasih University in
+Papua.
+
+63
+OCTOBER 2021  |  A NEW OUTLOOK: STRENGTHENING COOPERATION BETWEEN
+CANADA, INDONESIA AND ASEAN IN THE INDO-PACIFIC
+WHAT PEOPLE ARE SAYING ABOUT MLI
+I want to congratulate the
+Macdonald-Laurier Institute
+for 10 years of excellent
+service to Canada. The
+Institute's commitment to
+public policy innovation has
+put them on the cutting edge
+of many of the country's most
+pressing policy debates. The
+Institute works in a persistent
+and constructive way to
+present new and insightful
+ideas about how to best
+achieve Canada's potential and
+to produce a better and more
+just country. Canada is better
+for the forward-thinking,
+research-based perspectives
+that the Macdonald-Laurier
+Institute brings to our most
+critical issues.
+The Macdonald-Laurier
+Institute has been active in
+the ﬁeld of Indigenous public
+policy, building a ﬁne
+tradition of working with
+Indigenous organizations,
+promoting Indigenous
+thinkers and encouraging
+innovative, Indigenous-led
+solutions to the challenges
+of 21 st  century Canada.
+I congratulate MLI  on its 10
+productive and constructive
+years and look forward to
+continuing to learn more
+about the Institute's ﬁne
+work in the ﬁeld.
+May I congratulate MLI
+for a decade of exemplary
+leadership on national
+and international issues.
+Through high-quality
+research and analysis,
+MLI  has made a signiﬁcant
+contribution to Canadian
+public discourse and policy
+development. With the
+global resurgence
+of authoritarianism and
+illiberal populism, such
+work is as timely as it is
+important. I wish you
+continued success in
+the years to come.
+The Macdonald-Laurier
+Institute has produced
+countless works of
+scholarship that solve
+today's problems with
+the wisdom of our
+political ancestors.
+If we listen to the
+Institute's advice,
+we can fulﬁll Laurier's
+dream of a country
+where freedom is
+its nationality.
+The Honourable
+Jody Wilson-Raybould
+The Honourable
+Irwin Cotler
+The Honourable
+Pierre Poilievre
+The Right Honourable
+Paul Martin
+@MLInstitute
+facebook.com/MacdonaldLaurierInstitute
+youtube.com/MLInstitute
+linkedin.com/company/macdonald-laurier-institute
+613-482-8327  •  info@macdonaldlaurier.ca
+323 Chapel Street, Suite 300,
+Ottawa, Ontario  K1N 7Z2
+MACDONALD-LAURIER INSTITUTE
+Ideas change the world

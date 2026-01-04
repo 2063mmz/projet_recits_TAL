@@ -1,0 +1,67 @@
+seed_url: https://president.uz/en/lists/view/8453
+final_url: https://president.uz/en/lists/view/8453
+title: A solid package of documents adopted with China
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+A solid package of documents adopted with China
+02.09.2025
+As a result of the talks in Beijing between the President of the Republic of Uzbekistan Shavkat Mirziyoyev and President of the People’s Republic of China Xi Jinping, a ceremony of documents signing was held. Among them:
+- Cooperation program on aligning Strategy “Uzbekistan 2030” and “Belt and Road Initiative”;
+- Agreement on mutual organization of cultural centers;
+- Agreement on cooperation in the sphere of medical services.
+Moreover, in the framework of the visit the following agreements were signed:
+- on the design of the second stage of the project for providing Uzbekistan with dredgers;
+- on technical and economic cooperation;
+- on cooperation in the field of conformity assessment;
+- on phytosanitary requirements for the export of fresh melons and almonds from Uzbekistan to China;
+- on cooperation in the peaceful use of space science, technologies and the results of space activities;
+- on cooperation in the field of competition policy;
+- on strengthening cooperation in the field of human resource development;
+- on strengthening cooperation in the field of the digital economy;
+- on establishing partnership relations between Samarkand region and the city of Tianjin;
+- on cooperation between the Chamber of commerce and industry of Uzbekistan and the China council for the promotion of international trade.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

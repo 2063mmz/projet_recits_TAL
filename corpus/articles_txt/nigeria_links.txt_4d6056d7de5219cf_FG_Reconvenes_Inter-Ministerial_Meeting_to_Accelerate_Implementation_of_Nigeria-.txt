@@ -1,0 +1,18 @@
+seed_url: https://ncsp.gov.ng/fg-reconvenes-inter-ministerial-meeting-to-accelerate-implementation-of-nigeria-china-focac-agreements/
+final_url: https://ncsp.gov.ng/fg-reconvenes-inter-ministerial-meeting-to-accelerate-implementation-of-nigeria-china-focac-agreements/
+title: FG Reconvenes Inter-Ministerial Meeting to Accelerate Implementation of Nigeria-China Focac Agreements
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+FG Reconvenes Inter-Ministerial Meeting to Accelerate Implementation of Nigeria-China Focac Agreements
+In a renewed effort to fast-track the implementation of strategic agreements with the People’s Republic of China, the Federal Government of Nigeria has reconvened a high-level inter-ministerial follow-up meeting. The session, jointly organized by the Ministry of Foreign Affairs and the Nigeria-China Strategic Partnership (NCSP), focused on reviewing progress and resolving challenges related to outcomes from the 2024 FOCAC Summit and President Bola Ahmed Tinubu’s historic state visit to China.
+The meeting, chaired by Ambassador Janet Olisa, Director of Regions at the Ministry of Foreign Affairs, brought together key representatives from Ministries, Departments, and Agencies (MDAs) involved in the bilateral cooperation. MDAs provided situation reports and outlined steps to strengthen collaboration for the successful implementation of signed agreements.
+Ambassador Olisa reaffirmed Nigeria’s commitment to leveraging its strategic partnership with China for inclusive economic development. She emphasized the urgency of converting memoranda of understanding (MOUs) into actionable projects that deliver tangible benefits to Nigerians.
+Discussions focused on resolving legal and institutional bottlenecks, aligning implementation strategies, and clarifying access modalities to Nigeria’s targeted share of China’s $51 billion pledge for green infrastructure development across Africa. Nigeria aims to secure at least $10 billion in funding for priority sectors including agriculture, digital economy, and critical infrastructure.
+Director-General of NCSP, Mr. Joseph Tegbe, reiterated the agency’s role in coordinating implementation efforts and called on MDAs to be proactive. “This partnership offers Nigeria a unique opportunity to unlock investments that will drive job creation, economic diversification, and long-term prosperity,” he stated.
+Resolutions from the meeting included harmonization of legal frameworks, alignment of project roadmaps, budget optimization, and the establishment of technical committees to accelerate implementation.
+A follow-up review session has been scheduled in the coming weeks to track progress on agreed action items, while the various MDAs continue their working meeting to resolve challenges.
+The Nigeria-China Strategic Partnership remains a cornerstone of the Renewed Hope Agenda, complementing China’s Belt and Road Initiative to catalyze transformative development in Nigeria.

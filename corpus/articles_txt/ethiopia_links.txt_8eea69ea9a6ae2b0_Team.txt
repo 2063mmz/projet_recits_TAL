@@ -1,0 +1,72 @@
+seed_url: https://www.ifa.gov.et/team/
+final_url: https://www.ifa.gov.et/team/
+title: Team
+date: January 1, 2026
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Meet Our Team
+H.E Jafar Bedru Geletu
+Executive Director
+Facebook
+Linkedin
+Twitter
+H.E Abdi Zenebe (Ph.D.)
+dEPTUY Executive Director AND  Research dIRECTOR
+H.E  Mohammedrafi Abaraya
+Deputy Executive Director
+Facebook
+Linkedin
+Twitter
+Facebook
+Linkedin
+Twitter
+Gizachew Asrat (Ph.D.)
+Chief   of  Staff,
+IFA
+Facebook
+Linkedin
+Twitter
+Amare Kenaw (Ph.D.)
+Middle East Affairs S/Research and Director General
+Facebook
+Linkedin
+Twitter
+Dareskedar Taye (Ph.D.)
+Europe and America Affairs
+Director General
+Facebook
+Linkedin
+Twitter
+Melaku Mulualem  Kelemework
+Stakeholder Training and Consultancy Director General
+Facebook
+Linkedin
+Twitter
+Gashaw Ayferam Endaylalu(Ph.D.)
+African Affairs  S/Researcher and Director General
+Facebook
+Linkedin
+Twitter
+Tesfaye Mola Sima(Ph.D.)
+Foreign Service Training and Consultancy Director General .
+Facebook
+Linkedin
+Twitter
+Elifinesh Muleta (Ph.D.)
+Multilateral Affairs Research Director, General
+Facebook
+Linkedin
+Twitter
+Tesfaye Bezabih Gezahgne(Ph.D.)
+Foreign Affairs Training and Policy Consultancy Knowledge Management Director General
+Facebook
+Linkedin
+Twitter
+Tesfaye Boyosa Yadata
+Director General for Diplomatic Core Think Tank  (Partnership, Project and Publication Affairs)
+Facebook
+Linkedin
+Twitter

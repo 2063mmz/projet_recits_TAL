@@ -1,0 +1,40 @@
+seed_url: https://president.mn/en/2019/04/26/documents-signed-during-the-state-visit-of-president-battulga-to-china/
+final_url: https://president.mn/en/2019/04/26/documents-signed-during-the-state-visit-of-president-battulga-to-china/
+title: DOCUMENTS SIGNED DURING THE STATE VISIT OF PRESIDENT BATTULGA TO CHINA
+date: 2019-04-26T15:01:27+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/26 11:01:27
+DOCUMENTS SIGNED DURING THE STATE VISIT OF PRESIDENT BATTULGA TO CHINA
+Following the official talks of President of Mongolia Khaltmaagiin Battulga and President of the People’s Republic of China Xi Jinping on April 25th, a signing ceremony took place in the Great Hall of the People, in the presence of the heads of state.
+The documents that were signed during the President’s state visit:
+Action Plan for the Celebration of the 70th Anniversary of Diplomatic Relations between Mongolia and China
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and Wang Yi, Minister of Foreign Affairs of China
+Intergovernmental Cooperation Plan on Promoting the Development in the framework of the Development Road Program of Mongolia and the Belt and Road Initiative of China
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and He Lifeng, Minister in charge of the National Development and Reform Commission of China
+Memorandum of Understanding on Organizing a Joint Exhibition between the Ministry of Food, Agriculture, and Light Industries of Mongolia and the Ministry of Commerce of China
+Signed by: Ch.Ulaan, Minister of Food, Agriculture, and Light Industries, and Zhong Shan, Minister of Commerce of China
+Memorandum on Initiating the Renewal of the Mid-term Program on the Development of Mongolia-China Trade and Economic Cooperation between the Ministry of Foreign Affairs of Mongolia and the Ministry of Commerce of China
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and Zhong Shan, Minister of Commerce of China
+Agreement on Mutual Recognition of the Program of the Accredited Mongolian Entity and the Management Program of the Accredited Chinese Entity between the Mongolian Customs and the General Administration of Customs of China
+Signed by: B.Asralt, Director General of Mongolian Customs, and Xing Haiming, Ambassador Extraordinary and Plenipotentiary of China to Mongolia
+Protocol on Implementing the Intergovernmental Agreement on Road Transport between the Ministry of Road and Transport Development of Mongolia and the Ministry of Transport of China
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and Xing Haiming, Ambassador Extraordinary and Plenipotentiary of China to Mongolia
+Intergovernmental Agreement on Economic and Technical Cooperation
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and Wang Yi, Minister of Foreign Affairs of China
+Exchange of Notes on Ger Area Re-planning Project
+Signed by: D.Tsogtbaatar, Minister of Foreign Affairs of Mongolia, and Wang Yi, Minister of Foreign Affairs of China
+Moreover, a ceremony for signing of documents by representatives of the private sector took place during the President’s state visit.
+Special Loan Agreement on Construction Project of 20.9 km Road between Gachuurt Intersection and Nalaikh-Choir Intersection
+Plan on Cultural Exchange in 2019-2022 between the Ministry of Education, Culture, Science, and Sport of Mongolia and the Ministry of Culture of China
+Memorandum of Understanding on Cooperation in Radio and Television Industry between the Ministry of Education, Culture, Science, and Sport of Mongolia and the National Radio and Television Administration of China
+Agreement on Online Exchange of Information on International Freight Shipping between the Ulaanbaatar Railway Joint Venture of Mongolia and China Railway Company
+General Cooperation Agreement on Implementing the Coke and Steel Plant Project in Mongolia between the Erdenes Steel LLC of Mongolia and Sinosteel Equipment & Engineering JSC of China
+Contract on Construction Work of the Buuruljuut Coal Mine and Power Plant Project between Tsetsens Mining & Energy LLC of Mongolia and Sinosteel Equipment &Engineering JSC of China
+Contract on Implementing the New Amgalan Apartment Complex Project between Gangar Invest LLC of Mongolia and SAMS Engineering China LLC
+Cooperation Contract between Moshea Eco Energy LLC of Mongolia and the China National Technical Import and Export Corporation
+Cooperation Contract and Sales Contract between Ish Noyon Badrakh LLC of Mongolia and Haifu Accumulator LLC of Hebei, China
+Memorandum of Understanding on Cooperation between the New World Union and the Mazaalai Protection Fund

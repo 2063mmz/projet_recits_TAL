@@ -1,0 +1,18 @@
+seed_url: https://president.mn/en/2019/04/29/president-battulga-visits-caofeidian-port-in-hebei-province-of-china/
+final_url: https://president.mn/en/2019/04/29/president-battulga-visits-caofeidian-port-in-hebei-province-of-china/
+title: PRESIDENT BATTULGA VISITS CAOFEIDIAN PORT IN HEBEI PROVINCE OF CHINA
+date: 2019-04-29T12:51:50+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/04/29 8:51:50
+PRESIDENT BATTULGA VISITS CAOFEIDIAN PORT IN HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for International Cooperation, President of Mongolia Khaltmaagiin Battulga visited Tangshan City of Hebei Province to familiarize with the local Caofeidian port on April 28.
+President Battulga familiarized with the Exhibition Hall of the Planning and Development Center, the wagon mill, the transport system combining sea and rail shipment, and the coal terminal of Caofeidian Port before answering questions from members of the media.
+Located in Tangshan City of Hebei Province, at a distance of 220 km from Beijing and 120 km northeast of Tianjin City, the port is part of the Bohai Economic Rim. It is an important channel connecting the northern and northwestern regions of China with over 110 ports of 70 countries via the Pacific Ocean. Covering an area of 194 thousand ha, the port is capable of shipping 410 million tons of cargo, including 250 million tons of coal, per annum. In 2017, the throughput of the port reached 370 million tons. The 97 docks of the port are used for coal (25), steel (41), ore (6), and containers (10).
+With the 2014 amendment of the Mongolia-China Intergovernmental Agreement on the Access to and from the Sea and Transit Transport by Mongolia through China’s Territory, established in 1991, Mongolia’s use of sea ports in northern and eastern parts of China was authorized.
+The Zamiin-Uud-Erlian land port is directly linked to Caofeidian by rail, and there is an advantage of avoiding rail traffic and high cost.
+Since 2014, the Mongolia Maritime Administration has been negotiating with the port authorities and local administration about using the port, and rail freight transport in the route Caofeidian-Ulaanbaatar was conducted for the first time in December, 2018.
+Moreover, the committee of the Caofeidian Logistics Park expressed their approval of annual transport of 10 million tons of Mongolian coal via the port.

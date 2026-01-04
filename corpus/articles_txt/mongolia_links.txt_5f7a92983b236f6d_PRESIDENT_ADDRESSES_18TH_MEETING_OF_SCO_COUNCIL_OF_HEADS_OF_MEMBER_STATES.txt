@@ -1,0 +1,32 @@
+seed_url: https://president.mn/en/2018/06/10/president-addresses-meeting-of-sco-council-of-heads-of-state/
+final_url: https://president.mn/en/2018/06/10/president-addresses-meeting-of-sco-council-of-heads-of-state/
+title: PRESIDENT ADDRESSES 18TH MEETING OF SCO COUNCIL OF HEADS OF MEMBER STATES
+date: 2018-06-10T09:12:48+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2018/06/10 5:12:48
+PRESIDENT ADDRESSES 18TH MEETING OF SCO COUNCIL OF HEADS OF MEMBER STATES
+President of Mongolia Khaltmaagiin Battulga delivered a speech at the Plenary Session of the 18th Meeting of the Council of Heads of Member States of the Shanghai Cooperation Organization today in Qingdao, China.
+Heads of state and delegation from the member states, observer states, dialogue partners and guest organizations of the Shanghai Cooperation Organization were present at the Meeting, which Mongolia attended as an observer.
+In his opening remarks, President of China Xi Jinping quoted the great Chinese philosopher Confucius saying, “What a joy to have friends coming from afar!” President Xi Jinping highlighted the fact that the 2018 Summit is the first Summit since the joining of India and Pakistan as full Members and remarked on the expansion of the Organization, which has four Observer States and six Dialogue Partners.
+President Battulga said in his address to the Meeting:
+“Your Excellency, the Chairman of the People’s Republic of China, Mr. Xi Jinping and Your Excellencies, Heads of delegation,
+Ladies and Gentlemen,
+First of all, I would like to congratulate President Xi Jinping and the Government of China on the successful organization of the regular Meeting of the Council of Heads of State of the Shanghai Cooperation Organization.
+Mongolia sees that the SCO, with the expansion of its activities into trade, economic, cultural, educational, scientific and humanitarian spheres in recent years, is developing as a competent regional organization in terms of its cooperation mechanism and legal framework.
+Mongolia is pleased to see how the admission of India and Pakistan as Members in 2017 has broadened the SCO’s scope of operations and participation, increasing its influence and reputation in the international arena and contributing to the strengthening of regional peace, stability and cooperation in economy and all other sectors.
+Let me express my full confidence that the SCO will continue to solidify its structure, refine its activities and contribute genuinely to the development of its participating countries.
+Ladies and Gentlemen,
+Mongolia actively pursues an open, multi-pillared, peaceful and independent foreign policy and maintains its continuity. Stable development and strengthening of the friendly relations and cooperation with Russia, China and the third neighbors is Mongolia’s foreign policy principle. We strive to engage actively and effectively in the multilateral political and economic process in the Asia-Pacific region. Mongolia attaches great significance to the SCO, which is an important channel for us to participate in the regional cooperation through, and therefore has been an active participant of its activities since 2004, when we obtained the status of an Observer State.
+Mongolia considers the establishment of a cooperation mechanism between the SCO Member States, the Observer States and the Dialogue Partners to be of vital importance and believes that further actions towards this goal should be intensified. Mongolia is ready to work actively with the Member States, the Observer States and the Dialogue Partners to contribute to the growth of the SCO.
+Ladies and Gentlemen,
+The enrichment of cooperation between the SCO participating countries with economic content and joint solution of the social and economic barriers confronted by regional countries constitute the basic conditions for regional security and stability. Mongolia wishes to work actively in energy, infrastructure, transit transport, mining, heavy industry, agriculture and other economic spheres in cooperation with the SCO participating countries. Mongolia is also working towards cooperation with the SCO countries in areas of humanitarian cooperation, education, culture, science, health, environment, emergency management and fight against terrorism and illegal drug trafficking.
+Guided by this objective, Mongolia is studying the possibility to upgrade the level of its participation in the SCO, and a discussion on this matter has been launched in the political and social circles in Mongolia.
+I am fully confident that the SCO countries, especially Russia and China, will be supportive of some actions and goals such as correlating Mongolia’s ‘Development Road’ program with China’s ‘Belt and Road’ initiative and Russia’s ‘Eurasian Economic Union’ joint mechanism, implementing the Mongolia-Russia-China Economic Corridor on the Mongolian territory and improving the tripartite joint mechanism in this regard, building railway, road and natural gas and oil pipelines through the Mongolian territory, facilitating trade and removing tariff and non-tariff barriers. Furthermore, we hope that You will support Mongolia’s joining in the East Asia Summit.
+On the sidelines of the SCO Summit, the heads of state of Mongolia, Russia and China have held the fourth tripartite meeting and reached certain agreement on the future directions of trilateral cooperation. The Mongolian side has always attached primary importance to the cooperation between Mongolia, Russia and China, which will not only give impetus to the development of the three parties, but also strengthen cooperation with the SCO Member States.
+Let me reiterate Mongolia’s willingness to work alongside the SCO countries towards mutual trust between the people, friendliness and positive development.
+I extend my congratulations to the President of Kyrgyzstan, which will hold the SCO Presidency for the next year.
+Thank You for the attention.”

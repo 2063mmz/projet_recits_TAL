@@ -1,0 +1,19 @@
+seed_url: https://nico.gov.ng/nigeria-partners-china-on-culture-and-tourism-promotion-under-the-belt-and-road-initiative-bri/
+final_url: https://nico.gov.ng/nigeria-partners-china-on-culture-and-tourism-promotion-under-the-belt-and-road-initiative-bri/
+title: Nigeria partners China on culture and tourism promotion under the Belt and Road Initiative (BRI)
+date: 2024-07-15T09:15:00+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Nigeria partners China on culture and tourism promotion under the Belt and Road Initiative (BRI)
+NICO
+July 15, 2024
+May 2, 2025
+July 15, 2024
+Media
+Videos
+NICO
+Nigeria partners China on culture and tourism promotion under the Belt and Road Initiative (BRI)
+Nigeria partners China on culture and tourism promotion under the Belt and Road Initiative (BRI)

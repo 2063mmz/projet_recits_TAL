@@ -1,0 +1,138 @@
+seed_url: http://government.ru/en/news/48559/
+final_url: http://government.ru/en/news/48557/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Russia-China talks
+24 May 2023
+07:45
+Beijing, People’s Republic of China
+Mikhail Mishustin held talks with Premier of the State Council of the People’s Republic of China Li Qiang.
+Russia-China
+talks
+Documents
+signed during the talks
+Excerpts from the transcript:
+Mikhail Mishustin
+: Your Excellency Mr Li Qiang,
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang welcoming delegations during the official greeting ceremony at the Great Hall of the People in Beijing
+24 May 2023
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang welcoming delegations during the official greeting ceremony at the Great Hall of the People in Beijing
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Official greeting ceremony for Mikhail Mishustin by Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Russia-China talks
+24 May 2023
+Russia-China talks
+24 May 2023
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang
+24 May 2023
+Ceremony to sign joint documents
+24 May 2023
+Предыдущая новость
+Следующая новость
+Mikhail Mishustin and Premier of the State Council of the People’s Republic of China Li Qiang welcoming delegations during the official greeting ceremony at the Great Hall of the People in Beijing
+I am glad to meet you. We have
+recently talked on the phone and had a detailed discussion on our bilateral
+relations. I could feel your warm attitude and energy during the conversation.
+First, allow me to convey to you
+the best wishes on behalf of President of Russia Vladimir Putin.
+This is my first visit to China
+as Prime Minister of the Russian Federation. The fact that it is taking place
+at the invitation of President of the People’s Republic of China Mr Xi Jinping
+is extremely important – we had a meeting in Moscow in March as part of his
+state visit to Russia.
+Mr Li Qiang, I would like to thank you and all our Chinese friends for the warm and hospitable welcome extended
+to the Russian delegation here.
+Shanghai was our first stop on this visit to China, where we attended a major Russian-Chinese Business Forum.
+It brought together hundreds of Russian and Chinese business leaders, as well
+as heads of major world-class corporations, and also SMEs. They all contribute
+in their own singular ways to promoting our cooperation.
+This opportunity to interact with
+the business community enabled us to cover the agenda of the Russia-China
+comprehensive partnership and strategic cooperation in all its breadth. This
+proves yet again that the friendship and neighbourly relations between our
+countries, which are rooted in millennia-old ties, provide a solid foundation
+for moving ahead at a sustained pace and promoting trade and economic,
+scientific, technical and humanitarian cooperation in all their aspects.
+Relations between Russia and China have grown to an unprecedented level. They are noted for mutual respect of each other’s
+interests and a desire to jointly stand against the new challenges created by the increased turbulence on the international stage and the illegal sanctions
+pressure on the part of the collective West. As our Chinese friends say, unity
+makes it possible to move mountains.
+In March, President of China Xi Jinping was in Russia
+on his first foreign visit after his re-election as the head of state. That
+momentous event reaffirmed the special nature of Russian-Chinese relations and understandably attracted considerable interest throughout the world.
+The decisions adopted by President Vladimir Putin and President of China Xi Jinping set out strategic guidelines for building up our interaction
+in eight priority areas, while the governments of Russia and China are making
+coordinated efforts to implement the agreements reached at the top level.
+Despite the complicated international situation, our
+trade and economic cooperation are developing successfully. As you have pointed
+out, mutual trade increased by one third to nearly $190 billion last year. In January through March, bilateral trade increased by another 25 percent year on year, to $52 billion.
+It is notable that 70 percent of cross-border
+settlements are made in our national currencies, the Russian rouble and the Chinese yuan.
+I am confident that this year we will not only fulfil ahead
+of schedule the task of increasing mutual trade to $200 billion, set by our
+leaders, but we will also go beyond this milestone figure.
+Our energy partnership has attained a strategic level.
+Russia is the largest provider of oil to China, and we are increasing the exports of natural gas, coal and electricity. We are implementing major energy
+projects jointly with China, such as the Power of Siberia, Yamal LNG, Arctic
+LNG 2, the Amur Gas Chemical Complex, and the Ust-Luga gas processing complex. We
+are also actively increasing our cooperation in the peaceful use of nuclear
+energy.
+Developing transport and logistics routes through the border between Russia and China has special
+importance in the new geopolitical reality. Last year, we opened the road and railway bridge across the Amur River, and are now committed to accelerating
+infrastructure development efforts on the border. We must make sure that we
+move forward in sync. This way, we can increase cargo flows and further expand
+Russia-China trade.
+We are also offering new
+opportunities for strengthening high-technology cooperation. This covers
+aircraft manufacturing and shipbuilding, producing machines and equipment,
+engaging in joint space research projects and many other areas.
+Building on the solid research we
+have accumulated and our manufacturing capabilities, we can work together to ensure technological sovereignty for both Russia and China.
+Region-to-region ties are an essential element of our cooperation. Most of the Russian regions and Chinese
+provinces take part in joint projects, which is essential for creating new
+points of growth and improving the wellbeing of the people.
+The people of Russia and China
+have every right to be proud of their past, their rich culture and traditions.
+We stand for further strengthening our cultural and humanitarian exchanges and ties.
+Mr Li Qiang, we have an extensive
+and meaningful agenda, and I suggest that we discuss all these matters.
+Documents signed
+during the talks:
+1. Protocol between the Federal Service for Veterinary and Phytosanitary Supervision (Russian
+Federation) and the General Administration of Customs of the People’s Republic
+of China on phytosanitary requirements regarding millet exports from the Russian Federation to the People’s Republic of China.
+2. Protocol between the Federal Service for Veterinary and Phytosanitary Supervision (Russian
+Federation) and the General Administration of Customs of the People’s Republic
+of China on phytosanitary requirements regarding medicinal plant raw material exports for Chinese medicine from the Russian Federation to the People’s Republic of China.
+3. Memorandum of understanding between the Ministry of Economic Development of the Russian
+Federation and the Ministry of Commerce of the People’s Republic of China to strengthen investment cooperation in trade in services.
+4. Memorandum of friendship
+and cooperation between the Ministry of Sport of the Russian Federation and the General Administration of Sport of the People’s Republic of China.
+5. Joint statement of intention to renew the pilot programme “Fast-track patent processing” between
+the Federal Service for Intellectual Property (Russian Federation) and the National Intellectual Property Administration of the People’s Republic of China.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/48557/
+Highlight selection

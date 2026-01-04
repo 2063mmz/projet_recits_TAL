@@ -1,0 +1,219 @@
+seed_url: https://jurnal.kemlu.go.id/jurnal-hublu/article/view/99
+final_url: https://jurnal.kemlu.go.id/jurnal-hublu/article/view/99
+title: Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan Ekonomi: Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara
+date: Issue Published :
+                                          July 1, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Issue
+Vol. 10 No. 1 (2025): Jurnal Hubungan Luar Negeri
+Issue Published
+July 1, 2025
+Date Log
+Submitted
+March 25, 2025
+Accepted
+July 24, 2025
+Published
+June 1, 2025
+Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan Ekonomi: Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara
+https://doi.org/10.70836/jh.v10i1.99
+Marenda Majid
+a:1:{s:5:"en_US";s:35:"Universitas Muhammadiyah Yogyakarta";}, Indonesia
+Naufal
+Universitas Gadjah Mada, Indonesia
+Labiq
+Universitas Islam Negeri Sunan Kalijaga, Indonesia
+Corresponding Author(s) : Marenda Majid
+farras.majid.psc23@mail.umy.ac.id
+JURNAL HUBUNGAN LUAR NEGERI
+Vol. 10 No. 1 (2025): Jurnal Hubungan Luar Negeri
+Article Published :
+June 1, 2025
+Share on Facebook
+Share on Twitter
+Pinterest
+Email
+Telegram
+Abstract
+Cite
+References
+Authors
+Details
+Abstract
+Kesenjangan pembiayaan iklim
+(green debt)
+yang semakin lebar di negara-negara berkembang menjadi tantangan serius dalam mencapai target pengurangan emisi dan adaptasi terhadap dampak perubahan iklim. Di tengah tekanan utang dan keterbatasan fiskal, konsep diplomasi utang hijau muncul sebagai pendekatan alternatif yang menghubungkan pelunasan utang dengan pendanaan aksi iklim. Artikel ini bertujuan untuk mengulas secara kritis bagaimana mekanisme diplomasi utang hijau diterapkan di Sri Lanka, Pakistan, dan kawasan Sub-Sahara Afrika, serta mengevaluasi efektivitasnya dalam mendukung pembangunan berkelanjutan. Penulisan dilakukan melalui pendekatan deskriptif kualitatif berbasis studi pustaka, dengan merujuk pada artikel-artikel ilmiah terkini yang terindeks Scopus. Dengan melakukan pendekatan teori modernisasi, temuan utama menunjukkan bahwa meskipun skema ini menjanjikan sebagai solusi pembiayaan inovatif, pelaksanaannya masih terbatas oleh ketimpangan kekuasaan dalam sistem global, lemahnya kapasitas fiskal negara penerima, serta minimnya komitmen negara maju dalam merealisasikan janji pendanaan iklim. Di sisi lain, mekanisme ini juga membuka peluang untuk memperkuat kontribusi nasional (NDCs) jika didukung oleh tata kelola keuangan yang lebih adil dan kolaboratif. Artikel ini merekomendasikan agar reformasi struktural dalam tata kelola utang dan penguatan posisi tawar negara berkembang menjadi agenda prioritas dalam kerangka diplomasi iklim global.
+Keywords
+Pendanaan Iklim
+Diplomasi Hutang
+Ketergantungan Ekonomi
+alutsista
+Full Article
+Generated from XML file
+Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan Ekonomi: Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara. (2025).
+JURNAL HUBUNGAN LUAR NEGERI
+(1).
+https://doi.org/10.70836/jh.v10i1.99
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+References
+Abb, P. (2023) Ã¢â‚¬ËœAll geopolitics is local: the ChinaÃ¢â‚¬â€œPakistan Economic Corridor amidst overlapping centreÃ¢â‚¬â€œperiphery relationsÃ¢â‚¬â„¢, Third World Quarterly, 44(1), pp. 76Ã¢â‚¬â€œ95. Available at:
+https://doi.org/10.1080/01436597.2022.2128329
+Adeney, K. and Boni, F. (2024) Ã¢â‚¬ËœGlobal China and PakistanÃ¢â‚¬â„¢s federal politics: 10 years of the ChinaÃ¢â‚¬â€œPakistan Economic CorridorÃ¢â‚¬â„¢, Commonwealth and Comparative Politics [Preprint]. Available at:
+https://doi.org/10.1080/14662043.2024.2354568
+Brautigam, D. (2020) Ã¢â‚¬ËœA critical look at Chinese Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â: the rise of a memeÃ¢â‚¬â„¢, Area Development and Policy, 5(1), pp. 1Ã¢â‚¬â€œ14. Available at:
+https://doi.org/10.1080/23792949.2019.1689828
+Calinoff, J. and Gordon, D. (2020) Ã¢â‚¬ËœPort Investments in the Belt and Road Initiative: Is Beijing Grabbing Strategic Assets?Ã¢â‚¬â„¢, Survival, 62(4), pp. 59Ã¢â‚¬â€œ80. Available at:
+https://doi.org/10.1080/00396338.2020.1792134
+Conteh-Morgan, E. (2021) Ã¢â‚¬ËœStrategies of sinoÃ¢â‚¬Âamerican rivalry in africa: From 2000 to covidÃ¢â‚¬Â19Ã¢â‚¬â„¢, Vestnik RUDN. International Relations, 21(2), pp. 265Ã¢â‚¬â€œ278. Available at:
+https://doi.org/10.22363/2313-0660-2021-21-2-265-278
+DeBoom, M.J. (2020) Ã¢â‚¬ËœWho is afraid of Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â? Geopolitical narratives, agency and the multiscalar distribution of riskÃ¢â‚¬â„¢, Area Development and Policy, 5(1), pp. 15Ã¢â‚¬â€œ22. Available at:
+https://doi.org/10.1080/23792949.2019.1703556
+Delina, L. (2017) Ã¢â‚¬ËœMultilateral development banking in a fragmented climate system: shifting priorities in energy finance at the Asian Development BankÃ¢â‚¬â„¢, International Environmental Agreements: Politics, Law and Economics, 17(1), pp. 73Ã¢â‚¬â€œ88. Available at:
+https://doi.org/10.1007/s10784-016-9344-7
+el-Shafei, A.W. and Metawe, M. (2022) Ã¢â‚¬ËœChina drive toward Africa between arguments of neo-colonialism and mutual-beneficial relationship: Egypt as a case studyÃ¢â‚¬â„¢, Review of Economics and Political Science, 7(2), pp. 137Ã¢â‚¬â€œ152. Available at:
+https://doi.org/10.1108/REPS-03-2021-0028
+Finance, E.T. and Team, P. (2023) Ã¢â‚¬ËœThe Role of Multilateral Development Banks in Closing the Climate and Energy Transition Finance GapÃ¢â‚¬â„¢, (01), pp. 1Ã¢â‚¬â€œ11.
+He, A. (2020) Ã¢â‚¬ËœThe Belt and Road Initiative: Motivations, financing, expansion and challenges of XiÃ¢â‚¬â„¢s ever-expanding strategyÃ¢â‚¬â„¢, Journal of Infrastructure, Policy and Development, 4(1), pp. 139Ã¢â‚¬â€œ169. Available at:
+https://doi.org/10.24294/jipd.v4i1.1180
+Irandu, E.M. and Owilla, H.H. (2020) Ã¢â‚¬ËœThe Economic Implications of Belt and Road Initiative in the Development of Railway Transport Infrastructure in Africa: The Case of the Standard Gauge Railway in KenyaÃ¢â‚¬â„¢, African Review (Tanzania), 47(2), pp. 457Ã¢â‚¬â€œ480. Available at:
+https://doi.org/10.1163/1821889X-12340027
+Khan, Z. et al. (2020) Ã¢â‚¬ËœDebunking Criticism on the China-Pakistan Economic CorridorÃ¢â‚¬â„¢, Chinese Economy, 53(6), pp. 477Ã¢â‚¬â€œ487. Available at:
+https://doi.org/10.1080/10971475.2020.1792065
+Kouwenberg, R. and Zheng, C. (2023) Ã¢â‚¬ËœA Review of the Global Climate Finance LiteratureÃ¢â‚¬â„¢, Sustainability (Switzerland), 15(2). Available at:
+https://doi.org/10.3390/su15021255
+Li, W. and Lu, S. (2024) Ã¢â‚¬ËœAssessing Structural Transformation and the Potential Impacts of Belt and Road Initiative Projects in AfricaÃ¢â‚¬â„¢, European Journal of Development Research, 36(3), pp. 548Ã¢â‚¬â€œ570. Available at:
+https://doi.org/10.1057/s41287-024-00624-1
+Lubieniecka, E.R. (2014) Ã¢â‚¬ËœChinese Engagement in Sub-Saharan Africa: Can the Beijing Consensus be Explained Under World-Systems Analysis?Ã¢â‚¬â„¢, Fudan Journal of the Humanities and Social Sciences, 7(3), pp. 433Ã¢â‚¬â€œ450. Available at:
+https://doi.org/10.1007/s40647-014-0023-1
+Lubinga, M.H. and Mazenda, A. (2024) Ã¢â‚¬ËœEmpirical Analysis of the Effect of Institutional Governance Indicators on Climate FinancingÃ¢â‚¬â„¢, Economies, 12(2), pp. 1Ã¢â‚¬â€œ19. Available at:
+https://doi.org/10.3390/economies12020029
+Maulida, H. (2022) Ã¢â‚¬ËœDinamika Islam dalam kebijakan luar negeri Indonesia pemerintahan Joko Widodo periode 2014-2022 ( studi kasus dukungan Indonesia terhadap proses perdamaian di Afghanistan )Ã¢â‚¬â„¢, 2022.
+Mlambo, C. (2022) Ã¢â‚¬ËœChina in Africa: An Examination of the Impact of ChinaÃ¢â‚¬â„¢s Loans on Growth in Selected African StatesÃ¢â‚¬â„¢, Economies, 10(7). Available at:
+https://doi.org/10.3390/economies10070154
+Mohan, P.S. (2023) Ã¢â‚¬ËœFinancing needs to achieve Nationally Determined Contributions under the Paris Agreement in Caribbean Small Island Developing StatesÃ¢â‚¬â„¢, Mitigation and Adaptation Strategies for Global Change, 28(5), pp. 1Ã¢â‚¬â€œ24. Available at:
+https://doi.org/10.1007/s11027-023-10062-9
+Ogwang, T. and Vanclay, F. (2021) Ã¢â‚¬ËœResource-financed infrastructure: Thoughts on four chinese-financed projects in ugandaÃ¢â‚¬â„¢, Sustainability (Switzerland), 13(6). Available at:
+https://doi.org/10.3390/su13063259
+Pattnaik, J.K. and Panda, C.K. (2022) Ã¢â‚¬ËœChinaÃ¢â‚¬â„¢S Geo-Economic Interest in Africa: a Short OverviewÃ¢â‚¬â„¢, Journal of Liberty and International Affairs, 8(2), pp. 223Ã¢â‚¬â€œ239. Available at:
+https://doi.org/10.47305/JLIA2282223p
+Savanovic, A. (2014) Ã¢â‚¬ËœEconomic SovereigntyÃ¢â‚¬â„¢, 12th International Academic Conference, (September), pp. 1007Ã¢â‚¬â€œ1026.
+Seghini, C. (2024) Ã¢â‚¬ËœClimate and Sovereign Debt Sustainability: A Literature ReviewÃ¢â‚¬â„¢, SSRN Electronic Journal, pp. 1Ã¢â‚¬â€œ48. Available at:
+https://doi.org/10.2139/ssrn.4766658
+Shang, Q. and Jin, X. (2023) Ã¢â‚¬ËœA bibliometric analysis on climate finance: current status and future directionsÃ¢â‚¬â„¢, Environmental science and pollution research international, 30(57), pp. 119711Ã¢â‚¬â€œ119732. Available at:
+https://doi.org/10.1007/s11356-023-31006-5
+Singh, A. (2020) Ã¢â‚¬ËœThe myth of Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â and realities of Chinese development financeÃ¢â‚¬â„¢, Third World Quarterly, 42(2), pp. 239Ã¢â‚¬â€œ253. Available at:
+https://doi.org/10.1080/01436597.2020.1807318
+Skovgaard, J. et al. (2023) Ã¢â‚¬ËœMultilateral Climate Finance Coordination: Politics and Depoliticization in PracticeÃ¢â‚¬â„¢, Global Environmental Politics, 23(2), pp. 125Ã¢â‚¬â€œ147. Available at:
+https://doi.org/10.1162/glep_a_00703
+Smith, R. (2023) Ã¢â‚¬ËœBelt and Road Initiative: Case Studies from Sri Lanka, Nepal and ThailandÃ¢â‚¬â„¢, Athens Journal of Social Sciences, 10(3), pp. 197Ã¢â‚¬â€œ216. Available at:
+https://doi.org/10.30958/ajss.10-3-3
+Uluwaduge, P. (2022) Ã¢â‚¬ËœChina-Sri Lanka Economic Relations: Opportunities and Challenges for Sri LankaÃ¢â‚¬â„¢, Sri Lanka Journal of Social Sciences and Humanities, 2(2), pp. 79Ã¢â‚¬â€œ91. Available at:
+https://doi.org/10.4038/sljssh.v2i2.75
+Ummah, M.S. (2019) Ã¢â‚¬ËœNo Ã¤Â¸Â»Ã¨Â¦Â³Ã§Å¡â€žÃ¥ÂÂ¥Ã¥ÂºÂ·Ã¦â€žÅ¸Ã£â€šâ€™Ã¤Â¸Â­Ã¥Â¿Æ’Ã£ÂÂ¨Ã£Ââ€”Ã£ÂÅ¸Ã¥Å“Â¨Ã¥Â®â€¦Ã©Â«ËœÃ©Â½Â¢Ã¨â‚¬â€¦Ã£ÂÂ«Ã£ÂÅ Ã£Ââ€˜Ã£â€šâ€¹ Ã¥ÂÂ¥Ã¥ÂºÂ·Ã©â€“Â¢Ã©â‚¬Â£Ã¦Å’â€¡Ã¦Â¨â„¢Ã£ÂÂ«Ã©â€“Â¢Ã£Ââ„¢Ã£â€šâ€¹Ã¥â€¦Â±Ã¥Ë†â€ Ã¦â€¢Â£Ã¦Â§â€¹Ã©â‚¬Â Ã¥Ë†â€ Ã¦Å¾ÂTitleÃ¢â‚¬â„¢, Sustainability (Switzerland), 11(1), pp. 1Ã¢â‚¬â€œ14.
+Wibisono, A.N. (2019) Ã¢â‚¬ËœChinaÃ¢â‚¬â„¢s Ã¢â‚¬Å“Belt and Road InitiativeÃ¢â‚¬Â in Sri Lanka : Debt Diplomacy in Hambantota Port InvestmentÃ¢â‚¬â„¢, Jurnal Mandala Jurnal Ilmu Hubungan Internasional, 2(2), pp. 222Ã¢â‚¬â€œ245. Available at:
+https://doi.org/10.33822/mjihi.v2i2.1482
+Read More
+References
+Abb, P. (2023) Ã¢â‚¬ËœAll geopolitics is local: the ChinaÃ¢â‚¬â€œPakistan Economic Corridor amidst overlapping centreÃ¢â‚¬â€œperiphery relationsÃ¢â‚¬â„¢, Third World Quarterly, 44(1), pp. 76Ã¢â‚¬â€œ95. Available at:
+https://doi.org/10.1080/01436597.2022.2128329
+Adeney, K. and Boni, F. (2024) Ã¢â‚¬ËœGlobal China and PakistanÃ¢â‚¬â„¢s federal politics: 10 years of the ChinaÃ¢â‚¬â€œPakistan Economic CorridorÃ¢â‚¬â„¢, Commonwealth and Comparative Politics [Preprint]. Available at:
+https://doi.org/10.1080/14662043.2024.2354568
+Brautigam, D. (2020) Ã¢â‚¬ËœA critical look at Chinese Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â: the rise of a memeÃ¢â‚¬â„¢, Area Development and Policy, 5(1), pp. 1Ã¢â‚¬â€œ14. Available at:
+https://doi.org/10.1080/23792949.2019.1689828
+Calinoff, J. and Gordon, D. (2020) Ã¢â‚¬ËœPort Investments in the Belt and Road Initiative: Is Beijing Grabbing Strategic Assets?Ã¢â‚¬â„¢, Survival, 62(4), pp. 59Ã¢â‚¬â€œ80. Available at:
+https://doi.org/10.1080/00396338.2020.1792134
+Conteh-Morgan, E. (2021) Ã¢â‚¬ËœStrategies of sinoÃ¢â‚¬Âamerican rivalry in africa: From 2000 to covidÃ¢â‚¬Â19Ã¢â‚¬â„¢, Vestnik RUDN. International Relations, 21(2), pp. 265Ã¢â‚¬â€œ278. Available at:
+https://doi.org/10.22363/2313-0660-2021-21-2-265-278
+DeBoom, M.J. (2020) Ã¢â‚¬ËœWho is afraid of Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â? Geopolitical narratives, agency and the multiscalar distribution of riskÃ¢â‚¬â„¢, Area Development and Policy, 5(1), pp. 15Ã¢â‚¬â€œ22. Available at:
+https://doi.org/10.1080/23792949.2019.1703556
+Delina, L. (2017) Ã¢â‚¬ËœMultilateral development banking in a fragmented climate system: shifting priorities in energy finance at the Asian Development BankÃ¢â‚¬â„¢, International Environmental Agreements: Politics, Law and Economics, 17(1), pp. 73Ã¢â‚¬â€œ88. Available at:
+https://doi.org/10.1007/s10784-016-9344-7
+el-Shafei, A.W. and Metawe, M. (2022) Ã¢â‚¬ËœChina drive toward Africa between arguments of neo-colonialism and mutual-beneficial relationship: Egypt as a case studyÃ¢â‚¬â„¢, Review of Economics and Political Science, 7(2), pp. 137Ã¢â‚¬â€œ152. Available at:
+https://doi.org/10.1108/REPS-03-2021-0028
+Finance, E.T. and Team, P. (2023) Ã¢â‚¬ËœThe Role of Multilateral Development Banks in Closing the Climate and Energy Transition Finance GapÃ¢â‚¬â„¢, (01), pp. 1Ã¢â‚¬â€œ11.
+He, A. (2020) Ã¢â‚¬ËœThe Belt and Road Initiative: Motivations, financing, expansion and challenges of XiÃ¢â‚¬â„¢s ever-expanding strategyÃ¢â‚¬â„¢, Journal of Infrastructure, Policy and Development, 4(1), pp. 139Ã¢â‚¬â€œ169. Available at:
+https://doi.org/10.24294/jipd.v4i1.1180
+Irandu, E.M. and Owilla, H.H. (2020) Ã¢â‚¬ËœThe Economic Implications of Belt and Road Initiative in the Development of Railway Transport Infrastructure in Africa: The Case of the Standard Gauge Railway in KenyaÃ¢â‚¬â„¢, African Review (Tanzania), 47(2), pp. 457Ã¢â‚¬â€œ480. Available at:
+https://doi.org/10.1163/1821889X-12340027
+Khan, Z. et al. (2020) Ã¢â‚¬ËœDebunking Criticism on the China-Pakistan Economic CorridorÃ¢â‚¬â„¢, Chinese Economy, 53(6), pp. 477Ã¢â‚¬â€œ487. Available at:
+https://doi.org/10.1080/10971475.2020.1792065
+Kouwenberg, R. and Zheng, C. (2023) Ã¢â‚¬ËœA Review of the Global Climate Finance LiteratureÃ¢â‚¬â„¢, Sustainability (Switzerland), 15(2). Available at:
+https://doi.org/10.3390/su15021255
+Li, W. and Lu, S. (2024) Ã¢â‚¬ËœAssessing Structural Transformation and the Potential Impacts of Belt and Road Initiative Projects in AfricaÃ¢â‚¬â„¢, European Journal of Development Research, 36(3), pp. 548Ã¢â‚¬â€œ570. Available at:
+https://doi.org/10.1057/s41287-024-00624-1
+Lubieniecka, E.R. (2014) Ã¢â‚¬ËœChinese Engagement in Sub-Saharan Africa: Can the Beijing Consensus be Explained Under World-Systems Analysis?Ã¢â‚¬â„¢, Fudan Journal of the Humanities and Social Sciences, 7(3), pp. 433Ã¢â‚¬â€œ450. Available at:
+https://doi.org/10.1007/s40647-014-0023-1
+Lubinga, M.H. and Mazenda, A. (2024) Ã¢â‚¬ËœEmpirical Analysis of the Effect of Institutional Governance Indicators on Climate FinancingÃ¢â‚¬â„¢, Economies, 12(2), pp. 1Ã¢â‚¬â€œ19. Available at:
+https://doi.org/10.3390/economies12020029
+Maulida, H. (2022) Ã¢â‚¬ËœDinamika Islam dalam kebijakan luar negeri Indonesia pemerintahan Joko Widodo periode 2014-2022 ( studi kasus dukungan Indonesia terhadap proses perdamaian di Afghanistan )Ã¢â‚¬â„¢, 2022.
+Mlambo, C. (2022) Ã¢â‚¬ËœChina in Africa: An Examination of the Impact of ChinaÃ¢â‚¬â„¢s Loans on Growth in Selected African StatesÃ¢â‚¬â„¢, Economies, 10(7). Available at:
+https://doi.org/10.3390/economies10070154
+Mohan, P.S. (2023) Ã¢â‚¬ËœFinancing needs to achieve Nationally Determined Contributions under the Paris Agreement in Caribbean Small Island Developing StatesÃ¢â‚¬â„¢, Mitigation and Adaptation Strategies for Global Change, 28(5), pp. 1Ã¢â‚¬â€œ24. Available at:
+https://doi.org/10.1007/s11027-023-10062-9
+Ogwang, T. and Vanclay, F. (2021) Ã¢â‚¬ËœResource-financed infrastructure: Thoughts on four chinese-financed projects in ugandaÃ¢â‚¬â„¢, Sustainability (Switzerland), 13(6). Available at:
+https://doi.org/10.3390/su13063259
+Pattnaik, J.K. and Panda, C.K. (2022) Ã¢â‚¬ËœChinaÃ¢â‚¬â„¢S Geo-Economic Interest in Africa: a Short OverviewÃ¢â‚¬â„¢, Journal of Liberty and International Affairs, 8(2), pp. 223Ã¢â‚¬â€œ239. Available at:
+https://doi.org/10.47305/JLIA2282223p
+Savanovic, A. (2014) Ã¢â‚¬ËœEconomic SovereigntyÃ¢â‚¬â„¢, 12th International Academic Conference, (September), pp. 1007Ã¢â‚¬â€œ1026.
+Seghini, C. (2024) Ã¢â‚¬ËœClimate and Sovereign Debt Sustainability: A Literature ReviewÃ¢â‚¬â„¢, SSRN Electronic Journal, pp. 1Ã¢â‚¬â€œ48. Available at:
+https://doi.org/10.2139/ssrn.4766658
+Shang, Q. and Jin, X. (2023) Ã¢â‚¬ËœA bibliometric analysis on climate finance: current status and future directionsÃ¢â‚¬â„¢, Environmental science and pollution research international, 30(57), pp. 119711Ã¢â‚¬â€œ119732. Available at:
+https://doi.org/10.1007/s11356-023-31006-5
+Singh, A. (2020) Ã¢â‚¬ËœThe myth of Ã¢â‚¬Å“debt-trap diplomacyÃ¢â‚¬Â and realities of Chinese development financeÃ¢â‚¬â„¢, Third World Quarterly, 42(2), pp. 239Ã¢â‚¬â€œ253. Available at:
+https://doi.org/10.1080/01436597.2020.1807318
+Skovgaard, J. et al. (2023) Ã¢â‚¬ËœMultilateral Climate Finance Coordination: Politics and Depoliticization in PracticeÃ¢â‚¬â„¢, Global Environmental Politics, 23(2), pp. 125Ã¢â‚¬â€œ147. Available at:
+https://doi.org/10.1162/glep_a_00703
+Smith, R. (2023) Ã¢â‚¬ËœBelt and Road Initiative: Case Studies from Sri Lanka, Nepal and ThailandÃ¢â‚¬â„¢, Athens Journal of Social Sciences, 10(3), pp. 197Ã¢â‚¬â€œ216. Available at:
+https://doi.org/10.30958/ajss.10-3-3
+Uluwaduge, P. (2022) Ã¢â‚¬ËœChina-Sri Lanka Economic Relations: Opportunities and Challenges for Sri LankaÃ¢â‚¬â„¢, Sri Lanka Journal of Social Sciences and Humanities, 2(2), pp. 79Ã¢â‚¬â€œ91. Available at:
+https://doi.org/10.4038/sljssh.v2i2.75
+Ummah, M.S. (2019) Ã¢â‚¬ËœNo Ã¤Â¸Â»Ã¨Â¦Â³Ã§Å¡â€žÃ¥ÂÂ¥Ã¥ÂºÂ·Ã¦â€žÅ¸Ã£â€šâ€™Ã¤Â¸Â­Ã¥Â¿Æ’Ã£ÂÂ¨Ã£Ââ€”Ã£ÂÅ¸Ã¥Å“Â¨Ã¥Â®â€¦Ã©Â«ËœÃ©Â½Â¢Ã¨â‚¬â€¦Ã£ÂÂ«Ã£ÂÅ Ã£Ââ€˜Ã£â€šâ€¹ Ã¥ÂÂ¥Ã¥ÂºÂ·Ã©â€“Â¢Ã©â‚¬Â£Ã¦Å’â€¡Ã¦Â¨â„¢Ã£ÂÂ«Ã©â€“Â¢Ã£Ââ„¢Ã£â€šâ€¹Ã¥â€¦Â±Ã¥Ë†â€ Ã¦â€¢Â£Ã¦Â§â€¹Ã©â‚¬Â Ã¥Ë†â€ Ã¦Å¾ÂTitleÃ¢â‚¬â„¢, Sustainability (Switzerland), 11(1), pp. 1Ã¢â‚¬â€œ14.
+Wibisono, A.N. (2019) Ã¢â‚¬ËœChinaÃ¢â‚¬â„¢s Ã¢â‚¬Å“Belt and Road InitiativeÃ¢â‚¬Â in Sri Lanka : Debt Diplomacy in Hambantota Port InvestmentÃ¢â‚¬â„¢, Jurnal Mandala Jurnal Ilmu Hubungan Internasional, 2(2), pp. 222Ã¢â‚¬â€œ245. Available at:
+https://doi.org/10.33822/mjihi.v2i2.1482
+Author biographies is not available.
+How to Cite
+Green Debt Diplomacy dan Implikasi Terhadap Kedaulatan Ekonomi: Studi Kasus Sri Lanka, Pakistan, dan Sub Sahara. (2025).
+JURNAL HUBUNGAN LUAR NEGERI
+(1).
+https://doi.org/10.70836/jh.v10i1.99
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+PDF
+Statistic
+Read
+Counter :
+419
+Download :
+159
+Table Of Contents

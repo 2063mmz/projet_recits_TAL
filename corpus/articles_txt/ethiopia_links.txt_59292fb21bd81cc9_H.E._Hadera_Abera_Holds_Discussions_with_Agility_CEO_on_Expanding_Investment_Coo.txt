@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2025/10/15/h-e-hadera-abera-holds-discussions-with-agility-ceo-on-expanding-investment-cooperation/
+final_url: https://www.ifa.gov.et/2025/10/15/h-e-hadera-abera-holds-discussions-with-agility-ceo-on-expanding-investment-cooperation/
+title: H.E. Hadera Abera Holds Discussions with Agility CEO on Expanding Investment Cooperation
+date: Oct 15, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+H.E. Hadera Abera Holds Discussions with Agility CEO on Expanding Investment Cooperation
+H.E. Hadera Abera, State Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia, held fruitful discussions with Ms. Msadi Anwar Al-Saleh, Chairperson and Chief Executive Officer of Agility, on October 15, 2025, focusing on expanding investment cooperation in key economic sectors.
+The discussion centered on shared interest in advancing strategic partnerships across the development of modern logistics hubs, sector-specific industrial parks, aviation ground and cargo handling services, digital customs systems, e-commerce facilitation, as well as fuel transport and storage infrastructure.
+Both sides reaffirmed their commitment to strengthening collaboration aimed at enhancing Ethiopia’s logistics efficiency and trade competitiveness through sustainable, technology-driven investments aligned with national and regional development priorities.

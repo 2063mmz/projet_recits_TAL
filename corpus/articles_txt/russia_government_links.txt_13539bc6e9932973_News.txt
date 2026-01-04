@@ -1,0 +1,26 @@
+seed_url: http://government.ru/en/news/1048/
+final_url: http://government.ru/en/news/57373/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Mikhail Mishustin’s telephone conversation with Prime Minister of Belarus Alexander Turchin
+22 December 2025
+19:40
+Prime Minister Mikhail Mishustin had
+a telephone conversation with Prime Minister of the Republic of Belarus Alexander
+Turchin.
+The prime ministers discussed current
+issues of the bilateral trade, economic, scientific and technical cooperation, as well as the progress in joint projects in energy, industry, agriculture,
+transport infrastructure, and others.
+Mikhail Mishustin and Alexander Turchin
+highlighted the importance of promoting the integration cooperation within the Union State of Russia and Belarus and within the Eurasian Economic Union.
+Person:
+Mikhail Mishustin
+Government of the Russian Federation
+http://government.ru/en/news/57373/
+Highlight selection

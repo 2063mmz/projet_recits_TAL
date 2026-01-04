@@ -1,0 +1,226 @@
+seed_url: http://en.kremlin.ru/supplement/5188
+final_url: http://en.kremlin.ru/supplement/5188
+title: Joint Communique of the Leaders Roundtable of the Belt and Road Forum for International Cooperation
+date: May 15, 2017
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Joint Communique of the Leaders Roundtable of the Belt and Road Forum for International Cooperation
+May 15, 2017
+1.We, President Xi Jinping of the People’s
+Republic of China, President Mauricio Macri of the Republic of Argentina,
+President Alexander Lukashenko of the Republic of Belarus, President Michelle
+Bachelet Jeria of the Republic of Chile, President Milos Zeman of the Czech
+Republic, President Joko Widodo of the Republic of Indonesia, President
+Nursultan Nazarbayev of the Republic of Kazakhstan, President Uhuru Kenyatta of the Republic of Kenya, President
+Almazbek Atambayev of the Kyrgyz Republic, President Bounnhang
+Vorachith of the Lao People’s Democratic Republic, President Rodrigo Roa
+Duterte of the Republic of the Philippines, President Vladimir Putin of the Russian
+Federation, President Doris Leuthard of the Swiss Confederation, President
+Recep Tayyip Erdoğan of the Republic of Turkey, President Shavkat Mirziyoyev of the Republic of Uzbekistan, President Tran Dai Quang of the Socialist Republic
+of Viet Nam, Prime Minister Hun Sen of the Kingdom of Cambodia, Prime Minister
+Hailemariam Dessalegn of the Federal Democratic Republic of Ethiopia, Prime
+Minister Josaia Voreqe Bainimarama of the Republic of Fiji, Prime Minister
+Alexis Tsipras of the Hellenic Republic, Prime Minister Orbán Viktor of Hungary,
+Prime Minister Paolo Gentiloni of the Italian Republic, Prime Minister Najib
+Razak of Malaysia, Prime Minister
+Jargaltulgyn Erdenebat of Mongolia, State Counsellor Aung San Suu Kyi of the Republic of the Union of Myanmar, Prime Minister Muhammad Nawaz Sharif of the Islamic Republic of Pakistan, Prime Minister Beata Szydło of the Republic of Poland, Prime Minister and President-elect Aleksandar Vučić of the Republic of Serbia, President of the Government Mariano Rajoy Brey of the Kingdom
+of Spain, and Prime Minister Ranil Wickremesinghe
+of the Democratic Socialist Republic of Sri Lanka, attended the Leaders
+Roundtable of the Belt and Road Forum for International Cooperation on 15 May
+2017 in Beijing. We also welcome the participation of Secretary General Antonio
+Guterres of the United Nations, President Jim Yong Kim of the World Bank Group,
+Managing Director Christine Lagarde of the International Monetary Fund. The Leaders Roundtable was chaired by President Xi Jinping of the People’s Republic
+of China.
+General Context
+We are mindful that the world economy is
+undergoing profound changes, presenting both opportunities and challenges. This
+is an era of opportunity, where countries
+continue to aspire for peace, development and cooperation. The UN 2030
+Agenda for Sustainable Development with the set of Sustainable Development Goals at its core provides a new blueprint of international cooperation.
+In this context, we welcome bilateral, triangular, regional and multilateral cooperation where countries
+place emphasis on eradicating poverty, creating jobs, addressing the consequences of international financial crises,
+promoting sustainable development, and advancing market-based industrial transformation and economic diversification. We note with
+appreciation that various development strategies and connectivity cooperation initiatives
+have been put forward, providing broad space for strengthening international cooperation.
+4. We further recognize the challenges that the world economy faces. While it is currently
+experiencing modest recovery, downside risks remain. The growth of global
+trade and investment remains tempered, and the rules-based multilateral trading regime is yet to be strengthened. All countries, especially developing ones,
+still face common challenges of eradicating poverty, promoting inclusive and sustained economic growth, and achieving sustainable
+development.
+5. Noting that the Silk Road Economic Belt and the 21
+Century
+Maritime Silk Road (The Belt and Road Initiative) can create opportunities
+amidst challenges and changes, we welcome and support the Belt and Road
+Initiative to enhance connectivity between Asia and Europe, which is also open
+to other regions such as Africa and South America. By providing important
+opportunities for countries to deepen cooperation, it has achieved positive outcomes and has
+future potential to deliver more benefits as an important international
+initiative.
+6. We also emphasize
+the opportunities which can be created by communication and coordination among other global, regional and national frameworks and initiatives
+for promoting cooperation in connectivity and sustainable development, such as 2030 Agenda for Sustainable Development, Addis Ababa Action Agenda, Agenda 2063 of the African Union, Ancient
+Civilizations Forum, APEC Connectivity
+Blueprint, ASEAN
+Community Vision 2025,
+Asia-Europe Meeting and its group on path-finder of connectivity, Caravanserai Customs Initiative, China and Central and Eastern European Countries Cooperation, China-Europe Land-Sea Express Route, East-West Middle Corridor
+Initiative, EU-China Connectivity Platform, EU Eastern Partnership, Eurasian partnership based on the principles of equality, openness and transparency, Initiative for the Integration of Regional
+Infrastructure in South America, Master Plan on ASEAN Connectivity 2025, Main Directions for Economic Development of the Eurasian
+Economic Union until 2030, Paris Agreement on Climate Change, Trans-European Transport Networks, Western Balkans 6 Connectivity Agenda, WTO Trade Facilitation Agreement.
+7. We reaffirm our
+shared commitment to build open economy, ensure free and inclusive trade,
+oppose all forms of protectionism including in the framework of the Belt and Road Initiative. We endeavor to promote a universal, rules-based, open,
+non-discriminatory and equitable multilateral trading system with WTO at its
+core.
+Cooperation
+Objectives
+8. We stand for enhancing
+international cooperation including the Belt and Road Initiative and various development strategies, by building closer collaboration partnerships, which include
+advancing North-South, South-South,
+and triangular cooperation.
+9. We reiterate the importance of expanding economic
+growth, trade and investment based
+on level-playing field, on market rules and on universally recognized international norms. We
+welcome the promotion of industrial cooperation,
+scientific and technological innovation, and regional economic cooperation and integration so as to increase,
+inter alia, the integration and participation of micro, small and medium
+enterprises
+in global value chains. Attention
+should be paid to tax and fiscal
+policies, prioritizing growth and productive investment.
+10. We stand for strengthening physical,
+institutional and people-to-people connectivity among all
+countries. The least developed
+countries, landlocked developing countries,
+small island developing states and middle-income countries deserve
+special attention to remove bottlenecks of development and achieve effective connectivity.
+11. We endeavor to expand people-to-people
+exchanges, promote peace, justice, social
+cohesion,
+inclusiveness, democracy, good
+governance, the rule of law, human rights,
+gender equality and women empowerment; work together to fight against corruption and bribery in all their forms;
+to be more responsive to all the needs of those in vulnerable situations such as, children, persons
+with disabilities and older persons; and help
+improve global economic governance, and ensure
+equal access by all to development opportunities and benefits.
+12. We are determined to protect the planet from
+degradation, including through taking urgent action on climate change and encouraging all parties which have ratified it to fully implement the Paris
+Agreement, managing the natural resources in an equitable and sustainable
+manner, conserving and sustainably using oceans and seas, freshwater resources,
+as well as forests, mountains and drylands, protecting biodiversity, ecosystems
+and wildlife, combating desertification and land degradation so as to achieving
+sustainable development in its three dimensions in a balanced and integrated
+manner.
+13. We encourage the involvement of governments, international and regional organizations,
+the private sector, civil society and citizens in fostering and promoting friendship, mutual understanding and trust.
+Cooperation
+Principles
+14. We uphold the spirit of peace, cooperation,
+openness, transparency, inclusiveness, equality,
+mutual learning, mutual benefit and mutual respect by strengthening cooperation on the basis of extensive consultation and the rule of law, joint
+efforts, shared benefits and equal opportunities for all. In this context we highlight the following principles guiding our cooperation, in accordance with our respective national laws and policies:
+a) Consultation on an equal footing: Honoring the purposes and principles of the UN Charter and international law including respecting the sovereignty and territorial integrity of countries; formulating cooperation plans and advancing cooperation projects through consultation.
+b) Mutual benefit: Seeking convergence of interests
+and the broadest common ground for cooperation, taking into account the perspectives of different stakeholders.
+c) Harmony and inclusiveness: Acknowledging the natural and cultural diversity of the world and recognizing that all cultures
+and civilizations can contribute to sustainable development.
+d) Market-based operation: Recognizing the role of the market and that of business as key players,
+while ensuring that the government performs its proper role and highlighting
+the importance of open, transparent, and non-discriminatory procurement
+procedures.
+e) Balance and sustainability: Emphasizing the importance of economic, social, fiscal, financial and environmental
+sustainability of projects, and of promoting high environmental standards, while
+striking a good balance among economic growth, social progress and environmental protection.
+Cooperation
+Measures
+15. We affirm the need to prioritize policy consultation, trade promotion, infrastructure
+connectivity, financial cooperation and people-to-people exchanges,
+and we highlight concrete actions, in accordance with our national laws and regulations and international
+obligations where applicable, such as:
+a) Pursuing dialogue
+and consultation in order to build synergies in development strategies among
+participating countries, noting the efforts to strengthen cooperation in coordinating development of the Belt and Road Initiative with other plans and initiatives as mentioned in Paragraph 6 and to promote partnerships among
+Europe, Asia, South America, Africa and other regions.
+b) Conducting in-depth
+consultation on macroeconomic issues by optimizing the existing multilateral
+and bilateral cooperation and dialogue mechanisms, so as to provide robust
+policy support for practical cooperation and the implementation of major
+projects.
+c) Strengthening cooperation on innovation, by supporting innovation action plans for e-commerce, digital economy, smart
+cities and science and technology parks, and by encouraging greater exchanges
+on innovation and business startup models in the Internet age in respect of intellectual property rights.
+d) Promoting practical cooperation on roads,
+railways, ports, maritime and inland water transport, aviation, energy pipelines,
+electricity, fiber optic including trans-oceanic cable,
+telecommunications and information and communication technology, and welcoming
+the development of interconnected
+multimodal corridors, such us a new Eurasian Land Bridge, Northern Sea Route,
+the East-West Middle Corridor etc., and major trunk lines to put in place an international infrastructure network over time.
+e) Maximizing synergies in infrastructure planning and development by taking into account international standards where applicable,
+and by aiming at harmonizing rules and technological standards when necessary; fostering
+a favorable environment and predictability for infrastructure investment by private capital; promoting public-private partnership in areas that create more
+jobs and generate greater efficiency; welcoming
+international
+financial institutions to increase support and investment for infrastructure
+development.
+Deepening economic and trade cooperation;
+upholding the authority and effectiveness of the multilateral trading system,
+and working together to achieve positive outcomes at the 11th WTO ministerial
+conference; promoting trade and investment liberalization and facilitation;
+enabling the general public to benefit from trade.
+g) Expanding trade by nurturing new areas of trade
+growth, promoting trade balance and promoting e-commerce and digital economy, welcoming the development of free trade areas and signing of free trade agreements by interested countries.
+h) Advancing global value chains development and supply chain connectivity, while ensuring
+safer work places and strengthening social protection systems; increasing
+two-way investment, and enhancing cooperation
+in emerging industries, trade and industrial parks and cross-border economic
+zones.
+i) Enhancing cooperation in ensuring the protection
+of the environment, of bio-diversity and of natural resources, in addressing
+the adverse impacts of climate change, in promoting resilience and disaster-risk
+reduction and management, and in advancing renewable energy and energy
+efficiency
+j) Regarding the process
+of customs clearance, strengthening cooperation on information exchange and on developing mutual recognition of control, mutual assistance
+of enforcement, and mutual sharing of information; enhancing customs cooperation with a view to facilitating trade
+including by harmonizing procedures and reducing costs, and in this regard, strengthening
+cooperation
+in protecting intellectual property rights.
+k) Jointly working
+on a long-term, stable and sustainable financing system; enhancing
+financial infrastructure connectivity, by exploring new models and platforms of investment
+and financing and improving financial services; assessing the opportunity to better serve local financial market; and encouraging development-oriented financial institutions to play an active role and strengthen cooperation with multilateral development
+institutions.
+l) Contributing to a stable and equitable international financial system; promoting openness and connectivity among financial markets, including through mutual cooperation on payment
+systems and the promotion of financial inclusion; encouraging
+financial institutions to establish commercial presence in relevant countries
+and regions; promoting bilateral local currency
+settlement and cooperation agreements, and facilitating the development of local currency bonds and stock markets; encouraging
+dialogues to enhance financial cooperation
+and fend off financial risks.
+Promoting people-to-people
+exchanges and bonds by deepening
+practical cooperation on education, science, technology, sport, health,
+think-tank, media, capacity building including through internships.
+n) Encouraging dialogues among civilizations, cultural exchanges, promoting tourism and protecting the world’s
+cultural and natural heritage.
+Our Vision for the Future
+16. Our joint
+endeavor on the Belt and Road Initiative and seeking complementarities with other connectivity initiatives provide new
+opportunities and impetus for international cooperation. It helps to work for a globalization that is open, inclusive and beneficial to all.
+17. We reiterate
+that promoting peace, mutually-beneficial
+cooperation, and honoring the purposes
+and principles of the UN Charter and international law are our shared
+responsibilities; achieving inclusive and sustainable
+growth and development, and improving people’s quality of life are our
+common goals; creating a prosperous and peaceful community with shared future for mankind is our
+common aspiration.
+18. We
+congratulate China on successfully hosting the Belt and Road Forum for International Cooperation.
+See also
+Roundtable meeting of leaders at Belt and Road international forum
+May 15, 2017

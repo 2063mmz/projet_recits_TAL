@@ -1,0 +1,10 @@
+seed_url: https://www.ifa.gov.et/2025/03/13/arda-talk-held-a-public-lecture-on-the-benefits-of-the-united-nations-convention-on-the-law-of-the-sea-for-landlocked-countries/
+final_url: https://www.ifa.gov.et/2025/03/13/arda-talk-held-a-public-lecture-on-the-benefits-of-the-united-nations-convention-on-the-law-of-the-sea-for-landlocked-countries/
+title: ARDA Talk held a public lecture on “The benefits of the United Nations Convention on the Law of the Sea for landlocked countries”.
+date: Mar 13, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+On March 13, 2025, ARDA Talk held a public lecture on “The benefits of the United Nations Convention on the Law of the Sea for landlocked countries”. The lecture explored the UNCLOS legal frameworks that address the affairs of landlocked countries, and discussed potential legal and practical techniques that can be used by landlocked countries to gain access to seaports. The meeting was attended by academicians, diplomats and experts from across different institutions based in Addis Ababa.

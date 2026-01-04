@@ -1,0 +1,57 @@
+seed_url: http://www.en.kremlin.ru/events/president/transcripts/60390
+final_url: http://www.en.kremlin.ru/events/president/transcripts/60390
+title: Meeting with Myanmar’s State Counsellor Aung San Suu Kyi
+date: 2019-04-26
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Meeting with Myanmar’s State Counsellor Aung San Suu Kyi
+Vladimir
+Putin met with State Counsellor of the Republic of the Union of Myanmar Aung
+San Suu Kyi on the sidelines of the second
+Belt
+and Road
+Forum for International Cooperation.
+April 26, 2019
+14:40
+Beijing
+President of Russia Vladimir Putin:
+Madam State Counsellor, colleagues. I am very
+pleased to see you, and I am happy to have this opportunity to discuss things
+at the Beijing summit.
+Myanmar is Russia’s long-time and reliable partner in Southeast Asia. Last year, we marked the 70th anniversary
+of the establishment of diplomatic relations between our countries. We are
+committed to the further development of political dialogue and the continuation
+of inter-parliamentary exchanges. Our ministries of foreign affairs also have
+well-established contacts.
+Although quite modest in absolute
+terms, our mutual trade is growing rapidly, having gained more than 50 percent last
+year.
+There are regional issues, of course, which need to be focused on.
+I am glad to have the opportunity to meet with you and talk about all these issues.
+State Counsellor of Myanmar Aung San Suu Kyi:
+We are also very
+glad to have this opportunity to meet. We tried to meet with you in Singapore,
+but it was not possible before. Of course, we have been friends with Russia for a long time, and we value this friendship and we also appreciate the support that
+you have given us on the international arena. Your ambassador has done very
+much to promote friendship between our two countries, I think primarily because
+of his fluent Myanmar language, which has impressed our people a lot and made
+him very popular. And we look forward to expanding our relations with Russia.
+See also
+Belt and Road Forum for International Cooperation
+April 26, 2019
+Geography
+Myanmar
+Topics
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+April 26, 2019, 14:40
+Direct link:
+en.kremlin.ru/d/60390
+Text version

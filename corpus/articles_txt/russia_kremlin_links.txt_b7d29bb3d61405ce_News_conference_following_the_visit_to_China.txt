@@ -1,0 +1,279 @@
+seed_url: http://en.kremlin.ru/events/president/news/72532
+final_url: http://en.kremlin.ru/events/president/news/72532
+title: News conference following the visit to China
+date: 2023-10-18
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+News conference following the visit to China
+Concluding
+his working visit to the People's Republic of China, Vladimir Putin answered
+questions from Russian journalists.
+October 18, 2023
+13:05
+Beijing
+President of Russia Vladimir Putin
+: Good evening.
+I am here to answer your questions.
+Fire away please.
+Pavel Minakov
+Good afternoon, Interfax news agency.
+You have been in
+conversation
+with
+Xi Jinping
+Xi Jinping
+President of People's Republic of China
+for more than three hours today. Can you tell us what you talked
+about? How do you see the prospects for bilateral relations against the current
+backdrop including the regional conflicts – Ukraine, and the Palestinian-Israeli conflict? It is no secret that many countries are involved
+in them in one way or another. Today, everyone was shocked by the strike on the hospital in Gaza. How do you think these factors could influence the current
+relations with China and their development prospects?
+Additional
+All news about the visit to China
+Vladimir Putin
+The first part of the question was what our conversation focused on. You said
+yourself that the President of China and I talked for three hours – that is too
+long to explain in full now. We discussed the entire bilateral agenda, which
+includes many issues – economics, finance, political interaction, and joint
+work on international platforms.
+We discussed the situation in the Middle East at length. I informed the President about the situation in Ukraine
+in detail. So probably, as we talked for three hours, I would also need three
+hours to review every detail now. We do not have as much time as that, but we do
+not need it: I have given you the main highlights. So much for the first part.
+Second, regarding the influence of external factors and conflicts on the development of Russian-Chinese relations,
+all these external factors amount to common threats, and they strengthen
+Russian-Chinese interaction.
+I am optimistic about specific
+prospects. In March, we reached certain agreements and set forth eight clauses.
+Right now, the prime ministers will have to clarify these clauses in Bishkek,
+and they will sign a plan for our interaction until 2030. This is a very good,
+specific and substantial plan.
+I would also like to draw attention
+to the fact that both sides are doing this without any procrastination or administrative red tape. To be honest, this is something unusual even for the government agencies of any country, and this is not just about China and Russia. As a rule, these large-scale events, charted by us until 2030, are
+quite specific and it usually takes bureaucratic agencies several months to work
+them out. We have done this rather quickly, giving us reason to believe that we
+will also implement them quite fast.
+The trade volumes that we are
+discussing today are really impressive. Actually, we set the task of attaining
+$200 billion in 2024. When we formulated this objective in 2019, I will tell
+you frankly that few people believed that this was realistically possible
+because our trade volumes totalled $100 billion at that time; and they have
+already reached $200 billion, earlier than planned.
+I would like to note one more
+aspect: I said that Russia was China’s sixth-largest trade partner. In reality,
+even judging by purely formal criteria, this is not so, Russia occupies a higher
+position because this includes Hong Kong and the second part of China, all this
+amounts to China, and, strictly speaking, we do not have to heed these two
+factors. Keeping in mind that trade turnover between neighbouring countries (I mean South Korea and Japan) is always higher than between other states, then in effect,
+speaking of non-regional countries, we are China’s second largest partner after the United
+States, and we have outstripped the Federal Republic of Germany in this
+respect.
+Go ahead, please.
+Viktor Sineok
+Viktor Sineok, Izvestia.
+You must have discussed not only the Belt and Road project with your Chinese colleague, but also the Greater
+Eurasian Partnership initiative. Do you think these initiatives are
+complementary or is there a competitive dimension?
+Vladimir Putin
+Look, I have already said this, and I am speaking with absolute sincerity. Look
+at what China's Belt and Road initiative is – it is a global initiative and concerns
+practically every region of the world, all of them: the American continent,
+Africa, Europe, our neighbours in the Asia-Pacific region, and Russia as well.
+What is called the Eurasian
+Partnership is a local-scale project. It is a vast space and it is an absolute
+priority for us, for Russia, but it is not as global as the Chinese initiative.
+Therefore, without any doubt, one complements the other, and we have said as much in our statements. We have worked on this from both sides.
+Moreover, we are interested in the Belt and Road Initiative’s development. Because when we develop our own
+infrastructure (the Trans-Siberian Railway, the BAM, the Northern Sea Route,
+the North-South corridor, our railways and road networks, and so on), which I mentioned speaking at today’s plenary session, if this infrastructure grows
+along with the Chinese Belt and Road, it will add a synergistic effect to the efforts and investments that we are now making in developing Russian
+capabilities.
+We are interested in this, and we
+will work together. There is no competition here.
+Konstantin Panyushkin
+: Good afternoon.
+Konstantin Panyushkin, Channel One.
+Just before your visit to Beijing,
+you held a telephone marathon with the heads of Middle Eastern states. Could
+you please share your impressions following those calls? Did it feel like a new
+major war in the Middle East could be avoided? And has your stance changed now?
+What do you think today, after the monstrous strike on the hospital in Gaza and the Islamic world’s reaction?
+Vladimir Putin
+With regard to the strike on the hospital – the tragedy that happened there,
+this is a horrible event, which killed hundreds and left hundreds more wounded.
+Of course, this is a disaster for such a thing to happen in this place,
+especially considering its humanitarian mission. I do hope that this will serve
+as a signal that this conflict must end as quickly as possible. In any case,
+there must be a push paving the way towards the launch of contacts and talks.
+This is my first point.
+See also
+Telephone conversations with President of Syria Bashar al-Assad, President of Iran Ebrahim Raisi, President of Palestine Mahmoud Abbas and President of Egypt Abdel Fattah el-Sisi
+October 16, 2023
+Telephone conversation with Prime Minister of Israel Benjamin Netanyahu
+October 16, 2023
+Second, regarding the impressions I got during conversations with the five regional leaders, these were important
+talks, and timely too. Let me tell you what matters the most here without going
+into details: I have an impression that no one wants this conflict to continue
+or expand, or the situation to escalate.
+In my opinion, regarding the main
+actors – there is virtually no one there who wants the conflict to expand while
+others are wary of something and are not ready to turn it into a full-scale
+war. This is the impression I got. This is very important.
+Pavel Zarubin
+Good evening.
+Pavel Zarubin. Rossiya television
+channel.
+The President of Ukraine basically boasted
+that Kiev has not only received but has started to use the long-range ATACMS
+missiles from the United States. Washington has also confirmed that it did
+covertly supply the Kiev regime with these missiles.
+Vladimir Putin
+What do you mean by “covertly confirmed”?
+Pavel Zarubin
+I mean that it supplied these missiles in secret.
+As far as we understand, these
+missiles can significantly expand the range of the possible strikes, including
+by reaching deep into Russian territory. How significant a change will this be?
+How will Russia respond?
+Vladimir Putin
+First, this is of course a harmful development and creates an additional
+threat.
+Second, we can fend off these
+attacks, make no mistake about that. War is war, and I did say that they pose a threat. This is rather obvious. What matters the most here is that this cannot bring
+about any radical changes along the line of contact. It is impossible. This we
+can say for sure.
+And, finally, the next point: this
+is yet another mistake on the part of the United States – for several reasons.
+First, if they did not supply
+weapons, they would be able to say in the future: “Had we supplied everything
+we could, the situation would have changed, but this would have led to more
+unnecessary casualties. Good for us – we did not do that.” But they did, and there will be no effect. This is a mistake for this reason alone.
+And, finally, Ukraine, in this sense,
+gains nothing either. This simply prolongs its agony. They have started yet
+another announced and expected counteroffensive in the Kherson sector – without
+any effect so far. Losses there are, but no result, like previously in Zaporozhye and other sectors. Therefore, this is also a mistake from this point
+of view.
+And, finally, a larger and highly significant,
+if so far imperceptible mistake is that the United States is becoming more directly
+involved in this conflict. It is becoming involved – this is an obvious thing.
+And let no one say that it has nothing to do with this. We believe it has.
+Plus, all of this is happening against the background of the Middle East
+conflict and exacerbating tensions.
+They have upped and dragged two carrier
+task forces to the Mediterranean. I want to say – what I am going to say and inform you about is not a threat – that I have instructed the Russian Aerospace
+Forces to start patrolling the neutral zone over the Black Sea on the permanent
+basis. Our MiG-31 aircraft carry the Kinzhal systems that, as is common
+knowledge, have a range of over 1,000 kilometres and can reach speeds of up to Mach 9.
+Andrei Kolesnikov
+: Kommersant newspaper. Good evening.
+Could you please tell me whether the talks you had can give us any reason to expect, or at least to assume,
+that the Israeli-Arab conflict may finally lead to the creation of the State of Palestine? And how could this happen, considering that there are basically two
+antagonistic Palestines today?
+Vladimir Putin
+You are going too far in talking about “two antagonistic Palestines.” There are
+differences within the Palestinian community, between the West Bank and Gaza.
+But I would not go as far as to call them antagonistic towards one another. The way President Abbas responded to these developments demonstrates that he has no
+enmity towards the Gaza Strip and those in charge of the situation there. This
+does not mean however that there is no need for them to build closer contacts.
+This does not mean that the Palestinian community, or society, does not need to strive for its unity. Of course, this is what the Palestinians must strive for.
+But this is their business. We cannot manage this process.
+As for the Palestinian statehood, we
+believe – and this is our principled position which has nothing to do with the ongoing crisis even though it did push this issue to the surface – nevertheless
+we have always advocated the creation of a Palestinian state that would be
+independent, sovereign and with a capital in East Jerusalem. We have been
+talking about this for a long time, the international community has been
+talking about for a long time, since 1948, in fact, when the objective to create two independent sovereign states was put forward. I do not know whether
+today’s crisis can help deliver on this task. If this were the case, it would be
+a step in the right direction since it would create conditions for achieving
+lasting peace down the road. After all, as demonstrated by today’s crisis, there
+is no way you can use momentary economic handouts in the way attempted by the United
+States, in lieu of addressing fundamental political issues dealing with the future of the Palestinian nations. We need to address fundamental political issues.
+Anastasia Savinykh:
+The TASS News Agency.
+Yesterday you met with Prime Minister of Hungary Viktor Orban, who,
+following that meeting, said that he had raised the issue of the possibility of a ceasefire in Ukraine. He said that the conversation with you left him
+discouraged. Can you tell us what you told him and why Orban lost his optimism
+altogether?
+Did you have a chance to talk with President of Serbia [Aleksandar]
+Vucic?
+Vladimir Putin:
+Yes, I had a brief meeting with Vucic. He is concerned about the situation in his region,
+around Serbia, too. We share this concern.
+As for my meeting with Prime Minister Orban, you said that he has run
+out of optimism. I am not sure about that. I believe that Mr Orban is a pragmatic and, in principle, optimistic person. I do not think that he has lost
+his optimism altogether.
+But my views regarding that part of our conversation are well known; there
+is no secret about that. When he asked me about the possibility of a peaceful
+settlement, I said what I have said many times before, that if the Ukrainian
+side really wants to negotiate, it should not make any theatrical gestures but instead
+start by cancelling the presidential executive order prohibiting talks [with
+Russia].
+It is rumoured that they are presumably ready for negotiations now.
+Several high-ranking officials in charge of foreign policy, who only recently
+spoke about inflicting strategic defeat on Russia on the battlefield, have
+changed their tune and say that such issues should be decided through peaceful
+negotiations. It is a reasonable change, a shift in the right direction, which
+Mr Borrell is talking about as well. I can commend him for that, but it is not
+enough. Practical steps must be taken if there is a real desire to hold
+negotiations.
+As for Prime Minister Orban, he is often accused of pro-Russian
+sentiments, which is nonsense. He has no pro-Russian sentiments, and he is not
+a pro-Russian politician. He is a pro-Hungarian politician. He is mostly criticised
+not for taking a stand that differs from the positions of other European
+leaders, but for having the courage to uphold the interests of his own people.
+Many political leaders in modern Europe lack the courage to do this, they do
+not have this kind of courage. They envy him, which is why they are criticising
+him.
+The last question, please.
+Murad Gazdiev
+The US President said Russia has already lost the war.
+Vladimir Putin
+Excellent.
+Murad Gazdiev
+He says the US is now aiming to unite all of Europe against Russia.
+Vladimir Putin
+Great.
+Murad Gazdiev
+How should this statement be assessed?
+Vladimir Putin
+If Russia has lost the war, why are they sending the ATACMS in? Why doesn’t
+[the US] take back the ATACMS and all its other weapons [and why doesn’t President
+Biden] come eat some pancakes and drink some tea with us? If the war is lost,
+what are we talking about? What are the ATACMS for? Ask them this question. Hilarious.
+Alexander Yunashev
+: May I?
+Vladimir Putin
+Of course, of course, please.
+Alexander Yunashev
+: About tea parties, if it is no secret. You left the building where the talks were two or three hours ago, and you have only just arrived here. Perhaps
+President Xi gave you a tour of Beijing, just as you invited him to your place to have tea by the fireplace before? If I may ask.
+Vladimir Putin
+Well, yes, we had a small lunch, a business lunch with foreign ministers from
+both sides, with aides, and then President Xi suggested speaking in private. He
+and I had a private conversation indeed, just talked over a cup of tea. We
+talked for another hour and a half, maybe two hours, and discussed some very
+confidential issues face to face. It was a very productive and informative part
+of our meeting.
+Pavel Zarubin
+Excuse me, what you said about patrolling over the Black Sea, would that not be
+called another threat from Russia?
+Vladimir Putin
+I emphasised that this is not a threat. But we will perform visual control, and weapons-based control over what is happening in the Mediterranean Sea.
+Thank you very much. Have a good day. Thank you for your attention.
+Geography
+People's Republic of China
+Topics
+Foreign policy
+Media
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+October 18, 2023, 13:05
+Direct link:
+en.kremlin.ru/d/72532
+Text version

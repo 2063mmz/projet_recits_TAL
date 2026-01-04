@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2025/03/19/ifa-hosts-online-meeting-on-ethiopias-role-in-brics/
+final_url: https://www.ifa.gov.et/2025/03/19/ifa-hosts-online-meeting-on-ethiopias-role-in-brics/
+title: IFA Hosts Online Meeting on Ethiopia’s Role in BRICS
+date: Mar 19, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+The Institute of Foreign Affairs (IFA) hosted an online meeting on March 19, 2025, to discuss Ethiopia’s preparations for the upcoming 2nd BRICS Dialogue, scheduled for April 4, 2025. The session, chaired by H.E. Jafar Bedru, Executive Director of IFA, brought together key stakeholders to assess Ethiopia’s strategic direction within BRICS and explore opportunities for deeper engagement.
+A key focus of the meeting was Ethiopia’s growing partnership with BRICS nations, as part of its broader effort to strengthen economic ties, attract investment, and enhance its role in global governance. Dr. Haminot Eshetu presented insights on the BTTC Document Enrichment and key takeaways from last year’s BRICS Dialogue, highlighting Ethiopia’s progress in economic and diplomatic engagement within the bloc.
+In concluding the session, H.E. Jafar Bedru outlined several strategic initiatives to reinforce Ethiopia’s role in BRICS. These include organizing local institutions to streamline BRICS engagement, hosting consultative forums for policy dialogue, establishing strategic partnerships to attract investment, and launching engagement initiatives to enhance Ethiopia’s presence in BRICS discussions.
+As Ethiopia prepares for the 2nd BRICS Dialogue, these initiatives reflect its commitment to strengthening ties within BRICS and expanding its global influence. With Brazil set to assume the BRICS presidency in 2025, Ethiopia aims to capitalize on this momentum to deepen its economic and political participation. Beyond economic cooperation, Ethiopia continues to advocate for global governance reforms and regional stability.

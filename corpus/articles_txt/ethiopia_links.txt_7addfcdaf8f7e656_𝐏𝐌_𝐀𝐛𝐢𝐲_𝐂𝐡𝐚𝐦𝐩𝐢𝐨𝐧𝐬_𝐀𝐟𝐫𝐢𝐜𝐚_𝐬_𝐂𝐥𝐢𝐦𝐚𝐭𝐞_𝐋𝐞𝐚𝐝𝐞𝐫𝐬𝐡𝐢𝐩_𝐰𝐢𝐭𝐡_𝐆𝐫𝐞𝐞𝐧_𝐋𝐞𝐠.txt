@@ -1,0 +1,10 @@
+seed_url: https://www.ifa.gov.et/2025/09/08/%F0%9D%90%8F%F0%9D%90%8C-%F0%9D%90%80%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AC-%F0%9D%90%80/
+final_url: https://www.ifa.gov.et/2025/09/08/%F0%9D%90%8F%F0%9D%90%8C-%F0%9D%90%80%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AC-%F0%9D%90%80/
+title: 𝐏𝐌 𝐀𝐛𝐢𝐲 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧𝐬 𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝐂𝐥𝐢𝐦𝐚𝐭𝐞 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐰𝐢𝐭𝐡 𝐆𝐫𝐞𝐞𝐧 𝐋𝐞𝐠𝐚𝐜𝐲 𝐚𝐭 𝐀𝐂𝐒𝟐
+date: Sep 8, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+In his keynote speech at ACS2, Prime Minister Abiy stated, “Too often, African stories at climate summits begin with what we lack—lack of finance, lack of technology, and lack of time. But we’re the youngest population in the world, endowed with creativity and innovation. We have the fastest-growing solar capacity on earth, vast arable land, and abundant resources that can feed the continent, including green technologies from wind, solar, and geothermal energy.” “We are not here to negotiate our survival; we’re here to design the world’s next climate economy,” he added. “If we make the right choices now, Africa can be the first continent to industrialize without destroying its ecosystems,” he emphasized. “In Ethiopia, we have seen what is possible when determination is driven by clear purpose.” This takes shape through deliberate, data-driven actions that address our challenges and opportunities. “Guided by purpose, we are implementing initiatives that show the power of vision and community effort,” he continued. “In 2019, we launched the Green Legacy initiative. In seven years, we have planted over 48 billion seedlings. They cool our land, enrich our soil, restore watersheds, provide food, create jobs, and boost exports,” he concluded.

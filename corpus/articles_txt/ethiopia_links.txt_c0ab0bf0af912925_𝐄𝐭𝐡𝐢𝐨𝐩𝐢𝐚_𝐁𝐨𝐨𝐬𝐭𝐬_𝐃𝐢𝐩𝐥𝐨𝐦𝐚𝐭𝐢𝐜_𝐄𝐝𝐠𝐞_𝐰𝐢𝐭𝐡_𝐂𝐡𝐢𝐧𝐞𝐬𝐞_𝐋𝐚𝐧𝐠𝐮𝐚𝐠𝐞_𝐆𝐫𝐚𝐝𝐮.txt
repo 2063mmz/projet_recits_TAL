@@ -1,0 +1,13 @@
+seed_url: https://www.ifa.gov.et/2025/11/28/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%83%F0%9D%90%A2/
+final_url: https://www.ifa.gov.et/2025/11/28/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%83%F0%9D%90%A2/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚 𝐁𝐨𝐨𝐬𝐭𝐬 𝐃𝐢𝐩𝐥𝐨𝐦𝐚𝐭𝐢𝐜 𝐄𝐝𝐠𝐞 𝐰𝐢𝐭𝐡 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞𝐬
+date: Nov 28, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+A certificate award ceremony for the online Chinese language training program for newly recruited young diplomats was held at the Chinese Embassy to Ethiopia on November 27, 2025.
+The four-month program, jointly organized by Ethiopia’s Institute of Foreign Affairs (IFA) and the Confucius Institute at Addis Ababa University, marked a key step in strengthening language skills and cross-cultural competence within the diplomatic corps.
+The event brought together senior officials, including H.E. Mohammedrafie Aba Raya, Deputy Director of IFA; Mr. Amha HaileGeorgis, Deputy Director for Middle East and Pacific Affairs at the Ministry of Foreign Affairs; Dr. Samuel Kifle, President of Addis Ababa University; and Prof. Gao Lili, Director of the Confucius Institute.
+Seventeen trainees were awarded certificates in recognition of their successful completion of the program.

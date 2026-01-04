@@ -1,0 +1,14 @@
+seed_url: https://www.ifa.gov.et/2025/10/10/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%80%F0%9D%90%9D%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AC/
+final_url: https://www.ifa.gov.et/2025/10/10/%F0%9D%90%84%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9A-%F0%9D%90%80%F0%9D%90%9D%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AC/
+title: 𝐄𝐭𝐡𝐢𝐨𝐩𝐢𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐬 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐓𝐫𝐚𝐝𝐞 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧
+date: Oct 10, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+H.E. Kassahun Gofe (PhD), Minister of Trade and
+Regional Integration, announced Ethiopia’s dual progress in international trade diplomacy with the launch of the African Continental Free Trade Area (AfCFTA) implementation next week and significant advancement in the WTO accession process.
+He confirmed that Ethiopia’s 6th WTO Working Party meeting in Geneva marked a milestone, with Ethiopia’s negotiating documents formally accepted and wide support expressed by member states. The 7th Working Party meeting is scheduled for January.
+At the same time, Ethiopia’s launch of AfCFTA implementation represents a decisive step toward deeper African economic integration, contributing to food security, poverty reduction, and sustainable development in line with Agenda 2063 and the UN SDGs.
+Minister Kassahun emphasized that these twin tracks of AfCFTA and WTO accession reflect Ethiopia’s steadfast commitment to expanding its role in both regional and global markets, fostering sustainable growth, and opening new opportunities for trade and investment.

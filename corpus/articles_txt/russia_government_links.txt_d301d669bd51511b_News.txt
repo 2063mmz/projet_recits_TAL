@@ -1,0 +1,92 @@
+seed_url: http://government.ru/en/news/40937/
+final_url: http://government.ru/en/news/40937/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Dmitry Chernyshenko chaired the 24th meeting of the Russian-Chinese Commission on Preparing Regular Meetings of the Prime Ministers
+24 November 2020
+16:30
+The commission met via videoconference in preparation for the 25th regular meeting of the heads of government of the Russian Federation and the People's Republic of China.
+The 24th meeting of the Russian-Chinese Commission on Preparing Regular Meetings of the Prime Ministers
+Dmitry Chernyshenko at the 24th meeting of the Russian-Chinese Commission on Preparing Regular Meetings of the Prime Ministers
+The 24th meeting of the Russian-Chinese Commission on Preparing Regular Meetings of the Prime Ministers
+Russia was represented
+by Chairman of the Russian side of the Commission and Deputy Prime Minister
+Dmitry Chernyshenko, Ambassador Extraordinary and Plenipotentiary of Russia to
+the PRC Andrei Denisov, officials from public authorities in transport,
+education, healthcare, tourism, sports, culture, digital development, security,
+environmental protection, construction and urban development; as well as state
+corporations and financial institutions.
+The Chinese delegation,
+led by Chairman of the Chinese side of the Commission and Vice-Premier of the
+State Council
+of the
+People's Republic
+China Hu
+Chunhu,
+included officials
+from China’s state authorities, financial organisations and staff from the
+Embassy of the People's Republic of China to the Russian Federation.
+In his opening remarks,
+Dmitry Chernyshenko praised the level of interaction between the governments of
+Russia and China amid the
+pandemic.
+“Our countries had
+to respond quickly to many challenges this year in order to support our national
+economies and healthcare systems and take care of the people,” the Deputy Prime
+Minister said. “In these challenging circumstances, both sides lent each other
+helping hands, sent humanitarian supplies and medical specialists, and coordinated
+actions for evacuating people and ensuring passport control at the border.”
+The participants
+noted that the necessary limitations on personal meetings this year could not help
+but affect bilateral cooperation. Nevertheless, both countries managed to
+preserve the positive dynamics of trade and achieve tangible growth in all
+areas of interaction.
+“The pandemic has challenged
+economic and trade cooperation between the countries,” Hu Chunhua said. “However,
+during this difficult time, China
+and Russia
+have made progress across all areas of cooperation. A lot of positive changes
+have taken place since the last time our commission met. Today, we will outline
+plans for the post-pandemic period and preparations for the 25
+meeting
+of heads of government.”
+The participants
+discussed the current state of affairs and prospects for the strategic projects
+of Russian-Chinese interaction in nuclear energy, civil aviation, transport
+infrastructure projects, and interaction in space exploration and tourism.
+Dmitry
+Chernyshenko told his Chinese colleagues that Russia started developing a
+national project, Tourism and the Hospitality Industry, which will help create
+a high-quality and diverse tourism product, make this industry more accessible
+in our country and improve the quality of service.
+“We are aware that
+Chinese tourists visit Russian attractions and resorts and rank number one
+among non-CIS countries in terms of the number of inbound tourist trips to Russia,” the
+Deputy Prime Minister said. “We encourage you to consider this opportunity and
+look forward to seeing Chinese investors, hoteliers and tourism companies participating
+in this ambitious project.”
+During the
+meeting, its participants emphasised the importance of resuming exhibition and
+fair activities and discussed the possibility of holding the 7
+Russian-Chinese
+EXPO in Russia
+next year.
+The Deputy Prime
+Minister encouraged Chinese researchers to participate in the
+joint development of groundbreaking areas of scientific and technical cooperation,
+including as part of the Eurasian Economic Union and the Belt and Road
+Initiative.
+Following the
+meeting, the parties noted progress in many areas of interaction and adopted several
+agreed-upon decisions, which were included in the minutes.
+Person:
+Dmitry Chernyshenko
+Government of the Russian Federation
+http://government.ru/en/news/40937/
+Highlight selection

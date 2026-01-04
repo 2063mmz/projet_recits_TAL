@@ -1,0 +1,60 @@
+seed_url: https://president.uz/en/lists/view/3417
+final_url: https://president.uz/en/lists/view/3417
+title: Uzbekistan’s leader meets with Chinese delegation
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Uzbekistan’s leader meets with Chinese delegation
+02.03.2020
+Today, on March 2, President of the Republic of Uzbekistan Shavkat Mirziyoyev received a delegation of the People’s Republic of China, led by Yang Jiechi, member of the Politburo of the Central Committee of the Communist Party of China and chief of the Office on Foreign Affairs.
+As the head of our state emphasized while greeting the guest, Uzbekistan and China are firmly tied by friendship and comprehensive strategic partnership today.
+Regular meetings of the two leaders have allowed the sides to raise the bilateral cooperation to a qualitatively new level and fill it with solid essence.
+Thanks to joint efforts, there has been a dynamic growth in the volume of mutual trade turnover. Major investment projects are implemented in Uzbekistan with the participation of leading companies and financial institutions of China. Cultural and humanitarian exchange has been expanding.
+The distinguished guest, expressing sincere gratitude for the warm welcome, conveyed a personal message from President Xi Jinping to President Shavkat Mirziyoyev. The letter read deep satisfaction with the achieved high level of bilateral cooperation in recent years and gratitude for the support provided in countering the spread of a new type of coronavirus.
+The conversation served to discuss topical issues in the Uzbek-Chinese multifaceted partnership.
+Particular attention was paid to the need to continue joint preparation and implementation of priority projects in the energy, hydrocarbon, chemical, textile, agricultural and other sectors of the economy, to modernize infrastructure in Uzbekistan.
+Views were exchanged also on pressing issues of the international and regional agenda, on the enhancement of constructive dialogue within the United Nations, the SCO and other institutions, as well as cooperation in the framework of promoting the One Belt, One Road initiative.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

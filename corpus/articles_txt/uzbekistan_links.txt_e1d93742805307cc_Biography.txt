@@ -1,0 +1,72 @@
+seed_url: https://president.uz/en/site/multi-video?menu_id=14&page=4&per-page=15
+final_url: https://president.uz/en/pages/view/biography?menu_id=10
+title: Biography
+date: September 8, 2016
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Status
+Biography
+Honors
+Biography
+Shavkat Mirziyoyev was born on July 24, 1957, in Zaamin District of Jizzakh Region to a family of doctors. He is Uzbek by nationality and has higher education. In 1981, he graduated from the Tashkent Institute of Engineers of Irrigation and Mechanization of Agriculture with a degree in mechanical engineering. He holds a Ph.D. in Technical Sciences and is an Associate Professor.
+Shavkat Mirziyoyev started his career in 1981 at the Tashkent Institute of Engineers of Irrigation and Mechanization of Agriculture, where he served as a junior research fellow, senior lecturer, associate professor, and the vice rector for academic affairs.
+In 1990, he was elected as a deputy of the Supreme Council of the Republic. He served as the Chairman of the Credentials Committee. In 1992, Shavkat Mirziyoyev was appointed as the khokim (governor) of Mirzo Ulugbek District in the city of Tashkent. From 1996 to 2001, he served as the khokim of Jizzakh Region and from 2001 to 2003, he was the khokim of Samarkand Region. He made a significant contribution to the socio-economic development of the aforementioned district and regions.
+While working in the executive branch and concurrently serving as the deputy of the Oliy Majlis of the Republic of Uzbekistan from 1995 to 2003, he actively and fruitfully participated in the elaboration and adoption of important legislative acts concerning the political and socio-economic development of the country and implementation of democratic reforms.
+Shavkat Mirziyoyev was appointed as the Prime Minister of the Republic of Uzbekistan in 2003 and subsequently re-approved three times (in 2005, 2010, and 2015) in his post by both Chambers of the Oliy Majlis.
+From the early years of Uzbekistan’s independence, Shavkat Mirziyoyev earned high trust from the first President of Uzbekistan Islam Karimov by selflessly working as his colleague and close associate.
+As the head of the government, he has shown tremendous abilities and outstanding leadership in the implementation of wide-ranging socio-economic reforms, modernization, and improvement of the country, realization of major and unique projects, development and protection of private property, radical increase in the share of small businesses and private enterprise in the economy, and consolidation of their legal security.
+In his activities, Shavkat Mirziyoyev attached special significance to economic development on an industrial basis, improving the country's exporting potential, fundamentally transforming the agricultural sector, especially through the extensive advancement of farming enterprises, deep processing of agricultural products, providing food security for the nation, and guaranteeing the supply of goods to the population at reasonable prices.
+In order to drastically uplift the living and working conditions of people, Shavkat Mirziyoyev had taken effective measures for large-scale construction and improvement works in all regions of the country. This includes improving the quality of public services, integrated development of cities and districts, and even remote rural areas.
+In addition to the socio-economic dimension, Mirziyoyev placed a significant emphasis on education, science, and healthcare as priority areas in line with the modern requirements, the need for creating necessary conditions for forming a healthy and comprehensively advanced younger generation, and protecting motherhood and childhood.
+He has paid much attention to further enhancing the credibility of the unique institution of self-government – makhalla and other social organizations, consistent consolidation of their role in the community through broad involvement in the process of democratic reforms, as well as the preservation and enrichment of national spiritual values.
+Along with this, in addressing economic and social issues, Shavkat Mirziyoyev directly supervised the efforts to build up comprehensive, mutually beneficial cooperation with other countries, international organizations, and financial institutions. He also prioritized important agreements that serve the national interests and economic development of the country.
+On September 8, 2016, based on a joint resolution of the Legislative Chamber (Lower House) and Senate of the Oliy Majlis (parliament) of Uzbekistan adopted at a joint session, Prime Minister Shavkat Mirziyoyev was temporarily assigned the duties and powers of the President of the Republic of Uzbekistan.
+On October 19, 2016, the Movement of Entrepreneurs and Businessmen - Liberal-Democratic Party of Uzbekistan (UzLiDeP) nominated Shavkat Mirziyoyev as their candidate for the presidential elections during its Eighth Convention in Tashkent.
+Shavkat Mirziyoyev was elected President of the Republic of Uzbekistan with 88.61 percent of the vote based on the results of the presidential elections that took place on December 4, 2016. He officially assumed the post of President of the Republic of Uzbekistan on December 14, 2016.
+On October 24, 2021 President Shavkat Mirziyoyev has been re-elected for a second five-year term, winning 80.1% votes.
+Shavkat Mirziyoyev is married and has two daughters, one son, and six grandchildren. His spouse, Z.M. Mirziyoyeva, has a qualification as an engineer-economist.
+In recognition of his many years of productive work in government and management, enormous contribution to the development of the country, and improvement of the people’s welfare, Shavkat Mirziyoyev was awarded the Order “Mekhnat Shukhrati” (‘Glory of Labor’) and “Fidokorona Khizmatlari Uchun” (‘For Selfless Service’).
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

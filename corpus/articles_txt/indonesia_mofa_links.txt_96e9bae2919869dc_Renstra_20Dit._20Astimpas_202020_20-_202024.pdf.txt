@@ -1,0 +1,1296 @@
+seed_url: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Astimpas%202020%20-%202024.pdf
+final_url: https://kemlu.go.id/files/repositori/65386/Renstra%20Dit.%20Astimpas%202020%20-%202024.pdf
+title: Renstra%20Dit.%20Astimpas%202020%20-%202024.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+R E N C A N A S T R A T E G I S 2 0 2 0 - 2 0 2 4
+DIREKTORAT ASIA TIMUR DAN PASIFIK
+DIREKTORAT JENDERAL ASIA PASIFIK DAN AFRIKA
+KEMENTERIAN LUAR NEGERI
+
+Dalam rangka mewujudkan tata kelola pemerintahan yang baik, Direktorat Asia Timur
+dan Pasifik telah menyusun Rencana Strategis Direktorat Asia Timur dan Pasifik tahun 2020 –
+2024 yang mengacu kepada Rencana Strategis Kementerian Luar Negeri sesuai amanat
+Peraturan Presiden No. 29 Tahun 2014 tentang Sistem Akuntabilitas Kinerja Instansi
+Pemerintah.
+ Rencana Strategis Direktorat Asia Timur dan Pasifik berisikan visi, misi, tujuan, sasaran
+strategis, arah kebijakan strategis dan target kinerja s ampai dengan lima tahun mendatang,
+sebagai pedoman pelaksanaan politik luar negeri baik dalam mekanisme kerja sama bilateral
+maupun intrakawasan di Asia Timur dan Pasifik.
+ Rencana Strategis Direktorat Asia Timur dan Pasifik ini disusun  selaras dengan Visi
+Kementerian Luar Negeri tahun 2020 – 2024 yakni “Memimpin diplomasi yang aktif dan efektif
+untuk mewujudkan Indonesia Maju yang Berdaulat, Mandiri, dan Berkepribadian berlandaskan
+Gotong Royong”.
+ Rencana Strategis Direktorat Asia Timur dan Pasifik  ini diharapkan dapat memberikan
+gambaran yang jelas mengenai rencana kerja Direktorat Asia Timur dan Pasifik periode 2020 –
+2024 dalam mengelola dan melaksanakan kebijakan politik luar negeri RI di Kawasan Asia
+Timur dan Pasifik.
+ Akhir kata, kami mengucapkan penghargaan setinggi-tingginya kepada seluruh jajaran
+pegawai di Direktorat Asia Timur dan Pasifik  beserta pihak-pihak yang telah memberikan
+kontribusi dan masukan strategis dalam penyusunan Renstra ini. Kami berharap Renstra in i
+dapat diimplementasikan sebaik -baiknya untuk mendukung pelaksanaan visi dan misi
+Kementerian Luar Negeri, khususnya di Kawasan Asia Timur dan Pasifik.
+
+ Jakarta, 24 Januari 2021
+Direktur Asia Timur dan Pasifik
+
+
+Santo Darmosumarto
+
+Direktorat Asia Timur dan Pasifik terakreditasi kepada 18 negara/teritori yang terbagi
+menjadi 2 sub-kawasan, yaitu kawasan Asia Timur serta Kawasan Pasifik dan Oseania. Kedua
+sub-kawasan memiliki dinamika dan fokus tersendiri dalam membangun dan meningkatkan
+hubungan luar negeri dengan masing -masing kawasan. Dalam pelaksanaan diplomasi di
+kawasan, Direktorat Asia Timur dan Pasifik bekerja sama dengan 18 Perwakilan RI yang terdiri
+dari 8 KBRI, 8 KJRI, dan 2 KRI.
+Selama kurun waktu lima tahun terakhir, hubungan bilateral dan konektivitas RI dengan
+negara-negara sahabat di kawasan Asia Timur dan Pasifik secara umum semakin menguat. Ke
+depannya, hubungan bilateral RI dengan negara mitra di Kawasan Asia Timur dan Pasifik akan
+dilaksanakan sesuai dengan 5 prioritas diplomasi Indonesia, yaitu 1) membangun kemandirian
+dan ketahanan kesehatan  nasional atau National Health Security ; 2) mendukung pemulihan
+ekonomi dan pembangunan  hijau/pembangunan berkelanjutan ; 3) memperkuat sistem
+perlindungan WNI; 4) terus berkontribusi untuk memajukan berbagai  isu kawasan dan dunia ;
+dan 5) diplomasi bekerja untuk menjaga kedaulatan dan integritas wilayah.
+Dalam kaitan tersebut, pengejawantahan 5 prioritas diplomasi di kawasan Asia Timur
+dan Pasifik ke depan akan dilaksanakan melalui berbagai upaya memajukan agenda nasional
+bidang kebijakan luar negeri, terutama perluasan pasar ekspor dan daya saing produk
+Indonesia dengan fokus sasaran pada pasar prospektif, peningkatan kerja sama maritim,
+penjagaan integritas wilayah, serta sentralitas Indonesia dalam perdamaian dan keamanan di
+kawasan.
+Di kawasan Asia Timur, kemitraan perdagangan dan investasi Indonesia dengan 3 (tiga)
+negara mitra utama yakni RRT, Jepang , dan Korea Selatan terus meningkat. Kerja sama  RI-
+RRT juga diperkuat melalui sinergi visi Poros Maritim Dunia dan Belt and Road Initiative  RRT
+untuk merealisasikan konektivitas maritim di kawasan melalui berbagai pembangunan . Di
+tengah pandemi, tercatat kerja sama erat Travel Corridor Agreement (TCA) dan pengadaan
+vaksin Covid-19 dengan RRT dan Korea Selatan. Adapun pembentukan TCA dengan Jepang
+yang telah digagas pada saat pertemuan Presiden RI -PM Jepang di Bogor, Oktober 2020,
+belum dapat direalisasikan karena perkembangan pandemi yang belum membaik.
+Kemitraan Indonesia dengan Pasifik Selatan semakin diperkokoh dengan visi “ Pacific
+Elevation” yang menitikberatkan kerja sama ekonomi dan konektivitas (khususnya dengan
+Kawasan Timur Indonesia) dalam rangka mewujudkan perdamaian dan kemakmuran bersama
+di Pasifik. Salah satunya dengan disepakatinya Indonesia-Australia Comprehensive Economic
+Partnership Agreement (IA-CEPA) serta negosiasi Preferential Trade Agreement (PTA) dengan
+Fiji dan Papua Nugini.
+Selain fokus di bidang ekonomi, Direktorat Asia Timur dan Pasifik juga terus berupaya
+memagari kepentingan Indonesia di Kawasan. Dalam kaitan ini, diplomasi RI perlu dilanjutkan
+untuk menjunjung kedaulatan NKRI . Indonesia juga perlu terus menjaga stabilitas dan
+perdamaian di kawasan Asia Timur dan Pasifik, antara lain dalam penanganan isu Laut China
+Selatan, Laut China Timur dan Semenanjung Korea , maupun tindak lanjut penandatanganan
+
+Regional Comprehensive Economic Partnership  dengan 4 (empat) negara besar di Kawasan
+yaitu: Australia, Jepang, Selandia Baru, dan Korea Selatan.
+Menyadari arti penting dan strategis Kawasan Asia Timur dan Pasifik, Kementerian Luar
+Negeri sebagai salah satu ujung tombak hubungan luar negeri dituntut mampu beradaptasi
+dengan cepat dan menyikapi dinamika yang terjadi untuk mengoptimalkan capaian diplomasi
+Indonesia di kawasan ini . Salah satu upaya untuk merespon tantangan tersebut antara lain
+dilaksanakan melalui proses penataan organisasi Kementerian Luar Negeri dengan tujuan
+untuk lebi h memperkuat infrastruktur internal diplomasi yang ada . Berbagai upaya yang
+dilakukan pada gilirannya diharapkan dapat mewujudkan diplomasi Indonesia yang memberikan
+nilai manfaat ekonomi bagi kepentingan nasional.
+Pada tahun 2021  akan dilaksanakan perubahan organisasi pada Direktorat Jenderal
+Asia Pasifik dan Afrika  yang semula terdiri dari 7 (tujuh) Satuan Kerja  menjadi 8 (delapan)
+Satuan Kerja. Sesuai SOTK baru, Direktorat Asia Timur dan Pasifik akan dimekarkan menjadi
+Direktorat Asia Timur  serta Direktorat Pasifik dan Oseania. Dengan pemekaran Direktorat Asia
+Timur dan Pasifik, diharapkan pelaksanaan 5 prioritas polugri akan lebih efektif, efisien, fokus
+dan terarah.
+Urgensi penataan organisasi Direktorat Jenderal Asia Pasifik dan Afrika melalui
+pemekaran Direktorat Asia Timur dan Pasifik tersebut didasarkan pada pertimbangan dan
+analisa kebutuhan diplomasi Indonesia ke depan, antara lain:
+• Kawasan Asia Timur dan Pasifik memiliki arti penting dalam percaturan politik luar negeri
+Indonesia. Dinamika dan tantangan dalam mengelola hubungan dan kerja sama bilateral
+dengan negara -negara di kawasan ini sangat intense dan berdampak signifikan
+terhadap capaian polugri dan diplomasi Indonesia di kawasan ini.
+• Secara geo -ekonomi nature kerja sama negara -negara di kawasan Asia Timur dan
+kawasan Pasifik berbeda. Negara -negara besar di Asia Timur seperti Jepang,  Korea
+Selatan, RRT merupakan pasar unggulan dan mitra dagang serta investor utama di
+kawasan. Sementara negara -negara di Pasifik pun secara nature kerja sama juga
+memiliki perbedaan dan kekhususan skala engagement:  Australia dan Selandia Baru
+vis-à-vis negara-negara kepulauan di Pasifik.
+• Keberadaan Direktorat Asia Timur penting untuk memastikan dan menjaga kepentingan
+ekonomi Indonesia dan berkontribusi bagi stabilitas kawasan melalui jalur bilateral
+khususnya dengan tiga negara kunci yaitu RRT, Jepang dan Korea Selatan. Sementara
+itu, keberadaan Direktorat Pasifik dan Oseania sangat strategis untuk mendukung upaya
+diplomasi Pemri dalam menghadapi isu-isu besar guna melaksanakan Pacific Elevation
+di Kawasan Pasifik dan Oseania  sebagai tindak lanjut  Indonesia-South Pacific Forum
+(ISPF) dan Pacific Exposition.
+• Direktorat Pasifik dan Oseania juga akan berperan sebagai salah satu ujung tombak
+diplomasi RI di Kawasan Pasifik guna memagari kedaulatan NKRI.
+• Selain itu, Indonesia perlu melakukan kerja sama khusus dengan Australia dan Selandia
+Baru. Kedua negara ini merupakan mitra penting bagi Indonesia di forum regional dan
+multilateral khususnya dalam meng-engage negara-negara Pasifik lainnya. Keberadaan
+Direktorat Pasifik dan Oseania akan mendukung kepentingan Indonesia secara khusus
+dalam hal Geo-Politik dan Geo-Ekonomi di kawasan Pasifik.
+
+• Dinamika politik domestik di masing -masing negara di Pasifik sangat tinggi sehingga
+keberadaan Direktorat Pasifik dan Oseania akan sangat penting untuk memagari
+kepentingan Indonesia.
+• Kawasan Pasifik memiliki karakteristik khusus dimana terdapat hubungan yang sangat
+erat antara diplomasi bilateral dengan diplomasi regional.
+Dalam menjalankan peran serta menghadapi tantangan selama 5 (lima) tahun ke depan
+dan meme nuhi harapan para stakeholders, Direktorat Asia Timur dan Pasifik  perlu memiliki
+gambaran permasalahan, tantangan, peluang dan potensi yang dimiliki Direktorat Asia Timur
+dan Pasifik  sebagai dasar untuk menentukan strategi perencanaan lima tahun mendatang.
+Analisis SWOT Direktorat Asia Timur dan Pasifik adalah sebagai berikut:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kesimpulan Analisa Faktor Internal (KAFI)
+No Faktor Internal Bobot Rating Score
+(3x4)
+Kesimpulan
+(Prioritas)
+(1) (2) (3) (4) (5) (6)
+  Kekuatan (Strength)
+
+
+S1.  Kualitas SDM yang  kompeten
+S2.  Jejaring yang luas di antara pemangku
+kepentingan dalam mendukung pelaksanaan
+kebijakan luar negeri di kawasan Asia Timur
+dan Pasifik
+S3.  Pengelolaan kerja sama bilateral yang
+semakin kuat
+S4.  Semakin terfokusnya kegiatan diplomasi di
+kawasan Asia Timur dan kawasan Pasifik
+melalui pemekaran Direktorat Asia Timur
+dan Pasifik
+
+
+
+
+O1. Kawasan Asia Timur dan Pasifik yang
+potensial bagi peningkatan kerja sama
+bilateral dan regional
+O2. Peluang yang ada di kawasan untuk
+melakukan diplomasi ekonomi dan maritim
+O3. Meningkatnya kerja sama dengan mitra
+strategis di Kawasan Asia Timur dan Pasifik
+O4. Potensi ekonomi Indonesia dan meningkatnya
+minat kerja sama TTI dari negara-negara
+kawasan Asia Timur dan Pasifik ke Indonesia
+05. Kawasan Asia Timur dan Pasifik lebih cepat
+pulih ekonominya dalam menghadapi
+dampak pandemi Covid-19
+
+Strengths (S)
+
+W1.   SDM belum sesuai kebutuhan dengan
+adanya formasi jabatan yang belum
+terisi dan mutasi SDM yang relatif cepat
+W2.   Anggaran yang belum memadai
+
+
+
+T1. Dinamika konstelasi ekonomi politik
+negara, kawasan dan global yang
+berdampak negatif terhadap Indonesia dan
+kawasan.
+T2. Meningkatnya persaingan pasar di
+kawasan
+T3. Lemahnya komitmen dan ketidaksiapan
+pemangku kepentingan terkait dalam
+menindaklanjuti kesepakatan di kawasan
+Asia Timur dan Pasifik
+T4. Masih kuatnya ego sektoral
+Kementerian/Lembaga dalam mendukung
+upaya diplomasi
+Opportunities (O)
+Weaknesses (W)
+Threats (T)
+Internal
+S
+u
+p
+p
+o
+r
+t
+B
+a
+r
+r
+i
+e
+r
+r
+Eksternal
+
+Kesimpulan Analisa Faktor Eksternal (KAFE)
+1 Kualitas SDM yang  kompeten 20 4 80 I
+2 Jejaring yang luas di antara pemangku
+kepentingan dalam mendukung
+pelaksanaan kebijakan luar negeri di
+kawasan Timur dan Pasifik
+10 4 40 V
+3 Pengelolaan kerja sama bilateral yang
+semakin kuat
+15 3 45 III
+4 Semakin terfokusnya kegiatan diplomasi
+di kawasan Asia Timur dan kawasan
+Pasifik melalui pemekaran Direktorat
+Asia Timur dan Pasifik
+15 3 45 VI
+  Kelemahan (Weakness)
+1 SDM belum sesuai kebutuhan dengan
+adanya formasi jabatan yang belum
+terisi.
+20 2 40 IV
+2 Anggaran yang belum memadai 20 3 60 II
+No Faktor Internal Bobot Rating Score
+(3x4)
+Kesimpulan
+(Prioritas)
+(1) (2) (3) (4) (5) (6)
+  Opportunities (Strength)
+1 Kawasan Asia Timur dan Pasifik yang
+potensial bagi peningkatan kerja sama
+bilateral dan regional
+15 4 60 I
+2 Peluang yang ada di kawasan untuk
+melakukan diplomasi ekonomi dan
+maritim
+15 3 45 II
+3. Meningkatnya kerja sama dengan mitra
+strategis di kawasan Asia Timur dan
+Pasifik
+10 3 30 IV
+4 Potensi ekonomi Indonesia dan
+meningkatnya minat kerja sama TTI dari
+negara-negara kawasan Asia Timur dan
+Pasifik
+10 3 30 V
+5 Kawasan Asia Timur dan Pasifik lebih
+cepat pulih ekonominya dalam
+menghadapi dampak pandemi Covid-19
+10 2 20 III
+ Threats (T)
+1 Dinamika konstelasi ekonomi politik
+negara, kawasan dan global yang
+10 2 20 VIII
+
+Keterangan :
+Bobot didasarkan pada dampak yang ditimbulkan pada keberhasilan kini dan kedepan dengan
+nilai total 100.
+Rating adalah setiap faktor yang menggunakan pendekatan skala 1 sampai dengan 4 dengan
+keterangan 1 (paling tidak menonjol), 2 (tidak menonjol), 3 (menonjol), 4 (sangat menonjol).
+berdampak negatif terhadap Indonesia
+dan kawasan.
+2 Meningkatnya persaingan pasar di
+Kawasan
+10 2 20 IX
+3 Lemahnya komitmen dan ketidaksiapan
+pemangku kepentingan terkait dalam
+menindaklanjuti kesepakatan di kawasan
+Asia Timur dan Pasifik
+10 3 30 VI
+4 Kuatnya ego sektoral yang menghambat
+koordinasi diplomasi.
+10 3 30 VII
+
+ANALISIS TOWS
+KAFI
+
+
+
+
+
+
+
+
+KAFE
+Kekuatan (Strength)
+1. Kualitas SDM yang kompeten
+2. Jejaring yang luas di antara pemangku
+kepentingan dalam mendukung
+pelaksanaan kebijakan luar negeri di
+kawasan Asia Timur dan Pasifik
+3. Pengelolaan kerja sama bilateral yang
+semakin kuat
+4. Semakin terfokusnya kegiatan diplomasi di
+kawasan Asia Timur dan kawasan Pasifik
+melalui pemekaran Direktorat Asia Timur
+dan Pasifik
+Kelemahan (Weakness)
+1. SDM belum sesuai kebutuhan dengan adanya
+formasi jabatan yang belum terisi dan mutasi
+SDM yang relatif cepat
+2. Anggaran yang belum memadai
+Peluang (Opportunity)
+1. Kawasan Asia Timur dan Pasifik yang
+potensial bagi peningkatan kerja sama
+bilateral dan regional
+2. Peluang yang ada di kawasan untuk
+melakukan diplomasi ekonomi dan
+maritim
+3. Meningkatnya kerja sama dengan mitra
+strategis di Kawasan Asia Timur dan
+Pasifik
+4. Potensi ekonomi Indonesia dan
+meningkatnya minat kerja sama TTI dari
+negara-negara kawasan Asia Timur dan
+Pasifik ke Indonesia
+5. Kawasan Asia Timur dan Pasifik lebih
+cepat pulih ekonominya dalam
+menghadapi dampak pandemi Covid-19
+Asumsi Strategi
+Strength VS Opportunity
+1. Penggunaan SDM yang kompeten dapat
+meningkatkan kerja sama strategis di
+kawasan Asia Timur dan Pasifik dengan
+memanfaatkan potensi dan peluang kerja
+sama yang ada di Kawasan.
+2. Fungsi Direktorat Asia Timur dan Pasifik
+sebagai koordinator hubungan luar negeri di
+kawasan Asia Timur dan Pasifik dapat
+dimanfaatkan untuk meningkatkan
+hubungan kerjasama dengan negara mitra
+yang semakin baik.
+3. Jejaring yang luas dapat dimanfaatkan
+untuk mendukung kepentingan Indonesia.
+4. Pemekaran Direktorat Asia Timur dan
+Pasifik akan memfokuskan kinerja diplomasi
+pada masing-masing kawasan.
+
+Asumsi Strategi
+Weakness VS Opportunity
+1. Terpenuhinya SDM Direktorat Asia Timur dan
+Pasifik akan lebih meningkatkan kinerja
+direktorat dalam meningkatkan kerja sama
+strategis dengan negara mitra.
+2. Alokasi anggaran yang memadai dapat
+meningkatkan efektivitas diplomasi Indonesia
+di kawasan Asia Timur dan Pasifik.
+
+Tantangan (Threats)
+1. Dinamika konstelasi ekonomi politik
+negara, kawasan dan global yang
+berdampak negatif terhadap Indonesia
+dan kawasan.
+2. Meningkatnya persaingan pasar di
+kawasan
+3. Lemahnya komitmen dan ketidaksiapan
+pemangku kepentingan terkait dalam
+menindaklanjuti kesepakatan di kawasan
+Asia Timur dan Pasifik
+4. Masih kuatnya ego sektoral
+Kementerian/Lembaga dalam
+mendukung upaya diplomasi
+Asumsi Strategi
+Strength VS Threats
+1. Fungsi Direktorat Asia Timur dan Pasifik
+sebagai koordinator hubungan luar negeri di
+kawasan Asia Timur dan Pasifik dapat
+menanggulangi ego sektoral
+Kementerian/Lembaga dalam mendukung
+upaya diplomasi.
+2. Penggunaan SDM yang kompeten dapat
+mengantisipasi kompetisi yang tinggi terkait
+pembukaan akses pasar internasional yang
+prospektif, dan kondisi geo-politik dan geo-
+ekonomi global yang berdampak negatif
+terhadap pelaksanaan kebijakan luar negeri
+Indonesia.
+Asumsi Strategi
+Weakness VS Threats
+1. Terpenuhinya SDM Direktorat Asia Timur dan
+Pasifik akan mengantisipasi kompetisi yang
+tinggi terkait pembukaan akses pasar
+internasional yang prospektif, dan kondisi geo-
+politik dan geo-ekonomi global yang
+berdampak negatif terhadap pelaksanaan
+kebijakan luar negeri Indonesia.
+2. Pengelolaan sistem penyimpanan serta
+pengelolaan data dan dokumen akan
+mendukung Direktorat Asia Timur dan Pasifik
+dalam mengelola dampak negatif ego sektoral
+Kementerian/Lembaga dalam mendukung
+upaya diplomasi.
+
+II.1 VISI
+Guna mewujudkan Visi Kementerian Luar Negeri Tahun  2020 – 2024 “Memimpin
+diplomasi yang aktif dan efektif untuk mewujudkan Indonesia Maju yang Berdaulat, Mandiri,
+dan Berkepribadian berlandaskan Gotong Royong”, maka ditetapkanlah Visi Direktorat Asia
+Timur dan Pasifik sebagai berikut:
+“Memimpin diplomasi yang aktif dan efektif di Kawasan Asia Timur dan Pasifik untuk
+mewujudkan Indonesia Maju yang Berdaulat, Mandiri, dan Berkepribadian
+berlandaskan Gotong Royong”,
+
+II.2 MISI
+ Dalam upaya mencapai visi tersebut, Direktorat Jenderal Asia Timur dan Pasifik telah
+menetapkan 3 (tiga) misi yang akan dilaksanakan selama kurun waktu 2020 -2024, sebagai
+berikut:
+a. Memberikan nilai manfaat ekonomi yang optimal melalui hubungan luar negeri di Kawasan
+Asia Timur dan Pasifik  untuk mendukung struktur ekonomi  yang produktif, mandiri dan
+berdaya saing
+b. Memajukan kepemimpinan dan peran Indonesia yang berpengaruh di Kawasan Asia
+Timur dan Pasifik
+c. Meningkatkan infrastruktur diplomasi Direktorat Asia Timur dan Pasifik untuk mendukung
+peningkatan kualitas manusia Indonesia.
+
+II.3 TUJUAN/SASARAN STRATEGIS
+Tujuan dari Direktorat Jenderal Asia Timur dan Pasifik adalah:
+
+a. Nilai manfaat diplomasi ekonomi yang optimal melalui hubungan luar negeri di
+Kawasan Asia Timur dan Pasifik
+
+Nilai manfaat diplomasi ekonomi, keuangan dan pembangunan  adalah jumlah nominal
+manfaat yang dihasilkan oleh berbagai kerja sama dan promosi perdagangan, investasi dan
+pariwisata
+
+Optimal adalah paling baik, tertinggi, dan paling menguntungkan
+
+Hubungan luar Negeri adalah setiap kegiatan yang menyangkut aspek bilateral, regional dan
+internasional yang dilakukan oleh Pemerintah di tingkat Pusat dan daerah, atau Lembaga -
+lembaganya, Lembaga, badan usaha, organisasi -organisasi, Lembaga swadaya masyarakat,
+atau warga negara Indonesia.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target sampai
+dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran Strategis Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Nilai manfaat diplomasi
+ekonomi yang optimal melalui
+hubungan luar negeri di
+Kawasan Asia Timur dan
+Pasifik
+
+Jumlah negara
+akreditasi di
+Kawasan Asia Timur
+dan Pasifik  dengan
+peningkatan nilai
+perdagangan
+dengan Indonesia
+minimal 3%
+5 7 7 8 8
+Jumlah negara
+akreditasi di wilayah
+Asia Timur dan
+Pasifik dengan
+peningkatan nilai
+investasi asing ke
+Indonesia minimal
+3%
+1 2 2 3 4
+Jumlah negara
+akreditasi di wilayah
+Asia Timur dan
+Pasifik dengan
+peningkatan jumlah
+wisatawan manca
+negara ke  Indonesia
+minimal 5%
+0 3 3 4 6
+
+b. Dukungan dan komitmen nasional atas kebijakan luar negeri dan kesepakatan
+internasional di Kawasan Asia Timur dan Pasifik yang tinggi
+Dukungan adalah sokongan/bantuan
+Komitmen adalah (upaya) perjanjian (keterikatan) untuk melakukan sesuatu
+Tinggi adalah (mendukung) secara penuh
+ Kebijakan luar negeri adalah sikap dan langkah Pemerintah Republik Indonesia yang diambil
+dalam melakukan hubungan dengan negara lain, organisasi internasional, dan subyek hukum
+internasional lainnya dalam rangka menghadapi masalah internasional guna mencapai tujuan
+nasional.
+ Kesepakatan internasional adalah perjanjian dalam bentuk dan sebutan apa pun, yang diatur
+oleh hukum internasional dan dibuat secara tertulis oleh Pemerinta h Republik Indonesia
+dengan subyek hukum internasional, serta menimbulkan hak dan kewajiban pada Pemerintah
+Republik Indonesia yang bersifat hukum publik.
+ Tinggi adalah mendukung secara penuh dalam konteks dukungan.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target sampai
+dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis
+Indikator Kinerja
+Utama
+Target
+2020 2021 2022 2023 2024
+Dukungan dan komitmen
+nasional atas kebijakan
+luar negeri dan
+kesepakatan
+internasional di Kawasan
+Asia Timur dan Pasifik
+yang tinggi
+
+Persentase
+kesepakatan kerja
+sama bilateral di
+Kawasan Asia Timur
+dan Pasifik  yang
+ditindaklanjuti
+stakeholders dalam
+negeri
+
+80,77% 86% 86% 87,5% 87,5%
+
+c. Infrastruktur Diplomasi yang kuat
+
+Infrastruktur Diplomasi adalah seluruh sumber daya, sarana dan prasarana yang digunakan
+untuk pelaksanaan diplomasi dan hubungan luar negeri.
+
+Kuat adalah mempunyai keunggulan/tidak mudah goyah.
+
+Tujuan/Sasaran Strategis tersebut diukur melalui indikator yang disertai dengan target sampai
+dengan 2024 sebagai berikut:
+
+Tujuan/Sasaran
+Strategis Indikator Kinerja Utama
+Target
+2020 2021 2022 2023 2024
+Infrastruktur
+Diplomasi yang kuat
+di Direktorat Asia
+Timur dan Pasifik
+
+Nilai Akuntabilitas Kinerja
+Instansi Pemerintah
+(AKIP) Direktorat Asia
+Timur dan Pasifik
+78
+(BB)
+78
+(BB)
+79
+(BB)
+79
+(BB)
+79
+(BB)
+
+Lampiran 1: Matriks Arah Kebijakan dan Strategi
+Lampiran 2:  Matriks Target Kinerja
+
+LAMPIRAN
+Lampiran 1: Matriks Arah Kebijakan dan Strategi Direktorat Asia Timur dan Pasifik
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+1. Peningkatan optimalisasi nilai
+manfaat diplomasi ekonomi
+melalui hubungan luar negeri
+1. Memanfaatkan pasar domestik
+sebagai daya tawar untuk menjalin
+kerja sama ekonomi yang saling
+menguntungkan di tingkat bilateral
+maupun regional.
+1. Meningkatkan komunikasi secara
+berkala dengan para stakeholders
+dalam negeri guna menindaklanjuti
+business inquiries dari Perwakilan RI
+di Kawasan Asia Timur dan Pasifik
+untuk membantu pemberdayaan
+potensi di daerah dengan
+memanfaatkan event-event promosi
+di luar negeri.
+2. Memperkokoh kerja sama ekonomi
+yang strategis dan saling
+menguntungkan dengan pasar
+utama dan langkah terobosan
+untuk menembus pasar potensial.
+1. Penyelesaian kerja sama bilateral di
+bidang  ekonomi yang akan memberi
+manfaat bagi kepentingan nasional.
+2. Mengamankan pasar potensial bagi
+industri/komoditas strategis
+Indonesia di A sia Timur dan Pasifik
+seperti sawit dan batu bara.
+3. Implementasi program tindak lanjut
+dari program ProPN yang telah
+dilaksanakan, yaitu Indonesia-South
+Pacific Forum for Development
+(ISPFD).
+4. Mengintensifkan dialog dan lobi
+untuk mengatasi hambatan-
+hambatan perdagangan dalam
+berbagai forum pertemuan bilateral
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+5. Mengoptimalkan wadah joint working
+group untuk mengkomunikasikan
+aspek teknis dalam menyukseskan
+kerja sama.
+6. Mengupayakan koridor perjalanan
+untuk bisnis esensial, dinas, dan
+diplomatik.
+3. Mengintegrasikan promosi
+perdagangan dan investasi yang
+lebih terarah dan memberikan hasil
+yang konkret
+1. Menyusun pemetaan prioritas
+perdagangan dan investasi di
+kawasan Asia Timur dan Pasifik,
+bekerja sama dengan para
+pemangku kepentingan di dalam
+negeri, termasuk BUMN, pemerintah
+daerah, pelaku usaha nasional dan
+diaspora Indonesia.
+2. Mendorong keikutsertaan pelaku
+usaha dalam negeri dan pemerintah
+daerah dalam berbagai kegiatan
+promosi perdagangan dan investasi
+yang difasilitasi Perwakilan RI di
+kawasan Asia Timur dan Pasifik
+untuk memaksimalkan pengenalan
+potensi berbagai daerah di
+Indonesia.
+3. Mendorong keikutsertaan
+pengusaha/perusaahaan dari negara
+mitra dalam kegiatan-kegiatan
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+promosi perdagangan dan investasi
+di dalam negeri.
+4. Meningkatkan keterlibatan pelaku
+usaha daerah
+1. Mendorong partisipasi aktif asosiasi
+pengusaha dengan memanfaatkan
+kegiatan promosi di kawasan Asia
+Timur dan Pasifik.
+2. Mendorong terbentuknya dan
+menindaklanjuti kerja sama sister
+city/sister province untuk
+mengembangkan dan memanfaatkan
+potensi daerah.
+5. Mendorong, memetakan potensi
+dan memfasilitasi investasi dari
+luar negeri (inbound investment)
+pada sektor-sektor prioritas bagi
+Indonesia dan outbond investment
+ke luar negeri yang sinergis
+dengan kepentingan ekonomi
+nasional.
+1. Mendorong pemanfaatan data
+economic/market intelligence oleh
+stakeholders dalam negeri untuk
+mendorong outbond invesrment ke
+negara-negara potensial di kawasan
+Asia Timur dan Pasifik.
+2. Mendorong dan mengawal relokasi
+investasi asing dari negara mitra di
+Kawasan Asia Timur dan Pasifik ke
+Indonesia.
+3. Mendorong partisipasi BUMN dan
+Lembaga terkait, serta kalangan
+swasta nasional pada proyek
+pembangunan strategis di kawasan
+Asia Timur dan Pasifik.
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+6. Memfasilitasi perundingan dan
+mendukung percepatan
+penyelesaian penyusunan
+Perjanjian Promosi dan
+Perlindungan Penanaman Modal
+(P4M) bilateral untuk melindungi
+investasi Indonesia di luar negeri.
+1. Menyelenggarakan dan mendorong
+pembahasan Perjanjian Promosi dan
+Perlindungan Penanaman Modal
+(P4M) dengan negara mitra di
+kawasan Asia Timur dan Pasifik.
+2. Menyelenggarakan dan mendorong
+pembahasan Perjanjian
+Penghindaran Pajak Berganda
+dengan negara mitra di kawasan
+Asia Timur dan Pasifik, untuk
+memperkuat Perjanjian Promosi dan
+Perlindungan Penanaman Modal
+(P4M).
+7. Mendorong kerjasama dengan
+negara-negara mitra untuk
+produksi dan pengadaan alat
+kesehatan serta obat-obatan di
+Indonesia.
+1. Mengamankan komitmen-komitmen
+suplai vaksin dari negara mitra di
+Kawasan Asia Timur dan Pasifik.
+2. Menindaklanjuti dan
+mengimplementasikan kerja sama
+pengembangan vaksin.
+3. Mengintensifkan diplomasi guna
+memenuhi kebutuhan alat Kesehatan
+maupun obat-obatan.
+4. Mendorong kerja sama industri
+farmasi dengan negara mitra di
+kawasan Asia Timur dan Pasifik.
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+9. Mendorong produk unggulan yang
+berorientasi ekspor serta
+mendukung pembiayaan proyek
+infrastruktur dan industri strategis
+ke luar negeri.
+1. Mendorong terbentuknya
+kesepakatan business to business
+dalam berbagai kegiatan promosi
+serta kesepakatan bilateral.
+2. Mendorong keikutsertaan lembaga
+pembiayaan untuk mendukung
+proyek infrastruktur dan industri
+strategis di Kawasan Asia Timur dan
+Pasifik.
+10. Menolak berbagai tindakan
+diskriminatif yang ditujukan kepada
+komoditas unggulan Indonesia.
+1. Melakukan pendekatan dan lobi
+melalui mekanisme pertemuan
+bilateral guna memastikan
+diberlakukannya kebijakan non-
+diskriminatif terhadap komoditas
+unggulan Indonesia.
+2. Melakukan pendekatan dan lobi
+melalui mekanisme pertemuan
+bilateral dan regional guna
+memastikan diberlakukannya
+kebijakan non-diskriminatif terhadap
+komoditas unggulan Indonesia.
+11. Memanfaatkan perkembangan
+teknologi informasi dan komunikasi
+untuk mendorong industri digital,
+ekonomi kreatif, dan
+pengembangan SDM Indonesia
+1. Mendorong ekspansi start-up
+Indonesia ke negara-negara di
+Kawasan Asia Timur dan Pasifik
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+untuk mendukung pencapaian visi
+Indonesia 4.0.
+
+
+12. Mendorong tercapainya kerja
+sama ekonomi ekonomi seperti
+Preferential Tariff Agreement
+(PTA), Free Trade Agreement
+(FTA), Comprehensive Economic
+Partnership Agreement (CEPA)
+Indonesia dengan negara-negara
+mitra di kawasan Asia Timur dan
+Pasifik sesuai dengan kepentingan
+nasional.
+1. Mendorong finalisasi perundingan
+Preferential Tariff Agreement (PTA)
+Indonesia dengan Fiji dan Papua
+Nugini.
+13. Mendorong pemanfaatan kerja
+sama ekonomi ekonomi seperti
+Preferential Tariff Agreement
+(PTA), Free Trade Agreement
+(FTA), Comprehensive Economic
+Partnership Agreement (CEPA)
+Indonesia dengan negara-negara
+mitra di kawasan Asia Timur dan
+Pasifik sesuai dengan kepentingan
+nasional.
+1. Mendorong implementasi Indonesia-
+Australia Comprehensive Economic
+Partnership Agreement (IA-CEPA).
+ 2. Mengawal ratifikasi dan mendorong
+implementasi Indonesia-Korea
+Comprehensive Economic
+Partnership Agreement (IK-CEPA).
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+3. Mendorong penyelesaian Review
+Indonesia-Japan Economic
+Partnership Agreement (IJEPA).
+14. Mendorong pemanfaatan peluang
+ekonomi, perdagangan dan
+investasi
+1. Mendorong pemanfaatan peluang
+Indonesia untuk memenuhi global
+suppy chain melalui substitusi produk
+dengan produk unggulan Indonesia.
+2. Mencari peluang relokasi investasi
+perusahaan dari negara mitra di
+kawasan Asia Timur dan Pasifik
+15. Memanfaatkan kekuatan Indonesia
+sebagai basis produksi industri
+manufaktur, antara lain baterai
+lithium, petrokimia, otomotif dan
+suku cadang, besi baja, dan tekstil,
+dalam memperluas pasar ke
+kawasan negara-negara yang
+terbatas atau tidak memiliki basis
+produksi industri manufaktur
+tersebut.
+1. Meningkatkan promosi dagang untuk
+produk industri manufaktur ke
+kawasan Asia Timur dan Pasifik.
+2. Memperluas akses pasar di negara-
+negara kawasan Asia Timur dan
+Pasifik untuk produk industri
+manufaktur dengan memanfaatkan
+perjanjian dagang yang telah
+disepakati.
+3. Menarik investasi di bidang industri
+manufaktur dari negara-negara mitra
+di kawasan Asia Timur dan Pasifik ke
+Indonesia.
+16. Memanfaatkan instrumen
+kebijakan dari negara-
+1. Memanfaatkan instrumen kebijakan
+negara-negara di kawasan Asia
+Timur dan Pasifik, seperti kebijakan
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+negara/wilayah akreditasi untuk
+kepentingan ekonomi RI.
+
+Belt and Road Initiative (RRT), New
+Southbound Policy (Taiwan), New
+Southern Policy (RoK), Specified
+Skilled Workers (Jepang), dan
+Australian Infrastructure Financing
+Facility for the Pacific / AIFFP
+(Australia) untuk kepentingan
+ekonomi RI.
+17. Mendukung pembangunan proyek-
+proyek strategis nasional dengan
+tawaran kerja sama yang lebih
+kompetitif
+1. Mendorong relokasi perusahaan-
+perusahaan asing yang ingin
+berinvestasi ke Indonesia.
+18. Mengembangkan kerja sama
+triangular antara Indonesia dengan
+mitra tradisional ke kawasan
+Pasifik, baik dalam skema G-to-G
+maupun B-to-B.
+1. Pembentukan Direktorat Pasifik dan
+Oseania untuk peningkatan kerja
+sama triangular antara Indonesia
+dengan mitra tradisional di kawasan
+Pasifik.
+2. Pemberian bantuan teknis dan kerja
+sama peningkatan kapasitas kepada
+negara mitra tradisional di kawasan
+Pasifik.
+2 Peningkatan pengaruh
+kepemimpinan dan peran
+Indonesia dalam kerja sama
+internasional
+1. Mendorong pelaksanaan Indonesia
+– South Pacific Forum for
+Development (ISPFD) sebagai
+perwujudan visi Pacific Elevation
+serta komitmen Indonesia sebagai
+bagian integral dari Pasifik dalam
+1. Melaksanakan dan mengembangkan
+kegiatan dalam kerangka Indonesia
+– South Pacific Forum for
+Development (ISPFD) yang lebih
+bersinergi dengan perkembangan
+dan dinamika di kawasan
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+rangka mempererat hubungan dan
+kerja sama dengan negara-negara
+di kawasan.
+
+2. Meningkatkan kerja sama Indonesia
+dan Pasifik di bidang kerja sama
+teknik, pengembangan kapasitas,
+pembangunan, perdagangan,
+investasi, pariwisata, lingkungan,
+perubahan iklim, dan konektivitas.
+3. Memperkokoh diplomasi RI di
+Pasifik.
+4. Mendorong terlaksananya kegiatan
+Indonesia – South Pacific Forum for
+Development (ISPFD) secara reguler
+sebagai diplomasi berbasis people to
+people contact.
+  2. Meningkatkan kerja sama dan
+trust-building di kawasan Indo-
+Pasifik yang terfokus pada
+pengembangan kerja sama
+kemaritiman, konektivitas dan
+infrastruktur, serta pembangunan.
+
+1. Mendorong tindak lanjut kegiatan
+Pacific Exposition untuk
+meningkatkan interaksi aktif dengan
+negara-negara di Kawasan Pasifik.
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+3. Penguatan integritas NKRI dan
+diplomasi politik keamanan
+1. Meningkatkan kerja sama bilateral,
+regional dan internasional dalam
+pemeliharaan perdamaian dan
+keamanan internasional.
+
+1. Mengkombinasikan peningkatan
+kerja sama di bidang yang menjadi
+prioritas kawasan Pasifik a.l. di
+bidang SDGs, perikanan dan
+kelautan, lingkungan, konektivitas
+dan keamanan.
+2. Meningkatkan kerjasama
+penanggulangan terorisme serta
+kerjasama hukum dengan negara
+mitra.
+1. Mendorong terbentuknya
+kesepakatan bilateral mengenai
+penanggulangan terorisme dengan
+negara-negara di kawasan Asia
+Timur dan Pasifik, serta mengawal
+implementasi kesepakatan bilateral
+tersebut.
+2. Meningkatkan kerjasama
+penanggulangan terorisme dengan
+negara-negara di kawasan Asia
+Timur dan Pasifik, termasuk dengan
+pemberian bantuan teknis dan
+peningkatan kapasitas.
+3. Mendukung kerja sama
+pertahanan di lingkup bilateral,
+regional dan internasional.
+1. Mendorong terbentuknya
+kesepakatan bilateral mengenai
+pertahanan dengan negara-negara
+di kawasan Asia Timur dan Pasifik,
+serta mengawal implementasi
+kesepakatan bilateral tersebut.
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+2. Meningkatkan promosi industri
+pertahanan Indonesia di kawasan
+Asia Timur dan Pasifik.
+4. Mengintensifkan kerja sama
+bilateral penegakan hukum dalam
+menanggulangi kejahatan
+transnasional, seperti: korupsi,
+terorisme, penyelundupan
+manusia, perdagangan orang,
+perdagangan gelap narkoba,
+perompakan perdagangan senjata
+ilegal, illegal fishing.
+
+1. Mendorong terbentuknya
+kesepakatan bilateral mengenai
+penanggulangan kejahatan
+transnasional dengan negara-negara
+di Kawasan Asia Timur dan Pasifik,
+serta mengawal implementasi
+kesepakatan bilateral tersebut.
+2. Meningkatkan mekanisme
+information sharing antar institusi
+penegakan hukum dengan negara
+mitra di Kawasan Asia Timur dan
+Pasifik
+3. Mendorong pembentukan dan
+implementasi kesepakatan
+mandatory consular notification
+dengan negara-negara di Kawasan
+Asia Timur dan Pasifik.
+5. Meningkatkan kerja sama kepolisian
+dalam tanggulangi tantangan
+terorisme.
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+6. Mengembangkan kerja sama
+pembangunan kapasitas dan berbagi
+pengalaman dan sumber daya
+institusi keamanan
+5. Mendorong peningkatan kerja
+sama dalam bidang keamanan dan
+keselamatan laut, serta search and
+rescue, penanganan bencana di
+laut, serta perlindungan lingkungan
+laut.
+1. Mendorong terbentuknya
+kesepakatan bilateral mengenai
+keamanan dan keselamatan laut,
+serta search and rescue,
+penanganan bencana di laut, serta
+perlindungan lingkungan laut dengan
+negara-negara di kawasan Asia
+Timur dan Pasifik, serta mengawal
+implementasi kesepakatan bilateral
+tersebut.
+4. Peningkatan dukungan dan
+komitmen nasional atas kebijakan
+luar negeri dan kesepakatan
+internasional
+1. Memantapkan peran Kementerian
+Luar Negeri sebagai penjuru dalam
+perumusan kebijakan luar negeri
+dan sebagai fungsi koordinator
+dalam penyelenggaraan hubungan
+luar negeri.
+
+1. Meningkatkan koordinasi dengan
+kementerian/Lembaga teknis melalui
+pertemuan interkementerian.
+2. Mendorong dimasukkannya kegiatan
+implementasi kesepakatan bilateral
+dan regional di Kawasan Aspasaf
+dalam perencanaan kinerja
+Kementerian/Lembaga teknis dan
+Pemerintah Daerah
+5 Peningkatan infrastruktur
+diplomasi berbasis teknologi
+informasi
+1. Melakukan penataan organisasi
+yang adaptif sesuai dinamika
+tuntutan polugri, peningkatan
+kualitas perencanaan serta
+1. Mengimplementasikan SOTK baru
+dengan memekarkan Direktorat Asia
+Timur dan Pasifik menjadi Direktorat
+Asia Timur dan Direktorat Pasifik
+
+No Arah Kebijakan Kementerian
+Luar Negeri
+No Strategi Kementerian Luar
+Negeri
+No Strategi Unit Organisasi Direktorat
+Asia Timur dan Pasifik
+monitoring dan evaluasi kinerja,
+dan tata kelola Kementerian Luar
+Negeri dan Perwakilan RI.
+
+2. Meningkatkan kualitas perencanaan
+serta monitoring dan evaluasi kinerja,
+serta tata kelola Direktorat Asia
+Timur dan Pasifik
+3. Membuka perwakilan baru pada
+negara-negara kunci di Kawasan
+Asia Timur dan Pasifik, antara lain di
+RRT
+2. Meningkatkan tata kelola
+pengawasan intern berbasis risiko.
+1 Meningkatkan pelaksanaan Sistem
+Pengendalian Internal Pemerintah
+(SPIP) di Direktorat Asia Timur dan
+Pasifik
+
+LAMPIRAN 2:
+MATRIKS TARGET KINERJA DIREKTORAT ASIA TIMUR DAN PASIFIK
+Program/Kegiatan
+Sasaran
+Program/Indikato
+r
+TARGET ALOKASI ANGGARAN (JUTA RUPIAH)
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+Program:
+Diplomasi dan
+Kerja Sama
+Internasional
+Nilai manfaat
+diplomasi ekonomi
+yang optimal di
+Kawasan Asia
+Timur dan Pasifik
+
+1.658.436.000 3.000.000.000 2.600.000.000 3.016.000.000 3.498.560.000
+ 1. Jumlah
+Negara
+akreditasi di
+Kawasan Asia
+Timur dan
+Pasifik yang
+mencapai
+target
+peningkatan
+nilai
+perdagangan
+dengan
+Indonesia
+5 7 7 8 8
+ 2. Jumlah
+Negara
+akreditasi di
+Kawasan Asia
+Timur dan
+Pasifik yang
+mencapai
+target
+peningkatan
+nilai investasi
+dengan
+Indonesia
+1 2 2 3 4
+ 3. Jumlah
+negara
+akreditasi di
+kawasan Asia
+Timur dan
+Pasifik yang
+0 3 3 4 6
+
+Program/Kegiatan
+Sasaran
+Program/Indikato
+r
+TARGET ALOKASI ANGGARAN (JUTA RUPIAH)
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+mencapai
+target
+peningkatan
+jumlah
+wisatawan
+mancanegara
+ke Indonesia
+ 4. Persentase
+Kesepakatan
+Kerjasama
+Bilateral di
+Kawasan Asia
+Timur dan
+Pasifik yang
+ditindak lanjuti
+oleh
+Stakeholder
+dalam Negeri
+80.77% 81.25%
+
+81.25%
+
+86%
+
+86%
+
+
+ 5. Jumlah
+Kesepakatan
+hasil
+perundingan
+di Bidang
+Ekonomi,
+Sosial dan
+Budaya di
+kawasan Asia
+Timur dan
+Pasifik.
+
+5 8 8 10 10
+ 6. Persentase
+Data
+Economic
+Intelligence
+dari kawasan
+Asia Timur
+dan Pasifik
+yang
+Ditindaklanjuti
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Program/Kegiatan
+Sasaran
+Program/Indikato
+r
+TARGET ALOKASI ANGGARAN (JUTA RUPIAH)
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+Stakeholders
+dalam Negeri
+ 7. Jumlah
+Kesepakatan
+Hasil
+Perundingan
+di Bidang
+Kemaritiman,
+Polkam dan
+Perbatasan di
+Kawasan Asia
+Timur dan
+Pasifik
+6 8 8 10 10

@@ -1,0 +1,30 @@
+seed_url: https://fmw.gov.ng/read/3160
+final_url: https://fmw.gov.ng/read/3213
+title: Federal Ministry of Works
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+Photo News
+Jul
+2024
+Image 1
+PICTURES FROM DAY 2 OF THE 29TH MEETING OF THE NATIONAL COUNCIL ON WORKS
+Image 1
+Click To View More Pictures
+PHOTO NEWS
+Sep
+2024
+ENCOURAGING  EFFECTIVE SYNERGY BETWEEN  NATIONAL AND SUB-NATIONAL GOVERNMENTS, A STRATEGIC COURSE OF LEADERSHIP IN THE RENEWED HOPE AGENDA OF PRESIDENT BOLA AHMED TINUBU GCFR
+Pictures show the Governor of  Plateau State, His Excellency, Caleb Manasseh Mutfwang on a courtesy  call to the Honourable Minister of Works, His Excellency, Sen. Engr. Nweze David Umahi, CON on 18th September  2024.
+Click To View More Pictures
+Read more...
+PHOTO NEWS
+Feb
+2024
+MEETING OF CEMENT MANUFACTURERS – DANGOTE CEMENT PLC, BUA CEMENT PLC, LARFARGE AFRICA PLC & CEMENT PRODUCERS ASSOCIATION WITH THE HONOURABLE MINISTER OF INDUSTRY, TRADE & INVESTMENT, DR. DORIS UZOKA-ANITE AND THE HONOURABLE MINISTER OF WORKS, SEN. ENGR. NWEZE DAVID UMAHI, CON HELD AT THE OFFICE OF THE HONOURABLE MINISTER OF WORKS, MABUSHI, ABUJA ON MONDAY, 19TH FEBRUARY, 2024
+Meeting of Cement Manufacturers – Dangote Cement Plc, BUA Cement Plc, Larfarge Africa Plc & Cement Producers Association with the Honourable Minister of Industry, Trade & Investment, Dr. Doris Uzoka-Anite and the Honourable Minister of Works, Sen. Engr. Nweze David Umahi, CON held at the Office of the Honourable Minister of Works, Mabushi, Abuja on Monday, 19th February, 2024
+Click To View More Pictures
+Read more...

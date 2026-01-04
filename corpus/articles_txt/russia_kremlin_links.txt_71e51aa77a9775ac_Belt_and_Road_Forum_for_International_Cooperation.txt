@@ -1,0 +1,144 @@
+seed_url: http://en.kremlin.ru/events/president/news/72528
+final_url: http://en.kremlin.ru/events/president/news/72528
+title: Belt and Road Forum for International Cooperation
+date: 2023-10-18
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Belt and Road Forum for International Cooperation
+The President spoke at the opening of the Third Belt and Road Forum for International Cooperation.
+October 18, 2023
+06:35
+Beijing
+Also attending the event as part of the Russian delegation were Foreign Minister
+Sergei Lavrov
+Lavrov Sergei
+Minister of Foreign Affairs of the Russian Federation
+Deputy Prime Minister
+Alexander Novak
+Novak Alexander
+Deputy Prime Minister of the Government of the Russian Federation
+, Deputy Prime Minister
+Dmitry
+Chernyshenko
+Chernyshenko Dmitry
+Deputy Prime Minister of the Government of the Russian Federation
+, Deputy Chief of Staff of the Presidential Executive Office and Press Secretary of the President
+Dmitry Peskov
+Peskov Dmitry
+Deputy Chief of Staff of the Presidential Executive Office, Presidential Press Secretary
+, Presidential Aide
+Maxim
+Oreshkin
+Oreshkin Maxim
+Deputy Chief of Staff of the Presidential Executive Office
+, Presidential Aide
+Yury Ushakov
+Ushakov Yury
+Aide to the President
+, Ambassador Extraordinary and Plenipotentiary to China Igor Morgulov, and Economic Development Minister
+Maxim
+Reshetnikov
+Reshetnikov Maxim
+Minister of Economic Development of the Russian Federation
+The Belt and Road Forum for International Cooperation is being held in Beijing on October 17–18, ten years after the initiative was launched.
+* * *
+The President’s address at the opening ceremony
+President of Russia Vladimir Putin
+: President Xi, my dear friend,
+Ladies and gentlemen,
+First of all, I would like to express gratitude to President of China Xi
+Jinping for inviting me to the Third Belt and Road Forum for International Cooperation.
+See also
+All news about the visit to China
+The forum is being held on the 10th anniversary of the initiative Mr Xi
+advanced, a truly important and global idea that is spearheaded into the future, towards creating a fairer multipolar world and system of relations. It
+is a global plan, without a doubt.
+I agree with the President of China that the Belt and Road idea ties in logically with multilateral efforts to promote creative and constructive
+interaction throughout the international community.
+We pointed out on numerous occasions that Russia and China, just as the majority of other countries, share the striving for equal and mutually beneficial
+cooperation towards universal, sustainable and lasting economic progress and social welfare based on respect for the civilisational diversity and the right
+of every state to its own development model.
+The Belt and Road initiative is based on these fundamental principles and fits in very well with the integration processes that are
+ongoing in many regions. It also corresponds to the Russian ideas of creating
+an integration contour that will ensure the freedom of trade, investment and employment and will be complemented with interconnected infrastructure.
+It also rhymes with our idea of creating a greater Eurasian partnership
+as an area of cooperation and interaction among like-minded nations and the alignment of various integration processes, such as the Belt and Road
+Initiative, the Shanghai Cooperation Organisation (SCO), the Association of Southeast Asian Nations (ASEAN) and the Eurasian Economic Union (EAEU), which
+Russia is successfully developing with its post-Soviet partners.
+It is notable that Russia and China have reached a practical agreement
+on a concurrent and coordinated development of the EAEU and the Belt and Road
+Initiative and a non-preferential agreement on trade and economic cooperation
+between EAEU member states and the People’s Republic of China. A joint
+commission has been established to align our efforts to implement this
+agreement. In February 2023, we adopted an expanded roadmap, which provides, in part, for the development of relations between the EAEU and China in trade policy
+and the digitisation of transport corridors.
+I would like to note that the integration agenda in the broadest
+possible sense of the word is an integral part of Russia’s national development
+strategy, the strengthening of our economic, technological and financial
+sovereignty, as well as the modernisation and expansion of infrastructure.
+The President of China spoke in his address about this form of development in various parts of the world. Colleagues, friends, I would like to tell you about what we are doing in this area in the Russian Federation. I hope
+and believe that this is important for very many participants in this forum,
+because Russia is the largest country in the world in terms of territory, and so the connectivity of all the partners across Russia is of great importance to our partners and friends.
+I will mention some of our forward-looking plans we are already
+implementing, which harmoniously complement other infrastructure projects in Eurasia, including those that are being implemented within the framework of the Belt and Road Initiative. Taken together, they will allow us to create an integral transport and logistics network and to diversify freight traffic
+through more effective, reliable and safe transportation.
+For example, we are building the North-South international corridor in European Russia, which President Xi has mentioned. It will connect Russian
+ports on the Baltic and Arctic seas to ports in the Persian Gulf and the Indian
+Ocean. Seamless rail connectivity, as professionals say, will be ensured
+throughout this route, from Murmansk in the north of Russia to Bandar Abbas in Iran.
+Another north-south transport artery will run via the Urals region and Siberia. Its main elements are the modernisation of the central part of the Trans-Siberian Railway, including the West-Siberian Railway line running across
+several regions of Siberia, namely the Omsk, Novosibirsk, Kemerovo and Tomsk
+regions and the Altai Territory. The other elements are the construction of the Northern Latitudinal Railway, as we call it, towards the ports on the Arctic
+Ocean and the Yamal Peninsula in the north of the Krasnoyarsk Territory, and a new North Siberian Railway from the Khanty-Mansi Autonomous Area towards our
+largest railway network comprising the Trans-Siberian Railway and Baikal-Amur
+Mainline.
+At the same time, we are working jointly with our foreign partners to build railway lines from Central Siberia towards the south of the country,
+towards China, Mongolia and the ports of the Indian and Pacific oceans.
+Lastly, we are planning to build one more Arctic-South corridor in the Far East; we are currently preparing the necessary elements. It includes a railway line running from the Baikal-Amur Mainline to Yakutia, across the large
+Siberian rivers Lena and Amur , the Pacific Railway Line, the modernisation of motorways, and the creation of deepwater terminals in the eastern part of the Northern Sea Route.
+These north-south transport corridors in European Russia, Siberia and the Far East will allow us to directly connect the Northern Sea Route and to integrate it into major logistics hubs in the south of our continent on the Indian and Pacific oceans.
+As for the Northern Sea Route, Russia offered its partners the opportunity to actively use its transit potential. More than that, we are
+inviting all interested countries to get directly involved in its development,
+and we are ready to provide reliable icebreaker escort, communications and supplies. As soon as next year, navigation for ice-class vessels along the entire length of the Northern Sea Route will become possible all year round.
+The creation of the international and regional logistics and trade
+routes I have mentioned objectively reflects the deep changes that are ongoing
+in the global economy and the new role the Asia-Pacific and Global South
+countries and other centres of growth and development are playing now.
+In this context, Russia, which will assume the rotating chairmanship of the expanded BRICS next year, has advanced the initiative of establishing a permanent transport logistics commission within the framework of this group.
+This commission of BRICS members, partner countries and other interested states
+could focus on the development of the entire complex of international transport
+corridors.
+I would like to add that these issues are on the agenda of the Transport
+Week, which is held in Moscow every year. Friends, we invite professionals from
+your countries to take part in the next such event, which will be held in the Russian
+capital in mid-November.
+In conclusion, I would like to express confidence that the Belt and Road
+Initiative, the Russian priorities I have presented and the constructive and ambitious proposals by other countries, including those that are attending this
+forum, will help us find collective and truly effective solutions to really
+important current regional and international issues.
+Colleagues, friends, when a major project is launched, everybody hopes
+that it will succeed. However, to be honest, it is difficult to expect that all
+its elements will be successful, considering the global scale of the initiative
+advanced by the President of the People’s Republic of China 10 years ago. Our
+Chinese friends are working successfully. We are happy for them, because this
+also concerns many of us. The President of China has just now presented a large
+programme of constructive actions aimed at achieving a common result.
+I would like to wish success to the People’s Republic of China and the President of China in the implementation of these plans, and to all of us in the implementation of our projects. I wish all the best to all of you.
+Thank you.
+Geography
+People's Republic of China
+Topics
+Economy and finance
+Foreign policy
+Publication status
+Published in sections:
+Transcripts
+Publication date:
+October 18, 2023, 06:35
+Direct link:
+en.kremlin.ru/d/72528
+Text version

@@ -1,0 +1,17 @@
+seed_url: https://president.mn/en/2023/10/19/meeting-with-xi-jinping-president-of-the-peoples-republic-of-china-3/
+final_url: https://president.mn/en/2023/10/19/meeting-with-xi-jinping-president-of-the-peoples-republic-of-china-3/
+title: MEETING WITH XI JINPING, PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+date: 2023-10-19T10:55:41+00:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2023/10/19 6:55:41
+MEETING WITH XI JINPING, PRESIDENT OF THE PEOPLE’S REPUBLIC OF CHINA
+President of Mongolia Ukhnaa Khurelsukh met President of the People’s Republic of China Xi Jinping on the sidelines of the Third Belt and Road Forum for International Cooperation in Beijing.
+The Heads of State exchanged views on the ways to expand the Mongolia-China Comprehensive Strategic Partnership relations and mutually beneficial cooperation in all areas.
+The sides reaffirmed that relations between Mongolia and the People’s Republic of China are a priority of the foreign policies of the two countries. They also concurred that the relations and cooperation between the two countries have advanced based on mutual respect for each other’s independence, sovereignty, territorial integrity, and paths to development chosen by the two countries and their peoples, and on supporting each other on issues pertaining to fundamental interests and matters of importance for the two countries.
+President Khurelsukh and President Xi Jinping agreed to work closely to maintain the frequency of high-level reciprocal visits between the two countries; coordinate the implementation of development policies of the two countries; increase the trade volume to USD 20 billion in the near future; diversify the trade structure; connect border ports; strengthen the legal basis of relations and cooperation; accelerate the progress of major infrastructure projects; advance projects and programs to be implemented under Chinese grant aid in Mongolia; alleviate traffic congestion in Ulaanbaatar city; and expand cooperation in environment, health, education, science, and innovation.
+The two Presidents noted that Mongolia and the People’s Republic of China have been collaborating within the framework of the United Nations and other international organizations and expressed their commitment to elevating traditional mutually beneficial cooperation in the multilateral fora.
+During the meeting, the two parties exchanged views on some issues of international relations.

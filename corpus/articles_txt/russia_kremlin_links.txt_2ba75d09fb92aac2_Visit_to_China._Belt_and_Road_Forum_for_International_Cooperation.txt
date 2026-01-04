@@ -1,0 +1,85 @@
+seed_url: http://en.kremlin.ru/events/president/trips/72535
+final_url: http://en.kremlin.ru/events/president/trips/72535
+title: Visit to China. Belt and Road Forum for International Cooperation
+date: 2023-10-17
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Events
+Visit to China. Belt and Road Forum for International Cooperation
+October 17 − 18, 2023
+Visit abroad, 12 events
+In Beijing, the Russian President took part in the 3
+Belt and Road Forum for International Cooperation. He spoke at the opening ceremony, and later met with President of the People's Republic of China Xi
+Jinping.
+Vladimir Putin had a series of bilateral meetings on the sidelines of the forum. He met with President of Vietnam Vo Van Thuong, Prime Minister of Hungary Viktor Orban, Prime Minister
+of Thailand Srettha Thavisin, President of Mongolia Ukhnaagiin Khurelsukh,
+President of Laos Thongloun Sisoulith, and Caretaker Prime Minister of Pakistan
+Anwaar-ul-Haq Kakar.
+Concluding his visit to China, Vladimir Putin answered the Russian media’s questions.
+First day
+Meeting with President of Vietnam Vo Van Thuong
+October 17, 2023, 10:30
+Beijing
+In Beijing, Vladimir
+Putin met with President of the Socialist Republic of Vietnam Vo Van Thuong. The President of Russia has arrived in the People’s Republic of China on a working visit to take part in the Third Belt and Road Forum for International Cooperation.
+Meeting with Prime Minister of Hungary Viktor Orban
+October 17, 2023, 12:10
+Beijing
+Vladimir Putin held a meeting with Prime Minister of Hungary Viktor Orban.
+Meeting with Prime Minister of Thailand Srettha Thavisin
+October 17, 2023, 13:30
+Beijing
+In Beijing, Vladimir
+Putin met with Prime Minister of the Kingdom of Thailand Srettha Thavisin.
+Official welcoming ceremony for participants of the Third Belt and Road Forum
+October 17, 2023, 14:05
+Beijing
+Meeting with President of Mongolia Ukhnaagiin Khurelsukh
+October 17, 2023, 16:30
+Beijing
+The President of Russia held
+a meeting with President of Mongolia Ukhnaagiin Khurelsukh.
+Meeting with President of Laos Thongloun Sisoulith
+October 17, 2023, 17:35
+Beijing
+Vladimir
+Putin met with President of the Lao People's Democratic Republic Thongloun
+Sisoulith in Beijing.
+Meeting with Acting Prime Minister of Pakistan Anwar-ul-Haq Kakar
+October 17, 2023, 18:35
+Beijing
+Vladimir Putin held a meeting with Acting Prime Minister of the Islamic Republic of Pakistan
+Anwar-ul-Haq Kakar.
+Interview with Rossiya TV channel
+October 17, 2023, 20:00
+Beijing
+The President answered
+questions from Rossiya-1 TV channel journalist Pavel Zarubin.
+Informal meeting with President of Kazakhstan and President of Uzbekistan
+October 17, 2023, 20:30
+Beijing
+Second day
+Belt and Road Forum for International Cooperation
+October 18, 2023, 06:35
+Beijing
+The President spoke at the opening of the Third Belt and Road Forum for International Cooperation.
+Russian-Chinese talks
+October 18, 2023, 09:55
+Beijing
+Vladimir Putin and President of the People’s Republic of China Xi Jinping held talks in Beijing.
+News conference following the visit to China
+October 18, 2023, 13:05
+Beijing
+Concluding
+his working visit to the People's Republic of China, Vladimir Putin answered
+questions from Russian journalists.
+Geography
+People's Republic of China
+Publication status
+Published in section:
+Trips
+Direct link:
+en.kremlin.ru/d/72535

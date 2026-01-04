@@ -1,0 +1,27 @@
+seed_url: https://president.mn/en/category/photo-gallery/page/8/
+final_url: https://president.mn/en/category/photo-gallery/page/8/
+title: Category : Photo gallery
+date: 2026/01/04
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+2019/05/24 8:50:58
+CONSTRUCTION WORKS OF TAVANTOLGOI-ZUUNBAYAN RAILWAY COMMENCE
+In accordance with the Government Policy on Railway, construction works for the Tavantolgoi-Zuunbayan railway commenced today in Budran Bag of
+2019/05/15 2:38:59
+GREETINGS OF CHIEF OF STAFF Z.ENKHBOLD TO THE ACADEMIC CONFERENCE DEDICATED TO THE 65TH ANNIVERSARY OF DIPLOMATIC RELATIONS BETWEEN MONGOLIA AND VIETNAM
+Chief of Staff to the President Z.Enkhbold extended greetings to the academic conference themed Mongolia-Vietnam Relations: History and New Era,
+2019/04/29 8:51:50
+PRESIDENT BATTULGA VISITS CAOFEIDIAN PORT IN HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for
+2019/04/29 11:58:54
+MEETING WITH WANG DONGFENG, COMMUNIST PARTY SECRETARY OF HEBEI PROVINCE OF CHINA
+After paying a state visit to the People’s Republic of China and attending the Second Belt and Road Forum for
+2019/04/26 11:45:32
+THE SECOND BELT AND ROAD FORUM FOR INTERNATIONAL COOPERATION COMMENCES
+The Second Belt and Road Forum for International Cooperation officially commenced on April 26 at the China National Convention Center
+2019/04/25 7:04:59
+PRESIDENT BATTULGA GREETED BY HIS CHINESE COUNTERPART
+President of Mongolia Khaltmaagiin Battulga, who is paying a state visit to the People’s Republic of China, was greeted by

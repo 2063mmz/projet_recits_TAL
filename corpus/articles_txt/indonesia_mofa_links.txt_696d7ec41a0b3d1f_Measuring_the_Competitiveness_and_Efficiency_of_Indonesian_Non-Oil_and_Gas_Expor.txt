@@ -1,0 +1,188 @@
+seed_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/58
+final_url: https://jurnal.kemlu.go.id/index.php/jurnal-hublu/article/view/58
+title: Measuring the Competitiveness and Efficiency of Indonesian Non-Oil and Gas Exports to Non-Traditional Markets
+date: Issue Published :
+                                          December 5, 2024
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Issue
+Vol. 9 No. 2 (2024): Jurnal Hubungan Luar Negeri
+Issue Published
+December 5, 2024
+Date Log
+Submitted
+August 21, 2024
+Accepted
+December 17, 2024
+Published
+December 17, 2024
+Measuring the Competitiveness and Efficiency of Indonesian Non-Oil and Gas Exports to Non-Traditional Markets
+https://doi.org/10.70836/jh.v9i2.58
+Hotsawadi Hotsawadi
+Development Economics Study Program, Faculty of Economics and Business, University of Mulawarman, Indonesia
+Imelda Veronica Gea
+Development Economics Study Program, Faculty of Economics and Business, University of Mulawarman, Indonesia
+Corresponding Author(s) : Hotsawadi Hotsawadi
+hotsawadi@feb.unmul.ac.id
+JURNAL HUBUNGAN LUAR NEGERI
+Vol. 9 No. 2 (2024): Jurnal Hubungan Luar Negeri
+Article Published :
+December 17, 2024
+Share on Facebook
+Share on Twitter
+Pinterest
+Email
+Telegram
+Abstract
+Cite
+References
+Authors
+Details
+Abstract
+In order to improve the performance of the trade balance, Indonesia is currently always trying to diversify the market through the expansion of export markets to non-traditional countries. For this reason, measuring competitiveness and export efficiency is crucial to be researched first. This study aims to measure the competitiveness and efficiency of Indonesia's Non-Oil and Gas Exports to Non-Traditional Markets by using the analysis methods RCA, EPD, X-Model and Stochastic Frontier Analysis with Gravity Model (SFGM). The results of the analysis show that based on the results of the competitiveness analysis (RCA) and export performance using EPD and X-Model, it shows that the competitiveness of Indonesia's non-oil and gas exports to non-traditional countries is still low or below global competitiveness. Meanwhile, the results of estimation using the Stochastic Frontier Analysis approach with the Gravity Model (SFGM) show that the variables of GDP of non-traditional countries, the number of population of non-traditional countries, Indonesia's GDP, competitiveness (RCA) and the area of non-traditional countries have a positive and significant effect on Indonesia's exports. Meanwhile, economic distance is estimated to have a negative and significant influence on Indonesia's non-oil and gas exports.
+Keywords
+Competitiveness, Export Determinant, Non-Traditional Markets.
+Full Article
+Generated from XML file
+Measuring the Competitiveness and Efficiency of Indonesian Non-Oil and Gas Exports to Non-Traditional Markets. (2024).
+JURNAL HUBUNGAN LUAR NEGERI
+(2), 239Ã¢â‚¬â€œ259.
+https://doi.org/10.70836/jh.v9i2.58
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+References
+Alim, G. I. (2019). Analisis Penerapan Gravity Model dan Dampak Kebijakan Domestic Market Obligation (DMO) terhadap Perdagangan Internasional LNG Indonesia. Jurnal Ilmiah Mahasiswa FEB, 7(2), 1Ã¢â‚¬â€œ14.
+Amstrong, S. (2007). Crawford School of Economics and Government Measuring Trade and Trade Potential : a Survey. Asian Economic Papers, 368.
+https://crawford.anu.edu.au/pdf/pep/apep-368.pdf
+Fitriani, E. (2019). Analisis Pengaruh Perdagangan Internasional Terhadap Pertumbuhan Ekonomi Indonesia. JURISMA : Jurnal Riset Bisnis & Manajemen, 9(1), 17Ã¢â‚¬â€œ26.
+https://doi.org/10.34010/jurisma.v9i1.1414
+Hadiyanto, Y. R. (2015). Pengaruh Diversifikasi Ekspor Terhadap Pertumbuhan NILAI TAMBAH PER TENAGa kerja Sektor Manufaktur Berbasis Agro dan The effect of Export Diversification on the Value Added Growth Per Labor of Agro and Non-agro Based Manufacturing Sector PENDAHULUAN Perek. 179Ã¢â‚¬â€œ200.
+Harahap, H., & Widyastutik. (2020). Diversifikasi Ekspor Non Migas Indonesia Ke Pasar Non Tradisional. Buletin Ilmiah Litbang Perdagangan, 14(2), 215Ã¢â‚¬â€œ238.
+https://doi.org/10.30908/bilp.v14i2.442
+Head, K., & Mayer, T. (2004). The Empirics of Agglomeration and Trade To cite this version: The Empirics of Agglomeration and Trade. In Handbook of Regional and Urban Economics (Vol. 4).
+https://hal-sciencespo.archives-ouvertes.fr/hal-01027789
+Hotsawadi, & Widyastutik. (2023). Menavigasi Daya Saing dan Determinan Ekspor Unggulan Indonesia di Kawasan Carribean Community (Caricom). Buletin Ilmiah Litbang Perdagangan, 17(2), 203Ã¢â‚¬â€œ224.
+https://doi.org/10.55981/bilp.2023.224
+Ingot, S. R., & Ulfa, N. (2023). Potensi Peningkatan Perdagangan Melalui Kerja Sama Asean-Bangladesh Preferential Trade Agreement (Pta). Trade Policy Journal, September, 35Ã¢â‚¬â€œ52.
+https://jurnal.kemendag.go.id/TPJ/article/view/872%0Ahttps://jurnal.kemendag.go.id/TPJ/article/download/872/408
+Irhami, M. (2015). Stochastic Gravity Model and Trade Efficiency for lndonesia. Economics and Finance in Indonesia, 55(2), 177.
+https://doi.org/10.7454/efi.v55i2.115
+Kahfi, A. S. (2016). Determinants of IndonesiaÃ¢â‚¬â„¢S Exports of Manufactured Products: a Panel Data Analysis. Buletin Ilmiah Litbang Perdagangan, 10(2), 187Ã¢â‚¬â€œ202.
+https://doi.org/10.30908/bilp.v10i2.54
+Kalirajan, K., & Singh, K. (2008). A comparative analysis of ChinaÃ¢â‚¬â„¢s and IndiaÃ¢â‚¬â„¢s recent export performances. Asian Economic Papers, 7(1), 1Ã¢â‚¬â€œ28.
+https://doi.org/10.1162/asep.2008.7.1.1
+Kemendag. (2024). Rencana Strategi 2020-2024.
+http://bppp.kemendag.go.id/
+Kim, K. H. (1982). Juche in international trade. In Mathematical Social Sciences (Vol. 3, Issue 2).
+https://doi.org/10.1016/0165-4896(82)90051-8
+Krugman, P. R., Obstfeld, M., & Melitz, M. J. (2018). International Economics, Theory and Policy, Global Edition by Paul R. Krugman, Maurice Obstfeld, Marc J. Melitz, (z-lib.org). In Pearson Education : Harlow., 2018 (Vol. 11, Issue International Economics).
+Manalu, D.S.T., Harianto., Suharno., Hartoyo, S. (2022). Analisis Daya Saing Serta Faktor-Faktor yang Memengaruhi Pangsa Pasar Negara Eksportir Utama Kopi di Negara Importir Utama Kopi. Buletin Ilmiah Litbang Perdagangan, 16(1), 1Ã¢â‚¬â€œ24.
+https://jurnal.kemendag.go.id/bilp/article/view/445
+Miftah Akbar, F., & Widyastutik. (2022). Analysis of Competitiveness, Dynamics, and Determinants of Main Commodity Export Demand from Indonesia to United Kingdom. Jurnal Ekonomi Dan Kebijakan Pembangunan, 11(2), 108Ã¢â‚¬â€œ131.
+https://doi.org/10.29244/jekp.11.2.2022.108-131
+Noviyani, E., & Muid, D. (2019). Pengaruh Return on Assets, Leverage, Ukuran Perusahaan, Intensitas Aset Tetap, dan Kepemilikan Institusional terhadap Penghindaran Pajak. Diponegoro Journal of Accounting, 8(3), 1Ã¢â‚¬â€œ11.
+Oktaviani, R., & Amaliah, S. (2010). Dampak Free Trade Arrangements (Fta) Terhadap Ekonomi Makro, Sektoral, Regional, Dan Distribusi Pendapatan Di Indonesia (the Impact of Free Trade Agreement (Fta) on Indonesian Macro Economic, Sectoral, and Income Distribution). Jurnal Ilmu Pertanian Indonesia, 15(3), 192Ã¢â‚¬â€œ204.
+Oktaviani, R., & Drynan, R. G. (2000). The Impact of Apec Trade Liberalisation on the Indonesian Economy and Agricultural Sector. The Thrid Annual Conference on Global Economic Analysis. Nuni 28 - 30 2000. Melbourne, Australia, 1Ã¢â‚¬â€œ20.
+Oktaviani, R., & Novianti, T. (2014). Teori Perdagangan Internasional Dan Aplikasinya Di Indonesia. IPB Press.
+Ravishankar, G., & M. Stack, M. (2014). The Gravity Model and Trade Efficiency: A Stochastic Frontier Analysis of Eastern European CountriesÃ¢â‚¬â„¢ Potential Trade. The World Economy, 37(5), 690Ã¢â‚¬â€œ704.
+https://doi.org/https://doi.org/10.1111/twec.12144
+Retnaningsih, Y., Indah, P. N., & Laily, D. W. (2024). Mimbar Agribisnis : Jurnal Pemikiran Masyarakat Ilmiah Berwawasan Agribisnis Analisis Tingkat Daya Saing Cengkeh Indonesia terhadap Negara Pesaing : Tanzania dan Madagaskar Analysis of the Level of Competitiveness of Indonesian Cloves Against Competing Co. 10, 2906Ã¢â‚¬â€œ2912.
+Roperto, J. D., & Edgardo, C. (2014). Philippine Export Efficiency and Potential: An Application of Stochastic Frontier Gravity Model. World Journal of Economic and Finance, 1(2), 006Ã¢â‚¬â€œ015.
+Sabaruddin, S. S. (2017). Strengthening IndonesiaÃ¢â‚¬â„¢s Economic Diplomacy Designs Clustering of IndonesiaÃ¢â‚¬â„¢s Export Market Destinations: Traditional Markets vs. Non-Traditional Markets. Jurnal Ilmiah Hubungan Internasional, 12(2), 205Ã¢â‚¬â€œ221.
+Tumwebaze Karamuriro, H. (2015). Determinants of UgandaÃ¢â‚¬â„¢s Export Performance: A Gravity Model Analysis. International Journal of Business and Economics Research, 4(2), 45.
+https://doi.org/10.11648/j.ijber.20150402.14
+Wardani, M. A., & Mulatsih, S. (2018). Analisis Daya Saing Dan Faktor-Faktor Yang Memengaruhi Ekspor Ban Indonesia Ke Kawasan Amerika Latin. Jurnal Ekonomi Dan Kebijakan Pembangunan, 6(1), 81Ã¢â‚¬â€œ100.
+https://doi.org/10.29244/jekp.6.1.81-100
+Wenhui, J. I., Zhang, H., & Lin, Y. (2022). Trade Sustainability and Efficiency under the Belt and Road Initiative: A Stochastic Frontier Analysis of ChinaÃ¢â‚¬â„¢s Trade Potential at Industry Level. Emerging Markets Finance and Trade, 58(6), 1740Ã¢â‚¬â€œ1752.
+https://doi.org/https://doi.org/10.1080/1540496X.2021.1925246
+Read More
+References
+Alim, G. I. (2019). Analisis Penerapan Gravity Model dan Dampak Kebijakan Domestic Market Obligation (DMO) terhadap Perdagangan Internasional LNG Indonesia. Jurnal Ilmiah Mahasiswa FEB, 7(2), 1Ã¢â‚¬â€œ14.
+Amstrong, S. (2007). Crawford School of Economics and Government Measuring Trade and Trade Potential : a Survey. Asian Economic Papers, 368.
+https://crawford.anu.edu.au/pdf/pep/apep-368.pdf
+Fitriani, E. (2019). Analisis Pengaruh Perdagangan Internasional Terhadap Pertumbuhan Ekonomi Indonesia. JURISMA : Jurnal Riset Bisnis & Manajemen, 9(1), 17Ã¢â‚¬â€œ26.
+https://doi.org/10.34010/jurisma.v9i1.1414
+Hadiyanto, Y. R. (2015). Pengaruh Diversifikasi Ekspor Terhadap Pertumbuhan NILAI TAMBAH PER TENAGa kerja Sektor Manufaktur Berbasis Agro dan The effect of Export Diversification on the Value Added Growth Per Labor of Agro and Non-agro Based Manufacturing Sector PENDAHULUAN Perek. 179Ã¢â‚¬â€œ200.
+Harahap, H., & Widyastutik. (2020). Diversifikasi Ekspor Non Migas Indonesia Ke Pasar Non Tradisional. Buletin Ilmiah Litbang Perdagangan, 14(2), 215Ã¢â‚¬â€œ238.
+https://doi.org/10.30908/bilp.v14i2.442
+Head, K., & Mayer, T. (2004). The Empirics of Agglomeration and Trade To cite this version: The Empirics of Agglomeration and Trade. In Handbook of Regional and Urban Economics (Vol. 4).
+https://hal-sciencespo.archives-ouvertes.fr/hal-01027789
+Hotsawadi, & Widyastutik. (2023). Menavigasi Daya Saing dan Determinan Ekspor Unggulan Indonesia di Kawasan Carribean Community (Caricom). Buletin Ilmiah Litbang Perdagangan, 17(2), 203Ã¢â‚¬â€œ224.
+https://doi.org/10.55981/bilp.2023.224
+Ingot, S. R., & Ulfa, N. (2023). Potensi Peningkatan Perdagangan Melalui Kerja Sama Asean-Bangladesh Preferential Trade Agreement (Pta). Trade Policy Journal, September, 35Ã¢â‚¬â€œ52.
+https://jurnal.kemendag.go.id/TPJ/article/view/872%0Ahttps://jurnal.kemendag.go.id/TPJ/article/download/872/408
+Irhami, M. (2015). Stochastic Gravity Model and Trade Efficiency for lndonesia. Economics and Finance in Indonesia, 55(2), 177.
+https://doi.org/10.7454/efi.v55i2.115
+Kahfi, A. S. (2016). Determinants of IndonesiaÃ¢â‚¬â„¢S Exports of Manufactured Products: a Panel Data Analysis. Buletin Ilmiah Litbang Perdagangan, 10(2), 187Ã¢â‚¬â€œ202.
+https://doi.org/10.30908/bilp.v10i2.54
+Kalirajan, K., & Singh, K. (2008). A comparative analysis of ChinaÃ¢â‚¬â„¢s and IndiaÃ¢â‚¬â„¢s recent export performances. Asian Economic Papers, 7(1), 1Ã¢â‚¬â€œ28.
+https://doi.org/10.1162/asep.2008.7.1.1
+Kemendag. (2024). Rencana Strategi 2020-2024.
+http://bppp.kemendag.go.id/
+Kim, K. H. (1982). Juche in international trade. In Mathematical Social Sciences (Vol. 3, Issue 2).
+https://doi.org/10.1016/0165-4896(82)90051-8
+Krugman, P. R., Obstfeld, M., & Melitz, M. J. (2018). International Economics, Theory and Policy, Global Edition by Paul R. Krugman, Maurice Obstfeld, Marc J. Melitz, (z-lib.org). In Pearson Education : Harlow., 2018 (Vol. 11, Issue International Economics).
+Manalu, D.S.T., Harianto., Suharno., Hartoyo, S. (2022). Analisis Daya Saing Serta Faktor-Faktor yang Memengaruhi Pangsa Pasar Negara Eksportir Utama Kopi di Negara Importir Utama Kopi. Buletin Ilmiah Litbang Perdagangan, 16(1), 1Ã¢â‚¬â€œ24.
+https://jurnal.kemendag.go.id/bilp/article/view/445
+Miftah Akbar, F., & Widyastutik. (2022). Analysis of Competitiveness, Dynamics, and Determinants of Main Commodity Export Demand from Indonesia to United Kingdom. Jurnal Ekonomi Dan Kebijakan Pembangunan, 11(2), 108Ã¢â‚¬â€œ131.
+https://doi.org/10.29244/jekp.11.2.2022.108-131
+Noviyani, E., & Muid, D. (2019). Pengaruh Return on Assets, Leverage, Ukuran Perusahaan, Intensitas Aset Tetap, dan Kepemilikan Institusional terhadap Penghindaran Pajak. Diponegoro Journal of Accounting, 8(3), 1Ã¢â‚¬â€œ11.
+Oktaviani, R., & Amaliah, S. (2010). Dampak Free Trade Arrangements (Fta) Terhadap Ekonomi Makro, Sektoral, Regional, Dan Distribusi Pendapatan Di Indonesia (the Impact of Free Trade Agreement (Fta) on Indonesian Macro Economic, Sectoral, and Income Distribution). Jurnal Ilmu Pertanian Indonesia, 15(3), 192Ã¢â‚¬â€œ204.
+Oktaviani, R., & Drynan, R. G. (2000). The Impact of Apec Trade Liberalisation on the Indonesian Economy and Agricultural Sector. The Thrid Annual Conference on Global Economic Analysis. Nuni 28 - 30 2000. Melbourne, Australia, 1Ã¢â‚¬â€œ20.
+Oktaviani, R., & Novianti, T. (2014). Teori Perdagangan Internasional Dan Aplikasinya Di Indonesia. IPB Press.
+Ravishankar, G., & M. Stack, M. (2014). The Gravity Model and Trade Efficiency: A Stochastic Frontier Analysis of Eastern European CountriesÃ¢â‚¬â„¢ Potential Trade. The World Economy, 37(5), 690Ã¢â‚¬â€œ704.
+https://doi.org/https://doi.org/10.1111/twec.12144
+Retnaningsih, Y., Indah, P. N., & Laily, D. W. (2024). Mimbar Agribisnis : Jurnal Pemikiran Masyarakat Ilmiah Berwawasan Agribisnis Analisis Tingkat Daya Saing Cengkeh Indonesia terhadap Negara Pesaing : Tanzania dan Madagaskar Analysis of the Level of Competitiveness of Indonesian Cloves Against Competing Co. 10, 2906Ã¢â‚¬â€œ2912.
+Roperto, J. D., & Edgardo, C. (2014). Philippine Export Efficiency and Potential: An Application of Stochastic Frontier Gravity Model. World Journal of Economic and Finance, 1(2), 006Ã¢â‚¬â€œ015.
+Sabaruddin, S. S. (2017). Strengthening IndonesiaÃ¢â‚¬â„¢s Economic Diplomacy Designs Clustering of IndonesiaÃ¢â‚¬â„¢s Export Market Destinations: Traditional Markets vs. Non-Traditional Markets. Jurnal Ilmiah Hubungan Internasional, 12(2), 205Ã¢â‚¬â€œ221.
+Tumwebaze Karamuriro, H. (2015). Determinants of UgandaÃ¢â‚¬â„¢s Export Performance: A Gravity Model Analysis. International Journal of Business and Economics Research, 4(2), 45.
+https://doi.org/10.11648/j.ijber.20150402.14
+Wardani, M. A., & Mulatsih, S. (2018). Analisis Daya Saing Dan Faktor-Faktor Yang Memengaruhi Ekspor Ban Indonesia Ke Kawasan Amerika Latin. Jurnal Ekonomi Dan Kebijakan Pembangunan, 6(1), 81Ã¢â‚¬â€œ100.
+https://doi.org/10.29244/jekp.6.1.81-100
+Wenhui, J. I., Zhang, H., & Lin, Y. (2022). Trade Sustainability and Efficiency under the Belt and Road Initiative: A Stochastic Frontier Analysis of ChinaÃ¢â‚¬â„¢s Trade Potential at Industry Level. Emerging Markets Finance and Trade, 58(6), 1740Ã¢â‚¬â€œ1752.
+https://doi.org/https://doi.org/10.1080/1540496X.2021.1925246
+Author biographies is not available.
+How to Cite
+Measuring the Competitiveness and Efficiency of Indonesian Non-Oil and Gas Exports to Non-Traditional Markets. (2024).
+JURNAL HUBUNGAN LUAR NEGERI
+(2), 239Ã¢â‚¬â€œ259.
+https://doi.org/10.70836/jh.v9i2.58
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+AMA
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+PDF
+Statistic
+Read
+Counter :
+628
+Download :
+292
+Table Of Contents

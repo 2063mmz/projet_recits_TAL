@@ -1,0 +1,153 @@
+seed_url: http://government.ru/en/news/33404/
+final_url: http://government.ru/en/news/29822/
+title: News
+date: 2025-12-30T17:50:00+04:00
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: follow_ok
+
+OFFICIAL WEBSITE OF THE GOVERNMENT OF THE RUSSIAN FEDERATION
+Meeting of the Eurasian Intergovernmental Council
+25 October 2017
+11:00
+Yerevan, Republic of Armenia
+Dmitry Medvedev: “We see that in general, the common market is gradually revealing its potentialities. In the first half of the year the aggregate GDP of the Eurasian Union grew by 1.8 percent. Importantly, the growth was registered in all countries without exception. Trade inside the union increased by almost 28 percent. Foreign trade with third countries went up by almost 26 percent.”
+Dmitry Medvedev’s speech at
+the meeting
+Documents
+following the meeting
+List of the heads of delegations participating in the Eurasian Intergovernmental Council meeting:
+Group photo of the heads of delegations participating in the Eurasian Intergovernmental Council meeting
+25 October 2017
+Eurasian Intergovernmental Council limited attendance meeting
+25 October 2017
+Предыдущая новость
+Следующая новость
+Group photo of the heads of delegations participating in the Eurasian Intergovernmental Council meeting
+Prime Minister of the Republic of Armenia Karen Karapetyan
+Prime Minister of the Republic of Belarus Andrei Kobyakov
+Prime Minister of the Republic of Kazakhstan Bakytzhan Sagintayev
+Prime Minister
+of Kyrgyzstan Sapar Isakov
+Prime Minister of the Russian Federation Dmitry Medvedev
+Chairman of the Board of the Eurasian Economic Commission Tigran Sargsyan
+Retrospective
+Meeting of the Eurasian Intergovernmental Council  14 August 2017
+Meeting of the Eurasian Intergovernmental Council  26 Mау 2017
+Meeting of the Eurasian Intergovernmental Council  16  November 2016
+Meeting of the Eurasian Intergovernmental Council  27 October  2017
+Meeting of the Eurasian Intergovernmental Council  12 Аugust 2016
+Meeting of the Eurasian Intergovernmental Council 20 May 2016
+Meeting of the Eurasian Intergovernmental Council  13 April 2016
+Meeting of the Eurasian Intergovernmental Council  8 September 2015
+Meeting of the Eurasian Intergovernmental Council  29 May 2015
+Meeting of the Eurasian Intergovernmental Council  6 February 2015
+Excerpts from Dmitry Medvedev’s speech at the
+meeting:
+In the union
+we are forming a space for the free movement of goods and services, capital and
+workforce. This is the result of our dialogue and compromises as well as opportunity
+and desire to listen to each other and make decisions. We see that in general,
+the common market is gradually revealing its potentialities.
+In the first
+half of the year the aggregate GDP of the Eurasian Union grew by 1.8 percent.
+Importantly, the growth was registered in all countries without exception.
+Trade inside the union increased by almost 28 percent. Foreign trade with third
+countries went up by almost 26 percent. The most notable progress has been made
+in industry, agriculture, cargo shipments and passenger transport.
+At this point
+the main tasks are as follows.
+The first goal is to
+effectively and consistently remove barriers as well as exemptions in trade.
+This year alone, 14 such barriers have been removed and we intend to eliminate
+at least 20 more. Other activities to be covered by this measure include
+industrial production, agriculture, energy and technical regulation.
+Second, it is necessary to
+develop self-regulation. The reviewed Customs Code enters into force on 1 January.
+It is a more serious and advanced document compared to the current code. The
+new Customs Code contains comprehensive rules of the transfer of goods across
+the customs border and removes discrepancies in regulation. I hope everybody
+will follow these rules.
+There are certain difficulties
+in correlating domestic and union-wide rates, the pricing in the gas, oil and
+oil product markets. There is still room for improvement. Of course, we are not
+a union of oil and gas producers. Some of the Eurasian Union members have no
+oil or gas deposits. Moreover, we are earning more revenues from goods other
+than hydrocarbons. I am talking particularly about Russia whose rank in this
+market is well known. Our revenues from other exports are in fact higher than
+those from hydrocarbon exports.
+We discuss new energy sources.
+Let’s not lower the bar for the objectives of our integration group.
+Today, we will make a decision
+regarding the organisation of the common electric power market. Our countries
+will develop an integrated b2b system that will connect companies directly.
+It is important to extend the
+agenda with new promising areas that will contribute to further growth. The
+areas of focus here are united by the term “digital economy” and include
+e-commerce, new production technology, data protection together with many other
+fields.
+Two weeks ago the heads of state endorsed the main features
+of the union’s digital agenda.
+The work of the common market should be free of
+imbalances and quasi-legal schemes. The labelling of goods is one of the most
+efficient mechanisms with regard to this. It is necessary to speed up domestic
+procedures on the draft agreement so as to make it possible to use a labelling system
+for different groups of goods, improve the market and so help counter
+counterfeit products.
+It would be best to discuss such topics primarily in a
+bilateral format without avoiding any discussions. This would be better for business.
+The issue concerning the situation with  the sugar market has been included on the
+agenda at Russia’s initiative. As of August 1, the wholesale price of sugar
+dropped by almost 44 percent, to that of the level of 2014. This is bound to
+worry us because we produce a lot of sugar. We agreed to jointly analyse
+preferential tariffs on the imports of sugar as well as make a decision that
+will help redress this situation.
+We also discussed flight incidents. We plan to establish
+an independent international body that will conduct non-partial and objective inquires
+into such incidents with due account of the close integration of the economies
+of the Eurasian Economic Union (EAEU).
+Next year the chairmanship in the EAEU will pass over
+to Russia. I would like to sincerely thank the Kyrgyz Republic for the job it
+has done. During the past year we progressed substantially in all areas of the
+development of integration. Next year we must continue fulfilling the strategic
+integration tasks, consolidate the institutes of the union plus speed up the
+promotion of vital initiatives.
+We will have to pay special attention to the
+international positioning of the union and its activities on the world arena.
+Russia is now drafting a document on the priorities of its chairmanship that we
+would like to discuss with our partners.
+Documents
+signed following the meeting of the Eurasian Economic Council:
+Decision on the order of reviewing initiatives on implementing the
+digital agenda of the Eurasian Economic Union;
+Directive on
+a plan of action (roadmap) on removing limitations and restrictions on the
+domestic market of the Eurasian Economic Union in 2018−2019;
+Instruction
+on the additional package of measures on controlling the movement of goods as
+regards to which the Russian Federation takes unilateral special economic
+measures;
+Instruction
+on the analysis of the situation taking shape on the sugar markets of the EAEU
+member countries;
+Directive on
+establishing a body for making inquiries into flight accidents;
+Instruction
+on a draft agreement on navigation;
+Directive on
+certain issues of information exchange on the EAEU common electric power market;
+Decision on
+endorsing a plan of action (roadmap) of the main areas and stages of implementing
+coordinated (agreed upon) transport policy of the member states of the Eurasian
+Economic Union in 2018−2020;
+Directive on
+a draft agreement on the identification labelling of goods within Eurasian
+Economic Union;
+Directive on
+holding the Eurasian Week Forum in 2018−2020;
+Agreement on
+the circulation of agricultural crop seeds within the Eurasian Economic Union.
+Government of the Russian Federation
+http://government.ru/en/news/29822/
+Highlight selection

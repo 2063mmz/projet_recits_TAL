@@ -1,0 +1,3350 @@
+seed_url: https://www.foreign.go.tz/uploads/HOTUBA_YA_BAJETI_YA_MAMBO_YA_NJE_2019-2020_(1).pdf
+final_url: https://www.foreign.go.tz/uploads/HOTUBA_YA_BAJETI_YA_MAMBO_YA_NJE_2019-2020_(1).pdf
+title: HOTUBA_YA_BAJETI_YA_MAMBO_YA_NJE_2019-2020_(1).pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+i
+HOTUBA YA MHESHIMIWA PROF.
+PALAMAGAMBA JOHN AIDAN MWALUKO
+KABUDI (MB), WAZIRI WA MAMBO YA NJE
+NA USHIRIKIANO WA AFRIKA MASHARIKI
+AKIWASILISHA BUNGENI MPANGO NA
+MAKADIRIO YA BAJETI YA WIZARA KWA
+MWAKA WA FEDHA 2019/2020
+
+ii
+
+iii
+YALIYOMO
+1.0 UTANGULIZI ........................................................................ 1
+2.0 TATHMINI YA HALI YA DUNIA KWA MWAKA 2018/2019 .... 5
+3.0 NAFASI YA TANZANIA KIMATAIFA ..................................... 12
+4.0 MSIMAMO WA TANZANIA KATIKA MASUALA
+MBALIMBALI YA KIMATAIFA ............................................... 14
+4.1 Mgogoro kati ya Israel na Palestina .............................. 14
+4.2 Mgogoro kati ya Morocco na Sahrawi kwenye eneo la
+Sahara Magharibi ......................................................... 14
+5.0 MAPITIO YA UTEKELEZAJI WA MAJUKUMU YA WIZARA
+KWA MWAKA WA FEDHA 2018/2019 ................................. 15
+5.1 Kulinda na kutetea misingi ya Taifa ndani na nje ya nchi 17
+5.2 Kuratibu na kusimamia utekelezaji wa Sera ya Mambo
+ya Nje ikiweka msisitizo kwenye diplomasia ya uchumi
+kuelekea Tanzania ya viwanda ..................................... 18
+5.3 Kuratibu na kushiriki Tume za Pamoja za Kudumu za
+Ushirikiano .................................................................... 30
+5.4 Kuratibu utekelezaji wa makubaliano ya Kikanda na
+Kimataifa ....................................................................... 33
+5.5 Kutafuta fursa mbalimbali zinazotokana na ushiriki wa
+Tanzania katika mtangamano wa kikanda na mashirika
+ya kimataifa ................................................................... 56
+5.6 Kuendelea kuongeza uwakilishi wa Tanzania nje ya
+nchi ............................................................................... 57
+5.7 Kufuatilia utekelezaji wa mikataba mbalimbali
+iliyosainiwa kati ya nchi yetu na nchi nyingine .............. 58
+5.8 Kuongeza mshikamano na jumuiya za Watanzania
+wanaoishi nje ya nchi na kuweka utaratibu madhubuti
+utakaowawezesha kuchangia kwenye maendeleo ya
+Taifa .............................................................................. 59
+5.9 Kutafuta nafasi za masomo, misaada na kushawishi
+nchi na mashirika kufuta madeni .................................. 61
+5.10 Kusimamia masuala yanayohusu kinga na haki za
+Wanadiplomasia waliopo nchini .................................. 63
+5.11    Kusimamia na kuratibu masuala ya itifaki na uwakilishi 64
+
+iv
+5.12 Kusimamia utekelezaji wa majukumu ya Taasisi
+zinazosimamiwa na Wizara ....................................... 67
+5.13  Kuendelea kujenga uwezo wa Wizara na watumishi . 72
+6.0 SHUKRANI .......................................................................... 73
+7.0 MALENGO YA WIZARA KWA MWAKA WA FEDHA
+2019/2020 ............................................................................ 74
+8.0 MALENGO YA TAASISI ZILIZO CHINI YA WIZARA KWA
+MWAKA WA FEDHA 2019/2020 .......................................... 76
+9.0 MAKADIRIO YA MAPATO NA MATUMIZI YA WIZARA KWA
+MWAKA WA FEDHA 2019/2020 .......................................... 78
+10.0 HITIMISHO ........................................................................ 79
+
+v
+ORODHA YA VIFUPISHO
+ADF Allied Democratic Forces
+AfDB         African Development Bank
+APRM      African Peer Review Mechanism
+AU  African Union
+BADEA     Arab Bank for Economic Development in
+Africa
+BoT          Bank of Tanzania
+CCM       Chama Cha Mapinduzi
+DBSA         Development Bank of Southern Africa
+EAC           East African Community
+FARDC      Forces Armées de la République
+Démocratique du Congo
+FOCAC     Forum on China – Africa Cooperation
+IGAD       Intergovernmental Authority on
+Development
+IFAD International Fund for Agricultural
+Development
+JICA           Japan International Cooperation Agency
+JPC Joint Permanent Commissions
+MBLW Mjumbe wa Baraza la Wawakilishi
+Zanzibar
+MONUSCO United Nations Organization Stabilisation
+Mission in the Democratic Republic of
+Congo
+MINUSCA United Nations Multidimensional
+Integrated Stabilisation Mission in the
+Central African Republic
+NAM           Non – Aligned Movement
+NARCO      National Ranching Company Limited
+
+vi
+NHC           National Housing Corporation
+NSSF          National Social Security Fund
+RECs          Regional Economic Communities
+SADC          Southern African Development
+Community
+TANESCO  Tanzania Electric Supply Company Ltd
+TICAD   Tokyo International Conference on African
+Development
+TMEA        TradeMark East Africa
+UNAMID       United Nations African Union Mission in
+Darfur
+UNIFIL        United Nations Interim Force in Lebanon
+UNISFA      United Nations Interim Force for Abyei
+UNMISS      United Nations Mission in the Republic of
+South Sudan
+UNHCR       United Nations High Commissioner for
+Refugees
+UKIMWI      Upungufu wa Kinga Mwilini
+WFP           World Food Programme
+WMO     World Meteorological Organization
+WWF World Wildlife Fund
+ZAFICO Zanzibar Fisheries Corporation
+ZSSF         Zanzibar Social Security Fund
+
+1
+1.0 UTANGULIZI
+1. Mheshimiwa Spika, kufuatia taarifa iliyowasilishwa leo
+katika Bunge lako Tukufu na Mwenyekiti wa Kamati ya
+Kudumu ya Bunge ya Mambo ya Nje, Ulinzi na Usalama
+(NUU), naomba kutoa hoja kwamba Bunge lako Tukufu
+likubali kupokea na kujadili taarifa ya utekelezaji wa mpango
+na bajeti ya Wizara ya Mambo ya Nje na Ushirikiano wa
+Afrika Mashariki kwa mwaka wa fedha 2018/2019. Aidha,
+naomba Bunge lako Tukufu lijadili na kupitisha mpango
+na bajeti ya Wizara ya Mambo ya Nje na Ushirikiano wa
+Afrika Mashariki kwa mwaka wa fedha 2019/2020.
+2. Mheshimiwa Spika, awali ya yote napenda kuchukua
+fursa hii kumshukuru Mwenyezi Mungu Rahim, mwingi
+wa rehema kwa kuniruzuku uhai na kunijalia afya njema
+kuweza kusimama mbele ya Bunge lako Tukufu kujadili
+makadirio ya mapato na matumizi ya Wizara ya Mambo ya
+Nje na Ushirikiano wa Afrika Mashariki.
+3. Mheshimiwa Spika, Kwa heshima na taadhima
+napenda kumshukuru Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania, kwa kuniamini na kuniteua kuwa Waziri wa
+Mambo ya Nje na Ushirikiano wa Afrika Mashariki.
+Mheshimiwa Rais ameonesha imani kubwa kwangu
+kwa kunipatia majukumu haya. Napenda kumuahidi
+Mheshimiwa Rais kuwa nitatumia nguvu zangu zote,
+akili yangu, uzoefu wangu kuhakikisha Wizara hii inatoa
+mchango mkubwa katika maendeleo ya nchi yetu na
+kuhakikisha watumishi walio ndani ya Wizara wanakuwa
+wabunifu, wanajituma na kutekeleza majukumu yao kwa
+ufanisi. Aidha, ninamshukuru Mheshimiwa Rais kwa
+miongozo na maelekezo anayonipatia mimi binafsi na
+viongozi wenzangu wa Wizara ambayo inachangia kwa
+
+2
+kiasi kikubwa katika ufanisi wa Wizara.
+4. Mheshimiwa Spika, naomba kuchukua nafasi hii
+kuwapongeza, Mheshimiwa Samia Suluhu Hassan,
+Makamu wa Rais wa Jamhuri ya Muungano wa Tanzania
+na Mheshimiwa Kassim Majaliwa Majaliwa (Mb), Waziri
+Mkuu wa Jamhuri ya Muungano wa Tanzania kwa
+kumsaidia Mheshimiwa Rais kuiongoza vema nchi yetu
+na kutekeleza kwa mafanikio makubwa Ilani ya Uchaguzi
+ya Chama Cha Mapinduzi (CCM) ya mwaka 2015. Chini
+ya uongozi wao nchi yetu imeendelea kuwa ya amani
+na tumeendelea kudumisha mshikamano wa kitaifa na
+kuendelea kuongeza ushawishi wa Tanzania katika nyanja
+za kikanda na kimataifa.
+5. Mheshimiwa Spika, napenda kukupongeza kwa
+uongozi wako madhubuti katika uendeshaji wa shughuli
+za Bunge. Aidha, nampongeza Mheshimiwa Tulia Ackson
+Mwansasu (Mb), Naibu Spika, Wenyeviti wa Bunge na
+Wenyeviti wa Kamati za Kudumu za Bunge kwa kazi
+nzuri wanazozifanya kukusaidia kusimamia na kuendesha
+shughuli za Bunge. Nawaombea kwa Mwenyezi Mungu
+azidi kuwajalia afya njema na hekima katika kuongoza
+Mhimili huu muhimu katika uongozi wa taifa letu.
+6. Mheshimiwa Spika, naungana na wenzangu
+walionitangulia kuwashukuru na kuwapongeza watoa
+hoja waliozungumza kabla yangu, hususan Mheshimiwa
+Kassim Majaliwa Majaliwa (Mb), Waziri Mkuu wa Jamhuri
+ya Muungano wa Tanzania ambaye katika hotuba yake
+siyo tu ameelezea mafanikio ya Serikali ya Awamu ya
+Tano, bali pia ametoa dira kwa mustakabali wa taifa letu
+kwa kuainisha masuala muhimu ya kitaifa, kikanda na
+kimataifa ambayo yanagusa majukumu ya Wizara hii.
+
+3
+7. Mheshimiwa Spika, kwa namna ya pekee, naomba
+kutoa shukrani zangu za dhati kwa Kamati ya Kudumu ya
+Bunge ya Mambo ya Nje, Ulinzi na Usalama inayoongozwa
+na Mheshimiwa Mussa Azzan Zungu (Mb) kwa ushirikiano
+inayotoa kwa Wizara. Naishukuru Kamati kwa miongozo
+na ushauri wake katika masuala mbalimbali ambayo
+imekuwa na mchango mkubwa katika utekelezaji wa
+majukumu ya Wizara hii.
+8. Mheshimiwa Spika, nawapongeza Waheshimiwa
+Wabunge wote waliochaguliwa na kuteuliwa katika kipindi
+cha mwaka huu wa fedha 2018/2019. Kuchaguliwa na
+kuteuliwa kwao ni kielelezo cha kuaminiwa na wananchi
+na Serikali.
+9. Mheshimiwa Spika, kwa namna ya pekee napenda
+kumshukuru Mheshimiwa Dkt. Damas Daniel Ndumbaro
+(Mb), Naibu Waziri wa Mambo ya Nje na Ushirikiano
+wa Afrika Mashariki, Dkt. Faraji Kasidi Mnyepe, Katibu
+Mkuu; Balozi Ramadhan Muombwa Mwinyi, Naibu Katibu
+Mkuu; Mabalozi wa Tanzania nje ya nchi, Wakuu wa Idara
+na Vitengo, watumishi wa Wizara, na taasisi zilizo chini
+ya Wizara kwa ushirikiano mkubwa wanaonipa katika
+utekelezaji wa majukumu yangu. Nawashukuru kwa
+kujituma na kufanya kazi kwa weledi na kufanikisha kwa
+kiwango kikubwa utekelezaji wa bajeti ya Wizara kwa
+mwaka wa fedha 2018/2019, pamoja na kuandaa Bajeti
+ya Wizara ya mwaka wa fedha 2019/2020.
+10. Mheshimiwa Spika, nitakuwa mchoyo wa fadhila
+endapo sitamshukuru kwa dhati kabisa mke wangu
+mpendwa Dkt. Amina M. M. Kabudi na familia yangu kwa
+ujumla kwa kunivumilia, kuniunga mkono na kuniombea
+kwa Mwenyezi Mungu ili niweze kutekeleza majukumu
+niliyopewa na Mheshimiwa Rais ya kujenga na kutetea
+
+4
+maslahi ya taifa letu.
+11. Mheshimiwa Spika, mwaka 2018/2019, Taifa
+letu lilikumbwa na maafa kutokana na ajali za vyombo
+vya majini na nchi kavu. Itakumbukwa kuwa tarehe 20
+Septemba, 2018 taifa lilizizima kwa majonzi makubwa
+baada ya kupoteza takribani watu 200 katika ajali mbaya
+ya kuzama kwa kivuko cha MV Nyerere iliyotokea katika
+Ziwa Victoria. Naomba niungane na Mawaziri wenzangu
+walionitangulia kutoa salamu za pole kwa Mheshimiwa
+Rais na Watanzania wote kwa msiba huo mkubwa.
+12. Mheshimiwa Spika, naomba pia nifikishe salamu
+za rambirambi kwa Bunge lako Tukufu kutoka Balozi za
+nchi za nje na Mashirika mbalimbali ya Kimataifa yaliyopo
+hapa nchini. Mwenyezi Mungu awajalie afya njema
+waliopata majeraha na azipumzishe roho za marehemu
+mahala pema peponi. Amina!
+13. Mheshimiwa Spika, vilevile, naomba nitumie
+nafasi hii kutoa pole kwa ndugu zetu wa Malawi, Msumbiji
+na Zimbabwe waliokumbwa na maafa ya kimbunga Idai
+na kimbunga Kenneth. Kwa namna ya pekee kabisa
+napenda kumshukuru Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania, ambaye kwa niaba ya watanzania aliguswa
+na maafa hayo na kuchukua hatua za haraka kuzisaidia
+nchi hizo kwa kuzipatia misaada ya chakula, dawa, vifaa
+tiba, vyandarua na magodoro. Aidha, nachukua fursa
+hii kuwapa pole majirani zetu wa Comoro ambao nao
+walikumbwa na kimbunga Kenneth ambacho kilisababisha
+maafa makubwa.
+14. Mheshimiwa Spika,  kwa niaba ya Serikali ninatoa
+pole kwa Serikali za nchi zilizokumbwa na mashambulizi
+
+5
+ya kigaidi hivi karibuni ikiwemo shambulizi la kigaidi
+lililotokea nchini Kenya mwezi Februari, 2019 katika
+hoteli ya Dusit D2 jijini Nairobi na kusababisha vifo vya
+watu 15; shambulizi la kigaidi nchini New Zealand mwezi
+Machi, 2019 lililosababisha vifo vya watu takribani 50; na
+shambulizi la kigaidi lililotokea nchini Sri Lanka mwezi Aprili,
+2019 katika maeneo ya ibada na hoteli na kusababisha
+vifo vya zaidi ya watu 300. Tanzania inaungana na mataifa
+mengine duniani kukemea na kulaani vikali vitendo hivyo
+vya kikatili dhidi ya binadamu.
+
+2.0 TATHMINI YA HALI YA DUNIA KWA MWAKA
+2018/2019
+2.1 Hali ya Uchumi Duniani
+15. Mheshimiwa Spika, taarifa za hali ya uchumi
+duniani zilizotolewa na Benki ya Dunia na Shirika la Fedha
+la Kimataifa zinaashiria kuwa katika miaka miwili mfululizo
+iliyopita uchumi wa dunia umeimarika na kuonesha matarajio
+ya kukua zaidi katika mwaka 2019.  Aidha, uchumi wa nchi
+za Afrika Mashariki umekua kwa kasi zaidi ikilinganishwa
+na kanda nyingine ndani ya Afrika. Uchumi wa Tanzania
+umekua kwa wastani wa asilimia saba na kuifanya kuwa
+miongoni mwa nchi tano ambazo uchumi wake unakua
+kwa kasi zaidi barani Afrika. Pamoja na ukuaji huo, kuna
+dalili za kuwepo kwa vihatarishi vinavyoweza kupunguza
+kasi ya ukuaji wa uchumi wa dunia na kuzorotesha kasi
+ya maendeleo hususan katika nchi zinazoendelea endapo
+hatua madhubuti za kisera hazitachukuliwa. Miongoni
+mwa vihatarishi hivyo ni ongezeko la hali ya kutotabirika
+kwa sera za kibiashara za baadhi ya mataifa makubwa;
+mwenendo hafifu wa sekta ya fedha duniani; na ukuaji wa
+madeni kwa nchi zinazoendelea.
+
+6
+2.2 Hali ya Siasa, Ulinzi na Usalama
+2.2.1 Afrika
+16. Mheshimiwa Spika, naomba kutumia nafasi hii
+kuzipongeza nchi za Cameroon, Comoro, Guinea-Bissau,
+Jamhuri ya Kidemokrasia ya Kongo, Madagascar, Mali,
+Nigeria, Senegal, Zimbabwe, Afrika Kusini na Malawi kwa
+kufanya chaguzi katika hali ya amani na utulivu. Hali hii
+inaashiria kuimarika kwa misingi ya demokrasia na utawala
+bora katika bara letu la Afrika. Aidha, pamoja na hali ya
+kisiasa barani Afrika kuwa ya kuridhisha, kumekuwepo na
+changamoto katika baadhi ya nchi kama ifuatavyo:
+Algeria
+17. Mheshimiwa Spika, hivi karibuni Algeria ilikumbwa
+na maandamano ya kisiasa yaliyosababisha aliyekuwa
+Rais wa nchi hiyo, Mheshimiwa Abdelaziz Bouteflika
+kujiuzulu mnamo tarehe 2 Aprili 2019. Kwa sasa nchi hiyo
+inaongozwa na Serikali ya Mpito itakayodumu kwa siku 90
+kabla ya uchaguzi mkuu uliopangwa kufanyika mwezi Julai
+2019. Nitumie fursa hii kuwatakia ndugu zetu wa Algeria
+maandalizi mema ya uchaguzi ujao. Ni matumaini yetu
+kwamba uchaguzi huo utafanyika kwa amani na utulivu.
+Burundi
+18. Mheshimiwa Spika, napenda kuliarifu Bunge lako
+Tukufu kwamba hali ya siasa, ulinzi na usalama nchini
+Burundi inaimarika. Kuwepo kwa hali ya utulivu nchini
+humo kumewezesha raia wa nchi hiyo waliokuwa wakipata
+hifadhi hapa nchini kurejea nchini mwao kwa hiari. Hadi
+kufikia Mwezi Aprili 2019 kati ya wakimbizi 239,164
+waliokuwepo nchini wakimbizi 65,617 walirejea nchini
+
+7
+Burundi kwa hiari. Jumuiya ya Afrika Mashariki inaendelea
+kuratibu mazungumzo kati ya Serikali ya Burundi na
+Viongozi wa upinzani ili kupatikana kwa suluhisho la
+kudumu katika mgogoro huo. Kwa upande wetu, Tanzania
+inaunga mkono juhudi hizo ambazo tunaamini zinaweka
+mazingira mazuri kwa ajili ya Uchaguzi Mkuu unaotarajiwa
+kufanyika mwaka 2020.
+Jamhuri ya Kidemokrasia ya Kongo
+19. Mheshimiwa Spika, baada ya Uchaguzi Mkuu
+uliofanyika tarehe 30 Desemba, 2018, hali ya kisiasa
+nchini Jamhuri ya Kidemokrasia ya Kongo imeendelea
+kuwa tulivu. Rais wa nchi hiyo, Mheshimiwa Felix Antonie
+Tshisekedi anaendelea na mchakato wa kuunda Serikali
+yake ambapo amemteua Mheshimiwa Prof. Sylvestre
+Ilunga Ilunkamba kuwa Waziri Mkuu.
+20. Mheshimiwa Spika, pamoja na kwamba nchi hiyo
+inakabiliwa na changamoto za kiusalama katika maeneo
+ya mashariki, hivi karibuni kumeshuhudiwa kupungua kwa
+vitendo vya uvamizi vinavyofanywa na kikundi cha waasi
+cha ADF dhidi ya raia, askari wa Jeshi la nchi hiyo na
+vikosi vya kulinda amani vya MONUSCO. Aidha, baadhi ya
+wafuasi wa makundi yenye silaha katika majimbo ya Kasai
+walijisalimisha na kuunga mkono Serikali mpya chini ya
+Rais Tshisekedi. Mbali na changamoto za kiusalama, nchi
+hiyo imekumbwa na mlipuko wa ugonjwa wa Ebola katika
+maeneo ya Beni, Butembo na Ituri uliosababisha zoezi
+la uchaguzi kuahirishwa katika maeneo hayo.  Uchaguzi
+katika maeneo hayo ulifanyika mwezi Machi, 2019.
+
+8
+Jamhuri ya Afrika ya Kati
+21. Mheshimiwa Spika, juhudi za kurejesha amani
+ya kudumu katika Jamhuri ya Afrika ya Kati zinaendelea
+chini ya usimamizi wa Umoja wa Afrika. Katika kufanikisha
+jitihada hizo, mwezi Februari, 2019 Serikali ya Jamhuri
+ya Afrika ya Kati na viongozi wa makundi 14 ya waasi
+nchini humo walifikia makubaliano ya amani. Miongoni
+mwa masuala muhimu yaliyokubaliwa ni pamoja na
+kuvunja makundi yenye silaha na kuunda Serikali ya
+Umoja wa Kitaifa; kuanzisha mfuko wa kusaidia wananchi
+walioathirika na mapigano; na kuunda Kamisheni ya
+Kitaifa ya Ukweli, Haki, Fidia na Maridhiano itakayotoa
+mapendekezo ya hatua za kuchukua ili kulinda haki za
+wananchi.
+Libya
+22. Mheshimiwa Spika, hali ya amani na usalama
+nchini Libya imeendelea kuwa ya wasiwasi tangu
+Kanali Muammar Gaddafi aliyekuwa kiongozi wa Libya
+alipoondolewa madarakani na kuuawa mwaka 2011. Hali
+hiyo imesababishwa na Serikali ya Mpito ya Libya kukosa
+udhibiti wa nchi; kuongezeka kwa makundi yanayokinzana;
+kuongezeka kwa vikundi vya wahalifu wanaojihusisha na
+biashara haramu za mafuta, binadamu na dawa za kulevya;
+na kuchelewa kufanyika kwa mazungumzo ya amani. Hivi
+sasa mapigano yanaendelea nchini humo kati ya vikosi
+vya Serikali ya Mpito na vikosi vya Jenerali Khalifa Haftar.
+23. Mheshimiwa Spika, napenda kuliarifu Bunge lako
+Tukufu kuwa, Umoja wa Afrika na Umoja wa Mataifa kwa
+kushirikiana na wadau wa ndani nchini Libya wanaendelea
+na uratibu wa majadiliano yatakayowezesha kufanyika
+uchaguzi wa kidemokrasia baadaye mwaka huu. Tanzania
+
+9
+inaunga mkono juhudi hizo ili kupata suluhisho la kudumu
+la mgogoro huo.
+Jamhuri ya Sudan
+24. Mheshimiwa Spika, mwezi Aprili, 2019 Jeshi la
+Sudan lilitangaza kumuondoa madarakani aliyekuwa
+Rais wa nchi hiyo, Jenerali Omar Al – Bashir kufuatia
+maandamano ya wananchi dhidi ya Serikali yaliyoanza
+mwezi Desemba, 2018. Jeshi lilitangaza kuundwa kwa
+Serikali ya Mpito ambayo itakuwa madarakani kwa kipindi
+cha miaka miwili. Tanzania itaendelea kuunga mkono
+jitihada za Jumuiya ya Kimataifa na wadau wengine wa
+amani ili kurejesha amani na utulivu nchini humo.
+Sudan Kusini
+25. Mheshimiwa Spika, kufuatia makubaliano ya
+amani kati ya Serikali ya Sudan Kusini na wapinzani
+yaliyofikiwa jijini Khartoum, Sudan mwezi Septemba, 2018
+chini ya usuluhishi wa Jumuiya ya Maendeleo ya Pembe ya
+Afrika (IGAD), pande zote mbili zinaendelea na utekelezaji
+wa makubaliano hayo ikiwemo kuunda Serikali ya Mpito
+itakayodumu kwa kipindi cha miaka mitatu. Tanzania
+inazisihi pande zinazokinzana kusimamia na kutekeleza
+makubaliano yaliyofikiwa.
+Afrika Kusini
+26. Mheshimiwa Spika, mwezi Machi 2019, nchini
+Afrika Kusini kuliibuka matukio ya uvunjifu wa amani
+ambapo baadhi ya raia wa nchi hiyo walishambulia raia
+wa kigeni wanaoishi nchini humo. Katika matukio hayo,
+hakukuwa na Mtanzania yoyote aliyedhurika na kadhia
+hiyo. Naomba kutumia nafasi hii kuipongeza Serikali ya
+
+10
+Afrika Kusini kwa hatua ilizozichukua kukomesha vitendo
+hivyo viovu. Kupitia Ubalozi wetu nchini Afrika ya Kusini
+tunaendelea kuchukua hatua kuhakikisha raia wetu
+walioko nchini humo wanakuwa salama na wale wanaopata
+matatizo tunaendelea kuwahimiza kutoa taarifa ubalozini
+ili hatua za kiusalama zichukuliwe.
+2.2.2 Mashariki ya Kati
+27. Mheshimiwa Spika, hali ya amani na usalama
+katika eneo la Mashariki ya Kati imeendelea kuimarika licha
+ya changamoto katika baadhi ya nchi ikiwemo masuala ya
+ugaidi na uhasama kati ya nchi na nchi.
+ Syria
+28. Mheshimiwa Spika, Hali ya kisiasa na kiusalama
+nchini Syria imeendelea kuwa ya wasiwasi licha ya Serikali
+ya nchi hiyo kuanza kudhibiti maeneo mengi ya nchi.
+Majeshi ya Syria yanaendelea na mapigano ya kukomboa
+maeneo yanayoendelea kukaliwa na vikundi vya kigaidi.
+Yemen
+29. Mheshimiwa Spika, hali ya usalama nchini
+Yemen imeendelea kuwa tete kutokana na mapigano
+yanayoendelea kati ya majeshi ya Serikali na waasi wa
+Houthi. Mapigano hayo yamesababisha vifo vya raia
+wasio na hatia na kusababisha baa la njaa kutokana na
+kufungwa kwa bandari inayotumika kupitisha misaada ya
+kibinadamu. Juhudi za usuluhishi wa mgogoro huo kupitia
+Jumuiya ya Kimataifa zinaendelea na Tanzania inazisihi
+pande zinazopingana kutafuta suluhu ya kudumu kwa njia
+ya amani kupitia mazungumzo.
+
+11
+2.2.3 Amerika ya Kusini
+Venezuela
+30. Mheshimiwa Spika, hivi karibuni Venezuela
+iliingia katika mgogoro wa kisiasa kufuatia maandamano
+ya wapinzani kumshinikiza Rais Nicolás Maduro Moros
+kuachia madaraka. Hii ilitokana na madai ya upinzani
+kuwa uchaguzi uliofanyika mwezi Mei 2018 na matokeo
+yake yaliyompa ushindi Rais Nicolás Maduro haukuwa
+halali. Spika wa Bunge la nchi hiyo Bwana Juan Guaido
+alijitangaza kuwa Rais wa mpito wa nchi hiyo, akiungwa
+mkono na Mataifa ya Magharibi.
+31. Mheshimiwa Spika, Tanzania inaamini kuwa
+mgogoro huu unaweza kupatiwa ufumbuzi kupitia njia
+ya majadiliano kati ya pande hizo mbili zinazokinzana,
+hii itasaidia kuepusha madhara yanayoweza kujitokeza
+nchini humo. Hivyo, tutaendelea kushirikiana na Jumuiya
+ya Kimataifa kushawishi urejeshwaji wa amani na utulivu
+nchini humo.
+2.2.4 Ulaya
+Uingereza kujitoa katika Umoja wa Ulaya (BREXIT)
+32. Mheshimiwa Spika, Serikali ya Uingereza
+ilitangaza kujitoa katika Umoja wa Ulaya mwezi Juni 2016.
+Hadi sasa kumekuwepo na majadiliano yanayoendelea
+kuhusu uamuzi huo wa Uingereza. Wizara inaendelea
+kulifuatilia suala hili kwa ukaribu kutokana na Uingereza
+na Umoja wa Ulaya kuwa washirika wetu wakubwa wa
+maendeleo.
+
+12
+3.0 NAFASI YA TANZANIA KIMATAIFA
+33. Mheshimiwa Spika, Tanzania inaheshimika
+kimataifa kutokana na mchango wake mkubwa katika
+masuala mbalimbali duniani ikiwa ni pamoja na kudumisha
+ulinzi na usalama; kupambana na rushwa na mapambano
+dhidi ya biashara haramu ya dawa za kulevya; kukabiliana
+na tatizo la utakatishaji fedha; kutetea masuala ya haki za
+binadamu; na kuunga mkono misingi ya demokrasia na
+utawala bora.
+34. Mheshimiwa Spika, Tanzania inashiriki kikamilifu
+katika kulinda amani duniani ambapo kwa nyakati tofauti,
+imekuwa ikichangia vikosi katika misheni mbalimbali
+za kulinda amani. Kwa sasa Tanzania inachangia
+walinda amani 2,687 katika misheni sita tofauti ambazo
+ni: MONUSCO - Jamhuri ya Kidemokrasia ya Kongo;
+MINUSCA – Jamhuri ya Afrika ya Kati; UNAMID – Jamhuri
+ya Sudan; UNIFIL – Lebanon; UNISFA na UNMISS –
+Sudan Kusini. Napenda kuliarifu Bunge lako Tukufu
+kuwa tarehe 16 Mei, 2019 kwa kutumia ndege ya Shirika
+la Ndege la Tanzania (ATCL), jumla ya Wanajeshi 217
+waliondoka nchini kwenda kushiriki ulinzi wa amani Darfur,
+Sudan. Ushiriki wa Tanzania katika kulinda amani duniani
+umetoa mchango mkubwa katika kuwalinda raia wa
+maeneo husika wanaokumbwa na madhila ya vita pamoja
+na kurejesha amani katika maeneo hayo.
+35. Mheshimiwa Spika, nitumie fursa hii kuwapongeza
+askari wetu na kuwapa moyo kuendelea na majukumu
+hayo ya kizalendo. Vilevile, natoa pole kwa familia
+zilizopoteza wapendwa wao na Jeshi la Wananchi wa
+Tanzania kwa kupoteza askari wake shupavu wakati
+wanatekeleza wajibu wao katika operesheni za kulinda
+amani kwenye Misheni ya Umoja wa Mataifa nchini Jamhuri
+
+13
+ya Kidemokrasia ya Kongo (MONUSCO) na Misheni
+ya Kulinda Amani ya Umoja wa Mataifa nchini Jamhuri
+ya Afrika ya Kati (MINUSCA). Pamoja na kutoa salamu
+za pole, napenda kuliarifu Bunge lako Tukufu kuwa Bw.
+Jean – Pierre Lacroix, Mjumbe Maalum wa Katibu Mkuu
+wa Umoja wa Mataifa katika masuala ya kulinda amani,
+alifanya ziara mwezi Desemba, 2018 hapa nchini kwa ajili
+ya kuwasilisha salamu za pole kwa Serikali na familia za
+askari waliouawa.
+36. Mheshimiwa Spika,  Wizara  imeandaa, imeshiriki
+na kuratibu ushiriki wa Serikali katika vikao mbalimbali
+vya kikanda na kimataifa. Ushiriki wa Serikali katika vikao
+hivi unalenga kuimarisha mahusiano yetu kimataifa,
+kulinda na kutetea maslahi na sifa nzuri ya Tanzania kwa
+kuieleza Jumuiya ya Kimataifa jitihada ambazo Serikali
+imefanya katika kuhakikisha maendeleo ya wananchi
+wake yanapatikana na masuala ya utawala bora na haki
+za binadamu yanalindwa kwa wananchi wote.
+37. Mheshimiwa Spika, mwezi Machi, 2019 Tanzania
+ilishiriki kikamilifu katika Kikao cha 40 cha Baraza la Haki
+za Binadamu la Umoja wa Mataifa na kutumia fursa hiyo
+kutoa ufafanuzi wa kina kuhusu tuhuma za upotoshaji
+unaofanywa mara kwa mara kuwa kuna ukiukwaji wa
+haki za binadamu nchini.  Tanzania ilitaarifu Jumuiya ya
+Kimataifa jinsi Serikali inavyotimiza misingi ya haki za
+binadamu kama ilivyobainishwa katika Katiba ya Jamhuri
+ya Muungano wa Tanzania na mikataba ya kimataifa na
+kikanda ambayo Tanzania ni mwanachama. Tutaendelea
+kuhakikisha kuwa taswira ya nchi yetu inalindwa kila mahali
+na pale ambapo shutuma dhidi ya nchi yetu zinatolewa
+hatutasita kuzitolea ufafanuzi. Niendelee kuzisihi jumuiya
+ya kimataifa, mashirika yasiyo ya kiserikali kushauriana na
+Serikali pale ambapo wanahisi kuna tatizo kabla ya kutoa
+shutuma dhidi ya Serikali.
+
+14
+4.0 MSIMAMO WA TANZANIA KATIKA MASUALA
+MBALIMBALI YA KIMATAIFA
+4.1 Mgogoro kati ya Israel na Palestina
+38. Mheshimiwa Spika,  kuhusu mgogoro wa Israel na
+Palestina, msimamo wa Tanzania ni kuendelea kuzingatia
+misingi tulioachiwa na waasisi wa Taifa letu ambayo
+ndiyo nguzo ya sera yetu ya mambo ya nje ya kupigania
+haki ya kujitawala wenyewe, kuheshimu mipaka ya nchi
+na kuunga mkono maazimio ya Jumuiya ya Kimataifa.
+Hivyo, Tanzania inaunga mkono maazimio ya Umoja
+wa Mataifa na Umoja wa Afrika kuhusu mgogoro huu
+ambapo itaendelea kushauri pande husika kuheshimu
+makubaliano yaliyofikiwa. Tanzania inaamini kwamba
+suluhisho la kudumu katika mgogoro huu ni la kuwa na
+nchi mbili ambazo zitaishi kwa pamoja ikiwa ni Palestina
+huru na Israel salama.
+4.2 Mgogoro kati ya Morocco na Sahrawi kwenye
+eneo la Sahara Magharibi
+39. Mheshimiwa Spika,  Tanzania  inaunga mkono
+juhudi za Umoja wa Mataifa na Umoja wa Afrika katika
+usuluhishi wa mgogoro wa eneo la Sahara Magharibi kati
+ya Morocco na Sahrawi kwa kushiriki katika mijadala na
+mazungumzo kuhusu namna bora ya kutatua mgogoro
+huo. Katika mijadala hiyo, tumeendelea kuzisihi pande
+zinazokinzana kukaa kwenye meza ya mazungumzo
+ili kupata suluhu ya kudumu ya suala hili kwa njia ya
+amani. Tunapongeza mazungumzo yaliyofanyika mwezi
+Desemba, 2018 Geneva, Uswisi kati ya pande mbili. Ni
+matumaini yetu kuwa suluhu ya mgogoro huo itapatikana
+mapema.
+
+15
+5.0 MAPITIO YA UTEKELEZAJI WA MAJUKUMU YA
+WIZARA KWA MWAKA WA FEDHA 2018/2019
+40. Mheshimiwa Spika,  katika kutekeleza majukumu
+yake kwa mwaka 2018/2019, Wizara ilitengewa kiasi cha
+Shilingi 180,927,265,043.65. Kati ya fedha hizo, Shilingi
+170,527,265,043.65 ni kwa ajili ya matumizi ya kawaida
+na Shilingi 10,400,000,000.00 ni kwa ajili ya bajeti ya
+maendeleo. Katika fedha zilizotengwa kwa matumizi
+ya kawaida, Shilingi 158,682,176,563.65 ni kwa ajili ya
+matumizi mengineyo na  Shilingi  11,845,088,480  ni kwa
+ajili ya mishahara.
+41. Mheshimiwa Spika,  katika mwaka 2018/2019
+Wizara ilitarajia kukusanya maduhuli kiasi cha Shilingi
+28,564,158,100.00. Hadi kufikia mwezi Aprili, 2019 Wizara
+imefanikiwa kukusanya kiasi cha Shilingi 21,339,394,423.16
+ikiwa ni sawa na asilimia 74.7 ya makisio ya makusanyo
+yote ya maduhuli kwa mwaka  2018/2019. Mwenendo
+huu unatoa matumaini kuwa Wizara itafikia malengo
+yake ya kukusanya maduhuli yaliyokadiriwa kwa mwaka
+2018/2019 na kuingizwa moja kwa moja katika Mfuko
+Mkuu wa Serikali  kama ilivyoelekezwa.
+42. Mheshimiwa Spika,  hadi kufikia mwezi Aprili,
+2019, Wizara ilipokea kutoka HAZINA mgao wa fedha
+kiasi cha Shilingi 116,338,246,179.70  sawa na asilimia
+64.3 ya fedha za bajeti iliyoidhinishwa katika mwaka
+wa fedha 2018/2019. Kati ya fedha hizo, Shilingi
+108,310,011,974.70 ni kwa ajili ya matumizi mengineyo
+na Shilingi 8,028,234,205.00 ni kwa ajili ya mishahara.
+Wizara inatarajia kupokea fedha za bajeti ya maendeleo
+kabla ya mwisho wa mwaka huu wa fedha.
+
+16
+43. Mheshimiwa Spika, Wizara imeendelea kuzingatia
+sheria, kanuni, taratibu na miongozo ya fedha za umma
+katika kudhibiti mapato na matumizi ya Serikali. Katika
+mwaka wa fedha 2017/2018, Wizara pamoja na balozi
+zake 40 kati 41 zilizokaguliwa zimepata hati safi za ukaguzi.
+Ubalozi wa Tanzania Lusaka, Zambia ndiyo pekee uliopata
+hati yenye mashaka. Nachukua fursa hii kuwashukuru
+watendaji wa Wizara na kuwahimiza waendelee kuzingatia
+sheria, kanuni, taratibu na miongozo ya matumizi ya
+fedha za umma na ununuzi wakati wote wanapotekeleza
+majukumu yao.
+44. Mheshimiwa Spika, baada ya kutoa taarifa ya
+mapato na matumizi ya Wizara kwa mwaka wa fedha
+2018/2019, naomba sasa nitumie fursa hii kueleza kwa
+kifupi baadhi ya mafanikio ya Wizara katika kipindi hicho.
+45. Mheshimiwa Spika,  utekelezaji wa majukumu
+ya Wizara unaongozwa na Sera ya Mambo ya Nje ya
+Mwaka 2001; Dira ya Taifa ya Maendeleo ya mwaka
+2025; Mpango wa Pili wa Taifa wa Maendeleo wa Miaka
+Mitano (2016/17 - 2020/21); Dira ya Maendeleo ya
+Zanzibar ya mwaka 2020; Ilani ya Uchaguzi ya Chama
+cha Mapinduzi ya 2015; Mpango wa Maendeleo Endelevu
+wa mwaka 2030; Mkakati wa Maendeleo wa Jumuiya
+ya Afrika Mashariki wa Mwaka 2017/2018 - 2021/2022;
+Mkataba wa Uanzishwaji wa Jumuiya ya Afrika Mashariki
+na Itifaki zake; Mkataba wa Uanzishwaji wa Jumuiya ya
+Maendeleo Kusini mwa Afrika na Itifaki zake pamoja na
+Mikataba mingine ya Kikanda na Kimataifa; Mpango wa
+Maendeleo wa Jumuiya ya Maendeleo Kusini mwa Afrika
+uliofanyiwa maboresho wa mwaka 2015 – 2020; Mpango
+Mkakati wa Pili wa Asasi ya Ushirikiano katika Siasa,
+Ulinzi na Usalama ya Jumuiya ya Maendeleo Kusini mwa
+Afrika kwa mwaka 2016 – 2020; maoni na mapendekezo
+
+17
+ya Waheshimiwa Wabunge wakati wa kujadili Mpango
+na Bajeti ya Wizara kwa kipindi cha mwaka 2018/2019;
+Mwongozo wa kuandaa Mpango na Bajeti ya Serikali kwa
+kipindi cha mwaka 2019/2020 – 2021/2022 na Maagizo
+mbalimbali yaliyotolewa kwa  nyakati tofauti kwa Wizara
+na Viongozi wa Kitaifa, Kamati ya Kudumu ya Bunge ya
+Mambo ya Nje, Ulinzi na Usalama na Kamati ya Kudumu
+ya Bunge ya Hesabu za Serikali.
+
+46. Mheshimiwa Spika,  kwa kuzingatia miongozo
+hiyo, kwa mwaka wa fedha 2018/2019 Wizara ilijiwekea
+malengo mbalimbali ambayo yametekelezwa kama
+ifuatavyo:
+5.1 Kulinda na kutetea misingi ya Taifa ndani na
+nje ya nchi
+47. Mheshimiwa Spika, Tanzania inaongozwa na
+misingi ambayo lengo lake kuu ni kudumisha amani,
+ulinzi, usalama na mshikamano wa wananchi wake na
+taifa kwa ujumla kama ilivyowekwa na waasisi wa taifa letu
+mara baada ya uhuru. Katika kutekeleza hilo, Tanzania
+imeendelea kulinda uhuru wetu; kujiamulia mambo yetu
+wenyewe bila kuingiliwa; kulinda mipaka ya nchi yetu;
+kulinda haki; kuimarisha ujirani mwema; na kuunga mkono
+Sera ya Kutofungamana na Upande wowote kama dira na
+msimamo wetu katika mahusiano na nchi nyingine katika
+Jumuiya ya Kimataifa.
+48. Mheshimiwa Spika, Tanzania inashirikiana na
+nchi nyingine wanachama wa Nchi Zisizofungamana na
+Upande Wowote (NAM), hususan nchi zinazoendelea
+kwa ajili ya kulinda na kutetea maslahi ya pamoja katika
+mijadala ya kimataifa. Katika kutekeleza azma hiyo
+Tanzania ilishiriki kwenye Mkutano wa Mawaziri wa NAM
+
+18
+mwaka 2018 uliofanyika Baku, Azerbaijan.
+
+49. Mheshimiwa Spika, misingi hiyo ndiyo inayotufanya
+tujivunie kuwa taifa lenye amani, ulinzi imara na usalama
+duniani; kuwa mstari wa mbele kutetea wanyonge, haki
+na uhuru; kutafuta amani na kutatua migogoro ya nchi
+mbalimbali na kuwa nchi kimbilio kwa wananchi wa
+mataifa mengine. Aidha, Tanzania inaheshimu misingi ya
+mahusiano na mataifa mengine duniani. Kwa muktadha
+huo, tunatarajia mataifa mengine kuheshimu uhuru wa
+nchi yetu.
+50. Mheshimiwa Spika, tunaendelea kudumisha
+ujirani mwema na nchi zote zinazopakana na nchi yetu.
+Katika kuratibu na kusimamia masuala ya uhusiano
+na ushirikiano na nchi hizo, Wizara iliratibu na kushiriki
+mkutano wa ujirani mwema kati ya Mkoa wa Rukwa
+na Jimbo la Kaskazini mwa Zambia uliofanyika mjini
+Sumbawanga mwezi Julai, 2018. Aidha, Wizara iliratibu
+na kushiriki mikutano inayohusu biashara na utatuzi wa
+changamoto mpakani kati ya Tanzania na nchi za Kenya
+na Uganda iliyofanyika katika miezi ya Novemba 2018,
+Februari na Aprili, 2019 kwa lengo la kuzitafutia ufumbuzi
+changamoto za mpakani ili kuimarisha mwingiliano wa
+biashara, ulinzi na usalama.
+5.2 Kuratibu na kusimamia utekelezaji wa Sera
+ya Mambo ya Nje ikiweka msisitizo kwenye
+diplomasia ya uchumi kuelekea Tanzania ya
+viwanda
+51. Mheshimiwa Spika,  katika kutekeleza Sera ya
+Mambo ya Nje na kuhakikisha tunakuza na kutekeleza
+kwa vitendo diplomasia ya uchumi, Wizara na Balozi za
+Tanzania nje ya nchi zinashirikiana na Wizara za Kisekta,
+
+19
+Taasisi za Serikali na Sekta Binafsi pamoja na Asasi za
+Kiraia. Katika kufanikisha hilo, Wizara imevutia wawekezaji
+katika sekta mbalimbali za kiuchumi ikiwemo viwanda,
+miundombinu, usafirishaji, nishati, afya na kilimo; kutafuta
+masoko ya bidhaa za Tanzania nje ya nchi; kuvutia watalii
+kuja kutembelea vivutio vya utalii vilivyopo nchini; kushiriki
+katika mazungumzo na mashirika ya kimataifa na nchi
+marafiki ili pamoja na mambo mengine, kupata mikopo
+yenye masharti nafuu na ufadhili wa miradi mbalimbali
+ya maendeleo; na kutafuta fursa za ajira na mafunzo kwa
+watanzania nje ya nchi.
+Sekta ya Viwanda
+52. Mheshimiwa Spika, katika harakati za kuunga
+mkono juhudi za Serikali ya Awamu ya Tano za kuifanya
+Tanzania kuwa nchi ya Viwanda, Wizara kwa kushirikiana
+na wadau wengine ndani na nje ya Serikali imepata
+wawekezaji wa kiwanda cha kuzalisha unga wa muhogo
+kinachoitwa Cassava Starch of Tanzania Corporation
+(CSTC). Kiwanda hicho kimejengwa katika Mkoa wa Lindi
+kwa ubia kati ya wawekezaji kutoka Ufaransa, Marekani
+na Luxembourg na kuzinduliwa na Mheshimiwa Kassim
+Majaliwa Majaliwa (Mb), Waziri Mkuu wa Jamhuri ya
+Muungano wa Tanzania mwezi Machi, 2019. Kiwanda
+hicho kina uwezo wa kuzalisha unga wa muhogo tani
+6,000 kwa mwaka na mpaka sasa kimeajiri wafanyakazi
+420 wa fani mbalimbali ambapo asilimia 97 ni Watanzania.
+Wawekezaji wa kiwanda hicho wanatarajia kuanza kujenga
+kiwanda kingine kikubwa cha wanga mkoani humo mwezi
+Julai, 2019 ambacho kitazalisha tani 60,000 kwa mwaka.
+53. Mheshimiwa Spika, mwezi Novemba 2018,
+Wizara iliratibu ziara ya wawekezaji kutoka kampuni
+saba za Uturuki ambazo zilionesha nia ya kuwekeza jijini
+
+20
+Dodoma kwa kujenga maduka makubwa yaani Shopping
+Malls, nyumba za makazi na hoteli zenye hadhi ya
+nyota tano pamoja na ujenzi wa kiwanda cha gypsum.
+Nafurahi kulijulisha Bunge lakoTukufu kuwa kampuni hizo,
+zinaendelea kukamilisha hatua mbalimbali za uwekezaji
+huo ambapo mwezi Aprili, 2019 kampuni ya Kargin insaat
+ilikuja Dodoma na inaendelea na majadiliano ya kutafuta
+malighafi pamoja na eneo la kujenga kiwanda cha gypsum.
+Aidha, kampuni ya Mertkomak Tekstil ve Makina kutoka
+nchini Uturuki ambayo ilikuwa sehemu ya ziara hiyo,
+imeanza majadiliano na mamlaka za Mkoa wa Simiyu kwa
+ajili ya kuanzisha kiwanda cha kutengeneza nguo mkoani
+humo.
+54. Mheshimiwa Spika, Wizara kwa kushirikiana na
+Serikali ya Mapinduzi ya Zanzibar, Ubalozi wa Tanzania
+Kuala Lumpur, Malaysia na kampuni ya PT Aggar
+Swallow ya Indonesia zinaendelea na mazungumzo
+yatakayokiwezesha kiwanda cha Aggar Swallow kutoka
+nchini Indonesia kuanzisha kiwanda cha kuchakata zao la
+mwani Zanzibar. Kampuni hiyo ndiyo inayomiliki kiwanda
+kikubwa cha kuchakata mwani kilichopo Jarkata nchini
+Indonesia. Vilevile, mazungumzo kama hayo yanaendelea
+na Kampuni ya Indeso kuanzisha kiwanda cha kuzalisha
+mafuta yatakanayo na mimea. Mazungumzo hayo ni
+matunda ya ziara ya Mheshimiwa Dkt. Ali Mohamed Shein,
+Rais wa Zanzibar na Mwenyekiti wa Baraza la Mapinduzi
+aliyoifanya nchini Indonesia mwezi Agosti, 2018.
+55. Mheshimiwa Spika, mwezi Aprili 2019, Wizara
+iliratibu mazungumzo kati ya Wizara ya Kilimo, Maliasili,
+Mifugo na Uvuvi ya Zanzibar, Kampuni ya Uvuvi ya Zanzibar
+(ZAFICO) na Kampuni ya Da lian ya China yanayohusu
+kujenga kiwanda cha kusindika Samaki Zanzibar. Wizara
+inafuatilia hatua zinazoendelea ili kuhakikisha kampuni
+
+21
+hiyo inafanikisha azma yake ya kuwekeza katika ujenzi
+wa kiwanda hicho.
+Sekta ya Miundombinu
+56. Mheshimiwa Spika, Wizara iliratibu ziara ya kikazi
+ya Mheshimiwa Lee Nak-yon, Waziri Mkuu wa Jamhuri ya
+Korea iliyofanyika mwezi Julai, 2018 hapa nchini. Kufuatia
+ziara hiyo, Tanzania na Korea zilisaini mkataba wa ujenzi
+wa daraja jipya la Selander jijini Dar es Salaam. Ujenzi
+wa daraja hilo lenye urefu wa kilomita 1.03 utakaogharimu
+Dola za Marekani Milioni 126.26 umeanza. Aidha, nchi
+hizi mbili zilisaini hati ya makubaliano ya kuondoa hitaji la
+viza kwa watu wenye pasi za kusafiria za kidiplomasia na
+kikazi.
+57. Mheshimiwa Spika, kutokana na urafiki na
+mahusiano mazuri tuliyojenga na Jamhuri ya Korea mwezi
+Septemba 2018 Serikali zote mbili zilisaini mkataba wa
+ukarabati wa meli mbili na ujenzi wa meli mpya ya kisasa
+katika Ziwa Victoria. Ujenzi wa meli mpya utatekelezwa
+kwa ubia kati ya kampuni ya Korea kwa kushirikiana na
+SUMA JKT na unatarajiwa kukamilika mwaka 2021.
+58. Mheshimiwa Spika, mwezi Februari 2019,
+Wizara iliratibu na kushiriki katika ziara ya Bw. Kazuhiko
+Koshikawa, Makamu wa Rais wa Shirika la Maendeleo la
+Kimataifa la Japan hapa nchini. Lengo la ziara hiyo ilikuwa
+kukagua miradi mbalimbali ya maendeleo inayofadhiliwa
+na Serikali ya Japan. Bwana Koshikawa alikutana na
+kufanya mazungumzo na Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania. Katika ziara hiyo, mikataba ya ujenzi wa daraja
+la Gerezani lililopo Dar es Salaam kwa gharama ya Shilingi
+bilioni 20.4 na upanuzi wa barabara ya Morocco – Mwenge
+
+22
+iliyopo Dar es Salaam kwa gharama ya shilingi bilioni 74
+ilisainiwa.
+59. Mheshimiwa Spika, mwezi Agosti, 2018, Wizara
+iliratibu ziara ya ujumbe wa wawekezaji kutoka Benki
+ya Exim na kampuni ya ujenzi ya WIKA kutoka nchini
+Indonesia waliotembelea Zanzibar. Lengo la ziara hiyo
+ilikuwa ni kuangalia fursa za uwekezaji zilizopo Zanzibar.
+Ujumbe huo ulitembelea maeneo mbalimbali ya miradi ya
+kipaumbele na kuonesha nia ya kuwekeza katika ujenzi
+wa miundombinu ya bandari katika eneo la Mangapwani
+Mkoa wa Kaskazini Unguja. Mawasiliano kati ya Wizara na
+wawekezaji hao yanaendelea ili kuhakikisha wanafanikisha
+azma yao ya kuwekeza hapa nchini.
+60. Mheshimiwa Spika, Wizara iliratibu ushiriki wa
+Tanzania kwenye Mkutano wa Mawaziri wa Mambo
+ya Nje wa nchi za Afrika na Japan (TICAD) uliofanyika
+mwezi Oktoba 2018 nchini Japan. Kupitia mkutano huo,
+Tanzania na Japan zilikubaliana kuendelea kuimarisha
+mahusiano ya kidiplomasia pamoja na kukuza ushirikiano
+katika masuala ya kiuchumi, kibiashara na utalii. Aidha,
+Serikali ya Japan imeahidi kuendelea kufadhili miradi ya
+maendeleo katika sekta za miundombinu ya barabara,
+nishati ya umeme, maji, elimu, afya na kilimo. Shirika la
+Maendeleo la Kimataifa la Japan (JICA) litachangia kiasi
+cha Shilingi bilioni 57.4 kwa ajili ya upanuzi wa bandari ya
+Kigoma; na kutoa mkopo wa riba nafuu wa Shilingi bilioni
+228.6 kwa ajili ya mradi wa maji Zanzibar.
+61. Mheshimiwa Spika, mwezi Septemba 2018, Wizara
+iliratibu ushiriki wa Tanzania kwenye Mkutano wa tatu wa
+Wakuu wa Nchi na Serikali wa Jukwaa la Ushirikiano kati ya
+China na Afrika (FOCAC) uliofanyika nchini China. Katika
+Mkutano huo, Mheshimiwa Kassim Majaliwa Majaliwa
+
+23
+(Mb), Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania
+alimwakilisha Mheshimiwa Dkt. John Pombe Joseph
+Magufuli, Rais wa Jamhuri ya Muungano wa Tanzania.
+Wakati wa mkutano huo Serikali ya China ilieleza kuwa
+imetenga kiasi cha Dola za Marekani bilioni 60 kwa
+kipindi cha miaka mitatu kuanzia mwaka 2018/2019 hadi
+2020/2021 kwa ajili ya kugharamia utekelezaji wa miradi
+mbalimbali ya maendeleo Barani Afrika. Ili kunufaika na
+mpango huu, Serikali imewasilisha mapendekezo ya
+miradi 12 katika sekta za uchukuzi, nishati, maji, afya na
+elimu.
+62. Mheshimiwa Spika, pembezoni mwa mkutano huo,
+Mhe. Waziri Mkuu alikutana na kufanya mazungumzo na
+Mheshimiwa Xi Jinping, Rais wa Jamhuri ya Watu wa China
+kuhusu ushirikiano kati ya Tanzania na China. Kufuatia
+mazungumzo hayo, Serikali ya China iliahidi kuisaidia
+Tanzania katika ujenzi wa vyuo vya mafunzo ya ufundi,
+Makao Makuu ya Jeshi, Chuo cha Taifa cha Usafirishaji,
+upanuzi wa Taasisi ya Moyo ya Jakaya Kikwete, kuendelea
+kutoa madaktari wa kujitolea pamoja na kuongeza nafasi
+za ufadhili kwa wanafunzi wa Tanzania kusoma nchini
+China. Wizara imeratibu sekta zote husika na kuhakikisha
+zimeshawasilisha maandiko ya miradi hiyo kwa Serikali ya
+China kwa ajili ya hatua za awali za utekelezaji.
+Sekta ya Ulinzi
+63. Mheshimiwa Spika, kupitia uhusiano mzuri wa
+kirafiki na nchi mbalimbali, Tanzania  inashirikiana na
+nchi hizo kwenye masuala ya ulinzi ikiwa ni pamoja na
+kubadilishana uzoefu na kufanya mazoezi ya pamoja kwa
+ajili ya kuendelea kujenga uwezo wa vikosi vyetu. Kwa
+mfano, Majeshi ya Nchi Wanachama wa Jumuiya  za
+Kikanda yamekuwa yakifanya mazoezi ya pamoja ya kijeshi
+
+24
+ili kujenga uwezo wa kukabiliana na ugaidi, uharamia,
+majanga na operesheni za kurejesha amani. Katika mwaka
+2018/2019, nchi yetu ilikuwa mwenyeji wa zoezi la pamoja
+la Kijeshi la Medani la Afrika Mashariki lijulikanalo kama
+‘FTX-Ushirikiano Imara 2018’ lililofanyika Muheza, Tanga
+mwezi Novemba 2018. Zoezi hilo lilihusisha washiriki
+kutoka Majeshi ya Ulinzi, Polisi, Magereza, Zimamoto na
+Uokoaji pamoja na raia.
+64. Mheshimiwa Spika, vilevile, nchi yetu ilishiriki
+kwenye zoezi la usimamizi wa Jeshi la Dharura la Jumuiya
+ya Maendeleo Kusini mwa Afrika (SADC) lililofahamika
+kama ‘Exercise UMODZI’ lililofanyika mwezi Oktoba,
+2018, mjini Salima nchini Malawi. Zoezi hilo lilifanyika
+ili kuliandaa Jeshi la Dharura la SADC kuwa na utayari
+wa kulinda amani barani Afrika kwa kipindi cha miezi sita
+kuanzia Januari hadi Juni 2019 ambapo SADC itakuwa
+zamu kulingana na utaratibu wa mzunguko wa majeshi ya
+kulinda Amani barani Afrika. Zoezi hili lilijumuisha washiriki
+637 kutoka makundi ya Jeshi, Polisi, Magereza na Raia
+kutoka Nchi zote Wanachama wa SADC. Kwa upande wa
+Tanzania washiriki walikuwa 23.
+Sekta ya Kilimo
+65. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+kwenye ziara ya Mhe. Ezzidine Abu Stiet, Waziri wa Kilimo
+na Masuala ya Ardhi wa Jamhuri ya Kiarabu ya Misri
+iliyofanyika hapa nchini mwezi Februari, 2019. Wakati wa
+ziara hiyo, Misri ilikubali kuwekeza hapa nchini kwenye
+sekta ya kilimo kwa kuanzisha shamba la ngano, shamba
+la pamoja la mpunga na kutoa fursa za mafunzo kwa
+wataalamu wa kilimo.
+
+25
+66. Mheshimiwa Spika, wakati wa ziara hiyo ilikubalika
+kwamba Hati ya Makubaliano (MoU) kati ya Tanzania
+kupitia SUMA JKT na Serikali ya Misri isainiwe ili kuanza
+utekelezaji wa mradi wa shamba la pamoja; Tanzania na
+Misri kushirikiana kuongeza thamani ya bidhaa za mifugo
+kwa kujenga kiwanda cha kuchakata nyama na kiwanda
+cha bidhaa za ngozi katika Ranchi ya Ruvu. Andiko la
+Mradi na Hati ya Makubaliano imesainiwa na Mkataba wa
+pamoja wa mradi huo unatarajiwa kusainiwa hivi karibuni.
+Vilevile, Mhe. Ezzidine alikutana na kufanya mazungumzo
+na viongozi mbalimbali wa Serikali ya Mapinduzi Zanzibar.
+Katika mazungumzo hayo, Serikali ya Jamhuri ya Kiarabu
+ya Misri ilisisitiza nia yake ya kuendelea kusaidia maendeleo
+ya mradi wa Shamba la Pamoja la Kilimo kati ya Tanzania
+na Misri uliopo Bambi, Mkoa wa kusini Unguja.
+
+67. Mheshimiwa Spika, katika kutekeleza ushirikiano
+wa kidiplomasia na Israel, napenda kuliarifu Bunge lako
+Tukufu kuwa, Serikali ya Israel imetoa nafasi 100 za
+ufadhili wa masomo kwa vijana wa kitanzania kwenda
+kujifunza kilimo cha kisasa nchini humo. Mafunzo hayo
+yatachukua miezi 11 kuanzia mwezi Septemba, 2019 kwa
+mwaka wa masomo 2019/2020. Nchi ya Israel imepiga
+hatua kubwa kwenye kilimo cha kisasa, fursa hii ya
+masomo ni adhimu kwa vijana wetu wanaojishughulisha
+na kilimo kupata ujuzi wa kilimo cha kisasa. Aidha, pamoja
+na kupata ujuzi na uzoefu, vijana hao watajipatia kipato
+kitakachowawezesha kuwa na mitaji ya kuwekeza kwenye
+kilimo cha kisasa hapa nchini.Taratibu za kuwapata vijana
+wa kitanzania watakaopata mafunzo hayo zinaendelea.
+68. Mheshimiwa Spika, Wizara inaratibu utekelezaji wa
+mradi wa pamba ujulikanao kama Victoria Cotton Project
+katika Wilaya za Misungwi, Kwimba na Magu mkoani
+Mwanza kwa ufadhili wa Serikali ya Brazil. Mradi huo
+
+26
+unalenga kuongeza tija katika uzalishaji wa zao la pamba.
+Kwa sasa Serikali imeanza mazungumzo na Serikali ya
+Brazil ili kuona namna ya kuendeleza mradi huo katika
+awamu ya pili kwa kuhusisha mazao mengine kama viazi
+vitamu, mahindi na maharage. Timu ya wataalam kutoka
+Brazil ilifanya ziara hapa nchini mwezi Februari 2019 kwa
+ajili ya maandalizi ya majadiliano. Wizara itahakikisha
+kuwa wadau wote muhimu wanahusishwa ili majadiliano
+yatakayofanyika yanaleta tija kwa nchi yetu.
+Sekta ya Nishati
+69. Mheshimiwa Spika, Wizara iliratibu zoezi la uwekaji
+saini wa Mkataba wa Ujenzi wa Mradi wa Uzalishaji wa
+Umeme wa MW 2115 katika Bonde la mto Rufiji kati ya
+Serikali ya Tanzania kupitia Shirika la Ugavi wa Umeme
+Tanzania (TANESCO) na kampuni za Arab Contractors na
+El Sewedy Electric za Misri. Uwekaji saini wa mkataba huo
+ulifanyika wakati wa ziara ya Mhe. Dkt. Mostafa Madbouly,
+Waziri Mkuu wa Jamhuri ya Kiarabu ya Misri iliyofanyika
+hapa nchini mwezi Desemba 2018.
+Sekta ya Utalii
+70. Mheshimiwa Spika, katika jitihada za kukuza utalii
+wa Tanzania nje ya nchi na katika kutekeleza maelekezo
+ya Viongozi Wakuu wa Nchi, Wizara imekuwa ikizisisitiza
+Balozi zetu nje kutangaza vivutio vya utalii vilivyopo hapa
+nchini. Katika kutekeleza hilo Ubalozi wa Tanzania Moscow,
+Urusi ulifanya kampeni ya kutangaza vivutio vya utalii na
+kuiwezesha Tanzania kushinda tuzo ya kuwa Eneo Bora
+zaidi la Utalii duniani kwa mwaka 2018. Maeneo ya utalii
+ambayo yamekuwa kivutio kikubwa katika kinyang’anyiro
+hicho ni Mlima Kilimanjaro; fukwe za Zanzibar; na Hifadhi
+ya Serengeti. Tuzo hiyo iliyotolewa na Jarida la Kirusi la
+
+27
+National Geographical Traveller  (NGT) ilipokelewa na
+Balozi wa Tanzania nchini Urusi, kwa niaba ya Serikali.
+
+71. Mheshimiwa Spika, Wizara kwa kushirikiana
+na Bodi ya Utalii Tanzania iliratibu ziara ya waandishi
+wa habari kutoka kituo maarufu cha runinga cha China
+kijulikanacho kama “Travel Channel”  iliyofanyika mwezi
+Oktoba 2018. Lengo la ziara hiyo lilikuwa ni kuwawezesha
+waandishi hao wa habari kushiriki katika maonesho
+ya utalii ya Swahili International Tourism Expo (SITE)
+yaliyofanyika jijini Dar es Salaam. Kupitia maonesho hayo
+Tanzania imeweza kutangaza vivutio vya utalii, lugha ya
+Kiswahili, sanaa na utamaduni wake. Wakiwa hapa nchini,
+waandishi hao waliweza kuandaa vipindi maalum kuhusu
+vivutio hivyo kwa ajili ya kuvitangaza katika soko la Utalii
+la China hatua ambayo itawezesha kuvutia watalii wengi
+zaidi kutoka China.
+72. Mheshimiwa Spika, Wizara kupitia Ubalozi wetu
+China na kwa kushirikiana na Bodi ya Utalii na Wizara ya
+Maliasili na Utalii tuliratibu na kuwezesha Tanzania kusaini
+Hati ya Makubaliano (MoU) na kampuni ya Touchroad
+International Holding Group (TIHG) mwezi Novemba,
+2018. Kufuatia makubaliano hayo, kampuni hiyo
+itasafirisha watalii takribani 10,000 kutoka Jiji la Shanghai
+nchini China kutembelea vivutio vya kitalii vilivyoko nchini
+kwa mwaka huu 2019. Kundi la kwanza la watalii 330
+liliwasili nchini tarehe 12 Mei, 2019 na kupokelewa na
+Mhe. Kassim Majaliwa Majaliwa (Mb), Waziri Mkuu wa
+Jamhuri ya Muungano wa Tanzania
+73. Mheshimiwa Spika, mwezi Aprili, 2019 Wizara
+kwa kushirikiana na Ubalozi wa Tanzania nchini Malaysia
+pamoja na Bodi ya Utalii Tanzania iliwezesha ziara ya
+mafunzo ya utalii kwa washiriki 20 ambao ni wadau wa
+
+28
+sekta ya utalii kutoka nchi nne za Kusini Mashariki mwa
+Asia ambazo ni Malaysia, Thailand, Indonesia na Ufilipino.
+Wageni hao walipata fursa ya kutembelea vivutio vya utalii
+vilivyopo hapa nchini hususan katika Hifadhi ya Mamlaka
+ya Ngorongoro; Mbuga ya Serengeti; na sehemu ya historia
+ya masalia ya Binadamu wa Kale la Olduvai Gorge. Ziara
+hiyo ililenga kufungua soko letu la utalii kwa nchi za Kusini
+Mashariki mwa Asia hali itakayochochea kuongezeka kwa
+idadi ya watalii na uwekezaji katika sekta hiyo.
+74. Mheshimiwa Spika, Wizara kupitia Ubalozi
+wa Tanzania nchini Israel iliratibu na kushiriki katika
+maonesho ya kimataifa ya utalii yaliyofanyika nchini humo
+mwezi Februari, 2019. Maonesho hayo yalitoa fursa kwa
+kampuni za kitalii, mashirika ya ndege, wamiliki wa hoteli
+pamoja na kampuni za usafirishaji kukutana na kufanya
+mazungumzo na wadau wa utalii wa hapa nchini ambao
+ni Bodi ya Utalii Tanzania, Shirika la Hifadhi za Taifa,
+Mamlaka ya Hifadhi ya Ngorongoro pamoja na kampuni 11
+za utalii zilizokwenda kushiriki maonesho hayo. Kufuatia
+mazungumzo hayo mwezi Aprili 2019 watalii 1,000 kutoka
+Israel walifanya ziara ya kitalii hapa nchini na kutembelea
+vivutio mbalimbali vya utalii ambapo walipokelewa na Mhe.
+Kassim Majaliwa Majaliwa (Mb), Waziri Mkuu wa Jamhuri
+ya Muungano wa Tanzania.
+75. Mheshimiwa Spika, Wizara kwa kushirikiana
+na Kamisheni ya Utalii Zanzibar, iliratibu Maonesho ya
+Kwanza ya Utalii ya Kimataifa yaliyofanyika katika Hoteli
+ya Verde mwezi Oktoba, 2018 Zanzibar. Maonesho hayo
+yaliwakutanisha wawekezaji wa sekta ya Utalii kutoka
+nchi mbalimbali na wawekezaji wazalendo na kuonesha
+vivutio mbalimbali vya utalii nchini. Aidha, kutokana na
+juhudi mbalimbali zilizochukuliwa za kutangaza utalii wa
+Tanzania, Zanzibar imefanikiwa kupata Tuzo ya Kituo cha
+
+29
+Soko Bora la Utalii iliyotangazwa katika Baraza la Utalii
+la Dunia mwaka 2018. Tuzo hiyo ilipokelewa na Mhe.
+Mahmoud Thabit Kombo (MblW), Waziri wa Habari, Utalii
+na Mambo ya Kale wa Zanzibar.
+76. Mheshimiwa Spika, Wizara imejizatiti kuhakikisha
+kuwa Balozi za Tanzania nje ya nchi zinashirikiana na
+wadau wote wa utalii ndani na nje ya nchi kuratibu na
+kushirikiana katika kuvutia watalii kutoka pande zote
+za dunia kuja na kutembelea vivutio vya utalii vilivyopo
+nchini. Nipende kutoa wito wa wadau wote wa utalii nchini
+kushirikiana na Wizara katika kuhakikisha tunatangaza
+vivutio vya utalii na kuongeza idadi ya watalii wanaokuja
+nchini. Aidha, napenda kuchukua fursa hii kuwapongeza
+Waheshimiwa Mabalozi wa Tanzania katika nchi za
+China, Malaysia na Israel kwa jitihada zao za kuratibu na
+kufanikisha ziara za watalii hapa nchini.
+77. Mheshimiwa Spika, kwa namna ya kipekee
+naomba nimshukuru Mhe. Kassim Majaliwa Majaliwa
+(Mb), Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania
+kwa kutenga muda wake kuwalaki watalii hao.
+Sekta ya Mifugo na Uvuvi
+78. Mheshimiwa Spika, Wizara kwa kushirikiana na
+Wizara ya Mifugo na Uvuvi inaratibu mazungumzo kati
+ya Kampuni ya Ranchi ya Taifa (NARCO) na Kampuni
+ya NECAI ya Misri kwa ajili ya kuanzisha mradi wa
+pamoja wa kiwanda cha kuchakata nyama katika Ranchi
+ya Ruvu iliyopo Mkoa wa Pwani. Mnamo mwezi Machi
+2019, kampuni hizi zilisaini hati ya makubaliano kwa ajili
+ya uanzishwaji wa kampuni ya pamoja itakayosimamia
+utekelezaji wa mradi huo.
+
+30
+79. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika mazungumzo kati ya Mheshimiwa Balozi Seif Ali
+Iddi, Makamu wa Pili wa Rais wa Zanzibar na Sheikh Aimen
+Ahmed Al Hosni, Mtendaji Mkuu wa Mamlaka ya Viwanja
+vya Ndege ya Oman. Lengo la mazungumzo hayo lilikuwa
+ni kuimarisha ushirikiano kati ya Oman na Zanzibar katika
+sekta ya mawasiliano na viwanja vya ndege. Kutokana
+na mazungumzo hayo wafanyakazi tisa wa Mamlaka ya
+Viwanja vya Ndege Zanzibar wamepatiwa mafunzo ya
+muda mfupi nchini Oman yaliyohusu uendeshaji wa viwanja
+vya ndege. Mafunzo hayo yalifanyika mwezi Desemba,
+2018 kwa ufadhili wa Serikali ya Oman kupitia Mamlaka
+ya Viwanja vya Ndege ya nchi hiyo. Aidha, Sheikh Aimen
+Ahmed Al Hosni alionesha nia ya kushirikiana na Serikali
+ya Mapinduzi ya Zanzibar kuwekeza katika sekta ya Nishati
+na Uvuvi. Katika sekta ya Nishati amekusudia kujenga
+kiwanda cha kuzalisha umeme wa jua wa megawati 40
+baada ya kupatikana eneo la ardhi kwa ajili ya ujenzi huo.
+Sekta ya Biashara na Uwekezaji
+80. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+kwenye makongamano na maonesho mbalimbali ya
+biashara na uwekezaji yaliyofanyika ndani na nje ya
+nchi. Makongamano na maonesho hayo yaliwakutanisha
+wafanyabiashara wa Tanzania na wa nchi husika kwa
+ajili ya kujadili na kufanya makubaliano ya biashara
+katika sekta mbalimbali, kutangaza na kupata masoko ya
+bidhaa zao. Makongamano na maonesho hayo ni kama
+yanavyoonekana kwenye Kiambatisho Na. 1.
+5.3 Kuratibu na kushiriki Tume za Pamoja za
+Kudumu za Ushirikiano
+81. Mheshimiwa Spika, Tume za Pamoja za Kudumu
+
+31
+(JPC) ni nyenzo muhimu za kuanzisha na kuendeleza
+mashirikiano kati yetu na nchi nyingine katika nyanja
+mbalimbali. Tume hizi huainisha maeneo mbalimbali
+tunayokubaliana kushirikiana kulingana na uhitaji
+na maslahi ya taifa letu. Kuwepo kwa JPC ni msingi
+unaorahisisha nchi zilizokubaliana kuingia makubaliano
+katika nyanja husika. JPC inatoa mwongozo wa ushirikiano
+baina ya nchi na nchi. Kwa kuzingatia umuhimu wa
+JPC, Wizara iliratibu na kushiriki katika mkutano wa Pili
+wa Tume ya Pamoja ya Kudumu ya Ushirikiano kati ya
+Tanzania na Uganda uliofanyika mwezi Agosti, 2018 jijini
+Kampala. Katika mkutano huo, nchi hizi mbili zilikubaliana
+yafuatayo:
+i. Kuanza zoezi la uhakiki wa mpaka;
+ii. Kuharakisha utekelezaji wa zoezi la kutoa fidia ya
+ardhi kwa wananchi ambao maeneo yao yatapitiwa
+na mradi wa ujenzi wa bomba la mafuta kutoka
+Hoima nchini Uganda hadi Chongoleani, Tanga nchini
+Tanzania;
+iii. Kuanza kufanya kazi kwa masaa 24 kwa kituo cha
+pamoja cha kutoa huduma mpakani cha Mutukula; na
+iv. Kuchukua hatua za kuimarisha biashara na kutatua
+changamoto zinazojitokeza mpakani kupitia vikao
+vya mara kwa mara baina ya mamlaka zinazohusika
+na usimamizi wa maeneo hayo.
+Aidha, katika mkutano huo nchi hizi zilisaini Hati ya
+Makubaliano ya kujenga bomba la kusafirisha gesi asilia
+kutoka Tanzania hadi Uganda.
+
+32
+82. Mheshimiwa Spika, mwezi Oktoba 2018, Tanzania
+na India zilishiriki katika Mkutano wa 9 wa Tume ya Pamoja
+ya Kudumu uliofanyika jijini New Delhi, India. Katika
+Mkutano huo Serikali ya Tanzania na India zilisaini Hati za
+Makubaliano ya ushirikiano zifuatazo:
+i. Hati ya Makubaliano kati ya Chuo cha Diplomasia cha
+Tanzania na Chuo cha Diplomasia cha India kuhusu
+kushirikiana katika masuala mbalimbali ikiwemo
+kubadilishana walimu na wanafunzi;
+ii. Hati ya Makubaliano kati ya Chuo cha Diplomasia
+nchini Tanzania na Taasisi ya Mfumo wa Utafiti wa
+Habari ya India (Research Information System of India)
+kuhusu kushirikiana katika miradi ya pamoja ya utafiti,
+kupambana na ugaidi, uhalifu wa kimtandao pamoja
+na usalama wa majini; na
+iii. Hati ya Makubaliano kati ya Shirika la Utafiti wa
+Maendeleo ya Viwanda (TIRDO) na Shirika la Taifa
+la Utafiti wa Maendeleo la India (National Research
+Development Cooperation of India) kuhusu kushirikiana
+katika sekta ya utafiti.
+83. Mheshimiwa Spika, kupitia mikutano ya Tume
+za Pamoja za Kudumu za Ushirikiano, Tanzania na
+nchi husika zilifanya tathmini ya ushirikiano katika sekta
+mbalimbali pamoja na kuainisha maeneo mapya ya
+ushirikiano. Wizara itaendelea kushirikiana na Wizara za
+kisekta katika kuhakikisha utekelezaji wa makubaliano
+yaliyoafikiwa.
+
+33
+5.4 Kuratibu utekelezaji wa makubaliano ya Kikanda
+na Kimataifa
+84. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika majukumu mbalimbali yanayohusiana na Umoja
+wa Mataifa, Jumuiya za Kikanda, Mashirika na Taasisi za
+Kimataifa kama ifuatavyo:
+Ushirikiano wa Kimataifa
+5.4.1 Umoja wa Mataifa
+Mkutano wa 73 wa Baraza Kuu la Umoja wa Mataifa
+85. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika Mkutano wa 73 wa Baraza Kuu la Umoja wa Mataifa
+uliofanyika tarehe 24 Septemba hadi 01 Oktoba, 2018,
+New York, Marekani. Katika mkutano huo, Tanzania ilitoa
+ufafanuzi kuhusu masuala mbalimbali ya ndani ya nchi
+ikiwa ni pamoja na mapambano dhidi ya rushwa; kuimarisha
+ukusanyaji wa kodi; kusimamia haki za binadamu na
+misingi ya utawala bora; kuziba mianya ya ukwepaji kodi;
+kusimamia nidhamu kwenye utumishi wa umma; ushiriki
+wa Tanzania kwenye misheni za ulinzi wa amani duniani;
+na zoezi la kuwarudisha kwa hiari wakimbizi wa Burundi.
+86. Mheshimiwa Spika, wakati wa Mkutano huo,
+ujumbe wa Tanzania ulikutana na kufanya mazungumzo
+na Bw. Filippo Grandi, Kamishna Mkuu wa Shirika la
+Wakimbizi Duniani (UNHCR).  Kufuatia mazungumzo
+hayo, Bw. Grandi alifanya ziara hapa nchini mwezi
+Februari, 2019 na kufanya mazungumzo na Mheshimiwa
+Dkt. John Pombe Joseph Magufuli, Rais wa Jamhuri
+ya Muungano wa Tanzania ambapo aliahidi kufuatilia
+upatikanaji wa fedha kiasi cha Dola za Marekani milioni
+
+34
+20 kutoka vyanzo mbalimbali ili kufadhili miradi ya utunzaji
+mazingira na nishati mbadala katika Mkoa wa Kigoma
+ulioathirika kutokana na kuwepo kwa kambi za wakimbizi
+kwa muda mrefu.
+Masuala ya Wakimbizi
+87. Mheshimiwa Spika, Tanzania kwa kushirikiana na
+Serikali ya Burundi, Shirika la UNHCR, pamoja na wadau
+wengine inaendelea na zoezi la kuwarejesha kwa hiari
+nchini mwao wakimbizi kutoka Burundi. Tangu kuanza
+kwa zoezi hilo mwezi Septemba 2017 hadi Aprili, 2019
+wakimbizi wapatao 65,617 walirejeshwa nchini kwao
+na wengine wapatao 13,075 waliojiandikisha kwa hiari
+wanasubiri kurejea.
+88. Mheshimiwa Spika, zoezi la kuwarejesha wakimbizi
+wa Burundi nchini kwao kwa hiari linafanyika kwa weledi
+mkubwa na kwa  kuzingatia mikataba ya kimataifa pamoja
+na sheria za nchi. Hata hivyo, kuna watu wachache
+wenye hila na nia ovu dhidi ya nchi yetu, hususan watu
+wanaodai kuwa ni Warundi waishio kwenye baadhi ya nchi
+za Ulaya, walianzisha kampeni za kuibagaza nchi yetu
+kuwa inawalazimisha wakimbizi hao kurejea nchini kwao.
+Tuhuma hizo siyo za kweli na zililenga kulichafua taifa
+letu kimataifa. Hivyo, Wizara kwa kushirikiana na Balozi
+za Tanzania nje ilitumia majukwaa mbalimbali ya kimataifa
+kutoa ufafanuzi wa namna zoezi la kuwarudisha wakimbizi
+wa Burundi nchini mwao kwa hiari, lilivyofanyika.
+89. Mheshimiwa Spika, wadau wa kimataifa
+wanaotuunga mkono wamefanya ziara katika maeneo
+husika kukagua zoezi linaloendelea na wameridhika kuwa
+linafanywa kwa weledi mkubwa. Tanzania itaendelea
+kupokea na kuhifadhi wakimbizi pale inapokuwa ni lazima
+
+35
+kwa kuzingatia sheria za nchi na mikataba ya kikanda na
+kimataifa.
+Utekelezaji wa Malengo ya Maendeleo Endelevu
+90. Mheshimiwa Spika, Serikali imeendelea na
+utekelezaji wa Malengo ya Maendeleo Endelevu ili kuwiana
+na juhudi za kimataifa za kuleta maendeleo kwa watu
+wote. Kwa sasa Wizara inaratibu utayarishaji wa taarifa ya
+mapitio ya hiari ya utekelezaji wa Malengo ya Maendeleo
+Endelevu hapa nchini ambayo itawasilishwa Umoja wa
+Mataifa mwezi Julai, 2019 New York nchini Marekani. Ni
+matarajio yangu kuwa kupitia taarifa hiyo, Jumuiya ya
+Kimataifa itapata kuelewa hatua tunazochukua kwa ajili ya
+kuboresha maslahi ya wananchi.
+
+Mkutano wa Uchumi Bahari
+91. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika Mkutano wa Uchumi Bahari (The Blue Economy
+Conference) uliofanyika Nairobi, Kenya mwezi Novemba,
+2018. Ujumbe wa Tanzania katika mkutano huo uliongozwa
+na Mheshimiwa Dkt. Ali Mohamed Shein, Rais wa
+Zanzibar na Mwenyekiti wa Baraza la Mapinduzi ambapo
+alimwakilisha Mheshimiwa Dkt. John Pombe Joseph
+Magufuli, Rais wa Jamhuri ya Muungano wa Tanzania.
+Mkutano huo ulimalizika kwa kutoa Tamko la Nairobi
+lenye kutoa msukumo wa matumizi ya rasilimali bahari
+kwa manufaa ya wananchi; kuimarisha ushirikiano katika
+sekta mbalimbali za matumizi ya rasilimali bahari; kutafuta
+vyanzo vya mapato ya fedha kufanikisha upatikanaji wa
+teknolojia na uvumbuzi; kubadilishana uzoefu na mafunzo;
+kuzingatia masuala ya jinsia; na ushiriki wa wanawake na
+vijana katika uchumi bahari.
+
+36
+Ziara ya Mkurugenzi Mkuu wa Mpango wa Chakula
+Duniani (WFP)
+92. Mheshimiwa Spika, mwezi Julai 2018, Bw. David
+Beasley, Mkurugenzi Mkuu wa Mpango wa Chakula
+Duniani (WFP) alifanya ziara hapa nchini kwa madhumuni
+ya kukagua miradi inayotekelezwa na WFP. Katika ziara
+hiyo, Bw. Beasley alikutana na kufanya mazungumzo na
+Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais wa
+Jamhuri ya Muungano wa Tanzania pamoja na viongozi
+wengine wa Serikali. Kufuatia ziara hiyo, WFP ilinunua
+tani 36,000 za mahindi zenye thamani ya Shilingi bilioni
+21 kutoka Wakala wa Taifa wa Hifadhi ya Chakula.
+Ziara ya Mkurugenzi wa Bodi ya Wakurugenzi
+Watendaji wa Benki ya Maendeleo ya Afrika (AfDB) na
+Rais wa Benki ya Maendeleo ya Afrika
+93. Mheshimiwa Spika, Wizara iliratibu ziara ya
+kikazi ya Bw. J. Steven Dowd, Mkurugenzi wa Bodi ya
+Wakurugenzi Watendaji wa Benki ya Maendeleo ya Afrika
+(AfDB) anayewakilisha nchi ya Marekani iliyofanyika
+kuanzia tarehe 26 Agosti hadi 3 Septemba 2018 nchini.
+Lengo la ziara hiyo lilikuwa ni kuimarisha ushirikiano kati
+ya Tanzania na Bodi ya AfDB ili kuongeza ushawishi wa
+kuidhinishiwa miradi mbalimbali ya kipaumbele na yenye
+tija katika uchumi wa nchi.
+94. Mheshimiwa Spika, Bwana Dowd alipata nafasi
+ya kutembelea miradi mbalimbali inayotekelezwa na
+iliyo katika majadiliano ya kutekelezwa na benki hiyo
+pamoja na kupata ufafanuzi kutoka kwa wasimamizi wa
+miradi hiyo. Miradi iliyotembelewa ni pamoja na: mradi
+wa kusafirisha umeme kutoka Iringa-Dodoma-Singida-
+Shinyanga (Backbone Power Transmission Line); eneo
+
+37
+la ujenzi wa uwanja wa ndege Msalato, Dodoma; Arusha
+Bypass na ujenzi wa barabara ya Arusha - Holili/Taveta -
+Voi; pamoja na mradi wa ujenzi wa mabwawa ya maji safi
+na taka jijini Arusha.
+Ziara ya Bw. Abebe Selassie, Mkurugenzi wa IMF Idara
+ya Afrika
+95. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+kwenye ziara ya Bw. Abebe Aemro Selassie, Mkurugenzi
+wa Shirika la Fedha la Kimataifa (IMF) Idara ya Afrika
+aliyoifanya hapa nchini tarehe 5 hadi 6 Mei 2019.
+Kiongozi huyo alipata fursa ya kufanya mazungumzo na
+Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais wa
+Jamhuri ya Muungano wa Tanzania, Ikulu Dar es Salaam
+ambapo alipongeza jitihada za Serikali ya awamu ya tano
+za kuwekeza katika miradi yenye kuchochea maendeleo
+ya uchumi ikiwemo mradi wa ujenzi wa reli ya kisasa na
+mradi mkubwa wa ujenzi wa bwawa la umeme kwenye
+bonde la mto Rufiji, pamoja na jitihada za kupambana na
+vitendo vya rushwa, dawa za kulevya na kuimarisha sekta
+ya uwekezaji.
+96. Mheshimiwa Spika, mazungumzo kati ya viongozi
+hao wawili yaligusia pia suala la uchapishwaji wa taarifa
+iliyovuja ya mwezi Machi, 2019 ya IMF kuhusu hali na
+mwelekeo wa uchumi wa Tanzania na kuamuliwa kuwa
+mazungumzo baina ya pande mbili yafanyike mapema kwa
+ajili ya kuondoa kasoro zote zilizojitokeza kwenye ripoti
+hiyo. Wizara inaendelea kufuatilia mazungumzo hayo kwa
+lengo la kuhakikisha ripoti hiyo inaakisi hali halisi ya ukuaji
+wa uchumi nchini Tanzania.
+
+38
+Ziara ya Dkt. Hafez Ghanem, Makamu wa Rais wa
+Benki ya Dunia Kanda ya Afrika
+97. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+kwenye ziara ya Dkt. Hafez Ghanem, Makamu wa Rais
+wa Benki ya Dunia kwa Kanda ya Afrika iliyofanyika
+mwezi Novemba, 2018 hapa nchini. Wakati wa ziara, Dkt.
+Ghanem alifanya mazungumzo na Mheshimiwa Dkt. John
+Pombe Joseph Magufuli, Rais wa Jamhuri ya Muungano
+wa Tanzania ambapo walijadili masuala ya mahusiano
+kati ya Benki ya Dunia na Tanzania. Dkt. Ghanem alitoa
+pongezi kwa Serikali kwa kuendeleza sera madhubuti za
+uchumi na usimamizi wa fedha za umma. Ziara hiyo ilitoa
+fursa ya kuimarisha zaidi mahusiano kati ya Tanzania na
+Benki ya Dunia.
+Ziara ya Dkt. Akinwumi Adesina, Rais wa Benki ya
+Maendeleo ya Afrika
+98. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+kwenye ziara ya Dkt. Akinwumi Adesina, Rais wa Benki ya
+Mendeleo ya Afrika aliyoifanya hapa nchini tarehe 15 Mei
+2019. Kiongozi huyo alikutana na kufanya mazumgumzo
+na Mheshimiwa Dkt. John Pombe Joseph Magufuli,
+Rais wa Jamhuri ya Muungano wa Tanzania. Wakati wa
+mazungumzo hayo, Dkt. Adesina alipongeza juhudi za
+Serikali katika ujenzi wa mradi wa reli ya kisasa kutoka
+Dar es Salaam hadi Mwanza na hatua iliyofikiwa katika
+utekelezaji wa ujenzi wa mradi wa bomba la mafuta kutoka
+Hoima hadi Tanga pamoja na ukuaji wa uchumi wa nchi
+kwa kiwango cha wastani wa asilimia 7.
+99. Mheshimiwa Spika, vivevile wakati wa
+mazungumzo hayo, Dkt. Adesina aliahidi benki yake kutoa
+ufadhili kwa miradi ya umeme wa maji ya Kakono na
+
+39
+Malagarasi mkoani Kigoma; mradi wa ujenzi wa uwanja
+wa ndege wa kimataifa wa Msalato; mradi wa ujenzi wa
+barabara za mzunguko za Dodoma zenye urefu wa kilomita
+110.2km; ujenzi wa barabara kiwango cha lami kutoka
+Mpanda hadi Kigoma; na mradi wa mabasi ya mwendokasi
+kutoka Mbagala hadi Kariakoo jijini Dar es Salaam. Aidha,
+Dkt. Adesina aliahidi kufuatilia mradi wa ujenzi wa reli ya
+kisasa kutoka Isaka hadi Kigali, Rwanda, ambayo itakuwa
+na uwezo kuhudumia  pia abiria na mizigo kutoka nchi za
+Burundi na Jamhuri ya Kidemokrasia ya Kongo. Wizara
+inaendelea kufuatilia upatikanaji wa ufadhili wa miradi
+hiyo ili kuhakikisha miradi yote inatekelezwa kwa manufaa
+mapana ya taifa.
+Ziara ya Bw. Gilbert F. Houngbo, Rais wa Mfuko wa
+Kimataifa wa Maendeleo ya Kilimo
+100. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+ziara ya Bw. Gilbert Houngbo, Rais wa Mfuko wa
+Kimataifa wa Maendeleo ya Kilimo (International Fund for
+Agricultural Development – IFAD) iliyofanyika hapa nchini
+tarehe 19 hadi 22 Mei 2019. Wakati wa ziara hiyo, Bw.
+Houngbo alifanya mazungumzo na Mheshimiwa Dkt. John
+Pombe Joseph Magufuli, Rais wa Jamhuri ya Muungano
+wa Tanzania na Viongozi wengine wa Serikali. Wakati
+wa mazungumzo hayo, Kiongozi huyo alipongeza juhudi
+za Serikali katika kukuza uchumi wa nchi na utekelezaji
+mzuri wa miradi inayofadhiliwa na IFAD na kuahidi Shirika
+lake kuendelea kuimarisha ushirikiano na Tanzania kwa
+kuzingatia vipaumbele vya nchi. Aidha, Bw. Hougbo
+alieleza kuwa IFAD imetenga kiasi cha Shillingi bilioni
+127.3 kwa ajili ya kufadhili miradi ya kilimo kwa kipindi
+cha miaka mitatu kuanzia mwaka 2019 hadi 2021. Wizara
+inaendelea kufuatilia uwasilishwaji wa maandiko ya miradi
+ya kipaumbele ili nchi yetu iweze kunufaika ipasavyo na
+fedha hizo.
+
+40
+101. Mheshimiwa Spika, vilevile, Kiongozi huyo alipata
+fursa ya kutembelea miradi mbalimbali inayotekelezwa
+chini ya Programu ya Miundombinu ya Masoko, Uongezaji
+Thamani na Huduma za Kifedha Vijijini (Marketing
+Infrastructure, Value Addition and Rural Finance Support
+Programme - MIVARF) katika Wilaya za Arumeru na Karatu
+mkoani Arusha.  Programu hii inatekelezwa Tanzania
+Bara na Zanzibar kupitia ufadhili wa IFAD na Benki ya
+Maendeleo ya Afrika.
+Ushirikiano wa Kikanda
+102. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika majukumu mbalimbali yanayohusiana na Umoja
+wa Afrika, Jumuiya ya Maendeleo Kusini mwa Afrika na
+Jumuiya ya Nchi Zinazopakana na Bahari ya Hindi kama
+ifuatavyo:
+5.4.2 Umoja wa Afrika
+Mkutano Maalum wa 11 wa Wakuu wa Nchi na Serikali
+wa Umoja wa Afrika
+103. Mheshimiwa Spika, Wizara iliratibu ushiriki wa
+Tanzania kwenye Mkutano Maalum wa Wakuu wa Nchi
+na Serikali wa Umoja wa Afrika uliofanyika Addis Ababa,
+Ethiopia mwezi Novemba 2018. Mkutano huo ulipokea,
+kujadili na kupitisha taarifa kuhusu mapendekezo ya
+mabadiliko ya kitaasisi yenye lengo la kuleta ufanisi,
+uwajibikaji, kuwezesha Umoja huo kujitegemea kifedha na
+kuweka mgawanyo wa majukumu kati ya Umoja wa Afrika
+na Jumuiya za Kikanda (RECs) na taasisi zake.
+104. Mheshimiwa Spika, kutokana na mchakato wa
+mabadiliko hayo, Umoja wa Afrika umeweza kupitia
+
+41
+upya vipaumbele vyake katika bajeti ya mwaka 2019 na
+kufanikiwa kuvipunguza kwa asilimia 12 ikilinganishwa na
+bajeti ya mwaka 2018. Tofauti na hapo awali, hivi sasa
+mchakato wa kuandaa bajeti ya Umoja huo unashirikisha
+Kamati ya Mabalozi Wakazi, Kamati ya Mawaziri wa Fedha
+kutoka katika nchi 15 na Kamisheni ya Umoja wa Afrika.
+Utaratibu huu unafanya mchakato wa kuandaa bajeti
+kuwa shirikishi na kuondoa matumizi yasiyo ya muhimu
+ili kupunguza mzigo kwa Nchi Wanachama. Tanzania
+inaunga mkono mchakato wa mabadiliko ya kitaasisi
+katika Umoja wa Afrika ambayo tunaamini yatazipunguzia
+Nchi Wanachama mzigo wa michango katika taasisi hiyo
+pamoja na kuongeza ufanisi wa kiutendaji ndani ya Umoja
+huo.
+Mkutano wa 32 wa Wakuu wa Nchi na Serikali wa
+Umoja wa Afrika
+105. Mheshimiwa Spika, Wizara iliratibu ushiriki wa
+Tanzania kwenye Mkutano wa 32 wa Wakuu wa Nchi na
+Serikali wa Umoja wa Afrika uliofanyika mwezi Februari,
+2019 Addis Ababa, Ethiopia. Mkutano huo ulimchagua
+Mheshimiwa Abdel Fattah Al-Sisi, Rais wa Jamhuri ya
+Kiarabu ya Misri kuwa Mwenyekiti wa AU kwa mwaka
+2019.
+106. Mheshimiwa Spika, mkutano huo ulizindua
+kaulimbiu ya Umoja wa Afrika kwa mwaka 2019 kuhusu
+masuala ya wakimbizi, wahamaji wanaorejea nyumbani
+na raia wanaolazimika kuhama makazi yao yaani ‘The
+year of Refugees, Returnees and Internally Displaced
+Persons: Towards Durable Solution to Forced
+Displacement in Africa’.  Wakuu wa Nchi na Serikali wa
+Umoja wa Afrika waliazimia kushughulikia changamoto
+zote zinazosababisha wakimbizi na raia wanaolazimika
+
+42
+kuhama makazi yao ikiwemo migogoro, ugaidi, athari za
+majanga ya asili, mabadiliko ya tabianchi, utawala bora
+na demokrasia pamoja na uvunjifu wa haki za binadamu.
+107. Mheshimiwa Spika, mkutano huo pia ulipokea
+taarifa kuhusu hatua iliyofikiwa katika kusaini na kuridhia
+Mkataba wa Eneo Huru la Biashara Barani Afrika ambapo
+hadi sasa, nchi 52 kati ya 55 zimesaini. Mkataba huo
+utaanza kutekelezwa tarehe 30 Mei, 2019 baada ya nchi 22
+zilizoridhia kuwasilisha hati za kuridhia kwenye Kamisheni
+ya Umoja wa Afrika. Kwa upande wa Tanzania, Serikali
+imekwisha saini na taratibu za kuridhia zinaendelea.
+
+108. Mheshimiwa Spika, ninayo furaha kuliarifu Bunge
+lako Tukufu kuwa wakati wa mkutano huo, Tanzania ilipewa
+tuzo ya kuwa miongoni mwa nchi za Afrika zilizopiga hatua
+katika mapambano dhidi ya rushwa. Aidha, taarifa ya
+Kamati Maalumu ya Umoja wa Afrika kuhusu mwenendo
+wa utoaji wa huduma za afya ilionesha kuwa nchi yetu
+imefanya vizuri katika utoaji wa huduma za afya kwa
+wananchi hususan katika kudhibiti magonjwa ya Malaria
+na UKIMWI. Mafanikio haya yanatokana na juhudi za
+Serikali ya Awamu ya Tano chini ya uongozi madhubuti
+wa Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais
+wa Jamhuri ya Muungano wa Tanzania katika kupambana
+na rushwa na kuongeza bajeti kwenye sekta ya afya ikiwa
+ni sehemu ya utekelezaji wa Mpango wa Maendeleo wa
+Umoja wa Afrika ujulikanao kama Ajenda 2063.
+5.4.3 Jumuiya ya Afrika Mashariki
+109. Mheshimiwa Spika, katika mwaka wa fedha
+2018/2019, Wizara  imeratibu ushiriki wa Tanzania katika
+utekelezaji wa hatua za mtangamano wa Jumuiya ya
+Afrika Mashariki kama ifuatavyo:
+
+43
+Umoja wa Forodha
+110. Mheshimiwa Spika, Wizara iliratibu ushiriki wa
+Tanzania katika majadiliano mbalimbali ndani ya Jumuiya
+ya Afrika Mashariki yaliyolenga kuboresha mazingiza ya
+biashara baina ya Nchi Wanachama wa Jumuiya kama
+ifuatavyo:
+i). Mwenendo wa biashara
+111. Mheshimiwa Spika, thamani ya mauzo ya
+Tanzania katika soko la Jumuiya imeendelea kuongezeka
+mwaka hadi mwaka. Katika kipindi cha mwaka 2018
+mauzo yaliongezeka kufikia Dola za Marekani milioni
+448.5 kutoka Dola za Marekani milioni 312.5 mwaka 2017,
+sawa na ongezeko la asilimia 43.6. Mauzo kwenda Kenya
+yalikuwa ni asilimia 47.7 wakati mauzo kwenda Uganda
+yalikuwa ni asilimia 23.4 ikifuatiwa na Rwanda asilimia
+17.8. Bidhaa zilizouzwa kwa wingi ni pamoja na mahindi,
+karatasi, viuatilifu, saruji, marumaru, konyagi, ngano na
+mafuta ya kupaka.
+112. Mheshimiwa Spika, thamani ya ununuzi  wa
+bidhaa kutoka Nchi Wanachama wa Jumuiya ilipanda
+kwa asilimia 27.7 kutoka Dola za Marekani milioni 237.0
+mwaka 2017 hadi kufikia Dola millioni 302.7 mwaka 2018.
+Bidhaa zilizonunuliwa kutoka Kenya zilikuwa ni asilimia
+81.75 wakati asilimia 17.40 zilinunuliwa kutoka Uganda.
+113. Mheshimiwa Spika, soko kubwa la bidhaa za
+Tanzania katika Jumuiya ya Afrika Mashariki ni Kenya
+ikifuatiwa na Uganda. Mchanganuo wa mwenendo
+wa biashara kati ya mwaka 2015 hadi 2018 ni kama
+inavyoonesha katika jedwali na chati iliyopo kwenye
+Kiambatisho Na. 2.
+
+44
+ii).  Utekelezaji wa Himaya Moja ya Forodha
+114. Mheshimiwa Spika, Wizara imeratibu utekelezaji
+wa Himaya Moja ya Forodha ya Afrika Mashariki ambayo
+ni sehemu ya Umoja wa Forodha. Katika kipindi hiki,
+bidhaa zote zinazoagizwa kutoka nje ya Nchi Wanachama
+wa Jumuiya ya Afrika Mashariki zimeingizwa katika mfumo
+wa Himaya Moja ya Forodha. Aidha, Nchi Wanachama
+zinaendelea kuingiza bidhaa zinazozalishwa ndani ya
+Jumuiya katika mfumo huu ili kurahisisha uuzaji wa bidhaa
+hizo nje na ndani ya Jumuiya.
+115. Mheshimiwa Spika, mfumo huo unasaidia
+kupunguza gharama za kufanya biashara baina ya Nchi
+Wanachama kwa kuhuisha taratibu za forodha na kulinda
+mapato ya Serikali. Aidha, mfumo huo unawezesha kuzuia
+magendo na kupunguza uwezekano wa bidhaa zinazopitia
+nchini kuishia katika soko la ndani bila ya kulipiwa kodi
+stahiki. Vilevile, mfumo huo unapunguza gharama za
+kukusanya kodi kutokana na matumizi ya teknolojia ya
+kisasa katika shughuli za uingizaji na utoaji wa shehena
+katika nchi za Jumuiya ya Afrika Mashariki.
+iii). Mapitio ya Wigo wa Pamoja wa Ushuru wa
+Forodha
+116. Mheshimiwa Spika, Wizara imeendelea kuratibu
+ushiriki wa Tanzania katika zoezi la kufanya mapitio ya
+viwango vya ushuru wa forodha kwenye Wigo wa Pamoja
+wa Forodha wa Jumuiya ya Afrika Mashariki. Lengo la
+kufanya mapitio hayo ni kuhakikisha kuwa viwango hivyo
+vinaendana na mahitaji ya wakati huu na kuchochea
+uzalishaji wa ndani na kuiwezesha Tanzania na Nchi za
+Jumuiya ya Afrika Mashariki kulinda viwanda na wazalishaji
+wa ndani dhidi ya bidhaa zinazoingizwa kutoka nje ya
+
+45
+Jumuiya. Tanzania itaendelea kuhakikisha kuwa mapitio
+hayo yanaendana na azma ya Serikali ya Awamu ya Tano
+ya kuwa na uchumi wa viwanda ifikapo mwaka 2025.
+iv). Uondoaji wa vikwazo vya biashara visivyo vya
+kiforodha
+117. Mheshimiwa Spika, Nchi Wanachama wa Jumuiya
+ya Afrika Mashariki kupitia Itifaki ya Umoja wa Forodha,
+zimekubaliana kutowekeana vikwazo visivyo vya kiforodha
+kwa bidhaa zinazozalishwa ndani ya Jumuiya. Hatua hii
+itawezesha wananchi wetu kunufaika kikamilifu na fursa za
+biashara katika Jumuiya ya Afrika Mashariki na kuongeza
+mapato ya nchi zetu. Wizara imeendelea kuratibu
+uondoaji wa vikwazo vya biashara visivyo vya kiforodha
+ndani ya nchi na pia vikwazo wanavyokumbana navyo
+wafanyabiashara wetu katika nchi nyingine wanachama.
+118. Mheshimiwa Spika, katika mwaka wa fedha
+2018/2019 vikwazo vipatavyo 62 vimeripotiwa ndani ya
+Jumuiya. Hadi kufikia mwezi Aprili, 2019, vikwazo 45
+kati ya 62 vilivyoripotiwa vilipatiwa ufumbuzi. Vikwazo 17
+vilivyosalia vinatafutiwa ufumbuzi. Orodha ya vikwazo
+visivyo vya kiforodha ni kama inavyoonekana katika
+Kiambatisho Na. 3.
+Itifaki ya Soko la Pamoja la Jumuiya ya Afrika Mashariki
+119. Mheshimiwa Spika, hatua ya pili ya ukuaji wa
+Mtangamano wa Afrika Mashariki ni utekelezaji wa
+Itifaki Soko la Pamoja la Jumuiya ya Afrika Mashariki.
+Katika kipindi cha Julai hadi Desemba, 2018 Tanzania
+imefanikiwa kutoa vyeti 5,953 vya uasili wa bidhaa kwa
+wafanyabishara wa Tanzania wanaofanya biashara
+katika nchi za Jumuiya ya Afrika Mashariki. Vyeti hivyo,
+
+46
+vimewasaidia wafanyabiashara wetu kutotozwa ushuru wa
+forodha kama wanavyotozwa wafanyabiashara wengine
+ambao nchi zao siyo wanachama wa Jumuiya ya Afrika
+Mashariki.
+120. Mheshimiwa Spika, katika kipindi hicho, Tanzania
+imefanikiwa kutoa vibali vya kuingia nchini 167,469 kwa
+raia wa Nchi Wanachama wa Jumuiya ya Afrika Mashariki
+na wananchi wetu 133,543 wamepata vibali vya kuingia
+katika nchi nyingine za Jumuiya. Aidha, wanafunzi 325
+kutoka Tanzania wamepata vibali vya kuingia na kusoma
+katika Nchi Wanachama wa Jumuiya na Tanzania imetoa
+vibali 142 kwa nchi nyingine wanachama wa Jumuiya.
+121. Mheshimiwa Spika, ndani ya muda huo watanzania
+766 wamepata vibali vya kufanya kazi katika nchi nyingine
+wanachama wa Jumuiya ya Afrika Mashariki na kampuni
+mbili kutoka katika nchi za Jumuiya ya Afrika Mashariki
+zimefanikiwa kusajiliwa hapa nchini kwa lengo la kufanya
+biashara. Aidha, Tanzania imetoa vibali vya ukaazi 619
+kwa raia wengine wa Nchi Wanachama wa Jumuiya ya
+Afrika Mashariki na Watanzania 120 wamepata vibali vya
+ukaazi katika Nchi Wanachama wa Jumuiya.
+
+122. Mheshimiwa Spika, napenda kutumia fursa hii
+kuwaomba Watanzania kuendelea kuchangamkia fursa
+zitokanazo na Soko la Pamoja la Jumuiya ya Afrika
+Mashariki katika maeneo ambayo tumefunguliana milango
+kwa kuwa kufanya hivyo kutaifanya nchi yetu kuendelea
+kunufaika ipasavyo na Mtangamano wa Afrika Mashariki.
+
+47
+Umoja wa Fedha
+123. Mheshimiwa Spika, Nchi Wanachama wa Jumuiya
+ya Afrika Mashariki zilisaini Itifaki ya kuanzisha Umoja
+wa Fedha mwaka 2013. Kwa sasa Nchi Wanachama
+zinatekeleza Mpango Kazi wa miaka 10 (2013/2014 –
+2023/2024) kuelekea kuwa na Umoja wa Fedha.
+Uanzishwaji wa Taasisi za kusimamia Umoja wa Fedha
+124. Mheshimiwa Spika, katika kipindi cha mwaka
+wa fedha 2018/2019, Muswada wa Sheria ya kuanzisha
+Taasisi ya Fedha ya Afrika Mashariki ulisainiwa na Wakuu
+wa Nchi Wanachama wa Jumuiya ya Afrika Mashariki
+katika Mkutano wa 20 uliofanyika mwezi Februari 2019
+jijini Arusha.
+125. Mheshimiwa Spika, katika kipindi hiki, Nchi
+Wanachama zimekamilisha Muswada wa Sheria ya
+kuanzisha Taasisi ya Takwimu ya Afrika Mashariki na
+Bunge la Afrika Mashariki limeupitisha. Muswada huo
+umewasilishwa kwa Nchi Wanachama kwa ajili ya
+maandalizi ya kusainiwa kuwa sheria.
+126. Mheshimiwa Spika, Nchi Wanachama zinaendelea
+na maandalizi ya Muswada wa Sheria ya kuanzisha Tume
+ya Usimamizi na Ufuatiliaji wa utekelezaji wa Umoja
+wa Fedha; Muswada wa Sheria ya kuanzisha Tume ya
+Huduma za Fedha ya Afrika Mashariki; na Uwianishaji
+wa Sheria, Mifumo na Taratibu za Usimamizi wa Sekta ya
+Fedha ndani ya Jumuiya.
+
+48
+Shirikisho la Kisiasa la Afrika Mashariki
+127. Mheshimiwa Spika, Mkataba wa Uanzishwaji wa
+Jumuiya ya Afrika Mashariki umeainisha Shirikisho la
+Kisiasa la Afrika Mashariki kuwa ni hatua ya nne na ya
+mwisho ya mtangamano. Nchi Wanachama zimekubaliana
+kuanza na Fungamano la Kisiasa la Afrika Mashariki kama
+hatua ya mpito kuelekea Shirikisho la Kisiasa. Kufuatia
+makubaliano hayo, timu ya wataalam inayoundwa na
+wajumbe watatu kutoka kila Nchi Mwanachama imeanza
+mchakato wa kuandaa Rasimu ya Katiba ya Fungamano
+kama ilivyoagizwa kwenye Mkutano wa 19 wa Wakuu wa
+Nchi za Jumuiya ya Afrika Mashariki uliofanyika Arusha
+mwezi Februari, 2019. Hatua hiyo itaanza kutekelezwa
+mara baada ya kuanzishwa kwa umoja wa fedha mwaka
+2024. Hii inazingatia maoni ya wananchi wa Tanzania kuwa
+mtangamano wa Jumuiya ya Afrika Mashariki uundwe
+hatua kwa hatua.
+Utekelezaji wa Miradi na Programu za Miundombinu
+ya Kiuchumi na Huduma za Jamii ya Jumuiya ya Afrika
+Mashariki
+128. Mheshimiwa Spika, Wizara iliratibu utekelezaji wa
+miradi na programu za Jumuiya ya Afrika Mashariki za
+uendelezaji wa miundombinu ya kiuchumi na huduma za
+jamii kama ifuatavyo:
+i). Vituo vya Kutoa Huduma kwa Pamoja Mipakani
+129. Mheshimiwa Spika, Wizara iliratibu uzinduzi wa
+Kituo cha Kutoa Huduma kwa Pamoja kati ya Tanzania
+na Kenya katika mpaka wa Namanga uliofanyika mwezi
+Desemba, 2018. Kituo hicho kilizinduliwa rasmi na
+Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais
+
+49
+wa Jamhuri ya Muungano wa Tanzania na Mheshimiwa
+Uhuru Muigai Kenyatta, Rais wa Jamhuri ya Kenya. Ujenzi
+wa Kituo hicho ulifadhiliwa na Shirika la Maendeleo la
+Kimataifa la Japan kwa gharama ya shilingi bilioni 18.63.
+Kituo hicho kitarahisisha utoaji wa huduma na kupunguza
+gharama za kufanya biashara.
+130. Mheshimiwa Spika,  Wizara  inaratibu ujenzi wa
+Kituo cha Kutoa Huduma kwa Pamoja cha Tunduma
+katika mpaka wa Tanzania na Zambia ambacho ujenzi
+wake umefikia asimilia 100. Makabidhiano rasmi ya jengo
+baina ya Serikali na Mfadhili wa ujenzi TradeMark East
+Africa (TMEA) yatafanyika hivi karibuni.
+ii).  Sekta ya Barabara
+131. Mheshimiwa Spika, Wizara inafuatilia utekelezaji
+wa miradi ya sekta ya barabara iliyopitishwa na Wakuu wa
+Nchi Wanachama wa Jumuiya ya Afrika Mashariki. Nchi
+Wanachama za Jumuiya ya Afrika Mashariki zimeainisha
+miradi ya barabara za kikanda inayohitaji ufadhili kwa
+ajili ya kukamilisha upembuzi yakinifu na usanifu wa kina
+pamoja na ujenzi. Kwa upande wa Tanzania barabara
+zilizowasilishwa katika Jumuiya kwa ajili ya kutafutiwa
+ufadhili wa upembuzi yakinifu, usanifu na ujenzi ni:
+a) Tanzania/Kenya: Nyanguge – Simiyu/Mara Border
+(104km) na Makutano - Sirari (83 km) / Isebania -
+Osinon – Mulot road (130 km) & Lake Victoria Ring
+Roads (Bumala – Muhuru) (470 km);
+b) Tanzania/Kenya: Kithimani – Itangini - Ukia – Emali
+– Oloitoktok (180 km)/ Kamwanga – Engare Nairobi –
+Sanya Juu – Bomang’ombe (100 km);
+c) Tanzania/Burundi: Cankuzo - Gahumo (49 km) &
+Bugarama – Makebuko (88 km) / Murusagamba –
+
+50
+Nyakahura & Kumumbuga – Murugarama (108 km); na
+d) Tanzania/Burundi: Chalinze – Morogoro - Dodoma
+(357 km)/Bugarama – Makebuko (88 km).
+iii). Sekta ya Afya
+132. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika Mkutano wa 18 wa Baraza la Mawaziri la Kisekta
+la Afya la Jumuiya ya Afrika Mashariki uliofanyika mwezi
+Machi 2019, jijini Dar es Salaam. Katika mkutano huo,
+pamoja na mambo mengine Nchi Wanachama ziliidhinisha
+Sera ya Jumuiya ya Afrika Mashariki ya Kuzuia, Kusimamia
+na Kudhibiti Matumizi ya Pombe kwa umri chini ya miaka
+18, Dawa za Kulevya na matumizi mengine ya dawa
+hatarishi katika afya ya binadamu. Sera hii imelenga
+kuweka mfumo mpana ambao wadau wote katika Jumuiya
+watachangia kupunguza madhara ya pombe, dawa za
+kulevya na matumizi mengine ya dawa hatarishi katika
+afya ya binadamu. Aidha, Sera hiyo inatoa mwongozo wa
+ushirikiano katika kukabiliana na athari hizo.
+133. Mheshimiwa Spika, mwezi Machi 2019 nchi yetu
+ilikuwa mwenyeji wa Kongamano la Saba (7) la Afya na
+Sayansi la Afrika Mashariki na Maonesho ya Biashara ya
+Kimataifa ya Afya ambalo hufanyika kwa mzunguko katika
+Nchi Wanachama kila baada ya miaka miwili. Kongamano
+hilo lililofunguliwa na Mheshimiwa Samia Suluhu Hassan,
+Makamu wa Rais wa Jamhuri ya Muungano wa Tanzania
+lilikuwa na kaulimbiu ya ‘Technology for Health Systems
+Transformation and Attainment of the UN-Sustainable
+Development Goals’. Kongamano lilitoka na maazimio
+tisa (9) ya utekelezaji ili kuboresha sekta ya afya katika
+Jumuiya. Moja ya maazimio hayo ni Nchi Wanachama
+za Jumuiya zijielekeze katika kutengeneza na kubuni njia
+zitakazowezesha upatikanaji rahisi wa huduma za afya
+
+51
+bora kwa wananchi popote wanapokuwepo katika Jumuiya
+ya Afrika Mashariki.
+iv). Sekta ya Elimu, Sanaa na Utamaduni
+134. Mheshimiwa Spika, ili kuimarisha uelewa wa
+vijana kuhusu mtangamano wa Afrika Mashariki, Nchi
+Wanachama zimekuwa zikiendesha mashindano ya
+uandishi wa insha kwa vijana wa shule za sekondari na
+midahalo katika vyuo vikuu. Kwa miaka miwili mfululizo
+vijana wa Kitanzania wameibuka washindi katika shindano
+la uandishi wa insha.  Nichukue fursa hii kuwatambua
+na kuwapongeza Michael Msafiri Nyaruga kutoka Shule
+ya Sekondari Kibaha na Innocent Shirima kutoka Shule
+ya Sekondari Moshi kwa kuibuka washindi wa kwanza
+katika shindano la uandishi wa insha la Jumuiya ya Afrika
+Mashariki kwa mwaka 2017 na 2018 mtawalia.
+135. Mheshimiwa Spika,  mwezi Novemba, 2018 katika
+Chuo Kikuu cha Dar es Salaam, ulifanyika mdahalo wa
+wanafunzi wa vyuo vikuu vya Jumuiya ya Afrika Mashariki.
+Katika mdahalo huo  Kombo Faki Juma, kutoka Chuo cha
+Utumishi wa Umma Zanzibar na Juma Emmanuel Erassy,
+kutoka Chuo cha Tumaini Makumira, Arusha waliibuka
+washindi. Nichukue fursa hii kuwapongeza kwa ushindi
+huo ambao umewawezesha kuwa mabalozi wa vijana
+kutoka Tanzania katika Jumuiya ya Afrika Mashariki.
+Natoa wito kwa walimu, wahadhiri, wazazi na walezi
+wa wanafunzi wetu kote nchini kuendelea kuhamasisha
+wanafunzi kushiriki katika mashindano hayo.
+5.4.4 Jumuiya ya Maendeleo Kusini mwa Afrika
+136. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika mikutano na majukumu mbalimbali ya Jumuiya ya
+
+52
+Maendeleo Kusini mwa Afrika kama ifuatavyo:
+Mkutano wa 38 wa Wakuu wa Nchi na Serikali wa
+Jumuiya ya Maendeleo Kusini mwa Afrika
+137. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika Mkutano wa 38 wa Wakuu wa Nchi na Serikali wa
+Jumuiya ya Maendeleo Kusini mwa Afrika uliofanyika
+Windhoek, Namibia mwezi Agosti 2018. Ujumbe wa
+Tanzania katika mkutano huo uliongozwa na Mheshimiwa
+Samia Suluhu Hassan, Makamu wa Rais wa Jamhuri ya
+Muungano wa Tanzania aliyemwakilisha Mheshimiwa
+Dkt. John Pombe Joseph Magufuli, Rais wa Jamhuri ya
+Muungano wa Tanzania.
+138. Mheshimiwa Spika, mkutano huo uliipitisha
+Jamhuri ya Namibia kuwa Mwenyekiti wa Jumuiya hiyo
+kwa kipindi cha mwaka mmoja kuanzia mwezi Agosti, 2018
+hadi Agosti, 2019 na Jamhuri ya Muungano wa Tanzania
+kuwa Makamu Mwenyekiti. Kufuatia hatua hiyo, Tanzania
+itachukua nafasi ya Uenyekiti wa Jumuiya hiyo kuanzia
+mwezi Agosti, 2019 hadi Agosti, 2020. Kwa utaratibu wa
+SADC, katika kipindi hicho Tanzania itakuwa mwenyeji wa
+mikutano yote ya SADC ikiwemo Mikutano ya Wakuu wa
+Nchi na Serikali, Vikao vya Baraza la Mawaziri na mikutano
+ya kisekta.
+139. Mheshimiwa Spika, Mkutano wa 39 wa Wakuu
+wa Nchi na Serikali wa SADC unatarajiwa kufanyika hapa
+nchini mwezi Agosti 2019. Kufanyika kwa mkutano huo
+mkubwa hapa nchini itakuwa ni neema kwa nchi yetu kwa
+kuwa utaongeza pato la wananchi na taifa kwa ujumla kwa
+njia ya ushuru wa viwanja vya ndege, usafiri wa ndani,
+malazi, vyakula, vinywaji, mawasiliano na taasisi za fedha.
+Naomba kuchukua nafasi hii kupitia Bunge lako Tukufu
+
+53
+kutoa wito kwa wadau wote wakiwemo Waheshimiwa
+Wabunge, wafanyabiashara na wananchi kwa ujumla
+kutumia fursa hii ili kunufaika na uenyeji wa mkutano huo.
+Mkutano wa 30 wa Kamati ya Mawaziri wa Biashara
+140. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika Mkutano wa Mawaziri wa Biashara na Mtangamano
+wa Kiuchumi uliofanyika Pretoria, Afrika Kusini mwezi Julai
+2018. Lengo la mkutano huo, lilikuwa ni kupokea, kujadili na
+kufanya maamuzi ya kisera kuhusu masuala ya biashara
+na uwekezaji; kupitia miradi ya miundombinu ambayo
+imeainishwa kwenye vipaumbele vya Mpango wa Mapitio
+ya Mkakati Elekezi wa Maendeleo ya Kikanda wa Mwaka
+2015 – 2020; na Mpango wa Maendeleo ya Miundombinu
+wa Kanda wa mwaka 2012 - 2027.  Katika mkutano huo,
+Tanzania iliruhusiwa kuendelea kutoza ushuru wa asilimia
+25 kwa sukari ya matumizi ya nyumbani na asilimia 10
+kwa sukari ya viwandani kwa kipindi cha miaka mitatu
+(2017/18 - 2019/20) ili kutoa nafasi kwa viwanda vya ndani
+kuimarisha uzalishaji na kuvijengea uwezo wa ushindani.
+Mkutano wa 19 wa Kikosi Kazi cha Mawaziri kuhusu
+Mtangamano wa Kiuchumi
+141. Mheshimiwa Spika, Wizara iliratibu na kushiriki
+katika mkutano wa 19 wa Kikosi Kazi cha Mawaziri kuhusu
+Mtangamano wa Kiuchumi uliofanyika Pretoria, Afrika
+Kusini mwezi Julai 2018. Mkutano huo ulifanya mapitio ya
+miradi ya miundombinu ya kikanda ya kipaumbele kwa ajili
+ya kuombewa ufadhili kupitia Benki ya Maendeleo ya Afrika
+(AfDB) pamoja na washirika wengine wa maendeleo.
+142. Mheshimiwa Spika, naomba kulitaarifu Bunge
+lako Tukufu kwamba Benki ya Maendeleo ya Afrika na
+
+54
+Benki ya Maendeleo ya Afrika Kusini (DBSA) zimeridhia
+kuipatia SADC ufadhili wa kutekeleza miradi 44 ya
+kipaumbele katika miundombinu. Tanzania imepitishiwa
+miradi 12 katika sekta za nishati, maji na uchukuzi kama
+inavyoonekana katika Kiambatisho Na. 4 cha hotuba hii.
+Uangalizi wa Chaguzi katika Nchi Wanachama wa
+Jumuiya ya Maendeleo Kusini mwa Afrika.
+143. Mheshimiwa Spika, Wizara iliratibu ushiriki
+wa Tanzania katika misheni za SADC za uangalizi wa
+chaguzi katika nchi za Zimbabwe, Falme ya eSwatini,
+Madagascar, Jamhuri ya Kidemokrasia ya Kongo, Malawi,
+Comoro na Afrika Kusini. Kwa mujibu wa SADC, chaguzi
+hizo zilifanyika katika mazingira ya amani na utulivu na
+kwa kuzingatia sheria, kanuni na taratibu za uchaguzi za
+nchi husika pamoja na miongozo mbalimbali ya SADC
+inayosimamia chaguzi za kidemokrasia.
+Matumizi ya Lugha ya Kiswahili katika Jumuiya ya
+Maendeleo Kusini mwa Afrika
+144. Mheshimiwa Spika, kufuatia dhamira na uamuzi
+wa Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais
+wa Jamhuri ya Muungano wa Tanzania ya kuhamasisha
+matumizi ya lugha ya Kiswahili katika nyanja mbalimbali
+za kikanda na kimataifa, Wizara imeendelea na juhudi
+za kuhakikisha lugha hiyo inakuwa lugha rasmi kwenye
+mikutano ya SADC.
+145. Mheshimiwa Spika, katika kutimiza azma hiyo,
+Tanzania iliwasilisha pendekezo la kuingiza lugha ya
+Kiswahili kuwa moja ya lugha rasmi za SADC katika
+mkutano wa Baraza la Mawaziri uliofanyika mwezi Machi
+2019 Windhoek, Namibia. Naomba kulitaarifu Bunge lako
+
+55
+Tukufu kuwa Tanzania itatumia vema nafasi ya Uenyekiti
+wa SADC kusukuma suala hili ili kuhakikisha lugha ya
+Kiswahili inakuwa moja ya lugha rasmi za Jumuiya.
+146. Mheshimiwa Spika, kufuatia ziara ya Mheshimiwa
+Dkt. John Pombe Joseph Magufuli, Rais wa Jamhuri ya
+Muungano wa Tanzania nchini Afrika Kusini iliyofanyika
+tarehe 24 hadi 27 Mei 2019, Serikali ya nchi hiyo imeahidi
+kuchukua Walimu wa Kiswahili nchini Tanzania ili watumike
+kufundisha somo la Kiswahili katika shule za msingi na
+sekondari nchini humo. Itakumbukwa kuwa, mwaka 2018
+Bunge la Afrika Kusini lilipitisha azimio kuwa somo la
+Kiswahili liingizwe kwenye mitaala ya kufundishia katika
+elimu ya msingi na sekondari nchini humo. Wizara inatoa
+wito kwa watanzania wenye sifa kuchangamkia fursa hiyo
+adhimu.
+Mashindano ya uandishi wa insha
+147. Mheshimiwa Spika, katika jitihada za kujenga
+uelewa na ufahamu kuhusu masuala ya Jumuiya ya
+Maendeleo ya Kusini mwa Afrika, Jumuiya iliendesha
+shindano la insha kwa wanafunzi wa shule za sekondari
+katika Nchi Wanachama. Naomba kuchukua nafasi hii
+kuwapongeza kwa dhati Bi. Sada Sadiki Kimangale kutoka
+Shule ya Sekondari Kwemabara iliyopo Tanga aliyeshika
+nafasi ya kwanza; Bw. Davis Mkinga kutoka Shule ya
+Sekondari St. Augustine Tagaste iliyopo Dar es Salaam
+aliyeshika nafasi ya pili; na Bw. Alex Paul kutoka Shule ya
+Sekondari Longido iliyopo Arusha aliyeshika nafasi ya tatu
+kwa upande wa Tanzania. Naomba nitoe rai kwa wanafunzi
+kuendelea kushiriki kwa wingi katika mashindano haya
+pale yanapotangazwa.
+
+56
+5.5 Kutafuta fursa mbalimbali zinazotokana na
+ushiriki wa Tanzania katika mtangamano wa
+kikanda na mashirika ya kimataifa
+148. Mheshimiwa Spika, Wizara iliratibu na kufanikisha
+kuzishawishi Nchi Wanachama wa SADC kuipigia kura
+Bohari Kuu ya Dawa ya Tanzania kushinda zabuni ya kuwa
+mnunuzi na msambazaji mkuu wa dawa, vifaa tiba na
+vitendanishi vya maabara kwa ajili ya nchi wanachama wa
+Jumuiya hiyo. Mwezi Oktoba 2018 Tanzania kupitia Bohari
+Kuu ya Dawa ilisaini Mkataba na SADC wa kusambaza
+vifaa hivyo kwa nchi wanachama wa SADC kwa muda wa
+miaka mitano kuanzia mwezi Oktoba, 2018.
+149. Mheshimiwa Spika, Wizara imeendelea na juhudi
+za kuwawezesha Watanzania kupata nafasi za kazi na
+uongozi katika mashirika mbalimbali ya kimataifa. Mwezi
+Agosti 2018, Mtanzania Bi. Joyce Msuya aliteuliwa na
+Katibu Mkuu wa Umoja wa Mataifa kushika wadhifa
+wa Naibu Mkurugenzi Mkuu wa Mpango wa Mazingira
+wa Umoja wa Mataifa (UNEP), wenye Makao Makuu
+yake Nairobi, Kenya. Kwa mara nyingine tena, napenda
+kutumia nafasi hii kumpongeza Bi. Msuya kwa uteuzi huo
+unaodhihirisha uchapakazi na uaminifu wake mkubwa
+katika nafasi mbalimbali alizotumikia.
+150. Mheshimiwa Spika, pamoja na mafanikio
+yaliyopatikana ya kuwawezesha watanzania kushika
+nafasi za uongozi katika mashirika ya kimataifa, Wizara
+inaendelea kufuatilia nafasi za ajira kwenye mashirika
+hayo. Katika kutekeleza hilo, Wizara iliratibu semina ya
+kuwajengea uwezo watanzania wa namna ya kupata ajira
+kwenye maeneo ya ulinzi wa amani ya Umoja wa Mataifa.
+Semina hiyo iliyotolewa na Umoja wa Mataifa ilifanyika
+mwezi Novemba 2018 jijini Dar es Salaam. Mafunzo hayo
+
+57
+yalihusisha washiriki kutoka Jeshi la Wananchi Tanzania;
+Jeshi la Polisi; watumishi wa umma, sekta binafsi; na
+wanafunzi wa vyuo vikuu. Wizara inafanya jitihada
+kuhakikisha kuwa semina hii inakuwa endelevu.
+151. Mheshimiwa Spika, vilevile katika kuhakikisha
+watanzania wananufaika na fursa za ajira katika mashirika
+ya kimataifa, Tanzania imefanikiwa kuushawishi Umoja
+wa Afrika kumpitisha Dkt. Agnes Kijazi kuwa mgombea
+pekee wa Afrika katika nafasi ya Makamu wa Tatu wa Rais
+wa Shirika la Masuala ya Hali ya Hewa Duniani (WMO)
+katika uchaguzi unaotarajiwa kufanyika mwezi Juni 2019
+Geneva, Uswisi.
+152. Mheshimiwa Spika, Wakuu wa Nchi Wanachama
+wa Jumuiya ya Afrika Mashariki katika Mkutano wao
+wa 20 uliofanyika mwezi Februari, 2019 jijini Arusha
+waliteua na kumuapisha Mheshimiwa Jaji Sauda Mjasiri
+kutoka Tanzania kuwa Jaji wa Kitengo cha Rufani katika
+Mahakama ya Afrika Mashariki. Jaji Mjasiri anachukua
+nafasi ya Jaji Edward Rutakangwa ambaye amestaafu.
+153. Mheshimiwa Spika, Wizara itaendelea kufuatilia
+na kutangaza fursa mbalimbali zinazopatikana kutokana
+na ushiriki wetu katika Jumuiya za Kikanda, Kimataifa na
+Masharika ya Kimataifa. Hivyo, napenda kutumia nafasi
+hii kuwasihi watanzania wenye uwezo na sifa kuomba
+nafasi zinazotolewa na mashirika na taasisi za kimataifa
+pindi zinapotangazwa.
+5.6 Kuendelea kuongeza uwakilishi wa Tanzania
+nje ya nchi
+154. Mheshimiwa Spika, katika kuhakikisha kuwa
+tunadumisha mahusiano na nchi mbalimbali duniani,
+
+58
+Tanzania inaendelea kuainisha maeneo ambayo yatakuwa
+na manufaa kiuchumi ili kuweza kuongeza uwakilishi
+wetu katika maeneo hayo. Katika kufanikisha hilo, Wizara
+imetekeleza yafuatayo:
+5.6.1 Kufungua Balozi mpya na Koseli Kuu
+155. Mheshimiwa Spika,  nchi yetu imefungua ubalozi
+mpya jijini Havana, Cuba na tayari Mheshimiwa Rais
+amemteua Mhe. Valentino Mlowola kuwa Balozi wa
+Tanzania nchini humo ambaye amesharipoti katika kituo
+chake cha kazi. Aidha, Wizara inaendelea na taratibu
+za ufunguzi wa Konseli Kuu katika miji ya Lubumbashi
+katika Jamhuri ya Kidemokrasia ya Kongo (DRC) na
+Guangzhou nchini China. Kufunguliwa kwa ofisi hizi za
+uwakilishi kutaiwezesha nchi yetu kunufaika na fursa za
+uchumi zilizopo kwenye nchi hizo. Aidha, Wizara inaratibu
+ufunguzi wa Konseli Kuu ya Umoja wa Falme za Kiarabu
+hapa nchini ambayo ofisi yake itakuwa Zanzibar.
+5.6.2 Uwakilishi wa Heshima
+
+156. Mheshimiwa Spika, Wizara iliratibu maandalizi ya
+ufunguzi ofisi ya Uwakilishi wa Heshima wa Shirikisho la
+Jamhuri ya Brazil hapa nchini uliofunguliwa mwezi Oktoba,
+2018 Zanzibar.
+5.7 Kufuatilia utekelezaji wa mikataba mbalimbali
+iliyosainiwa kati ya nchi yetu na nchi nyingine
+157. Mheshimiwa Spika, katika kipindi cha mwaka
+2018/2019 Wizara iliratibu na kushiriki majadiliano na
+uwekaji saini wa mikataba na makubaliano mbalimbali
+yenye manufaa kiuchumi na kijamii kwa nchi yetu.
+Mikataba na hati hizo zinalenga kuimarisha ushirikiano
+
+59
+uliopo kati ya Tanzania na nchi hizo. Aidha, Tanzania
+itanufaika na fursa zilizopo katika maeneo yaliyoelezwa
+katika makubaliano hayo. Katika kuratibu hilo, Wizara
+imekuwa ikiwasiliana mara kwa mara na wadau wa sekta
+husika ili kupata mrejesho wa utekelezaji wa mikataba
+na makubaliano mbalimbali. Orodha ya mikataba hiyo na
+hati za makubalino  hayo ni kama inavyoonekana kwenye
+Kiambatisho Na. 5.
+5.8 Kuongeza mshikamano na jumuiya za
+Watanzania wanaoishi nje ya nchi na kuweka
+utaratibu madhubuti utakaowawezesha
+kuchangia kwenye maendeleo ya taifa
+158. Mheshimiwa Spika, Serikali ya Awamu ya Tano
+imeendelea kutekeleza diplomasia ya uchumi kupitia
+uhamasishaji na ushirikishaji wa watanzania wanaoishi
+nje ya nchi (Diaspora) katika kuleta maendeleo nchini.
+Ushirikishwaji wa Diaspora unafanyika kupitia Balozi
+zetu nje ya nchi na kwa kushirikiana na wadau wengine
+ili kuhakikisha wanachangia uchumi wa Tanzania kwa
+kuwekeza katika sekta mbalimbali. Katika kutekeleza hilo,
+Wizara inaratibu masuala mbalimbali yanayohusiana na
+Diaspora ndani na nje ya nchi kama ifuatavyo:
+(i) Wizara iliratibu na kushiriki katika kongamano la
+Diaspora wa Tanzania wanaoishi Marekani lililofanyika
+Seattle, Marekani mwezi Agosti 2018. Kufuatia
+kongamano hilo, Diaspora hao wanashiriki katika
+kuchangia huduma za afya ambapo walifanikisha ziara
+ya tatu ya madaktari na wauguzi iliyoratibiwa na taasisi
+binafsi ya Health Education Development (Head Inc.)
+ya watanzania wanaoishi Marekani iliyofanyika mwezi
+Septemba 2018 katika hospitali ya Makunduchi, mkoa
+wa Kusini Unguja - Zanzibar; hospitali ya Kivunge,
+
+60
+Mkoa wa Kaskazini Unguja na hospitali ya mji Kondoa.
+Jumla ya wagonjwa 1,435 wanaosumbuliwa na
+magonjwa ya saratani ya  shingo ya kizazi, macho,
+akili, moyo, kisukari na kinywa walipatiwa matibabu na
+ushauri wa afya zao bure. Aidha, ziara hiyo ilitoa fursa
+ya kubadilishana uzoefu na madaktari wenyeji;
+(ii) Wizara pia iliratibu na kushiriki katika Kongamano
+la Tano la Diaspora lililofanyika mwezi Agosti 2018,
+Chakechake Pemba, Zanzibar. Kongamano hilo
+liliwakutanisha zaidi ya Diaspora 300 na kutoa fursa
+kwao  kupata elimu ya bidhaa na huduma zinazopatikana
+nchini. Aidha, Wizara iliratibu na kushiriki katika
+kongamano la Diaspora lililofanyika Cape Town, Afrika
+Kusini mwezi Februari 2019. Diaspora kutoka Namibia,
+eSwatini na Botswana walishiriki pia katika Kongamano
+hilo lililokuwa na kauli mbiu ‘Celebrating Diaspora for
+Social Economic Inclusion’ . Wadau kutoka Shirika la
+Nyumba Tanzania (NHC), Mifuko ya Hifadhi ya Jamii
+(NSSF na ZSSF), Bodi ya Utalii Tanzania na Benki
+ya CRDB walishiriki kutangaza bidhaa na huduma
+mbalimbali zinazotolewa na taasisi zao; na
+(iii) Wizara kupitia Ubalozi wa Tanzania nchini Sweden
+kwa kushirikiana na Baraza la Watanzania Duniani
+(Tanzania Diaspora Council – TDC Global) pamoja
+na Taasisi ya Swedish Sub-Saharan African Chamber
+of Commerce (SSACC) iliratibu na kushiriki katika
+Kongamano la Uwekezaji lililofanyika mwezi Aprili 2019
+Stockholm, Sweden. Mgeni rasmi katika kongamano
+hilo alikuwa Mhe. Job Yustino Ndugai (Mb), Spika wa
+Bunge la Jamhuri ya Muungano wa Tanzania. Ufunguzi
+wa mkutano huo ulifanywa na Mimi Mwenyewe kupitia
+hotuba niliyoitoa moja kwa moja kwa njia ya mtandao
+wa Skype nikiwa katika ofisi za Wizara Dodoma.
+
+61
+Kongamano hilo lilitangaza fursa za uwekezaji,
+biashara na utalii zinazopatikana hapa nchini na
+kuhamasisha wawekezaji, na wafanyabiashara kutoka
+mataifa mbalimbali pamoja na Diaspora wa Kitanzania
+kutumia fursa hizo kufanya biashara na kuwekeza
+nchini kwa lengo la kukuza uchumi.
+159. Mheshimiwa Spika, kufuatia ushirikishwaji wa
+Diaspora katika kuchangia maendeleo ya nchi, baadhi ya
+mafanikio yaliyopatikana ni kama ifuatavyo;
+(i) Mchango wa Diaspora katika uwekezaji kwenye sekta
+ya nyumba kupitia Shirika la Nyumba Tanzania (NHC)
+umeendelea kukua. Katika kipindi cha mwezi Julai
+2018 hadi Machi 2019 Diaspora walinunua nyumba
+zenye thamani ya shilingi bilioni 2.53;
+(ii) Kwa kipindi cha mwezi Januari hadi Desemba 2018
+Benki ya CRDB imepokea fedha zinazotumwa
+nyumbani na watanzania wanaoishi nje ya nchi
+(remittance) kiasi cha Shilingi bilioni 2.8; Benki ya
+Stanbic imepokea Dola za Marekani 921,627.16,
+Euro 7,050, Pauni za Uingereza 7,800, na Faranga za
+Uswisi 1,050; na Shirika la Hifadhi ya Jamii Tanzania
+imekusanya Dola za Marekani 18,000 kutoka kwa
+Diaspora 60 waliojiandikisha;
+5.9 Kutafuta nafasi za masomo, misaada na
+kushawishi nchi na mashirika kutufutia madeni
+160. Mheshimiwa Spika,  Wizara iliratibu ziara ya Mhe.
+Penny Mordaunt, Waziri wa Maendeleo wa Uingereza
+iliyofanyika nchini mwezi Agosti 2018. Kufuatia ziara
+hiyo Serikali ya Uingereza imeipatia Serikali ya Tanzania
+msaada wa kiasi cha Shilingi bilioni 307.5 kwa ajili ya
+
+62
+kuboresha sekta ya elimu, mapambano dhidi ya rushwa na
+uboreshaji wa huduma za afya katika kipindi cha mwaka
+2018 hadi 2023.
+161. Mheshimiwa Spika,  Wizara iliratibu ziara ya Prince
+William, Mjukuu wa Malkia na Mtawala wa Cambridge
+(Duke of Cambridge) iliyofanyika hapa nchini mwezi
+Septemba 2018. Ziara hiyo imekuwa ya mafanikio kwa
+Taifa hasa ikizingatia kuwa  Prince William na Serikali ya
+Uingereza kwa ujumla imeazimia kufuatilia na kushirikiana
+na Tanzania kwa ukaribu katika kuimarisha uhifadhi wa
+wanyama pori na vita tunayoendelea nayo ya kutokomeza
+ujangili. Aidha, wakati wa ziara hiyo Prince William aliahidi
+kuipatia Serikali scanner  yenye uwezo wa kutambua
+bidhaa haramu hususan meno ya tembo ambayo itawekwa
+katika Uwanja wa Ndege wa Kimataifa wa Julius Nyerere
+(Termial III) mwezi Julai mwaka huu.
+162. Mheshimiwa Spika, Wizara iliratibu uwekaji saini
+wa mkataba kati ya Serikali ya Mapinduzi Zanzibar na
+Jamhuri ya Korea. Mkataba huo utaiwezesha Zanzibar
+kupata mkopo wa Dola za Marekani milioni 50 kwa ajili ya
+kuimarisha kilimo cha umwagiliaji Unguja na Pemba. Mradi
+huo utahusisha kuchimba visima, kujenga miundombinu
+ya kilimo cha umwagiliaji, kutoa mafunzo pamoja na
+kuongeza eneo la kilimo.
+163. Mheshimiwa Spika, Wizara iliratibu na kufanikisha
+upatikanaji  wa nafasi za ufadhili wa masomo ya muda
+mfupi na mrefu kutoka nchi wahisani na marafiki za Algeria,
+Morocco, Misri, Sudan, Romania, Uingereza, Malta,
+China, Urusi, Jamhuri ya Korea, Thailand, Japan, Israel,
+Oman, Australia, India, Saudi Arabia, Umoja wa Falme za
+Kiarabu, Ubelgiji, Uholanzi, Hungary, Ireland, Ujerumani,
+Pakistan, Sweden, Norway, Finland, Ufaransa, Poland,
+
+63
+Indonesia, Singapore, Malaysia, Austria, Italia, New
+Zealand na Marekani katika fani mbalimbali. Nafasi hizi
+zimekuwa zikipelekwa katika Wizara na taasisi za kisekta
+hapa nchini pamoja na kutangazwa katika vyombo vya
+habari. Nichukue fursa hii kuwasihi Watanzania wenzangu
+kuchangamkia fursa hizi.
+164. Mheshimiwa Spika,  kwa upande wa sekta ya
+Afya, Serikali ya Israel imesaini mkataba wa kusaidia
+upatikanaji wa vifaa tiba katika hospitali mbalimbali hapa
+nchini. Kupitia mkataba huo mnamo mwezi Machi, 2019
+Serikali hiyo ilitoa msaada wa vifaa tiba katika Hospitali
+ya Benjamin Mkapa jijini Dodoma kwa ajili ya Kitengo cha
+dharura wenye thamani ya Dola za Marekani milioni moja.
+5.10 Kusimamia masuala yanayohusu kinga na haki
+za Wanadiplomasia waliopo nchini
+165. Mheshimiwa Spika,  Mkataba wa Vienna kuhusu
+Mahusiano ya Kidiplomasia wa mwaka 1961 na Mkataba
+wa Vienna kuhusu Mahusiano ya Kikonseli wa mwaka
+1963 unaipa nchi wajibu wa kuhakikisha  Wanadiplomasia
+wanaowakilisha nchi zao na mashirika ya kimataifa
+hapa nchini, wanalindwa na wanapata haki zao.
+Wizara kwa kushirikiana na mamlaka mbalimbali nchini
+inaendelea kutekeleza wajibu huo na kuhakikisha kuwa
+Wanadiplomasia wote hapa nchini wanaishi kwa usalama
+na amani ili kuwawezesha kutekeleza majukumu yao kwa
+ufanisi. Nichukue fursa hii kuwashukuru Wanadiplomasia
+wote nchini kwa ushirikiano wanaoendelea kuipa Wizara
+na mamlaka nyingine na niwaombe ushirikiano huu
+uendelee.
+
+64
+5.11 Kusimamia na kuratibu masuala ya itifaki na
+uwakilishi
+166. Mheshimiwa Spika, moja ya majukumu ya Wizara
+ni kuandaa na kuratibu ziara mbalimbali za kitaifa na kikazi
+za Viongozi Wakuu wa Kitaifa ndani na nje ya nchi kama
+ifuatavyo:
+5.11.1 Ziara za Viongozi wa Kitaifa wa Tanzania Nje ya
+Nchi
+i. Ziara ya kitaifa ya Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania nchini Zimbabwe iliyofanyika tarehe 28 hadi
+29 Mei, 2019;
+ii. Ziara ya kitaifa ya Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania nchini Namibia iliyofanyika tarehe 27 hadi 28
+Mei, 2019;
+iii. Ziara ya kikazi Mheshimiwa Dkt. John Pombe Joseph
+Magufuli, Rais wa Jamhuri ya Muungano wa Tanzania
+nchini Afika Kusini iliyofanyika tarehe 24 hadi 27 Mei,
+2019;
+iv. Ziara ya kitaifa ya Mheshimiwa Dkt. John Pombe
+Joseph Magufuli, Rais wa Jamhuri ya Muungano wa
+Tanzania nchini Malawi iliyofanyika mwezi Aprili 2019;
+v. Ziara ya kikazi ya Mheshimiwa Samia Suluhu Hassan,
+Makamu wa Rais wa Jamhuri ya Muungano wa
+Tanzania kwenye Mkutano wa 38 wa Wakuu wa Nchi
+na Serikali wa Jumuiya ya Maendeleo Kusini mwa
+Afrika uliofanyika Windhoek, Namibia mwezi Agosti,
+2018;
+
+65
+vi. Ziara ya kikazi ya Mheshimiwa Samia Suluhu Hassan,
+Makamu wa Rais wa Jamhuri ya Muungano wa
+Tanzania kwenye Mkutano wa Africa Now uliofanyika
+Kampala, Uganda mwezi Machi, 2019;
+vii. Ziara ya kikazi ya Mheshimiwa Dk. Ali Mohamed
+Shein, Rais wa Zanzibar na Mwenyekiti wa Baraza
+la Mapinduzi kwenye Mkutano wa Kimataifa kuhusu
+Uchumi Endelevu wa Bahari (Sustainable Blue
+Economy Conference) uliofanyika Nairobi, Kenya
+mwezi Novemba, 2018;
+viii. Ziara ya kikazi ya Mheshimiwa Dk. Ali Mohamed
+Shein, Rais wa Zanzibar na Mwenyekiti wa Baraza la
+Mapinduzi iliyofanyika nchini Indonesia mwezi Agosti
+2018;
+ix. Ziara ya kikazi ya Mheshimiwa Kassim Majaliwa
+Majaliwa (Mb), Waziri Mkuu wa Jamhuri ya Muungano
+wa Tanzania kwenye Mkutano wa Wakuu wa Nchi
+na Serikali wa Jukwaa la Ushirikiano kati ya China
+na Afrika (FOCAC) uliofanyika Beijing, China mwezi
+Septemba 2018;
+x. Ziara ya kikazi ya Mheshimiwa Kassim Majaliwa
+Majaliwa (Mb), Waziri Mkuu wa Jamhuri ya Muungano
+wa Tanzania nchini Rwanda iliyofanyika mwezi Aprili
+2019 kushiriki katika kumbukizi ya miaka 25 ya mauaji
+ya kimbari;
+xi. Ziara za kikazi za Mheshimiwa Balozi Seif Ali Idd,
+Makamu wa Pili wa Rais wa Zanzibar zilizofanyika
+nchini China mwezi Septemba, 2018 na nchini Cuba
+mwezi Machi, 2019; na
+xii. Ziara za kikazi za Waheshimiwa Marais Wastaafu wa
+Jamhuri ya Muungano wa Tanzania kwenye mikutano
+mbalimbali nje ya nchi.
+
+66
+167. Mheshimiwa Spika, pamoja na ziara hizo za
+viongozi wa kitaifa, Waziri wa Mambo ya Nje na Ushirikiano
+wa Afrika Mashariki kwa nyakati tofauti alimwakilisha
+Mheshimiwa Rais katika mikutano, majukwaa ya kimataifa
+na ziara za kikazi katika mataifa mbalimbali.
+5.11.2 Ziara za Viongozi wa Kitaifa wa Nje na Mashirika
+ya Kikanda na Kimataifa hapa nchini
+i. Ziara za kikazi za Marais wa Jumuiya ya Afrika Mashariki
+katika Mkutano wa 20 wa Wakuu wa Nchi Wanachama
+wa Jumuiya ya Afrika Mashariki uliofanyika jijini Arusha
+mwezi Novemba 2018 na Februari 2019;
+ii. Ziara ya kikazi ya Mheshimiwa Paul Kagame, Rais wa
+Jamhuri ya Rwanda iliyofanyika mwezi Machi, 2019;
+iii. Ziara ya kikazi ya Mheshimiwa Mustafa Madbouly,
+Waziri Mkuu wa Jamhuri ya Kiarabu ya Misri iliyofanyika
+mwezi Desemba 2018 kuhudhuria hafla ya uwekaji
+saini Mkataba wa mradi wa Kuzalisha Umeme wa
+Nguvu za maji wa Bonde la Mto Rufiji;
+iv. Ziara ya kikazi ya Mheshimiwa Sheikh Saud Al Qasimi,
+Mtawala wa Ras Al Khaima, Umoja wa Falme za
+Kiarabu iliyofanyika Zanzibar mwezi Oktoba 2018;
+v. Ziara ya kikazi ya Prince William, Mjukuu wa Malkia
+wa Uingereza na Mtawala wa Cambridge, iliyofanyika
+mwezi Septemba 2018;
+vi. Ziara ya kikazi ya Mheshimiwa Lee Nak-yon, Waziri
+Mkuu wa Jamhuri ya Korea iliyofanyika mwezi Julai
+2018;
+vii. Ziara ya kikazi ya Bw. Gilbert Houngbo, Rais wa Mfuko
+wa Kimataifa wa Maendeleo ya Kilimo (International
+Fund for Agricultural Development – IFAD) tarehe 19
+hadi 22 Mei 2019;
+
+67
+viii. Ziara ya kikazi ya Bw. Abebe Aemro Selassie,
+Mkurugenzi wa Shirika la Fedha la Kimataifa (IMF)
+Idara ya Afrika tarehe 5 hadi 6 Mei 2019;
+ix. Ziara ya Kikazi ya Mheshimiwa Dkt. Hafez Ghanem,
+Makamu wa Rais wa Benki ya Dunia Kanda ya Afrika
+iliyofanyika mwezi Novemba 2018;
+x. Ziara za kikazi za Spika wa Mabunge ya Burundi,
+Cameroon na Misri zilizofanyika mwezi Aprili 2019;
+xi. Ziara ya kikazi ya Mheshimiwa Sheikh Mohammed bin
+Abdulrahman Al Thani, Naibu Waziri Mkuu na Waziri
+wa Mambo ya Nje wa Qatar iliyofanyika mwezi Machi
+2019; na
+xii. Ziara za kikazi za Waheshimiwa Marais Wastaafu wa
+nchi za nje waliokuja hapa nchini katika vipindi tofauti.
+168. Mheshimiwa Spika, kufuatia ziara hizo nchi yetu
+imeendelea kuimarisha mahusiano na ushirikiano na nchi
+na mashirika mbalimbali ya kikanda na kimataifa.
+5.12 Kusimamia utekelezaji wa majukumu ya Taasisi
+zinazosimamiwa na Wizara
+169. Mheshimiwa Spika, Wizara inasimamia taasisi
+tatu ambazo ni Kituo cha Kimataifa cha Mikutano cha
+Arusha, ambacho pia kinasimamia Kituo cha Mikutano
+cha Kimataifa cha Julius Nyerere kilichopo Dar es
+Salaam; Chuo cha Diplomasia na Mpango wa Kujitathmini
+Kiutawala Bora Barani Afrika (APRM). Naomba nichukue
+fursa hii kutoa taarifa juu ya utekelezaji wa majukumu ya
+taasisi hizo kama ifuatavyo:
+
+68
+5.12.1 Kituo cha Kimataifa cha Mikutano Arusha
+170. Mheshimiwa Spika, Kituo cha Kimataifa cha
+Mikutano Arusha kimeendelea kuwa kitovu cha diplomasia
+ya mikutano hapa nchini na kuchangia katika kukuza
+uchumi. Hadi kufikia mwezi Aprili, 2019 Kituo kimeingiza
+mapato ya jumla ya Shilingi 11,428,868,998. Kati ya fedha
+hizo, Shilingi 2,076,771,027 zimetokana na huduma za
+mikutano 342 iliyofanyika katika kituo cha AICC ambapo
+32 kati ya hiyo ni ya kimataifa na 310 ni ya kitaifa; Shilingi
+2,244,532,662 zimetokana na huduma za Mikutano katika
+Kituo cha Mikutano cha Kimataifa cha Julius Nyerere;
+Shilingi 3,556,596,819 ni kutokana na upangishaji wa
+nyumba na ofisi; na Shilingi 3,550,968,490 ni kutokana na
+huduma za hospitali.
+5.12.2 Mpango wa Kujitathmini Kiutawala Bora Barani
+Afrika (APRM)
+171. Mheshimiwa Spika, Mpango wa Kujitathmini
+Kiutawala Bora Barani Afrika ulisainiwa na Wakuu wa Nchi
+za Afrika mwaka 2003 kwa lengo la kuimarisha utawala
+bora. Tanzania ilijiunga na Mpango wa APRM tarehe 25
+Juni 2004 na Bunge la Jamhuri ya Muungano liliridhia
+tarehe 1 Februari 2005. Katika kipindi cha mwaka wa
+fedha 2018/2019, nchi yetu imetekeleza yale yaliyomo
+kwenye Mpango kazi wa APRM kama ifuatavyo:
+172. Mheshimiwa Spika, ripoti ya Utekelezaji wa
+Mpango Kazi wa APRM Tanzania iliandaliwa katika kipindi
+hiki. Tathmini iliangazia maeneo makuu manne ambayo ni
+pamoja na Demokrasia na Siasa, Usimamizi wa Uchumi,
+Utendaji wa Mashirika ya Biashara na Utoaji wa Huduma
+za Jamii.
+
+69
+173. Mheshimiwa Spika, kwa upande wa Demokrasia na
+Siasa, Ripoti inaonesha kuwa Tanzania imeendelea kulipa
+umuhimu eneo hili hasa kwa kuliingiza kwenye Mipango
+yake yote ya Maendeleo ikiwa ni pamoja na Mpango wa
+Maendeleo wa Miaka Mitano. Tanzania imeendelea kuwa
+na amani na utulivu, kutekeleza utawala wa sheria, haki
+za binadamu, usawa wa kijinsia na usimamizi mzuri wa
+maliasili.
+174. Mheshimiwa Spika, kuhusu Usimamizi wa Uchumi
+Ripoti inaonesha kuwa Tanzania imeendelea kutekeleza
+Mipango ya Maendeleo ikiwianishwa na Mpango wa
+Maendeleo Endelevu wa Umoja wa Mataifa (2030) na
+Agenda 2063 ya Umoja wa Afrika. Mpango wa Maendeleo
+wa Miaka Mitano (FYDP II 2016/17 – 2020/21) unaweka
+mkazo katika mageuzi ya viwanda na maendeleo ya
+rasilimali watu kama njia sahihi ya kuifikisha nchi katika
+Uchumi wa Kati ifikapo 2025, na ‘Successor Strategy’ ya
+Zanzibar 2016/17 – 2020/21 imepatia ufumbuzi maeneo
+mengi yaliyokuwa yameainishwa kama mapungufu katika
+Mpango Kazi wa APRM. Kwa ujumla kumekuwepo na
+marekebisho ya kimfumo katika sekta mbalimbali za
+uchumi ambazo zimeongeza ufanisi katika utendaji.
+175. Mheshimiwa Spika, kwa upande wa Utendaji wa
+Mashirika ya Biashara, Ripoti inaonesha kuwa Sekta Binafsi
+inaendelea kuwa na mchango mkubwa katika kukuza
+uchumi wa nchi, na hivyo kutoa wito kwa Serikali kuendelea
+kuijengea mazingira mazuri ya kufanya shughuli zake.
+Katika eneo hili pia Sekta Binafsi inatarajiwa kuimarisha
+utawala bora katika utekelezaji wa majukumu yake ili
+kupata maendeleo endelevu.  Tanzania imejielekeza zaidi
+katika kuboresha masuala ya nje yanayoathiri utendaji
+wa mashirika kama vile kurekebisha sheria, kanuni na
+taratibu. Hatua hizo zimechukuliwa kurekebisha masuala
+
+70
+ya ndani ya mashirika kama vile kutoa mafunzo kwa
+wakurugenzi wa bodi, watendaji wa mashirika, wahasibu
+na wengineo, lakini eneo hili linahitaji kufanyiwa kazi zaidi,
+hasa masuala ya maadili, kuimarisha sekta ya uziduaji na
+kuangalia maeneo ya ushirikiano katika Jumuiya ya Afrika
+Mashariki.
+176. Mheshimiwa Spika, kuhusu Maendeleo ya utoaji
+wa huduma za jamii, Ripoti inaonesha kuwa vipo baadhi
+ya Viwango vya Kimataifa ambavyo bado havijaridhiwa
+na Tanzania na kutoa wito wa kufanya uhamasishaji kwa
+wananchi kwa viwango ambavyo vimeridhiwa. Juhudi
+pia zimefanyika katika kuhimiza vyanzo vya fedha za
+ndani ya nchi, kushirikisha wananchi katika Michakato ya
+kuandaa Mipango ya Maendeleo, Ugatuzi wa Madaraka,
+Maendeleo katika utoaji wa huduma za Elimu, Mafunzo
+ya Ufundi, Afya, Maji, Masoko, Mawasiliano, pamoja na
+juhudi za kuhimiza usawa wa kijinsia   na maendeleo ya
+vijana. Ripoti ya Utekelezaji ya Tanzania itawasilishwa
+katika kikao cha Wakuu wa Nchi wanaoshiriki Mpango wa
+APRM kinachotarajiwa kufanyika mwanzoni mwa mwezi
+Julai 2019.
+177. Mheshimiwa Spika, APRM Tanzania inaendelea
+kutekeleza Mpango wake wa Mawasiliano wa miaka
+mitano 2016/17 – 2020/21. Ripoti za APRM zimeendelea
+kuwekwa kwenye machapisho mbalimbali hasa magazeti
+na mitandao ya kijamii. Mada zilizochapishwa zilihusu
+Chimbuko na Maudhui ya APRM, Utekelezaji wa APRM
+hapa Tanzania, faida zake na changamoto. Pia majibu ya
+maswali yaliyojitokeza toka kwa makundi mbalimbali ya
+wadau yalitolewa.
+178. Mheshimiwa Spika, kuhusu utekelezaji wa dhana
+ya kubadilishana uzoefu, ambalo ni lengo mojawapo la
+
+71
+APRM, Tanzania imehudhuria vikao viwili ikiwa ni pamoja
+na Kikao cha Wakuu wa Nchi wanaoshiriki Mpango wa
+APRM kilichofanyika Addis Ababa, Februari 2019 na Kikao
+cha Baraza la Mawaziri wa SADC wanaoshiriki Mpango
+wa APRM kilichofanyika Windhoek, Namibia mwezi
+Machi 2019. Kupitia vikao hivyo, Tanzania ilipata fursa ya
+kuelezea uzoefu wake katika utekelezaji wa Mpango wa
+APRM.
+5.12.3 Chuo cha Diplomasia
+179. Mheshimiwa Spika, Chuo cha Diplomasia
+kimeendelea kutoa mafunzo na kufanya tafiti katika masuala
+ya diplomasia, Uhusiano wa Kimataifa na Usuluhishi wa
+Migogoro na Kulinda Amani. Chuo kinatoa mafunzo ya
+lugha saba (7) za kigeni ambazo ni Kiarabu, Kichina,
+Kifaransa, Kiingereza, Kireno, Kihispania na Kikorea.
+Aidha, hivi sasa Chuo kinafanya mazungumzo na Ubalozi
+wa Urusi hapa nchini kwa ajili ya kufadhili mafunzo ya
+lugha ya Kirusi.
+180. Mheshimiwa Spika, kwa mwaka wa fedha
+2018/2019, Chuo kilidahili jumla ya wanafunzi 1,029
+katika ngazi za Cheti, Stashahada, Shahada pamoja
+na Stashahada ya Uzamili. Ili kuongeza udahili, Chuo
+kimeandaa Mpango Mkakati wenye lengo la kuendeleza
+miundombinu ili kuongeza udahili utakaowezesha Chuo
+kujitanua na kujitegemea. Hivi sasa Chuo kipo katika
+hatua ya mwisho ya awamu ya kwanza ya ujenzi ambayo
+itahusisha vyumba vya mihadhara.
+181. Mheshimiwa Spika, Chuo cha Diplomasia
+kinaendelea kutekeleza Mpango wa Mafunzo kwa
+watumishi wake kitaaluma. Katika mwaka wa fedha
+2018/2019 wafanyakazi wawili (2) wa ngazi ya shahada ya
+
+72
+uzamivu na wawili (2) wa shahada ya umahiri wamehitimu
+masomo yao. Kadhalika, Chuo kimegharamia masomo
+kwa wafanyakazi kumi na tano (15). Nane (8) kati yao
+wanasoma shahada ya uzamivu, sita (6) wanasoma
+shahada ya umahiri na mmoja anasoma shahada ya
+kwanza. Aidha, Chuo kimewasomesha wafanyakazi 9
+mafunzo ya muda mfupi.
+5.13 Kuendelea kujenga uwezo wa watumishi
+Wizarani na Wizara kwa ujumla katika kutekeleza
+majukumu yake
+182. Mheshimiwa Spika, Wizara imesimamia masuala
+ya utawala na maendeleo ya watumishi kwa lengo la
+kuimarisha utendaji wa kazi wa Wizara kama ifuatavyo:
+5.13.1 Hali ya Rasilimaliwatu katika Wizara.
+183. Mheshimiwa Spika, Wizara kwa sasa ina jumla
+ya watumishi 441 ambapo watumishi 280 wapo Makao
+Makuu ya Wizara, watumishi 17 wapo katika Ofisi ya
+Mambo ya Nje na Ushirikiano wa Afrika Mashariki Zanzibar
+na watumishi 144 wapo kwenye Balozi za Tanzania nje.
+Watumishi hawa wamegawanyika katika kada na fani
+tofauti zinazowezesha utekelezaji wa majukumu ya Wizara
+kama yalivyoainishwa katika Muundo wa Wizara wa Julai,
+2018.
+5.13.2 Mafunzo kwa watumishi wa Wizara
+184. Mheshimiwa Spika, Wizara imeendelea
+kuwajengea uwezo watumishi wake ambapo jumla ya
+watumishi 286 walihudhuria mafunzo ya muda mrefu na
+muda mfupi katika fani mbalimbali ndani na nje ya nchi.
+Watumishi 36 kati ya hao wanahudhuria mafunzo ya muda
+
+73
+mrefu katika ngazi ya Shahada/Astashahada ya Uzamili.
+Aidha Watumishi 250 walipatiwa mafunzo ya muda mfupi
+ambapo 11 walipatiwa mafunzo ya kitaalamu na 239
+walipatiwa mafunzo ya utunzaji siri za Serikali, maadili ya
+utumishi wa umma na rushwa, mawasiliano na uandishi
+wa taarifa.
+6.0 SHUKRANI
+185. Mheshimiwa Spika, kwa namna ya pekee naomba
+kuchukua fursa hii kuwashukuru Mabalozi, Wawakilishi
+wa Taasisi za Umoja wa Mataifa na Mashirika mengine
+ya Kimataifa kwa ushirikiano mkubwa wanaoutoa kupitia
+nchi na mashirika yao kufanikisha mipango mbalimbali ya
+maendeleo inayotekelezwa na Serikali.
+186. Mheshimiwa Spika, Serikali ya Awamu ya Tano
+imeendelea kupata mafanikio makubwa kutokana na
+mchango wa wadau na washirika wa maendeleo kutoka
+nchi na asasi mbalimbali za kitaifa, kikanda, kimataifa
+pamoja na sekta binafsi. Naomba nitumie fursa hii
+kuzishukuru nchi za Afrika Kusini, Algeria, Ethiopia,
+Tunisia, Australia, Austria, Brazil, Canada, China,
+Cuba, Denmark, Finland, Hungary, India, Italia, Ireland,
+Israel, Iran, Japan, Jamhuri ya Korea, Kuwait, Malaysia,
+Marekani, Malta, Misri, Morocco, New Zealand, Norway,
+Oman, Pakistan, Palestina, Poland, Qatar, Saudi Arabia,
+Sweden, Singapore, Sri-Lanka, Thailand, Ubelgiji,
+Ufaransa, Uhispania, Uholanzi, Uingereza, Ujerumani,
+Umoja wa Falme za Kiarabu, Ureno, Urusi, Uswisi, Uturuki
+na VietNam kwa kuchangia mafanikio hayo muhimu kwa
+Taifa.
+187. Mheshimiwa Spika,  shukrani ziwaendee pia Umoja
+wa Ulaya, Benki ya Maendeleo ya Afrika, African Capacity
+
+74
+Building Foundation, Benki ya Dunia, Shirika la Nguvu za
+Atomiki Duniani (IAEA), Shirika la Fedha Kimataifa (IMF),
+Investment Climate Facility for Africa, UNDP na Mashirika
+mengine yote ya Umoja wa Mataifa, TradeMark East Africa,
+Benki ya Kiarabu kwa Maendeleo ya Kiuchumi ya Afrika
+(BADEA), The Association of European Parliamentarians
+with Africa, WWF, WFP, The Belinda and Bill gates
+Foundation, Global Fund, International Committee of the
+Red Cross, International Federation of the Red Cross
+and Red Crescent Societies, Medecins Sans Frontieres
+pamoja na Mifuko na Mashirika mbalimbali ya Misaada. Ni
+dhahiri kuwa mafanikio tuliyoyapata yamechangiwa kwa
+misaada na ushirikiano wenu.
+7.0 MALENGO YA WIZARA KWA MWAKA WA FEDHA
+2019/2020
+188. Mheshimiwa Spika, katika mwaka wa fedha
+2019/2020, pamoja na mambo mengine, Wizara imepanga
+kutekeleza majukumu yake ili kufikia malengo yafuatayo:
+(a) Kulinda na kutetea misingi ya taifa ndani na nje ya nchi;
+(b) Kutekeleza Sera ya Mambo ya Nje inayoweka msisitizo
+katika Diplomasia ya Uchumi;
+(c) Kufuatilia na kusimamia utekelezaji wa mikataba
+mbalimbali iliyosainiwa kati ya nchi yetu na nchi
+nyingine;
+(d) Kuratibu Mikutano ya Tume za Pamoja za Kudumu za
+Ushirikiano na kufuatilia utekelezaji wa makubaliano
+yaliyofikiwa;
+(e) Kukamilisha Sera ya Taifa ya Diaspora itakayotoa
+mwongozo wa namna ya kuwashirikisha Diaspora wa
+
+75
+Tanzania kuchangia katika maendeleo ya nchi yetu;
+(f) Kushiriki katika shughuli za umoja wa Mataifa na
+Mashirika yake, Umoja wa Afrika na Jumuiya za
+Kikanda ambazo nchi yetu ni mwanachama;
+(g) Kutekeleza Mkataba wa Uanzishwaji wa Jumuiya ya
+Afrika Mashariki na Itifaki zake;
+(h) Kusimamia majadiliano ya Rasimu ya Katiba ya
+Fungamano la Kisiasa la Afrika Mashariki;
+(i) Kutekeleza Mkataba wa Uanzishwaji wa Jumuiya ya
+Maendeleo ya Kusini mwa Afrika na Itifaki zake;
+(j) Kuandaa Mkutano wa Wakuu wa Nchi na Serikali
+wa SADC  na kutekeleza majukumu ya Uenyekiti wa
+SADC katika kipindi cha mwaka 2019/20;
+(k) Kutoa elimu kwa umma juu ya fursa zitokanazo na
+Mtangamano wa Jumuiya ya Afika Mashariki na
+Jumuiya nyingine za Kikanda;
+(l) Kutekeleza mpango wa ujenzi, ununuzi na ukarabati
+wa majengo ya ofisi na makazi Balozini pamoja na
+ujenzi wa jengo la ofisi ya Makao Makuu ya Wizara;
+(m) Kujenga uwezo wa watumishi wa Wizara;
+(n) Kuratibu ziara za viongozi wa juu wa nchi nje ya
+Tanzania;
+(o) Kuratibu ziara za viongozi wa mataifa mbalimbali na
+mashirika ya kimataifa wanaokuja nchini;
+
+76
+(p) Kufungua Konseli Kuu kwenye miji ya Lubumbashi
+nchini Jamhuri ya Kidemokrasia ya Kongo na
+Guangzhou  nchini China; na
+(q) Kukamilisha Sera ya Taifa ya Mambo ya Nje.
+8.0 MALENGO YA TAASISI ZIILIZO CHINI YA WIZARA
+KWA MWAKA WA FEDHA 2019/2020
+Kituo cha Kimataifa cha Mikutano Arusha
+189. Mheshimiwa Spika, katika kipindi cha mwaka
+wa fedha 2019/20, Kituo kinatarajia kukusanya mapato
+ya Shilingi 16,313,803,143. Kati ya fedha hizo, Shilingi
+15,603,468,044 ni kutoka vyanzo mbalimbali vya ndani;
+na Shilingi 710,248,893 zitatokana na mkopo. Aidha, Kituo
+cha Mikutano cha Kimataifa cha Julius Nyerere kinatarajia
+kukusanya mapato ya Shilingi 3,107,700,000 kutokana na
+huduma za mikutano.
+190. Mheshimiwa Spika, Kituo kinatarajia kukopa
+Shilingi 710,248,893 kwa ajili ya gharama ya nyongeza
+katika mradi wa upanuzi wa Hospitali ya AICC. Aidha, Kituo
+kinaendelea kufanya taratibu za kuwezesha ujenzi wa
+kituo mahsusi cha mikutano kitakachoitwa Mt. Kilimanjaro
+International Convention Centre (MK-ICC). Kituo hicho
+kitakuwa kichocheo cha utekelezaji wa diplomasia ya
+mikutano ya kimataifa na maonesho hapa nchini. Vilevile,
+Kituo kinaendelea kufuatilia eneo la ujenzi wa kituo cha
+mikutano jijini Dodoma kutoka mamlaka husika.
+
+77
+Mpango wa Kujitathmini Kiutawala Bora Barani Afrika
+(APRM)
+191. Mheshimiwa Spika, katika kipindi cha mwaka
+wa fedha 2019/20, APRM inatarajia kutekeleza malengo
+yafuatayo:
+i. Kuimarisha Tathmini za Utawala Bora za Mpango wa
+APRM ikiwa ni pamoja na kuhuisha mbinu za utafiti
+kwa kuangalia hojaji ya APRM, kuendelea kuboresha
+viashiria vya utafiti, kuangalia matumizi ya teknolojia
+katika utekelezaji wa Mpango na kuongeza wigo wa
+zana zitakazotumika katika utafiti;
+ii. Kuratibu ufuatiliaji wa utekelezaji wa Mpango Kazi
+wa APRM unaohusu kushirikiana na Wizara, Idara
+na Wakala za Serikali katika kuandaa taarifa za kila
+mwaka pamoja na kuhakikisha kuwepo kwa mfumo
+madhubuti wa ufuatiliaji;
+iii. Kuimarisha mawasiliano na utoaji taarifa juu ya
+Mpango wa APRM kwa kuendelea kutekeleza Mpango
+wa Mawasiliano wa miaka mitano 2016/17 – 2020/21
+kwa kutoa taarifa kwa vyombo vya habari pamoja na
+kutumia mitandao ya kijamii; na
+iv. Kujenga uwezo wa taasisi ambayo ni endelevu hasa
+kwenye maeneo ya kubadilishana uzoefu na kuipa
+hadhi ya kisheria.
+Chuo cha Diplomasia
+192. Mheshimiwa Mwenyekiti, katika Mwaka wa
+Masomo 2019/2020 Chuo kinatarajia kuanzisha programu
+mpya ya stashahada ya uzamili katika Amani na Uthibiti wa
+Migogoro (Post Graduat Diploma in Peace and Conflict
+
+78
+Management). Programu hii itafundishwa Jijini Dodoma
+na Zanzibar kwa lengo la kuwasogezea watumishi
+wa umma wa pande zote mbili za Muungano fursa za
+kujiendeleza kimasomo. Aidha, programu hii itafundishwa
+muda wa jioni baada ya nyakati za kazi na hivyo kutoa
+fursa kwa watu wengi kunufaika nayo huku wakiendelea
+na majukumu yao ya kiofisi. Kwa upande wa Zanzibar,
+programu hii itafundishwa kwa kushirikiana na Chuo cha
+Utumishi wa Umma cha Zanzibar.
+9.0 MAKADIRIO YA MAPATO NA MATUMIZI YA
+WIZARA KWA MWAKA WA FEDHA 2019/2020
+193. Mheshimiwa Spika, ili kuweza kutekeleza kikamilifu
+majukumu ya Wizara kwa mwaka 2019/2020, Wizara
+imepangiwa bajeti ya kiasi cha Shilingi 166,926,820,000.00.
+Kati ya fedha hizo Shilingi 152,717,723,000.00 ni kwa ajili
+ya Matumizi Mengineyo, Shilingi 10,209,097,000.00 ni
+kwa ajili ya Mishahara na Shilingi 4,000,000,000.00 ni kwa
+ajili ya Bajeti ya Maendeleo.
+194. Mheshimiwa Spika,  kati ya fedha za bajeti ya
+Matumizi Mengineyo ya Wizara, Shilingi 948,012,866.00
+ni kwa ajili ya Mpango wa Kujitathmini Kiutawala Bora
+Tanzania (APRM), Shilingi 1,000,000,000.00 ni kwa ajili ya
+fedha za Matumizi Mengineyo ya Chuo cha Diplomasia,
+Shilingi 1,239,633,751.00 ni kwa ajili ya Mahakama ya Afrika
+ya Haki za Binadamu na Watu na Shilingi 158,279,760.00
+ni kwa ajili ya Bodi ya Ushauri wa Masuala ya Rushwa ya
+Umoja wa Afrika. Aidha, kati ya fedha zilizotengwa kwa
+ajili ya Mishahara Shilingi 2,507,986,000.00 ni kwa ajili ya
+mishahara ya watumishi wa Chuo cha Diplomasia.
+
+79
+195. Mheshimiwa Spika,  katika fedha za bajeti
+ya Maendeleo, kiasi cha Shillingi 4,000,000,000.00
+kilichopangwa kwa mwaka wa fedha 2019/2020, Shilingi
+1,000,00,000.00 ni kwa ajili ya ukarabati wa majengo ya
+ubalozi wa Tanzania Kinshasa, Jamhuri ya Kidemokrasia
+ya Kongo; Shilingi 100,000,000.00 ni kwa ajili ya ukarabati
+wa majengo ya ofisi na makazi yaliyopo ubalozi wa Tanzania
+Khartoum, Sudan; Shilingi 800,000,000.00 ni kwa ajili ya
+ukarabati wa majengo ya makazi ya watumishi wa ubalozi
+wa Tanzania Lusaka, Zambia Shilingi 450,000,000.00 ni
+kwa ajili ya kuweka miundombinu ya umeme katika jengo
+la Wizara lililopo Dar es Salaam; Shilingi 300,000,000.00
+ni kwa ajili ya ujenzi wa Ofisi ya Makao Makuu ya Wizara
+iliyopo Mtumba jijini Dodoma; Shilingi 150,000,000.00 ni
+kwa ajili ya ukarabati wa makazi ya Balozi wa Tanzania
+Ottawa, Canada; Shilingi 200,000,000.00 ni kwa ajili
+ujenzi wa uzio wa kiwanja cha Serikali kilichopo Ubalozi
+wa Tanzania Nairobi, Kenya; na Shilingi 1,000,000,000.00
+ni kwa ajili ya upanuzi na uboreshaji wa miundombinu ya
+Chuo cha Diplomasia.
+196. Mheshimiwa Spika,  katika mwaka wa fedha
+2019/2020, Wizara kupitia Balozi zake, inatarajia
+kukusanya kiasi cha Shilingi 2,550,879,072.00 ikiwa ni
+maduhuli ya Serikali.
+10.0 HITIMISHO
+197. Mheshimiwa Spika, ili kuweza kutekeleza
+kikamilifu majukumu ya Wizara kwa mwaka wa fedha
+2019/2020, naomba Bunge lako Tukufu liidhinishe jumla
+ya Shilingi 166,926,820,000.00. Kati ya fedha hizo Shilingi
+162,926,820,195.00 ni kwa ajili ya matumizi ya kawaida
+na Shilingi 4,000,000,000.00 ni kwa ajili ya bajeti ya
+maendeleo.
+
+80
+198. Mheshimiwa Spika, naomba kuchukua nafasi hii
+kukushukuru wewe binafsi na Waheshimiwa Wabunge
+kwa kunisikiliza.
+199. Mheshimiwa Spika, naomba kutoa hoja.
+
+81
+Kiambatisho Na. 1
+Makongamano na maonesho ya biashara na uwekezaji
+yaliyofanyika katika kipindi cha mwaka 2018/19
+i. Kongamano la uwekezaji lililofanyika Stockholm,
+Sweden mwezi Aprili 2019. Kongamano hilo liliratibiwa
+na Ubalozi wa Tanzania Stockholm kwa kushirikiana
+na Baraza la Watanzania waishio nje ya nchi (TDC
+Global) pamoja na taasisi ya Swedish Sub-Saharan
+African Chamber of Commerce (SSACC). Kupitia
+kongamano hilo, wawekezaji sita kutoka mataifa ya
+Canada, Marekani, Finland na Norway wameonesha
+nia ya kuwekeza hapa nchini katika sekta za kilimo,
+elimu na miundombinu;
+ii. Kongamano la biashara kati ya India na nchi za
+Jumuiya ya Afrika Mashariki lililofanyika jijini Dar es
+Salaam mwezi Machi, 2019;
+iii. Kongamano la biashara kati ya Tanzania na Tunisia
+lililofanyika mwezi Machi, 2019 jijini Dar es Salaam.
+
+iv. Maonesho ya bidhaa za kilimo yaliyofanyika Doha,
+Qatar mwezi Machi, 2019;
+v. Maonesho ya 22 ya Kimataifa ya Kilimo yaliyofanyika
+jijini Havana, Cuba mwezi Machi, 2019 ambapo
+Tanzania ilitangaza fursa za uwekezaji zilizopo katika
+sekta ya kilimo hapa nchini ikiwemo kilimo cha miwa
+na uzalishaji wa sukari; uzalishaji wa dawa za kuulia
+wadudu wanaoshambulia mazao na kubadilishana
+utaalam kwenye sekta ya kilimo na ufugaji;
+
+vi. Kongamano la Diaspora lililofanyika Cape Town,
+Afrika Kusini mwezi Februari, 2019 kwa lengo la
+
+82
+kuwahamasisha Diaspora hao kuja kuwekeza hapa
+nchini;
+
+vii. Kongamano la biashara na uwekezaji kati ya Tanzania
+na Saudi Arabia lililofanyika mwezi Januari, 2019 jijini
+Dar es Salaam;
+viii. Maonesho ya 19 ya Juakali/Nguvukazi yaliyofanyika
+Eldoret, Kenya mwezi Desemba, 2018 ambayo
+yalilenga kukuza ajira; kupanua wigo wa masoko
+ya wajasiriamali; kukuza biashara na kuwezesha
+urasimishaji wa shughuli za sekta zisizo rasmi. Katika
+maonesho hayo wajasiriamali 238 kutoka Tanzania
+walishiriki, ambapo 192 walitoka Tanzania Bara na 46
+kutoka Zanzibar;
+ix. Makongamano ya biashara kati ya Tanzania na Misri
+yaliyofanyika mwezi Novemba, 2018 jijini Dar es
+Salaam na Zanzibar;
+x. Maonesho ya biashara ya kimataifa ya Guangxi
+yaliyofanyika katika Jimbo la Guangxi nchini China
+mwezi Septemba 2018;
+xi. Kongamano la Diaspora wa Tanzania wanaoishi
+Marekani lililofanyika Seattle, Marekani mwezi Agosti
+2018 kwa lengo la kuwahamasisha Diaspora hao kuja
+kuwekeza hapa nchini;
+xii. Kongamano la Tano la Diaspora lililofanyika mwezi
+Agosti 2018, Chakechake Pemba, Zanzibar kwa lengo
+la kuwahamasisha Diaspora hao kuja kuwekeza hapa
+nchini;
+
+83
+xiii. Kongamano kati ya Tanzania na Oman lililofanyika
+mwezi Julai, 2018 jijini Dar es Salaam. Kongamano
+hilo lilihudhuriwa na wafanyabiashara 200, ambapo
+kampuni 20 kutoka nchini Oman zilishiriki na kukutana
+na wafanyabiashara wa bidhaa mbalimbali za chakula
+na madini wa hapa nchini; na
+xiv. Kongamano la Biashara kati ya Tanzania na
+Malawi lililofanyika mwezi Julai, 2018 jijini Mbeya
+ambapo mkataba wa ushirikiano kati ya Jumuiya ya
+Wafanyabiashara wa Tanzania na Malawi ulisainiwa;
+
+84
+Kiambatisho Na. 2
+Jedwali la Mwenendo wa Biashara (2015- 2018 )
+Mwaka 2015 2016 2017 2018
+Mauzo
+(US$)
+
+350,169,250
+
+300,764,284
+
+312,500,041
+
+448,644,006
+Manunuzi
+(US$)
+
+227,216,173
+
+299,717,400
+
+237,004,011
+
+302,728,624
+Urari wa
+Biashara
+
+122,953,077
+
+1,046,885
+
+75,496,030
+
+145,915,382
+Chanzo: Mamlaka ya Mapato Tanzania
+ -
+ 50,000,000
+ 100,000,000
+ 150,000,000
+ 200,000,000
+ 250,000,000
+ 300,000,000
+ 350,000,000
+ 400,000,000
+ 450,000,000
+ 500,000,000
+2015 2016 2017 2018
+Mwenendo wa Biashara
+Mauzo Manunuzi
+Chanzo: Mamlaka ya Mapato Tanzania
+
+85
+Kiambatisho Na. 3
+Orodha ya vikwazo visivyo vya kiforodha vilivyopo ndani ya nchi wanachama wa
+Jumuiya ya Afrika Mashariki
+No Complaint Imposing
+country
+Reporting
+country
+Status
+1. Requirement by Tanzania
+Food and Drugs Authority
+for companies exporting to
+URT to register, re-label, and
+retesting of certified EAC
+products exported by other
+Partner States Reported in
+2003.
+Tanzania Kenya Both sides agreed to implement
+recommendations (a) to (d) as
+proposed in the next 100 days:
+a) Tanzania commits to
+recognize and make
+use Certificates of
+Analysis from KEBS
+during registration of food
+products from Kenya.
+Hence, Tanzania will not
+re-test products with a
+Certificate of Analysis
+within 100 days.
+b) That each country
+to continue charging
+their domestic fees
+until when the process
+of harmonization is
+completed. Immediate
+implementation.
+
+86
+c) Kenya fast tracks the
+processes of establishing
+a Food and Drugs
+Agency and review of the
+Standards Act. Kenya
+committed to fasttrack the
+formation of a Food and
+Drugs Authority Within 6 to
+12 months
+d) Tanzania submitted that
+the 1.5 %FOV is not a
+service fee but an import
+permit. The permit is
+not illegal. Kenya urge
+Tanzania to remove
+1.5 FOB immedielty. It
+was agreed that EAC
+Secretariat to facilitate
+the harmonization of food
+safety standard in the
+region. Harmonization of
+levies fees and charges to
+be done. Partner states to
+take lead
+
+87
+2. TFDA registers injectables as
+per pack size and treats each
+product by itself rendering
+retaining licences for the
+product very expensive
+3. TFDA (Tanzania Foods &
+Drugs Authority) imposes
+a 1.5% fees on FOB value
+on all imports (food, drugs
+& cosmetics). This is badly
+hurting local and regional
+trade as well as local
+manufacturers.
+4. Namanga/Kajiado County
+charges 2,000 Ksh for all
+Burundi cargo trucks transiting
+Kenya
+Kenya Burundi Kenya informed the SC on Trade
+meeting that this levy is no longer
+applied and hence the NTB was
+resolved. Burundi to consult and
+revert during the SCTIFI meeting.
+
+88
+5. Lack of preferential treatment
+on Kenyan Cement transferred
+to Tanzania. Payment of full
+CET duty on cement exports
+from Kenya to Tanzania due
+to interpretation of Chapter
+25. This also affects situations
+where the local content is at
+a high percentile.  Tanzania
+authorities attach a 35%
+duty to cement that is not
+‘wholly produced’ in an
+EAC state. This is opposed
+to previous practice which
+had other categories on the
+rules of origin certificate that
+for cement included ‘value
+addition’ and/or ‘substantially
+transformed using material
+content not exceeding 60%’ -
+the Authorities do not consider
+these categories anymore;
+the rules of origin must state
+whether the item is either
+wholly produced or not.
+Tanzania Kenya The Sectoral Committee on Trade
+held from 13 to 16 May 2019 was
+informed by the Secretariat that
+the NTB was resolved during the
+Committee on Customs meeting
+of April 2019. Tanzania reported
+that Cement imported from Kenya
+is granted preferential treatment
+which was disputed by Kenya.
+The Tanzania agreed to provide
+feedback
+
+89
+6. Despite Kenya Tobacco raw
+material being fully sourced in
+Kenya, the manufacturers are
+required to pay 80 per cent
+higher excise for cigarettes
+exports into Tanzania.
+Tanzania Kenya Both Parties Kenya and Tanzania
+agreed to handle the matter under
+domestic tax harmonization.
+7. Tanzania still charges US$500
+to Uganda trucks compared to
+US$152 charged on Rwanda
+trucks.
+Tanzania Burundi Both Parties agreed that Experts
+and senior officials of the two
+countries to engage and harmonize
+the charges and report progress to
+the Ministers by end of June 2019.
+8. Lack Of Preferential Treatment
+Confectionery Products From
+Kenya By Tanzania
+Tanzania Kenya Both Parties agree to do all the
+verifications within a month.
+Secretariat to communicate
+findings of verification within a
+week of conclusion of the exercise.
+The EAC Secretariat has convened
+the verification missions involving
+both Partner States.
+
+90
+9. Milk exported to Tanzania
+attracts numerous charges
+collected by different
+institutions including Tanzania
+Bureau of Standards,
+Tanzania Foods and Drugs
+Authority and Tanzania Dairy
+Board.
+Also, to import a kilogramme
+of milk in Tanzania, under
+the newly signed Animal
+Diseases and Animal
+Products Movement Control
+Regulations published on 31st
+August 2018 (Government
+Notice No 476) and which
+entered into force on 1st
+October 2018, Tanzania now
+requires to pay Tshs. 2,000
+on milk imported from outside
+the country from Tsh150.
+This leads to an increase of
+1,233%. Therefore this is a
+total ban since milk imported
+cannot compete with the local
+one.
+Tanzania Rwanda During the Regional Monitoring
+committee meeting held from
+29 April - 3 May 2019, the
+Secretariat reported that they had
+sent a letter to Partner States to
+submit the additional charges for
+harmonization. However, this NTB
+will be resolved under the regional
+domestic tax harmonization
+approach.
+
+91
+10. Tanzania charging of Business
+Visa of USD 250 to EAC
+business persons entering
+URT charged as Certificate of
+Temporary Assignment (CTA)
+at all borders
+Tanzania All Partner
+States
+Tanzania reported that the
+charge is not for VISA but it
+is a fee on a pass. The fee is
+charged on persons coming in
+Tanzania to perform temporary
+assignments (economic activities
+and professional services) such as
+consultancies.
+2. During the Regional Monitoring
+Forum held on 29 April - 3 may
+2019  It was agreed  that the
+EAC Secretariat to convene by
+September, 2019,  a meeting of
+Ministries home affairs, chiefs of
+for Immigration, and Ministries
+responsible for Trade to handle
+matter as it affects both trade in
+goods and services.
+11. Discriminatory treatment
+(Excise duty) of Kenyan
+manufactured products
+among others Pharmaceutical
+products
+Uganda Kenya Uganda undertakes to consult with
+the Ministry of Health and Report
+within two weeks after the signing
+of the agreed minutes. Uganda
+will provide updates during SCTIFI
+May 2019.
+
+92
+12. South Sudan is subjecting
+Kenyan exports to Certificate
+of Conformity (CoC); South
+Sudan through their Ministry
+of EAC and Industry has
+written letters to Kenya
+manufacturers informing them
+that there will be a penalty of
+15% CIF on all imports into
+the Republic of South Sudan
+without CoC.
+Exporters are required to have
+their consignments verified in
+the country of export before
+shipment.
+Sudan Kenya The Republic of Kenya Reported
+the NTB during the 27th RMC
+meeting. The EACSC directed the
+EAC Secretariat to sensitize the
+Republic of South Sudan on their
+obligations under the SQMT Act.
+13. The application of VAT for
+transit goods that spend
+more than one month in URT
+without being loaded
+Tanzania Burundi The United Republic of Tanzania
+informed the Sectoral Committee
+on Trade that as per the evidence
+given the fee is charged on services
+rendered to the trader but not on
+the transit goods after expiry of the
+30 days of the grace period and
+these services are taxable. Hence
+the United Republic of Tanzania
+considered the issue not qualifying
+to be an NTB.
+
+93
+14. Posting of sufficient personnel
+to Mtukula One Stop Border
+Post (OSBP). Tanzania
+has already deployed staff
+necessary to meet the 24/7
+working hours. Uganda has
+not deployed any officer to
+date. Thus, business from
+Tanzania to Uganda is
+severely affected
+Uganda Tanzania During the Sectoral  Committee
+on Trade , Uganda  reported  that
+it will consult and report  during
+SCTIFI of May 2019
+15 Uganda does not recognize
+the Calibration Certificate
+issues by the Weight and
+Measures Agent (WMA) for
+oil tank from URT: Republic of
+Uganda does not accept the
+Calibration Certificate of tanks
+from URT. As a result, our
+traders are forced to undergo
+recalibration by Ugandan
+counterpart Authority (Uganda
+Bureau of Standards) at a
+charge of USD 230. This
+add up to the cost of doing
+business. The trader paid
+Uganda shillings 2, 655,600.  It
+was stated that the certificate
+from URT is valid for the
+period of one year.
+Uganda Tanzania During the Sectoral  Committee
+on Trade , Uganda  reported  that
+it will consult and report  during
+SCTIFI of May 2019
+
+94
+16 Multiple police check points
+from Mombasa to Malaba
+(Miritini, Samburu, Mariakani,
+Mtito Andei, Kibwezi,
+Machakos, Mlolongo, Nairobi,
+Mahimahiu, Naivasha,
+Nakuru, Salgaa, Molo,
+Kapsabet, Malaba, Eldoret,).
+Kenya Rwanda During the 27th RMC meeting
+the Republic of Rwanda reported
+that there are many check points
+from Mombasa port to Malaba/
+Busia which charge money to
+transporters
+17 Arbitral  uplift of value  of soft
+drinks from Bakhresa when
+exported to Kenya
+Kenya Tanzania Kenya undertake to resolve the
+matter as soon as possible and
+report back to the next bilateral
+meeting .to be held  on July 2019
+
+95
+Kiambatisho Na.4
+MIRADI YA TANZANIA AMBAYO IPO KWENYE
+HATUA YA KUPATA UFADHILI KUTOKA JUMUIYA YA
+MAENDELEO KUSINI MWA AFRIKA
+S/N PROJECT NAME PROJECT
+VALUE (USD)1 Construction of Dar Es Salaam
+- Isaka- Keza – Kigali/Musongati
+Railway Line
+5,580,000,000
+2 Construction of the  Mtwara/
+Mbamba  Bay  –  Mchuchuma
+/ Liganga Standard Gauge
+Railway Line
+6,000,000
+3 Rehabilitation    of    Tabora-
+Kigoma     Meter     Gauge
+Railway Line
+To be
+determined
+4 Rehabilitation   of   the   Central
+Railway   Line   from   Tabora–
+Mwanza/Kigoma; Kaliua-
+Mpanda Railway Line with a
+Spur to Karema
+To be
+determined
+5 Enhancing Capacity of Kigoma
+National Meteorological Training
+Centre (KNMTC)
+1,670,000
+6 Modernization       of
+Meteorological       Observing
+Infrastructure and Services
+in Support of Early Warning
+System for Poverty Reduction in
+Tanzania
+35,000,000
+
+96
+7 Procurement of New DE
+locomotives 3000 HP,
+procurement and rehabilitation
+of wagons and coaches.
+292,818,019
+8 Rehabilitation of Permanent
+way. 150,000,000
+9 Procurement and installation
+of a new Signalling and
+Telecommunications System.
+82,200,000
+10 Feasibility study of new railway
+line from Chikola (Tazara line)
+– Magamba (Magamba Coal
+Mining) (20Km)
+260,000
+11 Feasibility study of new railway
+line from New Bagamoyo port –
+TAZARA line (Mzenga, Kisarawe
+District) Estimated 150Kms
+1,950,000
+12 Feasibility study of new railway
+line from TAZARA – (Mlimba
+station) – Mchuchuma -  Liganga
+(Coal and Iron Ore Mining) –
+Mbamba bay   (Km 360)
+4,680,000
+
+97
+Kiambatisho Na. 5
+ORODHA YA MIKATABA NA HATI ZA MAKUBALIANO
+ILIYORATIBIWA NA WIZARA KWA MWAKA WA
+FEDHA 2018/2019
+i. Mkataba kati ya Serikali ya Jamhuri ya Muungano wa
+Tanzania na Jamhuri ya Korea kwa ajili ya kuondoa
+hitaji la viza kwa raia wenye Hati za Kusafiria za
+Kidiplomasia na za Kiutumishi  uliosainiwa Jijini Dar
+es Salaam mwezi Julai 2018;
+ii. Mkataba wa Makubaliano kati ya Serikali ya Jamhuri
+ya Muungano wa Tanzania na Serikali ya Watu wa
+China kuhusu Usafirishaji wa bidhaa za Mashudu
+uliosainiwa Beijing, China mwezi Julai 2018;
+iii. Hati ya Makubaliano ya kuanzisha ushirikiano kati
+ya Wizara ya Afya, Maendeleo ya Jamii, Jinsia,
+Wazee na Watoto ya Tanzania na Kamisheni ya
+Taifa ya Afya ya China  iliyosainiwa Beijing, China
+mwezi Agosti 2018;
+iv. Hati ya Makubaliano ya kuanzisha ushirikiano kati
+ya Taasisi ya Moyo ya Jakaya Kikwete ya Tanzania
+na Hospitali ya Fuwai (Chinese Academy of Science
+–Fuwai Hospital) ya Jimbo la Shandong iliyosainiwa
+Beijing, China mwezi Agosti 2018;
+v. Hati ya Makubaliano ya kuanzisha ushirikiano kati
+ya Taasisi ya Saratani ya Ocean Road na Hospitali
+ya Saratani ya China (Chinese Academic of Medical
+Science – Cancer Hospital) iliyosainiwa Beijing
+China mwezi Agosti 2018;
+vi. Hati ya Makubaliano kati ya Serikali ya Jamhuri ya
+Muungano wa Tanzania na Serikali ya Jamhuri ya
+
+98
+Watu wa China kuhusu ushirikiano wa masuala ya
+‘’Belt and Road’’ uliosainiwa Beijing China mwezi
+Septemba 2018;
+vii. Hati ya Makubaliano kati ya Taasisi ya Research
+and Information Systems for developing countries
+(RIS) ya India na Chuo cha Diplomasia cha Tanzania
+iliyosainiwa New Delhi, India mwezi Oktoba 2018;
+viii. Hati ya Makubaliano ya ushirikiano kati ya Chuo cha
+Diplomasia cha Tanzania na Chuo cha Diplomasia
+India iliyosainiwa New Delhi, India mwezi Oktoba,
+2018;
+ix. Hati ya Makubaliano ya ushirikiano kati ya Shirika la
+Utafiti na Maendeleo ya Viwanda Tanzania (TIRDO)
+na National Research Development Cooperation
+(NRDO) ya India iliyosainiwa New Delhi, India
+mwezi Oktoba, 2018;
+x. Hati ya Makubaliano kati ya Serikali ya Jamhuri
+ya Muungano wa Tanzania na Jamhuri ya Sudan
+Kusini katika sekta ya Elimu 26 Febuari, 2019,
+Dodoma;
+xi. Hati ya Makubaliano kati ya Serikali ya Jamhuri
+ya Muungano wa Tanzania na Jamhuri ya Uganda
+katika sekta ya Elimu na Mafunzo iliyosainiwa jiji
+Kampala mwezi Agosti, 2018;
+xii. Hati ya Makubaliano kati ya Serikali ya Jamhuri
+ya Muungano wa Tanzania na Jamhuri ya Uganda
+katika sekta ya Umeme katika kijiji cha Nangoma
+Uganda iliyosainiwa mwezi Agosti, 2018;
+
+99
+xiii. Hati ya Makubaliano kati ya Serikali ya Jamhuri
+ya Muungano wa Tanzania na Jamhuri ya Uganda
+katika Ujenzi wa Bomba la Kusafirishia Gesi Asilia
+kutoka Tanzania hadi Uganda iliyosainiwa mwezi
+Agosti, 2018;
+xiv. Hati ya Makubaliano kati ya Serikali ya Jamhuri ya
+Muungano wa Tanzania na Kampuni ya Uwekezaji
+ya Misri kuhusu uanzishwaji wa kampuni ya pamoja
+itakayowekeza katika kiwanda cha nyama mkoani
+Pwani iliyosainiwa mwezi Machi, 2019;
+xv. Hati ya Makubaliano kati ya Wizara ya Kilimo,
+Maliasili, Mifugo na Uvuvi ya Serikali ya Mapinduzi
+ya Zanzibar na Wizara ya Kilimo na masuaala ya
+Vijijini ya China juu ya ushirikiano katika Uvuvi wa
+Bahari kuu iliyosainiwa mwezi Septemba 2018;
+xvi. Hati ya Makubaliano ya Ushirikiano kati ya Chuo
+Kikuu cha Alexandria na Chuo Kikuu cha Taifa cha
+Zanzibar iliyosainiwa mwezi Aprili 2019;
+xvii. Hati ya Makubaliano kati ya Serikali ya Muungano
+wa Tanzania na Uholanzi katika uendelezaji wa zao
+la viazi iliyosainiwa mwezi Agosti, 2019;
+xviii. Mkataba kati ya Serikali ya Jamhuri ya Muungano
+wa Tanzania na Serikali ya Dubai kwa ushiriki wa
+Tanzania kwenye maonesho ya dunia ya Expo
+2020 Dubai uliosainiwa mwezi Januari, 2019;
+xix. Mkataba kati ya Jamhuri ya Muungano wa Tanzania
+na Jamhuri ya Malawi kuhusu Usafiri wa Barabara;
+na
+
+100
+xx. Hati ya Makubaliano ya Ushirikiano kati ya Jamhuri
+ya Muungano wa Tanzania na Jamhuri ya Malawi
+katika Sekta ya Utamaduni, Sanaa na Michezo kwa
+lengo la kuanzisha ushirikiano katika masuala ya
+utamaduni, Sanaa na Michezo katika nchi hizi mbili.
+Hati ya makubaliano hayo iliwekwa saini mwezi
+Aprili, 2019 jijini Lilongwe, Malawi.
+
+101
+Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais wa
+Jamhuri ya Muungano wa Tanzania akimkabidhi zawadi
+ya Kamusi ya Kiswahili na Kingereza pamoja na Vitabu
+vya Kiswahili Mheshimiwa Cyril Ramaphosa, Rais wa
+Jamhuri ya Afrika Kusini kwa ajili ya kujifunza lugha ya
+Kiswahili tarehe 26 Mei, 2019 Ikulu jijini Pretoria, Afrika
+Kusini. Kulia kwa Mheshimiwa Rais Magufuli ni Mhe. Prof.
+Palamagamba Kabudi (Mb), Waziri wa Mambo ya Nje na
+Ushirikiano wa Afrika Mashariki.
+
+102
+Mheshimiwa Dkt. John Pombe Joseph Magufuli, Rais
+wa Jamhuri ya Muungano wa Tanzania akimkabidhi
+zawadi ya Kamusi ya Kiswahili na Kingereza pamoja na
+Vitabu vya Kiswahili Mheshimiwa Dkt. Hage Geingob,
+Rais wa Jamhuri ya Namibia kwa ajili ya kujifunza lugha
+ya Kiswahili tarehe 27 Mei, 2019 Ikulu jijini Windhoek,
+Namibia. Kulia kwa Mheshimiwa Rais Geingob ni Mhe.
+Prof. Palamagamba Kabudi (Mb), Waziri wa Mambo ya
+Nje na Ushirikiano wa Afrika Mashariki.

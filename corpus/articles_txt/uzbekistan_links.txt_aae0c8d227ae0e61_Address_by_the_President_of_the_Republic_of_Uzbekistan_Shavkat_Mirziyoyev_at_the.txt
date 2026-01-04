@@ -1,0 +1,98 @@
+seed_url: https://president.uz/en/lists/view/8449
+final_url: https://president.uz/en/lists/view/8449
+title: Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the meeting of the Council of Heads of the Member-States of the Shanghai Cooperation Organization
+date: 
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+President
+of the Republic of Uzbekistan
+Eng
+Ўзб
+O‘zb
+Рус
+View
+Font size
+Increase by
+Address by the President of the Republic of Uzbekistan Shavkat Mirziyoyev at the meeting of the Council of Heads of the Member-States of the Shanghai Cooperation Organization
+01.09.2025
+Distinguished heads of delegations!
+I express my sincere gratitude to His Excellency Xi Jinping, the President of the People’s Republic of China, for the warm welcome and splendid organization of our meeting.
+Allow me also congratulate all present here on the 80th anniversary of the great victory in World War II, to which our peoples made an enormous contribution.
+I would like to join in congratulating the President of the Kyrgyz Republic, His Excellency Sadyr Japarov, on the occasion of the country’s Independence Day, and I am also grateful for your warm words in connection with our main national holiday.
+Dear participants of the summit!
+Our meeting is taking place in Tianjin, a city that embodies the harmony of ancient Chinese culture with country’s dynamic industrial and technological development.
+Here, the wise words of the great Confucius ring true:
+“If you want to make a stand, help others make a stand, and if you want to reach your goal, help others reach their goal.”
+This millennia-old philosophy is in complete harmony with the modern mission of the Shanghai Cooperation Organization, which is based on the principles of mutual respect and support, and consideration of each member-state’s interests.
+I believe that it is on this solid foundation that the common development and prosperity of the SCO space is being built.
+I would like to emphasize that thanks to China’s effective chairmanship, the Organization’s authority has been further strengthened and mutually beneficial practical cooperation among our countries has expanded.
+I am confident that the current summit will become a new historical milestone and define strategic guidelines for long-term cooperation.
+Dear colleagues!
+The Shanghai Cooperation Organization, with its enormous economic, intellectual, resource, and technological potential is consistently expanding its influence on the international arena. This is particularly important in the current climate of global uncertainty.
+A systemic crisis of trust, the escalation of conflicts, the weakening of multilateral institutions, and the fragmentation of the global trading system are undermining the foundations of the international architecture of security and stability. In these circumstances, mutual understanding and solidarity among the SCO member-states are not only a valuable asset, but also the key to preserving peace in our vast region.
+It is particularly important that the SCO remains a platform for equal dialogue, mutual respect, and partnership. This enables us to balance interests and find joint solutions to the most complex challenges of our time.
+We believe that the SCO’s voice should be even more compelling and resolute, reflecting our common political will and serving as a call for decisive action in the name of a peaceful future and sustainable progress.
+I would like to share our vision for further deepening multilateral partnerships.
+First and foremost, it is necessary to raise the efficiency of the Organization, improve its institutions and mechanisms for implementing decisions. I am confident that the process of transforming the Organization, launched at the Samarkand Summit, will contribute to the solution of these important tasks.
+We advocate for the consistent expansion of the Organization, as the success of the “SCO model” lies in its openness and focus on broad cooperation. We are ready to support the aspirations of states that link their future to the SCO.
+I am convinced that the expansion of the SCO’s dialogue partners, including states from other regions, will transform the Organization into a platform for cooperation with the countries of the Global South.
+Cooperation in the field of security is among the key priorities of the SCO. Today, there is a growing need for coordinated approaches and new mechanisms to build trust and ensure security.
+We believe that the time has come to adopt the SCO Declaration on Strengthening Multilateral Partnership for Nuclear Security. The Declaration will serve as a solid foundation for the development of peaceful nuclear energy and emergency response, and will be an important contribution to the global non-proliferation regime under the auspices of the United Nations.
+We share concerns about the significant changes in the nature of terrorism and extremism, growth of cybercrime, production and trafficking of synthetic drugs, and the rise of organized crime.
+In order to effectively counter all these threats, we propose resuming the work of the Meeting of Ministers of Internal Affairs and Public Security; revising the Agreement on Cooperation in Combating Crime; and developing a Program to Combat Drug Addiction until 2030.
+We support the resumption of SCO - Afghanistan Contact Group’s activities. One of its main tasks could be the development of proposals for promoting constructive dialogue and supporting socio-economic projects in Afghanistan.
+Distinguished heads of delegations!
+Against the backdrop of current trends in global economy, we attach priority importance to expanding trade and economic cooperation.
+We advocate for establishing a sustainable model of economic cooperation in our vast region.
+We consider the signing of the Agreement on Trade Facilitation to be an important task, as it will give a boost to the growth of intra-regional trade within the SCO area.
+I would like to emphasize the importance of developing reliable production and logistics chains, as well as promoting mutual investments.
+To this end, we propose creating several new multilateral platforms and cooperation support mechanisms within the SCO framework:
+a Regional SCO Center for Critical Materials aimed at implementing advanced technologies for mineral extraction and deep processing; an SCO Energy Consortium to coordinate policies and promote advanced development of “green” energy in our countries; networks of venture companies and funds to support and promote start-up and innovative projects; a dedicated Electronic Portal to establish business contacts and promote investments, involving the regions of our countries.
+It is important to promptly implement effective financial support tools for regional industrial and infrastructure projects. We propose reconsidering this matter at the level of authorized ministers.
+The development of transport and transit potential along the North-South and East-West routes serves the common interests of our countries. The development of corridors in the southern direction, passing through Central Asia with access to the ports of the Persian Gulf and the Indian Ocean, becomes especially relevant.
+We see great opportunities for coordinating efforts to create a "Unified SCO Transport Space" and its integration with the strategic "Belt and Road" initiative. This implies the creation of new multimodal networks, digital platforms, and "green" corridors. We propose to develop a corresponding multilateral Concept.
+Another important priority is the expansion of partnerships in the field of the SCO’s “green” transformation. I believe the Statement on Cooperation in the field of “green” industry, adopted at the initiative of the Chinese side, to be timely.
+It is also necessary to launch a Regional Platform on climate change adaptation, decarbonization, and the implementation of artificial intelligence technologies for forecasting environmental risks.
+A key factor in fostering long-term partnerships within the SCO framework is the further deepening of cultural ties and strengthening of the institution of "people’s diplomacy."
+A strong impetus for the development of humanitarian exchange and even closer ties between our peoples could be provided by holding an International Festival of Folk Art, creating an online campus for the "SCO University" partner network, and organizing annual competitions and Olympiads among students and young professionals in innovative fields.
+In addition, we propose to explore promising projects such as the launch of a "Tourism Corridor" and the SCO Medical Tourism Alliance.
+Dear colleagues!
+Taking this opportunity, I congratulate esteemed Sadyr Japarov on Kyrgyzstan’s assumption of the Chairmanship of the Shanghai Cooperation Organization. I wish You every success.
+In conclusion, I would like to express my confidence that the Tianjin Declaration, the SCO Development Strategy-2035, and other final documents to be adopted today will provide a solid foundation for strengthening our multifaceted cooperation and effective response to current challenges.
+We are ready to collaborate further to address common tasks of strengthening relations of friendship, good-neighborliness, and mutually beneficial cooperation within the SCO framework.
+Thank you for your attention.
+President
+of the Republic of Uzbekistan
+When using materials reference to www.president.uz is required
+© 2026 Official web-site of the President of Uzbekistan
+All rights reserved
+President
+Status
+Biography
+Honors
+Events
+Meetings
+Visits to the regions
+Visits abroad
+Visits to Uzbekistan
+Speeches
+Greetings
+Documents
+Decrees
+Resolutions
+Orders
+Development strategy
+Initiatives
+Administration
+About the Administration
+Management
+Subordinate organizations
+media library
+Photogallery
+Video gallery
+Contacts
+Attention! If you find an error in the text, select it and press Ctrl + Enter to notify the administration
+Development:

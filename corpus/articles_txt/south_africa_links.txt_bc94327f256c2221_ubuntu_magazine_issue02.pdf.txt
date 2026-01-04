@@ -1,0 +1,4726 @@
+seed_url: https://www.dirco.gov.za/wp-content/uploads/2023/01/ubuntu_magazine_issue02.pdf
+final_url: https://www.dirco.gov.za/wp-content/uploads/2023/01/ubuntu_magazine_issue02.pdf
+title: ubuntu_magazine_issue02.pdf
+date: 
+via: requests-binary
+http_status: 200
+content_type: application/pdf
+note: pdf_extracted
+
+2 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 3Issue 2 diplomacy in action UBUNTU  thedircoza
+In the spirit of UbuntuIn the spirit of Ubuntu
+
+7 Letter from the Minister
+
+10  The Editor’s Note
+
+Editor-in-Chief
+Clayson Monyela
+Managing editor
+Michelle Greeff
+Editor
+Delien Burger
+Assistant editor
+Lebogang Maifadi
+Design editor
+Muzi Msimanga
+Advertising
+Zengeziwe Msimang
+msimangz@dirco.gov.za
+Tel: +27 12 351  0919
+Distribution
+Thembakazi Zulu
+ZuluT2@dirco.gov.za
+Tel: +27 12 351 1169
+Photographers
+Jacoline Schoonees, Unathi Ngamntwini, Yolande Snyman,
+Brand SA, GCIS, United Nations and the IAEA
+Special thanks
+Minister of Trade and Industry, Rob Davies;
+Minister of Tourism, Marthinus van Schalkwyk;
+Director of the Institute for Global Dialogue,
+Siphamandla Zondi;
+Executive Board Member, Executive Board Member,
+International Olympic Committee International Olympic Committee
+President, International Swimming Federation President, International Swimming Federation
+President, African Swimming Confederation,President, African Swimming Confederation,
+Sam Ramsamy;
+Ambassador Anil Sooklal;
+Ambassador AS Minty;
+and Row SA
+Special thanks to advertisers
+BMW, Old Mutual, Liliesleaf, the Department of Trade and
+Industry, Mapungubwe, Brand SA, Gautrain
+To subscribe
+Send an e-mail with the words SUBSCRIBE UBUNTU in the
+subject line, your organisation, e-mail address and delivery
+address in the body to ZuluT2@dirco.gov.za
+Subscription/back issue enquiries
+ZuluT2@dirco.gov.za
+Publisher
+The Department of International Relations and
+Cooperation (DIRCO)  ©2012
+Tel: +27 12 351 1000, www.dirco.gov.za
+Private Bag X152, PRETORIA, 0001,
+Republic of South Africa
+460 Soutpansberg Road, Rietondale, Pretoria, 0084,
+Republic of South Africa, Tel: +27 12 351 1000
+Printing
+Uhuru Communications, Tel: +27 21 657 4800 No portion of this magazine may be produced in any form without the written permission of the
+publishers. DIRCO is not responsible for unsolicited material and reserves the right to amend
+and to alter copy and visual material as deemed necessary, all copyrights  are reserved. Views
+in Ubuntu are not necessarily those of DIRCO or those of the South African Government. They
+can accept no liability of whatsoever nature arising out of or in connection with the contents
+of this publication.
+UBUNTU DIPLOMACY IN ACTION ISSUE2
+ON THE COVER
+Main conference room at the
+Department of International Relations
+and Cooperation, OR Tambo Building,
+in Rietondale, Pretoria.
+This conference room has witnessed
+ﬁ rst-hand the evolution, formulation
+and execution of South Africa’s foreign
+policy. This is where major agreements
+are signed, sealed and delivered.
+The Department of International Relations and
+Cooperation’s quarterly magazine
+UBUNTU a Nguni word meaning humanity
+Foreword
+Diplomacy
+14 The OR Tambo Building:
+ A landmark in Pretoria
+18 South Africa is getting many
+ things right
+20  A vision for South Africa’s
+ foreign policy – Now and
+ beyond
+30 BRICS Bank and the global
+ South
+34 South Africa, BRICS and global
+ governance
+42  Promoting “Developmental
+ Integration” in Africa
+2626
+2424
+6868
+
+7171
+44 Israel-Palestine con ﬂ ict
+ – A South African priority
+46  The Forum for China-
+ Africa Cooperation – Taking
+ Africa forward
+48  BRICS: A vital element of SA’s
+ global economic strategy
+50  South Africa: host of the
+ African Commission on
+ Nuclear Energy (AFCONE)
+54  President Jacob Zuma
+ on South Africa’s National
+ Infrastructure Plan
+56 Gautrain: it is about people on
+ the move
+64 Red Location: A symbol of
+ our freedom
+66 Tourism sector to spur
+ global recovery
+68  Table Mountain – a Seventh
+  Wonder of Nature
+60 Liberation history
+ – The legacy of OR Tambo
+62  Constitution Hill – Healing
+ old wounds through a new
+  justice system
+5454
+6262
+7171
+Feature
+Lifestyle
+7676
+1717
+7474
+7878
+6060
+6666
+70 Top 10 reasons to visit
+ South Africa
+72 Sport and social cohesion
+74 Best crew in the world
+76 Charlize Theron – United
+ Nations Messenger of Peace
+78 Africa’s fashion designers in
+ the spotlight
+
+LETTER FROM THE MINISTER
+Foreword
+Foreword
+7Issue 2 diplomacy in action UBUNTU  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+ 7
+L
+ooking at the achievements of this young
+democracy over the past couple of years,
+no one can doubt the key role South
+Africa plays on the international stage or
+its global in ﬂ uence. Worth mentioning is
+South Africa’s inclusion in the BRICS (Brazil, Russia,
+India, China and South Africa) grouping, our return to the
+United Nations Security Council (UNSC) for a second
+term and presiding over the successful and historic
+Climate Change Conference (COP17/CMP7) in Durban
+in 2011. Regionally and continentally, South Africa
+played a vital role as the former chair of the Southern
+African Development Community Troika and as a former
+member of the African Union (AU) Peace and Security
+Council.
+We are truly grateful for the opportunities that we
+have received to play a meaningful role in creating a
+better South Africa, a better Africa and a better world.
+South Africa has handed the COP baton to Qatar, and
+we have pledged our support to the Qatar Presidency,
+both as the COP17/CMP7 President and as a party to
+the convention and protocol. Over the past two years,
+a lot of work has gone into ensuring that mutual trust
+and transparency in the multilateral process are restored
+and Doha must ensure that it continues. All parties need
+to reassure each other of the individual and collective
+political will to honour existing commitments, while
+working towards enhanced action. There must be a clear
+message that actions are being taken to move forward in
+implementing the Durban Outcome in a balanced way.
+We stand proud and conﬁ dent as a nation that we have
+delivered on our mandate to the best of our ability. The
+Durban Outcome was a historic milestone and indeed
+set precedence for us to work harder to achieve more.
+ South Africa’s two-year non-permanent membership
+of the UNSC comes to an end on 31 December 2012. We
+believe that we have played a constructive role, pursuing
+the interests of our country and the continent. A pressing
+priority remains the reform of international institutions,
+including the UNSC as Africa and Latin America are not
+represented as permanent members on the council. We
+believe we can play a critical role as a permanent member
+of the UNSC, advancing the interests of the continent.
+From 1 January 2013, South Africa will move on
+to serve on another principal organ of the UN – the
+Economic and Social Council (ECOSOC). South Africa
+last served on ECOSOC from 2004 to 2006. ECOSOC
+is responsible for economic and social development
+matters of the world. Membership of ECOSOC will
+provide South Africa with an opportunity to contribute
+to the strengthening and reform of the organ. It will
+provide an opportunity to be located at the centre of the
+debate on the global development agenda, including
+the acceleration of the implementation of the millennium
+development goals.
+South Africa will also co-chair another strategic
+platform for the 2013 to 2016 period – the Forum on
+China-Africa Cooperation (FOCAC). As co-chair, we
+will concentrate our efforts on ensuring a greater role
+for the African Union Commission (AUC) in the FOCAC
+process, as well as maintaining close relations with
+the regional economic communities. We welcome the
+positive contribution that the FOCAC has made towards
+infrastructure development, a signi ﬁ cant increase in
+trade and investment, skills transfer through exchange
+programmes and people-to-people interactions. There is
+no doubt that the FOCAC has contributed positively to
+Africa’s development.
+Our struggle for a better life in South Africa is
+intertwined with our pursuit of a better Africa. Regional
+and continental integration is the foundation for Africa’s
+socio-economic development and political unity. The
+strengthening of the AU and its structures is a strategic
+priority in deepening the continental integration process,
+with infrastructure development paving the way for
+improved intra-Africa trade. South Africa is elated that
+the leadership of the continent is united and has agreed
+that, in this Decade of African Women, Dr Nkosazana
+Dlamini Zuma should lead the AUC. The AU continues to
+champion the African Agenda, advancing and defending
+the interests of Africa in global affairs. At the top of our
+agenda is the need to ensure that our continent remains
+a zone of peace, stability and economic development,
+translating into the betterment of the lives of Africans.
+Foreign policy in the 21st century is multidimensional
+as states use different avenues to pursue their various
+interests. It is possible that two states belonging
+to the same grouping will have signi ﬁ cant bilateral
+contradictions and yet be able to cohere in pursuit of
+the broader interest of the group to which they belong
+with others. Looking at the achievements and milestones
+outlined above, no one can ignore the independence of
+South Africa’s foreign policy.
+We look forward to taking on our new responsibilities
+in 2013 with vigour and enthusiasm.
+We also look forward to once again making the
+African continent proud by hosting a successful Africa
+Cup of Nations in January.
+International stature doesn’t come on a silver platter,
+you earn it.
+Minister of International Relations and Cooperation,
+Ms Maite Nkoana-Mashabane
+
+Let’s talk foreign policy ...
+10 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+“Democratic South Africa’s foreign policy and execution
+represents a break with the past – a past that had con ﬁ rmed us
+as the skunk of the world.”
+These are the words of Minister Maite Nkoana-Mashabane that
+gave an introduction to the Department of International Relations
+and Cooperation’s Annual Report 2011/12 . The Minister then
+continued to outline how the department consolidated its strategic
+advances and areas of strength in its foreign policy, while it found
+innovative ways of enhancing its performance.
+EDITOR’S NOTEEDITOR’S NOTE
+THETHE
+“We will create a South Africa in which the
+doors of learning and of culture shall be open
+to all. We will have a South Africa in which the
+young of our country shall have the best that
+mankind has produced, in which they shall be
+taught to love the people of all races, to defend
+the equality of the peoples, to honour creative
+labour, to uphold the oneness of mankind and to
+hate untruths, immorality and avarice.”
+OR Tambo, United Nations (UN) General Assembly – 26 October 1976
+To call the past few months on the domestic and international front
+challenging might be putting it mildly. Several events led to negative
+and critical comments regarding the direction that the country was
+moving in, turning a blind eye to the daily progress that is made on
+the building blocks of a developing nation.
+South Africa’s membership of BRICS, as was the case with its
+Presidency of COP17, is critical at a time when much of the globe
+still grapples with challenges that hamper meaningful economic
+recovery. We have not been immune here at home to the aftermath
+of the ﬁ nancial crisis and the pervasive impact it continues to have
+on the global economy. Recent Moody’s and S&P rating downgrades
+and The Economist cover story on South Africa are likely to impact
+on perceptions of South Africa as a stable and preferred investment
+market. The hosting of the ﬁ fth BRICS Summit in March 2013
+presents South Africa with the opportunity to demonstrate that,
+notwithstanding doomsayers’ predictions, we are up to the challenge,
+and equal to the task and that our membership of BRICS is not a
+coincidence.
+“We are punching within our weight and will continue to embrace the
+advancement of human rights and the promotion of democracy as the
+central pillars of our foreign policy. We shall remain advocates of the
+observance of human rights and the exercise of good government.
+The era of African solutions to African problems is now.”
+We want to thank all our Ubuntu readers for the compliments received
+on the launch edition. The response was overwhelming. We hope
+you enjoy the second edition as much as we enjoy communicating
+with and educating our stakeholders on South Africa’s foreign policy
+achievements, objectives and goals.
+We look forward to you valued feedback.
+Warm regards
+@ClaysonMonyela
+Foreword
+
+The lemongrass ladies of Bulungula
+When Old Mutual delivers strong annual
+results, the outlook for these lemongrass
+growers gets stronger too. With a R1 million
+investment from the Old Mutual Foundation*,
+the Bulungula lemongrass farming project
+has developed into a Àourishing enterprise,
+suppl\ing organicall\ certi¿ed lemongrass for
+use in essential oils and herbal teas to local
+as well as international markets.
++ealth\ ¿nancial results mean that Old Mutual
+can do even greater things to drive and
+support more community initiatives like this
+all over South Africa. Initiatives that empower
+people, create jobs, improve lives and enable
+positive futures.
+
+*The Old Mutual Foundation manages the corporate social
+investments of Old Mutual South Africa.
+For more information about the
+Old Mutual Foundation, please contact
+us at 021 509 3333.
+“Thanks to Old Mutual’s support we now
+have a market for 20 tons a year.”
+Mam’ Nolesile Dodwana,
+Chairperson of the Bulungula lemongrass
+farming co-op, Eastern Cape.
+Old Mutual Foundation
+Enabling Positive Futures
+Photographs © Old Mutual Foundation/Mark Wessels
+
+14 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 15Issue 2 diplomacy in action UBUNTU  thedircoza
+OR TAMBO
+THE
+BUILDING
+THETHE THE THETTHE HTHETHE THETHETHETHE THETHE HETHETHETHE THE TTHE THE THEHETHE TTHEEEHETHE THE TTHE THETHEHEHEHEHEEEHEEEEHETHTHEETHEETHETHEETHETHEHEETTHHHETTH OOOOOR TOOOOOR TOOOR TOR TOR TOR TOR TOR TTTOOOOOOR TOR TR TOR TTOR TTOOOOOOOOOR TOR TTOOOOOR TOR TOOR TTO TOOROOOOOOO AMBOAMBOAMBOAMBOAAMBOAMBOAMBOAMBOAMBOAMBOAMBOAAAMBOAMBOAMBOAMBOAMBOAMBMMAMBOMMBOMBOMBOBBOAMBOAMBOAMBOOOAMBOAMBOAMBOMBOMBOBOBOAMBOAAMBOAAMBOMMBOBOBOAMBOMBOMBOOBOAMBOAMBOAMBAMBAMBOMBMBOBOBOOMBOMBOA BBAMBAMBOMBOAMMBOMBOOOMBOMM OBOM OMMBOMMMMMB  BUIBUBUIBU BBUI BUIBUI BUI BUIBUBUBUUIBUIUIBUIBBBUIBUBUIBUBUUUUUIIIBBUIUBUUUIBUIBUII BUI BUBUUIBUIBUIBUI BUBUUUBUIBUB IBUUUBUUUUUBBBU LDLDLDINLDINLDILDILDLDINLDINDINLDILDDDLDDDDLDDLDIDLDDDD NDLDDDDDDDDDDIID G: AG: AG: AGG: AG: AG: AG: A:AG: AG: AG: AAA AG: AAAG:G: AAG: AAG: A: A:A:AAAAAG: AG AG: AAG: AA:AAG: A A: AG: : AA: AAG: AAA:AAG: A: AAA AAAGG AG: AG: AAAGGGG: LA LAN LAN LAN LAN LAN LAN LANLAN LAN LAANLALANLANLALANLANLANLANNLANNLANLANLAN LANALALALALANLAANLANLANLALANLANLALAN LANLANLLANLAANLANNLANLALALAANLANANALLLAALALLALAAAANLANLLLAANNAANLANNAL NNDMARDMARDMARDMARRDMARDMARARARDMARDDMARDDDDDDDDDDDDDD K INKI NKKKKKKKK IK INK INK IK INKK KK KKKK INKI NKK K KKKKKK IIKI NKKKKKKKIKK KIK INK IKIKI NK IIIII  PRE PREPREPREPR PREPPR TORITORITOTORITOR A A A
+DIPDIPDDDD LOMLOMOMMMMMMMMMMMMMMMMOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMACYACYACYACYAACYACYACYCYACYACACYACYACYACYACACCCYACYCYACYACYACYACYACACYYACYACYACYACACYACYACACACYACYAAAACACYCYACYACYACYACYACACACACACYACAACACAACYACYACYYACCYCCYCYACYACYACYYACACACYCCACYCCYCACYACYCYCCYYACYCYYYCACACCYCCACCCACCCC
+ DIDIDIPDIPDIPDDIPDIPDIPDIPDIPDIPDIPDIPDDIDIPDIDIDIPIDIDIDIPPIPPPPPPDIPDIPDIPDIPDDIDIDIDIDIIPDIPDIPDIPDIPDIPPDIPDIDIPDIPIPIDIPDIPDDDIIPPIIDIIIIIIDIIIIDIDIIIIDDD LOMLOMLOMLOMLLOMOMLOMLOMLOLOMLOMLLOMLOMLOLLOMLOLOMLOLOLOMLOLOL MLOLOMLLLLLOLOLOLOLLOLLLLOMOLOLLOLLOLOOLLOMLLLLOMLLOOLOOLOOLOOLOLLLOLOLLOOOLLLLOMLLOOOOLLLLLOLLOMOOLOLOLOLOMOOOOMLOOMLLLOLOMACYACYACYACYACYACYACYACYACYACYACYCYCYCYCYACACYACCYACYACYACYCYCCYCYCYYYYYYYCYYACYACACYCCYCYACCYCYACYCCYYYYACCCCCCCYCCYCCYCCCYYACYACYCCCCYYACCYCYCCCYYYYYYYYCCY
+OOOOOOR TOR TOOOOORO AMBAMBMBOMBMBOMBOMBOBMBMBOBOMBOBOBOOBOMBMBOOMBOMBOM OOMMBOBMBBBMBOOOOBBB  BU BUI BUBU BU BUBB BBBBBBUBBBBUBUBBUBBU LDINDIDINDLDINDINDINNINLDINDINDINLDLDDINDININDDDIINLDDLDLD G: AG: AG: A: AG: AG: AG: AAG: AG: AG: AG: AG: A: AAG: AG: AG: AG: AG: AAAG: AG: AAAAA LL LLL LLLALAALANLLLANL L DMARDMARMARARARARRK INK ININK INK INK INKI NK ININK INK INNK INNK INK ININNIININKI NINK INKK INK KI NK IN PRE PRE PR PR PR PRPRPPRPPPR PRPRPRPRPRPPPPR TORITORIRIRIRIIIIOO AAAAAAAAAAAAAAAAAAAAAAAAA
+
+O
+pened in December 2009 by President
+Jacob Zuma, the headquarters of the
+Department of International Relations
+and Cooperation (DIRCO), the
+OR  Tambo Building, has become a
+landmark in Pretoria.
+Able to accommodate at least 2 400 ofﬁ cials, it is one
+of the most modern and beautiful African architectural
+buildings in the country. This magni ﬁ cent building
+seeks to portray the values that underpin South Africa’s
+democratic dispensation.
+Embedded in the conceptual design of the OR Tambo
+Building, is the vision that embraces transparency, open
+interaction and uninhibited communication, friendliness
+and a willingness to assist people. It also re ﬂ ects the
+prominence and importance of the African continent and
+its desire to rise from its humble beginnings and to take
+its rightful place among the continents of the world.
+The OR Tambo Building mirrors a South Africa that
+is striving for justice and equality in the world we live in.
+Through the different designs that inform this African
+building, DIRCO is celebrating the country’s rich cultural
+heritage, its love for the gift of life, the richness of South
+Africans’ creativity and the limitless reach of our human
+endeavours.
+As the materials and ﬁ nishings used attest, it was
+a priority to build a sustainable and environmentally-
+friendly building. A full water recycling regime is in place
+and everything possible was done to retain the natural
+veld and trees.
+OR TAMBO
+THE
+BUILDING
+A landmark in PretoriaA landmark in Pretoria
+“This building is
+a true reﬂ ection
+of the stature that
+South Africa has
+internationally.”
+United States (US) Secretary of State, Ms Hillary Clinton,
+during her ﬁ rst visit to the OR Tambo Building during the
+South Africa-US Strategic Dialogue on 7 August 2012.
+DIPLOMACY
+17
+Issussussssssuue 2 e 2 2
+ dipdipdipldipldipdipldipiplplpplpplomacomomacomacomaomomacomaoomaacacaaaa y iny inyy iny inyi n act actac actionionioion
+ UBUNUBUNUBUNB TUTUTUTU
+DIRDIRDDDIRDIRCDIRCDIRCRCDIRCRCDIRDDDDD COzaOzaOzazazazz
+www.www.www.wwww.wwwww dircdircdddddircdircdirdircdididircdircdircdircdircdircdircdircdircidircdiid o.goo.goo.goo.goo.goo.goo.goo.goo.go go.goo.go.g.g.gggggg v.zav.zav.zav.zav.zav.zav.zavv.zazavv.zaaa
+ @the@the@the@the@the@the@the@the@the@the@th@the@thetheh@thethehe@ DIRCDIRCDIRCDIRCDIRCDIRCDIRCIRCDIRCDIRCDIRCDIRCIRCDIRCRCDIRCRIRRRR OzaOzaOzaOzOOzaOzaOzaOzaOzaOzazaOzaOzaaO
+ thedthedthedthedthedttt eededdircoircoircorcoircoircirrrcr za za zz
+16 UBUNTU diplomacy in action Issue 2
+DIPDIPLOMLOMACYACY
+OOR TOR TOR TOR TR TTTOR TOR TOOOR TTOOR TOR TOR TOOR TOO AMBAMBAMBAMBAMBOAMBOAMBOAMBOAMBOAMBAMBBAMBAAAM  BUI B LDLDDINDINLLLLD G: AAAAAAAAAAAA LLLLANLL NDMARRRRDM RRRRRRK IN PRETORIA
+
+18 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 19Issue 2 diplomacy in action UBUNTU  thedircoza
+Recent assertions by some, including an
+article published by the United Kingdom
+magazine, The Economist (Sad South
+Africa – Cry the Beloved Country) cannot go
+unchallenged as they are so misleading.
+It is grossly incorrect to suggest that
+South Africa is on a downhill slide.
+The country may have received a
+downgrade from two rating agencies, but so
+have many other countries, even in Europe
+and elsewhere. It is the sign of the times. The
+world is going through a period of serious
+economic upheaval.
+South Africa was privileged to have
+an icon like President Nelson Mandela as
+its ﬁ rst democratically elected President.
+However, this does not make the country
+immune from economic, social or political
+challenges at certain periods, more so given
+the legacy arising from colonial oppression
+and apartheid.
+Despite the challenges, South Africa is
+getting many things right.
+On the economic front, the economy
+possesses the necessary dynamism to
+position the country as a competitive player
+in a difﬁ cult global economic environment. A
+strong vote of conﬁ dence in South Africa was
+given recently by the international business
+community with the country’s recent inclusion
+in Citigroup’s World Government Bond Index
+(WGBI). South Africa has attracted strong
+ﬂ ows of foreign investment into its bonds
+as investors have switched to emerging
+markets. South Africa will be the ﬁ rst African
+country and the fourth emerging market to
+be included in the index.
+The promotion is also signi ﬁ cant
+because it can potentially bring down
+the cost of borrowing for the country. An
+estimated $2 trillion worth of funds track
+the WGBI. South Africa has met with all the
+required criteria for entry into the WBGI for
+the third month running and, as a result,
+has been allowed into the prestigious WGBI
+Champions League of Countries.
+Our success is also visible when
+benchmarking the country against other
+these are critical areas that can encourage
+inward investment.
+Recently, we welcomed the good news
+that tourist arrivals to South Africa had
+increased by an impressive 10,5% during
+the ﬁ rst six months of 2012, which is double
+the global tourism growth rate of 5%. This
+means our country continues to be a popular
+destination to many around the world.
+At a social transformation level, in the
+past 18 years of freedom, government
+policies have extended basic services such
+as water, electricity, sanitation, housing and
+social security to millions of people for the
+ﬁ rst time in their lives.
+Dramatic achievements have been
+scored in the ﬁ ght against HIV and AIDS.
+We have moved from very dif ﬁ cult times
+indeed on HIV and AIDS to a success story
+in a short space of time due to progressive
+leadership by government, assisted by civil
+society, on the matter.
+We now have 1,7 million South Africans
+on antiretroviral treatment (ART), which has
+improved life expectancy. We have about
+2 948 public health facilities now initiating
+patients on ART, compared to 495 in January
+2010. One of our greatest success stories is
+the remarkable 50% reduction in mother-to-
+child transmission of HIV from about 8% in
+2008 to 3,5% in 2011.
+Remarkably, 20 million people have
+to date been tested for HIV through the
+HIV Counselling and Testing Campaign,
+launched publicly by President Jacob Zuma
+in 2010. This indicates that the stigma
+around the pandemic is being eradicated,
+which will assist prevention efforts. The rate
+of new infections has decreased from 1,4%
+to 0,8% in the 15 to 24 age group and looks
+set to decline further over the coming years.
+Life expectancy is dramatically improving in
+South Africa due to these important policy
+interventions and sound leadership.
+At economic level, our New Growth Path
+framework focusses us on a growth and
+employment-creating path. Our intention is
+to boost job creation in six pillars – tourism,
+infrastructure, mining, manufacturing,
+agriculture and the green economy. Out
+of the six, we have this year singled out
+infrastructure development for an intensive
+focus, led by the President through the
+Presidential Infrastructure Coordinating
+Commission.
+Building on the 2010 FIFA World
+Cup™ infrastructure-build success, we
+have unveiled a 20-year infrastructure
+development programme that will cost
+around R4 trillion over the next 15 years. We
+will spend around R844 billion over the next
+three years. We are truly a country at work
+for a better life.
+We are building and improving rail,
+roads, ports, energy and broadband around
+the country. South Africa’s manufacturing,
+automotive, information and communications
+technology, petrochemical and service
+sectors remain sophisticated and globally
+competitive and ready to attract local and
+foreign investors.
+We are also planning ahead, towards
+the next 30 years. Our long-term planning
+blueprint, the National Development Plan,
+outlines our vision of dealing with inequalities,
+social injustice and the developmental
+challenges facing our society, leading
+towards a prosperous society.
+At political level, we have consolidated
+democracy and have strong institutions
+formed in line with the country’s progressive
+Constitution.
+We have noted the tendency of late to
+exaggerate the debates and contestation
+within the ruling party, the African National
+Congress (ANC) as being a symptom of
+instability. ANC conferences are no more
+controversial than political dynamics in many
+other countries.
+The robust debates, though
+uncomfortable at times, result in policies that
+are agreed to by the majority, which ensures
+stability and cohesion. The democratic
+exercise should be seen as a strength rather
+than a weakness for the country.
+The violent wildcat strikes that we have
+experienced are a worrying factor as they
+should be in any economy, and the situation
+is being attended to collectively.
+The strikes should not be exaggerated
+to conclude that South Africans’ economic
+fortunes will decline majorly against its African
+counterparts. Any such reckless conclusion
+would not have taken into account the strides
+that have been made in anchoring economic
+growth that have weathered the storms that
+even the developed countries of the North
+could not survive.
+While the banking system of the North
+had to be subsidised by the governments,
+South Africa’s banking sector demonstrated
+absolute resilience and managed to shield
+the economy from the economic meltdown
+that continues to affect many developed
+economies.
+Another of South Africa’s strengths is the
+ability of its people to come together when
+there is a problem and search for a solution.
+In response to the economic meltdown and
+the wildcat strikes, President Zuma convened
+the High-Level Dialogue on the Economy,
+bringing together government, business,
+labour and community sectors. A similar
+initiative during the 2009 recession worked
+tremendously to cushion the economy and
+protect jobs.
+The outcome of the dialogue was an
+economic package designed to stabilise the
+labour environment, improve living conditions
+of mining communities and further promote
+job creation.
+More importantly, South Africa is
+privileged to be part of Africa, which is rapidly
+becoming the continent with the fastest-
+expanding economic regions in the world.
+This steady upward growth path is
+expected to gain momentum and resemble
+the long-run growth curves that were
+experienced in East Asia over the past 20
+years.
+South Africa is moving forward towards
+prosperity, under the very able leadership of
+President Zuma and his Cabinet, working in
+equal partnership with the other arms of the
+State – the legislature and the judiciary. They
+are supported by various partners in society:
+labour, business, faith-based organisations
+and many others that want to see South
+Africa succeed.
+We will face hiccups here and there and
+now and then because of existing inequalities
+and poverty and the economic climate
+globally, but we remain ﬁ rmly focussed on
+building a united, non-racial, non-sexist
+democratic and prosperous South Africa.
+One more indication of a country on the
+move … On 8 November 2012, South Africa
+was overwhelmingly elected by the members
+of the United Nations (UN) General Assembly
+to the 47-member Economic and Social
+Council (ECOSOC) of the UN. ECOSOC
+is one of the principal organs of the UN
+alongside the Security Council (UNSC) and
+General Assembly. The organ has a charter
+mandate to drive the Development Agenda
+of the UN. It is signi ﬁ cant that South Africa
+will be a member of this critical organ of the
+UN at the time that the target date for the
+achievement of the millennium development
+goals  is fast approaching, 2015.
+The Department of International
+Relations and Cooperation will be the
+coordinating and focal point on South Africa’s
+engagement and participation in ECOSOC.
+It is historic that as South Africa ends its
+non-permanent membership of the UNSC, it
+moves directly to serve in another principal
+organ of the UN. It is con ﬁ rmation of South
+Africa’s belief that that there is a nexus
+between security and development. South
+Africa will utilise its experience in peace and
+security matters gained in the past two years
+to pursue a global development agenda
+with a view to contribute to the reduction of
+insecurity in Africa and in the world. South
+Africa will utilise its membership to promote
+the African Agenda.
+South Africa
+is getting
+many things
+right
+emerging market economies such as the
+Brazil, Russia, India and China (BRIC)
+and Next 11 countries (Mexico, Nigeria,
+Egypt, Turkey, Iran, Pakistan, Bangladesh,
+Indonesia, Vietnam, South Korea and the
+Philippines).
+In the recently issued World Economic
+Forum’s Report on Global Competitiveness
+that benchmarks the performance of 144
+nations, including South Africa, the country
+performed particularly well against the
+report’s ﬁ nancial pillars. With regard to
+ﬁ nancial market development, South Africa
+ranks ﬁ rst among the BRICS nations, and
+third overall in the world.
+Other key areas where South Africa
+performed well in comparison to its fellow
+BRICS nation members were with the Legal
+Rights Index, the Regulation of Securities
+Exchanges, the Ef ﬁ cacy of Corporate
+Boards and the Strength of Auditing and
+Reporting Standards, where South Africa
+was placed ﬁ rst against each pillar. Again,
+Diplomacy
+Diplomacy
+SOUTH AFRICA IS GETTING MANY THINGS RIGHTSOUTH AFRICA IS GETTING MANY THINGS RIGHT
+ DIPLOMACYDIPLOMACY
+“Another of
+South Africa’s
+strengths is
+the ability of
+its people to
+come together
+when there is
+a problem and
+search for a
+solution.”
+By Clayson Monyela
+Deputy Director-General:
+Public Diplomacy
+Department of International Relations
+and Cooperation
+
+A vision for South Africa’s foreign policy
+– Now and beyond
+By Maite Nkoana-Mashabane
+Minister of International Relations and Cooperation
+20 21UBUNTU diplomacy in action Issue 2  Issue 2 diplomacy in action UBUNTU  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY –  NOW AND BEYOND
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY –  NO  NOW ANW AND BED BEYONDYOND
+ DIPLOMACY
+DIPLOMACY
+
+22 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 23Issue 2 diplomacy in action UBUNTU  thedircoza
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY –  NOW AND BEYONDA VISION FOR SOUTH AFRICA’S FOREIGN POLICY –  NOW AND BEYOND DIPLOMACYDIPLOMACY
+Diplomacy
+Diplomacy
+W
+riting in January 2011
+in a paper entitled
+“Conceptualising
+Multilateralism: Can We
+All Just Get Along?”,
+international relations specialists, Caroline
+Bouchard and John Peterson, argued that “In
+IR … theory tends to follow practice”.  I am
+not sure how accurate is this generalisation.
+Its value, however, is in encouraging
+constant dialogue between international
+relations experts and practitioners. It is when
+the two are in conversation that the ﬁ eld of
+international relations can grow and ﬂ ourish
+South Africa’s foreign policy is based
+on, and its conduct in international relations
+is informed by, the fundamental values and
+principles enshrined in the Constitution,
+notably human dignity, the achievement of
+equity, the advancement of human rights
+and freedom, non-racialism, non-sexism,
+democracy and a respect for the rule of
+law.
+In June 1994, the newly elected
+President of the Republic of South Africa,
+Mr Nelson Mandela, made a statement at
+the Organisation of African Unity (OAU)
+Meeting of Heads of State and Government
+in Tunis in which he recalled the decision by
+the Romans to destroy the city of Carthage
+in ancient times and likened the destruction
+of Carthage to the eventual destruction of
+the African continent as its children were
+carted away as slaves, its lands became
+the property of other nations, its resources
+a source of enrichment for other peoples,
+and its kings and queens mere servants
+of foreign powers. Africa continued to be
+marginalised and underdeveloped.
+
+African solidarity
+Fortunately, this was not the end of the
+story. Africa began to shake off its shackles.
+Leaders emerged all over the continent
+who rekindled the hope for peace, growth
+and rejuvenation. In the words of former
+President Mandela:
+
+“When the history of our struggle is written,
+it will tell a glorious tale of African solidarity,
+of Africa’s adherence to principle. It will tell
+a moving story of the sacri ﬁ ces that the
+peoples of our continent made, to ensure
+that intolerable insult to human dignity, the
+apartheid crime against humanity, became a
+thing of the past.”
+
+As envisaged by Madiba in 1994, Africa is in
+the process of being reborn.
+Our destiny as a nation is linked
+intrinsically with the destiny of the continent;
+and our foreign policy actions are informed
+by the interests of our continent.
+Government continues to attach great
+importance not only to the fundamental
+principles deﬁ ning its foreign policy, but also
+to dialogue with the experts.
+ Foreign policy matters! Current global
+conditions are such that the foreign policies
+of many countries are focused on resilience.
+It is common cause that the global ﬁ nancial
+crisis – perhaps a crisis of capitalism – has
+eroded the economic independence of
+many nations, and that the global giants
+themselves are negatively affected. This
+leaves the middle-income countries,
+including those who depend on the G8 for its
+trade and economic relations, in dire straits.
+South Africa potentially faces as much threat
+as any other nation. Under such volatile
+and potentially destabilising conditions, it is
+tempting for nations to become conservative
+in outlook, and put energy into foreign policy
+projects that show little risk. This is something
+that ought to be avoided if the international
+community is to confront problems facing the
+world.
+
+The impact of international
+issues
+The big issues are difﬁ cult and unpredictable
+ones. Unfortunately, in the period ahead, some
+of these issues will impact on the conduct of
+foreign policy of many nations. Some of these
+issues are the November presidential elections
+in the United States of America, and the
+foreign policy posture that the newly elected
+President will take. President Barack Obama
+released in June 2012 his Africa policy, which
+resonates with some of the South African
+Government’s priorities.
+The unfolding Eurozone crisis and
+its impact on global trade and the ﬂ ow
+of development assistance and foreign
+development investment is another factor
+that will impact not only on the role of the
+European Union (EU) as an actor in the
+global space; but also individual EU countries
+and countries that are vulnerable to changes
+in the global economy.
+ The critical area of the Middle East,
+with a particular focus on Iran, the Israel-
+Palestinian conﬂ ict and the Syrian situation,
+is set to continue to dominate global news
+and the focus of multilateral entities such
+as the United Nations Security Council
+(UNSC).
+ In the medium to long term, the world
+order that is emerging will be a product of
+how the global powers of the South will
+assert their new-found role and how this will
+balance with traditional powers. Energy and
+food security will continue to in ﬂ uence the
+On the one hand, it is the second-fastest
+growing region in the world economically;
+rich in mineral resources, with a population
+that is continuing to grow.
+I cannot agree more with the Zambian
+economist, Ms Dambisa Moyo as quoted by
+Jocelyn Newmarch in her article in the
+City
+Press of 2 September 2012, appropriately
+entitled: “Global Slowdown: Africa’s Chance
+To Stand Up and Shine”, that “The current
+state of the global economy is bad for the
+rest of the world, but good for Africa – 64%
+of Africa’s population is under the age of 24.
+The continent’s population is expected to
+hit two billion in the next 40 years. 60% of
+economic growth is accounted for and some
+African states have higher productivity than
+developed nations. Sub-Saharan Africa’s
+economy is expected to grow by 5,4% this
+year and by 5,3% next year.”
+ On the other hand, however, Africa is
+politically and economically marginalised
+in the world. With three years remaining to
+the deadline of the millennium development
+goals (MDGs), all predictions suggest that
+Africa will not meet the set targets.
+ As for South Africa: The Centre for
+European Strategy published an article in
+its January 2012  Bulletin , authored by one
+Adam Balcer with the title “The Golden
+Age of Middle Powers?”. The author put
+South Africa in a category of middle powers
+he termed “soft power players”, which he
+characterised as:
+
+substance and direction of the foreign policy
+of many countries.  Sustainable development
+will feature prominently in the approach of
+countries to how they can meet their present
+development needs without compromising
+the ability of future generations to meet
+their own needs. Humanity will be more and
+more concerned about the threat of climate
+change and the damage to Planet Earth’s
+biodiversity. Globalisation will intensify,
+driven by technology, shrinking the world
+into one single geographic space; impacting
+on the behaviour of nations in international
+affairs as well as the system and institutions
+of global governance.
+
+A continent of mixed fortunes
+In the midst of all this is the continent, Africa,
+with South Africa at its southern tip. Indeed,
+Africa is a continent of mixed fortunes.
+“South Africa’s
+foreign policy
+is based on,
+and its conduct
+in international
+relations is
+informed by, the
+fundamental
+values and
+principles
+enshrined in the
+Constitution.”
+The African Union headquarters in Addis Ababa, EthiopiaThe African Union headquarters in Addis Ababa, Ethiopia
+
+24 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 25Issue 2 diplomacy in action UBUNTU  thedircoza
+Diplomacy
+Diplomacy
+Union Peace and Security Council (AUPSC);
+and the SADC Organ on Politics, Defence
+and Security.
+The election of Dr Nkosaza Dlamini
+Zuma to the Chairpersonship of the AU
+Commission is one example of the country’s
+readiness and commitment to playing its
+part in strengthening continental, regional
+organisations. We will give her all the
+necessary support, knowing very well that
+she is now an international civil servant in
+the employ of 54 nations that are members
+of the AU.
+The importance South Africa attaches
+to the development of the continent was
+demonstrated when President Jacob
+Zuma, with the support of his colleagues,
+took the initiative to escalate our collective
+focus on infrastructure to the level of
+“Free market economies, which despite
+some shortcomings, are associated with the
+West, but provide independent foreign policy
+based ﬁ rst of all on soft power. Their political
+and economic stability is on a comparatively
+high-level. They have been democratised
+over the last couple of decades but with ups
+and downs.”
+The author described South Africa as
+follows:
+“The Republic of South Africa has the biggest
+economy in Sub-Saharan Africa, high
+national income for African standards, and
+considerable deposits of raw materials.”
+Indeed, South Africa’s total mineral wealth
+is among the world’s most valuable, with
+an estimated value of R20,3 trillion (or
+$2,5 trillion). According to some estimates,
+the country has the world’s ﬁ fth-largest
+mining sector in terms of gross domestic
+product value.
+ At the same time, the legacy of apartheid
+is still with us, visible as it is in the ownership
+patterns of the wealth of our country; and the
+triple challenge of inequality, unemployment,
+and poverty, among other things.
+ This is the context within which South
+Africa’s foreign policy is framed – we are
+part of Africa with its mixed fortunes; and
+a country that not long ago was subjected
+to the apartheid system and treated as an
+outcast by the international community.
+Africa: the centre of South
+Africa’s foreign policy
+Since 1994, South Africa has had to ﬁ nd
+itself and assert and defend its interests
+in the changing global context and shifting
+international balance of forces. The current
+Administration continued on this path when
+it assumed of ﬁ ce in 2009. Three years
+on, we can look back and appreciate the
+dexterity with which we maneuvered through
+challenges to reach the point where we are
+today. Four areas are worth mentioning.
+ First, is how Africa continues to
+serve as a centre and light of our foreign
+policy, beginning with our Southern
+African Development Community (SADC)
+neighbourhood. Particularly, our focus
+on Africa has been on mediation, peace-
+building and post-conﬂ ict reconstruction and
+development; active participation in ﬁ nding
+solutions to developmental challenges facing
+our continent; and supporting the drive
+towards the consolidation of democracy in
+Africa.
+ South Africa’s efforts in the peace and
+security area were undertaken in the context
+of its membership of the UNSC; the African
+heads of state and government. The
+North-South Corridor that South Africa
+champions through this initiative will
+connect the three regions of SADC, East
+Africa and Central Africa.  Other heads of
+state and government who are members of
+the committee that President Zuma chairs
+are championing infrastructure projects of
+comparable impact.
+
+Diplomatic energy
+The second area that I wish to highlight is
+the diplomatic energy South Africa invested
+in strengthening its bilateral relations,
+especially with countries that play a critical
+role in the international system. While
+relations with traditional partners of the
+North have continued to grow even to a
+strategic level, those with countries of the
+South have expanded both horizontally
+and vertically, and an example of the latter
+being the country’s admission into the Brazil,
+Russia, India, China, South Africa (BRICS).
+These relations are of equal partnership, and
+will remain so towards the future.
+President Zuma will host, for the ﬁ rst
+time on African soil, the last summit of the
+ﬁ rst cycle of BRICS summits (2009 to 2013)
+in March 2013 in Durban. The BRICS leaders
+will consider the grouping’s achievements
+thus far as well as the future path and work
+programme for this formation over its next
+cycle of summits (2014 to 2018).
+ The critical golden thread in terms
+of the BRICS grouping’s deliberations is
+its fundamental respect for upholding the
+almost universally endorsed principle of
+multilateralism.
+
+A responsible member of the
+international community
+Thirdly, is the multilateral system where
+South Africa continues to play its part as a
+responsible member of the international
+community. In January, the UN Secretary
+General Ban Ki-moon outlined his ﬁ ve-year
+vision for the world body in the areas of
+sustainable development; preventing and
+mitigating con ﬂ icts, human rights abuses
+and the impacts of natural disasters; building
+a safer and more secure world; supporting
+countries in transition; and working to engage
+the talents of women and young people.
+South Africa is active in each of these areas.
+ Finally, is the balance we have managed
+– and continue to do so – between domestic
+priorities and foreign policy objectives; taking
+the country’s people along in what we do
+beyond our borders. We act in a manner
+that deﬁ nes South Africa’s national interests
+multi-dimensionally and inclusively. Our
+national interests are about our domestic
+priorities and security concerns; our values
+and principles at the heart of which is
+Ubuntu; our Pan-African obligations and
+responsibilities that have roots in the long
+history of struggle against colonialism; and
+what is expected of us as a global citizen.
+
+A global system moving
+towards multi-plurality
+The past is easier to handle because it is
+done and behind us; while the future stands
+as a mountain in front of us waiting for men
+and women of steel to climb it.
+ This future will emerge from this global
+system, which is undergoing reconﬁ guration
+towards multi-plurarity. In this emerging
+world, the South will no longer be an
+opposition force in the international system
+organised in the fold of the G77 and the Non-
+Aligned Movement, for example.
+The question is where Africa will be
+and how it will be affected in this emerging
+global balance of forces. Currently, Africa is
+perceived as a huge market for manufactured
+goods, and this perception will not change
+in the near future. Africa sits on massive oil
+and mineral resource deposits that are so
+critical to the development and survival of
+countries.
+In their report, “Africa’s Natural
+Resources in a Global Context”, Raf Custers
+and Ken Matthysen observed that:
+
+“While, on the one hand, it is widely
+acknowledged that Africa has great natural
+resource potential, on the other hand, one
+cannot but regret that the complex interplay
+between political and economic factors at the
+national and international level appears to
+make it impossible to use a more substantial
+part of the revenues from the exploitation and
+trade of these resources for the promotion
+of the well-being of people at the grassroots
+level”.
+
+This is the phenomenon of the so-called
+“resource curse”. The eminent economist,
+Joseph Stiglitz, tried to diagnose this
+phenomenon in his article aptly entitled
+“From Resource Curse to Blessing”.
+The reality behind the resource curse
+is the fact that the interests around Africa’s
+natural resources are externally determined;
+the exploitation of these resources is export-
+oriented, without any bene ﬁ ciation in their
+country of origin; and that these resources
+are not a factor in promoting local economic
+development.
+One good starting point for Africa’s
+economic take-off in this century is to turn
+the resource curse into a resource blessing.
+The AU has an important role to play
+in determining and shaping Africa’s future.
+The AU emerged out of decades of regional
+integration dating back to the Lagos Plan
+of Action of 1980, through the Abuja Treaty
+of 1991, to the Sirte Declaration of 1999. In
+the 10 years of its existence out of the OAU,
+the AU has positioned itself as a continental
+and global player. It is present in mediation
+and other peace and security efforts on the
+continent in pursuit of African solution to
+African problems. With the New Partnership
+for Africa’s Development (NEPAD) and the
+African Peer Review Mechanism (APRM),
+the AU has demonstrated its determination
+to confront Africa’s development and
+democratisation challenges. Its policy
+of rejecting unconstitutional change of
+government is a step away from the practice
+of non-interference of yester years.
+However, moving into the future, a
+mountain of challenges is still before us.
+The AU was formed on an integration model
+based on the principle of self-reliance,
+popular participation and regional economic
+communities (RECs) as building blocks. We
+are still a distance away from our objective of
+self-reliance. Our dependency is undesirable.
+For example, the AU and RECs like SADC
+rely on the so-called “cooperating partners”
+for their programmes. This is unsustainable
+if we want a truly independent Africa.
+
+The importance of African
+multilateral partnerships
+An important element and tool contributing
+to Africa’s achievement of its integrated
+development goals is the various African
+multilateral partnerships. Currently, Africa
+has active strategic partnerships with 10
+partners, including the Arab World, the EU,
+“While relations with
+traditional partners of the
+North have continued to
+grow even to a strategic
+level, those with countries
+of the South have
+expanded both horizontally
+and vertically.”
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY – NOW AND BEYONDA VISION FOR SOUTH AFRICA’S FOREIGN POLICY – NOW AND BEYOND
+ DIPLOMACYDIPLOMACY
+Minister Nkoana-Mashabane addressing the media at the AU SummitMinister Nkoana-Mashabane addressing the media at the AU Summit
+
+26 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 27Issue 2 diplomacy in action UBUNTU  thedircoza
+DIPLOMACY
+Diplomacy
+South America, Asia (New Asian-African
+Strategic Partnership), India, China (Forum
+on China-Africa Cooperation [FOCAC]),
+South Korea, Japan (Tokyo International
+Conference on African Development, Turkey
+and the United States of America (African
+Growth and Opportunity Act).
+ South Africa is currently Co-Chair of
+FOCAC, and will host its next ministerial
+meeting in 2015.
+ To ensure that these partnerships
+contribute effectively to Africa’s development,
+it is important, among other things, that the
+relationship should be that of true and equal
+partnerships of mutual trust and bene ﬁ t;
+not that of donor and recipient. Africa must
+face partners as a united continent. The
+approach to partnership should be one of
+co-development that is human-centred.
+A stable political environment
+The ultimate goal of African development and
+the prosperity of its people are premised on
+a stable political environment. Therefore, the
+challenge relating to peace and security on
+the continent remains of paramount concern.
+The AU has put in place its Peace and
+Security Architecture (APSA) in an attempt to
+address this vital challenge that has crippled
+the continent since its independence.
+ However, the APSA has yet to be
+completely operationalised. Among the
+shortfalls is the lack of an adequate early
+warning capacity to identify emerging
+threats. Although the AU has established
+mechanisms that constitute an early warning
+system, the challenge of the necessary
+analytical capacity within this unit remains of
+concern.
+Equally important is the AU’s capacity in
+security sector reform in both the pre- and
+post-conﬂ ict contexts as well as the need for
+effective disarmament, demobilisation and
+reintegration of armed combatants.
+To resolve situations of conﬂ ict, Africa has
+to gain the support of the broader international
+community in the context of the relationship
+between the UNSC and the AUPSC. The
+views of the two bodies are not always on
+the same wavelength on a con ﬂ ict situation.
+South Africa, through its participation in
+both the UNSC and the AUPSC, has made
+every effort to bring these two organisations
+into a mutually bene ﬁ cial and reinforcing
+relationship based on the importance of
+comparative advantage and cooperation. It
+is our hope that UNSC Resolution 2033 that
+we championed during our Presidency of the
+UNSC in January will go a long way towards
+enhancing the relationship between the two
+security organs.
+Organisational capability
+Two other challenges that we have to deal
+with at the level of the AU if we are to build
+on the achievements of the last 10 years,
+is to enhance the organisational capability
+of the continental body, especially the AU
+Commission, and operationalise in full the
+governance and development architecture
+of the union, at the centre of which is the
+APRM and NEPAD, respectively.
+The organisational problems facing the
+AU affect its effectiveness in other areas.
+The AU Commission is not a toothless
+transmission belt of decisions of the policy
+organs of the union; it is the engine room.
+Without an organisationally competent
+commission, our summits will fall apart;
+“The ultimate goal of African
+development and the prosperity
+of its people are premised on
+a stable political environment.
+Therefore, the challenge
+relating to peace and security
+on the continent remains of
+paramount concern.”
+decisions will remain unimplemented; there
+will be no AU response to conﬂ ict situations;
+and NEPAD and the APRM will die a slow
+death. Fortunately, this is not the case.
+We must therefore address weaknesses
+of the commission and other organs of
+the AU, taking as our point of departure
+the recommendations of the High-Level
+Panel on the Audit of the AU, which was
+commissioned by the heads of state and
+government in 2007.
+The Governance Architecture, informed
+by the Charter on Democracy, Elections
+and Governance, has come a long way;
+and today a signi ﬁ cant number of African
+countries voluntarily subject themselves
+to the process of peer review within the
+auspices of the APRM. However, the number
+of countries acceding to the APRM needs to
+continue to grow; and the Charter should be
+domesticated by all of us.
+The development architecture will
+be meaningless if it does not realise the
+collective dream in the areas of infrastructure
+and industrial development.
+The two AU summits in January and July
+2012 may have been overshadowed by the
+election of the Chairperson of the commission,
+but they did not fail us in taking the union
+a step further in addressing the challenges
+of the continent. Items that dominated the
+discussions and decisions at these two
+summits focused on promoting intra-Africa
+trade, infrastructure development, self-
+reliance, ﬁ nding African solutions to African
+problems, and the need to rede ﬁ ne Africa’s
+relations with foreign powers. These issues
+will without doubt deﬁ ne Africa and the AU of
+the next decade.
+Building blocks towards
+continental unity
+Are the RECs succeeding as building
+blocks towards continental unity and deep
+integration? The answer to this question is a
+big YES! SADC is one example.
+However, the success of SADC into the
+future will be shaped by how we ﬁ nalise the
+vision and deﬁ ne milestones of the regional
+body; how we succeed in implementing
+the regional development package, around
+which is the SADC Infrastructure Master
+Plan; and how far we are prepared to go in
+taking SADC to every citizen of our region.
+Following the recent 32nd Ordinary
+Summit of Heads of State and Government
+in Maputo, Mozambique, several pertinent
+issues were discussed and challenges
+identiﬁ ed, most of which around the SADC
+integration vision and milestone. At the core
+of this is the mid-term review of the Regional
+Indicative Strategic Development Plan
+(RISDP); debates around the SADC Vision:
+2050; the work of the Ministerial Task Force
+on Regional Integration; and the Common
+Market for Eastern and Southern Africa, East
+African Community and SADC Tripartite
+Free Trade Area.
+The mid-term review of the RISDP
+process is due to commence soon and
+will include a consultant engaging with
+member states on their application of RISDP
+objectives with national development plans.
+This review presents the ideal opportunity
+for member states to thoroughly examine
+and re-de ﬁ ne regional priorities and create
+positive impact in re-crafting our common
+vision for the future of SADC.
+The SADC Vision: 2050 concept emanated
+following informal discussions among the
+presidents of Angola, Mozambique and
+South Africa on the broad direction of
+SADC. During the recent SADC Summit,
+there was broad agreement on the need
+for a concept like Vision 2050, but member
+states stressed the need to harmonise
+existing work in the review of the RISDP and
+the work of the Ministerial Task Force on
+Regional Integration. This would provide an
+opportunity to create a broader vision, which
+would include participation at all levels and
+from all sectors of society. In consolidating
+Vision 2050, SADC needs to have a clear and
+focussed industrial development programme,
+infrastructure development, and address the
+outstanding issues in the consolidation of the
+regional economic integration.
+
+Reconﬁ guration of the global
+system
+A critical challenge facing the multilateral
+system, and the UN in particular, is its non-
+responsiveness to the reconﬁ guration in the
+global system.
+The UNSC is the only organ of the
+UN with a charter mandate to maintain
+international peace and security. It is the only
+organ of the UN with powers to authorise
+the use of force against any countries in
+executing its charter mandate. However,
+the current conﬁ guration of the UNSC does
+not re ﬂ ect the geopolitical realities of the
+21st century. It still re ﬂ ects the geopolitics
+of 1945 after the end of the Second World
+War, in which the Allied powers emerged a
+dominant force. When the UN was formed,
+it only had 52 members and Africa and the
+majority of the countries from the South
+were under colonialism. The membership of
+the UN has quadrupled in the past 65 years
+of its existence to 192. More than 60% of UN
+membership is made of countries from the
+global South and Africa constitutes about
+30% of the whole UN membership.
+The UNSC has only once undergone
+a partial reform in 1963 to increase the
+number of non-permanent members to 10,
+leaving the permanent category intact. The
+anachronistic con ﬁ guration of the UNSC is
+not sustainable in today’s world, where 60%
+to 70% of its agenda is on African issues.
+The UNSC is facing serious credibility and
+legitimacy questions due to its composition,
+in particular in the permanent category. The
+composition of the permanent category of the
+UNSC was based on the 1945 winner takes
+all approach and perceived superpowers
+of the time. The UN is supposed to be a
+beacon of democracy and transparency
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY – NOW AND BEYONDDIPLOMACY
+President Jacob Zuma at the  SADC SummitPresident Jacob Zuma at the  SADC Summit
+The Department of
+International Relations
+and Cooperation
+OR Tambo Building
+460 Soutpansberg Road
+Rietondale
+Pretoria
+0084
+Private Bag X152
+PRETORIA
+0001
+Republic of South Africa
+Tel: +27 12 351 1000
+www.dirco.gov.za
+Follow Like Share
+A better South Africa A better South Africa
+A better Africa A better Africa
+A better worldA better world
+
+where all its members are treated as equals.
+The current composition of the UNSC is
+undemocratic, unrepresentative and not
+transparent.
+ It is for this reason that we call for
+the urgent reform of the UNSC in both the
+permanent and non-permanent categories
+to re ﬂ ect the contemporary global political
+realities.
+The past 10 years since the formation
+of the AU with its own peace and security
+architecture have proven how signi ﬁ cant it
+is to continue to be unwavering in our call
+for the urgent reform of the UNSC. The
+consequences of UNSC decisions are felt
+in Africa more than anywhere else. It is
+therefore important that Africans form part
+of making those decisions. The UNSC risks
+becoming irrelevant and its credibility eroded
+if it does not undergo urgent reform.
+Failure to reform the UN and the Bretton
+Woods Institutions (BWIs) will erode the faith
+that people have in the multilateral system.
+Some of the sceptics use the stalling
+talks at the World Trade Organisation, the
+emergence of mini-lateralist bodies such as
+the G20, or the continuing threat of nuclear
+proliferation in spite of the existence of the
+Non-Proliferation Treaty, as proof of the
+ineffectiveness of multilateralism to tackling
+global problems.
+South Africa holds a different view.
+The success of COP17/CMP7 in delivering
+the historic Durban Platform for Enhanced
+Action is one example of how nations of the
+world can pull their heads together through
+the multilateral system against common
+challenges.
+The G20 is not an alternative to the
+UN, but a reinforcement of our collective,
+multilateral effort to fast-track the reform of
+the global system, including the BWIs.
+
+ “There Shall be Peace and
+Friendship”
+The National Planning Commission (NPC)
+in The Presidency has released a revised
+version of the National Development Plan
+(NDP) with a whole chapter dedicated to
+South Africa’s foreign policy. The Department
+of International Relations and Cooperation is
+engaging with the NPC to strengthening that
+chapter.
+South Africa must come out of the
+current transition to a new global order better
+than today. The vision in the NDP report
+is helpful in this regard. Government will
+pursue its diversiﬁ ed foreign policy, standing
+on its location in Africa, the South, and the
+world; with bilateral relations it has built
+over the years, dating back to the struggle
+years; with a strategy based on the dialectic
+of cooperation and collaboration in the spirit
+of the Freedom Charter that “There Shall be
+Peace and Friendship”.
+ Our faith in multilateralism is unshaken.
+We do not share the view that multilateralism
+has failed; nor is multilateralism a “weapon
+of the weak” who cannot impose their will on
+others.
+ The future is that of a better South Africa
+in a better Africa and a better world.
+A VISION FOR SOUTH AFRICA’S FOREIGN POLICY – NOW AND BEYONDDIPLOMACY
+
+30 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 31Issue 2 diplomacy in action UBUNTU  thedircoza
+DIPLOMACYBRICS BANK AND THE GLOBAL SOUTHDIPLOMACY BRICS BANK AND THE GLOBAL SOUTH
+Diplomacy
+Diplomacy
+T
+he idea of a Brazil, Russia,
+India, China and South Africa
+(BRICS) Bank is now a huge
+bone of contention in South
+Africa (maybe, in other BRICS
+countries as well) between those who are
+skeptical of the BRICS’ ability to act as an
+underwriter of a South-led global economic
+development plan designed to help poor
+countries cope with, and overcome the effects
+of the current global economic crisis, and
+those who overestimate the forum’s ability
+to rewrite the history of global development
+by turning Western modernity – on which this
+history is based – on its head.
+The latter sees the BRICS as a potential
+counterpoise to the G8, which is seen as
+a bulwark for a West-dominated global
+economic hierarchy, while the former sees
+in it a great promise that will not materialise
+because of internal cleavages and an
+uncertain global agenda. These positions are
+replicated in response to the proposed BRICS
+Development Bank. While they recognise the
+aspiration on the part of the BRICS to take
+an initiative, they doubt if the ﬁ ve countries
+have sufﬁ cient cohesion in vision and political
+muscle to make this a truly global game-
+changer.
+There is room for a constructive response
+to this development which says, whatever the
+motives of the plan’s initiators, the BRICS
+Bank could become a catalyst for functional
+cooperation, and alternative development
+ﬁ nancing as well as new development
+knowledge production that is good for both
+the emerging and developed worlds.
+In New Delhi, the March 2012 BRICS
+Summit assessed the need for upgrading
+South-South cooperation from mere political
+solidarity and ordinary economic relations
+to a high level of catalysis in the area of
+development ﬁ nance in response to a
+changing global political economy. They
+considered strategies through which the
+BRICS could respond to de ﬁ ciencies in
+international development ﬁ nance in order
+to provide developing countries with access
+to new capital for stimulating their economic
+growth and development.
+For some time, the BRICS countries have
+decried the unpreparedness of international
+ﬁ nance institutions (IFIs) like the World Bank
+and the International Monetary Fund to
+respond to the needs of developing countries,
+especially during difﬁ cult times like the current
+global economic crisis. These challenges
+include the need for new and better funding
+towards infrastructure development, industrial
+production and beneﬁ ciation of raw materials,
+boosting economic competitiveness,
+human resource development, technology
+development or transfer and innovation, all of
+which are seen as critical drivers of economic
+development in the developing world.
+The BRICS are aware of the deleterious
+effect of the global economic meltdown on their
+own economies. Their economic performance
+has weakened since 2008/09 in spite of
+healthy government reserves, while the crisis
+has also worsened Africa’s structural defects.
+Developing countries are experiencing high
+food prices, fragile stock markets, a credit
+crunch, falling exports and other forms of
+contagion. These not only limit economic
+development, they may lead to grave social
+crises in some developing countries. These
+are challenges that the BRICS are duty-bound
+by their elevation to leaders of the South to
+respond effectively to. Smarter, stronger
+and deeper economic cooperation among
+countries of the South is one such response
+and the proposed bank is meant to become
+the institutional vehicle for this.
+The same factors are putting pressure
+on development catalysts of the South
+like the Asian Development Bank; African
+Development Bank; India, Brazil and South
+Africa (IBSA) Fund and so forth to give new
+meaning to South-South cooperation. They
+are being called upon to deepen international
+interdependence by strengthening
+independent sources of self-development in
+the South. With IFIs running low on capital
+reserves and focussed on dealing with the
+debt crisis in Europe, developing countries
+have had to look for alternative sources of
+development ﬁ nance.
+Clearly, the BRICS see opportunities
+to assume global leadership by acting as
+a responsible diplomatic club of the South
+through the establishment of an alternative
+and South-centric source of needed
+development ﬁ nance. As is the nature of
+development ﬁ nance institutions, the BRICS
+Bank may also become a source of fresh and
+subaltern thinking about global development
+and its drivers as well as about ways of
+buttressing the emergence of new economic
+powers through South-South cooperation.
+Therefore, the alarmist characterisation
+of this move as anti-West and politically
+motivated is driven by a misunderstanding
+of the fact that as they acquire more global
+signiﬁ cance, the BRICS are forced to
+assume greater responsibility for leading the
+South’s response to a global economic and
+development crisis. This includes a potential
+to delink, to some extent, from the dominant
+thinking and initiatives framed through the
+Washington consensus and thus reject the
+inevitability of the South’s dependence on
+the generosity of the North both in the supply
+of capital and ideas for development. Those
+who already reject this possibility because
+the BRICS have not declared their intentions
+to delink from the neoliberal thinking and the
+IFIs that perpetuate this have not realised that
+efforts to pluralise the development ﬁ nance
+environment weaken the dominance of IFIs
+anyway, thus achieving in subtle ways what
+they wish to see in more dramatic speeches
+and actions.
+What BRICS countries should consider
+seriously in the process of developing the
+Bank idea is how the Bank will ﬁ ll the vacuum
+left by the IFIs’ ﬁ xation with the European
+debt crisis by focusing on neglected sectors
+By Siphamandla Zondi
+Director of the Institute for Global Dialogue
+“BRICS BANK”
+AND THE
+GLOBAL SOUTH
+like cooperatives, small and medium
+enterprises, small-scale agriculture,
+informal traders and industrial production.
+It should think carefully about how it could,
+through strategic partnerships with existing
+development banks of the South, provide
+targeted and coordinated developmental
+stimuli, especially in least developed and
+African countries.
+The Bank should be designed and led to
+become a form of responsible developmental
+leadership on the part of the BRICS in
+strengthening economic development in the
+global South rather than a mere show of
+strength in the high politics of global reform.
+To this end, the BRICS Bank should
+harness opportunities for positively redeﬁ ning
+the very notion of international development
+and the relations between the periphery and
+centre in the power hierarchy that underpins
+global development today. It should also
+develop space for individual BRICS to promote
+developmental cooperation in their respective
+regional landscapes, namely: Africa, East
+Asia and the Paci ﬁ c, and the South Atlantic.
+Alignment with the IBSA Fund will need to be
+deﬁ ned very carefully.
+The Bank is an initiative pregnant with
+many positive possibilities, provided the
+initiators conceptualise it as a catalyst for
+South-led global development rather than a
+mere counterpoise to Western-dominated
+IFIs. It offers opportunities for South Africa to
+demonstrate the regional value of its BRICS
+membership and to buttress its regional power
+status by tying in Africa’s developmental
+needs to the BRICS’ agenda.
+“The Bank is an initiative pregnant with many positive
+possibilities, provided the initiators conceptualise it as a
+catalyst for South-led global development rather than a
+mere counterpoise to Western-dominated IFIs.”
+This article was ﬁ rst published on www.e-ir-info.
+Intra-BRICS trade expanded by •
+28% in 2011 to reach US$230 billion
+and is projected to increase to
+US$500 billion by 2015
+BRICS projected to account for 40% •
+of global gross domestic product
+(GDP) by 2032
+BRICS engines of growth: •
+2000 – 2008: BRICS contributed  -
+30% of global growth
+2008 – 2011: BRICS contributed  -
+60% of global growth
+BRICS’ share of global GDP  -
+increased threefold over the past
+15 years
+BRICS’ share of global output will  -
+increase from 18% (according to
+market exchange rates), to 25%
+to 26% over the next 10 years
+and even to one third by 2030
+In purchasing power parity terms,  -
+it is about 30% of the world’s
+GDP. By 2020, it will be about
+37% to 38% and going up to as
+much as 45% by about 2030.
+Did you know?
+
+32 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 33Issue 2 diplomacy in action UBUNTU  thedircoza
+
+34 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 35Issue 2 diplomacy in action UBUNTU  thedircoza
+DIPLOMACYSOUTH AFRICA, BRICS AND GLOBAL GOVERNANCE
+Diplomacy
+Diplomacy
+S
+outh Africa’s membership
+of Brazil, Russia, India,
+China (BRICS) is directly
+linked to the issue of
+global governance and the
+reform of the prevailing global governance
+architecture, notably in the economic and
+ﬁ nancial domains; the country’s foreign policy
+prioritisation of the African Agenda; and
+furthering its own domestic priority interests,
+notably through strengthened intra-BRICS
+economic relations.
+Historic context
+Signiﬁ cant historic milestones precede the
+formation of BRICS. The global landscape
+has undergone transformational changes
+since the end of the Second World War and
+subsequently the Cold War, as well as the
+post-September 11 international events.
+South Africa’s foreign policy has since
+the advent of the new and democratic South
+Africa in 1994, addressed the issue of global
+governance and solidarity. The country’s
+own unique history was testimony to the fact
+how the international community could join
+together to confront a common challenge,
+namely the apartheid dispensation. As
+a result, a new democratic country was
+born, which also provided the world with
+a successful example of how a political
+transformation process could result in a
+modern democratic and constitutional state.
+Former President Nelson Mandela
+stated, in regard to global governance, the
+following:
+“It is the ANC’s view that the United Nations
+has a pivotal role to play in fostering global
+security and order. But to achieve this, serious
+attention must be paid to a restructuring of
+the organisation. South Africa intends to play
+a vigorous role in the debate on this issue.
+The United Nations should not be dominated
+by a single power or group of powers, or else
+its legitimacy will continuously be called into
+question. We hope a mechanism can be
+found so that the Security Council can reﬂ ect
+the full tapestry of humankind.”
+The most in ﬂ uential political and economic
+structure post-Cold War other than that of the
+United Nations (UN) system was that of the
+Group of 8 (G8), which was established in
+1975, then as the G6, with Canada joining in
+1976 and the Russian Federation in 1997.
+Former President Thabo Mbeki engaged
+the G8 to establish a dialogue process
+with African leaders at the 2000 Summit in
+Okinawa, which subsequently developed
+into the G8-Africa Outreach process with its
+African Action Plan. The G8 subsequently
+supported the African leaders’ initiative to
+create a type of Marshall Plan for Africa,
+which became the New Partnership for
+Africa’s Development (NEPAD) at its 2002
+G8 Summit held in Canada.
+Referring back to the NEPAD in this
+context, shows a clear agenda that argues
+for global governance reforms in order for
+Africa to be repositioned in the global political,
+economic and ﬁ nancial system. There was
+also an attempt on the part of South Africa
+to organise a G8 of the South, but due to the
+events of 9/11 in 2001, the global context
+was not conducive to such initiatives. In
+2001, former President Mbeki wrote to eight
+leaders of the South and a meeting was
+planned for October 2001.
+The G8 developed another arrangement,
+namely the Group of 5 Outreach, established
+at Gleneagles, United Kingdom, in 2005 and
+continued until 2009, which was intended
+to establish dialogue with selected leading
+emerging markets, i.e. China, India, Mexico,
+Brazil and South Africa. The subsequent
+Heilligendamm/L’Aquila Process followed,
+which was however disbanded in the wake
+of geopolitical dynamics arising from the
+fact that the Group of 20 (G20) has been
+designated as the premier forum on ﬁ nancial
+and economic global governance.
+The ﬁ rst Asian ﬁ nancial crisis of 1997
+rejected the World Bank model and saw
+new regional arrangements such as the
+Chiang Mai, a multilateral currency swap
+arrangement among the 10 Association
+of South East Asian Nations (ASEAN)
+members, intended to manage regional
+short-term liquidity problems and facilitate
+the work of other international ﬁ nancial
+arrangements and organisations such as the
+International Monetary Fund (IMF) to stabilise
+the collapsing ﬁ nancial system in 1997.
+The second global ﬁ nancial crisis, which
+began in 2008 and which impact is globally
+still felt, now de ﬁ nitively illustrates that the
+global security and ﬁ nancial architectures
+of the post-Second World War era are at
+great variance with current global realities
+and in need of urgent reform to deal with the
+common challenges of humanity.
+Foreign policy-making in the
+21st century
+Foreign policy-making in the 21st century
+is a multidimensional endeavour as states
+use different avenues to pursue their various
+interests. There are issues that can best be
+addressed only through bilateral contacts
+and there are others that require plurilateral
+and multilateral forums – this is not
+contradictory. In academic circles, there are
+various descriptions of this new phenomenon
+in foreign policy such as club diplomacy and
+minilaterals, etc. The important fact is that
+South Africa’s participation in or membership
+of these fora, is intended to forge strategic
+and collaborative partnerships and coalitions.
+Government also diversiﬁ es its foreign policy
+approaches as required. These alliances
+again contribute and provide perhaps more
+By Ambassador Anil Sooklal
+Deputy Director-General:
+Asia & Middle East
+Department of International
+Relations and Cooperation
+SOUTH AFRICA, BRICS AND GLOBAL GOVERNANCE
+DIPDIPLOMLO ACY
+ SOUTH AFRICACCCCACAACACACCACACCAACCACACCCACCACCACCCCCCCCC , BR, BBBBBBBBBBBBBBBBBBBBB BB BBBBBB ICS AND GLOBAL GAL GOVEROVERNANCNANCEE
+34
+ UBUNUBUNUBUUBUNNNNUU TU TUTU TUTUTUTUUUU
+dipldipldipldipldipldipldipdipllpldiplpldiplplplpplpldipldiplppp omaooomacmacomacmomacomacomacmacomacomaccomaomacacomacomo cy iny iny iny iny inyi ny iny ininiy inyy iniinininny inininnninny inny iny inyyyy  a a aacacac a actctacac a acaaca ionionnnnnnnnnnnnnnnnnnnnnn
+ IIsIssuIssusssussussussuIssssuIss uuI ee 2e 2ee 2ee22e 2eee 222
+ DIRCDIRCDIRCDIRCDIRCDIRCDIRDIRCDIRCDIRCDDIRCDIRCDD OzaOzaOzaOzaOzaOzazaOzaaOzaOzazaOOza
+www.www.www.www.www.ww dircdircdircdircdircrcdircirco.goo.goo.goo.goog oo.goo.goo.goo.gogogogogo.go oo.goo.gooooov.zav.zav.zavz av.zav.zav.zav.zazvzv.zavv.zavv.zav
+ @the@t@t@the@the@thethe@the@the@the@the@thehe@the@thethe@the@the@@theh@thhthethehethe@tthe@ DIRDIRCDDIRDIRDIRCDIRDIRCDIRCDIRDIRCDIRCDIRCCDDIDDIRCDIRCDIRDDI OzaOzaOzaOzaOzazaOzaOzazaOzazOzaazazazaaOzaO aaaazzz
+
+36 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 37Issue 2 diplomacy in action UBUNTU  thedircoza
+Diplomacy
+Diplomacy
+DIPLOMACY SOUTH AFRICA, BRICS AND GLOBAL GOVERNANCE
+impetus to the core activities of the UN
+system to ensure a more equitable global
+system of governance. This impetus is not
+intended to create another system of newly
+privileged member states, but to ensure
+that the fundamental reforms that the
+international community undertake and can
+agree to, also address the developmental
+challenges of the contemporary and
+interdependent world in a more equitable
+and transparent manner.
+South Africa’s own foreign policy vision in
+this context is: “An African continent, which is
+prosperous, peaceful, democratic, non-racial,
+non-sexist and united, and which contributes
+to a world that is just and equitable”.
+This new type of diplomatic association
+arguably links emerging power bases from
+both a political and economic perspective,
+as is illustrated in the case of BRICS, which
+was at ﬁ rst introduced as “a Goldman Sachs”
+investment bracket and then evolved into
+a diplomatic initiative. The other grouping,
+the so-called CIVETS plus grouping, i.e.
+Colombia, Indonesia, Vietnam, Egypt, Turkey,
+South Africa, Kazakhstan and Azerbaijan,
+is now described as the South-South
+Development Cooperation Dialogue and
+also brings another important perspective
+to like-minded countries, strengthening their
+cooperation in relation to the development
+cooperation agenda of the South.
+Shared BRICS principles
+There are critical principles and values which
+South Africa always underscore and which
+is shared by our BRICS partners, notably
+the importance we attach to the centrality of
+the UN in global affairs and the principles of
+multilateralism and the Rule of Law (which
+includes International Law).
+The following are relevant extracts from
+the Third BRICS Summit and its Sanya
+Declaration in this regard:
+“We afﬁ rm that the BRICS and other emerging
+countries have played an important role in
+contributing to world peace, security and
+stability, boosting global economic growth,
+enhancing multilateralism and promoting
+greater democracy in international relations.”
+“We share the view that the world is undergoing
+far-reaching, complex and profound changes,
+marked by the strengthening of multipolarity,
+economic globalisation and increasing
+interdependence. While facing the evolving
+global environment and a multitude of global
+threats and challenges, the international
+community should join hands to strengthen
+cooperation for common development.
+Based on universally recognised norms of
+international law and in a spirit of mutual
+respect and collective decision-making,
+global economic governance should be
+strengthened, democracy in international
+relations should be promoted, and the voice
+of emerging and developing countries in
+international affairs should be enhanced.”
+“We express our strong commitment to
+multilateral diplomacy with the United Nations
+playing the central role in dealing with global
+challenges and threats. In this respect, we
+reafﬁ rm the need for a comprehensive reform
+of the UN, including its Security Council,with
+a view to making it more effective, ef ﬁ cient
+and representative, so that it can deal with
+today’s global challenges more successfully.
+China and Russia reiterate the importance
+they attach to the status of India, Brazil and
+South Africa in international affairs, and
+understand and support their aspiration to
+play a greater role in the UN.”
+South-South cooperation
+According to the Minister of International
+Relations and Cooperation, Ms Maite
+Nkoana-Mashabane, the country’s South-
+South cooperation focus is as follows:
+“We want to demystify the notion that we
+are being fashionable in pursuing relations
+with our partners of the South, by reminding
+South Africans that the seeds of South-South
+cooperation were laid at the 1955 Bandung
+Conference, when African and Asian nations
+cemented political and cultural ties. But of
+course, as the South African Government,
+we are also aware that history has marched
+on. The age of globalisation requires that we
+elevate these partnerships to a different level,
+building on the wells of goodwill and solidarity,
+and generate mutually bene ﬁ cial economic
+relations. We share similar perspectives about
+the reform of global governance, in particular
+the imperative for enhanced representation
+and a voice for developing countries in
+decision-making processes. Signiﬁ cantly, we
+share a common view that multilateralism and
+a rules-based global governance mechanism
+is the best guarantor of stability, and provides
+a better framework for asserting our values
+and interests. However, while deepening our
+relations with countries on our continent and
+emerging powers, South Africa will continue
+to strengthen the partnerships that we have
+with countries of the North.”
+The Minister has also previously explained
+that in terms of classical game theory, the
+new world order should not be viewed in
+the preceding order’s narrow view of zero-
+sum terms where one party has to lose out
+when another party wins, but rather that the
+new order will seek to maximise win-win
+scenarios based on our common recognition
+of our shared global challenges. South Africa
+pertinently took on the climate change agenda
+last year and Minister Nkoana-Mashabane in
+her capacity as President of COP17/CMP7 (the
+United Nations Climate Change Conference
+2011) sought to bridge the traditional political
+divides in this context in the shared interest of
+humanity to preserve its natural environment
+also for future generations.
+G20
+At the G20 Foreign Ministers’ meeting held
+earlier this year, Minister Nkoana-Mashabane
+focussed on several core issues, including:
+providing leadership for effectively and •
+coherently addressing cross-cutting
+global challenges (social, economic and
+environmental dimensions)
+the need for the multilateral system to •
+deliver and to deliver more effectively and
+in a coordinated manner.
+It was highlighted that a multilateral system
+was needed that delivers effective global
+public goods in key areas such as:
+climate change and the sustainable •
+management of the environment
+trade•
+development and the ﬁ ght against hunger •
+and poverty
+international peace and security•
+weapons of mass destruction•
+HIV/AIDS, malaria and other •
+communicable diseases
+human rights •
+global economic justice and fairness.•
+The Minister pertinently recognised the
+catalytic role that the G20 and other like-
+minded countries could play, through
+unprecedented levels of coordinated action, to
+show leadership in working together, based on
+the values and principles that underpinned the
+UN Charter, to address in a pragmatic manner
+the world’s many needs and challenges.
+In the context of South Africa being a
+multicultural and multiracial society, this is
+again derived from and linked to the core
+values of our foreign policy, notably that of the
+philosophical concept of Ubuntu to deﬁ ne who
+we are and how we relate to others. Ubuntu is
+the very essence of our being.
+We therefore place a premium on a
+people-centered foreign policy that strongly
+values cooperation over competition and
+collaboration over confrontation. South African
+foreign policy is informed and guided by Ubuntu
+and a commitment to the establishment of
+mutually beneﬁ cial international partnerships
+that also contribute to the achievement of
+the national development priorities of our
+continental and international partners. Our
+“We therefore
+place a premium
+on a people-
+centered foreign
+policy  that
+strongly values
+cooperation over
+competition and
+collaboration over
+confrontation.”
+DIPLOMACYSOUTH AFRICA, BRICS AND GLOBAL GOVERNANCE
+President Jacob Zuma at the  BRICS Summit  President Jacob Zuma at the  BRICS Summit
+In 2011, South Africa’s exports to China •
+reached an all-time high, valued at
+R85 billion, displaying a 45% increase in
+exports from 2010.
+South Africa’s agricultural, forestry and •
+ﬁ shery exports to China increased by
+42% between 2010 and 2011. China is
+now South Africa’s fourth-largest export
+market after ranking seventh during
+2010.
+In 2011, bilateral trade between South •
+Africa and India stood at R53,7 billion.
+South Africa was exporting goods to
+the value of R24,4 billion to India and
+importing goods from India to the value of
+R29,3 billion. Trade between South Africa
+and India is set to reach US$15 billion
+(R116 billion) per year by 2014.
+India ranks among the top 10 investing •
+countries in South Africa.
+In 2011, Brazil ranked 26th as an export •
+partner and 15th as an import partner
+of South Africa globally. Total bilateral
+trade between South Africa and Brazil
+amounted to R17,5 billion in 2011, which
+was 18,6% higher than in 2010.
+There was substantial growth in total •
+trade between South Africa and Russia
+between 2010 and to 2011 from
+R2,8 billion to R3,6 billion. South African
+exports increased from R2,1 billion in
+2010 to R2,2 billion in 2011. Russia
+is South Africa’s 41st biggest export
+destination.
+Did you know?
+... continued on page 38
+
+38 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 39Issue 2 diplomacy in action UBUNTU  thedircoza
+Diplomacy
+struggle for a better life for all in South Africa
+is closely intertwined with our struggle for a
+better Africa and a better world for all.
+Therefore, at the core of our foreign policy
+engagements is a desire to continuously build
+international relations and partnerships that
+will contribute to the achievement of South
+Africa’s national priorities. The strategic thrust
+of our foreign policy includes our opposition
+to the structural inequalities and abuses of
+power in the global system. We are committed
+to do our part to strengthen and transform the
+multilateral system, to re ﬂ ect the diversity
+of our nations and to assure its centrality in
+global governance.
+The governing structures of international
+organisations should re ﬂ ect the changed
+realities of the global economy in the 21st
+century, through the increased voice and
+representation of emerging markets and
+developing economies. South Africa seeks
+appropriate reform of the components of the
+multilateral system in the areas of mandate,
+representation, scope, governance,
+responsibility, responsiveness and
+development orientation, to ensure that the
+global governance institutions that guide our
+interactions are democratic, responsive and
+accountable.
+Since its ﬁ rst summit, the BRICS leaders’
+declarations have pertinently addressed
+the reform of global economic and ﬁ nancial
+architecture and called for strict adherence
+to the commitments that have already been
+agreed to in the context of the G20, including
+its important developmental agenda.
+In this regard, for example, reform of
+the international ﬁ nancial institutions should
+be carried out in accordance with G20
+commitments, with the objective of achieving
+an equitable distribution of voting power
+between developed and developing countries,
+which is consistent with their participation in
+the world economy.
+South Africa is of the view that reforms of
+global institutions should be ﬁ nalised in the
+relevant multilateral fora. Much of the recent
+progress that has been achieved on the reform
+of the Bretton Woods Institutions (BWIs) has
+been achieved through agreements reached
+in the context of the G20, which has proven
+that it can add value to and complement,
+where appropriate, the reform processes
+in other fora. Experience has certainly
+shown, for example, that the G20 can play
+an important facilitating role, as a “catalyst”,
+especially where negotiations in other fora
+are not making progress, as was the case in
+the G20 in reaching agreement on aspects of
+the reform of the BWIs.
+Within the context of BWI reforms, South
+Africa welcomes the agreement on the
+World Bank’s voice reform to increasing the
+voting power of developing and transition
+countries by 3,13% to 4,7% and the creation
+of an additional constituency for Sub-Sahara
+Africa.
+The November 2010 G20 Seoul Summit
+adopted and con ﬁ rmed the comprehensive
+package of IMF quota and governance reforms
+that had been agreed to by ﬁ nance ministers
+and central bank governors. In working
+together to strengthen the international
+ﬁ nancial architecture, at their June 2012 Los
+Cabos Summit, G20 leaders welcomed the
+ﬁ rm commitments to increase the resources
+available to the IMF, with many leaders
+announcing commitments in this regard during
+the summit. South Africa committed to invest
+US$2 billion of its reserve assets in additional
+resources with the fund and BRICS leaders
+jointly committed US$75  billion in total.
+In November 2012, the G20 ﬁ nance
+ministers and central governors reviewed
+progress made on the implementation of the
+Quota and Governance Reform Package
+agreed in 2010 at the Seoul Summit by the
+agreed date of the 2012 IMF/World Bank
+annual meetings.
+The meetings of BRICS ﬁ nance ministers
+on the sidelines of the G20 have also become
+a standing arrangement.
+South Africa supports quota reform in the
+IMF that will not see emerging and developing
+countries lose any quota share after
+redistribution. It is important to ensure that
+the next quota review should therefore ensure
+adequate protection for developing countries,
+particularly systemically regional economies,
+“The issue of
+multipolarity is
+directly linked to
+the emergence
+of a new world
+order and the
+ascendancy
+of new powers
+from the
+developing
+world.”
+welcomes the progress, albeit very slow, that
+has been made to date.
+However, more than ever, the world
+is in need of comprehensive reform of the
+UNSC, which involves an expanded council
+in both the permanent and non-permanent
+categories, and with improved working
+methods. In addition, in keeping with the
+principle of equitable representation, Africa,
+which makes up a considerable percentage
+of the overall membership of the UN, must be
+represented in the permanent category of the
+UNSC. A reformed council will enhance its
+legitimacy, representativity and effectiveness
+in global governance.
+South Africa will continue to campaign
+for the reform of not only the UNSC but also
+other global governance institutions.
+Our permanent representative to the UN,
+Ambassador Baso Sangqu, stated:
+“The BRICS leaders’ views expressed
+through both the Sanya and the Delhi
+declarations, complements the South
+African views mentioned above that the
+world is undergoing far-reaching, complex
+and profound changes, marked by the
+strengthening of multipolarity, economic
+globalisation and increasing interdependence.
+This is based on universally recognised
+norms of international law and in a spirit
+of mutual respect and collective decision-
+making, global economic governance should
+be strengthened, democracy in international
+relations should be promoted and the voice
+of emerging and developing countries in
+international affairs should be enhanced.”
+The issue of multipolarity is directly linked
+to the emergence of a new world order and
+the ascendancy of new powers from the
+developing world.
+South Africa’s membership of BRICS is
+focussed on the formation’s joint aspirations in
+this regard as stated in the Delhi Declaration:
+“We envision a future marked by global
+peace, economic and social progress and
+enlightened scientiﬁ c temper. We stand ready
+to work with others, developed and developing
+countries together, on the basis of universally
+recognised norms of international law and
+multilateral decision-making, to deal with the
+challenges and the opportunities before the
+world today. Strengthened representation
+of emerging and developing countries in
+the institutions of global governance will
+enhance their effectiveness in achieving this
+objective.”
+Delhi Declaration – 29 March 2012, India.
+such as South Africa, that contribute to growth
+and ﬁ nancial development and stability in
+their regions.
+UN reform
+South Africa served as a non-permanent
+member of the United Nations Security
+Council (UNSC) for the period 2011 to 2012.
+The UNSC is one of the global governance
+institutions that we believe, very strongly,
+should be more representative – in both
+composition and decision-making processes
+– of the international community. South Africa
+has been actively engaged in and supportive
+of all aspects of the reform process and
+DIPLOMACY SOUTH AFRICA, BRICS AND GLOBAL GOVERNANCE
+The South African delegation, led by President Jacob Zuma, at the BRICS The South African delegation, led by President Jacob Zuma, at the BRICS
+Summit in New Delhi in March 2012Summit in New Delhi in March 2012
+
+Promoting Regional Integration
+and Development
+The SADC Keadquarters in Gabarone, Botswana
+     www.dirco.gov.za
+
+43Issue 2 diplomacy in action UBUNTU  thedircoza
+DIPLOMACYY
+PROMPROMOTINOTING “DG “DEVELEVELOPMEOPMENTALNTAL INTINTEGRAR TIONTION” IN AFRICA
+PROMOTING “DEVELOPMENTAL     INTEGRATION” IN AFRICA
+In recent years, there have been vast
+improvements in Africa’s economic
+prospects. Africa is already the second-
+fastest growing continent in the world
+after Asia and offers the highest return on
+investment of any region.
+Growth in Africa has been driven largely
+by the boom in the minerals, agriculture,
+transport, telecommunications and retail
+sectors. Africa’s enormous reserves of raw
+materials, 60% of the world’s unused arable
+agricultural land, a young growing population,
+a growing middle class with considerable
+purchasing power, and urbanisation
+alongside steady improvements in economic
+governance are all factors which could see
+Africa becoming the next leading source of
+global economic growth.
+The South African Government’s
+economic vision is broad and integrated.
+African development remains the priority for
+our foreign economic policy and has become
+more compelling as prospects for growth and
+development in Africa have vastly improved.
+However, Africa’s full economic potential will
+remain unful ﬁ lled unless we address the
+challenges of inadequate infrastructure, the
+limitations imposed by small and fragmented
+markets and inadequate diversi ﬁ cation of
+industrial output, all of which are responsible
+for the low levels of intra-African trade. The
+answer lies in promoting a developmental
+regional integration agenda that develops
+targeted programmes to address these
+fundamental constraints.
+South Africa is therefore championing
+an ambitious integration and development
+agenda in Africa in respect of our
+engagements in the Southern African
+Customs Union (SACU), the Southern
+African Development Community (SADC)
+and in the recently launched Tripartite
+Initiative to integrate SADC, the East African
+Community (EAC) and the Common Market
+for Eastern and Southern Africa (COMESA).
+The recent improvements in Africa’s
+development prospects provide the basis to
+advance this work decisively.
+Development integration
+South Africa has advocated and actively
+supported a “development integration”
+approach to regional integration in southern
+and eastern Africa. This approach argues
+that the barriers to intra-regional trade in
+developing countries (and Africa in particular)
+are more to do with underdeveloped
+production structures and inadequate
+infrastructure, rather than tariffs or regulatory
+barriers. Market integration through tariff
+liberalisation therefore requires cooperation
+and coordination programmes to address
+constraints that obtain in the real economy.
+Such programmes must create objective
+conditions for trade integration to be viable
+and sustainable.
+This approach also argues that
+success will likely depend on a high level
+of political cooperation at an early stage
+of the process. As such, it is necessary to
+combine trade integration with programmes
+of cross-border infrastructure development
+and sector policy coordination, focussed
+on regional industrial development and
+building industrial complementarities across
+regional value chains. Rather than focussing
+on maximising ef ﬁ ciency, the emphasis of
+developmental integration is on cooperating
+with one another to stimulate the creation of
+productive capacities.
+Our efforts to advance a “developmental
+integration” approach to regional and
+continental integration in Africa, particularly
+in southern and eastern Africa has met with
+some success.
+Southern African Customs
+Union
+SACU was established in 1910 and is the
+oldest functioning customs union in the world.
+As the most deeply integrated constituent
+part of SADC, SACU can be an anchor for
+wider integration within the southern African
+region.
+Working in partnership with Botswana,
+Lesotho, Namibia and Swaziland, we
+have forged a common vision and work
+programme to consolidate the customs
+union, so that SACU remains a relevant
+and effective instrument that bene ﬁ ts all the
+parties. This work programme consists of
+ﬁ ve pillars, namely:
+promoting regional industrial •
+development (speci ﬁ cally identifying
+sectors and interventions to promote a
+wider spread of industrial development
+among SACU members)
+reviewing the revenue-sharing formula•
+improving trade facilitation•
+developing common SACU institutions•
+promoting uni ﬁ ed engagement in trade •
+negotiations with third parties.
+Southern African
+Development Community
+The SADC Free Trade Area (FTA), which
+was launched in 2008, should be fully
+implemented in 2012, with almost all tariff
+lines traded duty-free. The product lines
+traded at zero per cent currently stands at
+92%, against the baseline of 85% in 2008.
+Our next priority is to consolidate the
+SADC FTA before considering deeper forms
+of integration. South Africa will work with
+fellow member states to implement their
+obligations, while also promoting sectoral
+cooperation and infrastructure development,
+addressing non-tariff barriers and simplifying
+rules of origin, harmonising standards, and
+advancing the work on trade facilitation.
+Much greater effort will be required in
+the area of regional industrial policy that
+designs interventions that promote industrial
+complementarities across regional industrial
+value-chains.
+The Tripartite Initiative
+The recently launched Tripartite Initiative
+between SADC, the EAC and COMESA
+provides another good example of our
+“developmental integration” approach.
+The Tripartite Initiative consists of three
+pillars that will be pursued concurrently, to
+ensure an equitable spread of the bene ﬁ ts
+of regional integration, namely: market
+integration, infrastructure development and
+industrial development.
+In 2011, members of the three groupings
+launched negotiations towards the Tripartite
+FTA (T-FTA). The FTA will, as a ﬁ rst phase,
+cover only trade in goods and core areas
+necessary to support that (such as Rules
+of Origin). Services and other trade-related
+areas will be covered in a second phase.
+Once concluded, the T-FTA will combine the
+markets of 26 countries with a population of
+nearly 600 million people and a combined
+gross domestic product of US$1 trillion,
+providing the market scale that could launch
+a sizeable part of the continent onto a
+new developmental trajectory. The market
+access negotiations have commenced and
+“Our next priority is to
+consolidate the SADC FTA
+before considering deeper forms
+of integration. South Africa will
+work with fellow member states
+to implement their obligations,
+while also promoting sectoral
+cooperation and infrastructure
+development, addressing non-
+tariff barriers and simplifying
+rules of origin, harmonising
+standards and advancing the
+work on trade facilitation.”
+the areas for cooperation to promote trade and
+investment in infrastructure development, as
+well as policy and institutional development
+and technical capacity-building. These
+programmes are tailored to the needs and
+capacities of the partners.
+In addition to intergovernmental
+engagements, our bilateral work aims to
+address supply-side constraints on the
+continent through facilitation of investment
+in infrastructure (e.g. roads, rail, ports,
+energy and information and communications
+technology) and integrated regional
+manufacturing platforms across a broad
+range of sectors. This entails concerted
+efforts in mobilising outward investment by
+the South African private sector and state-
+owned entities into the continent to promote
+mutually-beneﬁ cial regional and continental
+integration.
+it is anticipated that these negotiations
+will be concluded by April 2014, with
+implementation of the T-FTA scheduled for
+2015.
+The T-FTA will form the basis for an
+Africa-wide FTA, which is expected to create
+a market of US$2,6 trillion. This will address
+the challenge of small and fragmented
+economies in Africa. A larger, more integrated
+and growing market would enhance the
+interest of foreign investors in Africa and
+provide a basis for enhanced intra-African
+trade. This envisaged Continental FTA
+(C-FTA) will therefore widen and build on the
+integration initiatives already underway.
+This work is underpinned by an intensive
+and extensive set of bilateral engagements
+with countries across the African continent.
+This bilateral work is built around agreements
+agreed jointly by governments, which specify
+PROMPRP OTINOTINNG “DG “DEVELEVELOPMEOPMEOPMENTALNTALNTAL INT INT INTEGRAEGRAEGRATIONTIONTION” IN” ININ AFR AFR AFRICAICAICA
+DIPDIPDIPDIPDIPPPPPPPPPPD PDIPIPPDIPPLLOLOLLOLOMLOMOMOMOMLOMOMMLOLOL ML MAACACYACYCYCYACYAAA
+Left to right: SADC Executive Secretary, Dr Tomaz Augusto Salomao, Left to right: SADC Executive Secretary, Dr Tomaz Augusto Salomao,
+     President Jacob Zuma and President Joseph Kabila (DRC)     President Jacob Zuma and President Joseph Kabila (DRC)
+Diplomacy
+Diplomacy
+42 43
+By Rob DaviesBy Rob Davies
+Minister of Trade and IndustryMinister of Trade and Industry
+42 43
+UBUNBUNTU TUTU U
+UBUNTU
+ dipldiplllomacomacomacyy iny inin act ion
+diplomacy in action
+ Issue 2e 22222
+Issue2
+ IssuIssuIssus e 2 e 2 e 2 22
+Issue2
+ dipldipldipldi omacomacomacacacy iny iny  actactact actactacac ioniono
+diplomacy in action
+ UBUNUBUNUBUNUBUNU TUTUTUTUUUU
+UBUNTU
+DIRCDIRCDIRCDIRCDIRCOzaOzaOzazazaa
+DIRCOza
+www.www.www.ww dircdircdircircrcrcdirco.goo.goo.googo.goo.govv.zv.zav.zav.za
+ @the@the@thhehehe@theheheeeeDIRCDIRCDDIRCDIRCDIRCDIRCDIRCDIR OzaOOOOzaOzaOza
+@theeDIRCDIRCOzaOza
+ thedthedthededthedthth dircoircoircoircoircoircorr zzaza a a a
+thedircoza
+
+DIPLOMACYISRAEL-PALESTINE CONFLICT
+O
+ne of the important areas of
+interest for South Africa as
+a non-permanent member
+of the United Nations
+Security Council (UNSC),
+apart from championing the African Agenda,
+is the promotion of peace in the Middle East
+and North Africa region, especially in the
+wake of the recent Arab Uprisings.
+There are many reasons why
+developments in the Middle East and North
+Africa are a priority for South Africa. In our
+own historic struggle for liberation, we
+identiﬁ ed with the struggles of the Palestinian
+people for self-determination.
+Our foreign policy decisions since 1994
+have been guided by our principles, foremost
+among which is the desire for a more just,
+humane and equitable world. In the context
+of the Israel-Palestine con ﬂ ict, South Africa
+maintains that Palestinians have the right to
+their own state, as Israelis already do.
+South Africa explicitly supports the
+solution to the Israeli-Palestinian con ﬂ ict
+through a negotiated agreement between
+the parties that would result in two states,
+Israel and a Palestinian State which is viable
+and contiguous, with East Jerusalem as its
+capital.
+These states must exist side-by-side
+in peace and security, within internationally
+recognised borders.
+We believe, with the overwhelming
+majority of the international community, that
+the continued illegal settlement expansion by
+Israel in the occupied Palestinian territories
+undermines the possibility of a negotiated
+settlement.
+If fully implemented, the expansion
+would make a contiguous Palestinian State
+unviable, if not impossible. In addition, as
+we have seen in the most recent past, the
+settler communities perpetrate a great deal
+of violence against ordinary Palestinians.
+Coupled with the inhuman conditions
+created by the continued blockade against
+Gaza, these developments make the
+possibility of a negotiated settlement and
+eventual reconciliation between Israelis and
+Palestinians very difﬁ cult.
+South Africa is concerned by the
+humanitarian situation in the Occupied
+Palestinian Territories, especially the dire
+By Ebrahim Ebrahim
+Deputy Minister of International Relations and Cooperation
+Diplomacy
+Diplomacy
+ISRAEL-PALESTINE CONFLICTDIPLOMACY
+United Nations Security Council meeting United Nations Security Council meeting
+on the situation in the Middle East on the situation in the Middle East
+in the public chamber and not behind closed
+doors – a position strongly opposed by the
+Security Council’s permanent members.
+Because of our continued pressure, the
+UNSC eventually agreed to a formula where
+the brieﬁ ngs of its Secretariat will always be in
+public, with a council debate on the Middle East
+every three months open to all UN members.
+We took this initiative further in January
+this year when, as President of the UNSC,
+we successfully held two public meetings,
+one in which the UN Emergency Relief
+Coordinator, Ms Valery Amos, briefed on
+the humanitarian situation in the Occupied
+Territories and the second a High-level
+Open Debate on the situation in the Middle
+East. The large number of UN member
+states who participated in the debate
+illustrates the importance the international
+community attaches to ﬁ nding a resolution
+to the crisis.
+In the conduct of our international
+relations, we attach the utmost importance to
+A South African priority
+situation in Gaza. Palestinians have to
+contend with occupation by the Israeli
+military; a separation barrier that divides not
+only Israel from Palestine, but Palestinians
+from one another; a set of bypass roads,
+checkpoints and other demeaning measures,
+such as destroyed olive trees, and a lack of
+water which, according to UN reports, is
+worse than in refugee camps elsewhere in
+the world.
+The situation is so bad that the UN has
+recently warned that should this trend
+continue, Gaza will be unliveable as early as
+2020.
+Part of the failed diplomatic approach
+is that the UNSC has neither been able to
+address these developments nor move a
+negotiated settlement forward.
+Since 2000, permanent members of the
+UNSC have vetoed 17 resolutions addressing
+the situation in the Middle East, 10 of which
+were cast by the United States of America
+(USA), of which nine related to the situation
+between Israel and Palestine.
+The most recent US veto was cast in
+February 2011, when 138 member states
+of the UN introduced a Security Council
+resolution calling for an end to settlement
+activities by Israel in the West Bank, including
+East Jerusalem, as such activities are illegal
+under international law.
+It is with these stark realities in mind that
+South Africa, as a non-permanent member
+of the UNSC, (2011 – 2012) consistently
+called for more assertive action by the
+Security Council to bring about a permanent
+settlement.
+The question of Palestine was a top
+priority for South Africa in its ﬁ rst term (2007
+– 2008) on the UNSC, when we galvanised
+the members of the Non-Aligned Movement
+(NAM) to call for the monthly meetings of the
+UNSC on the Middle East to be conducted
+the promotion of human rights, democracy,
+justice and international law.
+We believe that it is our moral duty – and
+it is in our national interest – to champion
+human rights struggles around the world.
+This is why emerging states need to ask
+themselves whether it is not time for a new
+approach to addressing peace and security
+matters.
+As emerging countries, we need to ask
+ourselves whether we should not use our
+solidarity to put pressure on the UNSC to become
+more responsive to the needs of the majority.
+Reforming the UNSC to become more
+representative seems an impossible task at
+times, but we are not going to give up.
+Africa and Latin America are not at all
+represented at the level of the Security
+Council. The body must be more responsive,
+representative and legitimate, which will go a
+long way to restoring its ability to meeting its
+obligations to the victims of con ﬂ ict around
+the world.
+United Nations Relief Works Agency United Nations Relief Works Agency
+building damaged in Gaza City in November 2012building damaged in Gaza City in November 2012
+ISRAEL-PALESTINE    CONFLICT
+44 45UBUNTU diplomacy in action Issue 2  Issue 2 diplomacy in action UBUNTU  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+
+46 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 47Issue 2 diplomacy in action UBUNTU  thedircoza
+Diplomacy
+Diplomacy
+T
+he ﬁ fth Forum for China-
+Africa Cooperation (FOCAC)
+Ministerial Conference was
+held in Beijing, China, from
+19 to 20 July 2012. The
+conference adopted the Beijing Declaration
+and the Beijing Action Plan (2013 – 2015),
+and was held under the theme, “Build on
+Past Achievements and Open Up New
+Prospects for the New Type of China-Africa
+Strategic Partnership”.
+The outcomes documents highlight
+the commitment of both sides towards
+strengthening the partnership and will form
+the basis of engagement going forward.
+The Declaration is a political document,
+while the Plan of Action is more practical
+and concrete. The language in the two
+documents is encouraging and shows
+signiﬁ cant movement from the Chinese side
+to accommodate African concerns.
+Signiﬁ cantly, South Africa assumed the
+Co-Chairship of FOCAC at the conclusion of
+the conference. South Africa takes over from
+Egypt, on behalf of the African side, for the
+next six years and will host the sixth FOCAC
+Ministerial Meeting in South Africa in 2015.
+During its tenure as Co-Chair, South Africa
+will continue to ensure that the principles of
+South-South cooperation are realised and
+that special attention is given to assisting in
+the implementation of the African Agenda.
+In her address to the media at the
+conclusion of the conference, the Minister
+of International Relations and Cooperation,
+Ms Maite Nkoana-Mashabane, stated that
+“South Africa, as Co-Chair, will concentrate
+its efforts on ensuring a greater role
+for an involvement of the African Union
+Commission (AUC) in the FOCAC process,
+as well as on maintaining close relations with
+the regional economic communities and the
+AU’s ﬂ agship programme for socio-economic
+development, the New Partnership for
+Africa’s Development. In particular, we will
+work closely with China for the realisation
+of priority cross-border infrastructure
+projects entailed within the Programme for
+Infrastructure Development in Africa and
+the Presidential Infrastructure Championing
+Initiative (PICI). We will continue to advocate
+for Africa’s developmental agenda and
+ensure that the values of FOCAC, as well
+as those of Pan-Africanism, are realised
+through this partnership.”
+Minister Nkoana-Mashabane went on to
+inform the media that “we welcome the
+special programme on trade with Africa, and
+the proposal to send investment and trade-
+promotion missions to Africa, expanding
+and diversifying imports from Africa. This
+includes the technical support for intensive
+processing of African agro-produce and
+industrial raw materials, and increasing
+value addition of Africa’s primary products
+by means of investment.
+“Africa and China have to look at opportunities
+in strengthening industrialisation processes
+to bene ﬁ t both parties. In addition,
+beneﬁ ciation of Africa’s mineral resources
+will form a strong base  for localisation and
+further industrialisation in Africa. We look
+forward to cooperation in information and
+communications technology, especially the
+building of communications infrastructure
+in Africa. We also look forward to enhanced
+cooperation in science, technology and
+innovation, especially raising African countries’
+capacity in research and development
+innovation. Exchanges and cooperation
+in this ﬁ eld must contribute to growth and
+sustainable development in Africa.”
+Clearly then, FOCAC will be used as a
+framework to strengthen consultation,
+expand cooperation and promote political
+dialogue and economic cooperation for
+mutual and equal bene ﬁ t between China
+and Africa. South Africa believes that the ﬁ fth
+FOCAC Ministerial Conference Declaration
+and the Beijing Action Plan (2013 – 2015)
+provides the space to achieve this. South
+Africa was also greatly encouraged by the
+ﬁ ve new measures announced by President
+Hu Jintao, namely that China will:
+expand cooperation in investment •
+and ﬁ nancing to support sustainable
+development, including the
+announcement that China will provide
+a $20-billion line of credit to African
+countries, along with the $5 billion
+provided through the China-Africa
+Development Fund
+increase assistance to Africa to bring the •
+beneﬁ ts of development to the African
+continent
+support the African integration process •
+and help enhance capacity for overall
+development, including support for
+regional infrastructure development,
+speciﬁ cally through project preparation,
+ﬁ nancing and development support
+enhance people-to-people friendship to •
+lay a solid foundation of public support
+for enhancing common development
+promote peace and stability in Africa, •
+and create a secure environment for
+Africa’s development.
+The Minister’s reaction was that “these
+measures are a clear indication of China’s
+willingness to deepen its cooperation with
+Africa holistically. South Africa will work
+closely with China in ensuring that these
+measures are realised for the beneﬁ t of both
+sides.”
+In this regard, it will be necessary to meet
+with the Chinese side to establish a clear
+common picture of the way forward, as well
+as the modus operandi between the two co-
+chairs. It will be suggested to the Chinese that
+it may be necessary to do a comprehensive
+audit and evaluation of FOCAC 12 years on,
+as well as to develop a common six-year
+roadmap. This will be designed to assess
+the impact of FOCAC on the lives of ordinary
+people, to maximise cooperation, learn from
+The Union Buildings  in  PretoriaThe Union Buildings  in  Pretoria
+experiences, share best practices and build
+on past achievements. Following the audit
+and evaluation process, it may be necessary
+to develop a new Common African (Political,
+Economic and Social) Strategy vis-a-vis
+engagement with China, including the
+FOCAC process and this is being informed
+by the outcomes of the review of FOCAC
+above.
+Looking forward, the foreign ministers
+of Africa and China are scheduled to meet
+at the third Political Consultation to be
+held in New York in September 2013 on
+the margins of the United Nations General
+Assembly. A Communiqué/Declaration is
+normally adopted at the conclusion of the
+meeting. The 10th FOCAC Senior Of ﬁ cials
+Meeting (SOM) is scheduled to be held in
+South Africa in the second half of 2014. The
+SOM does a mid-term review and prepares
+for the Ministerial Conference the next year.
+The sixth FOCAC Ministerial Conference is
+scheduled to be held in South Africa in the
+last quarter of 2015. It will be preceded by
+the 11th SOM.
+A new Declaration and a new Plan of
+Action (2016 – 2018) will be the outcomes
+of the meeting. The process repeats itself
+for the next three years, but with meetings
+taking place in China, culminating in the
+seventh FOCAC Ministerial Conference in
+China in 2018. At this time, the new Plan of
+Action (2019 – 2021) will be adopted and
+South Africa will hand over to a new Co-
+Chair to be identiﬁ ed from the African side.
+Lastly, within the framework of FOCAC,
+there are also 10 subforums that will be
+meeting regularly, namely the:
+China-Africa Business Conference •
+China-Africa People’s Forum •
+China-Africa Forum on Agriculture •
+Forum on China-Africa Science and •
+Technological Cooperation
+China-Africa Finance Cooperation •
+Forum
+FOCAC Cultural Ministers’ Forum •
+Forum for Chinese and African Think-•
+Tanks
+FOCAC Legal Forum •
+China-Africa Young Leaders Forum•
+FOCAC Women’s Forum.•
+Taking Africa forwardThe Forum for China-Africa CooperationFOCAC
+DIPLOMACY FOCAC: THE FORUM FOR CHINA-AFRICA COOPERATION DIPLOMACYFOCAC: THE FORUM FOR CHINA-AFRICA COOPERATION
+By Dave Malcomson
+Director: NEPAD, APRM & ARF
+Department of International Relations
+and Cooperation
+
+48 UBUNTU diplomacy in action Issue 2  DIRCOzawww.dirco.gov.za @theDIRCOza 49Issue 2 diplomacy in action UBUNTU  thedircoza
+T
+he world economy is
+undergoing a profound
+structural shift in economic
+power, with the emergence of
+Brazil, Russia, India and China
+(BRIC) as the new sources of global economic
+growth, trade and investment ﬂ ows, which
+are redeﬁ ning global economic geography. In
+broad terms, we are seeing a shift in the locus
+of economic power from the North and the
+West to the South and the East. Economies of
+the South have become key players and the
+main drivers of recovery from the 2008 to 2010
+“Great Recession”. In purchasing power parity
+terms, by 2012, China is the world’s second-
+largest economy, India is in third place and
+Brazil is ranked sixth.
+While South Africa’s economic links with
+traditional trading partners remain important,
+the country’s prospects for growth and
+development will depend increasingly on
+diversifying and strengthening its economic
+links with these dynamic economies of the
+South and with Africa. The expansion of
+South Africa’s trade and direct investment
+with the countries of the South, notably the
+BRIC countries, continues apace, with China
+and India at the forefront. The share of the
+European Union in South Africa’s total trade
+declined to 26,5% in 2011, while the share
+of the BRICS in South Africa’s total trade
+increased to 18,6% in 2011.
+South Africa’s membership of the BRICS
+has become a vital element of our global
+economic strategy. BRICS offers an historic
+opportunity to champion a new paradigm for
+collaboration for equitable development by
+emphasising complementarity and building
+on our respective economic strengths.
+Since developing countries are all seeking
+to address their developmental challenges
+and promote economic development, growth
+and employment creation, utmost care is
+required to ensure that the expansion of trade
+and investment relations among developing
+countries supports and does not undermine
+these efforts. This requires an approach that
+fosters economic complementarities, supports
+the development of South Africa’s industrial,
+agricultural and service sectors, and avoids
+destructive and direct competition.
+Building economic linkages
+In this context, South Africa has placed greater
+emphasis on building economic linkages
+to underpin our industrial development
+and employment objectives. Government
+has emphasised the need to strengthen
+cooperation to promote and develop small,
+medium and micro-enterprises and address
+non-tariff barriers alongside targeted
+investment and export development and
+promotion activities.
+BRICS
+ A VITAL ELEMENT OF SA’S GLOBAL ECONOMIC STRATEGY
+Our economic engagement in BRICS is being
+built on three pillars, which we should leverage
+innovatively. First, the BRICS countries have
+a shared interest in pursuing the reform of
+multilateral institutions for global governance
+to give greater voice to developing countries
+in these institutions and, thereby, enhance the
+legitimacy of the institutions themselves. In
+particular, we have strengthened coordination
+in the World Trade Organisation’s Doha Round
+to defend and champion a development
+outcome as well as in forums where trade and
+investment issues arise.
+The second pillar involves building intra-
+BRICS cooperation. On matters relating
+to trade and investment, government has
+highlighted the importance of working to build
+the country’s industrial base, enhance value-
+added exports and promote technology-
+sharing, small business development and
+trade and investment promotion. To that end,
+the Contact Group on Economic and Trade
+Issues has proposed the establishment of
+various working groups to promote greater
+intra-BRICS cooperation.
+It should also be recalled that all BRICS
+countries have established technological
+capabilities or are investing signi ﬁ cantly in
+innovation. This offers scope for collaboration
+in research and development as well as
+for mutually bene ﬁ cial technology transfer
+arrangements.
+Development bank
+BRICS member states are in the process
+of studying the feasibility of setting up
+a new development bank for mobilising
+resources for infrastructure and sustainable
+development projects in BRICS and other
+emerging economies and developing
+countries. Finance ministers are tasked with
+examining the feasibility and viability of such
+an initiative. They have set up a joint working
+group for further study and will report back to
+the heads of state by the ﬁ fth summit in South
+Africa in March 2013.
+There is also an innovative proposal
+for the settlement of trade in domestic
+currencies. This will reduce transaction
+costs and support growth in intra-BRICS
+trade. The BRICS Business Forum has set a
+target of US$500 billion in intra-BRICS trade
+by 2015.
+The BRICS countries have also proposed
+establishing a BRICS Trade and Development
+Risk Pool, which aims to redress the historical
+dominance of European and American
+reinsurance companies in BRICS markets.
+Africa’s economic development
+agenda
+South Africa has a direct interest in extending
+BRICS cooperation to support Africa’s
+DIRCOza
+www.dirco.gov.za
+ @theDIRCOz
+economic development agenda. The
+BRICS countries can contribute to Africa’s
+development and integration process
+through the development of infrastructure
+and industrial capacity, and increase imports
+of value-added manufactured products from
+the continent. It is also important to leverage
+infrastructure investment to stimulate and
+support industrial development in Africa. The
+abundant natural resources of Africa, the
+growing consumer power of Africa’s emerging
+middle class and high growth rates offer an
+opportunity to build a more sustainable and
+mutually beneﬁ cial relationship with Africa in
+the next decades.
+Current outward foreign direct investment
+ﬂ ows from China, as well as other large
+emerging market countries, to manufacturing
+industries in developing countries can be
+leveraged to drive industrialisation in the
+poorest countries, where ﬁ nancial capital and
+entrepreneurial skills have in the past proved
+to be constrained. If other BRIC partners
+such as Brazil and India follow China’s growth
+trajectory, they will create even more labour-
+intensive jobs in low-income countries.
+Rapidly growing investment in African
+infrastructure from emerging economies,
+among other things, also portends well for
+Africa’s future development and integration
+prospects.
+By Rob DaviesBy Rob Davies
+Minister of Trade and IndustryMinister of Trade and Industry
+DIPLOMACY BRICS: A VITAL ELEMENT OF SA’S GLOBAL ECONOMIC STRATEGY DIPLOMACYBRICS: A VITAL ELEMENT OF SA’S GLOBAL ECONOMIC STRATEGY
+The Nelson Mandela Bridge in Johannesburg spans 248 m The Nelson Mandela Bridge in Johannesburg spans 248 m
+and is the biggest cable-stayed bridge in southern Africa and is the biggest cable-stayed bridge in southern Africa
+Diplomacy
+Diplomacy
+DIRCOza
+www.dirco.gov.za
+ @theDIRCOza
+
+South Africa:
+host of the
+African
+Commission
+on Nuclear
+Energy
+(AFCONE)
+By Ambassador AS Minty
+Chairperson: AFCONE
+A small metal
+ploughshare, crafted
+from non-radioactive
+material taken from
+one of South Africa’s
+dismantled nuclear
+devices
+Peaceful
+applications of
+nuclear science
+include the
+eradication of
+rinderpest in Africa
+and the treatment
+of cancer. The
+bacteria are
+spread on a glass
+miroscope slide
+for Gram staining
+as part of the
+identiﬁ cation.
+(Entomology
+Unit, Seibersdorf,
+Austria, 2 June
+2006)
+50 51UBUNTU diplomacy in action Issue 2 Issue 2 diplomacy in action UBUNTUDIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+DIPLOMACYSOUTH AFRICA: HOST OF THE AFRICAN COMMISSION ON NUCLEAR ENERGY (AFCONE)
+SOUTH AFRICA: HOST OF THE AFRICAN COMMISSION ON NUCLEAR ENERGY (AFCONE)
+DIPLOMACY
+
+A
+FCONE holds signi ﬁ cant advantages for peaceful
+regional nuclear cooperation that would contribute to
+Africa’s socio-economic development.
+The establishment of nuclear-weapon-free zones
+(NWFZs) contributes to the international community’s
+efforts towards the goal of a world free of nuclear weapons. NWFZs
+play an important role in preventing the proliferation – both vertical
+and horizontal – of nuclear weapons. Such zones also enhance
+global and regional peace and security, strengthen the nuclear non-
+proliferation regime and contribute towards realising the objectives
+of nuclear disarmament. This was also recognised by the various
+outcome documents of the review conferences of the Treaty on the
+Non-Proliferation of Nuclear Weapons (NPT).
+Although the NPT is considered as the cornerstone of the nuclear
+non-proliferation regime, an NWFZ ensures the total absence of
+nuclear weapons anywhere within the agreed zone. In this respect, it
+differs from the provisions of the NPT and expresses the explicit wish
+of countries within a speci ﬁ c zone or region not to be exposed to the
+dangers that nuclear weapons hold. This common wish or purpose
+arises when states within a region share the mutual conviction that
+their strategic interests would be enhanced – not compromised – by
+their participation in the NWFZ. The practical implication of NWFZs is
+to constrain and constrict the area in which the nuclear-weapon states
+can station their nuclear weapons.
+The ﬁ rst NWFZ was established in South America through the
+Treaty of Tlatelolco. Other zones were established in the South Paciﬁ c
+(Treaty of Rarotonga), South-east Asia (Treaty of Bangkok) and
+Antarctica (Antarctic Treaty). The entire southern hemisphere is now
+a zone free of nuclear weapons. In addition, an NWFZ has also been
+established in Central Asia (which is in the northern hemisphere and
+covers the Republic of Kazakhstan, the Kyrgyz Republic, the Republic
+of Tajikistan, Turkmenistan and the Republic of Uzbekistan). Lately,
+Mongolia has declared itself as an NWFZ.
+Within Africa, the momentum towards an African NWFZ was initiated
+through the Declaration on the Denuclearisation of Africa, adopted
+by the First Ordinary Session of the Assembly of Heads of State and
+Government of the then Organisation of African Unity, held from 17
+to 21 July 1964, in Cairo, Egypt. However, Africa’s vision of a treaty
+prohibiting nuclear weapons only came to fruition after 32 years, with
+the signing of the Pelindaba Treaty in Cairo on 11 April 1996. The main
+factor inhibiting the conclusion of this treaty was the nuclear weapons
+programme of apartheid South Africa.
+The negotiators agreed to refer to the Treaty on the NMFZ in
+Africa as the Pelindaba Treaty. This title is derived from the Zulu
+words “iphelile indaba”, which means that the matter is settled or the
+discussion is closed. It also refers to the location of the South African
+Nuclear Energy Corporation at Pelindaba.
+Nuclear disarmament, nuclear non-proliferation and the peaceful
+uses of nuclear energy are ﬁ rmly entrenched in the Pelindaba Treaty.
+The treaty places an obligation on its states parties not to conduct
+research on, develop, manufacture, stockpile or otherwise acquire,
+possess, or have control over any nuclear explosive device by any
+means anywhere; prohibits the stationing of any nuclear device; and
+requires the destruction of facilities for the manufacture of nuclear
+explosive devices. The treaty also prohibits the dumping of radioactive
+waste.
+Like other NWFZs, Pelindaba has its text supplemented by three
+protocols, namely the Protocol on Negative Security Assurances
+(NSAs), a protocol that prohibits nuclear tests in the application zone
+and a protocol that involves states which de jure or de facto have
+territories under their jurisdiction in the treaty application area.
+Importantly, the treaty allows, and encourages, the states parties
+to engage in peaceful nuclear activities. It further obligates them to
+conclude full-scope safeguard agreements with the International
+Atomic Energy Agency (IAEA) to verify the peaceful character of such
+activities.
+The Pelindaba Treaty has to date been rati ﬁ ed by 36 African states,
+and four of the nuclear-weapon states have ratiﬁ ed the protocols to the
+treaty they have signed.
+To ensure compliance, the treaty has a mechanism for compliance
+through the African Commission on Nuclear Energy, referred to as
+AFCONE.
+The main functions of AFCONE include:
+collating reports and the exchange of information as provided•
+arranging consultations•
+reviewing the application to peaceful nuclear activities of •
+safeguards by the IAEA
+bringing into effect the complaints procedure•
+encouraging regional and subregional programmes for cooperation •
+in the peaceful uses of nuclear science and technology (S&T)
+promoting international cooperation with extra-zonal states for the •
+peaceful uses of nuclear S&T.
+AFCONE is composed of 12 members elected by parties to the
+treaty for a three-year period, bearing in mind the need for rotation,
+as well as to include members from countries with advanced nuclear
+programmes.
+The commission has a bureau consisting of a Chairperson, a
+Vice-Chairperson and an Executive Secretary. The commission elects
+its Chairperson and Vice-Chairperson, while the Chairperson of the
+African Union (AU), at the request of parties to the Treaty and in
+consultation with the AFCONE Chairperson, designates the Executive
+Secretary of the commission.
+At the First Conference of States Parties of the Pelindaba
+Treaty, held on 4 November 2010, South Africa was endorsed as
+the host country for the headquarters of AFCONE. The following 12
+commissioners were elected: Mr Messaoud Baaliouamer, Algeria;
+Dr  Baidori Outtara, Burkina Faso; Dr Augustin Simo, Cameroon;
+Mr Atnatiwos Zeleke Meshesha, Ethiopia; Prof. Shaukat Abdurazak,
+Kenya; Dr Bulgasem Hammouda Ali El-Fawaris, Libya; Mr Tezana
+Coulibaly, Mali; Mr Anund P Neewoor, Mauritius; Dr Christian Sina
+Diatta, Senegal; Mr Abdul Samad Minty, South Africa; Lieutenant-
+Colonel Manzi Pidalatan, Togo; and Dr Mourad Telmini, Tunisia.
+In addition, at the ﬁ rst meeting of AFCONE, held on 4 May 2011,
+Ambassador Minty was elected as the Chairperson of AFCONE and
+Prof. Mourad Telmini (Tunisia) as the Vice-Chairperson.
+The immediate priority of AFCONE is the establishment of its
+headquarters and the adoption of its budget and other procedural
+documents to enable the commissioners to fulﬁ l their mandate.
+The work of AFCONE is underpinned by important nuclear-
+related initiatives already ongoing on the continent. These include
+the important work being done by the African Regional Cooperative
+Agreement to enlarge the contribution of nuclear S&T on the African
+continent, in cooperation with the IAEA. Furthermore, the Forum of
+Nuclear Regulatory Bodies in Africa (FNRBA) enhances, strengthens
+and harmonises radiation protection, as well as the nuclear safety and
+security regulatory infrastructure and framework. The FNRBA is also
+an effective forum for the exchange of regulatory experiences and
+practices among the nuclear regulatory bodies in Africa.
+AFCONE therefore holds signi ﬁ cant advantages for peaceful
+regional nuclear cooperation that would contribute to Africa’s socio-
+economic development. These advantages not only relate to the
+application of nuclear energy as an alternative energy source, but also
+the other peaceful applications of nuclear science to the advantage of
+human health and agriculture, such as the eradication of rinderpest in
+Africa and the treatment of cancer.
+Front row – left to right: Dr Augustin Simo (Cameroon), Prof. Shaukat Abdurazak (Kenya), Amb Anund P Neewoor (Mauritius),  Front row – left to right: Dr Augustin Simo (Cameroon), Prof. Shaukat Abdurazak (Kenya), Amb Anund P Neewoor (Mauritius),
+Amb Abdul Samad Minty (South Africa), Mr Messaoud Baaliouamer (Algeria), Dr Mourad Telmini (Tunisia)Amb Abdul Samad Minty (South Africa), Mr Messaoud Baaliouamer (Algeria), Dr Mourad Telmini (Tunisia)
+
+Back row – left to right: Mr Atnatiwos Meshesha (Ethiopia), Lieutenant-Colonel Manzi Pidalatan (Togo), Dr Badiori Outtara Back row – left to right: Mr Atnatiwos Meshesha (Ethiopia), Lieutenant-Colonel Manzi Pidalatan (Togo), Dr Badiori Outtara
+(Burkina Faso), Mr Tezana Coulibaly (Mali), Dr Bulgasem El-Fawaris (Libya) (Burkina Faso), Mr Tezana Coulibaly (Mali), Dr Bulgasem El-Fawaris (Libya)
+IAEA safeguard inspectors check the barrels which are ready to be shipped abroad. Only IAEA safeguard inspectors check the barrels which are ready to be shipped abroad. Only
+countries that have an Additional Protocol are required to declare their yellowcake stockpiles to countries that have an Additional Protocol are required to declare their yellowcake stockpiles to
+the IAEA. As of  March 2010, only 95 countires had Additional Protocols in forcethe IAEA. As of  March 2010, only 95 countires had Additional Protocols in force
+DIPLOMACYSOUTH AFRICA: HOST OF THE AFRICAN COMMISSION ON NUCLEAR ENERGY (AFCONE)
+SOUTH AFRICA: HOST OF THE AFRICAN COMMISSION ON NUCLEAR ENERGY (AFCONE)
+DIPLOMACY
+52 53UBUNTU diplomacy in action Issue 2 Issue 2 diplomacy in action UBUNTUDIRCOza
+www.dirco.gov.za
+ @theDIRCOza thedircoza
+Diplomacy
+Diplomacy
+© AUC – 2012, all rights reserved
+
+54 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 55Issue 2 diplomacy in action UBUNTU  thedircoza
+T
+ourist arrivals to South Africa
+increased by an impressive
+10,5% during the ﬁ rst six
+months of 2012, which is
+double the global tourism
+growth rate of 5%. Given that tourism has
+been identiﬁ ed as one of the six job drivers
+in the New Growth Path, this development is
+very encouraging. The other ﬁ ve job drivers
+are infrastructure development, agriculture,
+mining and beneﬁ ciation, manufacturing and
+the green economy.
+This year, we decided to single out
+infrastructure for special focus, although the
+other job drivers remain key to economic
+growth and development. Infrastructure
+development is a catalyst to sustainable
+economic development and to the
+improvement of the quality of life of our
+people in a most fundamental way.
+As the lead investor for the National
+Infrastructure Plan, government has already
+begun to roll out several projects. We have
+paid special attention to the lessons we
+have learnt from building infrastructure in the
+past. We all have proud recollections of how
+we managed to build stadiums, roads and
+refurbished airports ahead of the 2010 FIFA
+Soccer World Cup™.
+A necessary investment
+We must use that project management
+experience to change our country’s landscape
+and improve living conditions while growing
+the economy. We have developed an
+integrated, aligned and coordinated 20-year
+infrastructure pipeline.
+This is a necessary investment. The
+failure to invest in basic services in black
+communities over the decades of colonial
+oppression and apartheid is a critical element
+in the persistence of inequality today. To
+reverse the legacy of the past, we have
+already started building houses, schools,
+hospitals, clinics, nursing colleges, dams,
+power stations and other infrastructure.
+The Eastern Cape Schools
+Refurbishment Programme was launched
+recently to replace 49 mud schools with
+modern schools. There are currently more
+than 2 000 registered school refurbishment
+projects across the country. In addition, 886
+health facilities are being refurbished and
+revitalised.
+We are also going to build two new
+universities in Mpumalanga and the Northern
+Cape as part of the social infrastructure build
+programme, which will expand access to
+higher education in the two provinces.
+On economic infrastructure, we are
+creating enabling infrastructure such as rail,
+ports, energy, broadband and roads. No one
+can imagine a successful producer who lacks
+access to transport, telecommunications,
+water or electricity.
+There is a further bene ﬁ t for economic
+development. Public investment requires
+huge amounts of inputs such as equipment,
+building materials, generators, cranes, trains
+and even tar for the roads.
+If all of these materials are bought locally,
+their production will give a real boost to the
+economy. That is particularly important given
+the uncertain global outlook. Therefore, as a
+job creator, the infrastructure programme is a
+clear winner. Construction and maintenance
+alone will employ tens of thousands of
+people.
+Central coordination
+The strength of the National Infrastructure
+Plan is the central coordination in The
+Presidency, through the Presidential
+Infrastructure Coordination Commission.
+Another strength is the fact that it brings
+together the three spheres of government.
+To boost our work, we are developing an
+Infrastructure Development Act. Secondly, we
+are reallocating and aligning scarce funds to
+the build programme and seeking innovative
+funding mechanisms to address the full
+package of projects. We are also prioritising
+skills development, professional training and
+job creation, hence the partnership we are
+building with higher education institutions.
+The infrastructure on the scale needed
+to transform South Africa’s economy and
+social landscape will not come cheap. The
+cost of the strategic infrastructure projects
+is estimated at about R4 trillion over the
+next 15 years. Some of this cost includes
+projects that the private sector will need to
+pay for, such as industrial projects connected
+to infrastructure. The State itself will invest
+about R844 billion in the coming three years
+Government recently adopted the
+National Infrastructure Plan that is
+intended to transform the economic
+landscape of South Africa, create
+signiﬁ cant numbers of new jobs,
+strengthen the delivery of basic services
+to the people of South Africa and support
+the integration of African economies.
+From a spatial analysis of the
+country’s needs, 17 Strategic Integrated
+Projects (SIPs) have been identi ﬁ ed.
+The SIPs cover a range of economic and
+social infrastructure. All nine provinces
+are covered, with the emphasis on
+poorer provinces.
+The 17 projects are:
+SIP 1: Unlocking the Northern •
+Mineral Belt with Waterberg as the
+catalyst
+SIP 2: Durban-Free State-Gauteng •
+Logistics and Industrial Corridor
+SIP 3: South-eastern node and •
+corridor development
+SIP 4: Unlocking the economic •
+opportunities in the North West
+SIP 5: Saldanha-Northern Cape •
+Development Corridor
+SIP 6: Integrated Municipal •
+Infrastructure Project
+SIP 7: Integrated Urban Space and •
+Public Transport Programme
+SIP 8: Green energy in support of •
+the South African economy
+SIP 9: Electricity generation •
+to support socio-economic
+development
+SIP 10: Electricity transmission and •
+distribution for all
+SIP 11: Agrilogistics and rural •
+infrastructure
+SIP 12: Revitalisation of public •
+hospitals and other health facilities
+SIP 13: National School Build •
+Programme
+SIP 14: Higher Education •
+infrastructure
+SIP 15: Expanding access to •
+communications technology
+SIP 16: Square Kilometre Array and •
+Meerkat
+SIP 17: Regional integration •
+for African cooperation and
+development.
+The aim of SIP 17 is to participate
+in mutually-bene ﬁ cial infrastructure
+projects to unlock long-term socio-
+economic bene ﬁ ts by partnering with
+fast-growing African economies with
+projected growth ranging between 3%
+and 10%.
+The projects involving transport, water
+and energy also provide competitively
+priced, diversiﬁ ed and short, medium to
+long-term options for the South African
+economy where for example, electricity
+transmission in Mozambique (Cesul)
+could assist in providing cheap, clean
+hydro power in the short term while
+Grand Inga in the Democratic Republic
+of Congo is long term.
+All these projects complement the
+Free Trade Area to create a market of
+600 million people in South, Central and
+East Africa.
+Government will contribute
+R844  billion of the R1,3 trillion needed
+for the infrastructure projects over the
+next three years.
+DID YOU KNOW?
+“We all have
+a role to play
+in building
+our country.
+The National
+Infrastructure
+Plan is a key
+contribution
+to the socio-
+economic
+development of
+our country.”
+PRESIDENT JACOB ZUMA ON SOUTH AFRICA’S
+NATIONAL INFRASTRUCTURE PLAN
+President Jacob Zuma and Deputy President President Jacob Zuma and Deputy President
+Kgalema Motlanthe at the Presidential Infrastructure Kgalema Motlanthe at the Presidential Infrastructure
+Conference, held on 19 October 2012 in SandtonConference, held on 19 October 2012 in Sandton
+DIPLOMACY SOUTH AFRICA’S NATIONAL INFRASTRUCTURE PLAN DIPLOMACYSOUTH AFRICA’S NATIONAL INFRASTRUCTURE PLAN
+alone. Current and future generations will be
+able to bene ﬁ t from these investments that
+we are making now.
+Nothing can be more inspiring than
+collectively working together to build our
+country. We have to promote our country
+and boost con ﬁ dence in the economy so
+that it can grow and create jobs. We have to
+give our people hope as indeed a lot is being
+done to create a better life, even though
+things may not be moving as fast as we all
+want them to, given the frustrations and the
+legacy of the past.
+We all have a role to play in building our
+country. The National Infrastructure Plan is
+a key contribution to the socio-economic
+development of our country.
+Diplomacy
+Diplomacy
+
+56 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 57Issue 2 diplomacy in action UBUNTU  thedircoza
+S
+een from government’s
+commitment to its people,
+Gautrain is not only about
+a train. It is about people
+who are proud of what their
+nation can do! People who yearn for freedom
+of movement! People who hunger for
+upward mobility! People who are part of the
+development in and around them! It is about
+people on the move!
+“Gautrain is life changing” was a comment
+given by one of the ﬁ rst passengers when
+opening the route between Johannesburg
+and Pretoria on 2 August 2011. This is exactly
+what the Gauteng Provincial Government’s
+vision is through Gautrain; for the sustainable
+socio-economic, political, cultural, sporting
+and environmental development of the
+province – a lifestyle change. An important
+part of that vision is the freedom of movement
+for citizens through an integrated, world-class
+public transport system. Gautrain represents
+a critical step in the realisation of that vision.
+The Gautrain Management Agency is
+committed to good corporate governance
+and prudent ﬁ nancial management that is so
+essential for the achievement of Gautrain’s
+strategic objectives. One of the strategic
+objectives of Gautrain is, among other things,
+the improvement of accessibility and mobility
+in the Johannesburg-Pretoria corridor. By
+providing a safe, convenient, predictable
+and affordable public transport system in this
+corridor, Gautrain is changing the perception
+of public transport in South Africa. This
+will hopefully persuade car users to swap
+congested roads for the speed and comfort
+of Gautrain.
+Another strategic objective met by
+Gautrain is the contribution to accelerated
+economic growth with an emphasis on
+job creation, local skills development and
+investment in black economic empowerment.
+With Gautrain’s partnership with the private
+sector, it has delivered on these objectives
+through the commitment of the Bombela
+Concession Company’s socio-economic
+development obligations. By October 2012,
+the following veriﬁ ed jobs were created:
+38 830 jobs for personnel based in South •
+Africa
+34 900 jobs for local people, i.e. South •
+African citizens, compared to an
+obligation of more than 19 220
+Gautrain
+econom
+job cre a
+investme
+With Ga
+sector, i
+through
+Concess
+develop
+the follow
+38 8
+•
+For “People
+on the Move”
+30 020 jobs for historically disadvantaged •
+individuals, compared to an obligation of
+13 800
+3 780 jobs for women, compared to an •
+obligation of more than 1 580
+230 jobs for people with disabilities, •
+compared to an obligation of more than
+180.
+Gautrain has also strengthened existing
+development nodes in Gauteng, promoted
+urban restructuring and redevelopment
+and facilitated the revitalisation of the
+Johannesburg and Tshwane central business
+districts.
+While achieving strategic goals, Gautrain
+has not forgotten about those people it
+is moving every day. Fares, safety and
+security and comfort come ﬁ rst to mind. The
+determined fares are based on the principle
+of affordability and are highly competitive
+compared to other modes of public transport.
+They are sufﬁ ciently price-attractive to create
+a substantial shift from private car use to
+public transport in the form of Gautrain.
+Gautrain is not competing with other
+modes of public transport, such as taxis and
+buses, which all have an important role to
+play in the total transport system. Therefore,
+a lower limit, which is more expensive than
+the other existing modes of public transport,
+was set for the Gautrain fares.
+Gautrain moves commuters each
+day in all directions, providing economic
+mobility and the convenience of door-to-
+door commuting. The Gautrain system also
+comprises a ﬂ eet of modern low-entrance
+and low-emission buses with comfortable
+seating, providing feeder and distribution
+services to and from the Gautrain stations.
+The municipal Bus Rapid Transit services are
+also integrated with Gautrain at some of the
+Gautrain stations. Commuters, therefore, will
+not have to experience the same frustrations
+and delays as motorists associated with
+escalating trafﬁ c congestion.
+For “People on the Move” – too true.
+Various tools to assist passengers in moving
+around on the Gautrain system include an
+online map, different smart phone Apps and
+a commuter website. With mobile phone in
+hand and a Gautrain Gold Card in the other,
+Gauteng allows itself to be explored by
+virtue of the Gautrain system and its mobile
+Apps and mobi-site. These tools provide
+instant passenger-relevant information. The
+ability to work out the cost of a single trip
+between Sandton and Hat ﬁ eld is done via
+the fare calculator. Need to use the bus and
+parking on one end? Let the fare calculator
+do the work. When is the last train? Well, the
+timetable feature provides this ever-necessary
+information. Where is my closest bus stop?
+No problem, the phones’ GPS features an
+interactive map, which provides information
+on the closest bus stops and train stations.
+Since the commencement of operations
+of the airport link in June 2010, approximately
+27 million passengers have used the Gautrain
+on both the airport and general passenger
+services. This stands as proof of the Gautrain
+actively meeting government’s objective,
+which requires the active promotion of public
+transport.
+Gautrain is more than just a train. Based
+in the economic heartland of South Africa,
+it is one of several strategically integrated
+Gauteng Provincial Government projects. It
+is aimed not only at meeting future transport
+demands and improving the image of public
+transport, but also at moving economic
+development and employment creation
+upward.
+IT IS ABOUT PEOPLE ON THE MOVEGAUTRAIN
+A book on the history of the Gautrain
+– From Dreams to Reality  – was
+recently launched by the Premier of
+Gauteng, Ms Nomvula Mokonyane.
+“When announced by the
+Gauteng Provincial Government, the
+Gautrain project was perceived as
+ambitious, if not almost impossible
+to achieve, only a dream. Today
+we know differently, Gautrain is a
+celebration of delivering a dream. It
+inspires us to hold onto our dreams
+for an integrated intermodal safe
+and secure public transport system
+that will drastically transform the
+lifestyle of the people of Gauteng,”
+she said.
+The interactive coffee table
+book tells the Gautrain’s history, a
+project that was proof to what the
+nation was capable of, the Gautrain
+Management Agency said.
+The Gautrain’s history is a living
+record of valuable lessons learnt,
+new skills acquired and successful
+partnerships formed, it added.
+From Dreams to Reality
+DIPLOMACYGAUTRAIN: IT IS ABOUT PEOPLE ON THE MOVE
+
+Diplomacy
+
+Nestled in the leafy suburb of Rivonia, Liliesleaf became a place
+of refuge for the leaders and stalwarts of the liberation struggle.
+It was a place of dialogue and debate on political and military
+policy and strategy; where people from diverse backgrounds
+came together to collaborate as a collective with a shared
+vision. From Liliesleaf, the Secretariat and High Command
+planned and strategised a path that played a seminal role in
+changing the course of South African history.
+Liliesleaf’s role as the nerve centre of “the resistance” came
+to a devastating end with a dramatic police raid on 11 July
+1963. Extensive evidence was uncovered, detailing how the
+resistance movement intended to overthrow the apartheid
+regime. This led to the Rivonia Trial, which in turn resulted in life
+imprisonment on RobbenIsland for liberation struggle activists
+such as Nelson Mandela, Walter Sisulu, Ahmed Kathrada,
+Govan Mbeki, among others. Denis Goldberg, the only white
+person sentenced, was incarcerated at Pretoria Central.
+Through the Rivonia Trial, the essence of the liberation struggle
+was given a voice, and subsequently the world’s attention became
+focussed on South Africa. The media surrounding the trial and
+the harsh sentencing of the accused catapulted the atrocities of
+the apartheid government onto the international stage.
+Today, Liliesleaf is acknowledged to be the birthplace of MK
+(Umkhonto we Sizwe – Spear of the Nation), the military wing
+of the ANC.
+Through the establishment of the Liliesleaf Trust and the
+Legacy Project, Liliesleaf has been restored, preserved and
+developed into one of South Africa’s most prominent historical
+and educational landmarks. So much more than a museum
+or historical site, Liliesleaf is a place of memory and legacy,
+activity, dialogue and engagement. The dynamic and interactive
+exhibits around the site bring to life the many fascinating stories
+and events that help shape the new South Africa.
+
+60 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 61Issue 2 diplomacy in action UBUNTU  thedircoza
+O
+R Tambo (27
+October 1917 –
+24 April 1993)
+played a major
+role in the
+growth and development of the
+international movement of solidarity
+against racism and apartheid. He,
+among other things, established
+the ﬁ rst missions of the liberation
+movement in Egypt, Morocco,
+Ghana and London. This was a
+modest start to bring the friends of
+South Africa together throughout the
+world in a continuous and sustained
+mobilisation of the international
+community in support of a free
+and democratic South Africa
+and against the evils of racism,
+oppression and Apartheid.
+Among black South African
+leaders, Tambo was probably
+the most highly respected on
+the African continent, in Europe,
+Asia and the Americas. During
+his stewardship of the African
+National Congress (ANC), he
+raised its international prestige
+and status to that of an alternative
+to the Pretoria Government. He
+was received with the protocol
+reserved for heads of state in
+many parts of the world.
+During his years in the ANC,
+Tambo played a major role in the
+growth and development of the
+movement and its policies. He
+was among the generation of
+African nationalist leaders who
+emerged after the Second World
+War who were instrumental in
+the transformation of the ANC
+from a liberal-constitutionalist
+organisation into a radical
+national liberation movement,
+capable and willing to challenge
+the apartheid regime on the
+battleﬁ eld.
+At the ANC’s 49th National
+Conference, held in Durban, South
+Africa, in July 1991, after 30 years
+of illegality, Oliver Tambo could
+conﬁ dently report that he had
+fulﬁ lled the mandate of keeping the
+ANC together, and he handed over
+the movement to Nelson Mandela
+to lead it to the ﬁ nal lap of the
+struggle.
+Tambo was elected national
+chairperson of the ANC. He was
+also was also chairperson of the
+ANC’s Emancipation Commission,
+charged with promoting the
+emancipation of women. He served
+as ANC president from 1967 to
+1991 – the longest-serving ANC
+president. OR Tambo died from a
+stroke on 24 April 1993.
+THE LEGACY OF OR TAMBO
+“He was
+received with
+the protocol
+reserved for
+heads of state
+in many parts of
+the world.”
+Liberation history
+Integrity Passion Patriotism Humility
+FEATURELIBERATION HISTORY – THE LEGACY OF OR TAMBOFEATURE LIBERATION HISTORY – THE LEGACY OF OR TAMBO
+Feature
+Feature
+
+62 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 63Issue 2 diplomacy in action UBUNTU  thedircoza
+Feature
+Feature
+W
+ant to talk forgiveness,
+racial tolerance, social
+cohesion and justice?
+Okay, good – just
+don’t go on a tour
+of Constitution Hill. Go somewhere else.
+Admittedly, though, the tour guides are
+good at calming down tempers. And the skill
+occasionally comes in handy during a tour of
+this National Heritage Site.
+Built on the site of a former prison
+complex, Constitution Hill invokes painful
+memories of South Africa’s past and brings
+into sharp perspective the brutality of the
+apartheid system.
+To have the Constitutional Court of a
+free and democratic South Africa based at
+the site of this apartheid prison complex
+seems almost paradoxical, for here you have
+prejudice and justice under one roof. The
+tour guides have a line for it: “We’ve taken
+the bricks that used to imprison us to build
+a future for our country, to guard against the
+possibility of the injustices that happened
+here recurring.”
+But that hardly makes up for the
+humiliation suffered here by black prisoners,
+some of whom were common law criminals,
+but many more of whom were political
+prisoners. The crimes committed by inmates
+at this complex varied from shoplifting to
+one being a member of a banned political
+organisation, such as the African National
+Congress, Pan-Africanist Congress or the
+South African Communist Party. Some were
+arrested for not carrying “passes”, others for
+brewing traditional beer while being black (a
+crime during apartheid).
+The reasons for the hundreds imprisoned
+at the Number Four Prison varied, and the
+variation also extended to the way inmates
+were treated: if you were black, humiliation
+and torture awaited you; if you were white,
+relative luxury. The intention seems to have
+been to break the spirit of black resistance
+to apartheid, but some mavericks within the
+black anti-apartheid movement upheld their
+opposition to the system, despite the harsh
+and unjust punishment.
+Robert Sobukwe’s words of resistance
+are immortalised in the former prison: “We
+refuse to plead because our contention is
+that the law under which we are charged is
+a law made exclusively by the white man,
+speciﬁ cally for the oppression of blacks.”
+The story of the Number Four Prison,
+including the discrimination inside, is better
+told by the former inmates themselves.
+These include such famous political ﬁ gures
+as Nelson Mandela, Mahatma Gandhi,
+Robert Sobukwe, Winnie Madikizela-
+Mandela, Helen Joseph and more.
+Others, like former inmate Cornelius
+Manoto, are not well known, but their stories
+are not less alarming: “To eat from rusted
+containers was terrible; not to speak of the
+treatment from warders. Every morning, we
+would stand in the shade feeling cold not
+even seeing the sunshine. In the court we
+will be stripped naked and subjected to utter
+humiliation of the worst order.”
+Barbara Hogan, another former inmate,
+explains the racial preferential treatment:
+“This cell (in the white section of the
+Women’s Jail) was like none other I had
+CONSTITUTION
+HILLHILL
+ever known. A Van Gogh interior, wooden
+ﬂ oors, sash windows, three simple beds, a
+table and chairs. Freezing cold, certainly, but
+compared to police cells, absolute luxury.”
+Those who envisaged the concept of a
+Constitutional Court at the site of an apartheid
+prison complex say the project symbolises
+South Africa’s intricate and painful journey
+from apartheid to freedom.
+The transition was unprecedented in its
+efﬁ ciency, but the wounds are still fresh, and
+a lamentation by a former inmate betrays the
+apparent peace that exists between our past
+and our present.
+“We’ve taken
+the bricks
+that used to
+imprison us to
+build a future for
+our country, to
+guard against
+the possibility
+of the injustices
+that happened
+here recurring.”
+FEATURECONSTITUTION HILL – HEALING OLD WOUNDS THROUGH A NEW JUSTICE SYSTEMCONSTITUTION HILL – HEALING OLD WOUNDS THROUGH A NEW JUSTICE SYSTEMFEATURE
+HEALING OLD WOUNDS
+THROUGH A NEW JUSTICE SYSTEM
+By Nelson KgweteBy Nelson Kgwete
+Director: Media LiaisonDirector: Media Liaison
+Department of International Relations and CooperationDepartment of International Relations and Cooperation
+
+64 UBUNTU diplomacy in action Issue 2  DIRCOzawww.dirco.gov.za @theDIRCOza 65Issue 2 diplomacy in action UBUNTU  thedircoza
+York, the World Architectural Festival in
+Barcelona and the Florence Biennial in Italy.
+The museum offers a wide variety of
+exhibitions and public programmes –
+speciﬁ cally revolving around the
+memorialisation and the depiction of the
+apartheid narrative. The Red Location
+Museum moreover operates under the
+motto: “A world-class museum bridging
+the past towards the future”, and seeks
+to engage the public in educational
+and awareness-raising programmes on
+arts, culture and heritage; to lend itself
+to partnerships and collaborative work;
+to partake in poverty alleviation and
+entrepreneurship-growing initiatives; to
+adhere to international codes of practices;
+and to embrace ongoing intellectual
+engagements and critiques.
+“A world-class museum bridging
+the past towards the future”
+RED
+ATION
+ing the
+owards
+g
+future
+diplomacy in action
+e
+R
+ed Location is one of the
+earliest black townships
+of Port Elizabeth, Nelson
+Mandela Bay, and acquired
+its name due to a series
+of historic corrugated iron ediﬁ ces, which
+were rusted a deep red colour, and which
+stemmed from the First South African War
+(1899 to 1902).
+The area became a national hotspot
+during the anti-apartheid struggle and
+many prominent leaders, such as Nelson
+Mandela, Govan Mbeki, Raymond Mhlaba,
+Vuyisile Mini and Francis Baard played a
+distinctive political role here.
+The ﬁ rst cell of Umkhonto we Sizwe
+– the former military wing of the African
+National Congress – was established in
+Red Location by Nelson Mandela and the
+RED
+LOCATION:
+A symbol
+of our freedom
+ﬁ rst arrests during the National Deﬁ ance
+Campaign of 1952 transpired at the Railway
+Station in the area.
+The Red Location Museum is a primary
+development of the Red Location Cultural
+Precinct, which is a not-for-commercial
+urban renewal development under Nelson
+Mandela Bay Municipality. Here, visitors are
+treated not as mere consumers but rather
+as active participants.
+The museum has scooped several top
+international awards for its spectacular
+architecture (World Leadership – 2005,
+Dedalo Minose – 2006 and the RIBA
+Lubetkin –2006) and has furthermore
+been exhibited/featured, together with the
+completed structures of the Red Location
+Art Gallery and Electronic Library/Archives,
+at the Museum of Modern Art in New
+CONTACT DETAILS:
+Tel: +27 (0) 41 408 8400
+Fax: +27 (0) 41 408 8401
+ www.redlocation.org.za
+FEATURE RED LOCATION: A SYMBOL OF OUR FREEDOM RED LOCATION: A SYMBOL OF OUR FREEDOM FEATURE
+The Red Location Museum in New Brighton, Port Elizabeth, is a symbol of South Africa’s struggle for freedomThe Red Location Museum in New Brighton, Port Elizabeth, is a symbol of South Africa’s struggle for freedom
+64 65UNTU UBUNTUNTU
+fuu
+diplomacy in actiondiplomacy in actiondiplomacy in action
+u
+Issue 2 Issue 2 diplomacy in action UBUNTUDIRCOzaD
+www.www.dirco.gov.zawww.
+e
+@theDIRCOza thedircoza
+Feature
+Feature
+
+66 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 67Issue 2 diplomacy in action UBUNTU  thedircoza
+In the next decade, emerging-market economies are, for the ﬁ rst time
+in modern history, set to contribute more to global economic growth
+than the developed ones. This global rebalancing, together with the
+spread of low-cost airlines, air-space liberalisation, the removal of visa
+barriers and the growing popularity of online bookings, underscores
+that the extensive BRICS cooperation and partnership on travel and
+tourism among not only businesses but also governments offers
+boundless opportunities.
+IMPORTANT VEHICLE FOR SOCIAL INCLUSION
+Being witness to the evolution of the emerging economies, we
+cannot but celebrate the unique potential of the tourism sector to
+grow exponentially from low baselines over short periods. This sector
+is a haven for small enterprises, and, as a labour-intensive sector
+with a supply chain that cascades deep into national economies and
+communities, it is an important vehicle for social inclusion. It provides
+fast uptake for newly skilled workers, especially women and young
+people, in urban and rural areas alike. Each job in the tourism sector
+creates just under two jobs in the broader economy.
+South Africa is an emerging economy where we have experienced
+ﬁ rst-hand the amazing potential of this sector. In 1993, before the
+country’s ﬁ rst democratic elections, South Africa had just over
+3,3 million international arrivals. Today, the country has 12 million
+international arrivals, of whom 8,3 million are tourists. As it stands,
+tourism contributes 9% to the gross domestic product (direct and
+indirect), and supports one in every 12 jobs in South Africa. And we
+believe the best is yet to come: government and industry are united in
+their commitment to grow international arrivals to 15 million by 2020.
+The new growth will depend heavily on South Africa’s marketing
+investment in China, Brazil and India. China is undoubtedly an
+important market, and, in 2011, there was double-digit growth in
+tourist arrivals from China’s shores. Government is excited about the
+recent introduction of direct ﬂ ights between Beijing and Johannesburg
+in addition to those non-stop options between Hong Kong and
+Johannesburg and remains committed to ensure that tourism ﬂ ows
+represent a two-way trade.
+AFRICA A MAJOR SOURCE MARKET
+Africa is emerging as a major source market. Middle-class households
+on the continent already outnumber those in major emerging markets
+such as India. Half a billion people on the African continent are
+already connected to the world through mobile devices. In a mere
+three years from now, there will be just over 50 African cities with
+populations exceeding three million. Airline passenger numbers in
+Africa are expected to increase from 71 million in 2011 to 150 million
+by 2030, at which point Africa’s urban population of some 750 million
+will exceed all the current city dwellers in the West.
+EMERGING CONSUMER MARKETS
+Today, every tourist destination with a long-term view understands
+that a sound growth strategy for a resilient and sustainable tourism
+sector depends not only on a diversi ﬁ ed portfolio of geographic
+source markets, but also on a diversiﬁ ed and continuously innovated
+product and experience offering. It is about growth and creating new
+markets; it is about unlocking new sources of competitive advantage;
+and it is also about risk management and keeping pace with evolving
+consumer preferences.
+Today’s discerning consumers are demanding, and opt for
+ever-increasing customisation and personalised travel itineraries.
+A signi ﬁ cant number of these consumers are seeking greater
+authenticity through experiential, interactive and specialised travel
+– rather than mass or “one-size- ﬁ ts-all” package tourism. Higher
+Internet penetration, online sales and the spread of mobile commerce
+will only accelerate this trend.
+By developing balanced product portfolios that cater for the
+needs of emerging consumer segments, we are able to break
+through the ceiling of current offerings. We can create new demand
+(or make the pie bigger) and capitalise on niche markets that often
+offer more lucrative yields than mass-based markets. Many of these
+niche markets hold huge potential, such as cultural, heritage, rural
+or community-based, ecological, food and wine, and health and
+wellness tourism.
+Many of these tourist activities are often located outside traditional
+tourist areas. This means that more dispersed opportunities are
+created and more local communities are therefore empowered. In
+addition, niche subsectors often also require more specialised skills,
+meaning that better-quality jobs are created.
+Niche markets often soon become the new “mass”. It is a common
+misconception that diversifying into new niche segments necessarily
+means small volumes. Niche markets also have volume. A case in point
+is the China National Tourism Administration’s drive towards investment
+in, and the development and uptake of, ”red tourism” opportunities in
+China (i.e. encouraging visits to Chinese revolutionary sites) during
+the year of ”patriotic tourism” that marked the 90th anniversary of the
+Communist Party in 2011. The number of visitors to historic buildings
+and sites topped 360 million in China that year.
+The challenge is to adapt existing offerings, leverage current
+man-made and natural infrastructure and create new unique visitor
+experiences that play to the country’s strengths. By diversifying
+product portfolios, we enhance our international competitiveness in
+traditional and emerging source markets alike.
+By Mr Marthinus van Schalkwyk
+Minister of Tourism
+FFEAFEAFEAFEATURTUTURTUREE
+ TOURTOUROUROU ISM ISM SECTSECTOR TOR TO SPOS PO SPUR GUR GUR GLOBALOBALOBAL ECL ECL ECONOMONOMONOMIC RIC RC RECOVECOVECOVECOVERYERYERYRER
+G
+lobally, the tourism sector is making history in
+2012, in more than one way. Firstly, this is the
+year in which we expect to reach one billion
+international tourist arrivals worldwide. Secondly,
+this is the year in which tourism took a signiﬁ cant
+step forward on the international agenda when G20 heads of state
+and governments recognised the critical role of tourism as not only
+a driver of growth and development, but as a sector to spur global
+economic recovery.
+Much work remains to be done to position the tourism sector
+to realise its full potential in terms of job creation, social inclusion,
+services exports and foreign exchange earnings; fostering a
+better understanding between peoples and cultures; and green
+transformation.
+EMERGING-MARKET ECONOMIES ARE BOOSTING GLOBAL
+TOURISM FLOWS
+Fortunately, we are witnessing multispeed growth. The emerging
+economies continue to drive the recovery in international tourist
+ﬂ ows. While Europe stagnates, those countries in the emerging-
+market economies are boosting global tourism ﬂ ows and outbound
+spend. By 2015, the emerging economies are expected to account
+for 40% of all global departures.
+The rise of the Chinese outbound market as well as those in other
+emerging economies also tracks the global geopolitical and economic
+rebalancing that have been underway over the past decade. This
+is very clearly demonstrated by what we have witnessed while the
+world economy doubled in the last decade, where a third of the global
+economic growth came from the Brazil, Russia, India, China and
+South Africa (BRICS) countries.
+TO SPUR GLOBAL ECONOMIC
+RECOVERY
+In the next decade, e
+in modern history se
+SPUR GLOBAL ECONOMIC
+Tourism sector
+ By Marthinus van SchalkwykBy Marthinus van Schalkwyk
+Minister of TourismMinister of Tourism
+FEATURETOURISM SECTOR TO SPUR GLOBAL ECONOMIC RECOVERY
+Feature
+Feature
+
+68 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 69Issue 2 diplomacy in action UBUNTU  thedircoza
+FEATURE TABLE MOUNTAIN – A SEVENTH WONDER OF NATURE
+I
+n December 2012, Table Mountain
+was ofﬁ cially inaugurated as a New
+7 Wonder of Nature.
+According to the New7Won-
+ders Foundation, which is based in
+Switzerland and regulated under Swiss law,
+hundreds of millions of votes were cast for 28
+ﬁ nalists across the world.
+The other six wonders are the Amazon
+forest in South America, Halong Bay in Viet-
+nam, the Iguazu Falls in Brazil and Argentina,
+Jeju Island in South Korea, Komodo Island
+in Indonesia and the Puerto Princesa under-
+ground river in the Philippines.
+Table Mountain has withstood six million
+years of erosion and hosts the richest, yet
+By Jerry Matjila By Jerry Matjila
+Director-General: Director-General:
+Department of International Relations and CooperationDepartment of International Relations and Cooperation
+  A SEVENTH WONDER OF NATURE
+FEATURETABLE MOUNTAIN – A SEVENTH WONDER OF NATURE
+TABLE
+MOUNTAIN
+smallest ﬂ oral kingdom on Earth with over
+1 470 ﬂ oral species. The ﬂ at-topped moun-
+tain boasts numerous rare and endangered
+species. It is the most recognised site in
+Cape Town, owing to its unique ﬂ at-topped
+peaks which reach 1 086 m above sea level.
+Visitor numbers to Table Mountain
+reached record numbers after the mountain
+was named on the provisional list of seven
+sites on 11 November 2011, and the of ﬁ cial
+conﬁ rmation is expected to further boost visi-
+tor interest locally and abroad.
+It forms part of the Table Mountain Na-
+tional Park – one of 21 parks managed by
+South African National Parks.
+Feature
+Feature
+
+70 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 71Issue 2 diplomacy in action UBUNTU  thedircoza
+Top 10 Top 10
+reasons to reasons to
+visit South Africavisit South Africa
+4. Adventure
+South Africa is the adventure capital of the world. With
+over 130 adventures and counting, there is something
+for everyone, from mountain walks to shark cage-diving!
+
+5. Good weather
+In sunny South Africa, our great weather invites you
+to enjoy the outdoors, play golf year-round and take
+advantage of the nearly 3 000-km coastline.
+
+6. Rainbow nation
+The Rainbow nation celebrates all its African and
+immigrant cultures. Find out how friendly our people are
+while you try your tongue at 11 ofﬁ cial languages!
+
+1. Affordable
+During these tough times, who doesn’t want an affordable
+holiday? In South Africa, you can even afford luxury and
+have spending money for shopping and other treats!
+
+2. Natural beauty
+South Africa’s scenic wonders are legendary. From Table
+Mountain to God’s Window, our mountains, forests,
+coasts and deserts will feast your eye and lift your spirit.
+
+3. World-class facilities
+Whether you opt for Afro-chic or authentic Africa, you’ll
+ﬁ nd it easy to get around, ﬁ nd a comfortable place to
+stay, have a great meal, connect.
+7. Diverse experiences
+Go almost anywhere in South Africa and experience the
+ultimate combo of nature, wildlife, culture, adventure,
+heritage and vibe – you’re spoilt for choice, so pack it
+in!
+
+8. Wildlife
+Warning! Watching wildlife is addictive. First you start with
+the Big Five in so many ways, then whales, penguins,
+meerkats, wild dogs, birds and dung beetles.
+
+9. Freedom struggle
+Discover a nation’s struggle for freedom while following
+the footsteps of Mandela, Hector Pieterson and many
+other celebrated revolutionaries. It will touch and inspire
+you.
+
+10. Responsible tourism
+In South Africa you can travel with care as you explore
+our protected areas, contribute to social and conservation
+projects, buy recycled art and stay green.
+LIFLIFFESTESTTTTYLEYLELELYLE
+ TOP TOP TOP TOP 10 R10 R10 R10 REASOEASOEASOEASOE NS TNS TNS TNS TOVOV IO VIO SITSIT SOUTSOUTH AFFFA RICACACACACACACCACAAACACRICACARICAA
+ TOP TOPTOPTO 10 R0R10 EASOEASONS TNS TO VIOV ISIT SIT SOUTSOUTH AFH AFH A RICARICAC
+ LIFESTE YLEYLE
+Lifestyle
+Lifestyle
+Source: www.southafrica.net
+
+72 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 73Issue 2 diplomacy in action UBUNTU  thedircoza
+Lifestyle
+Lifestyle
+I always turn to the sports section
+ﬁ rst. The sports page records people’s
+accomplishments; the front page has
+nothing but man’s failures.
+Earl Warren, United States Chief •
+Justice, 1968
+The sports of the people afford an index
+to the character of the nation.
+Frederick W Hackwood, British •
+sportswriter, 1907
+I
+n many parts of the world, sport
+has played a catalytic role – in
+some cases minor and in other
+cases major – in establishing and
+accelerating social cohesion in a
+nation.
+Race discrimination came to a formal end
+in South Africa with the election of the ﬁ rst
+democratic Government in 1994. However,
+issues of race relations still linger in many
+facets of South African society. But sport is
+playing an important and crucial aspect in
+establishing social integration in the country.
+Although social cohesion in sport
+in its broadest form has a long history,
+socialisation in sport with regard to race
+commenced as a widespread international
+phenomena only in the late 1960s. It became
+South Africa went, it saw, it conquered.
+Nelson Mandela was invited and he
+was accorded head of state status at the
+opening ceremony. South Africa returned
+with two silver medals, one in tennis and
+the other in athletics. The athlete was Elana
+Meyer, a small, slightly built white girl from
+Stellenbosch, a town then well known for its
+resistance to integration. But on her return
+to South Africa, a large group from Soweto
+welcomed her with banners stating “Elana
+and Soweto are Friends Forever”.
+In fact, the motto for the Barcelona
+Games was “Friends Forever”.
+The road to Barcelona started the slow
+but encouraging process of social cohesion
+in South Africa.
+Nelson Mandela has always maintained
+that:
+“Sport has the power to change the world.
+It has the power to inspire. It has the power
+to unite people in a way that little else has
+… It is more powerful than governments in
+breaking down racial barriers.”
+His campaign to utilise the Springbok
+team’s participation in the Rugby World
+Cup held in South Africa in 1995 has
+been widely publicised in the ﬁ lm Invictus.
+Mandela effectively used the parading of the
+Springbok team and its mass support by the
+white population to cement unity of all the
+country’s race groups.
+John Carlin, author of the book recorded
+the happenings most vividly:
+Reports washed in from the afﬂ uent suburbs
+of Cape Town, Durban, Port Elizabeth
+and Johannesburg that white matrons
+were shedding generations of prejudice
+and restraint and hugging their black
+housekeepers, dancing with them on the
+leafy streets of prim neighbourhoods …
+Archbishop Tutu, who also had a keen nose
+for news agreed. The black celebrations
+were the story. ‘What we saw that day was
+a revolution”, said Tutu, joyous that he lived
+to see his country give birth to a new model
+of revolution, one in which the enemy was
+eliminated, he was brought into the fold; that
+instead of dividing the people, uniting them.
+The way South Africa sees its sport was
+adequately portrayed when former Deputy
+President of South Africa, Ms Phumzile
+Mlambo-Ngcuka, addressed a prestigious
+sports gathering and minced no words
+generally accepted that participation in sport
+“leads to the formation of a great number of
+social relations of an of ﬁ cial and unof ﬁ cial
+character, on the basis of which appear
+speciﬁ c forms of social behaviour operating
+beyond the bounds of the sports movement,
+which encourages social integration at
+various levels of social life.”
+No doubt, the South Africa’s apartheid
+government, fully conversant with the power
+of sport in bringing down and dismantling
+racial barriers, resisted the introduction of
+sports integration to maintain its white racial
+purity and this was amply demonstrated
+when in September 1965, South Africa’s
+apartheid newspaper and the mouthpiece of
+the then government, Die Transvaler, stated
+in its editorial:
+“In South Africa, the races do not mix on the
+sports ﬁ eld. If they mix ﬁ rst on the sports ﬁ eld,
+then the road to other forms of social mixing
+is wide open … With an eye to upholding the
+white race and its civilisation not one single
+compromise can be entered into.”
+On the other hand, South Africa’s major
+liberation movement, the African National
+Congress (ANC) understood the importance
+of sport in the nation-building process and its
+positive impact on social cohesion.
+As early as 1991, long before the
+envisaged democratic elections, the
+ANC, cajoled by the International Olympic
+Committee (IOC), had no hesitation in
+agreeing to South Africa’s participation in the
+1992 Barcelona Olympic Games.
+The dismantling of the racial structures
+in sport was just the beginning. The major
+sports bodies were still nearly all white. But
+the ANC and the overwhelming majority of
+the anti-apartheid sports structures were
+determined that South Africa would take part
+in the Barcelona Olympic Games.
+But why the hurry? Sport was not
+integrated. Development to address the
+inequities of the past hadn’t yet begun.
+The need for real transformation was being
+overlooked in a crazed dash to enable
+readmission into international sport. This was
+the view of a large sector of the political left.
+But it was necessary to appreciate the
+broader picture. South Africa’s progressive
+sports movement and the ANC wanted to initiate
+social cohesion in advance of establishing a
+democratic government in the country. What
+better opportunity was there than to participate
+in the Barcelona Olympic Games.
+s secti on
+ generally accepted
+Sport
+nt, it saw, it conquered.
+Nelson Ma ndela was in vited and he
+was accorded head of state status at th e
+been widely publicised in the ﬁ lm
+ Invictus
+.
+Mandela effectively used the parading of the
+Springbok team and itsm ass support by the
+ation of a great number of
+ano fﬁcial and unofﬁcial
+positive impact on social cohesion.
+As early as 1991 long befo re the
+South Africa wen
+d that participation in sport
+ of sport in the nation-building process and its
+& social     cohesion
+By Sam RamsamyBy Sam Ramsamy
+Executive Board Member, Executive Board Member,
+International Olympic Committee International Olympic Committee
+President, International Swimming Federation President, International Swimming Federation
+President, African Swimming ConfederationPresident, African Swimming Confederation
+Did you know?
+South Africa ﬁ nished the 2012 London
+Olympic Games as Africa’s best performing
+country, placed 24th on the medals table.
+With three golds, two silvers and one bronze
+medal, the London Olympics were South
+Africa’s most successful Games since the
+country was readmitted to the Olympic fold
+at the 1992 Barcelona Olympics.
+The gold medalists were:
+the men’s lightweight four rowing team:  •
+Sizwe Ndlovu, Matthew Brittain, John
+Smith and James Thompson
+Cameron van der Burgh•
+Chad le Clos.•
+The Paralympic Games was held from
+29 August to 9 September. The South African
+Paralympic team returned home with a total
+of 29 medals – eight gold, 12 silver and nine
+bronze.
+The gold medalists were:
+Natalie du Toit (3)•
+Oscar Pistorius (2)•
+Charles Bouwer•
+Ilse Hayes•
+men’s 4x100m Relay (Arnu Fourie, •
+Samkelo Radebe, Zivan Smith and
+Pistorius)
+Fanie van der Merwe.•
+about sport achievements. She honestly
+stated that the only time that all members of
+Parliament – ruling party and opposition –
+unashamedly hugged each other was when
+a South African team or individual won an
+international contest.
+The 2012 London Olympic Games
+illustrated the whole of South Africa’s joy
+when 20- year-old Chad Le Clos, not only
+gained a gold medal in the 200 m butter ﬂ y
+swimming event, but beat the legendary
+American, Michael Phelps, who only
+managed to come second. There was a
+general good feeling throughout the country.
+The Olympic Games has undoubtedly
+become the greatest social force in the
+world today. “No monarch ever held sway
+over such vast expanse of territory.” – Avery
+Brundage, Opening of the IOC session in
+Rome, 1960.
+LIFESTTYLE
+ SPORPORRRRRRRRRRRRTA NTA NT ANTATA NT ANT ANT ANNNANANNNNDS OD SOD SOSODS ODDSD SODDD SOD SOOD CIACIACC ALAALLC AAC LC  COHCOHOHHHHHHCOHCOHOHOH CO ESIESEESIOSIOOOOOEEES NNNNNNNN
+ LIFESTYLESPORT AND SOCIAL COHESION
+
+74 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 75Issue 2 diplomacy in action UBUNTU  thedircoza
+LIFESTYLEBEST CREW IN THE WORLDLIFESTYLE BEST CREW IN THE WORLD
+O
+ne of South Africa’s highlights at the recent
+Olympic Games in London was the achievements
+of the country’s lightweight fours team in what was
+described as one of the greatest rowing ﬁ nishes
+the Olympics has ever seen.
+On 2 August at Eton Dornay, the green-and-gold machine
+surged from fourth position with 500 metres to go, eclipsing Australia,
+Denmark and Britain to win gold by 0.25 seconds.
+The achievements of South Africa’s Olympic Oarsome Foursome
+– Sizwe Lawrence Ndlovu, Matthew Brittain, John Smith and James
+Thompson – didn’t end there. They recently received the World
+Rowing 2012 Male Crew of the Year Award in Ireland at a gala dinner
+held by FISA, the World Rowing Federation, which explained that
+the “spectacular Olympic gold medal performance by South Africa’s
+lightweight men’s four, the ﬁ rst for a rowing team from Africa” was
+one of the main reasons why the crew was chosen for the award.
+They also received the Team of the Year Award at the South African
+Sports Awards held in Sandton.
+The foursome go back a long way, having honed their rowing
+skills at school level.
+Ndlovu was born in Newcastle, KwaZulu-Natal, and matriculated
+at Mondeor High School in Johannesburg. Thompson, who was
+born in Cape Town, went to St Andrew’s Prep before moving on to
+St  Andrew’s College in Grahamstown, while Smith and Brittain, both
+born in Johannesburg, also rowed at school level.
+They joined the under-23 camp at Rowing South Africa after high
+school, where they each became medal winners in their own right
+before embarking on a joint Olympic training programme.
+South Africa’s Oarsome Foursome plans to share their best-
+team-in-the-world as well as their best-team-in-South Africa
+experience – and what brought them to this awesome pinnacle in
+their rowing career – because they believe strong team-building and
+a united vision are as vital to business success as it is in competitive
+athletics.
+After receiving the Crew of the Year Award and arriving in South
+Africa, Ndlovu said: “This is an awesome moment for our team and
+we’re going to share this inspiration and energy with South African
+businesses because there are huge similarities between our winning
+as a team and winning in business”.
+“When you consider the teams we were up against, it is beyond
+anything we ever dreamed could happen,” says Ndlovu, who the
+team calls their “rhythm man” as the others follow his lead regarding
+the speed and rhythm of the oars. “Really it’s like walking on the
+moon.”
+“Best “Best
+crew in the world”crew in the world”
+According to Thompson, who sits in the bow position at the opposite
+end of the four-man boat: “We worked and trained like crazy, six
+hours a day, two and three times a day, seven days a week, with our
+mental vision on gold at the Olympics … and this Crew of the Year
+Award really wasn’t even on our radar! And then a few days later to
+ﬂ y back to South Africa and get ‘Best South African Crew’ … well
+it’s beyond words. It’s a magniﬁ cent moment for all of us and we’re
+going to include it in our presentation to share with business teams
+where unity of vision and mutual trust is as important as it is to us
+in our boat.
+“Etana Insurance is a major supporter of rowing and has put a
+team together to help us to produce a motivating presentation to help
+us earn additional income so we can support ourselves for the next
+four years between now and the Olympics in Brazil. The purpose of
+the presentation is to inspire business teams. It shows our training
+and competitive footage and it’s very satisfying that our athletic
+success can have a practical impact on motivating teams to win in
+the corporate world because that has all kinds of far-reaching effects
+in very practical ways.”
+Brittain explains: “There are lots of parallels between winning in
+sport and winning in the commercial world. We are really enjoying
+giving those motivational talks and sharing our insights.”
+Smith is the joker of the team and says: “Keeping your weight at the
+right level to qualify for lightweight status is as important as having
+instant energy at hand, so we always make sure we have a packet
+of M&Ms at hand.”
+Paolo Cavalieri is a South African born to Italian parents who has
+been inﬂ uencing South African rowing as chair of the International
+Commission in charge of training and selection. He is also chair
+of Etana Insurance, which has put a team together to make sure
+commerce and industry can be inspired by the Olympic victory. “This
+is a proud moment for South Africa and rowing and their presentations
+are motivating local businesses. It turns out that not only are these
+guys Olympic champions in a boat, they are also terriﬁ c and humorous
+motivational speakers which was an unexpected discovery.
+“What a lot of people don’t realise is that the intense dedication
+these four have had to give to their sport has brought signi ﬁ cant
+ﬁ nancial strain for each of them. The fact that they have proved
+themselves to be as good at inspiring business teams as they are
+at winning medals and awards is going to help them to support
+themselves … and there’s four years to go to Brazil 2016.
+“The foursome go back
+a long way, having
+honed their rowing
+skills at school level.”
+Lifestyle
+Lifestyle
+
+76 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 77Issue 2 diplomacy in action UBUNTU  thedircoza
+Did you know?
+Charlize Theron was recently in South Africa
+for the ﬁ lming of Mad Max: Fury Road .
+The ﬁ lm beneﬁ tted from the Department of
+Trade and Industry’s Film and TV Production
+Incentive. The incentives are allocated to
+producers and ﬁ lm companies that use
+South Africa as a preferred ﬁ lm location.
+Fury Road was approved on 28 June 2012
+with an incentive of R81 million. It is the
+largest feature ﬁ lm to date to be done in
+South Africa by Warner Bros. A portion of
+the movie was ﬁ lmed in Namibia. Shooting
+was done in Cape Town and the production
+was expected to support over 800 jobs in the
+industry.
+I
+n 2008, South African-born Academy
+Award-winning actress Charlize
+Theron was designated as a United
+Nations (UN) Messenger of Peace
+with a special focus on eliminating
+violence against women
+.
+Messengers of peace are individuals
+who possess widely recognised talents in the
+ﬁ elds of art, ﬁ lm, literature, music and sports,
+helping to raise worldwide awareness of the
+organisation’s ideals and activities. Through
+their public appearances, contact with the
+international media and humanitarian work,
+they expand public understanding of how
+the UN helps to improve the lives of people
+everywhere.
+An activist and an acclaimed actress, she
+founded the Charlize Theron Africa Outreach
+Project, in partnership with the Entertainment
+Industry Foundation, to create a safer, healthier
+and better life for impoverished children and
+their families in South Africa, especially those
+suffering from HIV and AIDS. As its ﬁ rst
+mission in 2007, the project collaborated with
+Oprah’s Angel Network to create a mobile
+health and computer unit designed to improve
+the health and social development of youth
+in Umkhanyakude District. Thousands of
+students in this remote community now have
+access to counselling and testing for HIV and
+other health issues, and receive computer
+training and health education, with a special
+focus on preventing HIV.
+Theron also ﬁ lmed a series of public
+service announcements in support of the Cape
+Town Rape Crisis Centre, urging no tolerance
+for rape or domestic violence.
+Announcing her designation at the time,
+UN Secretary-General Ban Ki-moon said:
+“You have used your voice, compassion and
+special relationship with the public to create a
+better world. I am convinced you would be a
+persuasive and powerful Messenger of Peace.
+You have consistently dedicated yourself to
+improving the lives of women and children in
+South Africa, and to preventing and stopping
+violence against women and girls. I look
+forward to working with you to end this terrible
+scourge.”
+Some of the ﬁ lm roles she has chosen
+reﬂ ect her concern with the issue of violence
+against women. Theron is perhaps best known
+for her Oscar-winning performance in Monster,
+in which she played Aileen Wuornos, a serial
+killer whose youth was characterised by abuse.
+In North Country, her character, Josie Aimes,
+was a woman with a history of domestic abuse
+who fought back against sexual harassment.
+United Nations Messenger of Peace
+United Nations Messenger of Peac
+United Nations Messenger of Peac
+CharlizeCharlizeTheronTheron
+In Zulu, there’s a word, “Ubuntu,”
+which translated means, “I am
+because we are”. It’s the idea that
+to be human is to be interconnected
+with one another. As we are united,
+I believe we all have a responsibility
+to help each other. Together,
+standing in solidarity with those
+on the frontlines in Africa, we can
+make a difference.
+– CharlizeTheron (www.charlizeafricaoutreach.org)
+LIFESTYLE CHARLIZE THERON:  UNITED NATIONS MESSENGER OF PEACE
+UNITED NATIONS
+LIFESTYLECHARLIZE THERON:  UNITED NATIONS MESSENGER OF PEACE
+A strongerA stronger
+UN forUN for
+a bettera better
+worldworld
+UNITED NATIONS
+
+78 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 79Issue 2 diplomacy in action UBUNTU  thedircoza
+D
+esign talent from the Arican continent and its Diaspora
+was acknowledged at the Fourth Annual Africa Fashion
+Awards in Johannesburg on 28 October 2012. The
+awards were the end-result of over 20 shows in the
+inaugural Mercedes-Benz Fashion Week Africa.
+Designers from South Africa, Côte d’Ivoire, Mozambique, Cameroon,
+Rwanda,  Angola, Democratic Republic of Congo, Trinidad, Nigeria,
+Ghana and the African Diaspora participated. Nomination criteria
+included the notion that their work represents a strong emergence of a
+global African signature along with measuring the potential global reach
+of their brand.
+African Fashion International Executive Chairperson, Dr Precious
+Moloi-Motsepe, said the awards rewarded African fashion excellence
+using global industry criteria and recognised the exceptional talent of
+African industry members worldwide.
+International Relations and Cooperation Minister, Ms Maite Nkoana-
+Mashabane, attended the ceremony and presented some of the
+awards.
+Winners included:
+Nigerian Designer, Ituen Basi, won the Designer of the Year: Africa •
+Award
+designers in the spotlight
+Africa’s
+fashion
+Ghanaian-born, American-based designer, Mimi Plange, was •
+announced as Designer of the Year: International Award
+Mozambican Taibo Bacar won the Emerging Designer of the Year: •
+Africa Award
+Côte d’Ivoire-born and Paris-based, Laurence Airline, won Emerging •
+Designer of the Year: International Award
+The Accessories Designer of the Year Award went to Doreen Mashika •
+from Zanzibar
+South Africa’s Thula Sindi was crowned the SA Tourism Designer of •
+the Year
+The African Fashion Awards Young Designer of the Year Award was •
+presented to Capetonian, Kim Gush.
+Judges included local and international fashion leaders such as Felicity
+Spies of Egality, Robyn Cooke of Style Guide Cape Town, Bryan
+Ramkilawan, CEO of Cape Town Fashion Council, Elle magazine’s
+Fashion Director, Poppy Evans, and internationally-acclaimed fashion
+journalist and Vanity Fair Editor-at-Large, Michael Roberts.
+Lifestyle
+Lifestyle
+LIFESTYLEYYLYYYLYYYYYLLLLLL
+ AFRIRIRIRIRIIR CA’SCA’SCA’SCA’SCA’SA’A’CA’SCA’SCA’SCA’SACAA’CAA S FASFASFASASASASASASASASASFFAASSSSHIONHIONHIONHIONHIONHIONHIONHIONHIONHIONHIOONONONN DES DESDESDESSSSDESDESDESSSSSIGNEIGNEGNEGG RS IRS RS RS RSRRS N THT E SPOTLIGH
+T
+ AFRIA CA’SS FASFA HIONO  DESSIGNERS IRS N THTHE SPES OTLIOTL GHTGHT
+ LIFESTESTYLELE
+
+80 UBUNTU diplomacy in action Issue 2  DIRCOza
+www.dirco.gov.za
+ @theDIRCOza 81Issue 2 diplomacy in action UBUNTU  thedircoza

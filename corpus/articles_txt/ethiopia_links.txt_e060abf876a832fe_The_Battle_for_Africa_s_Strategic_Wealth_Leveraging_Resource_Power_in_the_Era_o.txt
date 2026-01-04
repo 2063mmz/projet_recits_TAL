@@ -1,0 +1,103 @@
+seed_url: https://www.ifa.gov.et/2025/12/09/the-battle-for-africas-strategic-wealth-leveraging-resource-power-in-the-era-of-critical-mineral-geopolitics/
+final_url: https://www.ifa.gov.et/2025/12/09/the-battle-for-africas-strategic-wealth-leveraging-resource-power-in-the-era-of-critical-mineral-geopolitics/
+title: The Battle for Africa’s Strategic Wealth: Leveraging Resource Power in the Era of Critical Mineral Geopolitics
+date: Dec 9, 2025
+via: requests
+http_status: 200
+content_type: text/html; charset=utf-8
+note: ok
+
+Introduction
+The world is rapidly moving to a new wave of technological evolution where Artificial intelligence (AI) is transforming the way we work, learn things and support innovation efforts; Green technologies reshape production systems and accelerate the transition to sustainable development. These shifts are redefining global competitiveness, reframe labor market modalities and support data driven decision making, bringing new opportunities for individuals, businesses entities and countries. Additionally, this transformation redirects the energy demand as the adoption of environmental friendly technologies such as electric vehicles has become part of our lives and prior preferences.
+Modern societies and economies has increasingly rely on critical minerals. Contemporary technological inventions highly demand critical minerals as crucial element, as more industries and economies are transitioning to clean energy sources.
+[i]
+Apart from critical minerals as inputs of energy production and supporting transition efforts, they play a prominent role in defense technologies and weapons systems, Aerospace components and satellite systems, digital infrastructure and semiconductor manufacturing and Medical equipment and pharmaceutical production sectors
+[ii]
+This technological shift forms critical minerals equally important components in the era of Artificial intelligence and green technology revolution. The demand and extraction of minerals such as lithium, graphite and cobalt
+will need to increase by
+at least
+500
+per cent by 2050.
+[iii]
+According to the 2023 Critical Minerals Market Review by the International Energy Agency, demand for lithium tripled, and that of cobalt and nickel rose by 70% and 40%, respectively, from 2017 to 2022.
+[iv]
+Similarly, the market size of critical minerals doubled over the past five years, reaching $320 billion in 2022.
+[v]
+Africa stands at the forefront of this transformative global shift towards sustainable energy sources, as the world increasingly pivots to green technologies. The continent’s mineral reserve is estimated to constitute 30 percent of the world’s known mineral deposit,
+[vi]
+including 85% of the world’s manganese, 80% of platinum and chromium, 47% of cobalt, and significant shares of graphite and copper
+[vii]
+, positioning the continent as the key player in the emerging global green technology revolution.  As countries race to secure the critical minerals needed for clean energy technologies such as electric vehicles, battery storage systems and renewable energy Infrastructure, Africa is drawing into the spotlight in global geopolitics. This intersection of global energy demand and continental endowment of resources underscores Africa’s strategic importance in the 21
+century new technological era and energy transition.
+Critical Mineral Geopolitics
+The importance of Africa in mineral geopolitics has increased significantly as the continent is a cheap and abundant source of the industrial supply chain in critical mineral markets. It is within this context that major global powers such as China, United States, United Kingdom, and European Union, Japan as well as several middle powers have become increasingly interested to enhance and renew their diplomatic relationship with African countries. They are also investing in infrastructure project and introducing various development initiatives aimed implicitly or explicitly to facilitate the mineral supplies needed by their industries and high tech companies.
+As part of a larger strategy to lessen reliance on Chinese-dominated supply chains, the United States has increased its focus on African critical minerals, particularly after China banned the export of Germanium and Gallium to the United States in December 2024
+[viii]
+, two metals critical to semiconductors and military uses. In particular, the US has established a number of mineral agreements, such as the most recent one with Ukraine, to boost strategic and domestic resource availability right away. The country is also aggressively engaging in Africa’s mineral market. It has committed $553 million investment on the Lobito Atlantic Railway upgrade in Angola; implement the Minerals Security Partnership (MSP) with allies to coordinate investments and establish bilateral critical mineral partnerships with several African nations including Angola, Democratic Republic of Congo and Zambia.
+[ix]
+All these efforts are manifestations that US severely is in need of competing to possess critical minerals in Africa.
+Over the past 20 years, China has maintained a dominant position in African essential minerals by controlling almost 70% of the world’s processing capacity for 19 out of 20 vital minerals. Furthermore, China has extracted and imported 28% of Africa’s graphite, 58% of its manganese, and 72% of its cobalt.
+[x]
+China is also a key country investing in infrastructures such as Tanzania-Zambia Railway Authority (TAZARA) revitalization which will cost over $1.4 billion and leveraging decades of infrastructure development including Belt and road initiative and mining investments to maintain its critical mineral dominance. Japan has become a key player and significant competitor by supporting the Nacala Corridor connecting Zambia and Malawi to the Indian Ocean via Mozambique. The European Union has also developed its Critical Raw Materials Act with specific provisions targeting African partnerships
+[xi]
+and signing memorandum of understanding with South Africa (2025), Rwanda (2024), DRC and Zambia (2023)
+[xii]
+to increase its supply of raw materials  through what they call it ‘Raw material diplomacy’.
+[xiii]
+All these infrastructural investment’s particularly those linking mineral extraction sites to ports along with the rise in bilateral agreements by international powers; reflect their primary goal of securing mineral resources to fuel their competition in global technological race. As a result, Africa is increasingly becoming a battle ground shaped by the pressures of this new technological era. Amid, the growing technological competition, particularly between China and the United States, Africa has emerged as a key battleground for strategic minerals. States such as DRC. Zambia, Burundi, Tanzania in particular has become centers of competition among international actors and directly or indirectly their peace and stability is also linked with these contestation.
+Leveraging  Resource power and Projecting strategic influence
+As global powers increasingly view Africa as an important player to their economic future and a vital source of supply chain in the race for technological competition, African countries should grab this opportunities for their diplomatic influence, economic development and projecting the continents role in global economy. Africa can leverage its mineral wealth as a strategic tool in diplomacy by negotiating access to critical minerals in exchange for security cooperation and strengthening capacity for strong resource governance. Mineral diplomacy could enable African states to utilize natural resource demand for broader political and security gains. For example as DRC face the advance of M23 rebels in its eastern provinces, the government has made a deal to leverage its minerals in exchange for security assistance from the U.S. government.
+Additionally, International actors are also highly interested to invest in infrastructures such as railways and ports to ease business operations in mineral sector. The U.S.-backed Lobito Corridor, which links Angola’s Atlantic coast to copper and cobalt mines in Zambia and the Democratic Republic of the Congo; the China-backed TAZARA Railway, which links Tanzania’s Dar es Salaam port to Zambia’s copper belt; and the Japan-backed Nacala Corridor, which links Zambia and Malawi to Mozambique’s Nacala port on the Indian Ocean, are few examples. African nations should aggressively take advantage of these opportunities by negotiating their critical minerals for long-term development results, as more international players will be interested in investing as the role of key minerals in technology grows in the upcoming decades.
+Furthermore, African nations could use foreign partners to invest in local manufacturing and refining with the goal of exporting value-added critical mineral goods, as more global and middle-power nations are investing in critical mineral extraction. For example, Zimbabwe banned the export of raw lithium to compel investors to process it domestically; Namibia is positioning itself as a major green hydrogen producer looking to build integrated hydrogen and ammonia production facilities to supply global markets; and the DRC and Zambia have moved to restrict raw cobalt and copper exports, demanding that processing be done locally.
+[xiv]
+Other nations should follow the same footsteps by balancing national interest and foreign direct investment to boost local economies.
+In general, African nations can maximize benefits by negotiating more favorable terms with investors and as the world needs the continents critical minerals, it’s time for Africa to leverage its resource power to be an important player in global political economy. However, African countries should introduce strong resource governance frameworks and monitoring mechanisms since critical minerals could produce negative outcome in peace and stability of those nations
+Conclusion
+Africa hosts significant deposits of copper, cobalt, lithium, manganese, platinum group metals, rare earth elements, graphite, and bauxite, among others. This puts the continent at the new front in critical minerals power play as the technological shift the world is witnessing needs Africa’s strategic wealth. International actors such as USA, China, Europe, Japan and others are deeply involving in critical geopolitical competition and Africa is becoming a battleground for them to secure sufficient enough resources for their green energy transitions, defense technologies,  semiconductor manufacturing etc. Realizing the role their strategic wealth plays, Africa should use these opportunities to strength their diplomatic bargaining power, negotiating their critical minerals for long term development outcomes and leverage international partners to invest in local refining and manufacturing aiming to export value added critical mineral products.
+References
+[i]
+Calderon, J.L., Smith, N.M., Bazilian, M.D., Holley, E., 2024. Critical mineral demand estimates for low-carbon technologies: what do they tell us and how can they evolve? Renew. Sustain. Energy Rev. 189, 113938
+https://doi.org/10.1016/j. rser.2023.11
+[ii]
+Zadehon, J. (2025). Africa Emerges as New Front in Critical Minerals Power Play. Discovery Alert.
+https://discoveryalert.com.au/africa-critical-minerals-2025-competition-resources/
+[iii]
+Josephson, P & and Viktoriya Zakrevskaya
+, V. (2025). Why the West is missing out on Africa’s minerals. ENGELSBERG IDEAS.
+https://engelsbergideas.com/essays/why-the-west-is-missing-out-on-africas-minerals/
+[iv]
+International Energy Agency (IEA), 2023. Critical Minerals Market Review 2023. IEA, Paris.
+https://www.iea.org/reports/critical-minerals-market-review-2023
+[v]
+Ibid.
+[vi]
+EHS Africa Logistics
+. Unlocking Africa’s Mineral Wealth: The Road to Value Addition.
+[vii]
+Alexander, J. (2024).  Monopoly, Minerals and Mines: The US and China’s fight over mineral control in Sub-Saharan Africa. Young diplomats society.
+https://www.theyoungdiplomats.com/post/monopoly-minerals-and-mines-the-us-and-china-s-fight-over-mineral-control-in-sub-saharan-africa
+[viii]
+Syam, N. (2025). ‘Minerals for Security’: The U.S. Re-engages Africa to Counter China.
+Chennai Centre for China Studies
+[ix]
+Zadehon, J. (2025). Africa Emerges as New Front in Critical Minerals Power Play. Discovery Alert.
+https://discoveryalert.com.au/africa-critical-minerals-2025-competition-resources/
+[x]
+Syam, N. (2025). ‘Minerals for Security’: The U.S. Re-engages Africa to Counter China.
+Chennai Centre for China Studies
+[xi]
+Ibid
+[xii]
+https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/raw-materials-diplomacy
+[xiii]
+Ibid
+[xiv]
+Morris, M. A. (2025). Africa’s Resource Power: The Battle for Minerals and Energy
+About the author
+Yalemsew Genetu
+is a researcher of African Affairs at the Institute of Foreign Affairs
+Disclaimer
+The content disseminated by the Institute of Foreign Affairs (IFA) – including, but not limited to, publications, public statements, events, media appearances, and digital communications – reflects the views of individual contributors and does not necessarily represent the official positions or policies of the Institute, its partners, or any affiliated governmental or non-governmental entities.
+While the IFA endeavors to ensure the accuracy, integrity, and timeliness of the information presented, it makes no representations or warranties, express or implied, regarding the completeness, reliability, or suitability of such content for any purpose. The Institute expressly disclaims any liability for errors or omissions, as well as for any actions taken or decisions made based on the information provided.
+The inclusion of external links, references, or third-party resources does not constitute an endorsement by the Institute. Additionally, engagement on social media platforms – including, but not limited to, likes, shares, retweets (RTs), or reposts – shall not be interpreted as an endorsement or validation of the views expressed therein.
+Readers and audiences are encouraged to exercise critical judgment and seek independent verification when interpreting or relying upon any information disseminated through publications and posts on the Institute’s platforms or representatives.
