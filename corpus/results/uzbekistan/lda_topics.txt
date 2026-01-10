@@ -1,0 +1,65 @@
+Country: uzbekistan
+Method: LDA Topic Modeling
+Coherence Score: 0.3821
+Number of Topics: 5
+
+Topic 0:
+  2020: 0.0193
+  2019: 0.0185
+  one: 0.0101
+  2017: 0.0101
+  forum: 0.0093
+  green: 0.0087
+  trade: 0.0073
+  received: 0.0063
+  chinese: 0.0061
+  countries: 0.0057
+
+Topic 1:
+  2019: 0.0500
+  2023: 0.0429
+  2022: 0.0144
+  2018: 0.0131
+  address: 0.0099
+  uzbek: 0.0083
+  june: 0.0079
+  industry: 0.0061
+  receives: 0.0058
+  arrives: 0.0057
+
+Topic 2:
+  construction: 0.0159
+  projects: 0.0108
+  year: 0.0093
+  transport: 0.0086
+  system: 0.0084
+  tashkent: 0.0081
+  project: 0.0080
+  facilities: 0.0067
+  water: 0.0066
+  services: 0.0051
+
+Topic 3:
+  countries: 0.0108
+  central: 0.0107
+  sco: 0.0093
+  asia: 0.0088
+  trade: 0.0058
+  regional: 0.0057
+  organization: 0.0054
+  well: 0.0051
+  joint: 0.0049
+  states: 0.0048
+
+Topic 4:
+  state: 0.0107
+  2017: 0.0092
+  one: 0.0089
+  chinese: 0.0082
+  country: 0.0074
+  two: 0.0070
+  tashkent: 0.0069
+  year: 0.0066
+  visit: 0.0066
+  city: 0.0065
+

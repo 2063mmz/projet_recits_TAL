@@ -1,0 +1,65 @@
+Country: serbia
+Method: LDA Topic Modeling
+Coherence Score: 0.4062
+Number of Topics: 5
+
+Topic 0:
+  great: 0.0150
+  time: 0.0149
+  photo: 0.0142
+  section: 0.0141
+  one: 0.0136
+  highway: 0.0136
+  new: 0.0127
+  goll: 0.0121
+  presidency: 0.0121
+  dimitrije: 0.0121
+
+Topic 1:
+  expressed: 0.0166
+  support: 0.0141
+  out: 0.0139
+  visit: 0.0131
+  pointed: 0.0103
+  economic: 0.0096
+  projects: 0.0093
+  infrastructure: 0.0093
+  occasion: 0.0093
+  respect: 0.0081
+
+Topic 2:
+  europe: 0.0176
+  trade: 0.0141
+  its: 0.0133
+  minister: 0.0129
+  central: 0.0122
+  eastern: 0.0117
+  country: 0.0116
+  year: 0.0104
+  well: 0.0100
+  2020: 0.0089
+
+Topic 3:
+  railway: 0.0028
+  works: 0.0024
+  country: 0.0024
+  construction: 0.0024
+  europe: 0.0024
+  expressed: 0.0024
+  time: 0.0024
+  economic: 0.0024
+  well: 0.0023
+  first: 0.0023
+
+Topic 4:
+  railway: 0.0706
+  works: 0.0326
+  high: 0.0252
+  speed: 0.0236
+  section: 0.0229
+  construction: 0.0223
+  novi: 0.0217
+  sad: 0.0217
+  photo: 0.0193
+  budapest: 0.0186
+

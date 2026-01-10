@@ -1,0 +1,90 @@
+Multi-Country Topic Modeling Analysis Summary
+============================================================
+
+Country: uzbekistan
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.3821
+
+------------------------------------------------------------
+
+Country: russia
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4178
+
+------------------------------------------------------------
+
+Country: ethiopia
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.5693
+
+------------------------------------------------------------
+
+Country: nigeria
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.3882
+
+------------------------------------------------------------
+
+Country: china
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4934
+
+------------------------------------------------------------
+
+Country: indonesia
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4884
+
+------------------------------------------------------------
+
+Country: south
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4247
+
+------------------------------------------------------------
+
+Country: serbia
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4062
+
+------------------------------------------------------------
+
+Country: tanzania
+Method: Statistical
+Number of Documents: 6
+Total Words: 51495
+Unique Words: 8018
+
+------------------------------------------------------------
+
+Country: mongolia
+Method: LDA
+Number of Topics: 5
+Coherence Score: 0.4789
+
+------------------------------------------------------------
+
+Country: uganda
+Method: Statistical
+Number of Documents: 2
+Total Words: 11805
+Unique Words: 3546
+
+------------------------------------------------------------
+
+Country: morocco
+Method: Statistical
+Number of Documents: 9
+Total Words: 6206
+Unique Words: 3969
+
+------------------------------------------------------------
+

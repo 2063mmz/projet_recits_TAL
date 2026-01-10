@@ -1,0 +1,1338 @@
+Country: tanzania
+Method: Statistical Analysis (Limited Corpus)
+============================================================
+
+1. TOP WORDS BY FREQUENCY
+----------------------------------------
+  tanzania: 1033
+  kwa: 676
+  katika: 600
+  mheshimiwa: 467
+  nchi: 417
+  spika: 367
+  foreign: 306
+  cooperation: 303
+  wizara: 295
+  affairs: 290
+  2025: 282
+  afrika: 252
+  development: 251
+  cha: 235
+  serikali: 225
+  african: 218
+  july: 216
+  nchini: 209
+  september: 209
+  mwezi: 200
+  2018: 194
+  bulletin: 184
+  pamoja: 170
+  mwaka: 168
+  jumuiya: 166
+  maendeleo: 166
+  regional: 163
+  hon: 163
+  minister: 161
+  president: 156
+
+2. TOP WORDS BY TF-IDF
+----------------------------------------
+  tanzania: 0.3269
+  kwa: 0.2118
+  katika: 0.1947
+  foreign: 0.1934
+  development: 0.1485
+  cooperation: 0.1338
+  mheshimiwa: 0.1182
+  nchi: 0.1128
+  nchini: 0.1099
+  wizara: 0.1075
+  affairs: 0.0941
+  spika: 0.0936
+  african: 0.0861
+  regional: 0.0784
+  president: 0.0772
+  kati: 0.0758
+  afrika: 0.0746
+  united: 0.0656
+  africa: 0.0647
+  2018: 0.0625
+
+3. KEY PHRASES/KEYWORDS
+----------------------------------------
+  mheshimiwa spika: 363.0000
+  foreign affairs: 268.0000
+  september 2025: 203.0000
+  july september: 184.0000
+  affairs bulletin: 180.0000
+  bulletin july: 178.0000
+  afrika mashariki: 110.0000
+  east african: 100.0000
+  kwa ajili: 99.0000
+  jamhuri muungano: 86.0000
+  muungano tanzania: 86.0000
+  dar salaam: 78.0000
+  spika wizara: 77.0000
+  jumuiya afrika: 71.0000
+  affairs east: 68.0000
+  african cooperation: 68.0000
+  mwaka fedha: 62.0000
+  hapa nchini: 62.0000
+  bilateral relations: 62.0000
+  united republic: 56.0000
+
+4. WORD CO-OCCURRENCE (Top pairs)
+----------------------------------------
+  mheshimiwa <-> spika: 742
+  affairs <-> foreign: 560
+  2025 <-> foreign: 436
+  2025 <-> affairs: 422
+  2025 <-> july: 420
+  2025 <-> september: 418
+  foreign <-> september: 408
+  bulletin <-> foreign: 378
+  foreign <-> july: 374
+  affairs <-> bulletin: 374
+  affairs <-> september: 374
+  2025 <-> bulletin: 374
+  affairs <-> july: 372
+  july <-> september: 370
+  bulletin <-> july: 364
+
+5. SEMANTIC CLUSTERS (PMI-based)
+----------------------------------------
+  Cluster 1: affairs, september, cooperation, 2025, july, foreign, bulletin
+  Cluster 2: tanzania, katika, wizara, kwa, mheshimiwa, spika
+
+6. TOP BIGRAMS
+----------------------------------------
+  mheshimiwa spika: 363
+  foreign affairs: 268
+  september 2025: 203
+  july september: 184
+  affairs bulletin: 180
+  bulletin july: 178
+  afrika mashariki: 110
+  east african: 100
+  kwa ajili: 99
+  jamhuri muungano: 86
+  muungano tanzania: 86
+  dar salaam: 78
+  spika wizara: 77
+  jumuiya afrika: 71
+  affairs east: 68
+
+7. TOP TRIGRAMS
+----------------------------------------
+  july september 2025: 184
+  foreign affairs bulletin: 180
+  affairs bulletin july: 178
+  bulletin july september: 178
+  jamhuri muungano tanzania: 85
+  mheshimiwa spika wizara: 77
+  jumuiya afrika mashariki: 71
+  foreign affairs east: 68
+  affairs east african: 68
+  east african cooperation: 68
+
+8. NAMED ENTITIES / KEY TERMS
+----------------------------------------
+  Tanzania: 883
+  Mheshimiwa Spika: 363
+  Wizara: 270
+  Serikali: 222
+  July: 212
+  September: 206
+  Jumuiya: 151
+  Hon: 148
+  Jamhuri: 146
+  Umoja: 131
+  Afrika: 113
+  He: 107
+  Afrika Mashariki: 93
+  Muungano: 88
+  Shilingi: 88
+  China: 86
+  Rais: 82
+  Africa: 77
+  Dr: 77
+  Salaam: 74
+  Dar: 73
+  Foreign Affairs: 73
+  Aidha: 69
+  Zanzibar: 67
+  Bunge: 63
+  Maendeleo: 63
+  Mpango: 62
+  Ministry: 61
+  Kimataifa: 53
+  Mataifa: 52
+  Mkutano: 51
+  Marekani: 50
+  Katika: 47
+  President: 46
+  Government: 46
+  Kiswahili: 46
+  Shirika: 43
+  African: 42
+  Uganda: 41
+  Wakuu: 40
+  Kenya: 40
+  Nchi: 40
+  Taifa: 40
+  Hati: 39
+  Burundi: 38
+  Canada: 38
+  United Republic: 38
+  Mambo: 37
+  Nje: 37
+  Tukufu: 37
+  East African Cooperation: 37
+  Misri: 36
+  Aprili: 36
+  Minister: 36
+  Ushirikiano: 35
+  Japan: 35
+  Ziara: 35
+  Chuo: 34
+  During: 34
+  Desemba: 32
+  Benki: 32
+  Makubaliano: 32
+  In: 32
+  Republic: 31
+  Kwa: 31
+  Kituo: 31
+  Dola: 31
+  Machi: 30
+  Nchi Wanachama: 30
+  Agosti: 30
+  Diaspora: 30
+  Mheshimiwa Dkt: 29
+  Israel: 27
+  Pamoja: 27
+  Minister Kombo: 27
+  Rwanda: 26
+  Mkataba: 26
+  Tanzanian: 26
+  Taasisi: 25
+  Dodoma: 24
+  Oman: 23
+  Kati: 23
+  India: 23
+  Morocco: 22
+  Diplomasia: 22
+  Kiarabu: 22
+  Hungary: 22
+  Julai: 22
+  Februari: 22
+  On: 22
+  Mb: 21
+  Mhe: 21
+  Zambia: 21
+  Mei: 21
+  Biashara: 21
+  Vietnam: 21
+  Septemba: 21
+  Arusha: 21
+  It: 21
+  We: 21
+  Speaking: 21
+  Namibia: 21
+  Kombo: 21
+  Fedha: 20
+  Kongamano: 20
+  August: 20
+  Oktoba: 19
+  President Samia: 19
+  Prof: 18
+  Novemba: 18
+  Sera: 18
+  Baraza: 18
+  Balozi: 18
+  Organ: 18
+  Zimbabwe: 18
+  Maendeleo Kusini: 17
+  Malawi: 17
+  Uingereza: 17
+  Ethiopia: 17
+  Ulaya: 17
+  Sekta: 17
+  State: 17
+  Summit: 17
+  Londo: 17
+  Bw: 17
+  Kudumu: 16
+  Waziri Mkuu: 16
+  Makamu: 16
+  Kongo: 16
+  Kikanda: 16
+  Dkt: 16
+  Vice President: 16
+  Korea: 15
+  Kidemokrasia: 15
+  Watanzania: 15
+  Itifaki: 15
+  Kuendelea: 15
+  As: 15
+  Comoros: 15
+  Chumi: 15
+  Mr: 15
+  Congo: 14
+  Mwenyekiti: 14
+  Mawaziri: 14
+  Ujerumani: 14
+  Brazil: 14
+  Mashirika: 14
+  Jeshi: 14
+  Nairobi: 14
+  Afya: 14
+  Naomba: 14
+  Januari: 14
+  Hali: 14
+  She: 14
+  Mozambique: 14
+  Ambassador: 14
+  Centre: 14
+  Awamu: 13
+  Tano: 13
+  Falme: 13
+  Tume: 13
+  Kiambatisho Na: 13
+  Somalia: 13
+  Afrika Kusini: 13
+  Singapore: 13
+  African Union: 13
+  Samia Suluhu Hassan: 13
+  Commonwealth: 13
+  Kamati: 12
+  Waziri: 12
+  Viwanda: 12
+  Kilimo: 12
+  Mheshimiwa Rais: 12
+  Hadi: 12
+  Ubalozi: 12
+  Afrika
+Mashariki: 12
+  Kufuatia: 12
+  Utalii: 12
+  Forodha: 12
+  Lengo: 12
+  Madagascar: 12
+  Bodi: 12
+  John Pombe Joseph Magufuli: 12
+  East Africa: 12
+  Defence: 12
+  Member States: 12
+  Secretariat: 12
+  Ulinzi: 11
+  Usalama: 11
+  Palestina: 11
+  Vilevile: 11
+  Sudan: 11
+  Ni: 11
+  Uwekezaji: 11
+  Mafunzo: 11
+  Addis Ababa: 11
+  Mikutano: 11
+  Usafiri: 11
+  Sri Lanka: 11
+  Trade: 11
+  Heads: 11
+  Peace: 11
+  East
+African Cooperation: 11
+  Switzerland: 11
+  Ms: 11
+  Southern Africa: 10
+  Belarus: 10
+  Qatar: 10
+  Indonesia: 10
+  Dunia: 10
+  Anga: 10
+  Colombo: 10
+  Chairperson: 10
+  Politics: 10
+  Chair: 10
+  East African
+Cooperation: 10
+  Prime Minister: 10
+  For: 10
+  Permanent Secretary: 10
+  Egypt: 10
+  Democratic Republic: 9
+  South Sudan: 9
+  Utekelezaji: 9
+  Idara: 9
+  Algeria: 9
+  Maonesho: 9
+  Uvuvi: 9
+  Mfuko: 9
+  Elimu: 9
+  Masuala: 9
+  Bahari: 9
+  Kusimamia: 9
+  Mapinduzi: 9
+  Amb: 9
+  United Kingdom: 9
+  Through: 9
+  They: 9
+  At: 9
+  Meeting: 9
+  United
+Republic: 9
+  Ambassador Kombo: 9
+  Ambassador
+Mahmoud Thabit Kombo: 9
+  Kuratibu: 9
+  East African Community: 8
+  Kitaifa: 8
+  Uturuki: 8
+  Korea Kusini: 8
+  Kupitia: 8
+  Ufaransa: 8
+  Mamlaka: 8
+  Jamii: 8
+  Hospitali: 8
+  Cuba: 8
+  Sweden: 8
+  Malaysia: 8
+  Uswisi: 8
+  Hifadhi: 8
+  Kigali: 8
+  Libya: 8
+  Kampuni: 8
+  President Samia Suluhu Hassan: 8
+  Prosperity Belt: 8
+  Agenda: 8
+  Mauritius: 8
+  Botswana: 8
+  Vision: 8
+  Commerce: 8
+  East African Affairs: 8
+  Embassy: 8
+  May: 8
+  Both: 8
+  Head: 8
+  Foreign
+Affairs: 8
+  Bajeti: 7
+  Norway: 7
+  Poland: 7
+  Kamisheni: 7
+  Juni: 7
+  Pili: 7
+  Kigoma: 7
+  Napenda: 7
+  Miongoni: 7
+  Uholanzi: 7
+  Kuwait: 7
+  Ujenzi: 7
+  Miundombinu: 7
+  Saudi Arabia: 7
+  Mtangamano: 7
+  Viongozi Wakuu: 7
+  Kiuchumi: 7
+  Kampala: 7
+  Uchumi: 7
+  Siasa: 7
+  Ripoti: 7
+  Kisiasa: 7
+  Asasi: 7
+  Lesotho: 7
+  New York: 7
+  Hata: 7
+  Mazungumzo: 7
+  Watu: 7
+  Makubalino: 7
+  Railway: 7
+  The Ministry: 7
+  Cooperation: 7
+  Mahmoud Thabit Kombo: 7
+  Security Cooperation: 7
+  October: 7
+  Tanzanians: 7
+  United States: 7
+  Kombos: 7
+  Ministers: 7
+  Mkoa: 7
+  Habari: 6
+  Mwenyezi Mungu: 6
+  Katibu Mkuu: 6
+  Jimbo: 6
+  Viongozi: 6
+  Mwaka: 6
+  Hivyo: 6
+  Nishati: 6
+  Chuo Kikuu: 6
+  Australia: 6
+  Soko: 6
+  Iran: 6
+  Huduma: 6
+  Mwanza: 6
+  Muswada: 6
+  Sheria: 6
+  Usimamizi: 6
+  Ziwa Victoria: 6
+  Mradi: 6
+  Haki: 6
+  Binadamu: 6
+  Fungamano: 6
+  London: 6
+  Urusi: 6
+  Mkenda: 6
+  Kiongozi: 6
+  Member: 6
+  Cosato Chumi: 6
+  Canadian: 6
+  Understanding: 6
+  Industry: 6
+  Years: 6
+  Director: 6
+  Minister
+Kombo: 6
+  South Africa: 6
+  John Pombe
+Joseph Magufuli: 6
+  Uanzishwaji: 6
+  Wakati: 6
+  Non: 5
+  Mipango: 5
+  Waheshimiwa Wabunge: 5
+  Msumbiji: 5
+  Mheshimiwa Makamu: 5
+  Konseli Kuu: 5
+  Matumizi Mengineyo: 5
+  Makongamano: 5
+  Natoa: 5
+  Majadiliano: 5
+  Finland: 5
+  Italia: 5
+  Maliasili: 5
+  Wigo: 5
+  Programu: 5
+  Migogoro: 5
+  Katiba: 5
+  Hindi: 5
+  Ujumbe: 5
+  Maendeleo Endelevu: 5
+  Prince William: 5
+  Syria: 5
+  Mgogoro: 5
+  Yemen: 5
+  Kusini: 5
+  Mikutano Arusha: 5
+  Julius Nyerere: 5
+  Red Cross: 5
+  Kufuatilia: 5
+  Kumbukumbu: 5
+  Belt: 5
+  People: 5
+  To: 5
+  Randeep Sarai: 5
+  Cyprus: 5
+  Southern African Development Community: 5
+  Upon: 5
+  Deputy Minister: 5
+  Ambassador Mahmoud Thabit Kombo: 5
+  Vice President Mpango: 5
+  Beijing: 5
+  Security Council: 5
+  Technology: 5
+  Office: 5
+  Investment: 5
+  Southern African Development
+Community: 5
+  Memoranda: 5
+  Grenada: 5
+  Dennis Londo: 5
+  France: 5
+  Their: 5
+  Tanga: 5
+  Somali: 5
+  Wanadiplomasia: 5
+  Mpito: 5
+  Mkurugenzi: 5
+  Shule: 5
+  Windhoek: 5
+  Any: 5
+  Africa Cooperation: 4
+  Development: 4
+  Darfur: 4
+  Refugees: 4
+  United Nations Interim Force: 4
+  Lebanon: 4
+  Matumizi: 4
+  Madola: 4
+  Nachukua: 4
+  Hii: 4
+  Moja: 4
+  Denmark: 4
+  Moyo: 4
+  Ireland: 4
+  Malta: 4
+  Serengeti: 4
+  Ushuru: 4
+  Ubelgiji: 4
+  Mkakati: 4
+  Uchaguzi: 4
+  Pretoria: 4
+  Comoro: 4
+  Angola: 4
+  Euro: 4
+  Mapinduzi Zanzibar: 4
+  Hatua: 4
+  Baraza Kuu: 4
+  John Pombe Joseph
+Magufuli: 4
+  Malengo: 4
+  Sayansi: 4
+  Mikataba: 4
+  Orodha: 4
+  Sudan Kusini: 4
+  Marais: 4
+  Watumishi: 4
+  Pakistan: 4
+  Thailand: 4
+  Sekta Binafsi: 4
+  Discussions: 4
+  November: 4
+  Forum: 4
+  United Nations: 4
+  Ambassador Said Shaib Mussa: 4
+  Secretary: 4
+  International Development: 4
+  Samia
+Suluhu Hassan: 4
+  Assembly: 4
+  Our: 4
+  East African
+Community: 4
+  Partner States: 4
+  Comorian: 4
+  Spain: 4
+  Since: 4
+  Commission: 4
+  With: 4
+  From: 4
+  Vice President Dr: 4
+  Education: 4
+  Majaliwa: 4
+  Agriculture: 4
+  Musongati: 4
+  Port: 4
+  Energy: 4
+  Science: 4
+  April: 4
+  By Koleta Njelekela: 4
+  Minister Sarai: 4
+  Nigeria: 4
+  Health: 4
+  Tshs: 4
+  American: 4
+  Edition: 4
+  European Union: 4
+  Women: 4
+  June: 4
+  Day: 4
+  Foreign Policy: 4
+  February: 4
+  Samia Suluhu
+Hassan: 4
+  Diplomacy: 4
+  Mwakatobe: 4
+  Kutafuta: 4
+  Mheshimiwa Samia Suluhu Hassan: 4
+  Ndege: 4
+  Mwenendo: 4
+  Mifugo: 4
+  Mawasiliano: 4
+  Makao Makuu: 4
+  Utalii Tanzania: 4
+  New Delhi: 4
+  Utafiti: 4
+  Nchi
+Wanachama: 4
+  Mpango Kazi: 4
+  Shirikisho: 4
+  Nichukue: 4
+  Certification: 4
+  Common Market: 3
+  Food: 3
+  Internationale Zusammenarbeit: 3
+  Intergovernmental Authority: 3
+  Mt: 3
+  Teknolojia: 3
+  United Nations African Union Mission: 3
+  Abyei: 3
+  Naibu Waziri: 3
+  Amina: 3
+  Mheshimiwa
+Rais: 3
+  Pia: 3
+  Ukimwi: 3
+  Mombasa: 3
+  Dubai: 3
+  Kutofungamana: 3
+  Upande: 3
+  Amani: 3
+  Kulinda Amani: 3
+  Changamoto: 3
+  Ushiriki: 3
+  Wananchi: 3
+  Timu: 3
+  Miradi: 3
+  Baada: 3
+  Hispania: 3
+  Masoko: 3
+  Nitumie: 3
+  Kutokana: 3
+  Jakaya Kikwete: 3
+  Pemba: 3
+  Global Fund: 3
+  New
+Zealand: 3
+  Mapitio: 3
+  Kitanzania: 3
+  Takwimu: 3
+  Jean: 3
+  Eneo Huru: 3
+  Bidhaa: 3
+  Utawala Bora: 3
+  Mheshimiwa Paul Kagame: 3
+  Rasimu: 3
+  Kujenga: 3
+  Ushauri: 3
+  Rushwa: 3
+  Bi: 3
+  Dharura: 3
+  Utamaduni: 3
+  Mkurugenzi Mkuu: 3
+  Senegal: 3
+  Wakimbizi: 3
+  Mjukuu: 3
+  Malkia: 3
+  Juhudi: 3
+  Ili: 3
+  Hivi: 3
+  Uchaguzi Mkuu: 3
+  Kaskazini: 3
+  Kujitathmini Kiutawala Bora Barani Afrika: 3
+  Ofisi: 3
+  Utumishi: 3
+  Taratibu: 3
+  Shahada: 3
+  Uzamili: 3
+  Mabalozi: 3
+  Austria: 3
+  New Zealand: 3
+  Foundation: 3
+  International Federation: 3
+  Red Crescent Societies: 3
+  Mifuko: 3
+  Heshima: 3
+  Kuongeza: 3
+  Mahakama: 3
+  Shillingi: 3
+  Kidiplomasia: 3
+  Jinsia: 3
+  Wazee: 3
+  Watoto: 3
+  Road: 3
+  Hoteli: 3
+  The United Republic: 3
+  First: 3
+  Southern African: 3
+  Ambassador Mindi Kasiga: 3
+  Malabo: 3
+  Equatorial Guinea: 3
+  Ministerial Committee: 3
+  Philip Isdor Mpango: 3
+  Antananarivo: 3
+  Furthermore: 3
+  President Dr: 3
+  Session: 3
+  Uvinza: 3
+  Let: 3
+  African
+Union: 3
+  Implementation: 3
+  Union: 3
+  Honour: 3
+  Loss: 3
+  Damage Fund: 3
+  Sub: 3
+  Deputy Minister Chumi: 3
+  Philip Mpango: 3
+  Joint: 3
+  Following: 3
+  Luanda: 3
+  Nyerere: 3
+  State House: 3
+  Joint Permanent Commission: 3
+  According: 3
+  President Mwinyi: 3
+  Sarai: 3
+  Economy: 3
+  Prime Minister Majaliwa: 3
+  African Continental Free Trade Area: 3
+  Standard Gauge Railway: 3
+  Malagarasi: 3
+  Residence: 3
+  All: 3
+  Independence: 3
+  The Minister: 3
+  Aligned Movement: 3
+  East African: 3
+  Chama Cha Mapinduzi: 3
+  Africa Department: 3
+  Mrs: 3
+  General: 3
+  Security: 3
+  International Cooperation: 3
+  King: 3
+  Swahili: 3
+  For Tanzania: 3
+  Tourism: 3
+  Opening: 3
+  March: 3
+  Council: 3
+  Treaty: 3
+  Delegates: 3
+  Experts: 3
+  Executive Secretary: 3
+  Inter: 3
+  Charter: 3
+  Isaka: 3
+  Acting Director: 3
+  Planning: 3
+  Finance: 3
+  Cape Town: 3
+  Ambassador Mahmoud Thabit
+Kombo: 3
+  Kenyan: 3
+  Hence: 3
+  Stockholm: 3
+  English: 3
+  Cameroon: 3
+  Ikulu: 3
+  Sahrawi: 3
+  Sahara Magharibi: 3
+  Kulinda: 3
+  Majeshi: 3
+  Spika: 3
+  Kikao: 3
+  Zoezi: 3
+  Polisi: 3
+  Ranchi: 3
+  Tuzo: 3
+  Kassim Majaliwa Majaliwa: 3
+  Viwanja: 3
+  Mheshimiwa
+Dkt: 3
+  Hafez Ghanem: 3
+  Adesina: 3
+  Himaya Moja: 3
+  Kutoa Huduma: 3
+  Dawa: 3
+  Sanaa: 3
+  Uenyekiti: 3
+  Afrika
+Kusini: 3
+  Mtawala: 3
+  Cambridge: 3
+  Certificate: 3
+  Malaba: 3
+  Rehabilitation: 3
+  Feasibility: 3
+  Eastern: 2
+  Green Climate Fund: 2
+  Global Environment Facility: 2
+  The Deutsche Gesellschaft: 2
+  Global Partnership: 2
+  Effective
+Development Cooperation: 2
+  International Atomic Energy Agency: 2
+  International Labour Organization: 2
+  International Monetary Fund: 2
+  International Organization: 2
+  Migration
+Indian Ocean Rim Association: 2
+  Julius Nyerere International Convention
+Centre
+Kenya Commercial Bank: 2
+  Korea International Cooperation Agency: 2
+  Least Developed Countries Fund: 2
+  Central
+African Republic: 2
+  Upungufu: 2
+  Kinga Mwilini: 2
+  United Nations Development Progamme
+United Nations Development Assistance
+Plan: 2
+  United Nations Environment Progamme: 2
+  United Nations Educational Scientific: 2
+  Cultural Organization: 2
+  United Nations Population Fund: 2
+  United Nations Human Settlement
+Programme: 2
+  United Nations High Commission: 2
+  United Nations Children: 2
+  Emergency
+Fund: 2
+  United Nations International Criminal
+Tribunal: 2
+  United Nations Industrial Development
+Organization: 2
+  United Nations Interim Security Force: 2
+  United Nations Mission: 2
+  Voice: 2
+  America: 2
+  World Wildlife Fund: 2
+  Taarifa: 2
+  Mheshimiwa
+Kassim Majaliwa Majaliwa: 2
+  Vitengo: 2
+  Kuchaguliwa: 2
+  Mjumbe Maalum: 2
+  Chakula: 2
+  Kadhalika: 2
+  Mchango: 2
+  Kawaida: 2
+  Mfuko Mkuu: 2
+  Kinshasa: 2
+  Baadhi: 2
+  Korea
+Kusini: 2
+  Jumla: 2
+  Febuari: 2
+  Rukwa: 2
+  Shinyanga: 2
+  Manyara: 2
+  Chakula Duniani: 2
+  Uhusiano: 2
+  Jiji: 2
+  Benjamin Mkapa: 2
+  Malaria: 2
+  Tangu: 2
+  Wadau: 2
+  Ufundi: 2
+  Nafurahi: 2
+  Mbuga: 2
+  Jedwali: 2
+  Kampeni: 2
+  Claude Juncker: 2
+  Usuluhishi: 2
+  Uzalishaji: 2
+  Mazingira: 2
+  Tatu: 2
+  Andiko: 2
+  Kusafiria: 2
+  Utoaji: 2
+  Mheshimiwa
+Samia Suluhu Hassan: 2
+  Nchi Zinazopakana: 2
+  Mheshimiwa Kassim
+Majaliwa Majaliwa: 2
+  Kitaasisi: 2
+  Mifumo: 2
+  Madhumuni: 2
+  Paris: 2
+  Ajenda: 2
+  Nyumba: 2
+  Head Inc: 2
+  Barani Afrika: 2
+  Sudan
+Kusini: 2
+  Rasi: 2
+  Ukuaji: 2
+  Ardhi: 2
+  Kushiriki: 2
+  Makao
+Makuu: 2
+  Umma: 2
+  Jijini Dar: 2
+  Semina: 2
+  Wawakilishi: 2
+  Saudi
+Arabia: 2
+  Sri: 2
+  Lanka: 2
+  Uhispania: 2
+  Ureno: 2
+  Investment Climate Facility: 2
+  The Association: 2
+  The Belinda: 2
+  Bill: 2
+  International Committee: 2
+  Medecins Sans Frontieres: 2
+  Misaada: 2
+  Kiraia: 2
+  Wizarani: 2
+  Balozini: 2
+  Tanzania
+Khartoum: 2
+  Bukoba: 2
+  Utangazaji: 2
+  Records: 2
+  Agreed
+Minutes: 2
+  Palestine: 2
+  Standard Gauge
+Railway: 2
+  News: 2
+  Nov: 2
+  Utalii Zanzibar: 2
+  Tanzania Bara: 2
+  Adolf Mkenda: 2
+  President Xi Jinping: 2
+  Plan: 2
+  Second: 2
+  Third: 2
+  Foreign Affairs Bulletin: 2
+  Vol: 2
+  Official Statements: 2
+  High: 2
+  Economic Diplomacy: 2
+  Constantinos Kombos: 2
+  Ambassadors: 2
+  High Commissioners: 2
+  In September: 2
+  Regional Economic
+Communities: 2
+  Working Together: 2
+  Ignite
+Regional Integration: 2
+  In August: 2
+  And: 2
+  United Nations
+General Assembly: 2
+  Col: 2
+  Rtd: 2
+  Kembo Campbell Mohadi: 2
+  Democratic
+Republic: 2
+  Independent National Electoral Commission: 2
+  Ambassador Dr: 2
+  Ushirikiano Imara: 2
+  Sectoral Council: 2
+  Community: 2
+  Moroni: 2
+  Guest: 2
+  President Assoumani: 2
+  Comoros Defence Forces: 2
+  President Azali Assoumani: 2
+  Representing: 2
+  Second Africa Climate Summit: 2
+  Without: 2
+  Tanzania Vision: 2
+  Saharan Africa: 2
+  Seville: 2
+  The Vice President: 2
+  Senior Officials Meeting: 2
+  Extraordinary Summits: 2
+  Electoral Observation Missions: 2
+  Anne Semamba Makinda: 2
+  Speaker: 2
+  National Assembly: 2
+  Mission: 2
+  Seychelles: 2
+  Progress: 2
+  Panel: 2
+  Southern
+Africa: 2
+  Chairship: 2
+  Pan: 2
+  Zimbabwean: 2
+  Vice President Mohadi: 2
+  Emmerson Mnangagwa: 2
+  Solidarity: 2
+  Justice: 2
+  By Koleta Njelekela
+The Vice President: 2
+  Philip Isdor
+Mpango: 2
+  Russia: 2
+  Reporting: 2
+  International
+Development: 2
+  High Commissioner: 2
+  Kassim Majaliwa: 2
+  Labour: 2
+  Alexander Turchin: 2
+  Additionally: 2
+  Sixth Phase Government: 2
+  Tanzanian Government: 2
+  The Prime Minister: 2
+  Likewise: 2
+  Regarding: 2
+  Her Excellency Dr: 2
+  The Uvinza: 2
+  President Ndayishimiye: 2
+  African Development Bank: 2
+  Investment Forum: 2
+  Mitchell: 2
+  Venezuela: 2
+  Biteko: 2
+  However: 2
+  East African Cooperation Hon: 2
+  Together: 2
+  Project: 2
+  Sandeep Sarai: 2
+  Lindi: 2
+  Affaires: 2
+  Sisi: 2
+  Certificates: 2
+  East
+African Community: 2
+  Tobias: 2
+  The Deputy Minister: 2
+  Ambassador Mussa: 2
+  Strengthening Tanzania: 2
+  The King: 2
+  United Nations General Assembly: 2
+  East: 2
+  Deputy
+Minister: 2
+  Sustainable
+Development Goals: 2
+  Swiss: 2
+  Tanzania Chamber: 2
+  Under: 2
+  Rwandan: 2
+  King Mohamed: 2
+  Cosato
+Chumi: 2
+  Doha: 2
+  Among: 2
+  Balakrishnan: 2
+  Tanzania Investment: 2
+  Special Economic Zones Authority: 2
+  Tokyo International Conference: 2
+  African Heads: 2
+  The Summit: 2
+  African Union Commission: 2
+  World Bank: 2
+  Mining: 2
+  Healthcare: 2
+  Transport: 2
+  Japanese: 2
+  Data: 2
+  As Tanzania: 2
+  Kyrgyz Republic: 2
+  Kyrgyzstan: 2
+  Biharamulo District: 2
+  Over: 2
+  His: 2
+  Regional Economic Communities: 2
+  Co: 2
+  Immigration: 2
+  Human: 2
+  Peoples: 2
+  Rights: 2
+  Food Sovereignty: 2
+  Member
+States: 2
+  Babiker: 2
+  General
+Assembly: 2
+  Organ Troika: 2
+  Assistant
+Director: 2
+  Ms Maduhu: 2
+  Level: 2
+  Status: 2
+  Ambassador
+Stephen Mbundi: 2
+  Bank: 2
+  Prevention: 2
+  Committee: 2
+  Duma Boko: 2
+  President Samia Suluhu
+Hassan: 2
+  The Vice
+President: 2
+  Central: 2
+  Agro: 2
+  South: 2
+  Medical Stores Department: 2
+  Concluding: 2
+  Junaibi: 2
+  Also: 2
+  Department: 2
+  African Peer Review Mechanism: 2
+  Administration: 2
+  Jakaya Mrisho Kikwete: 2
+  Promoting Global Health: 2
+  Muhimbili University: 2
+  Allied Sciences: 2
+  Building: 2
+  Ellen
+Maduhu: 2
+  Salim Ahmed Salim Centre: 2
+  Mikumi National Park: 2
+  Mikumi: 2
+  Ambassador Saidi Yakubu: 2
+  Ambassador Yakubu: 2
+  Section: 2
+  South
+Sudan: 2
+  Nordic: 2
+  Suzan Kaganda: 2
+  British King: 2
+  Baton: 2
+  Commonwealth Games: 2
+  Nje Sports: 2
+  By Teodos Komba
+Deputy Minister: 2
+  Jacob Nduye: 2
+  Managing Director Ms: 2
+  International Fund: 2
+  Mheshimiwa Kassim Majaliwa Majaliwa: 2
+  Waziri
+Mkuu: 2
+  Ilani: 2
+  Wenyeviti: 2
+  Waheshimiwa
+Wabunge: 2
+  Itakumbukwa: 2
+  Kenneth: 2
+  Kuwepo: 2
+  Mashariki: 2
+  Misheni: 2
+  Geneva: 2
+  Tanzania Lusaka: 2
+  Dira: 2
+  Kisekta: 2
+  Kiwanda: 2
+  Simiyu: 2
+  Ali Mohamed Shein: 2
+  Mheshimiwa Lee Nak: 2
+  Kaskazini Unguja: 2
+  Jukwaa: 2
+  Katika
+Mkutano: 2
+  Usafirishaji: 2
+  Magereza: 2
+  Ruvu: 2
+  Unguja: 2
+  Wilaya: 2
+  Umeme: 2
+  Bonde: 2
+  Rufiji: 2
+  Kirusi: 2
+  Asia: 2
+  Ngorongoro: 2
+  Kale: 2
+  Pwani: 2
+  Sheikh Aimen
+Ahmed Al Hosni: 2
+  Kuanza: 2
+  Hoima: 2
+  Uchumi Bahari: 2
+  Chakula
+Duniani: 2
+  Wakala: 2
+  Msalato: 2
+  Abebe Aemro Selassie: 2
+  Dunia Kanda: 2
+  Kanda: 2
+  Ghanem: 2
+  John
+Pombe Joseph Magufuli: 2
+  Akinwumi Adesina: 2
+  Houngbo: 2
+  Gilbert Houngbo: 2
+  Agricultural Development: 2
+  Mauzo: 2
+  Namanga: 2
+  Barabara: 2
+  Bugarama: 2
+  Makebuko: 2
+  Kikosi Kazi: 2
+  Kitengo: 2
+  Havana: 2
+  Lubumbashi: 2
+  Guangzhou: 2
+  Uwakilishi: 2
+  Seattle: 2
+  Chakechake Pemba: 2
+  Nyumba Tanzania: 2
+  Global: 2
+  Swedish Sub: 2
+  Vienna: 2
+  Mahusiano: 2
+  Mheshimiwa Dk: 2
+  Ali Mohamed
+Shein: 2
+  Mheshimiwa Kassim Majaliwa
+Majaliwa: 2
+  Waheshimiwa Marais Wastaafu: 2
+  Nguvu: 2
+  Kujitathmini
+Kiutawala Bora Barani Afrika: 2
+  Demokrasia: 2
+  Utendaji: 2
+  Miaka Mitano: 2
+  Stashahada: 2
+  Tunisia: 2
+  Kukamilisha Sera: 2
+  Kutekeleza Mkataba: 2
+  Eldoret: 2
+  Guangxi: 2
+  Mapato Tanzania: 2
+  Drugs Authority: 2
+  Analysis: 2
+  Tanzania Foods: 2
+  Authorities: 2
+  Standards: 2
+  Ministries: 2
+  Uganda Tanzania During: 2
+  Sectoral  Committee: 2
+  Calibration Certificate: 2
+  Construction: 2
+  Mchuchuma: 2
+  Tabora: 2
+  Procurement: 2
+  Saratani: 2
+  Michezo: 2
+  Kamusi: 2
+  Kingereza: 2
+  Vitabu: 2
+  Kulia: 2
+  Palamagamba Kabudi: 2
+  Press Release: 2
+  Documents: 2
+  Country: 2
+
+9. DOCUMENT SIMILARITY
+----------------------------------------
+  Average Similarity: 0.1634
+  Matrix Shape: (6, 6)
+
+10. SENTIMENT INDICATORS
+----------------------------------------
+  Sentiment Ratio: 26.72
+  (Positive: 855, Negative: 31)
+
+  Positive Words:
+    cooperation: 303
+    development: 251
+    strengthen: 66
+    growth: 43
+    partnership: 42
+    enhance: 31
+    prosperity: 28
+    progress: 27
+    innovation: 20
+    improve: 17
+
+  Negative Words:
+    conflict: 17
+    risk: 5
+    crisis: 4
+    issue: 2
+    problem: 1
+    challenge: 1
+    concern: 1
+

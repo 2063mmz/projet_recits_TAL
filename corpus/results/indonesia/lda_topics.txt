@@ -1,0 +1,65 @@
+Country: indonesia
+Method: LDA Topic Modeling
+Coherence Score: 0.4884
+Number of Topics: 5
+
+Topic 0:
+  pada: 0.0108
+  asean: 0.0078
+  berita: 0.0061
+  untuk: 0.0060
+  tahun: 0.0059
+  data: 0.0058
+  kbri: 0.0055
+  wni: 0.0054
+  dari: 0.0049
+  kerja: 0.0045
+
+Topic 1:
+  untuk: 0.0108
+  pada: 0.0089
+  kerja: 0.0071
+  2021: 0.0070
+  sama: 0.0063
+  dari: 0.0060
+  sebagai: 0.0054
+  asean: 0.0049
+  2024: 0.0047
+  kawasan: 0.0046
+
+Topic 2:
+  obj: 0.0283
+  endobj: 0.0282
+  00000: 0.0172
+  556: 0.0161
+  type: 0.0116
+  stream: 0.0093
+  65535: 0.0081
+  endstream: 0.0080
+  length: 0.0073
+  flatedecode: 0.0073
+
+Topic 3:
+  untuk: 0.0130
+  dari: 0.0108
+  pada: 0.0085
+  tiongkok: 0.0076
+  kawasan: 0.0069
+  tahun: 0.0065
+  dapat: 0.0061
+  juga: 0.0055
+  sebagai: 0.0054
+  oleh: 0.0048
+
+Topic 4:
+  papua: 0.0107
+  untuk: 0.0061
+  west: 0.0055
+  2021: 0.0052
+  dari: 0.0038
+  indonesian: 0.0036
+  not: 0.0036
+  pihak: 0.0035
+  pada: 0.0034
+  their: 0.0034
+

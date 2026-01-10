@@ -1,0 +1,564 @@
+Country: morocco
+Method: Statistical Analysis (Limited Corpus)
+============================================================
+
+1. TOP WORDS BY FREQUENCY
+----------------------------------------
+  00000: 171
+  obj: 167
+  endobj: 167
+  les: 44
+  des: 38
+  stream: 34
+  une: 33
+  contents: 31
+  maroc: 28
+  dans: 25
+  mines: 22
+  dicastal: 22
+  endstream: 22
+  est: 20
+  pour: 19
+  fig: 18
+  morocco: 18
+  cette: 15
+  projet: 15
+  groupe: 15
+  chinois: 14
+  industrielle: 14
+  industrie: 13
+  par: 13
+  citic: 13
+  atlas: 13
+  page: 12
+  chine: 12
+  première: 12
+  inauguration: 12
+
+2. TOP WORDS BY TF-IDF
+----------------------------------------
+  les: 0.1785
+  mines: 0.1554
+  morocco: 0.1459
+  des: 0.1376
+  fig: 0.1281
+  une: 0.1160
+  maroc: 0.0990
+  dans: 0.0914
+  page: 0.0907
+  atlas: 0.0897
+  dicastal: 0.0885
+  est: 0.0878
+  plus: 0.0875
+  tazekka: 0.0776
+  pour: 0.0744
+  mine: 0.0731
+  meseta: 0.0688
+  chinois: 0.0651
+  00000: 0.0642
+  projet: 0.0642
+
+3. KEY PHRASES/KEYWORDS
+----------------------------------------
+  endobj obj: 97.0000
+  obj endobj: 70.0000
+  obj stream: 33.0000
+  obj contents: 31.0000
+  endstream endobj: 22.0000
+  contents endobj: 18.0000
+  citic dicastal: 11.0000
+  unité industrielle: 9.0000
+  ministre industrie: 7.0000
+  groupe chinois: 7.0000
+  anti atlas: 7.0000
+  nouveaux guides: 6.0000
+  guides géologiques: 6.0000
+  géologiques miniers: 6.0000
+  miniers maroc: 6.0000
+  maroc volume: 6.0000
+  décembre 2025: 6.0000
+  retraite ministérielle: 6.0000
+  your subscription: 6.0000
+  dicastal morocco: 6.0000
+
+4. WORD CO-OCCURRENCE (Top pairs)
+----------------------------------------
+  endobj <-> obj: 1130
+  00000 <-> 00000: 678
+  endobj <-> endobj: 352
+  obj <-> obj: 346
+  contents <-> obj: 196
+  contents <-> endobj: 196
+  obj <-> stream: 130
+  endobj <-> stream: 98
+  endobj <-> endstream: 88
+  endstream <-> obj: 70
+  contents <-> contents: 60
+  subscription <-> your: 36
+  page <-> volume: 28
+  email <-> subscription: 24
+  email <-> your: 24
+
+5. SEMANTIC CLUSTERS (PMI-based)
+----------------------------------------
+  Cluster 1: subscription, email, sent, your, link
+  Cluster 2: les, géologiques, miniers, volume, maroc, page
+  Cluster 3: une, pour, retraite
+  Cluster 4: endobj, stream, obj, endstream, contents
+
+6. TOP BIGRAMS
+----------------------------------------
+  endobj obj: 97
+  obj endobj: 70
+  obj stream: 33
+  obj contents: 31
+  endstream endobj: 22
+  contents endobj: 18
+  citic dicastal: 11
+  unité industrielle: 9
+  ministre industrie: 7
+  groupe chinois: 7
+  anti atlas: 7
+  nouveaux guides: 6
+  guides géologiques: 6
+  géologiques miniers: 6
+  miniers maroc: 6
+
+7. TOP TRIGRAMS
+----------------------------------------
+  endobj obj endobj: 42
+  obj endobj obj: 41
+  endobj obj contents: 19
+  obj contents endobj: 18
+  contents endobj obj: 18
+  endobj obj stream: 17
+  endstream endobj obj: 13
+  nouveaux guides géologiques: 6
+  guides géologiques miniers: 6
+  géologiques miniers maroc: 6
+
+8. NAMED ENTITIES / KEY TERMS
+----------------------------------------
+  Contents: 31
+  Maroc: 24
+  Cd: 19
+  La: 17
+  Le: 11
+  Morocco: 11
+  Chine: 11
+  Ed: 10
+  Tazekka: 10
+  Page: 8
+  Ministre: 8
+  Commerce: 8
+  Volume: 7
+  Les: 7
+  Industrie: 7
+  Signature: 7
+  Sa: 7
+  Dd: 7
+  Boujaada: 7
+  Rabat: 6
+  Somasteel: 6
+  Marrakech: 6
+  Atlas: 6
+  Vz: 6
+  Pa: 6
+  Nj: 6
+  Tc: 6
+  Tx: 6
+  Smara: 5
+  Europe: 5
+  Inauguration: 5
+  Zn: 5
+  Er: 5
+  Yq: 5
+  Wz: 5
+  Lg: 5
+  Fx: 5
+  Pb: 5
+  Tl: 5
+  Meseta: 5
+  Juin: 5
+  Les Nouveaux Guides: 4
+  Miniers: 4
+  Mise: 4
+  Chinese: 4
+  Moulay Hafid Elalamy: 4
+  Roi Mohammed: 4
+  Anti: 4
+  Ta: 4
+  Bou: 4
+  Division: 4
+  Cartographie: 4
+  Ju: 4
+  Fm: 4
+  Lc: 4
+  Ha: 4
+  Di: 4
+  Wg: 4
+  Eh: 4
+  Oi: 4
+  Sq: 4
+  Ep: 4
+  Oo: 4
+  Ms: 4
+  Jx: 4
+  Cx: 4
+  Eo: 4
+  Cl: 4
+  Fq: 4
+  Mf: 4
+  Rz: 4
+  Nn: 4
+  Th: 4
+  Gz: 4
+  Yp: 4
+  Jn: 4
+  Hy: 4
+  Sino: 3
+  Mr: 3
+  Plan: 3
+  Kingdom: 3
+  African: 3
+  Investissement: 3
+  Economie: 3
+  Vice: 3
+  Partager: 3
+  Lire Aussi: 3
+  Pose: 3
+  Bensouda: 3
+  Monsieur Ryad: 3
+  Monsieur Karim: 3
+  Citic Dicastal
+Newsletter: 3
+  Your: 3
+  Thank: 3
+  Eastern Anti: 3
+  Tafilalt: 3
+  Localisation: 3
+  Carte: 3
+  Zw: 3
+  Fd: 3
+  Bd: 3
+  Xg: 3
+  Wx: 3
+  Yk: 3
+  Uo: 3
+  Xm: 3
+  Vh: 3
+  Bu: 3
+  Rv: 3
+  Sw: 3
+  Lx: 3
+  Fl: 3
+  Tm: 3
+  Px: 3
+  Qy: 3
+  Rh: 3
+  Vp: 3
+  Sy: 3
+  Of: 3
+  Ck: 3
+  Up: 3
+  Mt: 3
+  Ab: 3
+  Cy: 3
+  Kq: 3
+  Oz: 3
+  Lf: 3
+  Rk: 3
+  Zk: 3
+  Qx: 3
+  Nb: 3
+  Dn: 3
+  Zo: 3
+  We: 3
+  Ox: 3
+  Yn: 3
+  Ko: 3
+  Ll: 3
+  Pe: 3
+  Vo: 3
+  El: 3
+  Yl: 3
+  Kc: 3
+  Wo: 3
+  Xr: 3
+  Ei: 3
+  Bc: 3
+  Qj: 3
+  Dl: 3
+  Yc: 3
+  Qn: 3
+  Te: 3
+  Zd: 3
+  Dc: 3
+  Vi: 3
+  Nm: 3
+  Hd: 3
+  Gx: 3
+  Jb: 3
+  Hc: 3
+  Ao: 3
+  Cj: 3
+  Fy: 3
+  Bk: 3
+  Lz: 3
+  Aj: 3
+  Rq: 3
+  Dicastal Morocco Africa: 3
+  Septembre: 3
+  Mai: 3
+  Dieu: 3
+  Google Earth: 2
+  Madrid: 2
+  European Entrepreneurs Summit: 2
+  European: 2
+  Speaking: 2
+  China: 2
+  Africa: 2
+  On: 2
+  Elalamy: 2
+  November: 2
+  Marrakech Air Show: 2
+  Commission: 2
+  Populaire: 2
+  Cette: 2
+  Une: 2
+  Avec: 2
+  The Mines: 2
+  Maider: 2
+  Touroug: 2
+  El Hamda: 2
+  Madine: 2
+  Imiter: 2
+  Tiouit: 2
+  Bouskour: 2
+  Tourza: 2
+  Has: 2
+  Precambrian: 2
+  Location: 2
+  Road: 2
+  Administrative: 2
+  Jl: 2
+  Me: 2
+  Bn: 2
+  Ve: 2
+  Nc: 2
+  Vc: 2
+  It: 2
+  Vb: 2
+  Xl: 2
+  Df: 2
+  Qk: 2
+  Kw: 2
+  Cn: 2
+  Tt: 2
+  Sd: 2
+  Am: 2
+  Nd: 2
+  Zp: 2
+  Og: 2
+  Su: 2
+  Il: 2
+  Sj: 2
+  Hp: 2
+  Pd: 2
+  Do: 2
+  Nw: 2
+  Jr: 2
+  Nq: 2
+  Fz: 2
+  Wr: 2
+  Iv: 2
+  Dr: 2
+  Db: 2
+  Pq: 2
+  Ew: 2
+  Ga: 2
+  Tu: 2
+  Ad: 2
+  Jz: 2
+  Xf: 2
+  Rf: 2
+  Hl: 2
+  Ay: 2
+  Co: 2
+  Ex: 2
+  Rn: 2
+  Gs: 2
+  Mp: 2
+  Tz: 2
+  Dw: 2
+  Vn: 2
+  Vy: 2
+  Bb: 2
+  Lw: 2
+  Ht: 2
+  Ub: 2
+  Qa: 2
+  Hf: 2
+  Ug: 2
+  Gr: 2
+  Jh: 2
+  Pv: 2
+  Mu: 2
+  Lk: 2
+  Hm: 2
+  Aq: 2
+  Jendstream: 2
+  Yg: 2
+  Ma: 2
+  Yu: 2
+  Vg: 2
+  Tk: 2
+  Gj: 2
+  Kz: 2
+  Sl: 2
+  Fj: 2
+  Gc: 2
+  Xo: 2
+  Kr: 2
+  Ls: 2
+  Gp: 2
+  Oc: 2
+  Ef: 2
+  Go: 2
+  Io: 2
+  Az: 2
+  Yw: 2
+  Mx: 2
+  Wk: 2
+  Pr: 2
+  Ly: 2
+  Qg: 2
+  Id: 2
+  Om: 2
+  Fu: 2
+  Ks: 2
+  Sp: 2
+  Uf: 2
+  Yr: 2
+  Dv: 2
+  Da: 2
+  Ac: 2
+  Rx: 2
+  Vr: 2
+  Ys: 2
+  Vv: 2
+  Xx: 2
+  Sk: 2
+  Bl: 2
+  Aw: 2
+  Ue: 2
+  Jv: 2
+  Bs: 2
+  Xs: 2
+  Ae: 2
+  Fn: 2
+  Vm: 2
+  Bw: 2
+  Bx: 2
+  Fa: 2
+  Ia: 2
+  Mi: 2
+  Kd: 2
+  Yh: 2
+  Mg: 2
+  Ph: 2
+  Kg: 2
+  Wi: 2
+  Li: 2
+  Bo: 2
+  Qr: 2
+  Hn: 2
+  Ir: 2
+  Qi: 2
+  Wu: 2
+  As: 2
+  Eu: 2
+  Gi: 2
+  Jd: 2
+  Hs: 2
+  Wf: 2
+  Ya: 2
+  Tq: 2
+  Hr: 2
+  Jp: 2
+  Rd: 2
+  Uz: 2
+  Em: 2
+  Tr: 2
+  Pz: 2
+  Zt: 2
+  Xh: 2
+  Cw: 2
+  Du: 2
+  Or: 2
+  Edf: 2
+  Is: 2
+  Sx: 2
+  Zq: 2
+  Gl: 2
+  De: 2
+  Ej: 2
+  Ea: 2
+  Cr: 2
+  Ce: 2
+  Ge: 2
+  Haut Atlas: 2
+  Southern Meseta: 2
+  Benguerir: 2
+  Youssoufia: 2
+  Draa Sfar: 2
+  Hajjar: 2
+  Hercynian: 2
+  One Road: 2
+  One Belt: 2
+  Industrielle: 2
+  Le Groupe: 2
+  Aluminium: 2
+  Aujourd: 2
+  Novembre: 2
+  Citic Dicastal: 2
+  Badr Lahmoudi: 2
+  Directeur: 2
+  Dicastal: 2
+  Le Maroc: 2
+  Quelques: 2
+  Juillet: 2
+  Convention: 2
+  Production: 2
+  Moyen: 2
+  Bennouna: 2
+  Hoepffner: 2
+  Namurien: 2
+  Tuf: 2
+  Suter: 2
+  Massif: 2
+  Atlantic Free Zone: 2
+  Kenitra: 2
+
+9. DOCUMENT SIMILARITY
+----------------------------------------
+  Average Similarity: 0.1004
+  Matrix Shape: (9, 9)
+
+10. SENTIMENT INDICATORS
+----------------------------------------
+  Sentiment Ratio: 13.00
+  (Positive: 13, Negative: 0)
+
+  Positive Words:
+    growth: 3
+    cooperation: 2
+    development: 2
+    innovation: 2
+    partnership: 1
+    increase: 1
+    opportunity: 1
+    positive: 1
+
+  Negative Words:
+

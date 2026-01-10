@@ -1,0 +1,546 @@
+Country: uganda
+Method: Statistical Analysis (Limited Corpus)
+============================================================
+
+1. TOP WORDS BY FREQUENCY
+----------------------------------------
+  uganda: 365
+  2024: 71
+  development: 71
+  international: 70
+  tourism: 68
+  foreign: 67
+  economic: 64
+  their: 63
+  affairs: 58
+  ugandan: 56
+  its: 54
+  minister: 45
+  our: 43
+  cooperation: 43
+  china: 42
+  support: 41
+  ministry: 40
+  africa: 40
+  cultural: 39
+  hon: 39
+  trade: 39
+  national: 39
+  diplomacy: 37
+  global: 36
+  diaspora: 36
+  embassy: 35
+  growth: 35
+  new: 31
+  mofa: 31
+  kampala: 31
+
+2. TOP WORDS BY TF-IDF
+----------------------------------------
+  uganda: 0.7579
+  development: 0.1556
+  2024: 0.1463
+  international: 0.1459
+  foreign: 0.1456
+  tourism: 0.1416
+  economic: 0.1400
+  their: 0.1337
+  affairs: 0.1253
+  ugandan: 0.1186
+  its: 0.1128
+  our: 0.0956
+  minister: 0.0949
+  cooperation: 0.0922
+  support: 0.0914
+  china: 0.0888
+  national: 0.0861
+  ministry: 0.0850
+  diaspora: 0.0839
+  africa: 0.0831
+
+3. KEY PHRASES/KEYWORDS
+----------------------------------------
+  foreign affairs: 42.0000
+  ministry foreign: 31.0000
+  economic growth: 17.0000
+  uganda airlines: 17.0000
+  september 2024: 16.0000
+  june 2024: 14.0000
+  tête têtetête: 14.0000
+  têtetête tête: 14.0000
+  public diplomacy: 13.0000
+  uganda embassy: 11.0000
+  gen odongo: 10.0000
+  minister state: 10.0000
+  missions abroad: 10.0000
+  jinja city: 10.0000
+  united nations: 9.0000
+  sustainable development: 9.0000
+  emphasized importance: 9.0000
+  east african: 9.0000
+  uganda tourism: 9.0000
+  public service: 9.0000
+
+4. WORD CO-OCCURRENCE (Top pairs)
+----------------------------------------
+  affairs <-> foreign: 98
+  uganda <-> uganda: 74
+  tourism <-> uganda: 66
+  foreign <-> ministry: 62
+  affairs <-> ministry: 62
+  development <-> uganda: 58
+  missions <-> uganda: 58
+  tête <-> têtetête: 56
+  embassy <-> uganda: 56
+  2024 <-> uganda: 54
+  its <-> uganda: 50
+  hon <-> minister: 48
+  coffee <-> uganda: 48
+  international <-> uganda: 46
+  foreign <-> uganda: 44
+
+5. SEMANTIC CLUSTERS (PMI-based)
+----------------------------------------
+  Cluster 1: international, delegation, tourism, its, commitment, affairs, 2024, abroad
+  Cluster 2: minister, hon, affairs, uganda
+
+6. TOP BIGRAMS
+----------------------------------------
+  foreign affairs: 42
+  ministry foreign: 31
+  economic growth: 17
+  uganda airlines: 17
+  september 2024: 16
+  june 2024: 14
+  tête têtetête: 14
+  têtetête tête: 14
+  public diplomacy: 13
+  uganda embassy: 11
+  gen odongo: 10
+  minister state: 10
+  missions abroad: 10
+  jinja city: 10
+  united nations: 9
+
+7. TOP TRIGRAMS
+----------------------------------------
+  ministry foreign affairs: 31
+  tête têtetête tête: 14
+  arts culturearts culture: 9
+  jinja city queens: 9
+  department public diplomacy: 7
+  joint permanent commission: 7
+  minister foreign affairs: 6
+  economic commercial diplomacy: 6
+  click learn happeningwhat: 6
+  learn happeningwhat happening: 6
+
+8. NAMED ENTITIES / KEY TERMS
+----------------------------------------
+  Uganda: 249
+  Ugandan: 40
+  China: 34
+  Hon: 34
+  Ministry: 31
+  Foreign Affairs: 30
+  Amb: 27
+  September: 27
+  June: 23
+  In: 23
+  Kampala: 21
+  Ugandans: 19
+  We: 19
+  Minister: 19
+  Africa: 18
+  He: 18
+  Gen: 14
+  Ms: 14
+  Uganda Airlines: 14
+  King: 14
+  Dr: 13
+  Compiled: 13
+  Mr: 13
+  Entebbe: 13
+  Department: 12
+  It: 12
+  Photos: 12
+  London: 11
+  State: 10
+  They: 10
+  Diplomacy: 10
+  Arusha: 10
+  Kings: 10
+  Republic: 9
+  Public Diplomacy: 8
+  Head: 8
+  Learn: 8
+  With: 8
+  She: 8
+  Courtesy Photos: 8
+  Abuja: 8
+  Tooro: 8
+  Paris: 7
+  Additionally: 7
+  Geneva: 7
+  During: 7
+  The Ministry: 7
+  At: 7
+  Rtd: 7
+  Uganda Missions: 7
+  Click: 7
+  New York: 7
+  On: 6
+  Odongo: 6
+  One: 6
+  Both: 6
+  By: 6
+  Uganda Embassy: 6
+  Ambassador: 6
+  Nigeria: 6
+  What: 6
+  Happening: 6
+  Embassy: 6
+  Somalia: 6
+  Prof: 6
+  Turkey: 6
+  African: 6
+  Chinese: 6
+  Culture: 6
+  Beijing: 6
+  Guangzhou: 6
+  Press: 6
+  Zambia: 6
+  Cup: 6
+  From: 5
+  The Minister: 5
+  Summit: 5
+  General: 5
+  Director: 5
+  Seoul: 5
+  Uganda Tourism Board: 5
+  Uganda Martyrs: 5
+  Christianity: 5
+  Zimbabwe: 5
+  Missions Abroad: 5
+  Asia: 5
+  People: 5
+  Arts: 5
+  Lusaka: 5
+  President: 5
+  Commercial: 5
+  Tooro Kingdom: 5
+  Kilikumwino: 5
+  Non: 4
+  Aligned Movement: 4
+  Sports: 4
+  Editor: 4
+  Furthermore: 4
+  Any: 4
+  Development: 4
+  Oryem Henry Okello: 4
+  International Affairs: 4
+  John Mulimba: 4
+  East African Community: 4
+  United Nations: 4
+  Maj: 4
+  Ambassadors: 4
+  Richard Kabonero: 4
+  East African: 4
+  Martyrs: 4
+  Rome: 4
+  Germany: 4
+  According: 4
+  Istanbul: 4
+  Tourism: 4
+  Deputy Director: 4
+  Photo: 4
+  Missions: 4
+  Mozambique Joint Permanent Commission: 4
+  Harare: 4
+  Session: 4
+  Delegation: 4
+  Courtesy Photo: 4
+  Indonesia: 4
+  Mission: 4
+  Bangkok: 4
+  Thailand: 4
+  Goma: 4
+  Brussels Airlines: 4
+  Rwenzori: 4
+  The Source: 4
+  Life: 4
+  Buganda: 4
+  Kasese: 4
+  Jinja City Queens: 4
+  Chairmanship: 3
+  Diplomatic: 3
+  Welcome: 3
+  Foreign
+Affairs: 3
+  Trade: 3
+  Future: 3
+  Secretary: 3
+  South Korea: 3
+  Korea: 3
+  Understanding: 3
+  Korean: 3
+  Foreign Ministers: 3
+  Jadrine Komukyeya: 3
+  Queen Elizabeth National Park: 3
+  Organized: 3
+  Feature Stories: 3
+  Commercial Diplomacy: 3
+  Bagiire Vincent Waiswa: 3
+  Permanent Secretary: 3
+  The Permanent Secretary: 3
+  Our Feature: 3
+  Martyrs Day: 3
+  Johannesburg: 3
+  St: 3
+  Kenya: 3
+  Despite: 3
+  Brussels: 3
+  Netherlands: 3
+  Uganda Mission: 3
+  Sam Tulya: 3
+  Let: 3
+  Russia: 3
+  Vie Sociale: 3
+  Business Administration: 3
+  Established: 3
+  Executive Director: 3
+  Rt: 3
+  While: 3
+  South Sudan: 3
+  Meeting: 3
+  Tokyo: 3
+  Business Forum: 3
+  Cameroon: 3
+  General Assembly: 3
+  Finance: 3
+  October: 3
+  Speaking: 3
+  Ethiopian: 3
+  East: 3
+  His: 3
+  August: 3
+  Vietnam: 3
+  God: 3
+  Caesar: 3
+  After: 3
+  Jinja
+City Queens: 3
+  The Group: 2
+  Newsletter
+Uganda: 2
+  Culture
+Diving: 2
+  Diversity: 2
+  Somalia
+Remit: 2
+  Million
+Daily Back Home: 2
+  Foreign Affairs Uganda: 2
+  Ugandan Embassy: 2
+  Uganda Film Festival: 2
+  Public Diplomacy Department
+Margaret Awino Kafeero: 2
+  Editorial: 2
+  Team
+This: 2
+  Public
+Diplomacy: 2
+  Anniversary: 2
+  Notably: 2
+  African Continental Free Trade Area: 2
+  Tang: 2
+  Vice President Jessica Alupo: 2
+  Memoranda: 2
+  The Ugandan: 2
+  Algiers: 2
+  Foreign Affairs Hon: 2
+  Security Council: 2
+  Minister Mulimba: 2
+  Climate Change: 2
+  Sustainable Development: 2
+  Thomas Tayebwa: 2
+  Deputy Speaker: 2
+  Parliament: 2
+  Lisa Buttenheim: 2
+  Oryem: 2
+  The Ministers: 2
+  Special: 2
+  Connie Nuwagaba: 2
+  Beyond: 2
+  Peace Nankinga: 2
+  Every: 2
+  Explore Uganda: 2
+  Read: 2
+  Empowering: 2
+  Jessica Alupo: 2
+  Public: 2
+  Ring States: 2
+  Economic: 2
+  Economic Development: 2
+  Ramathan Ggoobi: 2
+  Christian: 2
+  Christians: 2
+  On June: 2
+  Charles Lwanga: 2
+  Cologne: 2
+  Fr: 2
+  Margaret Kafeero: 2
+  Diaspora Department: 2
+  Ambassador Muhindo: 2
+  Moreover: 2
+  The Embassy: 2
+  Airbus: 2
+  Civil Aviation Authority: 2
+  Europe: 2
+  Muhika: 2
+  Uganda Embassy Ankara: 2
+  Uganda Coffee: 2
+  Dubai: 2
+  The Uganda: 2
+  La Vie: 2
+  Joseph Barigye: 2
+  July: 2
+  Commerce: 2
+  My: 2
+  Learning: 2
+  Professor: 2
+  School: 2
+  Hunan University: 2
+  Our: 2
+  The Head: 2
+  Mrs: 2
+  Kafeero: 2
+  Godfrey Musinguzi: 2
+  The Uganda Film Festival: 2
+  Nyombi: 2
+  Rebecca Kadaga: 2
+  Among: 2
+  Nanziri: 2
+  Spotlight: 2
+  Photo
+Follow: 2
+  Robert Rusoke: 2
+  Rwanda: 2
+  Matayo Kyaligonza: 2
+  Burundi: 2
+  Alhajji Farid: 2
+  Kaliisa: 2
+  Brig: 2
+  Ronnie Balya: 2
+  Ring States Retreat: 2
+  Serena Hotel Kigo: 2
+  Changing Deal: 2
+  Elevate Coffee: 2
+  World Stage: 2
+  The
+Multilateral: 2
+  Uganda Delegations: 2
+  Marking Tourism: 2
+  Uganda Coffee Development Authority: 2
+  Uganda Breweries: 2
+  Addis Ababa: 2
+  Now: 2
+  Uganda Film: 2
+  Culture Market: 2
+  Details: 2
+  Do: 2
+  Jinja Queens: 2
+  Diplomatic Notes: 2
+  Art
+Director: 2
+  Ivan Koreta: 2
+  Godspeed Ivan: 2
+  Chief
+Head: 2
+  By Herbert Ssekatawa: 2
+  By Githa Oguma: 2
+  Africa Forum: 2
+  Agriculture: 2
+  Addressing: 2
+  South Centre: 2
+  Bagiire: 2
+  By Christiana Ampeire: 2
+  Centre: 2
+  Mora: 2
+  Bangladesh: 2
+  By Margaret Kafeero: 2
+  Mozambique: 2
+  Discussions: 2
+  As: 2
+  Minister Ronda: 2
+  By Githa Ogume: 2
+  Alupo: 2
+  Entebbe Airport: 2
+  Asian: 2
+  Kiwanuka: 2
+  Democratic Republic: 2
+  Congo: 2
+  Sudanese: 2
+  President
+Museveni: 2
+  Ethiopia: 2
+  Kingdom: 2
+  Entebbe International Airport: 2
+  State Minister: 2
+  Kyofatogabye: 2
+  Wabusimba Amiri: 2
+  Nautical Elixir: 2
+  Times Square: 2
+  Transport: 2
+  Col: 2
+  Philippines: 2
+  African Court: 2
+  Tanzania: 2
+  Katusiime: 2
+  Justice Gaswaga: 2
+  Consulate: 2
+  The Ugandan Embassy: 2
+  Betty Oyella Bigombe: 2
+  Hanoi: 2
+  Karamoja Cultural Festival: 2
+  Tom Butime: 2
+  Catholic Church: 2
+  But: 2
+  Karuzika: 2
+  Omusanga: 2
+  Located: 2
+  Kasubi Tombs: 2
+  Buganda Kingdom: 2
+  Technical Centre: 2
+  Njeru: 2
+  Nyafwono: 2
+
+9. DOCUMENT SIMILARITY
+----------------------------------------
+  Average Similarity: 0.7681
+  Matrix Shape: (2, 2)
+
+10. SENTIMENT INDICATORS
+----------------------------------------
+  Sentiment Ratio: 10.95
+  (Positive: 219, Negative: 19)
+
+  Positive Words:
+    development: 71
+    cooperation: 43
+    growth: 35
+    enhance: 11
+    partnership: 10
+    strengthen: 10
+    innovation: 9
+    success: 8
+    opportunity: 6
+    progress: 4
+
+  Negative Words:
+    issue: 13
+    crisis: 2
+    challenge: 2
+    decrease: 1
+    conflict: 1
+

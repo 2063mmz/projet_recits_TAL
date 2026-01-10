@@ -1,0 +1,65 @@
+Country: ethiopia
+Method: LDA Topic Modeling
+Coherence Score: 0.5693
+Number of Topics: 5
+
+Topic 0:
+  watershed: 0.0147
+  community: 0.0125
+  land: 0.0092
+  development: 0.0076
+  water: 0.0075
+  planning: 0.0072
+  management: 0.0066
+  activities: 0.0052
+  mining: 0.0051
+  areas: 0.0050
+
+Topic 1:
+  companies: 0.0187
+  leather: 0.0134
+  framework: 0.0132
+  study: 0.0095
+  sustainable: 0.0095
+  sector: 0.0083
+  sustainability: 0.0077
+  processing: 0.0076
+  textile: 0.0074
+  agro: 0.0073
+
+Topic 2:
+  your: 0.0169
+  people: 0.0100
+  use: 0.0092
+  someone: 0.0090
+  something: 0.0090
+  examples: 0.0078
+  english: 0.0075
+  american: 0.0072
+  not: 0.0059
+  one: 0.0059
+
+Topic 3:
+  seedlings: 0.0085
+  seed: 0.0081
+  not: 0.0076
+  its: 0.0074
+  africa: 0.0059
+  nursery: 0.0057
+  regional: 0.0047
+  seeds: 0.0045
+  tree: 0.0043
+  management: 0.0041
+
+Topic 4:
+  pretoria: 0.0070
+  2025: 0.0065
+  policy: 0.0062
+  peace: 0.0061
+  minister: 0.0061
+  political: 0.0052
+  getachew: 0.0046
+  not: 0.0045
+  tigray: 0.0044
+  agreement: 0.0043
+

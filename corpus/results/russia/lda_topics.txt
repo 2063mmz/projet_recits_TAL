@@ -1,0 +1,65 @@
+Country: russia
+Method: LDA Topic Modeling
+Coherence Score: 0.4178
+Number of Topics: 5
+
+Topic 0:
+  chinese: 0.0127
+  moscow: 0.0111
+  transport: 0.0090
+  not: 0.0078
+  medvedev: 0.0075
+  dmitry: 0.0072
+  billion: 0.0066
+  regular: 0.0054
+  year: 0.0053
+  years: 0.0050
+
+Topic 1:
+  not: 0.0109
+  far: 0.0079
+  programme: 0.0073
+  east: 0.0069
+  region: 0.0067
+  medvedev: 0.0049
+  federal: 0.0044
+  social: 0.0043
+  projects: 0.0041
+  one: 0.0040
+
+Topic 2:
+  sco: 0.0137
+  eurasian: 0.0132
+  council: 0.0102
+  minister: 0.0087
+  prime: 0.0080
+  union: 0.0073
+  states: 0.0065
+  heads: 0.0064
+  eaeu: 0.0051
+  mishustin: 0.0050
+
+Topic 3:
+  vladimir: 0.0163
+  not: 0.0142
+  medvedev: 0.0130
+  dmitry: 0.0122
+  putin: 0.0077
+  one: 0.0062
+  think: 0.0057
+  your: 0.0057
+  time: 0.0055
+  were: 0.0055
+
+Topic 4:
+  chinese: 0.0136
+  mishustin: 0.0125
+  mikhail: 0.0121
+  council: 0.0104
+  2023: 0.0103
+  premier: 0.0094
+  jinping: 0.0091
+  qiang: 0.0084
+  visit: 0.0082
+  dmitry: 0.0079
+

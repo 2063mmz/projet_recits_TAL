@@ -1,0 +1,65 @@
+Country: south
+Method: LDA Topic Modeling
+Coherence Score: 0.4247
+Number of Topics: 5
+
+Topic 0:
+  2022: 0.0195
+  2023: 0.0159
+  applicable: 0.0138
+  indicator: 0.0100
+  2024: 0.0099
+  rendered: 0.0072
+  covid: 0.0070
+  calculation: 0.0069
+  indicators: 0.0065
+  pandemic: 0.0064
+
+Topic 1:
+  thedircoza: 0.0093
+  gautrain: 0.0049
+  rst: 0.0043
+  dircoza: 0.0042
+  focac: 0.0033
+  nancial: 0.0027
+  zuma: 0.0027
+  sport: 0.0025
+  olympic: 0.0024
+  anc: 0.0023
+
+Topic 2:
+  erh: 0.0024
+  park: 0.0023
+  feature: 0.0021
+  org: 0.0020
+  awards: 0.0020
+  iora: 0.0019
+  ndb: 0.0017
+  music: 0.0016
+  let: 0.0016
+  fashion: 0.0016
+
+Topic 3:
+  2022: 0.0441
+  actual: 0.0210
+  2023: 0.0166
+  vote: 0.0147
+  assets: 0.0144
+  expenditure: 0.0127
+  planned: 0.0095
+  audited: 0.0093
+  statements: 0.0080
+  employees: 0.0063
+
+Topic 4:
+  ibsa: 0.0179
+  regime: 0.0104
+  anc: 0.0080
+  pandemic: 0.0049
+  covid: 0.0048
+  congress: 0.0039
+  cent: 0.0034
+  wto: 0.0032
+  racist: 0.0029
+  democracies: 0.0025
+
